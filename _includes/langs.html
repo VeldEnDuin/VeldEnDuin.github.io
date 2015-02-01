@@ -1,0 +1,12 @@
+<!-- menu for {{pgLang}} -->
+<ul id="lang">
+{% for ln in site.data.langs %}
+    <li>
+        {% if ln == pgLang %}
+            {{ ln }}
+        {% else %}
+            <a href="/{{ ln }}/" data-lang='{{ ln }}'> {{ ln }} </a>
+        {% endif %}
+    </li>
+{% endfor %}
+</ul>

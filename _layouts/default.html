@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+{% assign pgLang = 'nl' %}
+{% assign pgLink = page.url %}
+{% assign segments = pgLink | split:'/' %}
+{% assign maxloop = 0 %}
+{% for segm in segments limit:3 offset:1 %}
+  {% assign maxloop = forloop.index %}
+  {% case forloop.index %}
+    {% when 1 %} {% assign pgLang = segm  %}
+  {% endcase %}
+{% endfor %}
+
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+    {% include meta.html %}
+
+    <!-- Custom CSS -->
+    <link type="text/css" rel="stylesheet" href="/css/supersized.css">
+    <link type="text/css" rel="stylesheet" href="/css/jquery.mCustomScrollbar.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="icon" type="image/png" href="/img/veldenduin-ico-48.png">
+
+  </head>
+  <body >
+    <header>
+      <nav>
+        <div id="header">
+            {% include menu.html %}
+            {% include langs.html %}
+        </div>
+      </nav>
+    </header>
+
+    <article>
+      <div class="container">
+        {{ content }}
+      </div>
+    </article>
+
+    <footer>
+      <div id="footer">
+          <!-- TODO include footer -->
+
+      </div>
+    </footer>
+
+
+    <!-- Java script to load - at the end of doc for faster page-loading
+    ================================================== -->
+    <!-- check latest at https://developers.google.com/speed/libraries/devguide#jquery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script type='text/javascript'>
+      window.jQuery || document.write("<script src='/js/jquery-2.1.3.min.js'><\/script>");
+    </script>
+
+    <script type="text/javascript" src="/js/jquery-rotate.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.easing.min.js"></script>
+
+    <script type="text/javascript" src="/js/supersized.3.2.7.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.mCustomScrollbar.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.mousewheel.min.js"></script>
+
+    <script type="text/javascript" src="/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/js/main.js"></script>
+
+    {% include ga.html %}
+
+  </body>
+</html>

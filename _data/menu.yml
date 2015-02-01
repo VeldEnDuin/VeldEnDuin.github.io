@@ -1,0 +1,147 @@
+- item:
+    nl:
+        name: Informatie
+        link: /nl/info.html
+    fr:
+        name: Infos
+        link: /fr/info.html
+    en:
+        name: Info
+        link: /en/info.html
+    de:
+        name: todo-info-de
+        link: /de/info.html
+
+  submenu:
+    - item:
+        nl:
+            name: Contact
+            link: /nl/info/contact.html
+        fr:
+
+        en:
+
+        de:
+
+
+    - item:
+        nl:
+            name: Routebeschrijving
+            link: /nl/info/route.html
+        fr:
+
+        en:
+
+        de:
+
+    - item:
+        nl:
+            name: Plattegrond
+            link: /nl/info/plan.html
+        fr:
+
+        en:
+
+        de:
+
+
+    - item:
+        nl:
+            name: Nieuws op Facebook
+            link: /nl/info/nieuws.html
+        fr:
+
+        en:
+
+        de:
+
+
+
+
+- item:
+    nl:
+        name: Overnachten
+        link: /nl/overnachten.html
+    fr:
+
+    en:
+
+    de:
+
+
+  submenu:
+    - item:
+        nl:
+            name: Huren
+            link: /nl/overnachten/huren.html
+        fr:
+
+        en:
+
+        de:
+
+    - item:
+        nl:
+            name: Arrangementen
+            link: /nl/overnachten/arrangementen.html
+        fr:
+
+        en:
+
+        de:
+
+
+- item:
+    nl:
+        name: Voorzieningen
+        link: /nl/voorzieningen.html
+  submenu:
+    - item:
+        nl:
+            name: Arrangementen
+            link: /nl/overnachten/arrangementen.html
+        fr:
+        en:
+        de:
+    - item:
+        nl:
+        fr:
+        en:
+        de:
+    - item:
+        nl:
+        fr:
+        en:
+        de:
+    - item:
+        nl:
+        fr:
+        en:
+        de:
+    - item:
+        nl:
+        fr:
+        en:
+        de:
+
+- item:
+    nl:
+        name: Doen
+        link: /nl/in-de-buurt.html
+    fr:
+
+    en:
+
+    de:
+
+
+- item:
+    nl:
+        name: Foto's
+        link: /nl/fotos.html
+    fr:
+
+    en:
+
+    de:
+

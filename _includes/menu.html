@@ -1,0 +1,29 @@
+<!-- menu for {{pgLang}} -->
+<ul id="menu">
+{% for m1 in site.data.menu %}
+    <li>
+        <a href="{{ m1.item[pgLang].link }}"
+           {% if pgLink == m1.item[pgLang].link %}
+               class="active"
+               data-langlinks='{{ m1.item | jsonify}}'
+           {% endif %}
+           >
+        {{ m1.item[pgLang].name}}
+        </a>
+    </li>
+    <ul>
+        {% for m2 in m1.submenu %}
+            <li>
+                <a href="{{ m2.item[pgLang].link }}"
+                   {% if pgLink == m1.item[pgLang].link %}
+                       class="active"
+                       data-langlinks='{{ m1.item | jsonify}}'
+                   {% endif %}
+                   >
+                {{ m2.item[pgLang].name}}
+                </a>
+            </li>
+        {% endfor %}
+    </ul>
+{% endfor %}
+</ul>

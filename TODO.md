@@ -1,6 +1,26 @@
 TODO
 ====
 
+- bootstrap ondergrond + skrollr meteen ook
+- posts georganiseerd in categorieen en hopelijk ook in folders
+
+
+- concrete elementen
+
+  - keuze fonts - google?
+  - print.css elementen!
+  
+  - /img/veldenduin-ico-48.png
+  
+  - supersized
+    - /css/supersized.css
+  - custom scrollbar
+    - /css/jquery.mCustomScrollbar.css
+    
+  
+  - selected image for meta.html --> linking fb/tw/...
+
+
 - refs inlinken
   - mailchimp signup
   - google+
@@ -26,4 +46,9 @@ TODO
   - Plattegrond --> link met 360-pics
   - Prijzen?
 
-- pages --> mavigatie
+- pages --> navigatie
+
+
+DONE
+====
+- opgestart in jekyll

@@ -1,0 +1,14 @@
+@import url("bootstrap.min.css");
+/* TODO beslissen over gebruikte google fonts?
+@import url("//fonts.googleapis.com/css?family=EB+Garamond"));
+*/
+@import url("print.css") print;
+
+
+
+
+/* temporary */
+li a.active {
+    text-decoration: line-through;
+}
+/* end temporary */

@@ -1,0 +1,19 @@
+name: Veld & Duin
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+highlighter: true
+
+description: Veld & Duin, Camping Bredene
+url: http://veldenduin.be
+keywords:
+  - camping
+  - vakantie
+
+links:
+  social-fb: https://www.facebook.com/VeldEnDuin
+#  social-tw: https://twitter.com/fabiennesegaert
+#  social-in: https://www.linkedin.com/in/fabiennesegaert
+  mail: info@veldenduin.be
+
