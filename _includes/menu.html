@@ -1,10 +1,24 @@
+{% for m1 in site.data.menu %}
+    {% if pgLink == m1.item[pgLang].link %}
+        {% assign active1 = m1.item %}
+    {% endif %}
+    {% for m2 in m1.submenu %}
+        {% if pgLink == m2.item[pgLang].link %}
+            {% assign active1 = m1.item %}
+            {% assign active2 = m2.item %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
 <!-- menu for {{pgLang}} -->
 <ul id="menu">
 {% for m1 in site.data.menu %}
     <li>
         <a href="{{ m1.item[pgLang].link }}"
-           {% if pgLink == m1.item[pgLang].link %}
+           {% if active1 == m1.item %}
                class="active"
+           {% endif %}
+           {% if pgLink == m1.item[pgLang].link %}
                data-langlinks='{{ m1.item | jsonify}}'
            {% endif %}
            >
@@ -15,9 +29,9 @@
         {% for m2 in m1.submenu %}
             <li>
                 <a href="{{ m2.item[pgLang].link }}"
-                   {% if pgLink == m1.item[pgLang].link %}
+                   {% if pgLink == m2.item[pgLang].link %}
                        class="active"
-                       data-langlinks='{{ m1.item | jsonify}}'
+                       data-langlinks='{{ m2.item | jsonify}}'
                    {% endif %}
                    >
                 {{ m2.item[pgLang].name}}
