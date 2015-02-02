@@ -11,33 +11,28 @@
 {% endfor %}
 
 <!-- menu for {{pgLang}} -->
-<ul id="menu">
+<ul id="menu" class="nav navbar-nav" >
 {% for m1 in site.data.menu %}
-    <li>
+    <li class="{% if m1.submenu %}dropdown{% endif %} {% if active1 == m1.item %}active{% endif %}">
         <a href="{{ m1.item[pgLang].link }}"
-           {% if active1 == m1.item %}
-               class="active"
+           {% if m1.submenu %}
+               data-toggle="dropdown" role="button" aria-expanded="false" class="dropdown-toggle"
            {% endif %}
-           {% if pgLink == m1.item[pgLang].link %}
-               data-langlinks='{{ m1.item | jsonify}}'
-           {% endif %}
-           >
-        {{ m1.item[pgLang].name}}
+           >{{ m1.item[pgLang].name}}
+            {% if m1.submenu %} <span class="caret"></span>{% endif %}
         </a>
+
+        {% if m1.submenu %}
+            <ul class="dropdown-menu" role="menu">
+                {% for m2 in m1.submenu %}
+                    <li {% if pgLink == m2.item[pgLang].link %}class="active"{% endif %} >
+                        <a href="{{ m2.item[pgLang].link }}" >
+                        {{ m2.item[pgLang].name}}
+                        </a>
+                    </li>
+                {% endfor %}
+            </ul>
+        {% endif %}
     </li>
-    <ul>
-        {% for m2 in m1.submenu %}
-            <li>
-                <a href="{{ m2.item[pgLang].link }}"
-                   {% if pgLink == m2.item[pgLang].link %}
-                       class="active"
-                       data-langlinks='{{ m2.item | jsonify}}'
-                   {% endif %}
-                   >
-                {{ m2.item[pgLang].name}}
-                </a>
-            </li>
-        {% endfor %}
-    </ul>
 {% endfor %}
 </ul>

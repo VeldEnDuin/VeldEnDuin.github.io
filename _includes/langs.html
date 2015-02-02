@@ -10,16 +10,17 @@
     {% endfor %}
 {% endfor %}
 
-<ul id="lang">
+<ul id="lang" class="nav navbar-nav navbar-right">
 {% for ln in site.data.langs %}
-    <li>
+    <li {% if ln == pgLang %}class="active"{% endif %}>
         {% if ln == pgLang %}
-            {{ ln }}
+            <a href="#">
         {% elsif langLinks[ln].link %}
-                <a href="{{ langLinks[ln].link}}"> {{ ln }} </a>
-            {% else %}
-                <a href="/{{ ln }}/"> {{ ln }} </a>
+            <a href="{{ langLinks[ln].link}}">
+        {% else %}
+            <a href="/{{ ln }}/">
         {% endif %}
+        {{ ln }}</a>
     </li>
 {% endfor %}
 </ul>
