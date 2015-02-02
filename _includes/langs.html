@@ -1,11 +1,24 @@
 <!-- menu for {{pgLang}} -->
+{% for m1 in site.data.menu %}
+    {% if pgLink == m1.item[pgLang].link %}
+         {% assign langLinks = m1.item %}
+    {% endif %}
+    {% for m2 in m1.submenu %}
+        {% if pgLink == m2.item[pgLang].link %}
+             {% assign langLinks = m2.item %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
 <ul id="lang">
 {% for ln in site.data.langs %}
     <li>
         {% if ln == pgLang %}
             {{ ln }}
-        {% else %}
-            <a href="/{{ ln }}/" data-lang='{{ ln }}'> {{ ln }} </a>
+        {% elsif langLinks[ln].link %}
+                <a href="{{ langLinks[ln].link}}"> {{ ln }} </a>
+            {% else %}
+                <a href="/{{ ln }}/"> {{ ln }} </a>
         {% endif %}
     </li>
 {% endfor %}
