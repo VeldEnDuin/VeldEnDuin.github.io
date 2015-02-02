@@ -13,14 +13,10 @@
 <ul id="lang" class="nav navbar-nav navbar-right">
 {% for ln in site.data.langs %}
     <li {% if ln == pgLang %}class="active"{% endif %}>
-        {% if ln == pgLang %}
-            <a href="#">
-        {% elsif langLinks[ln].link %}
-            <a href="{{ langLinks[ln].link}}">
-        {% else %}
-            <a href="/{{ ln }}/">
-        {% endif %}
-        {{ ln }}</a>
+        {% if ln == pgLang %}          <a href="#">
+        {% elsif langLinks[ln].link %} <a href="{{ langLinks[ln].link}}">
+        {% else %}                     <a href="/{{ ln }}/">
+        {% endif %}{{ ln }}</a>
     </li>
 {% endfor %}
 </ul>
