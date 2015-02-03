@@ -1,9 +1,30 @@
 TODO
 ====
 
-- bootstrap ondergrond + skrollr meteen ook
 - posts georganiseerd in categorieen en hopelijk ook in folders
+  - categorie voor nieuws / doen / electro / fotoalbum / 
+  http://jekyllbootstrap.com/lessons/jekyll-introduction.html#toc_4
+  
+  site.pages is een array van alle pages
+  
+- bloglike
+  - "DOEN" sectie
+    - link met infomuur en infomap(online)
 
+- info/docs
+  http://jekyllrb.com/docs/collections/ --> not supported on githubpages (yet) -- jekyll 2.3.0 required
+  http://jekyllrb.com/docs/variables/
+  http://jekyllrb.com/docs/permalinks/
+  http://getbootstrap.com/
+  
+
+- pages --> navigatie - interlinking
+
+- zoek-formulier in de navbar ++ koppelen aan google-search! 
+  --> https://www.google.com/cse
+  --> http://www.google.com/sitesearch
+  
+  --> zoek-bar verbergen/scalen voor verschillende formaten! eventueel ook verbergen
 
 - concrete elementen
 
@@ -17,38 +38,57 @@ TODO
   - custom scrollbar
     - /css/jquery.mCustomScrollbar.css
     
+  - selected image missing in _includes/meta.html --> for linking in fb/tw/...
+
+  - skrollr toevoegen ?
+
+- stress/verwachtingen/noden newsfeed - facebook
+  - enerzijds: 
+    - liever geen 2 keer moeten ingeven
+    - liefst zo simpel en gemakkelijk als op fb
+  - anderzijds:
+    - wegfilteren: 
+      - niet alles van op fb moet op site
+      - sommige zaken op website moeten langer kunnen blijven staan
+    - manuele ranking kunnen geven op de site
+    - >> via slimme fb-felen link er voor zorgen dat nieuws-artikel op juiste manier vorm krijgt op facebook >> maw fb-like op artikel-niveau!
+      
+  - andere idee
+    - blogs systeem voor nieuws uiteraard
+    - metadata voor facebook zeker
+    - atom feed mogelijk voor oppikken via ifttt
   
-  - selected image for meta.html --> linking fb/tw/...
+  
 
-
-- refs inlinken
+- externe refs inlinken
   - mailchimp signup
-  - google+
-  - facebook
+  - google+ image-albums
+  - facebook  ( https://developers.facebook.com/docs/plugins/activity?locale=nl_NL )
+  - google-form --> aanvraagformulier 
+  
+- metadata
+  - google+ metadata, tw, fb, ... _includes/meta.html
 
 - feeds inlinken
   - facebook news feed
   - google albums
 
-- bloglike
-  - "DOEN" sectie
-    - link met infomuur en infomap(online)
-
-- pagelike --> navigatie
 
 - type-pages
-  - LandingPage
-  - Article
+  - LandingPage --> 3 main topics
+  - Article ? (andere dan default?)
   - Contact&Route
-  - FacebookFeed
+  - FacebookFeed --> of dus eigen NieuwsOverzicht
   - AlbumViewer
   - DoenSectie
   - Plattegrond --> link met 360-pics
-  - Prijzen?
-
-- pages --> navigatie
+  - Prijzen?  (verwerkt in?)  AanbodFiche-pagina's (verhuur, trekkers, residentieel)
+  - GoedOmWetenElectro
+  - HistoriekTimeLine (ook voor 50y idee om naar de prehistorie te gaan)
 
 
 DONE
 ====
+- doen pages in groep toevoegen op 1 page.
+- bootstrap en menu/navigatie
 - opgestart in jekyll
