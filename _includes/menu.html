@@ -10,7 +10,7 @@
     {% endfor %}
 {% endfor %}
 
-<!-- menu for {{pgLang}} -->
+<!-- menu for {{pgLang}} at {{ pgLink }} -->
 <ul id="menu" class="nav navbar-nav" >
 {% for m1 in site.data.menu %}
     <li class="{% if m1.submenu %}dropdown{% endif %} {% if active1 == m1.item %}active{% endif %}">

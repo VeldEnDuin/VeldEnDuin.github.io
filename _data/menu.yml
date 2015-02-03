@@ -1,16 +1,12 @@
 - item:
     nl:
         name: Informatie
-        link: /nl/info.html
     fr:
         name: Infos
-        link: /fr/info.html
     en:
         name: Info
-        link: /en/info.html
     de:
         name: todo-info-de
-        link: /de/info.html
 
   submenu:
     - item:
@@ -18,88 +14,152 @@
             name: Contact
             link: /nl/info/contact.html
         fr:
-
+            name: Contact
+            link: /fr/contact.html
         en:
-
+            name: Contact
+            link: /en/contact.html
         de:
-
+            name: Contact
+            link: /de/kontakt.html
 
     - item:
         nl:
             name: Routebeschrijving
-            link: /nl/info/route.html
+            link: /nl/route.html
         fr:
-
+            name: Directions
+            link: /fr/directions.html
         en:
-
+            name: Routebeschrijving
+            link: /en/directions.html
         de:
+            name: Routebeschrijving
+            link: /de/route.html
 
     - item:
         nl:
             name: Plattegrond
-            link: /nl/info/plan.html
+            link: /nl/plan.html
         fr:
-
+            name: Plan
+            link: /fr/plan.html
         en:
-
+            name: Plan
+            link: /en/plan.html
         de:
-
+            name: Plan
+            link: /de/plan.html
 
     - item:
         nl:
             name: Nieuws op Facebook
-            link: /nl/info/nieuws.html
+            link: /nl/fb-nieuws.html
         fr:
-
+            name: Les nouvelles via Facebook
+            link: /fr/fb-nieuws.html
         en:
-
+            name: News from Facebook
+            link: /en/fb-nieuws.html
         de:
-
-
-
+            name: Neue Dum Facebook
+            link: /de/fb-nieuws.html
 
 - item:
     nl:
         name: Overnachten
-        link: /nl/overnachten.html
     fr:
-
+        name: Faire dodo
     en:
-
+        name: Staying overnight
     de:
-
 
   submenu:
     - item:
         nl:
             name: Huren
-            link: /nl/overnachten/huren.html
+            link: /nl/overnachten-huren.html
         fr:
-
+            name: Louér
+            link: /fr/dodo-louer.html
         en:
-
+            name: Rent
+            link: /en/night-rent.html
         de:
 
     - item:
         nl:
             name: Arrangementen
-            link: /nl/overnachten/arrangementen.html
+            link: /nl/overnachten-arrangementen.html
         fr:
-
         en:
+        de:
 
+    - item:
+        nl:
+            name: Trekkersplaatsen
+            link: /nl/overnachten-trekkers.html
+        fr:
+        en:
+        de:
+
+    - item:
+        nl:
+            name: Residentieel
+            link: /nl/verblijven-residentieel.html
+        fr:
+        en:
+        de:
+
+    - item:
+        nl:
+            name: Verkoop
+            link: /nl/verkoop.html
+        fr:
+        en:
         de:
 
 
 - item:
     nl:
         name: Voorzieningen
-        link: /nl/voorzieningen.html
   submenu:
     - item:
         nl:
-            name: Sauna & Wellness
-            link: /nl/voorzien-sauna.html
+            name: Speelplein
+            link: /nl/voorzien-speelplein.html
+        fr:
+        en:
+        de:
+
+    - item:
+        nl:
+            name: Animatie
+            link: /nl/animatie.html
+        fr:
+        en:
+        de:
+
+    - item:
+        nl:
+            name: Internet
+            link: /nl/draadloos-internet.html
+        fr:
+        en:
+        de:
+
+    - item:
+        nl:
+            name: Sanitair
+            link: /nl/infrastructuur-sanitair.html
+        fr:
+        en:
+        de:
+
+    - item:
+        nl:
+            name: Infomuur
+            link: /nl/informatie-verstrekking.html
         fr:
         en:
         de:
@@ -112,17 +172,63 @@
         name: Que faire
         link: /fr/a-faire-en-region.html
     en:
-
     de:
 
+  submenu:
+    - item:
+        nl:
+            name: Daguitstappen
+            link: /nl/in-de-buurt.html#excursie
+        fr:
+            name: frfr
+            link: /fr/a-faire-en-region.html#excursion
+        en:
+        de:
+
+    - item:
+        nl:
+            name: Evenementen
+            link: /nl/in-de-buurt.html#event
+        fr:
+        en:
+        de:
+
+    - item:
+        nl:
+            name: Sportief
+            link: /nl/in-de-buurt.html#sport
+        fr:
+        en:
+        de:
+
+    - item:
+        nl:
+            name: Kinderen
+            link: /nl/in-de-buurt.html#kids
+        fr:
+        en:
+        de:
+
+    - item:
+        nl:
+            name: Shopping
+            link: /nl/in-de-buurt.html#shop
+        fr:
+        en:
+        de:
+
+    - item:
+        nl:
+            name: Gastronomie
+            link: /nl/in-de-buurt.html#gastro
+        fr:
+        en:
+        de:
 
 - item:
     nl:
         name: Foto's
         link: /nl/fotos.html
     fr:
-
     en:
-
     de:
-

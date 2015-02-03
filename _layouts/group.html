@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="container row">
+<h1> {{ page.title }} </h1>
+</div>
+
+<div class="vd-group-intro container row vd-group-{{page.ofgroup}}-intro">
+{{ content }}
+</div>
+
+<div class="vd-group-list container row {{page.listclass}}">
+{% assign rankedpages = site.pages | sort: 'ranking' %}
+{% for pg in rankedpages %}
+<!-- is {{pg.group}} == 'activity' and does {{pg.url}} contain '/{{pgLang}}/' -->
+    {% if pg.group == page.ofgroup and pg.url contains '/'+pgLang+'/' %}<!-- yes -->
+    <div class="vd-group-item vd-group-{{page.ofgroup}}-item {{page.itemclass}}"
+         data-title   ="{{ pg.title }}"
+         data-image   ="{{ pg.image }}"
+         data-link    ="{{ pg.link  }}"
+         data-locatie ="{{ pg.location }}"
+         data-filters ="{{ pg.filters }}"
+         data-ranking ="{{ pg.ranking }}"
+    >
+        <div class="vd-group-item-inner vd-group-{{page.ofgroup}}-item-inner"
+             style="background-image: url('{{pg.image}}');"
+        >
+            <!--
+            <img class="vd-group-image vd-group-{{page.ofgroup}}-image" src="{{pg.image}}">
+            -->
+            <div class="vd-group-title vd-group-{{page.ofgroup}}-title">{{ pg.title }}</div>
+            <div class="vd-group-content vd-group-{{page.ofgroup}}-content">
+                {{ pg.content | markdownify }}
+            </div>
+        </div>
+    </div>
+    {% endif %}
+{% endfor %}
+</div>

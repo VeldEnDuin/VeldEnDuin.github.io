@@ -5,6 +5,62 @@
 @import url("print.css") print;
 
 
+/* ===================================================================================
+ * styling vd-group sections
+ *   -------------------------------------------------------------------------------
+ *   [all groups]
+ */
+.vd-group-item {
+    height: 20em !important;
+    overflow: hidden;
+    paddin-left: 5px;
+    padding-right: 5px;
+}
+
+.vd-group-item-inner {
+    background-size: cover;
+    background-position: center center;
+    height: 100% !important;
+}
+
+.vd-group-title {
+    color: rgba(255,255,255,1);
+    background-color: rgba(0,0,0,0.8);
+    width: 100%;
+    padding: 0.5em;
+}
+
+.vd-group-content {
+    position: absolute;
+    width: 100%;
+    background-color: rgba(255,255,255,0.8);
+    padding: 0.5em;
+    transition: opacity 1.5s, bottom 1s;
+    opacity: 0.5;
+    bottom: -50%;
+}
+.vd-group-item:hover .vd-group-content {
+    opacity: 1;
+    bottom: 0;
+}
+
+
+.vd-group-content ul {
+    list-style: none;
+    font: glyphicon;
+}
+
+.vd-group-content ul li:before {
+    font-family: 'Glyphicons Halflings';
+    content: '\e013  ';
+    color: rgb(10, 88, 10);
+}
+
+/*
+ *   -------------------------------------------------------------------------------
+ *   [group :: activity]
+ */
+
 
 
 /* temporary */
