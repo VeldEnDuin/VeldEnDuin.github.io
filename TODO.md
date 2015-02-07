@@ -1,6 +1,18 @@
 TODO
 ====
 
+- doen-filters! 
+  + short-cut entry via fragment-identifier
+  
+- nieuwsberichten
+- fotoalbum(s)
+
+- eventueel: 
+    bij doen en foto's ==> submenu a/d client opbouwen op basis van beschikbare data / filtering 
+        hm, zal alleen kunnen als die data ook echt beschikbaar is doordat je al in die sectie zit!
+        dus eigenlijk: visualisatie van de filtering als submenu?
+  
+
 - posts georganiseerd in categorieen en hopelijk ook in folders
   - categorie voor nieuws / doen / electro / fotoalbum / 
   http://jekyllbootstrap.com/lessons/jekyll-introduction.html#toc_4

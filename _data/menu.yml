@@ -1,168 +1,271 @@
 - item:
     nl:
-        name: Informatie
+        name: Goed om weten
     fr:
-        name: Infos
+        name: Bon à savoir
     en:
-        name: Info
+        name: Good to know
     de:
-        name: todo-info-de
+        name: Gut zu wissen
 
   submenu:
     - item:
         nl:
-            name: Contact
-            link: /nl/info/contact.html
+            name: Onze troeven
+            link: /nl/onze-troeven.html
         fr:
-            name: Contact
-            link: /fr/contact.html
+            name: Nos forces
+            link: /fr/nos-forces.html
         en:
-            name: Contact
-            link: /en/contact.html
+            name: Our strengths
+            link: /en/our-strengths.html
         de:
-            name: Contact
-            link: /de/kontakt.html
+            name: Unsere Stärken
+            link: /de/unsere-stärken.html
 
     - item:
         nl:
-            name: Routebeschrijving
-            link: /nl/route.html
+            name: Hier staan we voor
+            link: /nl/hier-staan-we-voor.html
         fr:
-            name: Directions
-            link: /fr/directions.html
+            name: Ce que nous représentons
+            link: /fr/ce-que-nous-représentons.html
         en:
-            name: Routebeschrijving
-            link: /en/directions.html
+            name: What we stand for
+            link: /en/what-we-stand-for.html
         de:
-            name: Routebeschrijving
-            link: /de/route.html
+            name: Wofür wir stehen
+            link: /de/wofür-wir-stehen.html
 
     - item:
         nl:
-            name: Plattegrond
-            link: /nl/plan.html
+            name: Wie zijn we
+            link: /nl/wie-zijn-we.html
         fr:
-            name: Plan
-            link: /fr/plan.html
+            name: Qui sommes-nous
+            link: /fr/qui-sommes-nous.html
         en:
-            name: Plan
-            link: /en/plan.html
+            name: Who we are
+            link: /en/who-we-are.html
         de:
-            name: Plan
-            link: /de/plan.html
+            name: Wer wir sind
+            link: /de/wer-wir-sind.html
 
     - item:
         nl:
-            name: Nieuws op Facebook
-            link: /nl/fb-nieuws.html
+            name: Nieuws
+            link: /nl/nieuws.html
         fr:
-            name: Les nouvelles via Facebook
-            link: /fr/fb-nieuws.html
+            name: Les nouvelles
+            link: /fr/nieuws.html
         en:
-            name: News from Facebook
-            link: /en/fb-nieuws.html
+            name: News
+            link: /en/nieuws.html
         de:
-            name: Neue Dum Facebook
-            link: /de/fb-nieuws.html
+            name: Neue
+            link: /de/nieuws.html
 
 - item:
     nl:
         name: Overnachten
     fr:
-        name: Faire dodo
+        name: Passer la nuit
     en:
         name: Staying overnight
     de:
-
+        name: Übernachten
   submenu:
     - item:
         nl:
             name: Huren
-            link: /nl/overnachten-huren.html
+            link: /nl/huren.html
         fr:
-            name: Louér
-            link: /fr/dodo-louer.html
+            name: A Louér
+            link: /fr/a-louer.html
         en:
-            name: Rent
-            link: /en/night-rent.html
+            name: To rent
+            link: /en/to-rent.html
         de:
-
+            name: zur Miete
+            link: /de/zur-miete.html
     - item:
         nl:
             name: Arrangementen
-            link: /nl/overnachten-arrangementen.html
+            link: /nl/arrangementen.html
         fr:
+            name: Arrangements
+            link: /fr/arrangements.html
         en:
+            name: Packages
+            link: /en/packages.html
         de:
+            name: Packages
+            link: /de/packages.html
 
     - item:
         nl:
-            name: Trekkersplaatsen
-            link: /nl/overnachten-trekkers.html
+            name: Trekken
+            link: /nl/trekken.html
         fr:
+            name: Errer
+            link: /fr/errer.html
         en:
+            name: Wander
+            link: /en/wander.html
         de:
+            name: Wandern
+            link: /de/wandern.html
 
     - item:
         nl:
-            name: Residentieel
-            link: /nl/verblijven-residentieel.html
+            name: Residentieel verblijven
+            link: /nl/residentieel.html
         fr:
+            name: Séjour Résidentiel
+            link: /fr/séjour-résidentiel.html
         en:
+            name: Residential Stay
+            link: /en/residential-stay.html
         de:
+            name: Wohn Aufenthalt
+            link: /de/wohn-aufenthalt
 
     - item:
         nl:
-            name: Verkoop
-            link: /nl/verkoop.html
+            name: Te Koop
+            link: /nl/te-koop.html
         fr:
+            name: À vendre
+            link: /fr/a-vendre.html
         en:
+            name: For Sale
+            link: /en/for-sale.html
         de:
+            name: zu verkaufen
+            link: /de/zu-verkaufen.html
 
 
 - item:
     nl:
         name: Voorzieningen
+    fr:
+        name: Aménagements
+    en:
+        name: Facilities
+    de:
+        name: Einrichtungen
   submenu:
     - item:
         nl:
             name: Speelplein
-            link: /nl/voorzien-speelplein.html
+            link: /nl/speelplein.html
         fr:
+            name: Cour de récréation
+            link: /fr/cour-de-récréation.html
         en:
+            name: Playground
+            link: /en/playground.html
         de:
+            name: Spielplatz
+            link: /de/spielplatz.html
 
     - item:
         nl:
             name: Animatie
             link: /nl/animatie.html
         fr:
+            name: Animation
+            link: /fr/animation.html
         en:
+            name: Animation
+            link: /en/animation.html
         de:
+            name: Animation
+            link: /de/Animation.html
+
+    - item:
+        nl:
+            name: Petanque
+            link: /nl/petanque.html
+        fr:
+            name: Terrain de pétanque
+            link: /fr/terrain-de-pétanque.html
+        en:
+            name: Boules
+            link: /en/boules.html
+        de:
+            name: Boules
+            link: /de/Boules.html
 
     - item:
         nl:
             name: Internet
             link: /nl/draadloos-internet.html
         fr:
+            name: Internet
+            link: /fr/internet.html
         en:
+            name: Internet
+            link: /en/internet.html
         de:
+            name: Internet
+            link: /de/internet.html
 
     - item:
         nl:
             name: Sanitair
-            link: /nl/infrastructuur-sanitair.html
+            link: /nl/sanitair.html
         fr:
+            name: Sanitaire
+            link: /fr/sanitaire.html
         en:
+            name: Sanitary
+            link: /en/sanitary.html
         de:
+            name: Sanitär
+            link: /de/sanitär.html
+
+    - item:
+        nl:
+            name: Wassalon
+            link: /nl/wassalon.html
+        fr:
+            name: Buanderie
+            link: /fr/buanderie.html
+        en:
+            name: Washroom
+            link: /en/washroom.html
+        de:
+            name: Waschraum
+            link: /de/waschraum.html
+
+    - item:
+        nl:
+            name: Sauna
+            link: /nl/sauna.html
+        fr:
+            name: Sauna
+            link: /fr/sauna.html
+        en:
+            name: Sauna
+            link: /en/sauna.html
+        de:
+            name: Sauna
+            link: /de/sauna.html
 
     - item:
         nl:
             name: Infomuur
-            link: /nl/informatie-verstrekking.html
+            link: /nl/infomuur.html
         fr:
+            name: Wall Info
+            link: /fr/wall-info.html
         en:
+            name: info wall
+            link: /en/info-wall.html
         de:
+            name: info Wand
+            link: /de/inf-wand.html
 
 - item:
     nl:
@@ -172,7 +275,11 @@
         name: Que faire
         link: /fr/a-faire-en-region.html
     en:
+        name: Activities
+        link: /en/activities.html
     de:
+        name: Zu Tun
+        link: /de/zu-tun.html
 
   submenu:
     - item:
@@ -180,55 +287,95 @@
             name: Daguitstappen
             link: /nl/in-de-buurt.html#excursie
         fr:
-            name: frfr
+            name: Excursions
             link: /fr/a-faire-en-region.html#excursion
         en:
+            name: Daytrips
+            link: /en/activities.html#excursion
         de:
+            name: Tagesausflüge
+            link: /de/zu-tun.html#excursion
 
     - item:
         nl:
             name: Evenementen
             link: /nl/in-de-buurt.html#event
         fr:
+            name: Événements
+            link: /fr/a-faire-en-region.html#event
         en:
+            name: Events
+            link: /en/activities.html#event
         de:
+            name: Geschehen
+            link: /de/zu-tun.html#event
 
     - item:
         nl:
             name: Sportief
             link: /nl/in-de-buurt.html#sport
         fr:
+            name: Sportif
+            link: /fr/a-faire-en-region.html#sport
         en:
+            name: Sports
+            link: /en/activities.html#sport
         de:
+            name: Sportlich
+            link: /de/zu-tun.html#sport
 
     - item:
         nl:
             name: Kinderen
             link: /nl/in-de-buurt.html#kids
         fr:
+            name: Enfants
+            link: /fr/a-faire-en-region.html#kids
         en:
+            name: Kids
+            link: /en/activities.html#kids
         de:
+            name: Kinder
+            link: /de/zu-tun.html#kids
 
     - item:
         nl:
             name: Shopping
             link: /nl/in-de-buurt.html#shop
         fr:
+            name: Shopping
+            link: /fr/a-faire-en-region.html#shop
         en:
+            name: Shopping
+            link: /en/activities.html#shop
         de:
+            name: Einkaufen
+            link: /de/zu-tun.html#shop
 
     - item:
         nl:
             name: Gastronomie
             link: /nl/in-de-buurt.html#gastro
         fr:
+            name: Gastronomie
+            link: /fr/a-faire-en-region.html#gastro
         en:
+            name: Gastronomy
+            link: /en/activities.html#gastro
         de:
+            name: Gastronomie
+            link: /de/zu-tun.html#gastro
 
 - item:
     nl:
         name: Foto's
         link: /nl/fotos.html
     fr:
+        name: Foto's
+        link: /nl/fotos.html
     en:
+        name: Foto's
+        link: /nl/fotos.html
     de:
+        name: Foto's
+        link: /nl/fotos.html
