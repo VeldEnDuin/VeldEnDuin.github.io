@@ -50,8 +50,16 @@ function calculateDisplacement(from, to) {
 
 // when the page is ready...
 $(function(){
+    /*
+     * Read available translation data in the current language
+     * =======================================================================
+     */
     TRANSL = $('body').data('translations')
 
+    /*
+     * Build up the group pages
+     * =======================================================================
+     */
     var $groupList = $('#vd-group-list')
       , geo = parseLatLon($groupList.data('geolocation'))
       , $groupItems = $('.vd-group-item', $groupList)
@@ -64,12 +72,19 @@ $(function(){
           , itemDsp = calculateDisplacement(geo, itemGeo)
         ;
 
+        /*
+         * geo-ref stuff and displacement calculations
+         * ---------------------------------------------------------------
+         */
         $item.data('geo', itemGeo);
         $item.data('distance', itemDsp.distance);
         // find "route" link and replace by displacement tostring
         $(".vd-location",$item).append(" <span>(" + itemDsp.label + ")</span>");
 
-        //check for extra images and get them loaded
+        /*
+         * image rotation stuff
+         * ---------------------------------------------------------------
+         */
         var imgcount = imgs.length
           , imgndx = imgs.length
         ;
@@ -88,7 +103,16 @@ $(function(){
             });
         }
 
-        // build up facet-counts and lists...
+        /*
+         * facet-counts, facet-filtering, fragment-identifier-facets
+         * ---------------------------------------------------------------
+         */
+        // do we need facet-counts?
+        // facet-filters --> labels from data + translation from passed TRANSL
+        // filtering by using jquery-> hide? .. possibly with transition effects!
+        // so we just have to inject smart-classed on which we can select!
+        // actually we could then count facets based on those same classes!
+        // hohoho
     });
 
 
