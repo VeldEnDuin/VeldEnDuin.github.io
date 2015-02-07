@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% include layout-prelude.html %}
 
 <div class="container row">
 <h1> {{ page.title }} </h1>
@@ -10,18 +11,22 @@ layout: default
 {{ content }}
 </div>
 
-<div class="vd-group-list container row {{page.listclass}}">
+<div class="vd-group-list container row {{page.listclass}}"
+     id="vd-group-list"
+     data-geolocation="{{site.geolocation}}">
 {% assign rankedpages = site.pages | sort: 'ranking' %}
 {% for pg in rankedpages %}
-<!-- is {{pg.group}} == 'activity' and does {{pg.url}} contain '/{{pgLang}}/' -->
-    {% if pg.group == page.ofgroup and pg.url contains '/'+pgLang+'/' %}<!-- yes -->
+    {% assign parts = pg.url | split: '/' %}
+    {% assign ln = parts[1] %}
+<!-- test GROUP: '{{pg.group}}' == 'activity' and LANGUAGE: '{{ln}}' == '{{pgLang}}' -->
+    {% if pg.group == page.ofgroup and ln == pgLang %}
     <div class="vd-group-item vd-group-{{page.ofgroup}}-item {{page.itemclass}}"
-         data-title   ="{{ pg.title }}"
-         data-image   ="{{ pg.image }}"
-         data-link    ="{{ pg.link  }}"
-         data-locatie ="{{ pg.location }}"
-         data-filters ="{{ pg.filters }}"
-         data-ranking ="{{ pg.ranking }}"
+         data-title    = "{{ pg.title }}"
+         data-image    = "{{ pg.image }}"
+         data-link     = "{{ pg.link  }}"
+         data-location = "{{ pg.location }}"
+         data-filters  = "{{ pg.filters }}"
+         data-ranking  = "{{ pg.ranking }}"
     >
         <div class="vd-group-item-inner vd-group-{{page.ofgroup}}-item-inner"
              style="background-image: url('{{pg.image}}');"
@@ -29,9 +34,38 @@ layout: default
             <!--
             <img class="vd-group-image vd-group-{{page.ofgroup}}-image" src="{{pg.image}}">
             -->
-            <div class="vd-group-title vd-group-{{page.ofgroup}}-title">{{ pg.title }}</div>
+            <div class="vd-group-title vd-group-{{page.ofgroup}}-title">
+                <span class="vd-group-info-sign"><span class="glyphicon glyphicon-info-sign"></span></span>
+                {{ pg.title }}
+            </div>
             <div class="vd-group-content vd-group-{{page.ofgroup}}-content">
                 {{ pg.content | markdownify }}
+            </div>
+            <div class="vd-group-info vd-group-{{page.ofgroup}}-info">
+                {% assign noInfo = true %}
+                <ul class="list-group">
+                    {% if pg.location %}
+                        {% assign noInfo = false %}
+                    <li class="list-group-item">
+                        <a class="vd-location" data-location="{{pg.location}}" target="_blank"
+                           href="https://www.google.be/maps/dir/{{site.geolocation}}/{{pg.location}}?hl={{ pgLang }}"
+                        >route </a>
+                        <span class="badge"><span class="glyphicon glyphicon-map-marker"></span></span>
+                    </li>
+                    {% endif %}
+                    {% if pg.link %}
+                        {% assign noInfo = false %}
+                    <li class="list-group-item">
+                        <a class="vd-link" href="{{pg.link}}" target="_blank">{{pg.link}} </a>
+                        <span class="badge"><span class="glyphicon glyphicon-new-window"></span></span>
+                    </li>
+                    {% endif %}
+                    {% if noInfo %}
+                    <li class="list-group-item">
+                        ... geen informatie (te vertalen) ...
+                    </li>
+                    {% endif %}
+                </ul>
             </div>
         </div>
     </div>

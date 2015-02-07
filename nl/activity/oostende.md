@@ -10,4 +10,7 @@ ranking:  2
 
 - strand
 - theater
-- bakkerij de vriendt
+- bakkerij Devriendt
+- Pier en Pol
+- Peperbussen
+- schelpjes

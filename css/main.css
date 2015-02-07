@@ -13,8 +13,7 @@
 .vd-group-item {
     height: 20em !important;
     overflow: hidden;
-    paddin-left: 5px;
-    padding-right: 5px;
+    padding: 5px;
 }
 
 .vd-group-item-inner {
@@ -23,11 +22,27 @@
     height: 100% !important;
 }
 
-.vd-group-title {
+.vd-group-title, .vd-group-info {
     color: rgba(255,255,255,1);
-    background-color: rgba(0,0,0,0.8);
+    background-color: rgba(0, 0, 0, 0.8);
     width: 100%;
     padding: 0.5em;
+}
+
+.vd-group-info {
+    transition: opacity 1.5s;
+    opacity: 0;
+}
+.vd-group-item:hover .vd-group-info {
+    opacity: 1;
+}
+
+.vd-group-title .vd-group-info-sign {
+    float: right;
+}
+
+.vd-group-info ul, .vd-group-info ul li {
+    background-color: transparent;
 }
 
 .vd-group-content {
@@ -36,7 +51,7 @@
     background-color: rgba(255,255,255,0.8);
     padding: 0.5em;
     transition: opacity 1.5s, bottom 1s;
-    opacity: 0.5;
+    opacity: 0;
     bottom: -50%;
 }
 .vd-group-item:hover .vd-group-content {

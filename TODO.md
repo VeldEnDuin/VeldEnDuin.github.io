@@ -7,16 +7,10 @@ TODO
   
   site.pages is een array van alle pages
   
-- bloglike
-  - "DOEN" sectie
+- "DOEN" sectie
     - link met infomuur en infomap(online)
 
-- info/docs
-  http://jekyllrb.com/docs/collections/ --> not supported on githubpages (yet) -- jekyll 2.3.0 required
-  http://jekyllrb.com/docs/variables/
-  http://jekyllrb.com/docs/permalinks/
-  http://getbootstrap.com/
-  
+- bloglike news sectie
 
 - pages --> navigatie - interlinking
 
@@ -25,6 +19,7 @@ TODO
   --> http://www.google.com/sitesearch
   
   --> zoek-bar verbergen/scalen voor verschillende formaten! eventueel ook verbergen
+
 
 - concrete elementen
 

@@ -11,7 +11,8 @@
 {% endfor %}
 
 <ul id="lang" class="nav navbar-nav navbar-right">
-{% for ln in site.data.langs %}
+{% for lang in site.data.langs %}
+    {% assign ln = lang[0] %}
     <li {% if ln == pgLang %}class="active"{% endif %}>
         {% if ln == pgLang %}          <a href="#">
         {% elsif langLinks[ln].link %} <a href="{{ langLinks[ln].link}}">
