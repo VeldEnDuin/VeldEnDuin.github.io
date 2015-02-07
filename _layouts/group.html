@@ -22,14 +22,14 @@ layout: default
     {% if pg.group == page.ofgroup and ln == pgLang %}
     <div class="vd-group-item vd-group-{{page.ofgroup}}-item {{page.itemclass}}"
          data-title    = "{{ pg.title }}"
-         data-image    = "{{ pg.image }}"
+         data-images   = '{{ pg.image | jsonify}}'
          data-link     = "{{ pg.link  }}"
          data-location = "{{ pg.location }}"
          data-filters  = "{{ pg.filters }}"
          data-ranking  = "{{ pg.ranking }}"
     >
         <div class="vd-group-item-inner vd-group-{{page.ofgroup}}-item-inner"
-             style="background-image: url('{{pg.image}}');"
+             style="background-image: url('{{pg.image[0]}}');"
         >
             <!--
             <img class="vd-group-image vd-group-{{page.ofgroup}}-image" src="{{pg.image}}">
