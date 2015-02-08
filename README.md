@@ -1,4 +1,4 @@
-[Deze tekst op volle pagina](./Readme.md)
+[Deze tekst op volle pagina](./README.md)
 
 # VeldEnDuin.github.io
 Opbouw van de publieke Website voor camping Veld & Duin.
