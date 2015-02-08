@@ -23,6 +23,7 @@ De structuur van dat bestand is deze:
 - item: ... // meer items zoals voorgaande
 ```
 Daarin vervang je
+
 {deze elementen} | door deze waarden | om dit te bereiken
 -----------------|-------------------|-------------------
 {iso taal code}  | nl, fr, de, en    | 2-letter taal code die naam en link beschrijven voor die taal
