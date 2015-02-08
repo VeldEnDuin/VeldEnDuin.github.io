@@ -71,6 +71,12 @@
     color: rgb(10, 88, 10);
 }
 
+.vd-subgrp-btns label {
+     text-decoration: line-through;
+}
+.vd-subgrp-btns label.active {
+     text-decoration: none;
+}
 /*
  *   -------------------------------------------------------------------------------
  *   [group :: activity]

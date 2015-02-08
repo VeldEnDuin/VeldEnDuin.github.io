@@ -1,11 +1,15 @@
 ---
-title:    Bellewaerde
-group:    activity
-image:    [/img/activity/bellewaerde-roetsjbaan.jpg]
-link:     http://bellewaerde.be
-filters:  daguitstap
-location: 50.847464, 2.950257
-ranking:  2
+title:      Bellewaerde
+group:      activity
+images:      
+    - /img/activity/bellewaerde-roetsjbaan.jpg
+link:       http://bellewaerde.be
+subgroups:  
+    - daguitstap
+    - evenement
+    - kids
+location:   50.847464, 2.950257
+ranking:    2
 ---
 
 - roetsjbanen

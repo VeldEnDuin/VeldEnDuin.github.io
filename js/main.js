@@ -61,60 +61,123 @@ $(function(){
      * =======================================================================
      */
     var $groupList = $('#vd-group-list')
-      , geo = parseLatLon($groupList.data('geolocation'))
-      , $groupItems = $('.vd-group-item', $groupList)
     ;
 
-    $groupItems.each(function() {
-        var $item = $(this)
-          , imgs  = $item.data('images')
-          , itemGeo = parseLatLon($item.data('location'))
-          , itemDsp = calculateDisplacement(geo, itemGeo)
+    if ($groupList && $groupList.length > 0) {
+        var geo = parseLatLon($groupList.data('geolocation'))
+          , $groupItems = $('.vd-group-item', $groupList)
+          , $items = $();
         ;
 
-        /*
-         * geo-ref stuff and displacement calculations
-         * ---------------------------------------------------------------
-         */
-        $item.data('geo', itemGeo);
-        $item.data('distance', itemDsp.distance);
-        // find "route" link and replace by displacement tostring
-        $(".vd-location",$item).append(" <span>(" + itemDsp.label + ")</span>");
+        var subGrpCnts = {};
 
-        /*
-         * image rotation stuff
-         * ---------------------------------------------------------------
-         */
-        var imgcount = imgs.length
-          , imgndx = imgs.length
-        ;
-        if (imgcount > 1) {
-            function loaded() {
-                imgndx--;
-                if (imgndx == 0) {
-                    setInterval(function(){
-                        imgndx = (imgndx+1) % imgs.length;
-                        $('div.vd-group-item-inner',$item).css('background-image', "url('"+imgs[imgndx]+"')");
-                    }, 5000 * (1 + Math.random(5000)));
+        $groupItems.each(function() {
+            var $item = $(this)
+            ;
+
+            $items = $items.add($item);
+
+            /*
+             * geo-ref stuff and displacement calculations
+             * ---------------------------------------------------------------
+             */
+            var itemGeo = parseLatLon($item.data('location'))
+              , itemDsp = calculateDisplacement(geo, itemGeo)
+            ;
+            $item.data('geo', itemGeo);
+            $item.data('distance', itemDsp.distance);
+            // find "route" link and replace by displacement tostring
+            $(".vd-location",$item).append(" <span>(" + itemDsp.label + ")</span>");
+
+            /*
+             * image rotation stuff
+             * ---------------------------------------------------------------
+             */
+            var imgs   = $item.data('images')
+              , imgcnt = imgs.length
+              , imgndx = imgs.length
+            ;
+            if (imgcnt > 1) {
+                function loaded() {
+                    imgndx--;
+                    if (imgndx == 0) {
+                        setInterval(function(){
+                            imgndx = (imgndx+1) % imgcnt;
+                            $('div.vd-group-item-inner',$item).css('background-image', "url('"+imgs[imgndx]+"')");
+                        }, 5000 * (1 + Math.random(5000)));
+                    }
                 }
+                imgs.forEach(function(img){
+                    $('<img src='+img+'>').load(loaded);
+                });
             }
-            imgs.forEach(function(img){
-                $('<img src='+img+'>').load(loaded);
+
+            /*
+             * assemble facet-counts information
+             * ---------------------------------------------------------------
+             */
+            var subgroups = $item.data('subgroups');
+            subgroups.forEach(function(subgrp) {
+                $item.addClass('vd-subgrp-'+subgrp);
+                if (!subGrpCnts[subgrp]) {
+                    subGrpCnts[subgrp] = 0;
+                }
+                subGrpCnts[subgrp]++;
             });
-        }
+        });
 
         /*
          * facet-counts, facet-filtering, fragment-identifier-facets
          * ---------------------------------------------------------------
          */
-        // do we need facet-counts?
-        // facet-filters --> labels from data + translation from passed TRANSL
-        // filtering by using jquery-> hide? .. possibly with transition effects!
-        // so we just have to inject smart-classed on which we can select!
-        // actually we could then count facets based on those same classes!
-        // hohoho
-    });
+        var $btnGrp = $("<div class='btn-group btn-group-justified vd-subgrp-btns' " +
+                            " role='group' data-toggle='buttons'>")
+          , activeSubGrp = null
+          , $btns = $()
+        ;
+        function toggleActive(canReset, newActiveGrp, $btn) {
+            $btn = $btn || $("#vd-subgrp-btn-" + newActiveGrp);
 
+            if (activeSubGrp == newActiveGrp) {
+                if (canReset) {
+                    // set off  --> all on
+                    $btns.addClass('active');
+                    // make all items visible
+                    $items.fadeIn(1500);
+                    activeSubGrp = null;
+                    window.location.hash = '';
+                }
+            } else {
+                // set on --> all others off
+                $btns.removeClass('active');
+                $items.fadeOut(500);
+                $btn.addClass('active');
+                $('.vd-subgrp-'+newActiveGrp ,$groupList).fadeIn(1500);
+                activeSubGrp = newActiveGrp;
+                window.location.hash = newActiveGrp;
+            }
+            return false;
+        }
+        Object.keys(subGrpCnts).forEach(function(subgrp){
+            var cnt = subGrpCnts[subgrp]
+              , $check = $("<input type='checkbox' autocomplete='off' checked>")
+              , $btn = $("<label id='vd-subgrp-btn-"+subgrp+"' class='btn btn-default active' ></label>")
+            ;
+            $btn.append($check).append(subgrp +" ("+cnt+")");
 
+            $btns = $btns.add($btn);
+
+            $btn.click(function(){ return toggleActive(true, subgrp, $btn); });
+            $btnGrp.append($btn);
+        });
+
+        $groupList.before($("<div class='container row'>").append($btnGrp));
+        //read the fragment-identifier and call the toggleActive(grp)
+        function followHash() {
+            if(location.hash && location.hash.length > 1) { toggleActive(false, location.hash.slice(1));  }
+        }
+        $(window).on('hashchange', followHash);
+        followHash();
+    }
 });
 })(jQuery);

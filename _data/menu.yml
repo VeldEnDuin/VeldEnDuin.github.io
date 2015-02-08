@@ -285,21 +285,21 @@
     - item:
         nl:
             name: Daguitstappen
-            link: /nl/in-de-buurt.html#excursie
+            link: /nl/in-de-buurt.html#daguitstap
         fr:
             name: Excursions
             link: /fr/a-faire-en-region.html#excursion
         en:
             name: Daytrips
-            link: /en/activities.html#excursion
+            link: /en/activities.html#daytrips
         de:
             name: Tagesausflüge
-            link: /de/zu-tun.html#excursion
+            link: /de/zu-tun.html#tagesausflüge
 
     - item:
         nl:
             name: Evenementen
-            link: /nl/in-de-buurt.html#event
+            link: /nl/in-de-buurt.html#evenement
         fr:
             name: Événements
             link: /fr/a-faire-en-region.html#event
@@ -313,16 +313,16 @@
     - item:
         nl:
             name: Sportief
-            link: /nl/in-de-buurt.html#sport
+            link: /nl/in-de-buurt.html#sportief
         fr:
             name: Sportif
-            link: /fr/a-faire-en-region.html#sport
+            link: /fr/a-faire-en-region.html#sportif
         en:
             name: Sports
-            link: /en/activities.html#sport
+            link: /en/activities.html#sports
         de:
             name: Sportlich
-            link: /de/zu-tun.html#sport
+            link: /de/zu-tun.html#sportlich
 
     - item:
         nl:
@@ -330,41 +330,41 @@
             link: /nl/in-de-buurt.html#kids
         fr:
             name: Enfants
-            link: /fr/a-faire-en-region.html#kids
+            link: /fr/a-faire-en-region.html#enfants
         en:
             name: Kids
             link: /en/activities.html#kids
         de:
             name: Kinder
-            link: /de/zu-tun.html#kids
+            link: /de/zu-tun.html#kinder
 
     - item:
         nl:
             name: Shopping
-            link: /nl/in-de-buurt.html#shop
+            link: /nl/in-de-buurt.html#shopping
         fr:
             name: Shopping
-            link: /fr/a-faire-en-region.html#shop
+            link: /fr/a-faire-en-region.html#shopping
         en:
             name: Shopping
-            link: /en/activities.html#shop
+            link: /en/activities.html#shopping
         de:
             name: Einkaufen
-            link: /de/zu-tun.html#shop
+            link: /de/zu-tun.html#einkaufen
 
     - item:
         nl:
             name: Gastronomie
-            link: /nl/in-de-buurt.html#gastro
+            link: /nl/in-de-buurt.html#gastronomie
         fr:
             name: Gastronomie
-            link: /fr/a-faire-en-region.html#gastro
+            link: /fr/a-faire-en-region.html#gastronomie
         en:
             name: Gastronomy
-            link: /en/activities.html#gastro
+            link: /en/activities.html#gastronomy
         de:
             name: Gastronomie
-            link: /de/zu-tun.html#gastro
+            link: /de/zu-tun.html#gastronomie
 
 - item:
     nl:

@@ -18,22 +18,18 @@ layout: default
 {% for pg in rankedpages %}
     {% assign parts = pg.url | split: '/' %}
     {% assign ln = parts[1] %}
-<!-- test GROUP: '{{pg.group}}' == 'activity' and LANGUAGE: '{{ln}}' == '{{pgLang}}' -->
     {% if pg.group == page.ofgroup and ln == pgLang %}
     <div class="vd-group-item vd-group-{{page.ofgroup}}-item {{page.itemclass}}"
-         data-title    = "{{ pg.title }}"
-         data-images   = '{{ pg.image | jsonify}}'
-         data-link     = "{{ pg.link  }}"
-         data-location = "{{ pg.location }}"
-         data-filters  = "{{ pg.filters }}"
-         data-ranking  = "{{ pg.ranking }}"
+         data-title      = "{{ pg.title }}"
+         data-images     = '{{ pg.images | jsonify}}'
+         data-link       = "{{ pg.link  }}"
+         data-location   = "{{ pg.location }}"
+         data-subgroups  = '{{ pg.subgroups | jsonify }}'
+         data-ranking    = "{{ pg.ranking }}"
     >
         <div class="vd-group-item-inner vd-group-{{page.ofgroup}}-item-inner"
-             style="background-image: url('{{pg.image[0]}}');"
+             style="background-image: url('{{pg.images[0]}}');"
         >
-            <!--
-            <img class="vd-group-image vd-group-{{page.ofgroup}}-image" src="{{pg.image}}">
-            -->
             <div class="vd-group-title vd-group-{{page.ofgroup}}-title">
                 <span class="vd-group-info-sign"><span class="glyphicon glyphicon-info-sign"></span></span>
                 {{ pg.title }}

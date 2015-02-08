@@ -1,9 +1,6 @@
 TODO
 ====
 
-- doen-filters! 
-  + short-cut entry via fragment-identifier
-  
 - nieuwsberichten
 - fotoalbum(s)
 
