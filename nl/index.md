@@ -3,9 +3,10 @@ layout: default
 title: Camping Veld & Duin
 ---
 
+
+#home page -- nederlands
 ## work in progress
 
 tests
-<ul>
-<li><a href="/nl/in-de-buurt.html">wat is er te doen</a></li>
-</ul>
+
+- [wat is er te doen](/nl/in-de-buurt.html)

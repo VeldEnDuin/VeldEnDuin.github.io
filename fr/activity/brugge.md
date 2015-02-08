@@ -6,7 +6,7 @@ images:
     - /img/activity/brugge-bynight.jpg
 link:       http://brugge.be
 subgroups:  
-    - excursion, 
+    - excursion 
     - shopping
 location:   51.208822, 3.224377
 ranking:    2
