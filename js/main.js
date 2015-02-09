@@ -19,7 +19,7 @@ function calculateDisplacement(from, to) {
     <script src="http://maps.google.com/maps/api/js?sensor=true&libraries=geometry"
             type="text/javascript" charset="utf-8"></script>
 */
-    if (!google.maps) return null;
+    if (!window['google'] || !google.maps) return null;
 
     var geoFrom = new google.maps.LatLng(from.lat, from.lon)
       , geoTo   = new google.maps.LatLng(to.lat  , to.lon)
@@ -85,9 +85,11 @@ $(function(){
               , itemDsp = calculateDisplacement(geo, itemGeo)
             ;
             $item.data('geo', itemGeo);
-            $item.data('distance', itemDsp.distance);
-            // find "route" link and replace by displacement tostring
-            $(".vd-location",$item).append(" <span>(" + itemDsp.label + ")</span>");
+            if (itemDsp) {
+                $item.data('distance', itemDsp.distance);
+                // find "route" link and replace by displacement tostring
+                $(".vd-location",$item).append(" <span>(" + itemDsp.label + ")</span>");
+            }
 
             /*
              * image rotation stuff
@@ -130,7 +132,7 @@ $(function(){
          * facet-counts, facet-filtering, fragment-identifier-facets
          * ---------------------------------------------------------------
          */
-        var $btnGrp = $("<div class='btn-group btn-group-justified vd-subgrp-btns' " +
+        var $btnGrp = $("<div class='btn-group btn-group-lg btn-group-justified vd-subgrp-btns' " +
                             " role='group' data-toggle='buttons'>")
           , activeSubGrp = null
           , $btns = $()
@@ -148,11 +150,13 @@ $(function(){
                     window.location.hash = '';
                 }
             } else {
+                var subgrpSelector = '.vd-subgrp-' + newActiveGrp
+                ;
                 // set on --> all others off
                 $btns.removeClass('active');
-                $items.fadeOut(500);
+                $items.not(subgrpSelector).fadeOut(1500);
                 $btn.addClass('active');
-                $('.vd-subgrp-'+newActiveGrp ,$groupList).fadeIn(1500);
+                $(subgrpSelector, $groupList).fadeIn(1500);
                 activeSubGrp = newActiveGrp;
                 window.location.hash = newActiveGrp;
             }
@@ -171,7 +175,7 @@ $(function(){
             $btnGrp.append($btn);
         });
 
-        $groupList.before($("<div class='container row'>").append($btnGrp));
+        $groupList.before($("<div class='container row hidden-sm hidden-xs'>").append($btnGrp));
         //read the fragment-identifier and call the toggleActive(grp)
         function followHash() {
             if(location.hash && location.hash.length > 1) { toggleActive(false, location.hash.slice(1));  }
