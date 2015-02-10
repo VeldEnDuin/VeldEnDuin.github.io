@@ -51,20 +51,6 @@
             name: Wer wir sind
             link: /de/wer-wir-sind.html
 
-    - item:
-        nl:
-            name: Nieuws
-            link: /nl/nieuws.html
-        fr:
-            name: Les nouvelles
-            link: /fr/nieuws.html
-        en:
-            name: News
-            link: /en/nieuws.html
-        de:
-            name: Neue
-            link: /de/nieuws.html
-
 - item:
     nl:
         name: Overnachten

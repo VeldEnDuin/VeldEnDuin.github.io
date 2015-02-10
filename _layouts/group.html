@@ -3,15 +3,16 @@ layout: default
 ---
 {% include layout-prelude.html %}
 
-<div class="container row">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<div class="row">
 <h1> {{ page.title }} </h1>
 </div>
 
-<div class="vd-group-intro container row vd-group-{{page.ofgroup}}-intro">
+<div class="vd-group-intro row vd-group-{{page.ofgroup}}-intro">
 {{ content }}
 </div>
 
-<div class="vd-group-list container row {{page.listclass}}"
+<div class="vd-group-list row {{page.listclass}}"
      id="vd-group-list"
      data-geolocation="{{site.geolocation}}">
 {% assign rankedpages = site.pages | sort: 'ranking' %}
@@ -67,4 +68,5 @@ layout: default
     </div>
     {% endif %}
 {% endfor %}
+</div>
 </div>

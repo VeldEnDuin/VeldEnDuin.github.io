@@ -1,0 +1,44 @@
+---
+layout: default
+---
+{% include layout-prelude.html %}
+
+
+<div class="vd-landing-intro jumbotron">
+{{ content }}
+</div>
+
+<div class="vd-landing-sections row">
+{% if page.newsfeed == true %}
+    {% assign space = 8 %}
+{% else %}
+    {% assign space = 12 %}
+{% endif %}
+    <div class="col-lg-{{space}} col-md-{{space}}">
+
+    TODO -- run through all pages, filter landing padds
+
+        and retain selected ones in landing sections...
+
+    </div>
+
+
+{% if page.newsfeed == true %}
+    <div class="col-lg-4 col-md-4">
+    {% include newsfeed.html %}
+    </div>
+{% endif %}
+</div>
+
+
+<div class="vd-landing-footer hidden-sm hidden-xs">
+    <div class="col-lg-3 col-md-3 col-lg-offset-3 col-md-offset-3 ">
+        <a href="/{{pgLang}}/virtual-tour.html">
+            <img src="/img/virtualtour.png" class="img-responsive img-thumbnail"
+                 title="{{site.data.langs[pgLang].dict.virttour}}">
+        </a>
+    </div>
+    <div class="col-md-3 col-lg-3">
+{% include mailchimp.html %}
+    </div>
+</div>

@@ -175,7 +175,7 @@ $(function(){
             $btnGrp.append($btn);
         });
 
-        $groupList.before($("<div class='container row hidden-sm hidden-xs'>").append($btnGrp));
+        $groupList.before($("<div class='row hidden-sm hidden-xs'>").append($btnGrp));
         //read the fragment-identifier and call the toggleActive(grp)
         function followHash() {
             if(location.hash && location.hash.length > 1) { toggleActive(false, location.hash.slice(1));  }

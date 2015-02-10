@@ -1,12 +1,11 @@
 ---
-layout: default
-title: Camping Veld & Duin
+layout: landing
+title: Camping Veld & Duin -- Landing -- NL
+newsfeed: true
 ---
 
+## Welkom
 
-#home page -- nederlands
-## work in progress
-
-tests
-
-- [wat is er te doen](/nl/in-de-buurt.html)
+Als familiebedrijf staat *Veld & Duin* reeds jarenlang garant voor een gast-
+vrij onthaal op onze groene, verzorgde en eigentijdse camping.
+We zijn het hele jaar door geopend zodat u in elk seizoen kunt genieten van een jodiumkuur.

@@ -4,21 +4,33 @@ nl:
     dict:
         route: route
         noinfo: "Geen informatie beschikbaar"
+        news: Nieuws
+        mapxl: Grotere kaart weergeven
+        virttour: Maak een virtuele tour door de camping
 fr:
     label: français
     directions: ["N", "NE", "E", "SE", "S", "SO", "O", "NO"]
     dict:
         route: itinéraire
         noinfo: "Aucune information disponible"
+        news: Nouvelles
+        mapxl: Agrandir le plan
+        virttour: Faites une visite virtuelle à travers le camping
 de:
     label: Deutsch
     directions: ["N", "NO", "O", "SO", "S", "SW", "W", "NW"]
     dict:
         route: Route
         noinfo: "Keine Informationen verfügbar"
+        news: Nachrichten
+        mapxl: Größere Kartenansicht
+        virttour: Machen Sie einen virtuellen Rundgang durch den Campingplatz
 en:
     label: English
     directions: ["N", "NE", "E", "SE", "S", "SW", "W", "NW"]
     dict:
         route: Route
         noinfo: "No information available"
+        news: News
+        mapxl: View Larger Map
+        virttour: Take a virtual tour through the campsite
