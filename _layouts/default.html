@@ -40,7 +40,11 @@
 
     <article>
       <div class="container-fluid">
-        {{ content }}
+        <div id="content">{{ content }}</div>
+          <!-- {{page.include}} -->
+  {% if page.include contains 'virtualtour' %}
+      {% include virtualtour.html %}
+  {% endif %}
       </div>
     </article>
 

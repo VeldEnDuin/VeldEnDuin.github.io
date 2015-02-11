@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Virtual Tour
+title: Virtueel Bezoek
 include:
     - virtualtour
 ---

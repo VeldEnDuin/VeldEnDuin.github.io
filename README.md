@@ -39,17 +39,33 @@ Door onder de sectie ```submenu:```  meer ```-items``` toe te voegen, maak je me
 
 Het niveau van 'inspringen' in dit bestand is cruciaal voor het gewenste effect.
 
-## normale pagina's
+## alle pagina's / default layout
 
-- waar toevoegen? --> per taal
 - welke structuren?
-
 [Markdown syntyax help](https://help.github.com/articles/github-flavored-markdown/)
+- belangrijkste vermelden
+
+- links leggen
 
 - prelude!!! --> layout zeker vermelden
+- maar ook de andere elementen uit de prelude die door default worden opgepikt
+
+- waar toevoegen? --> per taal
+- toevoegen aan de menu-structuur
+- pagina's die niet in de menu staan --> vertalingen linken
+
+
+overzicht layouts
++ specifiek per layout: meer uitleg per layout
 
 ## nieuws-articles
+
+- specifieke prelude elementen 
 
 
 ## "group" pagina's
 ### 'activity'
+
+- specifieke prelude elementen 
+
+## "landing" pagina's
