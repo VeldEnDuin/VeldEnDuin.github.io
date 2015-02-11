@@ -5,6 +5,7 @@ TODO
     - news-overview page
     - news-detail-page
         - share knoppen g+/tw/gb via juiste metadata
+        - links naar volgende/vorige
     - beetje vormgeving - padding & lijntje
     - dwing ronde beelden (crop effect css aspect-ratio)
       >> http://stackoverflow.com/questions/11552380/how-to-automatically-crop-and-center-an-image
