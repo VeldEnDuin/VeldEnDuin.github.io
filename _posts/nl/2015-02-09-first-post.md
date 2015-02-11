@@ -4,8 +4,8 @@ layout: news
 teaser: Hohoho!
 permalink: /nl/2015-02-09-eerste-bericht.html
 images:
-    - /img/activity/brugge-bynight.jpg
-    - /img/activity/brugge-canal-middle-shot.jpg
+    - /img/news/brugge-bynight-sq.jpg
+    - /img/news/brugge-canal-middle-shot-sq.jpg
 ---
 
 # Eerste post 

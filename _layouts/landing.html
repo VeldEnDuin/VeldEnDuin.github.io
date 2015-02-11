@@ -3,23 +3,21 @@ layout: default
 ---
 {% include layout-prelude.html %}
 
-
-<div class="vd-landing-intro jumbotron">
-{{ content }}
-</div>
-
-<div class="vd-landing-sections row">
+<div class="row">
 {% if page.newsfeed == true %}
     {% assign space = 8 %}
 {% else %}
     {% assign space = 12 %}
 {% endif %}
     <div class="col-lg-{{space}} col-md-{{space}}">
-
+        <div class="vd-landing-intro jumbotron">
+        {{ content }}
+        </div>
+        <div class="vd-landing-sections row">
     TODO -- run through all pages, filter landing padds
 
         and retain selected ones in landing sections...
-
+        </div>
     </div>
 
 
