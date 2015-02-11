@@ -3,6 +3,8 @@ TODO
 
 - nieuwsberichten
     - news-overview page
+    - news-detail-page
+        - share knoppen g+/tw/gb via juiste metadata
     - beetje vormgeving - padding & lijntje
     - dwing ronde beelden (crop effect css aspect-ratio)
       >> http://stackoverflow.com/questions/11552380/how-to-automatically-crop-and-center-an-image
@@ -17,7 +19,7 @@ TODO
  
 - landing-pads
 
-- addons
+- addons (qlabel / fiets-vriendelijk)
         
 - fotoalbum(s)
 
