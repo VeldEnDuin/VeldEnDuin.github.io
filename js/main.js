@@ -154,9 +154,20 @@ $(function(){
                 ;
                 // set on --> all others off
                 $btns.removeClass('active');
-                $items.not(subgrpSelector).fadeOut(1500);
+                var $hideItems = $items.not(subgrpSelector)
+                ;
+                function fadeIn() {
+                    $(subgrpSelector, $groupList).fadeIn(500);
+                }
+                function fadeOutThenIn() {
+                    $hideItems.fadeOut(500, fadeIn);
+                }
+                if ($hideItems.length > 0) {
+                    fadeOutThenIn();
+                } else {
+                    fadeIn();
+                }
                 $btn.addClass('active');
-                $(subgrpSelector, $groupList).fadeIn(1500);
                 activeSubGrp = newActiveGrp;
                 window.location.hash = newActiveGrp;
             }
