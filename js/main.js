@@ -119,7 +119,7 @@ $(function(){
              * ---------------------------------------------------------------
              */
             var subgroups = $item.data('subgroups');
-            subgroups.forEach(function(subgrp) {
+            subgroups.forEach( function(subgrp) {
                 $item.addClass('vd-subgrp-'+subgrp);
                 if (!subGrpCnts[subgrp]) {
                     subGrpCnts[subgrp] = 0;
@@ -171,14 +171,24 @@ $(function(){
                 activeSubGrp = newActiveGrp;
                 window.location.hash = newActiveGrp;
             }
+            /*
+            $btns.each(function(){
+                var $btn = $(this)
+                  , active = $btn.hasClass('active')
+                  , label = $btn.data('label')
+                ;
+                $btn.html('<span></span> ' + label);
+            });
+            */
             return false;
         }
         Object.keys(subGrpCnts).forEach(function(subgrp){
             var cnt = subGrpCnts[subgrp]
               , $check = $("<input type='checkbox' autocomplete='off' checked>")
               , $btn = $("<label id='vd-subgrp-btn-"+subgrp+"' class='btn btn-default active' ></label>")
+              , label = "<span class='glyphicon'></span> " + subgrp +" ("+cnt+")"
             ;
-            $btn.append($check).append(subgrp +" ("+cnt+")");
+            $btn.append($check).append(label).data('label', label);
 
             $btns = $btns.add($btn);
 

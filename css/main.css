@@ -5,6 +5,17 @@
 @import url("print.css") print;
 
 
+
+/* ===================================================================================
+ * styling menu --> branding icon
+ *   -------------------------------------------------------------------------------
+ */
+.navbar-brand img {
+    max-width: 100px;
+    margin-top: -10px;
+}
+
+
 /* ===================================================================================
  * styling vd-group sections
  *   -------------------------------------------------------------------------------
@@ -71,11 +82,11 @@
     color: rgb(10, 88, 10);
 }
 
-.vd-subgrp-btns label {
-     text-decoration: line-through;
+.vd-subgrp-btns label span.glyphicon:before{
+    content: '\e014  '; /* remove icon when not active*/
 }
-.vd-subgrp-btns label.active {
-     text-decoration: none;
+.vd-subgrp-btns label.active span.glyphicon:before{
+    content: '\e013  '; /* ok icon when active */
 }
 /*
  *   -------------------------------------------------------------------------------
@@ -88,14 +99,6 @@
  * styling vd-news sections
  *   -------------------------------------------------------------------------------
  */
-/*
-.vd-news-item {
-    position: relative;
-}
-.vd-news-item .vd-news-item-inner {
-    position: absolute;
-}
-*/
 .vd-news-item .vd-news-item-inner .vd-news-img {
   width: 4em;
   height: 4em;

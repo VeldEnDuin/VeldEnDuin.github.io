@@ -10,11 +10,11 @@
         <a href="{{pst.url}}">
             <div class="vd-news-item-inner col-lg-12 col-md-12 col-sm-12 col-xs-12"
                  data-images='{{pst.images | jsonify}}'><div class="row">
-            {% assign picurl = '/img/vd-logo-news.jpg' %}
+            {% assign picurl = '/img/vd-logo-news.png' %}
             {% if pst.images |size > 0 %}
                 {% assign picurl = pst.images[0] %}
             {% endif %}
-                <div class="vd-news-img hidden-xs pull-left">
+                <div class="vd-news-img pull-left">
                     <img src="{{picurl}}" class="img-responsive img-thumbnail img-circle"/>
                 </div>
                 <div>
