@@ -4,13 +4,54 @@ layout: default
 {% include layout-prelude.html %}
 
 <div class="vd-news">
-{{ content }}
-</div>
-
-<div class="vd-news-images row hidden-xs">
-{% for img in page.images %}
-    <div class="vd-news-image-item col-lg-4 col-md-4 col-sm-4">
-        <img src="{{ img }}" class="img-responsive img-thumbnail" >
+    <div class="vd-news-footer col-lg-12 col-md-12 col-sm-12 col-xs-12 btn-group">
+    {% if page.previous %}
+        <button type="button" class="btn btn-default">
+            <a href="{{page.previous.url}}">
+            <span class="glyphicon glyphicon-backward"></span>
+            {{page.previous.title}}
+            </a>
+        </button>
+    {% else %}
+        <button type="button" class="btn btn-default disabled">
+            <span class="glyphicon glyphicon-remove"></span>
+            {{site.data.langs[pgLang].dict.prev}}
+        </button>
+    {%endif%}
+        <button type="button" class="btn btn-default">
+            <a href="{{site.data.links.news[pgLang]}}">
+            <span class="glyphicon glyphicon-eject"></span>
+            {{site.data.langs[pgLang].dict.overview}}
+            </a>
+        </button>
+    {% if page.next %}
+        <button type="button" class="btn btn-default">
+            <a href="{{page.next.url}}">
+            <span class="glyphicon glyphicon-forward"></span>
+            {{page.next.title}}
+            </a>
+        </button>
+    {% else %}
+        <button type="button" class="btn btn-default disabled">
+            <span class="glyphicon glyphicon-remove"></span>
+            {{site.data.langs[pgLang].dict.next}}
+        </button>
+    {%endif%}
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+        </div>
     </div>
-{% endfor %}
+
+    <div class="vd-news-content col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+{{ content }}
+    </div>
+
+    <div class="vd-news-images row hidden-xs">
+    {% for img in page.images %}
+        <div class="vd-news-image-item col-lg-4 col-md-4 col-sm-4">
+            <img src="{{ img }}" class="img-responsive img-thumbnail" >
+        </div>
+    {% endfor %}
+    </div>
+
 </div>

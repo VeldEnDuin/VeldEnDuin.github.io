@@ -3,4 +3,9 @@ virtualtour:
     fr: /fr/tour-virtuel.html
     en: /en/virtual-tour.html
     de: /de/virtueller-besuch.html
+news:
+    nl: /nl/nieuws.html
+    fr: /fr/nouvelles.html
+    en: /en/news.html
+    de: /de/nachrichten.html
 

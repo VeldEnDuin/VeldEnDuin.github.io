@@ -1,32 +1,28 @@
 <div class="vd-news-title row">{{site.data.langs[pgLang].dict.news}}</div>
-<div class="vd-news-list row {{page.listclass}}"
+<div class="vd-news-list row {{page.class.news}}"
      id="vd-news-list" >
 {% for pst in site.posts  %}
     <!-- {{pst.title}} @{{pst.url}} -->
     {% assign parts = pst.url | split: '/' %}
     {% assign ln = parts[1] %}
     {% if ln == pgLang %}
-    <div class="vd-news-item {{page.itemclass}}" >
-        <div class="vd-news-item-inner col-lg-12 col-md-12 col-sm-12 col-xs-12"
-             data-images='{{pst.images | jsonify}}'><div class="row">
-        {% assign wdt=4 %}
-        {% assign rst=12 |minus: wdt %}
-            <div class="vd-news-img col-lg-{{wdt}} col-md-{{wdt}} col-sm-{{wdt}} hidden-xs
-                        col-lg-push-{{wdt}} col-sm-push-{{wdt}} col-sm-push-{{wdt}} ">
-        {% if pst.images |size > 0 %}
-                <img src="{{pst.images[0]}}" class="img-responsive img-thumbnail img-circle"/>
-        {% endif %}
-            </div>
-            <div class="col-lg-{{rst}} col-md-{{rst}} col-sm-{{rst}} col-xs-12
-                        col-lg-pull-{{wdt}} col-sm-pull-{{wdt}} col-sm-pull-{{wdt}} ">
-                <div class="vd-news-title ">
-                    <a href="{{pst.url}}">{{pst.title}}</a>
+    <div class="vd-news-item {{page.class.post}}" >
+        <a href="{{pst.url}}">
+            <div class="vd-news-item-inner col-lg-12 col-md-12 col-sm-12 col-xs-12"
+                 data-images='{{pst.images | jsonify}}'><div class="row">
+            {% assign picurl = '/img/vd-logo-news.jpg' %}
+            {% if pst.images |size > 0 %}
+                {% assign picurl = pst.images[0] %}
+            {% endif %}
+                <div class="vd-news-img hidden-xs pull-left">
+                    <img src="{{picurl}}" class="img-responsive img-thumbnail img-circle"/>
                 </div>
-                <div class="vd-news-teaser">
-                {{ pst.teaser }}
+                <div>
+                    <div class="vd-news-title ">{{ pst.title }}</div>
+                    <div class="vd-news-teaser">{{ pst.teaser }}</div>
                 </div>
-            </div>
-        </div></div>
+            </div></div>
+        </a>
     </div>
     {% endif %}
 {% endfor %}

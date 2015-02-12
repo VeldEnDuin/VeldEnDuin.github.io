@@ -7,6 +7,9 @@ nl:
         news: Nieuws
         mapxl: Grotere kaart weergeven
         virttour: Maak een virtuele tour door de camping
+        prev: vorige
+        next: volgende
+        overview: overzicht
 fr:
     label: français
     directions: ["N", "NE", "E", "SE", "S", "SO", "O", "NO"]
@@ -16,6 +19,9 @@ fr:
         news: Nouvelles
         mapxl: Agrandir le plan
         virttour: Faites une visite virtuelle à travers le camping
+        prev: précédent
+        next: suivant
+        overview: résumé
 de:
     label: Deutsch
     directions: ["N", "NO", "O", "SO", "S", "SW", "W", "NW"]
@@ -25,6 +31,9 @@ de:
         news: Nachrichten
         mapxl: Größere Kartenansicht
         virttour: Machen Sie einen virtuellen Rundgang durch den Campingplatz
+        prev: früher
+        next: als nächstes
+        overview: Zusammenfassung
 en:
     label: English
     directions: ["N", "NE", "E", "SE", "S", "SW", "W", "NW"]
@@ -34,3 +43,6 @@ en:
         news: News
         mapxl: View Larger Map
         virttour: Take a virtual tour through the campsite
+        prev: previous
+        next: next
+        overview: overview
