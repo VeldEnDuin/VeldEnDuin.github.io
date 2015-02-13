@@ -17,7 +17,7 @@
 {% assign ogTitle  = site.name %}
 {% assign ogType   = 'website' %}
 {% assign ogImgUrl = site.imgurl %}
-{% assign ogUrl    = site.url %}
+{% assign ogUrl    = '' %}
 {% assign ogDescr  = site.description %}
 
 <!-- specific settings for page -->
@@ -30,12 +30,12 @@
 <!-- for Facebook -->
 <meta property="og:title"       content="{{ ogTitle }}" />
 <meta property="og:type"        content="{{ ogType}}" />
-<meta property="og:image"       content="{{ site.url }}{ ogImgUrl  }}" />
-<meta property="og:url"         content="{{ ogImg }}" />
+<meta property="og:image"       content="{{ site.url }}{{ ogImgUrl  }}" />
+<meta property="og:url"         content="{{ site.url }}{{ ogUrl }}" />
 <meta property="og:description" content="{{ ogDescr }}" />
 
 <!-- for Twitter -->
 <meta name="twitter:card"        content="summary" />
-<meta name="twitter:title"       content="{{ ogTitile }}" />
+<meta name="twitter:title"       content="{{ ogTitle }}" />
 <meta name="twitter:description" content="{{ ogDescr }}" />
 <meta name="twitter:image"       content="{{ site.url }}{{ ogImgUrl }}" />
