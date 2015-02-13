@@ -2,9 +2,25 @@ TODO
 ====
 
 - nieuwsberichten
-    - news-overview page
     - news-detail-page
         - share knoppen g+/tw/gb via juiste metadata
+          - facebook:
+            https://developers.facebook.com/docs/plugins/share-button?locale=nl_NL
+          - google+:
+            https://developers.google.com/+/web/share/
+          - twitter:
+            http://www.webpop.com/blog/2011/02/16/add-a-custom-twitter-button-to-your-website
+            
+        *** algemeen ==> opengraph data ***    
+            https://developers.facebook.com/docs/plugins/checklist?locale=nl_NL
+
+GOOGLE+
+<a href="https://plus.google.com/share?url={URL}" 
+   onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+   <img src="https://www.gstatic.com/images/icons/gplus-64.png"
+        alt="Share on Google+"/>
+</a>
+
 
 - langlinks.yml >> links tussen verschillende talen aanbieden voor pages niet in menu door
    - link: 
