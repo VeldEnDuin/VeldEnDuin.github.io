@@ -1,7 +1,7 @@
 ---
 title: Eerste post
 layout: news
-teaser: Hohoho!
+description: Hohoho!
 permalink: /nl/2015-02-09-eerste-bericht.html
 images:
     - /img/activity/brugge-bynight.jpg

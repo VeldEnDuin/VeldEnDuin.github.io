@@ -1,7 +1,7 @@
 ---
 title: Tweede post
 layout: news
-teaser: Niet op de muren schrijven alsjeblieft!
+description: Niet op de muren schrijven alsjeblieft!
 permalink: /nl/2015-02-10-tweede-bericht.html
 images:
 ---
