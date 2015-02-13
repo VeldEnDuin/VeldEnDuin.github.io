@@ -204,5 +204,56 @@ $(function(){
         $(window).on('hashchange', followHash);
         followHash();
     }
+
+    /*
+     * Enable share buttons
+     * =======================================================================
+     */
+    var $shareGrp = $('#vd-share-group')
+      , shareData = $shareGrp.data('share')
+      , $shareBtns = $('button',$shareGrp)
+      , applicatorFor = {}
+    ;
+    applicatorFor['fb'] = function($btn) {
+        $btn.click(function(e){
+            window.open('https://www.facebook.com/dialog/share?app_id=' + encodeURIComponent(shareData['fb-app-id']) +
+                        '&display=popup&href=' + encodeURIComponent(shareData.url) +
+                        '&redirect_uri=' + encodeURIComponent(shareData['fb-redir']) + '&'
+                      , 'facebook share'
+                      , 'height=450, width=550, top='+($(window).height()/2 - 225) +', left='+$(window).width()/2 +
+                        ', toolbar=no, location=0, menubar=no, directories=no, scrollbars=no, resizeable=yes'
+                       );
+        });
+    };
+    applicatorFor['tw'] = function($btn) {
+        $btn.click(function(e){
+            window.open('http://twitter.com/share?url=' + encodeURIComponent(shareData.url) +
+                        '&text=' + encodeURIComponent(shareData.title) + '&'
+                      , 'twitter share'
+                      , 'height=450, width=550, top='+($(window).height()/2 - 225) +', left='+$(window).width()/2 +
+                        ', toolbar=no, location=0, menubar=no, directories=no, scrollbars=no, resizeable=yes'
+                       );
+        });
+    };
+    applicatorFor['gp'] = function($btn) {
+        $btn.click(function(){
+            window.open('https://plus.google.com/share?url=' + encodeURIComponent(shareData.url) + '&'
+                      , 'google+ share'
+                      , 'height=600, width=600, top='+($(window).height()/2 - 300) +', left='+$(window).width()/2 +
+                        ', toolbar=no, location=0, menubar=no, directories=no, scrollbars=no, resizeable=yes'
+                       );
+        });
+    };
+
+    $shareBtns.each(function(){
+        var $btn = $(this)
+          , role = $btn.attr('role').split('-')
+        ;
+        if (role.length !=2 || role[0] != 'share' ) {
+            return;
+        }
+        role = role[1];
+        applicatorFor[role]($btn)
+    });
 });
 })(jQuery);
