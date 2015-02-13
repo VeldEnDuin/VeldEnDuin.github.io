@@ -7,16 +7,30 @@ highlighter: pygments
 
 description: Veld & Duin, Camping Bredene
 url: http://veldenduin.be
+imgUrl: /img/vd-logo-news.png
+
 keywords:
   - camping
   - vakantie
+  - bredene
+  - kust
+  - België
+  - Vlaanderen
+  - Belgische kust
+  - Vlaamse kust
+  - duinen
+  - strand
+  - zee
+  - vakantie aan zee
+  - strandvakantie
   - honden
 
 geolocation: 51.252331, 2.978033
 
 links:
   social-fb: https://www.facebook.com/VeldEnDuin
-#  social-tw: https://twitter.com/fabiennesegaert
-#  social-in: https://www.linkedin.com/in/fabiennesegaert
+  social-gp: https://plus.google.com/+VeldenduinBe
+#  social-tw: https://twitter.com/....
+#  social-in: https://www.linkedin.com/in/....
   mail: info@veldenduin.be
 
