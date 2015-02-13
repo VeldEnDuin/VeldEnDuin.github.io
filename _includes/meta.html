@@ -13,19 +13,29 @@
 <link href="https://plus.google.com/+VeldenduinBe" rel="author" />
 <link href="https://plus.google.com/+VeldenduinBe" rel="publisher" />
 
+<!-- default settings for site -->
+{% assign ogTitle  = site.name %}
+{% assign ogType   = 'website' %}
+{% assign ogImgUrl = site.imgurl %}
+{% assign ogUrl    = site.url %}
+{% assign ogDescr  = site.description %}
+
+<!-- specific settings for page -->
+{%if page.title            %}{%assign ogTitle  = page.title       %}{%endif%}
+{%if page.ogType           %}{%assign ogType   = page.ogType      %}{%endif%}
+{%if page.images |size > 0 %}{%assign ogImgUrl = page.images[0]   %}{%endif%}
+{%if page.url              %}{%assign ogUrl    = page.url         %}{%endif%}
+{%if page.description      %}{%assign ogDescr  = page.description %}{%endif%}
+
 <!-- for Facebook -->
-<meta property="og:title" content="{{ site.name }}" />
-<meta property="og:type" content="website" />
-<!-- TODO image correctly
-<meta property="og:image" content="{{ site.url }}{{ site.data.slides[site.data.slides.default][0]  }}" />
--->
-<meta property="og:url" content="{{ site.url }}" />
-<meta property="og:description" content="{{ site.description }}" />
+<meta property="og:title"       content="{{ ogTitle }}" />
+<meta property="og:type"        content="{{ ogType}}" />
+<meta property="og:image"       content="{{ site.url }}{ ogImgUrl  }}" />
+<meta property="og:url"         content="{{ ogImg }}" />
+<meta property="og:description" content="{{ ogDescr }}" />
 
 <!-- for Twitter -->
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="{{ site.name }}" />
-<meta name="twitter:description" content="{{ site.description }}" />
-<!-- TODO image correctly
-<meta name="twitter:image" content="{{ site.url }}{{ site.data.slides[site.data.slides.default][0] }}" />
--->
+<meta name="twitter:card"        content="summary" />
+<meta name="twitter:title"       content="{{ ogTitile }}" />
+<meta name="twitter:description" content="{{ ogDescr }}" />
+<meta name="twitter:image"       content="{{ site.url }}{{ ogImgUrl }}" />
