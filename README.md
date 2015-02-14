@@ -43,9 +43,10 @@ Het niveau van 'inspringen' in dit bestand is cruciaal voor het gewenste effect.
 
 - welke structuren?
 [Markdown syntyax help](https://help.github.com/articles/github-flavored-markdown/)
+
 - belangrijkste vermelden
 
-- links leggen
+- links leggen --> link management en vertalingen
 
 - prelude!!! --> layout zeker vermelden
 - maar ook de andere elementen uit de prelude die door default worden opgepikt

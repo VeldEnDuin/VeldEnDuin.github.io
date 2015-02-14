@@ -28,6 +28,7 @@ TODO
   site.pages is een array van alle pages
   
 - "DOEN" sectie
+    - einddatum
     - link met infomuur en infomap(online)
 
 - bloglike news sectie
