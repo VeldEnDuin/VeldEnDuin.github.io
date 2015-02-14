@@ -42,7 +42,7 @@
       <div class="container-fluid">
         <div id="content" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
   {{ content }}
-  {% if page.include contains 'virtualtour' %}
+  {% if page.insert contains 'virtualtour' %}
     {% include virtualtour.html %}
   {% endif %}
         </div>
@@ -51,11 +51,13 @@
 
     <footer>
       <div class="container">
-          <div id="footer" class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-              {% include sharethis.html %}
-          </div>
-          <!-- more footer elements? -->
+        <div id="footer" class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+{% unless  page.remove contains 'socialshare'%}
+  {% include socialshare.html %}
+{% endunless%}
         </div>
+        <!-- more footer elements? -->
+      </div>
     </footer>
 
 
@@ -81,7 +83,7 @@
     <script type="text/javascript" src="/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="/js/main.js"></script>
 
-    {% include ga.html %}
+{% include ga.html %}
 
   </body>
 </html>

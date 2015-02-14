@@ -4,7 +4,7 @@ layout: default
 {% include layout-prelude.html %}
 
 <div class="row">
-{% if page.newsfeed == true %}
+{% if page.insert contains 'newsfeed' == true %}
     {% assign space = 8 %}
 {% else %}
     {% assign space = 12 %}
@@ -21,7 +21,7 @@ layout: default
     </div>
 
 
-{% if page.newsfeed == true %}
+{% if page.insert contains 'newsfeed' %}
     <div class="col-lg-4 col-md-4">
     {% include newsfeed.html %}
     </div>

@@ -224,6 +224,7 @@ $(function(){
                         ', toolbar=no, location=0, menubar=no, directories=no, scrollbars=no, resizeable=yes'
                        );
         });
+        return true;
     };
     applicatorFor['tw'] = function($btn) {
         $btn.click(function(e){
@@ -234,6 +235,7 @@ $(function(){
                         ', toolbar=no, location=0, menubar=no, directories=no, scrollbars=no, resizeable=yes'
                        );
         });
+        return true;
     };
     applicatorFor['gp'] = function($btn) {
         $btn.click(function(){
@@ -243,17 +245,24 @@ $(function(){
                         ', toolbar=no, location=0, menubar=no, directories=no, scrollbars=no, resizeable=yes'
                        );
         });
+        return true;
     };
 
     $shareBtns.each(function(){
         var $btn = $(this)
           , role = $btn.attr('role').split('-')
+          , applicator
+          , applied = false
         ;
-        if (role.length !=2 || role[0] != 'share' ) {
-            return;
+        if (role.length ==2 && role[0] == 'share' ) {
+            role = role[1];
+            if (applicator = applicatorFor[role]) {
+                applied = applicator($btn);
+            }
         }
-        role = role[1];
-        applicatorFor[role]($btn)
+        if (!applied) {
+            $btn.attr('disabled','disabled');
+        }
     });
 });
 })(jQuery);

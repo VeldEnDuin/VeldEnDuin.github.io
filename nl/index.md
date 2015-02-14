@@ -1,7 +1,8 @@
 ---
 layout: landing
 title: Camping Veld & Duin -- Landing -- NL
-newsfeed: true
+insert:
+    - newsfeed
 ---
 {% include links.md %}
 
