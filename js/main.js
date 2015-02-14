@@ -248,6 +248,19 @@ $(function(){
         return true;
     };
 
+    applicatorFor['pi'] = function($btn) {
+        $btn.click(function(){
+            window.open('https://www.pinterest.com/pin/create/button/?url=' + encodeURIComponent(shareData.url) +
+                        '&media=' + encodeURIComponent(shareData['pi-media']) +
+                        '&description=' + encodeURIComponent(shareData.title) + '&'
+                      , 'pinterest share'
+                      , 'height=600, width=600, top='+($(window).height()/2 - 300) +', left='+$(window).width()/2 +
+                        ', toolbar=no, location=0, menubar=no, directories=no, scrollbars=no, resizeable=yes'
+                       );
+        });
+        return true;
+    };
+
     $shareBtns.each(function(){
         var $btn = $(this)
           , role = $btn.attr('role').split('-')
