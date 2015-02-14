@@ -22,6 +22,7 @@ De structuur van dat bestand is deze:
         {iso taal code}:
             name: {label}
             link: {link voor dir menu}
+        linkby: {code voor links} // zie verder bij link-beheer
     - item: ... // meer items zoals voorgaande
 - item: ... // meer items zoals voorgaande
 ```
@@ -39,12 +40,23 @@ Door onder de sectie ```submenu:```  meer ```-items``` toe te voegen, maak je me
 
 Het niveau van 'inspringen' in dit bestand is cruciaal voor het gewenste effect.
 
+### todo
+TODO uitleg ivm linkbeheer - effect via [{klikbare tekst}][{linkcode}.{taalcode}]
+
+Voorbeeld: als je een menu-item een ```linkby: foo``` hebt gegeven, dan kun je in de ```*.md``` files daar een inline link naar leggen door deze tekst 
+
+``` Hier is een [link][foo.nl] naar de nederlandse link van dit menu-element ```
+
+
 ## alle pagina's / default layout
 
+### todo
 - welke structuren?
 [Markdown syntyax help](https://help.github.com/articles/github-flavored-markdown/)
 
 - belangrijkste vermelden
+
+- lege lijnen zijn belangrijk!
 
 - links leggen --> link management en vertalingen
 
@@ -60,13 +72,27 @@ overzicht layouts
 + specifiek per layout: meer uitleg per layout
 
 ## nieuws-articles
+### todo
 
 - specifieke prelude elementen 
 
 
 ## "group" pagina's
 ### 'activity'
+### todo
 
 - specifieke prelude elementen 
 
 ## "landing" pagina's
+
+### todo
+
+Hoe delen (zie verder) selecteren en toevoegen.
+
+
+
+## page-parts
+
+Oplossing voor landing-pads en addons --> selecteerbare delen die je toevoegt.
+
+### todo

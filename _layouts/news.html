@@ -6,39 +6,31 @@ layout: default
 <div class="vd-news">
     <div class="vd-news-footer col-lg-12 col-md-12 col-sm-12 col-xs-12 btn-group">
     {% if page.previous %}
-        <button type="button" class="btn btn-default">
-            <a href="{{page.previous.url}}">
+        <a class="btn btn-default" href="{{page.previous.url}}">
             <span class="glyphicon glyphicon-backward"></span>
             {{page.previous.title}}
-            </a>
-        </button>
+        </a>
     {% else %}
         <button type="button" class="btn btn-default disabled">
             <span class="glyphicon glyphicon-remove"></span>
             {{site.data.langs[pgLang].dict.prev}}
         </button>
     {%endif%}
-        <button type="button" class="btn btn-default">
-            <a href="{{site.data.links.news[pgLang]}}">
+        <a class="btn btn-default" href="{{site.data.links.news[pgLang].link}}">
             <span class="glyphicon glyphicon-eject"></span>
             {{site.data.langs[pgLang].dict.overview}}
-            </a>
-        </button>
+        </a>
     {% if page.next %}
-        <button type="button" class="btn btn-default">
-            <a href="{{page.next.url}}">
+        <a class="btn btn-default" href="{{page.next.url}}">
             <span class="glyphicon glyphicon-forward"></span>
             {{page.next.title}}
-            </a>
-        </button>
+        </a>
     {% else %}
         <button type="button" class="btn btn-default disabled">
             <span class="glyphicon glyphicon-remove"></span>
             {{site.data.langs[pgLang].dict.next}}
         </button>
     {%endif%}
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
         </div>
     </div>
 

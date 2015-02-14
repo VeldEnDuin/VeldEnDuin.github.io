@@ -7,7 +7,6 @@
         name: Good to know
     de:
         name: Gut zu wissen
-
   submenu:
     - item:
         nl:
@@ -22,6 +21,7 @@
         de:
             name: Unsere Stärken
             link: /de/unsere-stärken.html
+      linkby: strength
 
     - item:
         nl:
@@ -36,6 +36,7 @@
         de:
             name: Wofür wir stehen
             link: /de/wofür-wir-stehen.html
+      linkby: standing
 
     - item:
         nl:
@@ -50,6 +51,7 @@
         de:
             name: Wer wir sind
             link: /de/wer-wir-sind.html
+      linkby: who
 
 - item:
     nl:
@@ -74,6 +76,7 @@
         de:
             name: zur Miete
             link: /de/zur-miete.html
+      linkby: rent
     - item:
         nl:
             name: Arrangementen
@@ -87,6 +90,7 @@
         de:
             name: Packages
             link: /de/packages.html
+      linkby: package
 
     - item:
         nl:
@@ -101,6 +105,7 @@
         de:
             name: Wandern
             link: /de/wandern.html
+      linkby: wander
 
     - item:
         nl:
@@ -115,6 +120,7 @@
         de:
             name: Wohn Aufenthalt
             link: /de/wohn-aufenthalt
+      linkby: residential
 
     - item:
         nl:
@@ -129,6 +135,7 @@
         de:
             name: zu verkaufen
             link: /de/zu-verkaufen.html
+      linkby: buy
 
 
 - item:
@@ -154,6 +161,7 @@
         de:
             name: Spielplatz
             link: /de/spielplatz.html
+      linkby: playground
 
     - item:
         nl:
@@ -168,6 +176,7 @@
         de:
             name: Animation
             link: /de/Animation.html
+      linkby: animation
 
     - item:
         nl:
@@ -182,6 +191,7 @@
         de:
             name: Boules
             link: /de/Boules.html
+      linkby: boules
 
     - item:
         nl:
@@ -196,6 +206,7 @@
         de:
             name: Internet
             link: /de/internet.html
+      linkby: internet
 
     - item:
         nl:
@@ -210,6 +221,7 @@
         de:
             name: Sanitär
             link: /de/sanitär.html
+      linkby: sanitary
 
     - item:
         nl:
@@ -224,6 +236,7 @@
         de:
             name: Waschraum
             link: /de/waschraum.html
+      linkby: washroom
 
     - item:
         nl:
@@ -238,6 +251,7 @@
         de:
             name: Sauna
             link: /de/sauna.html
+      linkby: sauna
 
     - item:
         nl:
@@ -252,6 +266,7 @@
         de:
             name: info Wand
             link: /de/inf-wand.html
+      linkby: infowall
 
 - item:
     nl:

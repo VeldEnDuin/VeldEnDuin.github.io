@@ -1,14 +1,6 @@
 TODO
 ====
 
-- langlinks.yml >> links tussen verschillende talen aanbieden voor pages niet in menu door
-   - link: 
-        nl: /nl/virtualtour.html 
-        fr: /fr/virtualtour.html 
-        
- >> makkelijker op de page zelf! page.langlinks ! ==> ook op posts!
- >> bleh dan x4 copy paste! voor elke taal
- 
 - landing-pads
 
 - addons (qlabel / fiets-vriendelijk)
