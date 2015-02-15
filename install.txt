@@ -1,0 +1,5 @@
+* sudo dpkg -i /tmp/brackets-*.deb
+* sudo apt-get install ruby ruby-dev make gcc nodejs zlib1g-dev git
+* sudo gem install jekyll github-pages bundler --no-rdoc --no-ri
+* git clone git@github.com:VeldEnDuin/VeldEnDuin.github.io.git
+* bundle install
