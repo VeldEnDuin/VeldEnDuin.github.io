@@ -38,7 +38,7 @@ De structuur van dat bestand is deze:
         {iso taal code}:
             name: {label}
             link: {link voor dir menu}
-        linkby: {link-code} 
+      linkby: {link-code} 
     - item: ... // meer items zoals voorgaande
 - item: ... // meer items zoals voorgaande
 ```
@@ -59,19 +59,17 @@ Je kunt elk item ook voorzien van een ```linkby``` code waardoor de menu-link oo
 
 Het niveau van 'inspringen' in dit bestand is cruciaal voor het gewenste effect.
 
-## Alle pagina's / default layout
+## Alle pagina's / ongeacht layout
 
-Deze website laat toe de web-pagina's en de elmenten erin te noteren in zogneaamde *markdown* notatie.  Deze betanden zijn te herkennen aan hun ```*.md``` extensie.  Hieronder beschrijven we wat je in deze site met deze bestanden kunt doen.
+Deze website laat toe de web-pagina's en de elementen erin te noteren in zogenaamde *markdown* notatie.  Deze betanden zijn te herkennen aan hun ```*.md``` extensie.  Hieronder beschrijven we wat je in deze site met deze bestanden kunt doen.
 
 ### Locatie van de bestanden
 
 In het algemeen worden deze pagina's best per taal georganizeerd. Deze site bevat reeds specifieke folders voor volgende talen: [nl], [fr], [en], [de].  Speciale types tekst die ook als onderdeel op andere pagina's moeten verschijnen (voornamelijk de nieuws-artikels) krijgen een andere locatie (zie verder) 
 
-Een bijgevoegde pagina wil je mogelijks ook toevoegen aan het beschreven link-beheer (zie verder).  Dat doe je door de pagina te beschrijven in de [menu.yml] of [link.yml].
+Om een taal toe te voegen kun je een nieuwe folder beginnen, en ze uitwerken in het [langs.yml] bestand.
 
-Om een taal toe te voegen kun je dus een nieuwe folder beginnen, en ze uitwerken in het [langs.yml] bestand.
-
-**Tip:** De hier beschreven locaties voor de pagina.md bestanden zijn **niet** strikt vereist om een werkend systeem te krijgen.  De juiste aanduiding van de paden in de [link.yml] en [menu.yml] is eigenlijk het enige wat echt telt.  Toch is de voorgestelde opodeling hanteren vooral nuttig om te blijven alles vlot terug vinden.  Indien nuttig mogen dus ook naar believen verdere onderverdelingen gemaakt door het toevoegen van subfolders.
+**Tip:** De hier beschreven locaties voor de pagina.md bestanden zijn **niet** strikt vereist om een werkend systeem te krijgen.  De juiste aanduiding van de paden in de [link.yml] en [menu.yml] is eigenlijk het enige wat echt telt.  Toch is de voorgestelde opdeling hanteren vooral nuttig om te blijven alles vlot terug te vinden.  Indien nuttig mogen dus ook naar believen verdere onderverdelingen gemaakt door het toevoegen van subfolders.
 
 ### Grafische elementen
 Verschillende grafische effecten kunnen op makkelijke manier ingegeven worden.
