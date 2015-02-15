@@ -33,9 +33,6 @@ TODO
 
   - skrollr toevoegen ?
 
-- andere idee
-    - atom feed mogelijk voor oppikken via ifttt
-  
 - externe refs inlinken
   - google+ image-albums
   - google-form --> aanvraagformulier 
