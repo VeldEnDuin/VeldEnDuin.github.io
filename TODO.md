@@ -4,7 +4,12 @@ TODO
 - addons (qlabel / fiets-vriendelijk)
   >> geef die een image en een preview, en sleur die ergens anders op via prelude 'preview' ==> [/link1, /link2]
         
+- landing page carousel!
+
 - fotoalbum(s)
+  - include one album
+  - allow browsing all albums
+  - preview en autoplay
 
 - "DOEN" sectie
     - einddatum
@@ -37,6 +42,10 @@ TODO
   - google+ image-albums
   - google-form --> aanvraagformulier 
   
+- footer die overeind blijft in context van responsive design
+  
+- kleurcodes en bootstrap.css
+
 - type-pages
   - 'landing' LandingPage --> 3 main topics
   - 'news'    Article ? (andere dan default?)
