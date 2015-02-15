@@ -21,7 +21,7 @@
         de:
             name: Unsere Stärken
             link: /de/unsere-stärken.html
-      linkby: strength
+      linkby: troeven
 
     - item:
         nl:
@@ -36,7 +36,7 @@
         de:
             name: Wofür wir stehen
             link: /de/wofür-wir-stehen.html
-      linkby: standing
+      linkby: hier-staan-we-voor
 
     - item:
         nl:
@@ -51,7 +51,7 @@
         de:
             name: Wer wir sind
             link: /de/wer-wir-sind.html
-      linkby: who
+      linkby: wie-zijn-we
 
 - item:
     nl:
@@ -76,7 +76,7 @@
         de:
             name: zur Miete
             link: /de/zur-miete.html
-      linkby: rent
+      linkby: huur
     - item:
         nl:
             name: Arrangementen
@@ -90,7 +90,7 @@
         de:
             name: Packages
             link: /de/packages.html
-      linkby: package
+      linkby: arrangement
 
     - item:
         nl:
@@ -105,7 +105,7 @@
         de:
             name: Wandern
             link: /de/wandern.html
-      linkby: wander
+      linkby: trekken
 
     - item:
         nl:
@@ -120,7 +120,6 @@
         de:
             name: Wohn Aufenthalt
             link: /de/wohn-aufenthalt
-      linkby: residential
 
     - item:
         nl:
@@ -135,7 +134,6 @@
         de:
             name: zu verkaufen
             link: /de/zu-verkaufen.html
-      linkby: buy
 
 
 - item:
@@ -161,7 +159,7 @@
         de:
             name: Spielplatz
             link: /de/spielplatz.html
-      linkby: playground
+      linkby: speel
 
     - item:
         nl:
@@ -176,7 +174,7 @@
         de:
             name: Animation
             link: /de/Animation.html
-      linkby: animation
+      linkby: anim
 
     - item:
         nl:
@@ -191,7 +189,7 @@
         de:
             name: Boules
             link: /de/Boules.html
-      linkby: boules
+      linkby: petanque
 
     - item:
         nl:
@@ -206,7 +204,7 @@
         de:
             name: Internet
             link: /de/internet.html
-      linkby: internet
+      linkby: net
 
     - item:
         nl:
@@ -221,7 +219,7 @@
         de:
             name: Sanitär
             link: /de/sanitär.html
-      linkby: sanitary
+      linkby: sanit
 
     - item:
         nl:
@@ -236,7 +234,7 @@
         de:
             name: Waschraum
             link: /de/waschraum.html
-      linkby: washroom
+      linkby: was
 
     - item:
         nl:
@@ -266,7 +264,6 @@
         de:
             name: info Wand
             link: /de/inf-wand.html
-      linkby: infowall
 
 - item:
     nl:
