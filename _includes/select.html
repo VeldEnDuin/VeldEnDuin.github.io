@@ -10,15 +10,17 @@
                 <div class="vd-select-title">
             {{ pg.title }}
                 </div>
+            {% if pg.preview | size > 0 %}
                 <div class="vd-select-content">
                     <ul>
-            {% for hl in pg.highlights %}
+                {% for it in pg.preview %}
                         <li>
-                {{ hl }}
+                    {{ it }}
                         </li>
-            {% endfor %}
+                {% endfor %}
                     </ul>
                 </div>
+            {% endif %}
             </div>
         </div>
     </a>

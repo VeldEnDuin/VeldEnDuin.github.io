@@ -1,7 +1,7 @@
 ---
 title: Te Huur
 layout: default
-highlights:
+preview:
     - eentje
     - tweede
     - derde
