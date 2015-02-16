@@ -1,0 +1,28 @@
+<div class="vd-select-list {{page.class.select.list}}" id="vd-select-list">
+{% for select in page.select %}
+    {% for pg in site.pages %}
+        {% if pg.url == site.data.links[select][pgLang].link %}
+    <a href="{{pg.url}}">
+        <div class="vd-select-item {{page.class.select.item}}">
+            <div class="vd-select-item-inner"
+                 style="background-image: url('{{pg.images[0]}}');"
+            >
+                <div class="vd-select-title">
+            {{ pg.title }}
+                </div>
+                <div class="vd-select-content">
+                    <ul>
+            {% for hl in pg.highlights %}
+                        <li>
+                {{ hl }}
+                        </li>
+            {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </a>
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+</div>

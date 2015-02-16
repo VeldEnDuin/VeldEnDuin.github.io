@@ -8,4 +8,13 @@ news:
     fr: { link: /fr/nouvelles.html   }
     en: { link: /en/news.html        }
     de: { link: /de/nachrichten.html }
+huur:
+    nl: { link: /nl/huren.html            }
+koop:
+    nl: { link: /nl/te-koop.html          }
+fietslabel:
+    nl: { link: /nl/fietsvriendelijk.html }
+qlabel:
+    nl: { link: /nl/qlabel.html           }
+
 

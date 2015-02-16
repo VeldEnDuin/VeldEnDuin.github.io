@@ -1,12 +1,12 @@
 <div class="vd-news-title row">{{site.data.langs[pgLang].dict.news}}</div>
-<div class="vd-news-list row {{page.class.news}}"
+<div class="vd-news-list row {{page.class.news.list}}"
      id="vd-news-list" >
 {% for pst in site.posts  %}
     <!-- {{pst.title}} @{{pst.url}} -->
     {% assign parts = pst.url | split: '/' %}
     {% assign ln = parts[1] %}
     {% if ln == pgLang %}
-    <div class="vd-news-item {{page.class.post}}" >
+    <div class="vd-news-item {{page.class.news.item}}" >
         <a href="{{pst.url}}">
             <div class="vd-news-item-inner col-lg-12 col-md-12 col-sm-12 col-xs-12"
                  data-images='{{pst.images | jsonify}}'><div class="row">

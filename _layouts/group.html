@@ -12,7 +12,7 @@ layout: default
 {{ content }}
 </div>
 
-<div class="vd-group-list row {{page.class.list}}"
+<div class="vd-group-list row {{page.class.group.list}}"
      id="vd-group-list"
      data-geolocation="{{site.geolocation}}">
 {% assign rankedpages = site.pages | sort: 'ranking' %}
@@ -20,7 +20,7 @@ layout: default
     {% assign parts = pg.url | split: '/' %}
     {% assign ln = parts[1] %}
     {% if pg.group == page.ofgroup and ln == pgLang %}
-    <div class="vd-group-item vd-group-{{page.ofgroup}}-item {{page.class.item}}"
+    <div class="vd-group-item vd-group-{{page.ofgroup}}-item {{page.class.group.item}}"
          data-title      = "{{ pg.title }}"
          data-images     = '{{ pg.images | jsonify}}'
          data-link       = "{{ pg.link  }}"

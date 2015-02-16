@@ -41,42 +41,57 @@
  *   -------------------------------------------------------------------------------
  *   [all groups]
  */
-.vd-group-item {
+.vd-group-item
+, .vd-select-item
+{
     height: 20em !important;
     overflow: hidden;
     padding: 5px;
 }
 
-.vd-group-item-inner {
+.vd-group-item-inner
+, .vd-select-item-inner
+{
     background-size: cover;
     background-position: center center;
     height: 100% !important;
 }
 
-.vd-group-title, .vd-group-info {
+.vd-group-title, .vd-group-info
+, .vd-select-title, .vd-select-info
+{
     color: rgba(255,255,255,1);
     background-color: rgba(0, 0, 0, 0.8);
     width: 100%;
     padding: 0.5em;
 }
 
-.vd-group-info {
+.vd-group-info
+, .vd-select-info
+{
     transition: opacity 1.5s;
     opacity: 0;
 }
-.vd-group-item:hover .vd-group-info {
+.vd-group-item:hover .vd-group-info
+, .vd-select-item:hover .vd-select-info
+{
     opacity: 1;
 }
 
-.vd-group-title .vd-group-info-sign {
+.vd-group-title .vd-group-info-sign
+{
     float: right;
 }
 
-.vd-group-info ul, .vd-group-info ul li {
+.vd-group-info ul, .vd-group-info ul li
+, .vd-select-info ul, .vd-select-info ul li
+{
     background-color: transparent;
 }
 
-.vd-group-content {
+.vd-group-content
+, .vd-select-content
+{
     position: absolute;
     width: 100%;
     background-color: rgba(255,255,255,0.8);
@@ -85,29 +100,52 @@
     opacity: 0;
     bottom: -50%;
 }
-.vd-group-item:hover .vd-group-content {
+.vd-group-item:hover .vd-group-content
+, .vd-select-item:hover .vd-select-content
+{
     opacity: 1;
     bottom: 0;
 }
 
+.vd-select-item .vd-select-item-inner
+{
+    background-size: 100%;
+    transition: background-size 0.5s ease-in;
+    -moz-transition: background-size 0.5s ease-in;
+    -ms-transition: background-size 0.5s ease-in;
+    -o-transition: background-size 0.5s ease-in;
+    -webkit-transition: background-size 0.5s ease-in;
+}
+.vd-select-item:hover .vd-select-item-inner
+{
+    background-size: 105%;
+}
 
-.vd-group-content ul {
+
+.vd-group-content ul
+, .vd-select-content ul
+{
     list-style: none;
     font: glyphicon;
 }
 
-.vd-group-content ul li:before {
+.vd-group-content ul li:before
+, .vd-select-content ul li:before
+{
     font-family: 'Glyphicons Halflings';
     content: '\e013  ';
     color: rgb(10, 88, 10);
 }
 
-.vd-subgrp-btns label span.glyphicon:before{
+.vd-subgrp-btns label span.glyphicon:before
+{
     content: '\e014  '; /* remove icon when not active*/
 }
-.vd-subgrp-btns label.active span.glyphicon:before{
+.vd-subgrp-btns label.active span.glyphicon:before
+{
     content: '\e013  '; /* ok icon when active */
 }
+
 /*
  *   -------------------------------------------------------------------------------
  *   [group :: activity]
