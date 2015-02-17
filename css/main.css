@@ -106,7 +106,16 @@
     opacity: 1;
     bottom: 0;
 }
+/*
+ *   -------------------------------------------------------------------------------
+ *   [group :: activity]
+ */
 
+
+/* ===================================================================================
+ * styling vd-select sections
+ *   -------------------------------------------------------------------------------
+ */
 .vd-select-item .vd-select-item-inner
 {
     background-size: 100%;
@@ -148,12 +157,6 @@
     content: '\e013  '; /* ok icon when active */
 }
 
-/*
- *   -------------------------------------------------------------------------------
- *   [group :: activity]
- */
-
-
 
 /* ===================================================================================
  * styling vd-news sections
@@ -171,4 +174,20 @@
 .vd-news-item .vd-news-item-inner .vd-news-img img {
   min-height: 100%;
   min-width: 100%;
+}
+
+.vd-news-item {
+    overflow: hidden;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    border-bottom: 1px solid black;
+}
+
+.vd-news-item:last {
+    padding-bottom: inherit;
+    border-bottom: inherit;
+}
+
+.vd-news-item:hover {
+    background-color: rgba(10, 128, 0, 0.61);
 }
