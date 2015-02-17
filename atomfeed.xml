@@ -5,9 +5,9 @@
 
   <title>{{site.name | xml_escape }}</title>
   <link href="{{site.url}}"/>
-  <link type="application/atom+xml" rel="self" href="http://example.com/atom.xml"/>
+  <link type="application/atom+xml" rel="self" href="{{site.url}}/atomfeed.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>{{site.url}}</id>
+  <id>{{site.url}}/</id>
   <author>
     <name>{{site.name | xml_escape }}</name>
     <email>{{site.links.mail}}</email>
