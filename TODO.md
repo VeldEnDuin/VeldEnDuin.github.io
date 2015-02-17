@@ -1,19 +1,27 @@
 TODO
 ====
 - landing-pads
+    --> wat als er teveel zijn? --> javascript
+    
 - addons (qlabel / fiets-vriendelijk)
-  >> geef die een image en een preview, en sleur die ergens anders op via prelude 'preview' ==> [/link1, /link2]
+    --> zelfde maar andere styling
         
 - landing page carousel!
+
 
 - fotoalbum(s)
   - include one album
   - allow browsing all albums
   - preview en autoplay
 
+
 - "DOEN" sectie
     - einddatum
     - link met infomuur en infomap(online)
+
+- blokje voor terugkerende aandacht naar reserveren
+
+- en formulier(en) inlassen
 
 - zoek-formulier in de navbar ++ koppelen aan google-search! 
   --> https://www.google.com/cse
@@ -21,6 +29,7 @@ TODO
   
   --> zoek-bar verbergen/scalen voor verschillende formaten! eventueel ook verbergen
 
+- mailchimp styling --> Joke?
 
 - concrete elementen
 
