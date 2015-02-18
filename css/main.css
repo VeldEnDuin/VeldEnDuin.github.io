@@ -47,14 +47,17 @@
     overflow: hidden;
     padding: 5px;
 }
+
 .vd-group-item
 {
     height: 20em !important;
 }
+
 .vd-select-item
 {
     height: 30em !important;
 }
+
 .vd-group-item-inner
 , .vd-select-item-inner
 {
