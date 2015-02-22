@@ -1,11 +1,18 @@
 @import url("bootstrap.min.css");
 @import url("font-awesome.min.css");
-/* TODO beslissen over gebruikte google fonts?
-@import url("//fonts.googleapis.com/css?family=EB+Garamond"));
-*/
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url("print.css") print;
 
 
+
+/* ===================================================================================
+ * Typography
+ *   -------------------------------------------------------------------------------
+ */
+body {
+ /* TODO -- this effect should come from the custom bootstrap.css we will produce later? */
+    font-family: 'Montserrat', sans-serif;
+}
 
 /* ===================================================================================
  * styling menu --> branding icon
@@ -127,7 +134,7 @@
  */
 .vd-select-item .vd-select-item-inner
 {
-    background-size: 100%;
+    background-size: cover;
     /*
     transition: background-size 0.2s ease-in;
     -moz-transition: background-size 0.2s ease-in;
@@ -136,10 +143,12 @@
     -webkit-transition: background-size 0.2s ease-in;
     */
 }
+/*
 .vd-select-item:hover .vd-select-item-inner
 {
     background-size: 105%;
 }
+*/
 
 
 .vd-group-content ul
