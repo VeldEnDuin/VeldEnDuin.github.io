@@ -1,8 +1,8 @@
 <!-- current lang == {{pgLang}} - current link = {{pgLink}} -->
 <!-- hrefLangVariants == {{ hrefLangVariants | jsonify }} -->
 {% for m1 in site.data.menu %}
-    {% if pgLink == m1.item[pgLang].link %}
-        {% assign hrefLangVariants = m1.item %}
+    {% if pgLink == m1.menu[pgLang].link %}
+        {% assign hrefLangVariants = m1.menu %}
         <!-- hrefLangVariants == {{ hrefLangVariants | jsonify }} -->
     {% endif %}
     {% for m2 in m1.submenu %}
@@ -14,7 +14,7 @@
     <!-- hrefLangVariants == {{ hrefLangVariants | jsonify }} -->
 {% endfor %}
 {% unless hrefLangVariants[pgLang] %}
-    {% for codelink in site.data.links %}
+    {% for codelink in site.data.linkcode %}
         {% if pgLink == codelink[1][pgLang].link %}
              {% assign hrefLangVariants = codelink[1] %}
         {% endif %}

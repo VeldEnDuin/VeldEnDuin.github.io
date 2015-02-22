@@ -1,7 +1,7 @@
 <div class="vd-select-list {{page.class.select.list}}" id="vd-select-list">
 {% for select in page.select %}
     {% for pg in site.pages %}
-        {% if pg.url == site.data.links[select][pgLang].link %}
+        {% if pg.url == site.data.linkcode[select][pgLang].link %}
     <a href="{{pg.url}}">
         <div class="vd-select-item {{page.class.select.item}}">
             <div class="vd-select-item-inner"
