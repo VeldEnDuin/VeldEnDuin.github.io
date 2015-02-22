@@ -1,15 +1,15 @@
-[langs.yml]:   ./_data/langs.yml
-[menu.yml]:    ./_data/menu.yml
-[link.yml]:    ./_data/link.yml
-[README.md]:   ./README.md
-[nl]:          ./nl/
-[fr]:          ./fr/
-[de]:          ./de/
-[en]:          ./en/
-[_posts/nl]:   ./_posts/nl/
-[_posts/fr]:   ./_posts/fr/
-[_posts/en]:   ./_posts/en/
-[_posts/de]:   ./_posts/de/
+[langs.yml]:     ./_data/langs.yml
+[menu.yml]:      ./_data/menu.yml
+[linkcode.yml]:  ./_data/linkcode.yml
+[README.md]:     ./README.md
+[nl]:            ./nl/
+[fr]:            ./fr/
+[de]:            ./de/
+[en]:            ./en/
+[_posts/nl]:     ./_posts/nl/
+[_posts/fr]:     ./_posts/fr/
+[_posts/en]:     ./_posts/en/
+[_posts/de]:     ./_posts/de/
 
 
 [Deze tekst op volle pagina][README.md]
@@ -36,44 +36,39 @@ Beheer van de publieke website www.veldenduin.be
 
 De twee niveau's van het menu (hoofdmenu en submenu's) worden beheerd in het bestand [menu.yml].
 
-Structuur menu:
-MAG EERSTE ITEM NIET VERVANGEN WORDEN DOOR 'HOOFDMENU', 'ITEM' STAAT DAN VOOR DE VERSCHILLENDE SUBMENU'S - NU NOGAL VERWARREND
-Het menu bestaat uit hoofdmenu's en submenu's:
-Hoofdmenu
-MARC: HOE ZET JE ZO'N ACOLADE / MATJE?
-
-```yml WAT WIL DIT ZEGGEN/WAAR DIENT DIT VOOR - IS DIT IETS MET GRIJZE ACHTERGROND TE ZETTEN?'
-- item:
-    {iso taal code}:
+De structuur van dat bestand is deze:
+```yml
+- menu:
+    {taal-code}:
         name: {label}
         link: {link}
-    {iso taal code} ... // zelfde voor volgende taal
-    linkby: {link-code}}
+    {taal-code} ... // zelfde voor volgende taal
+    linkcode: {link-code}
   submenu:
     - item:
         {iso taal code}:
             name: {label}
             link: {link voor dir menu}
-      linkby: {link-code} 
+      linkcode: {link-code} 
     - item: ... // meer items zoals voorgaande
-- item: ... // meer items zoals voorgaande
+- menu: ... // meer menu-items zoals voorgaande
 ```
 
 Daarin vervang je
 
 {deze elementen} | door deze waarden | om dit te bereiken
 -----------------|-------------------|-------------------
-{iso taal code}  | nl, fr, de, en    | 2-letter taal code die naam en link beschrijven voor die taal
+{taal-code}      | nl, fr, de, en    | 2-letter taal code die naam en link beschrijven voor die taal
 {label}          | bv. Mijn Tekst    | Het label dat in het menu zichtbaar zal zijn voor de eindgebruiker
 {link}           | bv. /nl/link/pagina.html | De link naar de pagina die gevolgd wordt als deze menuoptie wordt gekozen
 
-Je kunt zoveel ```-item``` lijnen invoeren als je wilt, er moet natuurlijk wel genoeg plaats zijn om alle menu-items te kunnen bevatten.
+Je kunt zoveel ```-menu``` lijnen invoeren als je wilt, er moet natuurlijk wel genoeg plaats zijn om alle menu-items te kunnen bevatten.
 
-Door onder de sectie ```submenu:```  meer ```-items``` toe te voegen, maak je menu-items die zich op het tweede niveau bevinden (onder het huidige item dus). Items met een subniveau hebben geen ```{link}``` nodig, want als je er op klikt moet het subniveau opengaan, en dus wordt de link toch niet gevolgd.
+Door onder de sectie ```submenu:```  meer ```-item```s toe te voegen, maak je submenu-items die zich op het tweede niveau bevinden (onder het huidige menu dus). Menu's met een subniveau hebben geen ```{link}``` nodig, want als je er op klikt moet het subniveau opengaan, en dus wordt de link toch niet gevolgd.
 
-Je kunt elk item ook voorzien van een ```linkby``` code waardoor de menu-link ook beschikbaar wordt om vanuit de tekst links te leggen naar deze items.  Zie sectie over linkbeheer.
+Je kunt elk item ook voorzien van een ```linkcode``` code waardoor de menu-link ook beschikbaar wordt om vanuit de tekst links te leggen naar deze items.  Zie sectie over linkbeheer.
 
-Het niveau van 'inspringen' in dit bestand is cruciaal voor het gewenste effect.
+Het niveau van 'inspringen' in dit bestand is cruciaal voor het gewenste effect. Inspringen kan met tab of spatie.
 
 ## Alle pagina's / ongeacht layout
 
@@ -85,7 +80,7 @@ In het algemeen worden deze pagina's best per taal georganizeerd. Deze site beva
 
 Om een taal toe te voegen kun je een nieuwe folder beginnen, en ze uitwerken in het [langs.yml] bestand.
 
-**Tip:** De hier beschreven locaties voor de pagina.md bestanden zijn **niet** strikt vereist om een werkend systeem te krijgen.  De juiste aanduiding van de paden in de [link.yml] en [menu.yml] is eigenlijk het enige wat echt telt.  Toch is de voorgestelde opdeling hanteren vooral nuttig om te blijven alles vlot terug te vinden.  Indien nuttig mogen dus ook naar believen verdere onderverdelingen gemaakt door het toevoegen van subfolders.
+**Tip:** De hier beschreven locaties voor de pagina.md bestanden zijn **niet** strikt vereist om een werkend systeem te krijgen.  De juiste aanduiding van de paden in de [linkcode.yml] en [menu.yml] is eigenlijk het enige wat echt telt.  Toch is de voorgestelde opdeling hanteren vooral nuttig om te blijven alles vlot terug te vinden.  Indien nuttig mogen dus ook naar believen verdere onderverdelingen gemaakt door het toevoegen van subfolders.
 
 ### Grafische elementen
 Verschillende grafische effecten kunnen op makkelijke manier ingegeven worden.
@@ -101,7 +96,7 @@ tekst in *cursief* krijg je door enkele sterren ```*``` voor en achter toe te vo
 door een ```-``` of ```*``` teken met spatie aan het begin van een lijn te gebruiken kun je makkelijk lijstjes aanmaken:
 * item 1
 * item 2
-- item 3
+- topic 3
 
 
 **gescheiden paragrafen:**
@@ -119,21 +114,31 @@ Zonder de lege tussenlijn worden teksten aan dezelfde paragraaf toegevoegd.
 ## hoofd 2
 ### hoofd 3 (enz.)
 
-**tabellen:** Kun je aanmaken door de kolommen met ```|``` tekens te scheiden en (belangrijk) ook de eerste rij van de volgende te scheiden met ```--|--``` lijnen waar het aantal kolommen in terugkomt
+**tabellen:** Kun je aanmaken door de kolommen met ```|``` tekens te scheiden en (belangrijk) ook de eerste rij van de volgende te scheiden met ```---|---``` lijnen waar het aantal kolommen in terugkomt
+
+Belangrijk: De scheidingslijnen moeten minstens 3 mintekens lang zijn
+
+Kolommen kunnen gealligneerd worden dmv het toevoegen van ```:``` tekens in de scheidingslijnen:
+* links ```:---```
+* rechts ```---:```
+* centreer ```:---:```
 
 Resultaat:
 
-1 | 2
---|--
-a | b 
-c | d
+ rechts     | center            | links
+-----------:|:-----------------:|:-----
+hallo       | ik ben            | een zanger 
+een muziek- | behanger          | die dooie melodietjes
+levend      | maakt. Coupletjes | en refreintjes
+
 
 Door:
 ```md
-1 | 2
---|--
-a | b 
-c | d
+ rechts     | center            | links
+-----------:|:-----------------:|:-----
+hallo       | ik ben            | een zanger 
+een muziek- | behanger          | die dooie melodietjes
+levend      | maakt. Coupletjes | en refreintjes
 ```
 
 ### Links leggen en beheren
@@ -146,15 +151,17 @@ Hiervoor zijn een aantal mogelijkheden.
 Pagina's die in het menu opgenomen zijn (via de [menu.yml] zie hierboven) kunnen via een link-code makkelijk gelinkt worden vanuit de tekst.
 
 Dit gebeurt door het toevoegen van een "linkcode" aan het menuitem.
-Dit doe je door in [menu.yml] aan het item een ```linkby``` toe te voegen:
+Dit doe je door in [menu.yml] aan het item een ```linkcode``` toe te voegen:
 
 ```yml
-- item:
-    nl:
-        link: /nl/link-naar-foo.html
-    fr:
-        link: /fr/lien-a-foo.html
-    linkby: foo
+    - item:
+        nl:
+            name: tekst-nl
+            link: /nl/link-naar-foo.html
+        fr:
+            name: texte-fr
+            link: /fr/lien-a-foo.html
+        linkcode: foo
 ```
 In dit geval kun je naar het menu-item linken in de ```*.md``` files via een inline link die er zo uitziet:
 
@@ -166,7 +173,7 @@ De link via [klikbaar woord][foo.nl] naar de nederlandse link van dit menu-eleme
 
 #### Links in verschillende talen (maar niet in de menu)
 
-Ook voor pagina's die niet aanwezig zijn in de menu, kunnen we dergelijke link-codes aanwenden door ze toe te voegen aan de [link.yml].  De layout van dat bestand is zo:
+Ook voor pagina's die niet aanwezig zijn in de menu, kunnen we dergelijke link-codes aanwenden door ze toe te voegen aan de [linkcode.yml].  De layout van dat bestand is zo:
 
 ```yml
 {linkcode}: 
@@ -177,13 +184,13 @@ Het invoegen in de tekst van het ```*.md``` bestand volgt dan dezelfde formateri
 
 **Belangrijk**: Deze links werken alleen als: 
 * de ```{%include links.md%}``` is opgenomen in de tekst
-* de betrokken linkcode ```foo``` is gedefinieerd in de [menu.yml] of [link.yml]
+* de betrokken linkcode ```foo``` is gedefinieerd in de [menu.yml] of [linkcode.yml]
 
-**Nuttig om weten**: Via de [menu.yml] of [link.yml] worden de verschillende taalvarianten van een bepaalde 'link' aan dezelfde 'linkcode' gekoppeld.  Op basis daarvan zal de taal-keuze in de menu-balk bij het bekijken van één van deze pagina's rechtstreekse links bevatten naar de gekoppelde taalvarianten.
+**Nuttig om weten**: Via de [menu.yml] of [linkcode.yml] worden de verschillende taalvarianten van een bepaalde 'link' aan dezelfde 'linkcode' gekoppeld.  Op basis daarvan zal de taal-keuze in de menu-balk bij het bekijken van één van deze pagina's rechtstreekse links bevatten naar de gekoppelde taalvarianten.
 
 #### Losse links (zonder verder beheer)
 
-Tenslotte kun je ook losse links invoegen zonder dat je ze vooraf toevoegt aan de [menu.yml] of [link.yml].
+Tenslotte kun je ook losse links invoegen zonder dat je ze vooraf toevoegt aan de [menu.yml] of [linkcode.yml].
 
 Daarvoor gebruik je dit formaat in de ```*.md``` bestanden:
 
@@ -223,7 +230,7 @@ De beschikbare layouts in de prelude zijn:
 layout  | gebruikt voor
 --------|--------------
 default | Standaard pagina. Bevat alle gemeenschappelijke elementen
-news    | Nieuws-artikel. 
+post    | Nieuws-artikel. 
 group   | Groep van filterbare elementen. (zie activiteiten)
 landing | Pagina waarop mensen de site binnenkomen. Home page, maar ook specifieke campagne-pagina's vallen hieronder
 
@@ -268,16 +275,16 @@ Ook in deze ```*.md``` files is er weer plaats voor een prelude. Voor nieuws-art
   {code}   |   type |    voorbeeld          | gebruik
 -----------|--------|-----------------------|--------------------
 description| tekst  | V&D maakt animatie-programma voor dit jaar bekend!  | Wervende krachtige korte introductie. Deze wordt gebruikt in de overzichten op de landingspagina's
-permalink  | tekst  | /nl/2015-04-12-animatie-2015.html | De link die zal worden gebruikt voor dit artikel. **Zeer belangrijk** Dit is ook de link die voor vertalingen in het bestand [link.yml] wordt toegevoegd.
+permalink  | tekst  | /nl/2015-04-12-animatie-2015.html | De link die zal worden gebruikt voor dit artikel. **Zeer belangrijk** Dit is ook de link die voor vertalingen in het bestand [linkcode.yml] wordt toegevoegd.
 
 **Tips:** 
-* vergeet niet in de prelude de ```layout```  in te stellen op 'news'
+* vergeet niet in de prelude de ```layout```  in te stellen op 'post'
 * vergeet niet in de prelude ook een duidelijke ```title```  op te geven
 * vergeet niet in de prelude een aantal ```images``` in te stellen: ook deze kunnen dan in het overzicht worden gebruikt naast de ```description```
 
 ### Taalvarianten en links
 
-Bij vertaalde nieuws-artikels wordt ook aangeraden om de koppeling tussen de permalinks in te geven in het [link.yml] bestand.
+Bij vertaalde nieuws-artikels wordt ook aangeraden om de koppeling tussen de permalinks in te geven in het [linkcode.yml] bestand.
 
 Stel je hebt een "post" in volgende talen toegevoegd, met de permalinks zoals in de preludes.
 (De echte preludes zullen meer instellingen bevatten.)
@@ -299,7 +306,7 @@ Stel je hebt een "post" in volgende talen toegevoegd, met de permalinks zoals in
     Texte en fr
 ```
 
-Dan ziet de juiste toevoeging in [link.yml] er zo uit:
+Dan ziet de juiste toevoeging in [linkcode.yml] er zo uit:
 (De gekozen link-code is ```foobar```)
 
 ```
