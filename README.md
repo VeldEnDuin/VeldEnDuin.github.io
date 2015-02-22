@@ -30,7 +30,35 @@ Beheer van de publieke website www.veldenduin.be
 - via modules in brackets gebruiken we
     - git: synchronisatieprogramma voor live zetten op github
     - markdown: ingebouwde preview van tekst
+    
+In brackets kunnen wij aan volgende folders aanpassingen doen:
+    - data linkcode: links invoeren
+    - data menu: beheer talen en (sub)menu's
+    - img: foto's
+    - nl/fr/de/en: beheer van teksten in bepaalde taal
+    
+### uitbreidingsbeheer
+= legosteentje in rechterkolom. Als er updates zijn die nog niet geïnstalleerd werden, wordt dit legosteentje groen. Updaten kan dan door te klikken op de betreffende knop + sluiten.
 
+# Commit / Push / Pull
+## commit
+= aangeven dat iets afgewerkt is, bevestigen dat je klaar bent met een bepaalde wijziging.
+Hoe?
+Via het speciale tekentje in de rechterkolom (kers? muzieknoot? met bolletje erboven) wordt er een scherm onderaan geopend. Hier kun je de commitknop gebruiken.
+Er wordt aangegeven welke wijzigingen er zijn. Door op het +/- teken te klikken zie je meer detail van de wijzigingen. Rood is wat gewijzigd/verwijderd werd, groen is het nieuwe resultaat.
+Als je het item dat gewijzigd werd aanvinkt, kun je ofwel committen ofwel 'discard changes' (wijzigingen verwerpen). Nadat je gecommit hebt, opmerkingen ingeven waarom je bepaalde wijziging aangebracht hebt.
+Om te committen is er geen internetverbinding nodig.
+
+## push / pull
+= synchroniseren van de gecommitte elementen met de server. 
+Pull: binnentrekken van de wijzingen die anderen hebben aangebracht.
+Push: buitenduwen van de wijzigingen die je zelf hebt aangebracht.
+Hoe?
+Via het icoontje met de pijl naar buiten (pull) of naar binnen (push). Bij de pushicoon staat ook aangegeven hoeveel commits nog niet gepusht werden. Dit aantal beperken door vlot wijzigingen te pushen.
+
+! Bij begin werk begin je met een pull, op het einde van je werk commit + push.
+! Als je met 2 aan het werk bent en één persoon al eerder gepusht heeft, krijg je mededeling dat iemand al gewijzigd heeft.
+= 
 # Brackets - Beheer van de site 
 ## menu en navigatie
 
@@ -69,6 +97,14 @@ Door onder de sectie ```submenu:```  meer ```-item```s toe te voegen, maak je su
 Je kunt elk item ook voorzien van een ```linkcode``` code waardoor de menu-link ook beschikbaar wordt om vanuit de tekst links te leggen naar deze items.  Zie sectie over linkbeheer.
 
 Het niveau van 'inspringen' in dit bestand is cruciaal voor het gewenste effect. Inspringen kan met tab of spatie.
+
+## Md-file maken
+Om nieuw bestand te maken in bepaalde taalfolder:
+op taal staan - rechtermuisklik - nieuw bestand
+
+Elke md-file moet starten met prelude (cfr verder voor meer detail) nl
+2 lijnen met 3 streepjes
+1 blanco lijn
 
 ## Alle pagina's / ongeacht layout
 
