@@ -12,6 +12,7 @@ TODO
 - select-preview moet ook niet-bullet maar gewone tekst mogelijk maken
 - join group en select logic?  select.main == typename ipv bullet-list
 
+- make group-filter-buttons optional (remove by default)
 
 - fotoalbum(s)
   - include one album
