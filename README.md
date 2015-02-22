@@ -103,23 +103,31 @@ Zonder de lege tussenlijn worden teksten aan dezelfde paragraaf toegevoegd.
 ## hoofd 2
 ### hoofd 3 (enz.)
 
-**tabellen:** Kun je aanmaken door de kolommen met ```|``` tekens te scheiden en (belangrijk) ook de eerste rij van de volgende te scheiden met ```--|--``` lijnen waar het aantal kolommen in terugkomt
+**tabellen:** Kun je aanmaken door de kolommen met ```|``` tekens te scheiden en (belangrijk) ook de eerste rij van de volgende te scheiden met ```---|---``` lijnen waar het aantal kolommen in terugkomt
+
+Belangrijk: De scheidingslijnen moeten minstens 3 mintekens lang zijn
+
+Kolommen kunnen gealligneerd worden dmv het toevoegen van ```:``` tekens in de scheidingslijnen:
+* links ```:---```
+* rechts ```---:```
+* centreer ```:---:```
 
 Resultaat:
 
-
- 1 | 2
----|---
- a | b 
- c | d
+ rechts     | center            | links
+-----------:|:-----------------:|:-----
+hallo       | ik ben            | een zanger 
+een muziek- | behanger          | die dooie melodietjes
+levend      | maakt. Coupletjes | en refreintjes
 
 
 Door:
 ```md
- 1 | 2
----|---
- a | b 
- c | d
+ rechts     | center            | links
+-----------:|:-----------------:|:-----
+hallo       | ik ben            | een zanger 
+een muziek- | behanger          | die dooie melodietjes
+levend      | maakt. Coupletjes | en refreintjes
 ```
 
 ### Links leggen en beheren
