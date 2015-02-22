@@ -43,6 +43,7 @@ In brackets kunnen wij aan volgende folders aanpassingen doen:
 # Commit / Push / Pull
 ## commit
 = aangeven dat iets afgewerkt is, bevestigen dat je klaar bent met een bepaalde wijziging.
+
 Hoe?
 
 Via het speciale tekentje in de rechterkolom (kers? muzieknoot? met bolletje erboven) wordt er een scherm onderaan geopend. Hier kun je de commitknop gebruiken.
@@ -54,14 +55,20 @@ Om te committen is er geen internetverbinding nodig.
 
 ## push / pull
 = synchroniseren van de gecommitte elementen met de server. 
+
 Pull: binnentrekken van de wijzingen die anderen hebben aangebracht.
+
 Push: buitenduwen van de wijzigingen die je zelf hebt aangebracht.
+
 Hoe?
+
 Via het icoontje met de pijl naar buiten (pull) of naar binnen (push). Bij de pushicoon staat ook aangegeven hoeveel commits nog niet gepusht werden. Dit aantal beperken door vlot wijzigingen te pushen.
 
-! Bij begin werk begin je met een pull, op het einde van je werk commit + push.
-! Als je met 2 aan het werk bent en één persoon al eerder gepusht heeft, krijg je mededeling dat iemand al gewijzigd heeft.
-= 
+\! Bij begin werk begin je met een pull, op het einde van je werk commit + push.
+
+\! Als je met 2 aan het werk bent en één persoon al eerder gepusht heeft, krijg je mededeling dat iemand al gewijzigd heeft.
+
+
 # Brackets - Beheer van de site 
 ## menu en navigatie
 
