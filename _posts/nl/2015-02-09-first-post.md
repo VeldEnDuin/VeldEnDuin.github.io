@@ -1,6 +1,6 @@
 ---
 title: Eerste post
-layout: news
+layout: post
 description: Hohoho!
 permalink: /nl/2015-02-09-eerste-bericht.html
 images:

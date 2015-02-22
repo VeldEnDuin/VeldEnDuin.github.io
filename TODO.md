@@ -1,18 +1,33 @@
 TODO
 ====
-- landing-pads
-    --> wat als er teveel zijn? --> javascript
-    
-- addons (qlabel / fiets-vriendelijk)
-    --> zelfde maar andere styling
-        
-- landing page carousel!
+
+- select in verschillende types mogelijk maken!
+  select:
+    main:
+        - 
+        - 
+    side:
+        - 
+        - 
+- select-preview moet ook niet-bullet maar gewone tekst mogelijk maken
+- join group en select logic?  select.main == typename ipv bullet-list
 
 
 - fotoalbum(s)
   - include one album
   - allow browsing all albums
   - preview en autoplay
+  - download link to google plus?
+
+- landing-pads
+    --> wat als er teveel zijn? --> javascript
+    --> wat is teveel?
+    
+- addons (qlabel / fiets-vriendelijk)
+    --> zelfde maar andere styling
+        
+- landing page carousel!
+
 
 
 - "DOEN" sectie
@@ -65,3 +80,11 @@ TODO
   - Prijzen?  (verwerkt in?)  AanbodFiche-pagina's (verhuur, trekkers, residentieel)
   - GoedOmWetenElectro
   - HistoriekTimeLine (ook voor 50y idee om naar de prehistorie te gaan)
+  
+- GOING LIVE 
+  - robots.txt
+        User-agent: *
+        Disallow:
+  - enable ga in _includes/ga.html
+  - CNAME file
+  - dns settings

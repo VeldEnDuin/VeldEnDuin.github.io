@@ -14,15 +14,17 @@
     {% include meta.html %}
 
     <!-- Custom CSS -->
+    <!--
     <link type="text/css" rel="stylesheet" href="/css/supersized.css">
     <link type="text/css" rel="stylesheet" href="/css/jquery.mCustomScrollbar.css">
+    -->
     <link rel="stylesheet" href="/css/main.css">
     <link rel="icon" type="image/png" href="/img/veldenduin-ico-48.png">
 
   </head>
   <body data-translations='{{site.data.langs[pgLang] | jsonify}}'>
     <header>
-      <nav class="navbar navbar-default">
+      <nav class="navbar navbar-default navbar-inverse">
         <div class="container-fluid">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -49,6 +51,9 @@
   {{ content }}
   {% if page.insert contains 'virtualtour' %}
     {% include virtualtour.html %}
+  {% endif %}
+  {% if page.insert contains 'image-album' %}
+    {% include imagealbum.html %}
   {% endif %}
         </div>
       </div>
@@ -81,7 +86,9 @@
     <script type="text/javascript" src="/js/jquery-rotate.min.js"></script>
     <script type="text/javascript" src="/js/jquery.easing.min.js"></script>
 
+    <!--
     <script type="text/javascript" src="/js/supersized.3.2.7.min.js"></script>
+    -->
     <script type="text/javascript" src="/js/jquery.mCustomScrollbar.min.js"></script>
     <script type="text/javascript" src="/js/jquery.mousewheel.min.js"></script>
 

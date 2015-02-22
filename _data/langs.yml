@@ -11,6 +11,7 @@ nl:
         next: volgende
         overview: overzicht
         share: Deel dit bericht via
+        search: Zoek
 fr:
     label: français
     directions: ["N", "NE", "E", "SE", "S", "SO", "O", "NO"]
@@ -24,6 +25,7 @@ fr:
         next: suivant
         overview: résumé
         share: Partager cet article sur
+        search: Recherche
 de:
     label: Deutsch
     directions: ["N", "NO", "O", "SO", "S", "SW", "W", "NW"]
@@ -37,6 +39,7 @@ de:
         next: als nächstes
         overview: Zusammenfassung
         share: Dieses Thema teilen auf
+        search: Suche
 en:
     label: English
     directions: ["N", "NE", "E", "SE", "S", "SW", "W", "NW"]
@@ -50,3 +53,4 @@ en:
         next: next
         overview: overview
         share: Share this content via
+        search: Search

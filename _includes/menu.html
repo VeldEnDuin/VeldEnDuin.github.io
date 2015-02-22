@@ -1,10 +1,10 @@
 {% for m1 in site.data.menu %}
-    {% if pgLink == m1.item[pgLang].link %}
-        {% assign active1 = m1.item %}
+    {% if pgLink == m1.menu[pgLang].link %}
+        {% assign active1 = m1.menu %}
     {% endif %}
     {% for m2 in m1.submenu %}
         {% if pgLink == m2.item[pgLang].link %}
-            {% assign active1 = m1.item %}
+            {% assign active1 = m1.menu %}
             {% assign active2 = m2.item %}
         {% endif %}
     {% endfor %}
@@ -13,12 +13,12 @@
 <!-- menu for {{pgLang}} at {{ pgLink }} -->
 <ul id="menu" class="nav navbar-nav" >
 {% for m1 in site.data.menu %}
-    <li class="{% if m1.submenu %}dropdown{% endif %} {% if active1 == m1.item %}active{% endif %}">
-        <a href="{{ m1.item[pgLang].link }}"
+    <li class="{% if m1.submenu %}dropdown{% endif %} {% if active1 == m1.menu %}active{% endif %}">
+        <a href="{{ m1.menu[pgLang].link }}"
            {% if m1.submenu %}
                data-toggle="dropdown" role="button" aria-expanded="false" class="dropdown-toggle"
            {% endif %}
-           >{{ m1.item[pgLang].name}}
+           >{{ m1.menu[pgLang].name}}
             {% if m1.submenu %} <span class="caret"></span>{% endif %}
         </a>
 
