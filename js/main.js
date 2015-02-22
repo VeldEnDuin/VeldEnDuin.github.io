@@ -183,7 +183,7 @@
     Viewer.prototype.render = function ($album) {
         $album.html('js active... account=' + this.account + ' -- albumId=' + this.albums[0]);
 
-        //TODO [age turn effect  -- http://www.turnjs.com/#
+        //TODO page turn effect  -- http://www.turnjs.com/#
     };
 
     /*
@@ -442,6 +442,17 @@
                 }
             });
         }
+    });
+
+    /*
+     * Style Content elements using bootstrap
+     * =======================================================================
+     */
+    $(function () {
+        var $content = $('#content'),
+            $tbls = $content.find('table');
+
+        $tbls.addClass('table table-hovered');
     });
 
     /*
