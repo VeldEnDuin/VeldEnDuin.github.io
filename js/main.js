@@ -43,148 +43,6 @@
         };
     }
 
-    function Viewer(account, albums) {
-        //https://developers.google.com/picasa-web/docs/2.0/developers_guide_protocol
-        var ALBUMCACHEKEY = "vd.album",
-            EMPTY = { "albums": {}, "albumList": [] };
-
-        function hasLocalStorage() {
-            try {
-                return window.hasOwnProperty('localStorage') && window.localStorage !== null;
-            } catch (e) {
-                return false;
-            }
-        }
-        this.getAlbumCache = function () {
-            var result = EMPTY,
-                json;
-            if (hasLocalStorage()) {
-                json = window.localStorage.getItem(ALBUMCACHEKEY);
-                if (json && json.length > 0) {
-                    try {
-                        result = JSON.parse(json);
-                    } catch (e) { }  // bad object that can't be parsed, so just ignore
-                }
-            }
-            return result;
-        };
-        this.putAlbumCache = function (data) {
-            var json;
-            if (hasLocalStorage()) {
-                json = JSON.stringify(data);
-                window.localStorage.setItem(ALBUMCACHEKEY, json);
-            }
-            return data;
-        };
-        this.onLoad = function (cb) {
-    //TODO - this will not work!
-    // http://stackoverflow.com/questions/4671852/how-to-bind-to-localstorage-change-event-using-jquery-for-all-browsers
-    // only other windows will get updates
-    // --> this suggests multiple windows could use the event!
-    // --> this also suggest we have to handle multiple windows working on the central localStorage (locking?)
-    //     see http://balpha.de/2012/03/javascript-concurrency-and-locking-the-html5-localstorage/
-    //     and https://bitbucket.org/balpha/lockablestorage/src/96b7ddb1962334cde9c647663d0053ab640ec5a1/lockablestorage.js?at=default
-    // anyway: least we do is create a jquery event like this to both handle the originating and the listening windows!
-
-            $(window).bind('storage', function (e) {
-                window.console.log(e.originalEvent.key, e.originalEvent.newValue);
-                if (e.originalEvent.key === ALBUMCACHEKEY) {
-                    cb(e.originalEvent.newValue);
-                }
-            });
-        };
-
-
-        this.account = account;
-        this.albums = albums;
-        // load information
-        this.load();
-    }
-
-    Viewer.prototype.load = function () {
-
-        var ALBUMAPIURI = "http://picasaweb.google.com/data/feed/api",
-            THUMBSIZE = 100,
-            me = this;
-
-        function getMaxImgSize() {
-            //TODO adapt this to use the real window size available --> so to dynamically load the correct images for the platform
-            // be sure to try and grab device-sreen-size not just browser-window-size!
-            // top off at 1600! and do so in increments of 200, 400, 800, 1600
-            return 1600;
-        }
-        function getAPIUri(type, user, album) {
-            var uri = ALBUMAPIURI;
-            if (type) {
-                if (user) {
-                    uri += '/user/' + user;
-                    if (album) {
-                        uri += '/albumid/' + album;
-                    }
-                }
-                uri += '?kind=' + type + '&access=visible';
-                if (type === "photo") {
-                    uri += '&imgmax=' + getMaxImgSize();
-                }
-                uri += '&alt=json-in-script&thumbsize=' + THUMBSIZE + 'c';
-                uri += '&callback=?';
-            }
-
-            return uri;
-        }
-
-        function albumList(user, fn) {
-            $.getJSON(getAPIUri('album', user), fn);
-        }
-        function photoList(user, album, fn) {
-            window.console.log("get photList for user = " + user, ", album = " + album);
-            $.getJSON(getAPIUri('photo', user, album), fn);
-        }
-
-        this.data = this.getAlbumCache();
-        function done() {
-            me.putAlbumCache(me.data); // this should fire the update event.
-        }
-        function photoListProcessor(albumId, end) {
-            return function (pList) {
-                var items = [];
-
-                pList.feed.entry.forEach(function (pItem) {
-                    items.push({
-                        "content"  : pItem.media$group.media$content[0].url,
-                        "thumbnail": pItem.media$group.media$thumbnail[0].url
-                    });
-                });
-                me.data.albums[albumId] = items;
-
-                // content we are looking for is in
-                // pListData.feed.entry[] --> array for each image
-                //     .media$group.media$content[0].url --> link to image
-                //     .media$group.media$thumbnail[0].url --> link to thumbnail-image
-
-                end();
-            };
-        }
-        function doUpdate() {
-            //TODO -- check albumId and/or multiple ones...
-            var albumId = me.albums[0];
-            photoList(me.account, albumId, photoListProcessor(albumId, done));
-        }
-
-        //TODO create a jquery-update or 'loaded' event on this viewer object
-        // then listen to the local-cache update and when that arrives - used it to trigger the event
-        // when that is ready - don't doUpdate inline but setImmediate and return
-        // window.setImmediate(doUpdate); return;
-        doUpdate();
-    };
-
-
-
-    Viewer.prototype.render = function ($album) {
-        $album.html('js active... account=' + this.account + ' -- albumId=' + this.albums[0]);
-
-        //TODO page turn effect  -- http://www.turnjs.com/#
-    };
 
     /*
      * Read and initialize TRANSL
@@ -472,8 +330,8 @@
             gpid = data['gp-id'];
             albumspec = data['album-spec'];
 
-            vwr = new Viewer(gpid, albumspec);
-            vwr.render($album);
+            vwr = $album.gpAlbum({"account": gpid, "albums": albumspec})[0];
+            vwr.render();
         }
 
     });
