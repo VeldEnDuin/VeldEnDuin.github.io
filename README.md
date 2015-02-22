@@ -44,9 +44,12 @@ In brackets kunnen wij aan volgende folders aanpassingen doen:
 ## commit
 = aangeven dat iets afgewerkt is, bevestigen dat je klaar bent met een bepaalde wijziging.
 Hoe?
+
 Via het speciale tekentje in de rechterkolom (kers? muzieknoot? met bolletje erboven) wordt er een scherm onderaan geopend. Hier kun je de commitknop gebruiken.
 Er wordt aangegeven welke wijzigingen er zijn. Door op het +/- teken te klikken zie je meer detail van de wijzigingen. Rood is wat gewijzigd/verwijderd werd, groen is het nieuwe resultaat.
+
 Als je het item dat gewijzigd werd aanvinkt, kun je ofwel committen ofwel 'discard changes' (wijzigingen verwerpen). Nadat je gecommit hebt, opmerkingen ingeven waarom je bepaalde wijziging aangebracht hebt.
+
 Om te committen is er geen internetverbinding nodig.
 
 ## push / pull
