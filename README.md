@@ -16,14 +16,25 @@
 
 
 # VeldEnDuin.github.io
-Opbouw van de publieke Website voor camping Veld & Duin.
+Beheer van de publieke website www.veldenduin.be
 
-Onderbouw: jekyll en liquid.
+# Achtergrond
+## Onderbouw en tools
 
-# Onderhoud van de site
+### jekyll en liquid 
+- produceert uitgaande van de basiscode de effectieve site  
+- wordt gebruikt om gewijzigde teksten/opmaak lokaal te testen.
+
+### brackets 
+- wordt gebruikt voor het tekstbeheer en de opmaak maw hier worden de teksten van de site ingevoerd.
+- via modules in brackets gebruiken we
+    - git: synchronisatieprogramma voor live zetten op github
+    - markdown: ingebouwde preview van tekst
+
+# Brackets - Beheer van de site 
 ## menu en navigatie
 
-De twee niveau's van het menu worden beheerd in het bestand [menu.yml]
+De twee niveau's van het menu (hoofdmenu en submenu's) worden beheerd in het bestand [menu.yml].
 
 De structuur van dat bestand is deze:
 ```yml
