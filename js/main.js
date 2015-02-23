@@ -331,7 +331,7 @@
             albumspec = data['album-spec'];
 
             vwr = $album.gpAlbum({"account": gpid, "albums": albumspec})[0];
-            vwr.render();
+            //vwr.render();
         }
 
     });

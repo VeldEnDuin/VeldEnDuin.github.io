@@ -34,12 +34,6 @@ For more information, please refer to <http://unlicense.org/>
  * on your site. Uses HTML5 cache to speed up things and avoid load.
  */
 
-/*
- *  TODO
- *  - cache check on album -- when was it changed? -- avoid updating local cache if it is recent enough!
- *  - cache synchronisation issues
- *  -
-*/
 
 (function ($) {
     "use strict";
@@ -71,8 +65,8 @@ For more information, please refer to <http://unlicense.org/>
         return $.extend($.extend({}, defs), vals);
     }
 
-    function jqEnableEvent(obj, name, bubble) {
-        bubble = bubble || false;
+    function jqEnableEvent(obj, name, preventBubble) {
+        preventBubble = preventBubble || false;
         if (name === null || name === undefined) {return; }
         name = String(name);
 
@@ -82,7 +76,7 @@ For more information, please refer to <http://unlicense.org/>
 
         var $obj = $(obj);
         obj[name] = function (fn) {
-            return (fn && $.isFunction(fn)) ? $obj.bind(name, null, fn, bubble) : $obj.triggerHandler(name, [fn]);
+            return (fn && $.isFunction(fn)) ? $obj.bind(name, null, fn, preventBubble) :  $obj.triggerHandler(name, fn);
         };
     }
 
@@ -119,6 +113,18 @@ For more information, please refer to <http://unlicense.org/>
         }
         return data;
     }
+    /*
+     * TODO - concurrency
+     * http://stackoverflow.com/questions/4671852/how-to-bind-to-localstorage-change-event-using-jquery-for-all-browsers
+     * only other windows will get updates
+     * --> this suggests multiple windows could use the event!
+     * --> this also suggest we have to handle multiple windows working on the central localStorage (locking?)
+     *     see http://balpha.de/2012/03/javascript-concurrency-and-locking-the-html5-localstorage/
+     *     and https://bitbucket.org/balpha/lockablestorage/src/96b7ddb1962334cde9c647663d0053ab640ec5a1/lockablestorage.js?at=default
+     * anyway: least we do is create a jquery event like this to both handle the originating and the listening windows!
+     *
+     */
+
 
 
     /*
@@ -126,6 +132,8 @@ For more information, please refer to <http://unlicense.org/>
      * =======================================================================
      */
     function GpAlbum($elm, config) {
+
+        var me = this;
 
         this.config = jqMerge(GpAlbum.config, config);
 
@@ -136,45 +144,82 @@ For more information, please refer to <http://unlicense.org/>
         if (this.config.account === null || this.config.account === undefined) {
             throw "this will not work without the gp account-id";
         }
-        //https://developers.google.com/picasa-web/docs/2.0/developers_guide_protocol
 
 
 
-        this.cacheKey = this.config.cacheKeyPrefix + this.config.account;
-
-        /*
-         * TODO - eventing and concurrency
-         * http://stackoverflow.com/questions/4671852/how-to-bind-to-localstorage-change-event-using-jquery-for-all-browsers
-         * only other windows will get updates
-         * --> this suggests multiple windows could use the event!
-         * --> this also suggest we have to handle multiple windows working on the central localStorage (locking?)
-         *     see http://balpha.de/2012/03/javascript-concurrency-and-locking-the-html5-localstorage/
-         *     and https://bitbucket.org/balpha/lockablestorage/src/96b7ddb1962334cde9c647663d0053ab640ec5a1/lockablestorage.js?at=default
-         * anyway: least we do is create a jquery event like this to both handle the originating and the listening windows!
-         *
-         *       $(window).bind('storage', function (e) {
-         *            window.console.log(e.originalEvent.key, e.originalEvent.newValue);
-         *            if (e.originalEvent.key === ALBUMCACHEKEY) {
-         *                cb(e.originalEvent.newValue);
-         *            }
-         *        });
-         */
 
         this.$album = $elm;
         $elm.data('gpAlbum', this);
+
+        jqEnableEvent($elm, 'albumUpdated');
+        $(window).bind('storage', function (e) {
+            // for events coming from other windows that are open and could see the update
+            window.console.log("local storage update from other window on key == " +
+                               e.originalEvent.key);
+            var albumId = me.matchCacheKey(e.originalEvent.key);
+            window.console.log("updated albumId == " + albumId);
+            if (albumId !== undefined) {
+                me.fireUpdated(albumId, e.originalEvent.newValue); //propagate event
+            }
+        });
+
         // load information
         this.load();
     }
 
-
-    GpAlbum.prototype.getAlbumCache = function () {
-        var EMPTYCACHE = { "albums": {}, "albumList": [], "lastmodified": null };
-        return getCache(this.cacheKey, EMPTYCACHE);
+    GpAlbum.prototype.fireUpdated = function (id, content) {
+        this.$album.albumUpdated({"id": id, "content": content});
     };
 
-    GpAlbum.prototype.putAlbumCache = function (data) {
-        return putCache(this.cacheKey, data);
+    GpAlbum.prototype.albumReady = function (albumId, fn) {
+        var $elm = this.$album,
+            handler = function (evt, data) {
+                if (data.id === albumId) {
+                    $elm.unbind('albumUpdated', handler);
+                    fn(data.content);
+                }
+            };
+        $elm.bind('albumUpdated', handler);
     };
+
+    GpAlbum.prototype.cacheKey = function (albumId) {
+        var keys = [this.config.cacheKeyPrefix, this.config.account];
+        if (albumId !== undefined && albumId !== null) {
+            albumId = String(albumId);
+            if (albumId.length > 0) {
+                keys.push(albumId);
+            }
+        }
+        return keys.join('.');
+    };
+
+    GpAlbum.prototype.matchCacheKey = function (key) {
+        var leadKey = this.cacheKey();
+        if (key.search(leadKey) === 0) {
+            if (key.length === leadKey.length) {
+                return ""; //empty string indicating match on account
+            }
+            return key.slice(leadKey.length + 1); // albumId
+        }
+    };
+
+    GpAlbum.prototype.getCache = function (albumId) {
+        var EMPTY = { "photoList": [], "lastmodified": null };
+        if (albumId === null || albumId === undefined) {
+            EMPTY = { "albumList": [], "lastmodified": null };
+        }
+        return getCache(this.cacheKey(albumId), EMPTY);
+    };
+
+    GpAlbum.prototype.putCache = function (albumId, data) {
+        var cached = putCache(this.cacheKey(albumId), data);
+        this.fireUpdated(albumId, cached); // fire-event!
+        return cached;
+    };
+
+
+
+    //TODO some withCache() that claims a lock and then
 
     GpAlbum.prototype.getMaxImgSize = function () {
         //TODO adapt this to use the real window size available in $elm --> so to dynamically load the correct images for the platform
@@ -186,12 +231,15 @@ For more information, please refer to <http://unlicense.org/>
 
     GpAlbum.prototype.load = function () {
 
-        var uri = this.config.serviceUri,
+        var base = this.config.serviceUri,
             imgmax = this.getMaxImgSize(),
             thumbsize = this.config.thumbsize,
+            account = this.config.account,
             me = this;
 
+        //https://developers.google.com/picasa-web/docs/2.0/developers_guide_protocol
         function getAPIUri(type, user, album) {
+            var uri = String(base);
             if (type) {
                 if (user) {
                     uri += '/user/' + user;
@@ -210,52 +258,88 @@ For more information, please refer to <http://unlicense.org/>
             return uri;
         }
 
-        function albumList(user, fn) {
-            $.getJSON(getAPIUri('album', user), fn);
-        }
-        function photoList(user, album, fn) {
-            window.console.log("get photList for user = " + user, ", album = " + album);
-            $.getJSON(getAPIUri('photo', user, album), fn);
+        function albumList(user, cb) {
+            $.getJSON(getAPIUri('album', user), function (response) {
+                var data = {};
+                data.albumList = [];
+
+                response.feed.entry.forEach(function (aItem) {
+                    data.albumList.push({
+                        "updated"  : aItem.updated.$t,
+                        "title"    : aItem.title.$t,
+                        "numpics"  : aItem.gphoto$numphotos.$t,
+                        "thumbnail": aItem.media$group.media$thumbnail[0].url
+                    });
+                });
+
+                data.lastmodified = (new Date()).getTime();
+                cb(data);
+            });
         }
 
-        this.data = this.getAlbumCache();
-        function done() {
-            me.putAlbumCache(me.data); // this should fire the update event.
-        }
-        function photoListProcessor(albumId, end) {
-            return function (pList) {
-                var items = [];
+        function photoList(user, album, cb) {
+            $.getJSON(getAPIUri('photo', user, album), function (response) {
+                var data = {};
+                data.photoList = [];
 
-                pList.feed.entry.forEach(function (pItem) {
-                    items.push({
+                response.feed.entry.forEach(function (pItem) {
+                    data.photoList.push({
                         "content"  : pItem.media$group.media$content[0].url,
                         "thumbnail": pItem.media$group.media$thumbnail[0].url
                     });
                 });
-                me.data.albums[albumId] = items;
 
-                // TODO find info about lastmodification to be able to check caching better!
-
-                end();
-            };
-        }
-        function doUpdate() {
-            //TODO -- check albumId and/or multiple ones...
-            var albumId = me.config.albums[0];
-            photoList(me.config.account, albumId, photoListProcessor(albumId, done));
+                data.lastmodified = (new Date()).getTime();
+                cb(data);
+            });
         }
 
-        //TODO create a jquery-update or 'loaded' event on this viewer object
-        // then listen to the local-cache update and when that arrives - used it to trigger the event
-        // when that is ready - don't doUpdate inline but setImmediate and return
-        // window.setImmediate(doUpdate); return;
-        doUpdate();
+        function doLoad() {
+            // TODO load albumList for account and process that
+            albumList(account, function (aList) {
+                me.putCache("", aList);
+                me.albums = {};
+
+                // TODO -- check albumId as spec and maybe load multiple ones...
+                var albumId = me.config.albums[0];  //for now only one expected
+                me.albums[albumId] = me.getCache(albumId);
+                // TODO compare lastmod-dates on album as obtained from account-album-list
+                //      with those in cache to avoid updating local cache if it is recent enough!
+                me.albumReady(albumId, function (content) {
+                    me.albums[albumId] = content;
+                });
+                photoList(account, albumId, function (pList) {
+                    me.putCache(albumId, pList);
+                });
+                me.render();
+            });
+        }
+
+        window.setTimeout(doLoad, 0);
+        return;
     };
 
-
-
     GpAlbum.prototype.render = function () {
-        this.$album.html('js active... account=' + this.config.account + ' -- albumId=' + this.config.albums[0]);
+        var albumId = this.config.albums[0],
+            $elm = this.$album,
+            account = this.config.account,
+            me = this;
+
+        function doEcho() {
+            window.console.log("do echo");
+            $elm.html('<pre>account=' + account + '\nalbumId=' + albumId + '\nimgs ==> \n' +
+                      JSON.stringify(me.albums[albumId].photoList) + '</pre>');
+        }
+
+        if (this.albums && this.albums[albumId] && this.albums[albumId].photoList &&
+                this.albums[albumId].photoList.length > 0) {
+            window.console.log("immediate content");
+            doEcho();
+        } else {
+            window.console.log("need to wait for items");
+            this.albumReady(albumId, doEcho);
+        }
+
 
         // TODO allow for multiple rendition systems
         // TODO page turn effect  -- http://www.turnjs.com/#
@@ -264,7 +348,7 @@ For more information, please refer to <http://unlicense.org/>
     GpAlbum.config = {
         "account"        : "NONE",
         "albums"         : "*",
-        "cacheKeyPrefix" : "gp.album.",
+        "cacheKeyPrefix" : "gp.album",
         "serviceUri"     : "http://picasaweb.google.com/data/feed/api",
         "thumbsize"      : 100,
         "imgsizes"       : [200, 400, 800, 1600]
