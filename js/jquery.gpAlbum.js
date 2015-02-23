@@ -38,6 +38,8 @@ For more information, please refer to <http://unlicense.org/>
 (function ($) {
     "use strict";
 
+    var moment = window.moment;
+
     /*
      * jquery stuff I like to use
      * =======================================================================
@@ -261,18 +263,19 @@ For more information, please refer to <http://unlicense.org/>
         function albumList(user, cb) {
             $.getJSON(getAPIUri('album', user), function (response) {
                 var data = {};
-                data.albumList = [];
+                data.albumSet = {};
 
                 response.feed.entry.forEach(function (aItem) {
-                    data.albumList.push({
-                        "updated"  : aItem.updated.$t,
+                    var id = aItem.gphoto$id.$t;
+                    data.albumSet[id] = {
+                        "updated"  : moment(aItem.updated.$t).valueOf(),
                         "title"    : aItem.title.$t,
                         "numpics"  : aItem.gphoto$numphotos.$t,
                         "thumbnail": aItem.media$group.media$thumbnail[0].url
-                    });
+                    };
                 });
 
-                data.lastmodified = (new Date()).getTime();
+                data.lastmodified = (new Date()).valueOf();
                 cb(data);
             });
         }
@@ -289,7 +292,7 @@ For more information, please refer to <http://unlicense.org/>
                     });
                 });
 
-                data.lastmodified = (new Date()).getTime();
+                data.lastmodified = (new Date()).valueOf();
                 cb(data);
             });
         }
@@ -303,14 +306,17 @@ For more information, please refer to <http://unlicense.org/>
                 // TODO -- check albumId as spec and maybe load multiple ones...
                 var albumId = me.config.albums[0];  //for now only one expected
                 me.albums[albumId] = me.getCache(albumId);
-                // TODO compare lastmod-dates on album as obtained from account-album-list
-                //      with those in cache to avoid updating local cache if it is recent enough!
-                me.albumReady(albumId, function (content) {
-                    me.albums[albumId] = content;
-                });
-                photoList(account, albumId, function (pList) {
-                    me.putCache(albumId, pList);
-                });
+
+                if (me.albums[albumId].lastmodified < aList.albumSet[albumId].updated) {
+                    // TODO compare lastmod-dates on album as obtained from account-album-list
+                    //      with those in cache to avoid updating local cache if it is recent enough!
+                    me.albumReady(albumId, function (content) {
+                        me.albums[albumId] = content;
+                    });
+                    photoList(account, albumId, function (pList) {
+                        me.putCache(albumId, pList);
+                    });
+                } // else caching stuff working for some good --> no need to load this album
                 me.render();
             });
         }
