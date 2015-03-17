@@ -78,14 +78,14 @@ De structuur van dat bestand is deze:
 ```yml
 - menu:
     {taal-code}:
-        name: {label}
+        name: {titel}
         link: {link}
     {taal-code} ... // zelfde voor volgende taal
     linkcode: {link-code}
   submenu:
     - item:
-        {iso taal code}:
-            name: {label}
+        {taal code}:
+            name: {titel}
             link: {link voor dir menu}
       linkcode: {link-code} 
     - item: ... // meer items zoals voorgaande
