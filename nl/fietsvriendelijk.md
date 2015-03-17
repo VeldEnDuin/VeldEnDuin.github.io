@@ -23,8 +23,8 @@ Wist u trouwens dat u uw fiets gratis kunt meenemen op het overzetbootje tussen 
 
 Interessante links:
 
-* http://www.fietsnet.be/routeplanner/
+* [Fiets-route-planner](http://www.fietsnet.be/routeplanner/)
 
-* http://www.toerismevlaanderen.be/fietsvriendelijk-logies
+* [Label "fietsvriendelijk logies"](http://www.toerismevlaanderen.be/fietsvriendelijk-logies)
 
 
