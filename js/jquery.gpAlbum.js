@@ -38,7 +38,14 @@ For more information, please refer to <http://unlicense.org/>
 (function ($) {
     "use strict";
 
-    var moment = window.moment;
+    /*
+     * handy common stuff
+     * =======================================================================
+     */
+    function isEmpty(a) {
+        return (a === null || a === undefined || (a.hasOwnProperty("length") && a.length === 0));
+    }
+
 
     /*
      * jquery stuff I like to use
@@ -69,7 +76,7 @@ For more information, please refer to <http://unlicense.org/>
 
     function jqEnableEvent(obj, name, preventBubble) {
         preventBubble = preventBubble || false;
-        if (name === null || name === undefined) {return; }
+        if (isEmpty(name)) {return; }
         name = String(name);
 
         if (obj.hasOwnProperty(name)) {
@@ -81,6 +88,7 @@ For more information, please refer to <http://unlicense.org/>
             return (fn && $.isFunction(fn)) ? $obj.bind(name, null, fn, preventBubble) :  $obj.triggerHandler(name, fn);
         };
     }
+
 
     /*
      * standard cache stuff
@@ -125,9 +133,22 @@ For more information, please refer to <http://unlicense.org/>
      *     and https://bitbucket.org/balpha/lockablestorage/src/96b7ddb1962334cde9c647663d0053ab640ec5a1/lockablestorage.js?at=default
      * anyway: least we do is create a jquery event like this to both handle the originating and the listening windows!
      *
+     *
+     * Seems a bit overkill maybe for what we should do:
+     *   - first process in a given time-slot should load the data
+     *     (all others should take what is there and listen for the change-event)
+     *
      */
 
 
+    /*
+     * Check for dependency
+     * =======================================================================
+     */
+    var moment = window.moment;
+    if (isEmpty(moment)) {
+        throw "this will not work without moment.js library! get it from http://momentjs.com";
+    }
 
     /*
      * The real stuff
@@ -139,54 +160,58 @@ For more information, please refer to <http://unlicense.org/>
 
         this.config = jqMerge(GpAlbum.config, config);
 
-                      //account, albums) {
-        if ($elm === null || $elm === undefined || $elm.length !== 1) {
+        if (isEmpty($elm) || $elm.length !== 1) {
             throw "this will not work without a non-empty single-element jquery wrapper";
         }
-        if (this.config.account === null || this.config.account === undefined) {
+        if (isEmpty(this.config.account)) {
             throw "this will not work without the gp account-id";
         }
 
-
-
+        this.albums = {};
+        this.albumList = undefined;
 
         this.$album = $elm;
         $elm.data('gpAlbum', this);
 
-        jqEnableEvent($elm, 'albumUpdated');
+        jqEnableEvent($elm, 'contentUpdated');
         $(window).bind('storage', function (e) {
             // for events coming from other windows that are open and could see the update
             window.console.log("local storage update from other window on key == " +
                                e.originalEvent.key);
-            var albumId = me.matchCacheKey(e.originalEvent.key);
-            window.console.log("updated albumId == " + albumId);
-            if (albumId !== undefined) {
-                me.fireUpdated(albumId, e.originalEvent.newValue); //propagate event
+            var matchResponse = me.matchCacheKey(e.originalEvent.key);
+            if (matchResponse !== undefined) {
+                me.updateContent(matchResponse.id, e.originalEvent.newValue); //propagate event
             }
         });
 
-        // load information
+        this.$album.contentUpdated(function (evt, data) {
+            me.render(data.id);
+        });
+
+        // load data
         this.load();
     }
 
-    GpAlbum.prototype.fireUpdated = function (id, content) {
-        this.$album.albumUpdated({"id": id, "content": content});
+    GpAlbum.prototype.updateContent = function (id, content) {
+        if (isEmpty(id)) {
+            this.albumList = content;
+        } else {
+            this.albums[id] = content;
+        }
+        this.$album.contentUpdated({"id": id, "content": content});
     };
 
-    GpAlbum.prototype.albumReady = function (albumId, fn) {
-        var $elm = this.$album,
-            handler = function (evt, data) {
-                if (data.id === albumId) {
-                    $elm.unbind('albumUpdated', handler);
-                    fn(data.content);
-                }
-            };
-        $elm.bind('albumUpdated', handler);
+    GpAlbum.prototype.getContent = function (id) {
+        if (isEmpty(id)) {
+            return this.albumList;
+        } else {
+            return this.albums[id];
+        }
     };
 
     GpAlbum.prototype.cacheKey = function (albumId) {
         var keys = [this.config.cacheKeyPrefix, this.config.account];
-        if (albumId !== undefined && albumId !== null) {
+        if (!isEmpty(albumId)) {
             albumId = String(albumId);
             if (albumId.length > 0) {
                 keys.push(albumId);
@@ -196,18 +221,23 @@ For more information, please refer to <http://unlicense.org/>
     };
 
     GpAlbum.prototype.matchCacheKey = function (key) {
-        var leadKey = this.cacheKey();
-        if (key.search(leadKey) === 0) {
-            if (key.length === leadKey.length) {
-                return ""; //empty string indicating match on account
-            }
-            return key.slice(leadKey.length + 1); // albumId
+        var leadKey = this.cacheKey(),
+            id = "";
+
+        if (key.search(leadKey) !== 0) {
+            return; //undefined match-response since no match key
         }
+
+        if (key.length > leadKey.length) {
+            id = key.slice(leadKey.length + 1); // albumId
+        }
+
+        return {"id": id};
     };
 
     GpAlbum.prototype.getCache = function (albumId) {
         var EMPTY = { "photoList": [], "lastmodified": null };
-        if (albumId === null || albumId === undefined) {
+        if (isEmpty(albumId)) {
             EMPTY = { "albumList": [], "lastmodified": null };
         }
         return getCache(this.cacheKey(albumId), EMPTY);
@@ -215,21 +245,28 @@ For more information, please refer to <http://unlicense.org/>
 
     GpAlbum.prototype.putCache = function (albumId, data) {
         var cached = putCache(this.cacheKey(albumId), data);
-        this.fireUpdated(albumId, cached); // fire-event!
+        this.updateContent(albumId, cached); // fire-event!
         return cached;
     };
 
-
-
-    //TODO some withCache() that claims a lock and then
-
     GpAlbum.prototype.getMaxImgSize = function () {
-        //TODO adapt this to use the real window size available in $elm --> so to dynamically load the correct images for the platform
-        // be sure to try and grab device-sreen-size not just browser-window-size!
-        // top off at 1600! and do so in increments of 200, 400, 800, 1600 --> use tis.config.imgsizes
-
-        return 1600;
+        var dim = Math.max(window.screen.width, window.screen.height),
+            max = 0;
+        this.config.imgsizes.forEach(function (size) {
+            if (dim > size) {
+                max = Math.max(max, size);
+            }
+        });
+        return max;
     };
+
+    GpAlbum.prototype.albumIdToShow = function () {
+        // TODO -- check albumId as spec and maybe load multiple ones...
+        var albumId = this.config.albums[0];  //for now only one expected
+        return albumId;
+
+    };
+
 
     GpAlbum.prototype.load = function () {
 
@@ -237,6 +274,7 @@ For more information, please refer to <http://unlicense.org/>
             imgmax = this.getMaxImgSize(),
             thumbsize = this.config.thumbsize,
             account = this.config.account,
+            albumId = this.albumIdToShow(), //for now only one expected
             me = this;
 
         //https://developers.google.com/picasa-web/docs/2.0/developers_guide_protocol
@@ -297,59 +335,191 @@ For more information, please refer to <http://unlicense.org/>
             });
         }
 
+        function loadFromCache(id) {
+            var content = me.getCache(id);
+            if (!isEmpty(content)) {
+                me.updateContent(id, content);
+            }
+        }
+
+        loadFromCache("");
+        loadFromCache(albumId);
+
         function doLoad() {
             // TODO load albumList for account and process that
             albumList(account, function (aList) {
                 me.putCache("", aList);
-                me.albums = {};
-
-                // TODO -- check albumId as spec and maybe load multiple ones...
-                var albumId = me.config.albums[0];  //for now only one expected
-                me.albums[albumId] = me.getCache(albumId);
 
                 if (me.albums[albumId].lastmodified < aList.albumSet[albumId].updated) {
                     // TODO compare lastmod-dates on album as obtained from account-album-list
                     //      with those in cache to avoid updating local cache if it is recent enough!
-                    me.albumReady(albumId, function (content) {
-                        me.albums[albumId] = content;
-                    });
                     photoList(account, albumId, function (pList) {
                         me.putCache(albumId, pList);
                     });
-                } // else caching stuff working for some good --> no need to load this album
-                me.render();
+                } // else no need to load this album
             });
         }
+
 
         window.setTimeout(doLoad, 0);
         return;
     };
 
-    GpAlbum.prototype.render = function () {
-        var albumId = this.config.albums[0],
-            $elm = this.$album,
-            account = this.config.account,
-            me = this;
+    /*
+     * Renderstrategies
+     * ======================================================================
+     */
+    GpAlbum.RenderStrategy = {};
+    GpAlbum.render = function (render, albumId) {
+        var data = render.getContent(albumId);
 
-        function doEcho() {
-            window.console.log("do echo");
-            $elm.html('<pre>account=' + account + '\nalbumId=' + albumId + '\nimgs ==> \n' +
-                      JSON.stringify(me.albums[albumId].photoList) + '</pre>');
-        }
-
-        if (this.albums && this.albums[albumId] && this.albums[albumId].photoList &&
-                this.albums[albumId].photoList.length > 0) {
-            window.console.log("immediate content");
-            doEcho();
+        if (isEmpty(albumId)) {
+            render.drawAlbumList(data);
         } else {
-            window.console.log("need to wait for items");
-            this.albumReady(albumId, doEcho);
+            render.drawPhotoList(data.photoList);
+        }
+    };
+
+    /*
+     *   render strategy 'echo' : for debugging
+     *   ------------------------------------------------------------------
+     */
+    function EchoRenderStrategy(gpAlbum) {
+        this.$elm = gpAlbum.$album;
+        this.getContent = function (id) { return gpAlbum.getContent(id); };
+    }
+    EchoRenderStrategy.prototype.drawAlbumList = function (aListData) {
+        this.$elm.html('<pre>albs ==> \n' + JSON.stringify(aListData) + '</pre>');
+    };
+    EchoRenderStrategy.prototype.drawPhotoList = function (pListData) {
+        this.$elm.html('<pre>imgs ==> \n' + JSON.stringify(pListData) + '</pre>');
+    };
+    GpAlbum.RenderStrategy.echo = EchoRenderStrategy;
+
+    /*
+     *   render strategy 'play' : for debugging
+     *   ------------------------------------------------------------------
+     */
+    function PlayControl($container, time, fnPrev, fnNext) {
+        var $grp, me = this;
+
+        this.fn = {"prev": fnPrev, "next": fnNext};
+        this.time = time;
+        this.playhandle = null;
+        this.index = -1;
+        this.$prev = $(PlayControl.BTN).html(PlayControl.BACKGLYPH).click(function () {me.prev(); });
+        this.$play = $(PlayControl.BTN).html(PlayControl.PWSEGLYPH).click(function () {me.playtoggle(); });
+        this.$next = $(PlayControl.BTN).html(PlayControl.FRWDGLYPH).click(function () {me.next(); });
+
+        $grp = $(PlayControl.BTNGRP).append(this.$prev).append(this.$play).append(this.$next);
+
+        $container.append($grp);
+    }
+
+    PlayControl.BTN = '<button class="btn btn-default"></button>';
+    PlayControl.BTNGRP = '<div class="btn-grp btn-grp-lg"></div>';
+    PlayControl.BACKGLYPH = '<span class="glyphicon glyphicon-step-backward"></span>';
+    PlayControl.FRWDGLYPH = '<span class="glyphicon glyphicon-step-forward"></span>';
+    PlayControl.PLAYGLYPH = '<span class="glyphicon glyphicon-play"></span>';
+    PlayControl.PWSEGLYPH = '<span class="glyphicon glyphicon-pause"></span>';
+
+    PlayControl.prototype.playtoggle = function () {
+        if (isEmpty(this.playhandle)) {
+            this.start();
+        } else {
+            this.stop();
+        }
+    };
+    PlayControl.prototype.start = function () {
+        var me = this;
+
+        function player() {
+            me.next();
+            me.playhandle = window.setTimeout(player, me.time);
         }
 
-
-        // TODO allow for multiple rendition systems
-        // TODO page turn effect  -- http://www.turnjs.com/#
+        player();
+        this.$play.html(PlayControl.PWSEGLYPH);
     };
+    PlayControl.prototype.stop = function () {
+        window.clearTimeout(this.playhandle);
+        this.playhandle = null;
+        this.$play.html(PlayControl.PLAYGLYPH);
+    };
+    PlayControl.prototype.restart = function () {
+        this.stop();
+        this.start();
+    };
+    PlayControl.prototype.prev = function () { this.fn.prev(); };
+    PlayControl.prototype.next = function () { this.fn.next(); };
+
+
+    function PlayRenderStrategy(gpAlbum) {
+        var $ctrlContainer = $('<div></div>'),
+            me = this;
+        this.getContent = function (id) { return gpAlbum.getContent(id); };
+        this.content = null;
+        this.index = -1;
+        this.ctrl = new PlayControl($ctrlContainer, 5000,
+                                    function () {me.prev(); }, function () {me.next(); });
+        this.$view = $('<div></div>');
+        this.$album = gpAlbum.$album.html('').append($ctrlContainer).append(this.$view);
+
+    }
+    PlayRenderStrategy.prototype.drawAlbumList = function (aListData) {
+        this.$elm.html('loading...');
+    };
+    PlayRenderStrategy.prototype.drawPhotoList = function (pListData) {
+        if (isEmpty(pListData)) {
+            return;
+        }
+
+        this.content = pListData;
+        this.size = pListData.length;
+        this.ctrl.restart();
+
+    };
+    PlayRenderStrategy.prototype.show = function () {
+        if (isEmpty(this.content)) {return; }
+        this.$view.html('<img src="' + this.content[this.index].content + '">');
+    };
+
+    PlayRenderStrategy.prototype.next = function () {
+        if (isEmpty(this.content)) {return; }
+        this.index = (this.index + 1) % this.size;
+        this.show();
+    };
+
+    PlayRenderStrategy.prototype.prev = function () {
+        if (isEmpty(this.content)) {return; }
+        this.index = (this.index - 1) % this.size;
+        this.show();
+    };
+
+
+    GpAlbum.RenderStrategy.play = PlayRenderStrategy;
+
+    // TODO page turn effect  -- http://www.turnjs.com/#
+    // TODO album-browser strategy
+
+
+    GpAlbum.prototype.getRenderer = function () {
+        if (isEmpty(this.renderer)) {
+            this.renderer = new GpAlbum.RenderStrategy[this.config.render](this);
+        }
+        return this.renderer;
+    };
+
+    GpAlbum.prototype.render = function (updateId) {
+        var me = this,
+            albumId = this.config.albums[0],
+            render = me.getRenderer();
+
+        if (albumId === updateId) {
+            GpAlbum.render(render, albumId);
+        }
+    };
+
 
     GpAlbum.config = {
         "account"        : "NONE",
@@ -357,7 +527,8 @@ For more information, please refer to <http://unlicense.org/>
         "cacheKeyPrefix" : "gp.album",
         "serviceUri"     : "http://picasaweb.google.com/data/feed/api",
         "thumbsize"      : 100,
-        "imgsizes"       : [200, 400, 800, 1600]
+        "imgsizes"       : [200, 400, 800, 1600],
+        "render"         : "play"
     };
 
 
