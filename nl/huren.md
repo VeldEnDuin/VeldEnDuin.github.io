@@ -11,5 +11,3 @@ images:
 
 # Te Huur 
 pagina over wat te huur is
-
-<a href=""
