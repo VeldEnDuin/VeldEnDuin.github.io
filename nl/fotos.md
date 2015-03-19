@@ -8,6 +8,3 @@ remove:
 album:
     - "6117873445207636865"
 ---
-
-#Geweldige titel
-
