@@ -1,5 +1,5 @@
 ---
-title: Te Huur
+title: Te Huur - huur
 layout: default
 preview:
     - eentje
@@ -11,3 +11,5 @@ images:
 
 # Te Huur 
 pagina over wat te huur is
+
+<a href=""
