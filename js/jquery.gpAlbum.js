@@ -156,7 +156,8 @@ For more information, please refer to <http://unlicense.org/>
      */
     function GpAlbum($elm, config) {
 
-        var me = this;
+        var $w = $(window),
+            me = this;
 
         this.config = jqMerge(GpAlbum.config, config);
 
@@ -170,7 +171,17 @@ For more information, please refer to <http://unlicense.org/>
         this.albums = {};
         this.albumList = undefined;
 
-        this.$album = $elm;
+        this.$album = $elm.css("overflow", "hidden");
+        jqEnableEvent($elm, 'heightUpdated');
+
+        function sizeUp() {
+            var h = Math.floor(($w.height() * 0.95) - $elm.offset().top);
+            $elm.height(h);
+            $elm.trigger("heightUpdated");
+        }
+        $w.resize(sizeUp).trigger("resize");
+
+
         $elm.data('gpAlbum', this);
 
         jqEnableEvent($elm, 'contentUpdated');
@@ -370,137 +381,200 @@ For more information, please refer to <http://unlicense.org/>
      * ======================================================================
      */
     GpAlbum.RenderStrategy = {};
-    GpAlbum.render = function (render, albumId) {
-        var data = render.getContent(albumId);
 
-        if (isEmpty(albumId)) {
-            render.drawAlbumList(data);
-        } else {
-            render.drawPhotoList(data.photoList);
-        }
-    };
 
     /*
      *   render strategy 'echo' : for debugging
      *   ------------------------------------------------------------------
      */
-    function EchoRenderStrategy(gpAlbum) {
-        this.$elm = gpAlbum.$album;
-        this.getContent = function (id) { return gpAlbum.getContent(id); };
-    }
-    EchoRenderStrategy.prototype.drawAlbumList = function (aListData) {
-        this.$elm.html('<pre>albs ==> \n' + JSON.stringify(aListData) + '</pre>');
-    };
-    EchoRenderStrategy.prototype.drawPhotoList = function (pListData) {
-        this.$elm.html('<pre>imgs ==> \n' + JSON.stringify(pListData) + '</pre>');
-    };
-    GpAlbum.RenderStrategy.echo = EchoRenderStrategy;
+    (function () {
+        function EchoRenderStrategy(gpAlbum) {
+            this.$elm = gpAlbum.$album;
+        }
+        EchoRenderStrategy.prototype.drawAlbumList = function (aListData) {
+            this.$elm.html('<pre>albs ==> \n' + JSON.stringify(aListData) + '</pre>');
+        };
+        EchoRenderStrategy.prototype.drawPhotoList = function (pListData) {
+            this.$elm.html('<pre>imgs ==> \n' + JSON.stringify(pListData) + '</pre>');
+        };
+        GpAlbum.RenderStrategy.echo = EchoRenderStrategy;
+    }());
 
     /*
-     *   render strategy 'play' : for debugging
+     *   render strategy 'play' : player with start-pause-next-prev control
      *   ------------------------------------------------------------------
      */
-    function PlayControl($container, time, fnPrev, fnNext) {
-        var $grp, me = this;
+    (function () {
+        function PlayControl($container, time, fnPrev, fnNext) {
+            var $grp, me = this;
 
-        this.fn = {"prev": fnPrev, "next": fnNext};
-        this.time = time;
-        this.playhandle = null;
-        this.index = -1;
-        this.$prev = $(PlayControl.BTN).html(PlayControl.BACKGLYPH).click(function () {me.prev(); });
-        this.$play = $(PlayControl.BTN).html(PlayControl.PWSEGLYPH).click(function () {me.playtoggle(); });
-        this.$next = $(PlayControl.BTN).html(PlayControl.FRWDGLYPH).click(function () {me.next(); });
+            this.fn = {"prev": fnPrev, "next": fnNext};
+            this.time = time;
+            this.playhandle = null;
+            this.index = -1;
+            this.$prev = $(PlayControl.BTN).html(PlayControl.BACKGLYPH).click(function () {me.prev(); });
+            this.$play = $(PlayControl.BTN).html(PlayControl.PWSEGLYPH).click(function () {me.playtoggle(); });
+            this.$next = $(PlayControl.BTN).html(PlayControl.FRWDGLYPH).click(function () {me.next(); });
 
-        $grp = $(PlayControl.BTNGRP).append(this.$prev).append(this.$play).append(this.$next);
+            $grp = $(PlayControl.BTNGRP).append(this.$prev).append(this.$play).append(this.$next);
 
-        $container.append($grp);
-    }
+            $container.append($grp);
+        }
 
-    PlayControl.BTN = '<button class="btn btn-default"></button>';
-    PlayControl.BTNGRP = '<div class="btn-grp btn-grp-lg"></div>';
-    PlayControl.BACKGLYPH = '<span class="glyphicon glyphicon-step-backward"></span>';
-    PlayControl.FRWDGLYPH = '<span class="glyphicon glyphicon-step-forward"></span>';
-    PlayControl.PLAYGLYPH = '<span class="glyphicon glyphicon-play"></span>';
-    PlayControl.PWSEGLYPH = '<span class="glyphicon glyphicon-pause"></span>';
+        PlayControl.BTN = '<button class="btn btn-default"></button>';
+        PlayControl.BTNGRP = '<div class="btn-grp btn-grp-lg"></div>';
+        PlayControl.BACKGLYPH = '<span class="glyphicon glyphicon-step-backward"></span>';
+        PlayControl.FRWDGLYPH = '<span class="glyphicon glyphicon-step-forward"></span>';
+        PlayControl.PLAYGLYPH = '<span class="glyphicon glyphicon-play"></span>';
+        PlayControl.PWSEGLYPH = '<span class="glyphicon glyphicon-pause"></span>';
 
-    PlayControl.prototype.playtoggle = function () {
-        if (isEmpty(this.playhandle)) {
-            this.start();
-        } else {
+        PlayControl.prototype.playtoggle = function () {
+            if (isEmpty(this.playhandle)) {
+                this.start();
+            } else {
+                this.stop();
+            }
+        };
+        PlayControl.prototype.start = function () {
+            var me = this;
+
+            function player() {
+                me.next();
+                me.playhandle = window.setTimeout(player, me.time);
+            }
+
+            player();
+            this.$play.html(PlayControl.PWSEGLYPH);
+        };
+        PlayControl.prototype.stop = function () {
+            window.clearTimeout(this.playhandle);
+            this.playhandle = null;
+            this.$play.html(PlayControl.PLAYGLYPH);
+        };
+        PlayControl.prototype.restart = function () {
             this.stop();
+            this.start();
+        };
+        PlayControl.prototype.prev = function () { this.fn.prev(); };
+        PlayControl.prototype.next = function () { this.fn.next(); };
+
+
+        function PlayRenderStrategy(gpAlbum) {
+            var $vw, $vwWrap, $ctrlWrap,
+                interval = 5000,
+                me = this;
+            function wrap() {
+                return $('<div></div>')
+                            .css("border-radius", "4px")
+                            .css("border", "1px solid #ddd")
+                            .css("padding", "4px")
+                            .css("background-color", "rgba(255,255,255,0.25)")
+                            .css("position", "absolute")
+                            .css("display", "inline-flex")
+                            .css("justify-content", "center")
+                            .css("width", "100%");
+            }
+            this.content = null;
+            this.index = -1;
+            $ctrlWrap = wrap();
+            this.ctrl = new PlayControl($ctrlWrap, interval,
+                                        function () {me.prev(); }, function () {me.next(); });
+            $vwWrap = wrap();
+            $vw = this.$view = $('<div></div>')
+                            .css("width", "100%")
+                            .css("overflow", "hidden")
+                            .css("background-repeat", "no-repeat")
+                            .css("background-attachment", "fixed")
+                            .css("background-position", "center center")
+                            .css("background-size", "contain");
+            $vwWrap.append($vw);
+            this.$album = gpAlbum.$album.html('').append($vwWrap).append($ctrlWrap);
+
+            this.$album.heightUpdated(function () {
+                me.$view.height(me.$album.height() - 10);
+            }).trigger("heightUpdated");
         }
-    };
-    PlayControl.prototype.start = function () {
-        var me = this;
+        PlayRenderStrategy.prototype.drawAlbumList = function (aListData) {
+            this.$view.html('todo support albumlist drawing in play control...');
+        };
+        PlayRenderStrategy.prototype.drawPhotoList = function (pListData) {
+            if (isEmpty(pListData)) {
+                return;
+            }
 
-        function player() {
-            me.next();
-            me.playhandle = window.setTimeout(player, me.time);
+            this.$view.html('');
+            this.content = pListData;
+            this.size = pListData.length;
+            this.ctrl.restart();
+        };
+        PlayRenderStrategy.prototype.show = function () {
+            if (isEmpty(this.content)) {return; }
+            var imgurl = this.content[this.index].content;
+            this.$view.html('');
+            this.$view.css("background-image", "url('" + imgurl + "')");
+        };
+
+        PlayRenderStrategy.prototype.next = function () {
+            if (isEmpty(this.content)) {return; }
+            this.index = (this.index + 1) % this.size;
+            this.show();
+        };
+
+        PlayRenderStrategy.prototype.prev = function () {
+            if (isEmpty(this.content)) {return; }
+            this.index = (this.index - 1) % this.size;
+            this.show();
+        };
+
+        GpAlbum.RenderStrategy.play = PlayRenderStrategy;
+    }());
+
+
+    /*
+     *   render strategy 'carousel' : using bootstrap - carousel
+     *   ------------------------------------------------------------------
+     */
+    (function () {
+        function CarouselRenderStrategy(gpAlbum) {
+            this.$album = gpAlbum.$album;
+            this.interval = 5000;
+
+            var me = this;
+            this.$album.heightUpdated(function () { me.sizeUp(); }).trigger("heightUpdated");
         }
+        CarouselRenderStrategy.prototype.sizeUp = function () {
+            $("div.item", this.$album).height(this.$album.height() - 10);
+        };
+        CarouselRenderStrategy.prototype.drawAlbumList = function (aListData) {
+            this.$album.html('<pre>albs ==> \n' + JSON.stringify(aListData) + '</pre>');
+        };
+        CarouselRenderStrategy.prototype.drawPhotoList = function (pListData) {
+            var $carousel, html = "",
+                id = "album-carousel-" + Math.floor(Math.random() * 100000);
+            html += '<div style="width: 100%" class="carousel slide" data-ride="carsousel" id="' + id + '">';
+            html += '<div class="carousel-inner" role="listbox">';
+            pListData.forEach(function (item, ndx) {
+                html += '<div class="item ' + (ndx === 0 ? 'active' : '') + '">';
+                html += '<img style="margin: auto auto; max-width: 100%; max-height: 100%" src="' + item.content + '" alt="' + item.caption + '">';
+                html += '<div class="carousel-caption">' + item.caption + '</div>';
+                html += '</div>';
+            });
+            html += '</div>';
+            // controls
+            html += '<a class="left  carousel-control" href="#' + id + '" role="button" data-slide="prev"><span class="glyphicon glyphicon-chevron-left " aria-hidden="true"></span></a>';
+            html += '<a class="right carousel-control" href="#' + id + '" role="button" data-slide="next"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span></a>';
 
-        player();
-        this.$play.html(PlayControl.PWSEGLYPH);
-    };
-    PlayControl.prototype.stop = function () {
-        window.clearTimeout(this.playhandle);
-        this.playhandle = null;
-        this.$play.html(PlayControl.PLAYGLYPH);
-    };
-    PlayControl.prototype.restart = function () {
-        this.stop();
-        this.start();
-    };
-    PlayControl.prototype.prev = function () { this.fn.prev(); };
-    PlayControl.prototype.next = function () { this.fn.next(); };
+            html += '</div>';
 
-
-    function PlayRenderStrategy(gpAlbum) {
-        var $ctrlContainer = $('<div></div>'),
-            me = this;
-        this.getContent = function (id) { return gpAlbum.getContent(id); };
-        this.content = null;
-        this.index = -1;
-        this.ctrl = new PlayControl($ctrlContainer, 5000,
-                                    function () {me.prev(); }, function () {me.next(); });
-        this.$view = $('<div></div>');
-        this.$album = gpAlbum.$album.html('').append($ctrlContainer).append(this.$view);
-
-    }
-    PlayRenderStrategy.prototype.drawAlbumList = function (aListData) {
-        this.$elm.html('loading...');
-    };
-    PlayRenderStrategy.prototype.drawPhotoList = function (pListData) {
-        if (isEmpty(pListData)) {
-            return;
-        }
-
-        this.content = pListData;
-        this.size = pListData.length;
-        this.ctrl.restart();
-
-    };
-    PlayRenderStrategy.prototype.show = function () {
-        if (isEmpty(this.content)) {return; }
-        this.$view.html('<img src="' + this.content[this.index].content + '">');
-    };
-
-    PlayRenderStrategy.prototype.next = function () {
-        if (isEmpty(this.content)) {return; }
-        this.index = (this.index + 1) % this.size;
-        this.show();
-    };
-
-    PlayRenderStrategy.prototype.prev = function () {
-        if (isEmpty(this.content)) {return; }
-        this.index = (this.index - 1) % this.size;
-        this.show();
-    };
-
-
-    GpAlbum.RenderStrategy.play = PlayRenderStrategy;
+            $carousel = $(html).carousel({interval: this.interval});
+            this.$album.html('').append($carousel);
+            this.sizeUp();
+        };
+        GpAlbum.RenderStrategy.carousel = CarouselRenderStrategy;
+    }());
 
     // TODO page turn effect  -- http://www.turnjs.com/#
-    // TODO album-browser strategy
+    // TODO album-browser strategy for /pics replacement
 
 
     GpAlbum.prototype.getRenderer = function () {
@@ -513,13 +587,18 @@ For more information, please refer to <http://unlicense.org/>
     GpAlbum.prototype.render = function (updateId) {
         var me = this,
             albumId = this.config.albums[0],
-            render = me.getRenderer();
+            render = me.getRenderer(),
+            content = me.getContent(albumId);
 
-        if (albumId === updateId) {
-            GpAlbum.render(render, albumId);
+        // TODO support rendering more then only configured first album
+        if (albumId === updateId && !isEmpty(content)) {
+            if (isEmpty(albumId)) {
+                render.drawAlbumList(content);
+            } else {
+                render.drawPhotoList(content.photoList);
+            }
         }
     };
-
 
     GpAlbum.config = {
         "account"        : "NONE",
@@ -528,7 +607,7 @@ For more information, please refer to <http://unlicense.org/>
         "serviceUri"     : "http://picasaweb.google.com/data/feed/api",
         "thumbsize"      : 100,
         "imgsizes"       : [200, 400, 800, 1600],
-        "render"         : "play"
+        "render"         : "carousel"
     };
 
 
