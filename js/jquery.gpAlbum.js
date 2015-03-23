@@ -397,7 +397,17 @@ For more information, please refer to <http://unlicense.org/>
             this.$elm.html('<pre>albs ==> \n' + JSON.stringify(aListData) + '</pre>');
         };
         EchoRenderStrategy.prototype.drawPhotoList = function (pListData) {
-            this.$elm.html('<pre>imgs ==> \n' + JSON.stringify(pListData) + '</pre>');
+            var html = "";
+            html += '<pre>imgs ==> \n';
+            html += '\turl\t\t\t\t\t\t\t\t\t\t\t\t==>\tlbl\n';
+            pListData.forEach(function (item, ndx) {
+                var imgurl = item.content,
+                    imglbl = (isEmpty(item.caption)) ? "" : item.caption;
+                html += '\t' + imgurl + '"\t==>\t"' + imglbl + '"\n';
+            });
+            html += '</pre>';
+
+            this.$elm.html(html);
         };
         GpAlbum.RenderStrategy.echo = EchoRenderStrategy;
     }());
@@ -596,7 +606,40 @@ For more information, please refer to <http://unlicense.org/>
         GpAlbum.RenderStrategy.carousel = CarouselRenderStrategy;
     }());
 
-    // TODO page turn effect  -- http://www.turnjs.com/#
+
+    /*
+     *   render strategy 'carousel' : using bootstrap - carousel
+     *   ------------------------------------------------------------------
+     */
+    (function () {
+        function TurnRenderStrategy(gpAlbum) {
+            this.$album = gpAlbum.$album;
+
+            var me = this;
+            this.$album.heightUpdated(function () { me.sizeUp(); }).trigger("heightUpdated");
+        }
+        TurnRenderStrategy.prototype.sizeUp = function () {
+            this.$album.html("resize to " + (this.$album.height() - 10));
+        };
+        TurnRenderStrategy.prototype.drawAlbumList = function (aListData) {
+            this.$album.html('<pre>albs ==> \n' + JSON.stringify(aListData) + '</pre>');
+        };
+        TurnRenderStrategy.prototype.drawPhotoList = function (pListData) {
+            var html = "";
+            html += '<pre>imgs ==> \n';
+            pListData.forEach(function (item, ndx) {
+                var imgurl = item.content,
+                    imglbl = (isEmpty(item.caption)) ? "" : item.caption;
+                html += 'url :\t' + imgurl + '" lbl="' + imglbl + '\n';
+            });
+            html += '</pre>';
+
+            this.$album.html(html);
+            //this.sizeUp();
+        };
+        GpAlbum.RenderStrategy.turn = TurnRenderStrategy;
+    }());
+
     // TODO album-browser strategy for /pics replacement
 
 
