@@ -320,7 +320,8 @@ For more information, please refer to <http://unlicense.org/>
                         "updated"  : moment(aItem.updated.$t).valueOf(),
                         "title"    : aItem.title.$t,
                         "numpics"  : aItem.gphoto$numphotos.$t,
-                        "thumbnail": aItem.media$group.media$thumbnail[0].url
+                        "thumbnail": aItem.media$group.media$thumbnail[0].url,
+                        "description": aItem.media$group.media$description.$t
                     };
                 });
 
@@ -337,7 +338,8 @@ For more information, please refer to <http://unlicense.org/>
                 response.feed.entry.forEach(function (pItem) {
                     data.photoList.push({
                         "content"  : pItem.media$group.media$content[0].url,
-                        "thumbnail": pItem.media$group.media$thumbnail[0].url
+                        "thumbnail": pItem.media$group.media$thumbnail[0].url,
+                        "caption"  : pItem.media$group.media$description.$t
                     });
                 });
 
@@ -460,19 +462,23 @@ For more information, please refer to <http://unlicense.org/>
 
 
         function PlayRenderStrategy(gpAlbum) {
-            var $vw, $vwWrap, $ctrlWrap,
+            var $vwWrap, $ctrlWrap, $lblWrap,
                 interval = 5000,
                 me = this;
-            function wrap() {
-                return $('<div></div>')
-                            .css("border-radius", "4px")
-                            .css("border", "1px solid #ddd")
-                            .css("padding", "4px")
-                            .css("background-color", "rgba(255,255,255,0.25)")
+            function wrap(pure) {
+                pure = pure || false;
+                var $wrp = $('<div></div>')
                             .css("position", "absolute")
                             .css("display", "inline-flex")
                             .css("justify-content", "center")
                             .css("width", "100%");
+                if (!pure) {
+                    $wrp.css("border-radius", "4px")
+                            .css("border", "1px solid #ddd")
+                            .css("padding", "4px")
+                            .css("background-color", "rgba(255,255,255,0.25)");
+                }
+                return $wrp;
             }
             this.content = null;
             this.index = -1;
@@ -480,15 +486,27 @@ For more information, please refer to <http://unlicense.org/>
             this.ctrl = new PlayControl($ctrlWrap, interval,
                                         function () {me.prev(); }, function () {me.next(); });
             $vwWrap = wrap();
-            $vw = this.$view = $('<div></div>')
+            this.$view = $('<div></div>')
                             .css("width", "100%")
                             .css("overflow", "hidden")
                             .css("background-repeat", "no-repeat")
                             .css("background-attachment", "fixed")
                             .css("background-position", "center center")
                             .css("background-size", "contain");
-            $vwWrap.append($vw);
-            this.$album = gpAlbum.$album.html('').append($vwWrap).append($ctrlWrap);
+            $vwWrap.append(this.$view);
+
+            $lblWrap = wrap(true)
+                    .css('bottom', '0')
+                    .css('padding', '2em')
+                    .css('font-size', '1.5em')
+                    .css('color', '#fff')
+                    .css('text-align', 'center')
+                    .css('text-shadow', '0 1px 2px rgba(0,0,0,.6)');
+
+            this.$lbl = $('<div></div>');
+            $lblWrap.append(this.$lbl);
+
+            this.$album = gpAlbum.$album.html('').append($vwWrap).append($ctrlWrap).append($lblWrap);
 
             this.$album.heightUpdated(function () {
                 me.$view.height(me.$album.height() - 10);
@@ -509,9 +527,12 @@ For more information, please refer to <http://unlicense.org/>
         };
         PlayRenderStrategy.prototype.show = function () {
             if (isEmpty(this.content)) {return; }
-            var imgurl = this.content[this.index].content;
+            var img = this.content[this.index],
+                imgurl = img.content,
+                imglbl = img.caption;
             this.$view.html('');
             this.$view.css("background-image", "url('" + imgurl + "')");
+            this.$lbl.html(imglbl);
         };
 
         PlayRenderStrategy.prototype.next = function () {
@@ -554,9 +575,11 @@ For more information, please refer to <http://unlicense.org/>
             html += '<div style="width: 100%" class="carousel slide" data-ride="carsousel" id="' + id + '">';
             html += '<div class="carousel-inner" role="listbox">';
             pListData.forEach(function (item, ndx) {
+                var imgurl = item.content,
+                    imglbl = (isEmpty(item.caption)) ? "" : item.caption;
                 html += '<div class="item ' + (ndx === 0 ? 'active' : '') + '">';
-                html += '<img style="margin: auto auto; max-width: 100%; max-height: 100%" src="' + item.content + '" alt="' + item.caption + '">';
-                html += '<div class="carousel-caption">' + item.caption + '</div>';
+                html += '<img style="margin: auto auto; max-width: 100%; max-height: 100%" src="' + imgurl + '" alt="' + imglbl + '">';
+                html += '<div class="carousel-caption">' + imglbl + '</div>';
                 html += '</div>';
             });
             html += '</div>';
@@ -607,7 +630,7 @@ For more information, please refer to <http://unlicense.org/>
         "serviceUri"     : "http://picasaweb.google.com/data/feed/api",
         "thumbsize"      : 100,
         "imgsizes"       : [200, 400, 800, 1600],
-        "render"         : "carousel"
+        "render"         : "play"
     };
 
 
