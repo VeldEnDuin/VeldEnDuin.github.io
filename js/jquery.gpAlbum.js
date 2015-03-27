@@ -470,58 +470,113 @@ For more information, please refer to <http://unlicense.org/>
         PlayControl.prototype.prev = function () { this.fn.prev(); };
         PlayControl.prototype.next = function () { this.fn.next(); };
 
+        function div(cfg) {
+            cfg = cfg || {};
+            // default true even if missing
+            if (!cfg.hasOwnProperty("fill")) { cfg.fill   = true; }
+            if (!cfg.hasOwnProperty("center")) { cfg.center   = true; }
+            if (!cfg.hasOwnProperty("border")) { cfg.border   = true; }
+
+            var $div = $('<div></div>'),
+                csses = cfg.csses || {},
+                classes = cfg.classes || [];
+
+            if (cfg["for"] === "label") {
+                cfg.border = false;
+                csses.position          = 'absolute';
+                csses.bottom            = 0;
+                csses["padding-bottom"] = "2em";
+                csses['font-size']      = '2em';
+                csses.color             = '#fff';
+                csses['text-align']     = 'center';
+                csses['text-shadow']    = '0 1px 2px rgba(0,0,0,.6)';
+            } else if (cfg["for"] === "control") {
+                cfg.border = false;
+                csses.position = 'absolute';
+                csses.top = 0;
+            } else if (cfg["for"] === "view") {
+                cfg.border = false;
+//                csses.float = "left";
+                csses.position = "absolute";
+                csses["background-color"] = "rgb(255,255,255)";
+                csses["background-repeat"] = "no-repeat";
+                csses["background-attachment"] = "fixed";
+                csses["background-position"] = "center center";
+                csses["background-size"] = "contain";
+            }
+
+            if (cfg.clearfix === true) {
+                classes.push("clearfix");
+            }
+            if (cfg.fill === true) {
+                csses.width = "100%";
+            }
+            if (cfg.clip === true) {
+                csses.overflow = "hidden";
+            }
+            if (cfg.center === true) {
+                csses.display            = "inline-flex";
+                csses["justify-content"] = "center";
+            }
+            if (cfg.border === true) {
+                csses["border-radius"]    = "4px";
+                csses.border              = "1px solid #ddd";
+                csses.padding             = "4px";
+                csses["background-color"] = "rgba(255,255,255,0.25)";
+            }
+
+            Object.keys(csses).forEach(function (prop) {
+                var val = csses[prop];
+                $div.css(prop, val);
+            });
+            $div.addClass(classes.join(" "));
+            return $div;
+        }
 
         function PlayRenderStrategy(gpAlbum) {
-            var $vwWrap, $ctrlWrap, $lblWrap,
-                interval = 5000,
-                me = this;
-            function wrap(pure) {
-                pure = pure || false;
-                var $wrp = $('<div></div>')
-                            .css("position", "absolute")
-                            .css("display", "inline-flex")
-                            .css("justify-content", "center")
-                            .css("width", "100%");
-                if (!pure) {
-                    $wrp.css("border-radius", "4px")
-                            .css("border", "1px solid #ddd")
-                            .css("padding", "4px")
-                            .css("background-color", "rgba(255,255,255,0.25)");
-                }
-                return $wrp;
-            }
+            var $vwWrap, $ctrlWrap, $lblWrap, me = this;
+
+            this.$album = gpAlbum.$album;
+            this.$viewTrans = div({"clearfix": true, "fill": false, "center": false, "border": false, "clip": true});
+            this.$view = $();
+            this.$album.heightUpdated(function () {
+                var h = (me.$album.height() - 10), w = (me.$album.width() - 10);
+                me.viewHeight = h;
+                me.viewWidth = w;
+                me.$view.width(w).height(h);
+                me.$viewTrans.width(w).height(h);
+            }).trigger("heightUpdated");
+
+            this.interval = 5000;
+
             this.content = null;
             this.index = -1;
-            $ctrlWrap = wrap();
-            this.ctrl = new PlayControl($ctrlWrap, interval,
-                                        function () {me.prev(); }, function () {me.next(); });
-            $vwWrap = wrap();
-            this.$view = $('<div></div>')
-                            .css("width", "100%")
-                            .css("overflow", "hidden")
-                            .css("background-repeat", "no-repeat")
-                            .css("background-attachment", "fixed")
-                            .css("background-position", "center center")
-                            .css("background-size", "contain");
-            $vwWrap.append(this.$view);
+            $ctrlWrap = div({"for": "control"});
+            this.ctrl = new PlayControl($ctrlWrap, this.interval,
+                                        function () {me.prev(); },
+                                        function () {me.next(); });
 
-            $lblWrap = wrap(true)
-                    .css('bottom', '0')
-                    .css('padding', '2em')
-                    .css('font-size', '1.5em')
-                    .css('color', '#fff')
-                    .css('text-align', 'center')
-                    .css('text-shadow', '0 1px 2px rgba(0,0,0,.6)');
+            $vwWrap = div({"center": false});
+            this.$view = this.newView();
+            this.$viewTrans.append(this.$view);
+            $vwWrap.append(this.$viewTrans);
+
+            $lblWrap = div({"for" : "label"});
+
 
             this.$lbl = $('<div></div>');
             $lblWrap.append(this.$lbl);
 
-            this.$album = gpAlbum.$album.html('').append($vwWrap).append($ctrlWrap).append($lblWrap);
-
-            this.$album.heightUpdated(function () {
-                me.$view.height(me.$album.height() - 10);
-            }).trigger("heightUpdated");
+            this.$album.html('').append($vwWrap).append($ctrlWrap).append($lblWrap);
         }
+        PlayRenderStrategy.prototype.newView = function (imgurl) {
+            var $vw = div({"for" : "view"});
+            $vw.width(this.viewWidth).height(this.viewHeight);
+            if (!isEmpty(imgurl)) {
+                $vw.css("background-image", "url('" + imgurl + "')");
+            }
+            return $vw;
+        };
         PlayRenderStrategy.prototype.drawAlbumList = function (aListData) {
             this.$view.html('todo support albumlist drawing in play control...');
         };
@@ -539,10 +594,16 @@ For more information, please refer to <http://unlicense.org/>
             if (isEmpty(this.content)) {return; }
             var img = this.content[this.index],
                 imgurl = img.content,
-                imglbl = img.caption;
-            this.$view.html('');
-            this.$view.css("background-image", "url('" + imgurl + "')");
-            this.$lbl.html(imglbl);
+                imglbl = isEmpty(img.caption) ? "&nbsp;" : img.caption,
+                me = this,
+                $old = this.$view;
+            this.$view = this.newView(imgurl);
+            this.$view.insertBefore($old);
+            $old.animate({"opacity": 0}, Math.floor(this.interval / 5) + 1, function () {
+            //$old.animate({"margin-left": "-100%"}, Math.floor(this.interval / 5) + 1, function () {
+                $old.remove();
+                me.$lbl.html(imglbl);
+            });
         };
 
         PlayRenderStrategy.prototype.next = function () {
@@ -611,6 +672,7 @@ For more information, please refer to <http://unlicense.org/>
      *   render strategy 'carousel' : using bootstrap - carousel
      *   ------------------------------------------------------------------
      */
+    /*
     (function () {
         function TurnRenderStrategy(gpAlbum) {
             this.$album = gpAlbum.$album;
@@ -619,26 +681,36 @@ For more information, please refer to <http://unlicense.org/>
             this.$album.heightUpdated(function () { me.sizeUp(); }).trigger("heightUpdated");
         }
         TurnRenderStrategy.prototype.sizeUp = function () {
-            this.$album.html("resize to " + (this.$album.height() - 10));
+            console.log("no turn resize yet"); return;
+
+            if (!isEmpty(this.$turn)) {
+                this.$turn.turn('size', (this.$album.width() - 10), (this.$album.height() - 10));
+            }
         };
         TurnRenderStrategy.prototype.drawAlbumList = function (aListData) {
             this.$album.html('<pre>albs ==> \n' + JSON.stringify(aListData) + '</pre>');
+            this.$turn = null;
         };
         TurnRenderStrategy.prototype.drawPhotoList = function (pListData) {
-            var html = "";
-            html += '<pre>imgs ==> \n';
+            var html = "", id = "flibook-" + Math.floor(Math.random() * 100000);
+            html += '<div id="' + id + '">';
             pListData.forEach(function (item, ndx) {
                 var imgurl = item.content,
                     imglbl = (isEmpty(item.caption)) ? "" : item.caption;
-                html += 'url :\t' + imgurl + '" lbl="' + imglbl + '\n';
+                html += '<div class="page p' + (ndx + 1) + '">';
+                html += '<img src="' + imgurl + '" alt="' + imglbl + '">';
+                html += '</div>';
             });
-            html += '</pre>';
+            html += '</div>';
 
-            this.$album.html(html);
-            //this.sizeUp();
+            this.$turn = $(html);
+            this.$album.html('').append(this.$turn);
+            this.$turn.turn({display: "single"});
+            this.sizeUp();
         };
         GpAlbum.RenderStrategy.turn = TurnRenderStrategy;
     }());
+    */
 
     // TODO album-browser strategy for /pics replacement
 
