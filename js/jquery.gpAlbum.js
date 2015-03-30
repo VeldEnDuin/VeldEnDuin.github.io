@@ -433,7 +433,7 @@ For more information, please refer to <http://unlicense.org/>
             $container.append($grp);
         }
 
-        PlayControl.BTN = '<button class="btn btn-default"></button>';
+        PlayControl.BTN = '<button class="btn btn-primary"></button>';
         PlayControl.BTNGRP = '<div class="btn-grp btn-grp-lg"></div>';
         PlayControl.BACKGLYPH = '<span class="glyphicon glyphicon-step-backward"></span>';
         PlayControl.FRWDGLYPH = '<span class="glyphicon glyphicon-step-forward"></span>';
@@ -608,13 +608,13 @@ For more information, please refer to <http://unlicense.org/>
 
         PlayRenderStrategy.prototype.next = function () {
             if (isEmpty(this.content)) {return; }
-            this.index = (this.index + 1) % this.size;
+            this.index = (((this.index + 1) % this.size) + this.size) % this.size;
             this.show();
         };
 
         PlayRenderStrategy.prototype.prev = function () {
             if (isEmpty(this.content)) {return; }
-            this.index = (this.index - 1) % this.size;
+            this.index = (((this.index - 1) % this.size) + this.size) % this.size;
             this.show();
         };
 
