@@ -56,6 +56,17 @@
         TRANSL = $('body').data('translations');
     });
 
+
+
+    /*
+     * make forms nested in the menu work and show ok
+     * =======================================================================
+     */
+    $('.dropdown-menu').find('form').click(function (e) {
+        e.stopPropagation();
+    });
+
+
     /*
      * Build up the group pages
      * =======================================================================
