@@ -56,8 +56,11 @@ body {
     margin-top: -10px;
 }
 .navbar {
-    font-size: 1.15em;
+    font-size: 1.25em;
     text-transform: uppercase;
+}
+.navbar .fa {
+    /* font-size: 1.5em;*/
 }
 .navbar .form-group {
     margin-bottom: 0px;
@@ -68,9 +71,6 @@ body {
 }
 .navbar .dropdown-menu li, .navbar li:last-child {
     border-right: 0;
-}
-.navbar ul#search {
-    margin-left: 3em;
 }
 /* ===================================================================================
  * styling share buttons --> colors and fontsize

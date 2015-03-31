@@ -23,15 +23,21 @@
 {% endunless %}
 
 <!-- hrefLangVariants == {{ hrefLangVariants | jsonify }} -->
-<ul id="lang" class="nav navbar-nav navbar-right">
+<li id="lang">
+    <a href=""
+        data-toggle="dropdown" role="button" aria-expanded="false" class="dropdown-toggle"
+       ><span>{{ pgLang }}</span>
+    </a>
+    <ul class="dropdown-menu" role="menu">
 {% for lang in site.data.langs %}
-    {% assign ln = lang[0] %}
-    <li {% if ln == pgLang %}class="active"{% endif %}>
-        {% capture langVariantRef %}/{{ ln }}{% endcapture %}
-        {% if ln != pgLang and hrefLangVariants[ln].link %}
-            {% assign langVariantRef = hrefLangVariants[ln].link %}
-        {% endif %}
-        <a href="{{ langVariantRef }}">{{ ln }}</a>
-    </li>
+{% assign ln = lang[0] %}
+        <li {% if ln == pgLang %}class="active"{% endif %}>
+    {% capture langVariantRef %}/{{ ln }}{% endcapture %}
+    {% if ln != pgLang and hrefLangVariants[ln].link %}
+        {% assign langVariantRef = hrefLangVariants[ln].link %}
+    {% endif %}
+            <a href="{{ langVariantRef }}">{{ lang[1].label }}</a>
+        </li>
 {% endfor %}
-</ul>
+    </ul>
+</li>
