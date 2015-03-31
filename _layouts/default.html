@@ -75,18 +75,47 @@
   {% if page.insert contains 'image-album' %}
     {% include imagealbum.html %}
   {% endif %}
+  {% unless  page.remove contains 'socialshare'%}
+    {% include socialshare.html %}
+  {% endunless%}
         </div>
       </div>
     </article>
 
     <footer>
-      <div class="container">
-        <div id="footer" class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-{% unless  page.remove contains 'socialshare'%}
-  {% include socialshare.html %}
-{% endunless%}
+      <div id="footer">
+  {% unless  page.remove contains 'imgstrip'%}
+        <div class="vd-img-strip">
+            imgstrip
         </div>
+  {% endunless%}
         <!-- more footer elements? -->
+        <div id="contact" class="vd-contact" itemscope itemtype="http://schema.org/Place">
+        <div class="container" >
+          <meta itemprop="name"        content="{{ site:name }}" />
+          <meta itemprop="description" content="{{ site:description }}" />
+          <meta itemprop="url"         content="{{ site:url }}" />
+<!--
+          <span id="route-link" class="item"><a itemprop="map" title="route" href="/{{ pgLang }}/route.html"><span class="glyphicon glyphicon-map-marker"></span></a></span>
+-->
+          <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+            <span class="vd-contact-item col-lg-3 col-md-4 hidden-sm hidden-xs" itemprop="streetAddress">
+                K. Astridlaan 87
+            </span>
+            <span class="vd-contact-item col-lg-3 hidden-md hidden-sm hidden-xs">
+              <span itemprop="postalCode">8450</span> <span itemprop="addressLocality">Bredene</span>
+            </span>
+            <a class="vd-contact-item col-lg-3 col-md-4 col-sm-6 col-xs-12" itemprop="email" title="email" target="_blank" href="mailto:{{ site.links.mail }}"><span class="fa fa-envelope"></span> <span>{{ site.links.mail }}</span></a>
+            <meta itemprop="addressCountry" content="Belgium" />
+          </span>
+          <span "geo" itemprop="geo" itemscope itemtype="http://schema.org/GeoCordinates">
+            <meta itemprop="latitude" content="{{ site.geolocation.lat }}" />
+            <meta itemprop="longitude" content="{{ site.geolocation.lon }}" />
+          </span>
+          <span class="vd-contact-item col-lg-3 col-md-4 col-sm-6 col-xs-12" itemprop="telephone"><span class="fa fa-phone"></span> +32 472 84 17 15</span>
+          </span>
+        </div>
+        </div>
       </div>
     </footer>
 

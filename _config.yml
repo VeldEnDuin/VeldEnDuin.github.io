@@ -25,7 +25,9 @@ keywords:
   - strandvakantie
   - honden
 
-geolocation: 51.252331, 2.978033
+geolocation:
+    lat: 51.252331
+    lon: 2.978033
 fb-app-id: "357843984399164"
 gp-id: "107871249081614981666"
 

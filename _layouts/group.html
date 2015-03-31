@@ -14,7 +14,7 @@ layout: default
 
 <div class="vd-group-list row {{page.class.group.list}}"
      id="vd-group-list"
-     data-geolocation="{{site.geolocation}}">
+     data-geolocation="{{site.geolocation.lat}}, {{site.geolocation.lon}}">
 {% assign rankedpages = site.pages | sort: 'ranking' %}
 {% for pg in rankedpages %}
     {% assign parts = pg.url | split: '/' %}
@@ -45,7 +45,7 @@ layout: default
                         {% assign noInfo = false %}
                     <li class="list-group-item">
                         <a class="vd-location" data-location="{{pg.location}}" target="_blank"
-                           href="https://www.google.be/maps/dir/{{site.geolocation}}/{{pg.location}}?hl={{ pgLang }}"
+                           href="https://www.google.be/maps/dir/{{site.geolocation.lat}}, {{site.geolocation.lon}}/{{pg.location}}?hl={{ pgLang }}"
                         >{{site.data.langs[pgLang].dict.route}} </a>
                         <span class="badge"><span class="glyphicon glyphicon-map-marker"></span></span>
                     </li>
