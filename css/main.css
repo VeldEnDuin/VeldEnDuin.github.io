@@ -4,53 +4,43 @@
 @import url("print.css") print;
 
 
-
 /* ===================================================================================
- * Typography
+ * Page Backdrop
  *   -------------------------------------------------------------------------------
  */
 body {
- /* TODO -- this effect should come from the custom bootstrap.css we will produce later? */
-    font-family: 'Montserrat', sans-serif;
     background-image: url('/img/style/background.jpg');
     background-position: center center;
     background-size: cover;
 }
+body:before {
+    content: "";
+    width: 50%;
+    height: 100%;
+    display: block;
+    position: fixed;
+    right:  0;
+    bottom: 0;
+    background-image: url('/img/style/watermark_logo.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: right bottom;
+    z-index: -1;
+}
 
 /* ===================================================================================
- * styling menu --> branding icon
+ * styling menu and header
  *   -------------------------------------------------------------------------------
  */
 .vd-menu {
-    padding-top: 27px;
-    padding-bottom: 28px;
-    padding-right: 5em;
-    padding-left: 5em;
+    padding: 27px 5% 28px 5%;
+    -webkit-box-shadow: 0px 0px 12px 2px #4f5137;
+    -moz-box-shadow: 0px 0px 12px 2px #4f5137;
+    box-shadow: 0px 0px 12px 2px #4f5137;
 }
-.vd-banner {
-    height: 525px;
-    background-image: url('/img/style/banner.jpg');
-    background-position: center center;
-    background-size: cover;
+.navbar {
+    margin-bottom: 0px;
 }
-.vd-bottomdrop {
-    border-bottom: 1px solid #b8ba8a;
-}
-.vd-bottomdrop:after {
-    content: "";
-    width: 100%;
-    height: 100%;
-    display: block;
-    -webkit-box-shadow: 0px 0px 8px 2px #4f5137;
-       -moz-box-shadow: 0px 0px 8px 2px #4f5137;
-            box-shadow: 0px 0px 8px 2px #4f5137;
-}
-@media (max-width: 991px) {
-  .vd-banner {
-    display: none !important;
-  }
-}
-
 .navbar-brand img {
     max-width: 100px;
     margin-top: -10px;
@@ -58,9 +48,6 @@ body {
 .navbar {
     font-size: 1.25em;
     text-transform: uppercase;
-}
-.navbar .fa {
-    /* font-size: 1.5em;*/
 }
 .navbar .form-group {
     margin-bottom: 0px;
@@ -72,6 +59,72 @@ body {
 .navbar .dropdown-menu li, .navbar li:last-child {
     border-right: 0;
 }
+.vd-banner {
+    height: 450px;
+    background-image: url('/img/style/banner.jpg');
+    background-position: center top;
+    background-size: cover;
+}
+.vd-banner:after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    display: block;
+    border-bottom: 6px solid #b8ba8a;
+    -webkit-box-shadow: 0px 0px 12px 2px #4f5137;
+       -moz-box-shadow: 0px 0px 12px 2px #4f5137;
+            box-shadow: 0px 0px 12px 2px #4f5137;
+}
+.vd-callout {
+    background-image: url('/img/style/callout-background.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center bottom;
+    padding: 0.5em 2% 2em 2%;
+    top: -3em;
+    position: relative;
+    -webkit-border-radius: 1.25em;
+       -moz-border-radius: 1.25em;
+            border-radius: 1.25em;
+}
+.vd-callout .btn-lg.btn-primary {
+    background-color: transparent;
+    border: none;
+    background-image: url('/img/style/btn_prim_background.svg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+/*
+ *     ~~~~~~~~~  responsive navbar ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ */
+@media (max-width: 767px) {                           /*  'xs' -- extra small */
+  .navbar {
+    font-size: 1em;
+  }
+  .navbar li {
+    border-right: 0;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {    /*  'sm' -- small       */
+  .navbar {
+    font-size: 0.95em;
+  }
+/*
+  .vd-banner {
+    height: 275px;
+  }
+*/
+}
+@media (min-width: 992px) and (max-width: 1199px) {   /*  'md' -- medium      */
+  .navbar {
+    font-size: 1.10em;
+  }
+}
+
+
 /* ===================================================================================
  * styling share buttons --> colors and fontsize
  *   -------------------------------------------------------------------------------

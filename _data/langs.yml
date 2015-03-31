@@ -12,6 +12,8 @@ nl:
         overview: overzicht
         share: Deel dit bericht via
         search: Zoek
+        callout: TODO Hier komt dan een tekstje dat er voor zorgt dat ze rapper inschrijven bij VELD & DUIN !
+        callact: Reservatie Aanvraag
 fr:
     label: français
     directions: ["N", "NE", "E", "SE", "S", "SO", "O", "NO"]
@@ -26,6 +28,8 @@ fr:
         overview: résumé
         share: Partager cet article sur
         search: Recherche
+        callout: TODO FR TRANS
+        callact: TODO FR TRANS
 de:
     label: Deutsch
     directions: ["N", "NO", "O", "SO", "S", "SW", "W", "NW"]
@@ -40,6 +44,8 @@ de:
         overview: Zusammenfassung
         share: Dieses Thema teilen auf
         search: Suche
+        callout: TODO DE TRANS
+        callact: TODO DE TRANS
 en:
     label: English
     directions: ["N", "NE", "E", "SE", "S", "SW", "W", "NW"]
@@ -54,3 +60,5 @@ en:
         overview: overview
         share: Share this content via
         search: Search
+        callout: TODO EN TRANS
+        callact: TODO EN TRANS

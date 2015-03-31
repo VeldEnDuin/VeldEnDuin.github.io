@@ -19,7 +19,7 @@
     <link type="text/css" rel="stylesheet" href="/css/jquery.mCustomScrollbar.css">
     -->
     <link rel="stylesheet" href="/css/main.css">
-    <link rel="icon" type="image/png" href="/img/veldenduin-ico-48.png">
+    <link rel="icon" type="image/png" href="/img/style/veldenduin-ico-48.png">
 
   </head>
   <body data-translations='{{site.data.langs[pgLang] | jsonify}}'>
@@ -34,7 +34,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/{{ pgLang }}/"><img src="/img/vd-logo-transp-143x59.png" title="Veld &amp; Duin"></a>
+          <a class="navbar-brand" href="/{{ pgLang }}/"><img src="/img/style/logo_veldenduin.png" title="Veld &amp; Duin"></a>
         </div>
 
         <div class="collapse navbar-collapse" id="vd-menu">
@@ -47,10 +47,22 @@
         </div>
         </div>
         </div>
-    {% unless page.remove contains 'banner' %}
-        <div class="vd-banner vd-bottomdrop"></div>
-    {% endunless %}
       </nav>
+    {% unless page.remove contains 'banner' %}
+      <div class="vd-banner hidden-sm hidden-xs"></div>
+        {% unless page.remove contains 'callout' %}
+      <div class="container hidden-sm hidden-xs">
+        <div class="vd-callout row">
+          <div class="col-lg-9 col-md-8">
+              {{site.data.langs[pgLang].dict.callout}}
+          </div>
+          <div class="pull-right col-lg-3 col-md-4">
+            <button class="btn btn-lg btn-primary">{{site.data.langs[pgLang].dict.callact}}</button>
+          </div>
+        </div>
+      </div>
+        {% endunless%}
+    {% endunless %}
     </header>
 
     <article>
