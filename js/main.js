@@ -238,14 +238,37 @@
     $(function () {
         var $shareGrp = $('#vd-share-group'),
             shareData,
+            $shareToggle,
+            toggleIsOpen = false,
             $shareBtns,
             applicatorFor;
 
+        function close() {
+            $shareBtns.animate({"left": "-100%", "opacity": 0}, 500, "swing", function () {
+                $shareToggle.css('border-bottom-right-radius', '6px');
+                $shareToggle.css('border-top-right-radius', '6px');
+                toggleIsOpen = false;
+            });
+        }
+        function open() {
+            $shareToggle.css('border-bottom-right-radius', '0');
+            $shareToggle.css('border-top-right-radius', '0');
+            $shareBtns.animate({"left": "0", "opacity": 1}, 500, "swing", function () {
+                toggleIsOpen = true;
+            });
+        }
+        function toggle() {
+            if (toggleIsOpen) { close(); } else { open(); }
+        }
+
         if ($shareGrp && $shareGrp.length > 0) {
             shareData = $shareGrp.data('share');
-            $shareBtns = $('button', $shareGrp);
-            applicatorFor = {};
+            $shareToggle = $('button[data-toggle="tooltip"]', $shareGrp);
+            $shareBtns = $('button[role]', $shareGrp);
+            $shareToggle.click(toggle);
+            close();
 
+            applicatorFor = {};
             applicatorFor.fb = function ($btn) {
                 $btn.click(function (e) {
                     window.open('https://www.facebook.com/dialog/share?app_id=' + encodeURIComponent(shareData['fb-app-id']) +
@@ -255,6 +278,7 @@
                                 'height=450, width=550, top=' + ($(window).height() / 2 - 225) + ', left=' + $(window).width() / 2 +
                                 ', toolbar=no, location=0, menubar=no, directories=no, scrollbars=no, resizeable=yes'
                                );
+                    close();
                 });
                 return true;
             };
@@ -266,6 +290,7 @@
                                 'height=450, width=550, top=' + ($(window).height() / 2 - 225) + ', left=' + $(window).width() / 2 +
                                 ', toolbar=no, location=0, menubar=no, directories=no, scrollbars=no, resizeable=yes'
                                );
+                    close();
                 });
                 return true;
             };
@@ -276,6 +301,7 @@
                                 'height=600, width=600, top=' + ($(window).height() / 2 - 300) + ', left=' + $(window).width() / 2 +
                                 ', toolbar=no, location=0, menubar=no, directories=no, scrollbars=no, resizeable=yes'
                                );
+                    close();
                 });
                 return true;
             };
@@ -289,6 +315,7 @@
                                 'height=600, width=600, top=' + ($(window).height() / 2 - 300) + ', left=' + $(window).width() / 2 +
                                 ', toolbar=no, location=0, menubar=no, directories=no, scrollbars=no, resizeable=yes'
                                );
+                    close();
                 });
                 return true;
             };

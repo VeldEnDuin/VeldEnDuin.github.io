@@ -129,8 +129,14 @@ body:before {
  * styling share buttons --> colors and fontsize
  *   -------------------------------------------------------------------------------
  */
+#vd-share-group {
+    position: fixed;
+    left: 0px;
+    top: 115px;
+}
 .vd-share-grp button {
-    background-color: transparent;
+    font-size: 2em;
+    background-color: rgba(255, 255, 255, 0.75);
 }
 .fa.vd-share.vd-share-gp {
     color: #dd4b39!important;
