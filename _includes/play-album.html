@@ -1,0 +1,9 @@
+{% assign albattr = "play-album" %}
+{% assign albid = site[albattr] %}
+{% if page[albattr] %}
+    {% assign albid = page[albattr] %}
+{% endif %}
+<div id="album" class="vd-album"
+     data-album='{"gp-id": {{site["gp-id"] | jsonify }}, "album-spec": {{albid | jsonify}} }'>
+    album-player loading...
+</div>

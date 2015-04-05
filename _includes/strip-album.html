@@ -1,0 +1,12 @@
+{% assign albattr = "strip-album" %}
+{% assign albid = site[albattr] %}
+{% if page[albattr] %}
+    {% assign albid = page[albattr] %}
+{% endif %}
+<!--
+<div id="imgstrip" class="vd-img-strip"
+-->
+<div id="imgstrip" class="vd-img-strip vd-album"
+     data-album='{"gp-id": {{site["gp-id"] | jsonify }}, "album-spec": {{ albid | jsonify}}, "render": "strip", "dimensions": "keep"}'>
+    imgstrip loading ...
+</div>

@@ -319,18 +319,24 @@ body:before {
  */
 .vd-img-strip {
     height: 105px;
-    background-color: #fff;
+    background-color: rgba(255, 255, 255, 0.5);
 }
 .vd-contact {
     font-size: 1.05em;
-    background-color: #b8ba8a;
-    padding: 1px 0 0 0;
+    background-color: #8FB742;
+    color: #fff;
+    padding: 0.5em 0 0.5em 0;
+    text-align: center;
 }
 .vd-contact .vd-contact-item {
-    padding: 0.5em 2em 0.5em 2em;
-    border-right: 1px solid #4f5137;
+    padding: 0.5em 1.5em 0.5em 1.5em;
+    border-right: 1px solid #fff;
     text-align: center;
     text-transform: uppercase;
+    height: 100%;
+}
+.vd-contact a.vd-contact-item {
+    color: #fff;
 }
 .vd-contact .vd-contact-item:last-child {
     border-right: 0;
@@ -339,9 +345,7 @@ body:before {
  *     ~~~~~~~~~  responsive footer ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  */
 @media (max-width: 767px) {                           /*  'xs' -- extra small */
-    .vd-contact .vd-contact-item {
-        border-right: 0;
-    }
+
 }
 @media (min-width: 768px) and (max-width: 991px) {    /*  'sm' -- small       */
 

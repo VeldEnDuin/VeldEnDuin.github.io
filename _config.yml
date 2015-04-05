@@ -25,16 +25,27 @@ keywords:
   - strandvakantie
   - honden
 
+contact:
+    owner: Veld & Duin nv
+    site-url: www.veldenduin.be
+    street: K. Astridlaan 87
+    zip: 8450
+    city: Bredene
+    email: info@veldenduin.be
+    phone: +32 (0)59 322 479
+
 geolocation:
     lat: 51.252331
     lon: 2.978033
 fb-app-id: "357843984399164"
 gp-id: "107871249081614981666"
 
+strip-album: "6117873445207636865"
+play-album: "6117873445207636865"
+
 links:
   social-fb: https://www.facebook.com/VeldEnDuin
   social-gp: https://plus.google.com/+VeldenduinBe
 #  social-tw: https://twitter.com/....
 #  social-in: https://www.linkedin.com/in/....
-  mail: info@veldenduin.be
 

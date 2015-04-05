@@ -150,13 +150,80 @@ For more information, please refer to <http://unlicense.org/>
         throw "this will not work without moment.js library! get it from http://momentjs.com";
     }
 
+
+    /*
+     * make albumMatchers that can match for albumIds
+     * =======================================================================
+     */
+    // use composite pattern to care for array of albumSpecs (ids)
+    function compositeMatchFn(cms) {
+        return function (id, name) {
+            return cms.some(function (mfn) {
+                return mfn(id, name);
+            });
+        };
+    }
+    // nested in that composite are regex or identity-mappers
+    function simpleMatchFn(pattern) {
+        return function (id, name) {
+            return (!isEmpty(id) && String(id).match(pattern)) || (!isEmpty(name) && String(name).match(pattern));
+        };
+    }
+    // flattenArray is a helper function that unwraps nested array-in-array elements into a single list
+    function flattenArray(inArr, outArr) {
+        outArr = outArr || [];
+        inArr.forEach(function (elm) {
+            if ($.isArray(elm)) {
+                flattenArray(elm, outArr);
+            } else {
+                outArr.push(elm);
+            }
+        });
+
+        return outArr;
+    }
+    // makeMatchFn is a factory-method that creates the structure out of an 'albumSpec'
+    function makeMatchFn(spec) {
+        var mfn, cms;
+        if ($.isArray(spec)) {
+            spec = flattenArray(spec);
+            cms = [];
+            spec.forEach(function (childSpec) {
+                cms.push(makeMatchFn(childSpec));
+            });
+            mfn = compositeMatchFn(cms);
+        } else {
+            mfn = simpleMatchFn(spec);
+        }
+        return mfn;
+    }
+
+    // make sizeFunction to handle window resize
+    function makeSizeAdaptFn(spec, $elm) {
+        spec = spec.split(" ");
+        var $w = $(window), scale, height = $elm.height();
+        if (spec[0] === "scale") {
+            scale = Number(spec[1]);
+            return function () {
+                var h = Math.floor(($w.height() * scale) - $elm.offset().top);
+                $elm.height(h);
+                $elm.trigger("heightUpdated");
+            };
+
+        } else if (spec[0] === "keep") {
+            return function ($elm) {
+                return; // don't do anything
+            };
+        }
+    }
+
     /*
      * The real stuff
      * =======================================================================
      */
     function GpAlbum($elm, config) {
 
-        var $w = $(window),
+        var $w = $(window), sizeUp,
             me = this;
 
         this.config = jqMerge(GpAlbum.config, config);
@@ -170,15 +237,14 @@ For more information, please refer to <http://unlicense.org/>
 
         this.albums = {};
         this.albumList = undefined;
+        this.albumMatch = makeMatchFn(this.config.albumspec);
 
         this.$album = $elm.css("overflow", "hidden");
         jqEnableEvent($elm, 'heightUpdated');
 
-        function sizeUp() {
-            var h = Math.floor(($w.height() * 0.95) - $elm.offset().top);
-            $elm.height(h);
-            $elm.trigger("heightUpdated");
-        }
+        //TODO don't do this for strip render ?
+        //or more general - introduce a config height-formula 95% (default) or 105px --> for strip!
+        sizeUp = makeSizeAdaptFn(this.config.dimensions, $elm);
         $w.resize(sizeUp).trigger("resize");
 
 
@@ -204,8 +270,16 @@ For more information, please refer to <http://unlicense.org/>
     }
 
     GpAlbum.prototype.updateContent = function (id, content) {
+        var me = this;
         if (isEmpty(id)) {
             this.albumList = content;
+            this.matchingAlbumIds = [];
+            Object.keys(content.albumSet).forEach(function (id) {
+                var name = content.albumSet[id].title;
+                if (me.albumMatch(id, name)) {
+                    me.matchingAlbumIds.push(id);
+                }
+            });
         } else {
             this.albums[id] = content;
         }
@@ -271,12 +345,6 @@ For more information, please refer to <http://unlicense.org/>
         return max;
     };
 
-    GpAlbum.prototype.albumIdToShow = function () {
-        // TODO -- check albumId as spec and maybe load multiple ones...
-        var albumId = this.config.albums[0];  //for now only one expected
-        return albumId;
-
-    };
 
 
     GpAlbum.prototype.load = function () {
@@ -285,7 +353,7 @@ For more information, please refer to <http://unlicense.org/>
             imgmax = this.getMaxImgSize(),
             thumbsize = this.config.thumbsize,
             account = this.config.account,
-            albumId = this.albumIdToShow(), //for now only one expected
+            albumId,
             me = this;
 
         //https://developers.google.com/picasa-web/docs/2.0/developers_guide_protocol
@@ -315,16 +383,17 @@ For more information, please refer to <http://unlicense.org/>
                 data.albumSet = {};
 
                 response.feed.entry.forEach(function (aItem) {
-                    var id = aItem.gphoto$id.$t;
+                    var id = aItem.gphoto$id.$t,
+                        name = aItem.title.$t;
                     data.albumSet[id] = {
                         "updated"  : moment(aItem.updated.$t).valueOf(),
-                        "title"    : aItem.title.$t,
+                        "title"    : name,
                         "numpics"  : aItem.gphoto$numphotos.$t,
                         "thumbnail": aItem.media$group.media$thumbnail[0].url,
                         "description": aItem.media$group.media$description.$t
                     };
-                });
 
+                });
                 data.lastmodified = (new Date()).valueOf();
                 cb(data);
             });
@@ -356,6 +425,7 @@ For more information, please refer to <http://unlicense.org/>
         }
 
         loadFromCache("");
+        albumId = me.matchingAlbumIds[0];
         loadFromCache(albumId);
 
         function doLoad() {
@@ -667,9 +737,33 @@ For more information, please refer to <http://unlicense.org/>
         GpAlbum.RenderStrategy.carousel = CarouselRenderStrategy;
     }());
 
+    /*
+     *   render strategy 'strip' : making a strip/list of all thumbnails
+     *   ------------------------------------------------------------------
+     */
+    (function () {
+        function StripRenderStrategy(gpAlbum) {
+            this.$album = gpAlbum.$album;
+        }
+        StripRenderStrategy.prototype.drawAlbumList = function (aListData) {
+            this.$album.html('<pre>albs ==> \n' + JSON.stringify(aListData) + '</pre>');
+        };
+        StripRenderStrategy.prototype.drawPhotoList = function (pListData) {
+            var html = '';
+            html += '<div style="width: 200%; height: ' + this.$album.height() + 'px">';
+            pListData.forEach(function (item, ndx) {
+                var imgurl = item.content,
+                    imglbl = (isEmpty(item.caption)) ? "" : item.caption;
+                html += '<img style="float: left; padding-right: 2px; margin: auto auto; max-width: 100%; max-height: 100%" src="' + imgurl + '" alt="' + imglbl + '">';
+            });
+            html += '</div>';
+            this.$album.html(html);
+        };
+        GpAlbum.RenderStrategy.strip = StripRenderStrategy;
+    }());
 
     /*
-     *   render strategy 'carousel' : using bootstrap - carousel
+     *   render strategy 'turn' : using bootstrap - turnjs
      *   ------------------------------------------------------------------
      */
     /*
@@ -724,7 +818,7 @@ For more information, please refer to <http://unlicense.org/>
 
     GpAlbum.prototype.render = function (updateId) {
         var me = this,
-            albumId = this.config.albums[0],
+            albumId = this.matchingAlbumIds[0],
             render = me.getRenderer(),
             content = me.getContent(albumId);
 
@@ -740,12 +834,13 @@ For more information, please refer to <http://unlicense.org/>
 
     GpAlbum.config = {
         "account"        : "NONE",
-        "albums"         : "*",
+        "albumspec"      : "*",
         "cacheKeyPrefix" : "gp.album",
         "serviceUri"     : "http://picasaweb.google.com/data/feed/api",
         "thumbsize"      : 100,
         "imgsizes"       : [200, 400, 800, 1600],
-        "render"         : "play"
+        "render"         : "play",
+        "dimensions"     : "scale 0.95"
     };
 
 

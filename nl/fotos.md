@@ -2,10 +2,10 @@
 layout: default
 title: Foto's
 insert:
-    - image-album
+    - play-album
 remove:
     - socialshare
     - banner
-album:
+play-album:
     - "6117873445207636865"
 ---

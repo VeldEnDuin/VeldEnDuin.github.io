@@ -330,20 +330,17 @@
      */
     $(function () {
 
-        var $album = $('#album'),
-            data,
-            gpid,
-            albumspec,
-            vwr;
+        $('.vd-album').each(function () {
+            var data, gpid, albumspec, render, vwr, dims,
+                $album = $(this);
 
-        if ($album && $album.length === 1) {
             data = $album.data('album');
             gpid = data['gp-id'];
             albumspec = data['album-spec'];
+            render = data.render || "play";
+            dims = data.dimensions;
 
-            vwr = $album.gpAlbum({"account": gpid, "albums": albumspec, "render": "play"})[0];
-            //vwr.render();
-        }
-
+            vwr = $album.gpAlbum({"account": gpid, "albumspec": albumspec, "render": render, "dimensions": dims})[0];
+        });
     });
 }(window.jQuery));
