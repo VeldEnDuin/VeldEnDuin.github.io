@@ -749,15 +749,20 @@ For more information, please refer to <http://unlicense.org/>
             this.$album.html('<pre>albs ==> \n' + JSON.stringify(aListData) + '</pre>');
         };
         StripRenderStrategy.prototype.drawPhotoList = function (pListData) {
-            var html = '';
-            html += '<div style="width: 200%; height: ' + this.$album.height() + 'px">';
-            pListData.forEach(function (item, ndx) {
-                var imgurl = item.content,
+            var item, imgurl, imglbl, ndx = 0, h = this.$album.height(),
+                neededImgs = Math.ceil(window.screen.width * 2 / h), html = '';
+
+            if (pListData.length > 0) {
+                html += '<div style="width:200%;height:' + h + 'px">';
+                for (ndx = 0; ndx < neededImgs; ndx += 1) {
+                    item = pListData[ndx % pListData.length];
+                    imgurl = item.content;
                     imglbl = (isEmpty(item.caption)) ? "" : item.caption;
-                html += '<img style="float: left; padding-right: 2px; margin: auto auto; max-width: 100%; max-height: 100%" src="' + imgurl + '" alt="' + imglbl + '">';
-            });
-            html += '</div>';
-            this.$album.html(html);
+                    html += '<img style="padding-right:2px;max-width:100%;max-height:100%;" src="' + imgurl + '" alt="' + imglbl + '">';
+                }
+                html += '</div>';
+                this.$album.html(html);
+            }
         };
         GpAlbum.RenderStrategy.strip = StripRenderStrategy;
     }());
