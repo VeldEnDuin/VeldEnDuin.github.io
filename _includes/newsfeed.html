@@ -9,19 +9,15 @@
     <div class="vd-news-item {{page.class.news.item}}" >
         <a href="{{pst.url}}">
             <div class="vd-news-item-inner col-lg-12 col-md-12 col-sm-12 col-xs-12"
-                 data-images='{{pst.images | jsonify}}'><div class="row">
-            {% assign picurl = '/img/vd-logo-news.png' %}
-            {% if pst.images |size > 0 %}
-                {% assign picurl = pst.images[0] %}
-            {% endif %}
-                <div class="vd-news-img pull-left">
-                    <img src="{{picurl}}" class="img-responsive img-thumbnail img-circle"/>
+                 data-images='{{pst.images | jsonify}}'>
+                <div class="vd-news-icon">
+                    <span class="fa fa-rss"></span>
                 </div>
-                <div>
+                <div class="vd-news-item-label">
                     <div class="vd-news-title ">{{ pst.title }}</div>
                     <div class="vd-news-teaser">{{ pst.description }}</div>
                 </div>
-            </div></div>
+            </div>
         </a>
     </div>
     {% endif %}
