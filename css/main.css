@@ -87,7 +87,7 @@ body:before {
        -moz-border-radius: 1.25em;
             border-radius: 1.25em;
 }
-.vd-callout .btn-lg.btn-primary {
+.btn-lg.btn-success {
     background-color: transparent;
     border: none;
     background-image: url('/img/style/btn_prim_background.svg');
@@ -95,6 +95,7 @@ body:before {
     background-position: center center;
     background-repeat: no-repeat;
     text-align: center;
+    text-shadow: 2px 2px 4px #4f5137;
 }
 
 /*
@@ -157,7 +158,6 @@ body:before {
  *   [all groups]
  */
 .vd-group-item
-, .vd-select-item
 {
     overflow: hidden;
     padding: 5px;
@@ -168,13 +168,7 @@ body:before {
     height: 20em !important;
 }
 
-.vd-select-item
-{
-    height: 30em !important;
-}
-
 .vd-group-item-inner
-, .vd-select-item-inner
 {
     background-size: cover;
     background-position: center center;
@@ -182,7 +176,6 @@ body:before {
 }
 
 .vd-group-title, .vd-group-info
-, .vd-select-title, .vd-select-info
 {
     color: rgba(255,255,255,1);
     background-color: rgba(0, 0, 0, 0.8);
@@ -191,13 +184,11 @@ body:before {
 }
 
 .vd-group-info
-, .vd-select-info
 {
     transition: opacity 1.5s;
     opacity: 0;
 }
 .vd-group-item:hover .vd-group-info
-, .vd-select-item:hover .vd-select-info
 {
     opacity: 1;
 }
@@ -208,13 +199,11 @@ body:before {
 }
 
 .vd-group-info ul, .vd-group-info ul li
-, .vd-select-info ul, .vd-select-info ul li
 {
     background-color: transparent;
 }
 
 .vd-group-content
-, .vd-select-content
 {
     position: absolute;
     width: 100%;
@@ -225,7 +214,6 @@ body:before {
     bottom: -50%;
 }
 .vd-group-item:hover .vd-group-content
-, .vd-select-item:hover .vd-select-content
 {
     opacity: 1;
     bottom: 0;
@@ -240,24 +228,6 @@ body:before {
  * styling vd-select sections
  *   -------------------------------------------------------------------------------
  */
-.vd-select-item .vd-select-item-inner
-{
-    background-size: cover;
-    /*
-    transition: background-size 0.2s ease-in;
-    -moz-transition: background-size 0.2s ease-in;
-    -ms-transition: background-size 0.2s ease-in;
-    -o-transition: background-size 0.2s ease-in;
-    -webkit-transition: background-size 0.2s ease-in;
-    */
-}
-/*
-.vd-select-item:hover .vd-select-item-inner
-{
-    background-size: 105%;
-}
-*/
-
 
 .vd-group-content ul
 , .vd-select-content ul
@@ -272,6 +242,13 @@ body:before {
     font-family: 'Glyphicons Halflings';
     content: '\e013  ';
     color: rgb(10, 88, 10);
+}
+
+.vd-select-item-img {
+    margin-bottom: 2em;
+}
+.vd-select-title {
+    text-transform: uppercase;
 }
 
 .vd-subgrp-btns label span.glyphicon:before
@@ -290,6 +267,9 @@ body:before {
  */
 .vd-news-item {
     position: relative;
+}
+.vd-news-title {
+    text-transform: uppercase;
 }
 .vd-news-item .vd-news-item-inner {
     position: relative;

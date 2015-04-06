@@ -18,6 +18,7 @@ nl:
         callact: Reservatie Aanvraag
         mailchimp: Schrijf in op onze nieuwsbrief
         sociallinks: Veld & Duin op de sociale media
+        readmore: Lees meer...
 fr:
     label: français
     directions: ["N", "NE", "E", "SE", "S", "SO", "O", "NO"]
@@ -38,6 +39,8 @@ fr:
         callact: TODO FR TRANS
         mailchimp: TODO FR TRANS
         sociallinks: TODO FR TRANS
+        readmore: TODO FR TRANS
+
 de:
     label: Deutsch
     directions: ["N", "NO", "O", "SO", "S", "SW", "W", "NW"]
@@ -58,6 +61,8 @@ de:
         callact: TODO DE TRANS
         mailchimp: TODO DE TRANS
         sociallinks: TODO DE TRANS
+        readmore: TODO DE TRANS
+
 en:
     label: English
     directions: ["N", "NE", "E", "SE", "S", "SW", "W", "NW"]
@@ -78,3 +83,4 @@ en:
         callact: TODO EN TRANS
         mailchimp: TODO EN TRANS
         sociallinks: TODO EN TRANS
+        readmore: TODO EN TRANS
