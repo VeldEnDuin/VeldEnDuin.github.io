@@ -1,0 +1,29 @@
+<script>
+  (function() {
+    var cx = '{{ page.gcse.cx }}';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchresults-only linkTarget="_self"></gcse:searchresults-only>
+<!--
+TODO read more to get a custom css in place
+
+https://developers.google.com/custom-search/docs/js/cselement-devguide
+https://developers.google.com/web-search/docs/reference#_intro_GResultCss_TOC
+
+other stuff
+
+https://developers.google.com/custom-search/docs/element
+https://www.googleapis.com/customsearch/v1?key=AIzaSyCMGfdDaSfjqv5zYoS0mTJnOT3e9MURWkU&cx=012964731216503545400:onwjrjqskq8&q=test
+
+
+er blijkt toch ook een jsonp mogelijkheid te zijn
+https://developers.google.com/custom-search/json-api/v1/using_rest
+
+-->

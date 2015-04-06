@@ -5,10 +5,13 @@
        ><span class="fa fa-search"></span>
     </a>
     <ul class="dropdown-menu" role="menu">
-        <li><a><form>
+        <li><a><form action="/{{pgLang}}/{{site.data.langs[pgLang].search}}">
             <div class="form-group">
+                <input type="hidden" name="hl" value="{{pgLang}}" >
                 <div class="input-group">
-                    <input style="min-width: 20em" type="text" class="form-control" placeholder="{{ site.data.langs[pgLang].dict.search }}...">
+                    <input style="min-width: 20em" type="text" class="form-control"
+                           name="q"
+                           placeholder="{{ site.data.langs[pgLang].dict.search }}...">
                     <span class="input-group-btn">
                         <button type="submit" class="btn btn-success">
                             <span class="glyphicon glyphicon-search"></span>

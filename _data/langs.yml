@@ -1,6 +1,7 @@
 nl:
     label: Nederlands
     directions: ["N", "NO", "O", "ZO", "Z", "ZW", "W", "NW"]
+    search: zoeken.html
     dict:
         route: route
         noinfo: "Geen informatie beschikbaar"
@@ -22,6 +23,7 @@ nl:
 fr:
     label: français
     directions: ["N", "NE", "E", "SE", "S", "SO", "O", "NO"]
+    search: recherche.html
     dict:
         route: itinéraire
         noinfo: "Aucune information disponible"
@@ -44,6 +46,7 @@ fr:
 de:
     label: Deutsch
     directions: ["N", "NO", "O", "SO", "S", "SW", "W", "NW"]
+    search: suche.html
     dict:
         route: Route
         noinfo: "Keine Informationen verfügbar"
@@ -66,6 +69,7 @@ de:
 en:
     label: English
     directions: ["N", "NE", "E", "SE", "S", "SW", "W", "NW"]
+    search: search.html
     dict:
         route: Route
         noinfo: "No information available"
