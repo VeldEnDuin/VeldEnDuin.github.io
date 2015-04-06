@@ -318,6 +318,30 @@ body:before {
     background-color: rgba(10, 128, 0, 0.61);
 }
 
+/* ===================================================================================
+ * styling landing-footer
+ *   -------------------------------------------------------------------------------
+ */
+.vd-landing-footer {
+    height: 5em;
+    overflow: hidden;
+    margin-bottom: 1em;
+}
+.vd-virtualtour-link {
+    font-size: 1.2em;
+    padding: 0.4em 1em 0.4em 30px;
+    height: 4em;
+    color: #fff;
+    background-color: transparent;
+    text-transform: uppercase;
+    background-image: url('/img/style/btn-virtualtour.svg');
+    background-position: left center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:visited {
+    text-decoration: none;
+}
 
 /* ===================================================================================
  * styling imgstrip and footer

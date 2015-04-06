@@ -6,6 +6,7 @@ insert:
 remove:
     - socialshare
     - banner
+    - imgstrip
 play-album:
     - "6117873445207636865"
 ---

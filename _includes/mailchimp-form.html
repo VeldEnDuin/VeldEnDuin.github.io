@@ -1,27 +1,18 @@
-{% if pgLang == 'nl' %}
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//veldenduin.us10.list-manage.com/subscribe/post?u=c91eec1b275a21e659fdf1693&amp;id=736d02af7f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Schrijf je in voor onze nieuwsbrief</label>
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+<form action="//veldenduin.us10.list-manage.com/subscribe/post?u=c91eec1b275a21e659fdf1693&amp;id=736d02af7f"
+      method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
+      class="validate" target="_blank" novalidate>
+  <div id="mc_embed_signup_scroll">
+    <label for="mce-EMAIL">{{site.data.langs[pgLang].dict.mailchimp}}</label>
+    <div class="input-group">
+      <span class="input-group-addon">
+        <span class="fa fa-envelope"></span>
+      </span>
+      <input type="email" class="form-control email" aria-label="email" value="" name="EMAIL"
+             id="mce-EMAIL" placeholder="email address" required>
+      <span class="input-group-btn">
+        <button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary"><span class="glyphicon glyphicon-chevron-right"></span></button>
+      </span>
+    </div><!-- /input-group -->
     <div style="position: absolute; left: -5000px;"><input type="text" name="b_c91eec1b275a21e659fdf1693_736d02af7f" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
+  </div>
 </form>
-</div>
-<!--End mc_embed_signup-->
-{% elsif pgLang == 'fr' %}
-TODO bulletin français
-{% elsif pgLang == 'en' %}
-TODO English newsletter
-{% elsif pgLang == 'de' %}
-TODO Deutsch Rundschreiben
-{% endif %}

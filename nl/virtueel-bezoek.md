@@ -5,4 +5,5 @@ insert:
     - virtualtour
 remove: 
     - banner
+    - imgstrip
 ---

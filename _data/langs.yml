@@ -6,7 +6,9 @@ nl:
         noinfo: "Geen informatie beschikbaar"
         news: Nieuws
         mapxl: Grotere kaart weergeven
-        virttour: Maak een virtuele tour door de camping
+        virttour:
+            - Virtuele
+            - Wandeling
         prev: vorige
         next: volgende
         overview: overzicht
@@ -14,6 +16,7 @@ nl:
         search: Zoek
         callout: TODO Hier komt dan een tekstje dat er voor zorgt dat ze rapper inschrijven bij VELD & DUIN !
         callact: Reservatie Aanvraag
+        mailchimp: Schrijf in op onze nieuwsbrief
 fr:
     label: français
     directions: ["N", "NE", "E", "SE", "S", "SO", "O", "NO"]
@@ -22,7 +25,9 @@ fr:
         noinfo: "Aucune information disponible"
         news: Nouvelles
         mapxl: Agrandir le plan
-        virttour: Faites une visite virtuelle à travers le camping
+        virttour:
+            - Visite
+            - virtuelle
         prev: précédent
         next: suivant
         overview: résumé
@@ -30,6 +35,7 @@ fr:
         search: Recherche
         callout: TODO FR TRANS
         callact: TODO FR TRANS
+        mailchimp: TODO FR TRANS
 de:
     label: Deutsch
     directions: ["N", "NO", "O", "SO", "S", "SW", "W", "NW"]
@@ -38,7 +44,9 @@ de:
         noinfo: "Keine Informationen verfügbar"
         news: Nachrichten
         mapxl: Größere Kartenansicht
-        virttour: Machen Sie einen virtuellen Rundgang durch den Campingplatz
+        virttour:
+            - Virtuellen
+            - Rundgang
         prev: früher
         next: als nächstes
         overview: Zusammenfassung
@@ -46,6 +54,7 @@ de:
         search: Suche
         callout: TODO DE TRANS
         callact: TODO DE TRANS
+        mailchimp: TODO DE TRANS
 en:
     label: English
     directions: ["N", "NE", "E", "SE", "S", "SW", "W", "NW"]
@@ -54,7 +63,9 @@ en:
         noinfo: "No information available"
         news: News
         mapxl: View Larger Map
-        virttour: Take a virtual tour through the campsite
+        virttour:
+            - Virtual
+            - Tour
         prev: previous
         next: next
         overview: overview
@@ -62,3 +73,4 @@ en:
         search: Search
         callout: TODO EN TRANS
         callact: TODO EN TRANS
+        mailchimp: TODO EN TRANS
