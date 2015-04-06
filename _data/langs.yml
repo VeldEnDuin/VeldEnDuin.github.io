@@ -17,6 +17,7 @@ nl:
         callout: TODO Hier komt dan een tekstje dat er voor zorgt dat ze rapper inschrijven bij VELD & DUIN !
         callact: Reservatie Aanvraag
         mailchimp: Schrijf in op onze nieuwsbrief
+        sociallinks: Veld & Duin op de sociale media
 fr:
     label: français
     directions: ["N", "NE", "E", "SE", "S", "SO", "O", "NO"]
@@ -36,6 +37,7 @@ fr:
         callout: TODO FR TRANS
         callact: TODO FR TRANS
         mailchimp: TODO FR TRANS
+        sociallinks: TODO FR TRANS
 de:
     label: Deutsch
     directions: ["N", "NO", "O", "SO", "S", "SW", "W", "NW"]
@@ -55,6 +57,7 @@ de:
         callout: TODO DE TRANS
         callact: TODO DE TRANS
         mailchimp: TODO DE TRANS
+        sociallinks: TODO DE TRANS
 en:
     label: English
     directions: ["N", "NE", "E", "SE", "S", "SW", "W", "NW"]
@@ -74,3 +77,4 @@ en:
         callout: TODO EN TRANS
         callact: TODO EN TRANS
         mailchimp: TODO EN TRANS
+        sociallinks: TODO EN TRANS

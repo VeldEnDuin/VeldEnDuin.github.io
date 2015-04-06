@@ -8,5 +8,5 @@ remove:
     - banner
     - imgstrip
 play-album:
-    - "6117873445207636865"
+    - "site-hoofdalbum"
 ---

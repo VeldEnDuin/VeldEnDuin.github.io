@@ -22,7 +22,7 @@
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
       <name>{{site.name | xml_escape}}</name>
-      <uri>{{site.links.['social-gp']}}</uri>
+      <uri>{{site.links.social.gp}}</uri>
     </author>
     <content type="html">{{ post.content | xml_escape }}</content>
   </entry>

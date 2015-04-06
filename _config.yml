@@ -40,12 +40,13 @@ geolocation:
 fb-app-id: "357843984399164"
 gp-id: "107871249081614981666"
 
-strip-album: "6117873445207636865"
-play-album: "6117873445207636865"
+strip-album: "site-strip-algemeen"
+play-album: "site-hoofdalbum"
 
 links:
-  social-fb: https://www.facebook.com/VeldEnDuin
-  social-gp: https://plus.google.com/+VeldenduinBe
+    social:
+        fb: https://www.facebook.com/VeldEnDuin
+        gp: https://plus.google.com/+VeldenduinBe
 #  social-tw: https://twitter.com/....
 #  social-in: https://www.linkedin.com/in/....
 
