@@ -419,3 +419,12 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
 @media (min-width: 992px) and (max-width: 1199px) {   /*  'md' -- medium      */
 
 }
+
+/* ===================================================================================
+ * styling content
+ *   -------------------------------------------------------------------------------
+ */
+.jumbotron h1, .jumbotron h2, .jumbotron h3, .jumbotron h4, .jumbotron h5, .jumbotron h6 {
+    text-transform: uppercase;
+    font-weight: bold;
+}
