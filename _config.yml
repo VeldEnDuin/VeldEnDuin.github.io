@@ -39,6 +39,8 @@ geolocation:
     lon: 2.978033
 fb-app-id: "357843984399164"
 gp-id: "107871249081614981666"
+gcse:
+    apikey: "AIzaSyCMGfdDaSfjqv5zYoS0mTJnOT3e9MURWkU"
 
 strip-album: "site-strip-algemeen"
 play-album: "site-hoofdalbum"

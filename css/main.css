@@ -3,6 +3,11 @@
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url("print.css") print;
 
+/*
+ * Gradients generated with
+ * http://www.colorzilla.com/gradient-editor/
+ */
+
 
 /* ===================================================================================
  * Page Backdrop
@@ -288,7 +293,9 @@ body:before {
 
 .vd-news-item .vd-news-item-inner .vd-news-item-label {
     overflow: hidden;
-    border-radius: 6px;
+    -webkit-border-radius: 6px;
+       -moz-border-radius: 6px;
+            border-radius: 6px;
     margin: 2px 0 2px 0;
     padding: 6px 6px 6px 6px;
 }
@@ -351,7 +358,9 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
 .vd-landing-footer label {
     font-weight: normal;
 }
-.vd-landing-footer input.form-control, .vd-landing-footer .input-group-addon {
+.vd-landing-footer input.form-control,
+.vd-landing-footer .input-group-addon,
+#gcse-search-clone input.form-control {
     background-color: rgba(255, 255, 255, 0.25);
 }
 .vd-landing-footer .vd-share-grp {
@@ -416,4 +425,56 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
 .jumbotron h1, .jumbotron h2, .jumbotron h3, .jumbotron h4, .jumbotron h5, .jumbotron h6 {
     text-transform: uppercase;
     font-weight: bold;
+}
+
+/* ===================================================================================
+ * styling jq-gcse results
+ *   -------------------------------------------------------------------------------
+ */
+
+.jq-gcse-info > span {
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    font-size: 1.2em;
+}
+.jq-gcse-title {
+    text-transform: uppercase;
+    font-size: 1.4em;
+}
+.jq-gcse-url {
+    font-size: 0.8em;
+}
+
+.jq-gcse-pager .pagination {
+    margin-top: 0;
+}
+
+.jq-gcse-result {
+    position: relative;
+    border-bottom: 1px solid rgba(79, 81, 55, 0.5);
+    padding:  0;
+    height: 6em;
+    overflow: hidden;
+}
+
+.jq-gcse-result:last-child {
+    border-bottom: 0;
+}
+
+.jq-gcse-result-inner {
+    overflow: hidden;
+    margin: 2px 0 2px 0;
+    padding: 6px 6px 6px 6px;
+    -webkit-border-radius: 6px;
+       -moz-border-radius: 6px;
+            border-radius: 6px;
+}
+
+.jq-gcse-result-inner:hover {
+    background: -moz-linear-gradient(top, rgba(184,186,138,1) 0%, rgba(79,81,55,0) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(184,186,138,1)), color-stop(100%,rgba(79,81,55,0))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, rgba(184,186,138,1) 0%,rgba(79,81,55,0) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, rgba(184,186,138,1) 0%,rgba(79,81,55,0) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, rgba(184,186,138,1) 0%,rgba(79,81,55,0) 100%); /* IE10+ */
+    background: linear-gradient(to bottom, rgba(184,186,138,1) 0%,rgba(79,81,55,0) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b8ba8a', endColorstr='#004f5137',GradientType=0 ); /* IE6-9 */
 }
