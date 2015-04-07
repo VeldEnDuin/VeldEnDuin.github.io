@@ -141,9 +141,9 @@ For more information, please refer to <http://unlicense.org/>
         $results = $('<div class="jq-gcse-results"><div class="alert alert-info">(todo translate) results being loaded...</div></div>');
 
         //TODO grid styling for these!
-        $gcse.append($('<div class="col-lg-5 col-md-5 col-sm-6 col-xs-12 "></div').append($form));
-        $gcse.append($('<div class="col-lg-5 col-md-5 col-sm-6 col-xs-12 "></div').append($pager));
-        $gcse.append($('<div class="col-lg-2 col-md-2 hidden-sm hidden-xs label label-success"></div').append($info));
+        $gcse.append($('<div class="col-lg-5 col-md-5 col-sm-6 col-xs-12"></div').append($form));
+        $gcse.append($('<div class="col-lg-5 col-md-5 col-sm-6 col-xs-12"></div').append($pager));
+        $gcse.append($('<div class="col-lg-2 col-md-2 hidden-sm hidden-xs"></div').append($info));
         $gcse.append($('<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"></div').append($results));
 
         function updateResults(n, isPop) {
@@ -202,13 +202,15 @@ For more information, please refer to <http://unlicense.org/>
                         pager += '</ul></nav>';
 
                         /*--------------- info ---------------*/
-                        info += '<span class="fa fa-info-circle"></span>';
+                        info += '<div class="label label-success">';
+                        info += '<span class="fa fa-info-circle"></span>|';
                         info += '<span class="jq-gcse-time"><span class="fa fa-clock-o"></span> ' +
-                            infoSet.formattedSearchTime + 's</span>';
+                            infoSet.formattedSearchTime + 's</span>|';
                         info += '<span class="jq-gcse-nums">' + active + ' <span class="fa fa-arrows-h"></span> ' +
-                            activeEnd + '</span>';
+                            activeEnd + '</span>|';
                         info += '<span class="jq-gcse-count"><span class="fa fa-arrows-v"></span> ' +
                             infoSet.formattedTotalResults + ' </span>';
+                        info += '</div>';
 
 
                         /*--------------- items --------------*/
