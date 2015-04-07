@@ -66,6 +66,11 @@
         e.stopPropagation();
     });
 
+    /*
+     * make first header in the content stand out
+     * =======================================================================
+     */
+    $('h1', $('#content')).eq(0).addClass('page-header');
 
     /*
      * Build up the group pages
