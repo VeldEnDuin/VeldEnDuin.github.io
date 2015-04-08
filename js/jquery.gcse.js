@@ -236,7 +236,7 @@ For more information, please refer to <http://unlicense.org/>
                             results += res;
                         });
                     } else {
-                        results = '<div class="alert alert-warning">' + msg.empty + '<div>';
+                        results = '<div class="alert alert-warning">' + msg.empty + " '" + qry.q + "'<div>";
                     }
 
                     $info.html(info);

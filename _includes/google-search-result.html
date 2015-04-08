@@ -2,12 +2,12 @@
 {% include layout-prelude.html %}
 
 <div role="jquery.gcse"
-     data-gcse='{"cx": "{{page.gcse.cx}}",
+     data-gcse='{"cx": "{{site.data.langs[pgLang].id.cx}}",
                 "key": "{{site.gcse.apikey}}",
                 "lang": "{{pgLang}}",
-                "msg":{"use":   {{site.data.langs[pgLang].dict.gcse.use   | jsonify}},
-                       "empty": {{site.data.langs[pgLang].dict.gcse.empty | jsonify}},
-                       "wait":  {{site.data.langs[pgLang].dict.gcse.wait  | jsonify}}
+                "msg":{"use":   {{site.data.langs[pgLang].gcse.use   | jsonify}},
+                       "empty": {{site.data.langs[pgLang].gcse.empty | jsonify}},
+                       "wait":  {{site.data.langs[pgLang].gcse.wait  | jsonify}}
                       }
                 }'
 ></div>

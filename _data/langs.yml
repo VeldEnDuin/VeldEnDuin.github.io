@@ -2,6 +2,9 @@ nl:
     label: Nederlands
     directions: ["N", "NO", "O", "ZO", "Z", "ZW", "W", "NW"]
     search: zoeken.html
+    id:
+        cx: 012964731216503545400:onwjrjqskq8
+        resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
     dict:
         route: route
         noinfo: "Geen informatie beschikbaar"
@@ -20,15 +23,18 @@ nl:
         mailchimp: Schrijf in op onze nieuwsbrief
         sociallinks: Veld & Duin op de sociale media
         readmore: Lees meer...
-        gcse:
-            use: Geef een zoekterm in!
-            wait: Zoekopdracht in behandeling...
-            empty: Helaas, geen resultaten gevonden voor de huidige zoekterm.
+    gcse:
+        use: Geef een zoekterm in!
+        wait: Zoekopdracht in behandeling...
+        empty: Helaas, geen resultaten gevonden voor de huidige zoekterm.
 
 fr:
     label: français
     directions: ["N", "NE", "E", "SE", "S", "SO", "O", "NO"]
     search: recherche.html
+    id:
+        cx: 012964731216503545400:qlxwawrgx9q
+        resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
     dict:
         route: itinéraire
         noinfo: "Aucune information disponible"
@@ -47,15 +53,18 @@ fr:
         mailchimp: TODO FR TRANS
         sociallinks: TODO FR TRANS
         readmore: TODO FR TRANS
-        gcse:
-            use: todo fr trans
-            wait: todo fr trans
-            empty: todo fr trans
+    gcse:
+        use: todo fr trans
+        wait: todo fr trans
+        empty: todo fr trans
 
 de:
     label: Deutsch
     directions: ["N", "NO", "O", "SO", "S", "SW", "W", "NW"]
     search: suche.html
+    id:
+        cx: 012964731216503545400:yf3vj8omajg
+        resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
     dict:
         route: Route
         noinfo: "Keine Informationen verfügbar"
@@ -74,15 +83,18 @@ de:
         mailchimp: TODO DE TRANS
         sociallinks: TODO DE TRANS
         readmore: TODO DE TRANS
-        gcse:
-            use: todo de trans
-            wait: todo de trans
-            empty: todo de trans
+    gcse:
+        use: todo de trans
+        wait: todo de trans
+        empty: todo de trans
 
 en:
     label: English
     directions: ["N", "NE", "E", "SE", "S", "SW", "W", "NW"]
     search: search.html
+    id:
+        cx: 012964731216503545400:7thummrhqau
+        resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
     dict:
         route: Route
         noinfo: "No information available"
@@ -101,7 +113,7 @@ en:
         mailchimp: TODO EN TRANS
         sociallinks: TODO EN TRANS
         readmore: TODO EN TRANS
-        gcse:
-            use: todo en trans
-            wait: todo en trans
-            empty: todo en trans
+    gcse:
+        use: todo en trans
+        wait: todo en trans
+        empty: todo en trans
