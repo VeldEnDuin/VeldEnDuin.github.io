@@ -96,7 +96,8 @@ For more information, please refer to <http://unlicense.org/>
     }
 
     function getAPIUri(qry, cnf) {
-        var uri = "https://www.googleapis.com/customsearch/v1", params = [], join = '?';
+        var lang = cnf.lang || "en", params = [], join = '?',
+            uri = "https://www.googleapis.com/customsearch/v1";
 
         if (isEmpty(cnf.key) || isEmpty(cnf.cx)) {
             throw 'API-uri invalid without key or cx params';
@@ -105,8 +106,8 @@ For more information, please refer to <http://unlicense.org/>
         params.push({"name": "key",      "value": cnf.key});
         params.push({"name": "cx",       "value": cnf.cx});
         params.push({"name": "q",        "value": qry.q});
-        params.push({"name": "hl",       "value": qry.hl});
-        params.push({"name": "lr",       "value": cnf.lr});
+        params.push({"name": "hl",       "value": lang});
+        params.push({"name": "lr",       "value": "lang_" + lang});
         params.push({"name": "start",    "value": qry.start || 1});
 
         params.forEach(function (p) {
@@ -131,17 +132,12 @@ For more information, please refer to <http://unlicense.org/>
 
         $form = $("form#gcse-search").clone().attr("id", "gcse-search-clone");
         $input = $("input[name=q]", $form);
-
-        $lang = $("input[name=hl]", $form);
         $input.val(qry.q);
-        $lang.val(qry.hl);
 
         $info = $('<div class="jq-gcse-info"></div>');
         $pager = $('<div class="jq-gcse-pager"></div>');
-
         $results = $('<div class="jq-gcse-results"><div class="alert alert-info">' + msg.wait + '</div></div>');
 
-        //TODO grid styling for these!
         $gcse.append($('<div class="col-lg-5 col-md-5 col-sm-6 col-xs-12"></div').append($form));
         $gcse.append($('<div class="col-lg-5 col-md-5 col-sm-6 col-xs-12"></div').append($pager));
         $gcse.append($('<div class="col-lg-2 col-md-2 hidden-sm hidden-xs"></div').append($info));
