@@ -1,3 +1,8 @@
+search:
+    nl: { link: /nl/zoeken.html   }
+    fr: { link: /fr/recherche.html      }
+    en: { link: /en/search.html      }
+    de: { link: /de/suche.html }
 virtualtour:
     nl: { link: /nl/virtueel-bezoek.html   }
     fr: { link: /fr/tour-virtuel.html      }
