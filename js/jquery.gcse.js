@@ -127,6 +127,7 @@ For more information, please refer to <http://unlicense.org/>
         $gcse = $('[role="jquery.gcse"]').eq(0); // only grab the first
         qry = qryParams();
         conf = $gcse.data('gcse');
+        msg = conf.msg;
 
         $form = $("form#gcse-search").clone().attr("id", "gcse-search-clone");
         $input = $("input[name=q]", $form);
@@ -138,7 +139,7 @@ For more information, please refer to <http://unlicense.org/>
         $info = $('<div class="jq-gcse-info"></div>');
         $pager = $('<div class="jq-gcse-pager"></div>');
 
-        $results = $('<div class="jq-gcse-results"><div class="alert alert-info">(todo translate) results being loaded...</div></div>');
+        $results = $('<div class="jq-gcse-results"><div class="alert alert-info">' + msg.wait + '</div></div>');
 
         //TODO grid styling for these!
         $gcse.append($('<div class="col-lg-5 col-md-5 col-sm-6 col-xs-12"></div').append($form));
@@ -156,7 +157,7 @@ For more information, please refer to <http://unlicense.org/>
             }
 
             if (isEmpty(qry.q)) {
-                $results.html('<div class="alert alert-primary">(todo translate) enter search term<div>');
+                $results.html('<div class="alert alert-primary">' + msg.use + '<div>');
             } else {
                 $.getJSON(getAPIUri(qry, conf), function (response) {
                     var info = "", results = "", pager = "",
@@ -239,7 +240,7 @@ For more information, please refer to <http://unlicense.org/>
                             results += res;
                         });
                     } else {
-                        results = '<div class="alert alert-warning">(todo translate) no results!<div>';
+                        results = '<div class="alert alert-warning">' + msg.empty + '<div>';
                     }
 
                     $info.html(info);

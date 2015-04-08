@@ -20,6 +20,11 @@ nl:
         mailchimp: Schrijf in op onze nieuwsbrief
         sociallinks: Veld & Duin op de sociale media
         readmore: Lees meer...
+        gcse:
+            use: Geef een zoekterm in!
+            wait: Zoekopdracht in behandeling...
+            empty: Helaas, geen resultaten gevonden voor de huidige zoekterm.
+
 fr:
     label: français
     directions: ["N", "NE", "E", "SE", "S", "SO", "O", "NO"]
@@ -42,6 +47,10 @@ fr:
         mailchimp: TODO FR TRANS
         sociallinks: TODO FR TRANS
         readmore: TODO FR TRANS
+        gcse:
+            use: todo fr trans
+            wait: todo fr trans
+            empty: todo fr trans
 
 de:
     label: Deutsch
@@ -65,6 +74,10 @@ de:
         mailchimp: TODO DE TRANS
         sociallinks: TODO DE TRANS
         readmore: TODO DE TRANS
+        gcse:
+            use: todo de trans
+            wait: todo de trans
+            empty: todo de trans
 
 en:
     label: English
@@ -88,3 +101,7 @@ en:
         mailchimp: TODO EN TRANS
         sociallinks: TODO EN TRANS
         readmore: TODO EN TRANS
+        gcse:
+            use: todo en trans
+            wait: todo en trans
+            empty: todo en trans

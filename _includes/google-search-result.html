@@ -1,4 +1,11 @@
 <!-- make and customise your google custom search engine at https://cse.google.com/cse/all -->
+{% include layout-prelude.html %}
+
 <div role="jquery.gcse"
-     data-gcse='{"cx": "{{page.gcse.cx}}", "key": "{{site.gcse.apikey}}", "lr": "{{page.gcse.lr}}"}'>
+     data-gcse='{"cx": "{{page.gcse.cx}}",
+                "key": "{{site.gcse.apikey}}",
+                "lr": "{{page.gcse.lr}}",
+                "msg":{"use": "{{site.data.langs[pgLang].dict.gcse.use}}",
+                       "empty": "{{site.data.langs[pgLang].dict.gcse.empty}}",
+                       "wait": "{{site.data.langs[pgLang].dict.gcse.wait}}"}}'>
 </div>
