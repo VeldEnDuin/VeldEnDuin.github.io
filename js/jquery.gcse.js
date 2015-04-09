@@ -125,7 +125,10 @@ For more information, please refer to <http://unlicense.org/>
     $(function () {
         var $gcse, conf, qry, $form, $pager, $results, $input, $lang, $info, msg;
 
+
         $gcse = $('[role="jquery.gcse"]').eq(0); // only grab the first
+        if (isEmpty($gcse)) { return; }
+
         qry = qryParams();
         conf = $gcse.data('gcse');
         msg = conf.msg;
