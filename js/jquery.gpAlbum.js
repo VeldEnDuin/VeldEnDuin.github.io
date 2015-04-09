@@ -272,14 +272,17 @@ For more information, please refer to <http://unlicense.org/>
     GpAlbum.prototype.updateContent = function (id, content) {
         var me = this;
         if (isEmpty(id)) {
-            this.albumList = content;
-            this.matchingAlbumIds = [];
-            Object.keys(content.albumSet).forEach(function (id) {
-                var name = content.albumSet[id].title;
-                if (me.albumMatch(id, name)) {
-                    me.matchingAlbumIds.push(id);
-                }
-            });
+            if (!isEmpty(content)) {
+                this.albumList = content;
+                this.matchingAlbumIds = [];
+                Object.keys(content.albumSet).forEach(function (albumId) {
+                    var name = content.albumSet[albumId].title;
+                    if (me.albumMatch(albumId, name)) {
+                        me.matchingAlbumIds.push(albumId);
+                    }
+                    me.albums[albumId] = getCache(albumId);
+                });
+            }
         } else {
             this.albums[id] = content;
         }
@@ -323,7 +326,7 @@ For more information, please refer to <http://unlicense.org/>
     GpAlbum.prototype.getCache = function (albumId) {
         var EMPTY = { "photoList": [], "lastmodified": null };
         if (isEmpty(albumId)) {
-            EMPTY = { "albumList": [], "lastmodified": null };
+            EMPTY = { "albumSet": {}, "lastmodified": null };
         }
         return getCache(this.cacheKey(albumId), EMPTY);
     };
@@ -432,14 +435,21 @@ For more information, please refer to <http://unlicense.org/>
             // TODO load albumList for account and process that
             albumList(account, function (aList) {
                 me.putCache("", aList);
+                albumId = me.matchingAlbumIds[0];
 
-                if (me.albums[albumId].lastmodified < aList.albumSet[albumId].updated) {
-                    // TODO compare lastmod-dates on album as obtained from account-album-list
-                    //      with those in cache to avoid updating local cache if it is recent enough!
+                var cachedAlbum = me.albums[albumId], emptyCache = true, staleCache = true;
+
+                if (!isEmpty(cachedAlbum)) {
+                    emptyCache = (isEmpty(cachedAlbum.lastmodified) || isEmpty(cachedAlbum.photoList));
+                    staleCache = cachedAlbum.lastmodified < aList.albumSet[albumId].updated;
+                }
+
+                if (emptyCache || staleCache) {
                     photoList(account, albumId, function (pList) {
                         me.putCache(albumId, pList);
                     });
                 } // else no need to load this album
+
             });
         }
 
