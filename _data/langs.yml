@@ -58,7 +58,7 @@ fr:
     gcse:
         use: (TODO FR) usage search - no search term
         wait: (TODO FR) wait - results loading
-        empty: (TODO FR) no results for term, followed by \'term\'
+        empty: (TODO FR) no results for term, followed by (term)
 
 de:
     label: Deutsch
@@ -89,7 +89,7 @@ de:
     gcse:
         use: (TODO DE) usage search - no search term
         wait: (TODO DE) wait - results loading
-        empty: (TODO DE) no results for term, followed by \'term\'
+        empty: (TODO DE) no results for term, followed by (term)
 
 en:
     label: English
@@ -120,4 +120,4 @@ en:
     gcse:
         use: (TODO EN) usage search - no search term
         wait: (TODO EN) wait - results loading
-        empty: (TODO EN) no results for term, followed by \'term\'
+        empty: (TODO EN) no results for term, followed by (term)
