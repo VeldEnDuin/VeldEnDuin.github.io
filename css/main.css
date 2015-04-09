@@ -364,6 +364,7 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
 #gcse-search-clone input.form-control {
     background-color: rgba(255, 255, 255, 0.25);
 }
+
 .vd-landing-footer .vd-share-grp {
     font-size: 2.7em;
     line-height: 0;
@@ -443,6 +444,30 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
     position: absolute;
     top: 10px;
     right: 10px;
+}
+
+
+/* ===================================================================================
+ * contact page elements
+ *   -------------------------------------------------------------------------------
+ */
+
+.vd-contact-page {
+    font-size: 1.5em;
+    color: #4f5137;
+}
+.vd-contact-page .vd-contact-item {
+    position: relative;
+    margin-left: 1.4em;
+    padding: 0.6em 0 0.6em 0;
+    border-bottom: 1px solid #4f5137;
+}
+.vd-contact-page .vd-contact-item:last-child {
+    border-bottom: 0;
+}
+.vd-contact-page .vd-contact-item .vd-contact-badge {
+    position: absolute;
+    left: -1.4em;
 }
 
 
