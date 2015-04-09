@@ -351,6 +351,7 @@ body:before {
     background-size: contain;
     background-repeat: no-repeat;
 }
+
 a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:visited {
     text-decoration: none;
 }
@@ -364,7 +365,8 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
     background-color: rgba(255, 255, 255, 0.25);
 }
 .vd-landing-footer .vd-share-grp {
-    font-size: 3em;
+    font-size: 2.7em;
+    line-height: 0;
 }
 .vd-social-fa-gp:before {
     content: "\f0d4";
@@ -399,7 +401,7 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
     text-transform: uppercase;
     height: 100%;
 }
-.vd-contact a.vd-contact-item {
+.vd-contact a {
     color: #fff;
 }
 .vd-contact .vd-contact-item:last-child {
