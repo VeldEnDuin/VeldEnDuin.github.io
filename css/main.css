@@ -419,6 +419,32 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
 }
 
 /* ===================================================================================
+ * callout form effects
+ *   -------------------------------------------------------------------------------
+ */
+.vd-callout-form {
+    position: fixed;
+    top: -200%;
+    width: 100%;
+    height:  100%;
+    z-index: 10;
+    margin: auto;
+    background-color: rgba(80,82,56,0.8);
+}
+.vd-callout-form iframe {
+    margin: 0 5% 0 5%;
+    width: 90%;
+    height: 100%;
+}
+
+.vd-callout-form .btn[role="close"]{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+
+/* ===================================================================================
  * styling content
  *   -------------------------------------------------------------------------------
  */

@@ -17,9 +17,11 @@ nl:
         next: volgende
         overview: overzicht
         share: Deel dit bericht via Social Media
+        close: sluiten
         search: Zoek
-        callout: TODO Hier komt dan een tekstje dat er voor zorgt dat ze rapper inschrijven bij VELD & DUIN !
-        callact: Reservatie Aanvraag
+        resa_invite: (TODO NL) Hier komt dan een tekstje dat er voor zorgt dat ze rapper inschrijven bij VELD & DUIN !
+        resa_action: Reservatie Aanvraag
+        resa_formwait: Reservatie Aanvraag wordt geladen... (even geduld)
         mailchimp: Schrijf in op onze nieuwsbrief
         sociallinks: Veld & Duin op de sociale media
         readmore: Lees meer...
@@ -47,16 +49,18 @@ fr:
         next: suivant
         overview: résumé
         share: Partager cet article sur
+        close: fermer
         search: Recherche
-        callout: TODO FR TRANS
-        callact: TODO FR TRANS
-        mailchimp: TODO FR TRANS
-        sociallinks: TODO FR TRANS
-        readmore: TODO FR TRANS
+        resa_invite: (TODO FR) tekst in de banner-callout
+        resa_action: (TODO FR) knop resa
+        resa_formwait: (TODO FR) Reservatie Aanvraag wordt geladen... (even geduld)
+        mailchimp: (TODO FR) tekst mailchimp inschrijving
+        sociallinks: (TODO FR) tekst VD op social media
+        readmore: (TODO FR) knop lees meer
     gcse:
-        use: todo fr trans
-        wait: todo fr trans
-        empty: todo fr trans
+        use: (TODO FR) usage search - no search term
+        wait: (TODO FR) wait - results loading
+        empty: (TODO FR) no results for term, followed by \'term\'
 
 de:
     label: Deutsch
@@ -78,15 +82,17 @@ de:
         overview: Zusammenfassung
         share: Dieses Thema teilen auf
         search: Suche
-        callout: TODO DE TRANS
-        callact: TODO DE TRANS
-        mailchimp: TODO DE TRANS
-        sociallinks: TODO DE TRANS
-        readmore: TODO DE TRANS
+        close: (TODO DE) sluiten
+        resa_invite: (TODO DE) tekst in de banner-callout
+        resa_action: (TODO DE) knop resa
+        resa_formwait: (TODO DE) Reservatie Aanvraag wordt geladen... (even geduld)
+        mailchimp: (TODO DE) tekst mailchimp inschrijving
+        sociallinks: (TODO DE) tekst VD op social media
+        readmore: (TODO DE) knop lees meer
     gcse:
-        use: todo de trans
-        wait: todo de trans
-        empty: todo de trans
+        use: (TODO DE) usage search - no search term
+        wait: (TODO DE) wait - results loading
+        empty: (TODO DE) no results for term, followed by \'term\'
 
 en:
     label: English
@@ -107,13 +113,15 @@ en:
         next: next
         overview: overview
         share: Share this content via
+        close: close
         search: Search
-        callout: TODO EN TRANS
-        callact: TODO EN TRANS
-        mailchimp: TODO EN TRANS
-        sociallinks: TODO EN TRANS
-        readmore: TODO EN TRANS
+        resa_invite: (TODO EN) tekst in de banner-callout
+        resa_action: (TODO EN) knop resa
+        resa_formwait: (TODO EN) Reservatie Aanvraag wordt geladen... (even geduld)
+        mailchimp: (TODO EN) tekst mailchimp inschrijving
+        sociallinks: (TODO EN) tekst VD op social media
+        readmore: (TODO EN) knop lees meer
     gcse:
-        use: todo en trans
-        wait: todo en trans
-        empty: todo en trans
+        use: (TODO EN) usage search - no search term
+        wait: (TODO EN) wait - results loading
+        empty: (TODO EN) no results for term, followed by \'term\'

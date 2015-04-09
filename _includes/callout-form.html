@@ -1,0 +1,20 @@
+{% include layout-prelude.html %}
+<div class="container hidden-sm hidden-xs">
+<div class="vd-callout row">
+  <div class="col-lg-9 col-md-8">
+      {{site.data.langs[pgLang].dict.resa_invite}}
+  </div>
+  <div class="pull-right col-lg-3 col-md-4">
+    <button data-calloutselect="#form-callout"
+            class="vd-callout-btn btn btn-lg btn-success">{{site.data.langs[pgLang].dict.resa_action}}</button>
+  </div>
+</div>
+</div>
+
+<div id="form-callout" class="vd-callout-form">
+  <button role="close" class="btn btn-success btn-lg"><span class="fa fa-times"></span> {{site.data.langs[pgLang].dict.close}}</button>
+  <iframe src="//docs.google.com/forms/d/{{site.data.langs[pgLang].id['resa-form']}}/viewform?embedded=true"
+          frameborder="0" marginheight="0" marginwidth="0">
+    <h2 class="page_header">{{site.data.langs[pgLang].dict.resa_formwait}}</h2>
+  </iframe>
+</div>

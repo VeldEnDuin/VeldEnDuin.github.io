@@ -57,20 +57,46 @@
     });
 
 
+    $(function () {
+        var $content = $('#content');
 
-    /*
-     * make forms nested in the menu work and show ok
-     * =======================================================================
-     */
-    $('.dropdown-menu').find('form').click(function (e) {
-        e.stopPropagation();
+        /*
+         * make forms nested in the menu work and show ok
+         * =======================================================================
+         */
+        $('.dropdown-menu').find('form').click(function (e) {
+            e.stopPropagation();
+        });
+
+        /*
+         * make first header in the content stand out
+         * =======================================================================
+         */
+        $('h1', $content).eq(0).addClass('page-header');
+
+        /*
+         * make the callout form appear when called for
+         * =======================================================================
+         */
+        (function () {
+            var $btnOn, $btnOff, $callout, select, initTop;
+            function showForm() {
+                $callout.animate({"top": 0}, 500);
+            }
+            function hideForm() {
+                $callout.animate({"top": initTop}, 500);
+            }
+            $btnOn = $('.vd-callout-btn');
+            if ($btnOn.length > 0) {
+                select = $btnOn.data('calloutselect');
+                $callout = $(select);
+                $btnOff = $('.btn[role="close"]', $callout);
+                initTop = $callout.css('top');
+                $btnOn.click(showForm);
+                $btnOff.click(hideForm);
+            }
+        }());
     });
-
-    /*
-     * make first header in the content stand out
-     * =======================================================================
-     */
-    $('h1', $('#content')).eq(0).addClass('page-header');
 
     /*
      * Build up the group pages

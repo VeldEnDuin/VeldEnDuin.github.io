@@ -51,16 +51,7 @@
     {% unless page.remove contains 'banner' %}
       <div class="vd-banner hidden-sm hidden-xs"></div>
         {% unless page.remove contains 'callout' %}
-      <div class="container hidden-sm hidden-xs">
-        <div class="vd-callout row">
-          <div class="col-lg-9 col-md-8">
-              {{site.data.langs[pgLang].dict.callout}}
-          </div>
-          <div class="pull-right col-lg-3 col-md-4">
-            <button class="btn btn-lg btn-success">{{site.data.langs[pgLang].dict.callact}}</button>
-          </div>
-        </div>
-      </div>
+            {% include callout-form.html %}
         {% endunless%}
     {% endunless %}
     </header>
