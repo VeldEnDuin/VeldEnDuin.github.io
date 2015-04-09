@@ -1,7 +1,6 @@
 nl:
     label: Nederlands
     directions: ["N", "NO", "O", "ZO", "Z", "ZW", "W", "NW"]
-    search: zoeken.html
     id:
         cx: 012964731216503545400:onwjrjqskq8
         resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
@@ -33,7 +32,6 @@ nl:
 fr:
     label: français
     directions: ["N", "NE", "E", "SE", "S", "SO", "O", "NO"]
-    search: recherche.html
     id:
         cx: 012964731216503545400:qlxwawrgx9q
         resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
@@ -65,7 +63,6 @@ fr:
 de:
     label: Deutsch
     directions: ["N", "NO", "O", "SO", "S", "SW", "W", "NW"]
-    search: suche.html
     id:
         cx: 012964731216503545400:yf3vj8omajg
         resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
@@ -97,7 +94,6 @@ de:
 en:
     label: English
     directions: ["N", "NE", "E", "SE", "S", "SW", "W", "NW"]
-    search: search.html
     id:
         cx: 012964731216503545400:7thummrhqau
         resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg

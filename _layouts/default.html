@@ -80,6 +80,7 @@
   {% endunless%}
         <!-- more footer elements? -->
         <div id="contact" class="vd-contact" itemscope itemtype="http://schema.org/Place">
+        <a href="{{site.data.linkcode.contact[pgLang].link}}" class="vd-barelink">
         <div class="container-fluid" >
           <span class="vd-contact-item hidden-xs">
             <span>&copy; 2015</span> <span class="" itemprop="name">{{ site.contact.owner }}</span>
@@ -103,9 +104,9 @@
             <span class="vd-contact-item hidden-md hidden-sm hidden-xs"
                 itemprop="url">{{ site.contact["site-url"] }}
             </span>
-            <a href="mailto:{{ site.contact.email }}" class="vd-contact-item" itemprop="email" title="email" target="_blank" href="mailto:{{ site.links.mail }}">
+            <span class="vd-contact-item" itemprop="email" title="email" target="_blank" href="mailto:{{ site.links.mail }}">
                 {{ site.contact.email }}
-            </a>
+            </span>
             <meta itemprop="addressCountry" content="Belgium" />
           </span>
 
@@ -113,6 +114,7 @@
             {{ site.contact.phone }}
           </span>
         </div>
+        </a>
         </div>
       </div>
     </footer>
@@ -133,21 +135,17 @@
     <script type="text/javascript" src="/js/jquery-rotate.min.js"></script>
     <script type="text/javascript" src="/js/jquery.easing.min.js"></script>
 
-    <!--
-    <script type="text/javascript" src="/js/supersized.3.2.7.min.js"></script>
-    -->
     <script type="text/javascript" src="/js/jquery.mCustomScrollbar.min.js"></script>
     <script type="text/javascript" src="/js/jquery.mousewheel.min.js"></script>
 
     <script type="text/javascript" src="/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="/js/moment-with-locales.js"></script>
+
     <script type="text/javascript" src="/js/jquery.gpAlbum.js"></script>
-<!--
-    <script type="text/javascript" src="/js/turn.min.js"></script>
-    <script type="text/javascript" src="/js/scissor.min.js"></script>
-    <script type="text/javascript" src="/js/zoom.min.js"></script>
--->
     <script type="text/javascript" src="/js/main.js"></script>
+
+    <hr style="display:none" id="vd-post-script" >
+    <!-- todo: inject load scripts in post-script only if we really need them... -->
     <script type="text/javascript" src="/js/jquery.gcse.js"></script>
 
 {% include ga.html %}

@@ -1,8 +1,14 @@
+# gelinkt vanuit site-code...
 search:
-    nl: { link: /nl/zoeken.html   }
-    fr: { link: /fr/recherche.html      }
-    en: { link: /en/search.html      }
-    de: { link: /de/suche.html }
+    nl: { link: /nl/zoeken.html    }
+    fr: { link: /fr/recherche.html }
+    en: { link: /en/search.html    }
+    de: { link: /de/suche.html     }
+contact:
+    nl: { link: /contact.html }
+    fr: { link: /contact.html }
+    en: { link: /contact.html }
+    de: { link: /contact.html }
 virtualtour:
     nl: { link: /nl/virtueel-bezoek.html   }
     fr: { link: /fr/tour-virtuel.html      }
@@ -13,6 +19,8 @@ news:
     fr: { link: /fr/nouvelles.html   }
     en: { link: /en/news.html        }
     de: { link: /de/nachrichten.html }
+
+# pure content - alleen interne links en taal-koppeling
 huur:
     nl: { link: /nl/huren.html            }
 koop:
@@ -21,5 +29,3 @@ fietslabel:
     nl: { link: /nl/fietsvriendelijk.html }
 qlabel:
     nl: { link: /nl/qlabel.html           }
-
-
