@@ -1,18 +1,14 @@
 ---
-title:      Brugge Die Scone
 group:      activity
+location:   51.208822, 3.224377
+ranking:    2
 images:      
     - /img/activity/brugge-canal-middle-shot.jpg
     - /img/activity/brugge-bynight.jpg
-link:       http://brugge.be
 subgroups:  
     - daguitstap
     - shopping
-location:   51.208822, 3.224377
-ranking:    2
+link:       http://brugge.be
+title:      Brugge Die Scone
+caption:    kuieren
 ---
-
-- kanalen
-- kunst
-- kant
-- chocola

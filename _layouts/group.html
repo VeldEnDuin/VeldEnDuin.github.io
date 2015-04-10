@@ -4,17 +4,17 @@ layout: default
 {% include layout-prelude.html %}
 
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-<div class="row">
-<h1> {{ page.title }} </h1>
-</div>
+  <div class="row">
+    <h1> {{ page.title }} </h1>
+  </div>
 
-<div class="vd-group-intro row vd-group-{{page.ofgroup}}-intro">
-{{ content }}
-</div>
+  <div class="vd-group-intro row vd-group-{{page.ofgroup}}-intro">
+    {{ content }}
+  </div>
 
-<div class="vd-group-list row {{page.class.group.list}}"
-     id="vd-group-list"
-     data-geolocation="{{site.geolocation.lat}}, {{site.geolocation.lon}}">
+  <div class="vd-group-list row {{page.class.group.list}}"
+       id="vd-group-list"
+       data-geolocation="{{site.geolocation.lat}}, {{site.geolocation.lon}}">
 {% assign rankedpages = site.pages | sort: 'ranking' %}
 {% for pg in rankedpages %}
     {% assign parts = pg.url | split: '/' %}
@@ -24,49 +24,42 @@ layout: default
          data-title      = "{{ pg.title }}"
          data-images     = '{{ pg.images | jsonify}}'
          data-link       = "{{ pg.link  }}"
+         data-format     = "dist"
          data-location   = "{{ pg.location }}"
          data-subgroups  = '{{ pg.subgroups | jsonify }}'
          data-ranking    = "{{ pg.ranking }}"
     >
-        <div class="vd-group-item-inner vd-group-{{page.ofgroup}}-item-inner"
-             style="background-image: url('{{pg.images[0]}}');"
-        >
-            <div class="vd-group-title vd-group-{{page.ofgroup}}-title">
-                <span class="vd-group-info-sign"><span class="glyphicon glyphicon-info-sign"></span></span>
-                {{ pg.title }}
+      <div class="vd-group-item-inner"
+           style="background-image: url('{{pg.images[0]}}');"
+      >
+        <div class="vd-group-content">
+          <div class="vd-group-content-arrow"></div>
+          <div class="vd-group-content-inner">
+            <div class="vd-group-caption">{{ pg.caption }}</div>
+            <div class="vd-group-title">
+        {% if pg.link %}
+              <a class="vd-link" href="{{pg.link}}" target="_blank">
+                <span class="glyphicon glyphicon-new-window"></span>
+                {{pg.title}}
+              </a>
+        {% else %}
+            {{pg.title}}
+        {% endif %}
             </div>
-            <div class="vd-group-content vd-group-{{page.ofgroup}}-content">
-                {{ pg.content | markdownify }}
+        {% if pg.location %}
+            <div class="vd-group-info">
+              <a class="vd-location" target="_blank"
+               href="https://www.google.be/maps/dir/{{site.geolocation.lat}}, {{site.geolocation.lon}}/{{pg.location}}?hl={{ pgLang }}"
+              >
+                <span class="glyphicon glyphicon-map-marker"></span>
+              </a>
             </div>
-            <div class="vd-group-info vd-group-{{page.ofgroup}}-info">
-                {% assign noInfo = true %}
-                <ul class="list-group">
-                    {% if pg.location %}
-                        {% assign noInfo = false %}
-                    <li class="list-group-item">
-                        <a class="vd-location" data-location="{{pg.location}}" target="_blank"
-                           href="https://www.google.be/maps/dir/{{site.geolocation.lat}}, {{site.geolocation.lon}}/{{pg.location}}?hl={{ pgLang }}"
-                        >{{site.data.langs[pgLang].dict.route}} </a>
-                        <span class="badge"><span class="glyphicon glyphicon-map-marker"></span></span>
-                    </li>
-                    {% endif %}
-                    {% if pg.link %}
-                        {% assign noInfo = false %}
-                    <li class="list-group-item">
-                        <a class="vd-link" href="{{pg.link}}" target="_blank">{{pg.link}} </a>
-                        <span class="badge"><span class="glyphicon glyphicon-new-window"></span></span>
-                    </li>
-                    {% endif %}
-                    {% if noInfo %}
-                    <li class="list-group-item vd-no-info">
-                        <span class="no-info">{{site.data.langs[pgLang].dict.noinfo}}</span>
-                    </li>
-                    {% endif %}
-                </ul>
-            </div>
+        {% endif %}
+          </div>
         </div>
+      </div>
     </div>
     {% endif %}
 {% endfor %}
-</div>
+  </div>
 </div>

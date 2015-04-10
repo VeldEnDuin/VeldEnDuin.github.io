@@ -2,6 +2,11 @@
     "use strict";
     var TRANSL = {};
 
+
+    function isString(s) {
+        return Object.prototype.toString.call(s) === '[object String]';
+    }
+
     function parseLatLon(geom) {
         if (!geom) { return null; }
         var parts = geom.replace(/\s+/gi, '').split(',');
@@ -11,7 +16,17 @@
         };
     }
 
-    function calculateDisplacement(from, to) {
+    function displacementLabelFormatter(fmt) {
+        if (!isString(fmt)) {
+            return;
+        } else if (fmt === "dist") {
+            return function (dist, crdn) { return dist + " km"; };
+        } else {
+            return function (dist, crdn) { return dist + " km " + crdn; };
+        }
+    }
+
+    function calculateDisplacement(from, to, fmt) {
     /* assumes
         <script src="http://maps.google.com/maps/api/js?sensor=true&libraries=geometry"
                 type="text/javascript" charset="utf-8"></script>
@@ -34,12 +49,13 @@
         dist = Math.round(dist / 100) / 10;
         degr = window.google.maps.geometry.spherical.computeHeading(geoFrom, geoTo);
         crdn = cardinalDirections[Math.floor((degr + 360 + partSize / 2) / 45) % 8];
+        fmt = displacementLabelFormatter(fmt);
 
         return {
             "distance": dist,
             "degree"  : degr,
             "cardinal": crdn,
-            "label"   : dist + " km " + crdn
+            "label"   : fmt(dist, crdn)
         };
     }
 
@@ -119,12 +135,8 @@
             subGrpCnts = {};
 
             $groupItems.each(function () {
-                var $item = $(this),
-                    itemGeo,
-                    itemDsp,
-                    imgs,
-                    imgcnt,
-                    imgndx,
+                var $item = $(this), itemGeo, itemDsp, itemFmt,
+                    imgs, imgcnt, imgndx,
                     subgroups;
 
                 $items = $items.add($item);
@@ -134,13 +146,14 @@
                  * ---------------------------------------------------------------
                  */
                 itemGeo = parseLatLon($item.data('location'));
-                itemDsp = calculateDisplacement(geo, itemGeo);
+                itemFmt = $item.data('format') || "full";
+                itemDsp = calculateDisplacement(geo, itemGeo, itemFmt);
 
                 $item.data('geo', itemGeo);
                 if (itemDsp) {
                     $item.data('distance', itemDsp.distance);
                     // find "route" link and replace by displacement tostring
-                    $(".vd-location", $item).append(" <span>(" + itemDsp.label + ")</span>");
+                    $(".vd-location", $item).append(" <span>" + itemDsp.label + "</span>");
                 }
 
                 /*

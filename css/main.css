@@ -170,7 +170,7 @@ body:before {
 .vd-group-item
 {
     overflow: hidden;
-    padding: 5px;
+    padding: 1px;
 }
 
 .vd-group-item
@@ -185,49 +185,53 @@ body:before {
     height: 100% !important;
 }
 
-.vd-group-title, .vd-group-info
-{
-    color: rgba(255,255,255,1);
-    background-color: rgba(0, 0, 0, 0.8);
-    width: 100%;
-    padding: 0.5em;
-}
-
-.vd-group-info
-{
-    transition: opacity 1.5s;
-    opacity: 0;
-}
-.vd-group-item:hover .vd-group-info
-{
-    opacity: 1;
-}
-
-.vd-group-title .vd-group-info-sign
-{
-    float: right;
-}
-
-.vd-group-info ul, .vd-group-info ul li
-{
-    background-color: transparent;
-}
-
 .vd-group-content
 {
     position: absolute;
     width: 100%;
     background-color: rgba(255,255,255,0.8);
-    padding: 0.5em;
     transition: opacity 1.5s, bottom 1s;
     opacity: 0;
     bottom: -50%;
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
 }
+
+.vd-group-content .vd-group-content-arrow {
+    bottom: 10px;
+    margin: 0 auto 0 auto;
+    padding: 0;
+    border-bottom: 10px solid rgba(255,255,255,0.8);
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    width:  0;
+    position: relative;
+}
+.vd-group-content-inner {
+    padding: 0.5em 1em 0.5em 1em;
+}
+
 .vd-group-item:hover .vd-group-content
 {
     opacity: 1;
     bottom: 0;
 }
+
+.vd-group-caption {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+
+.vd-group-title {
+    text-align: center;
+    font-size: 1em;
+}
+
+.vd-group-info {
+    text-align: right;
+}
+
 /*
  *   -------------------------------------------------------------------------------
  *   [group :: activity]
