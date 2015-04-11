@@ -324,7 +324,13 @@ body:before {
     padding: 6px 6px 6px 6px;
 }
 .vd-news-item .vd-news-item-inner .vd-news-item-label:hover {
-    background-color: rgba(184, 186, 138, 0.5);
+    background: -moz-linear-gradient(left, rgba(184,186,138,0.5) 0%, rgba(162,167,105,0.5) 50%, rgba(139,148,72,0) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(184,186,138,0.5)), color-stop(50%,rgba(162,167,105,0.5)), color-stop(100%,rgba(139,148,72,0))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(left, rgba(184,186,138,0.5) 0%,rgba(162,167,105,0.5) 50%,rgba(139,148,72,0) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(left, rgba(184,186,138,0.5) 0%,rgba(162,167,105,0.5) 50%,rgba(139,148,72,0) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(left, rgba(184,186,138,0.5) 0%,rgba(162,167,105,0.5) 50%,rgba(139,148,72,0) 100%); /* IE10+ */
+    background: linear-gradient(to right, rgba(184,186,138,0.5) 0%,rgba(162,167,105,0.5) 50%,rgba(139,148,72,0) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80b8ba8a', endColorstr='#008b9448',GradientType=1 ); /* IE6-9 */
 }
 
 .vd-news-item .vd-news-icon {
@@ -350,6 +356,9 @@ body:before {
 .vd-news-item .vd-news-item-inner .vd-news-title {
     text-transform: uppercase;
     font-weight: bold;
+}
+.vd-news-item .vd-news-item-inner .vd-news-title .vd-news-item-date {
+    font-weight: normal;
 }
 
 
