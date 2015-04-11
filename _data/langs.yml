@@ -15,6 +15,8 @@ nl:
         next: volgende
         overview: overzicht
         share: Deel dit bericht via Social Media
+        othernews: Lees ook deze andere berichten
+        publication: Publicatie
         close: sluiten
         search: Zoek
         resa_invite: (TODO NL) Hier komt dan een tekstje dat er voor zorgt dat ze rapper inschrijven bij VELD & DUIN !
@@ -45,6 +47,8 @@ fr:
         next: suivant
         overview: résumé
         share: Partager cet article sur
+        othernews: (TODO FR) ander nieuws
+        publication: (TODO FR) Publicatie
         close: fermer
         search: Recherche
         resa_invite: (TODO FR) tekst in de banner-callout
@@ -75,6 +79,8 @@ de:
         next: als nächstes
         overview: Zusammenfassung
         share: Dieses Thema teilen auf
+        othernews: (TODO DE) ander nieuws
+        publication: (TODO DE) Publicatie
         search: Suche
         close: (TODO DE) sluiten
         resa_invite: (TODO DE) tekst in de banner-callout
@@ -105,6 +111,8 @@ en:
         next: next
         overview: overview
         share: Share this content via
+        othernews: (TODO EN) ander nieuws
+        publication: (TODO EN) publication
         close: close
         search: Search
         resa_invite: (TODO EN) tekst in de banner-callout

@@ -141,12 +141,8 @@ body:before {
  *   -------------------------------------------------------------------------------
  */
 #vd-share-group {
-    position: fixed;
-    left: 0px;
-    top: 115px;
 }
 .vd-share-grp button {
-    font-size: 2em;
     background-color: rgba(255, 255, 255, 0.75);
 }
 .fa.vd-share-gp {
@@ -361,7 +357,11 @@ body:before {
     font-weight: normal;
 }
 
-
+.vd-news-footer {
+    padding-top: 9px;
+    margin-top: 20px;
+    border-top: 1px solid #eee;
+}
 
 /* ===================================================================================
  * styling landing-footer

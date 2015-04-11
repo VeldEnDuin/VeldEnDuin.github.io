@@ -315,8 +315,10 @@
             shareData = $shareGrp.data('share');
             $shareToggle = $('button[data-toggle="tooltip"]', $shareGrp);
             $shareBtns = $('button[role]', $shareGrp);
+            /*
             $shareToggle.click(toggle);
             close();
+            */
 
             applicatorFor = {};
             applicatorFor.fb = function ($btn) {
@@ -328,7 +330,7 @@
                                 'height=450, width=550, top=' + ($(window).height() / 2 - 225) + ', left=' + $(window).width() / 2 +
                                 ', toolbar=no, location=0, menubar=no, directories=no, scrollbars=no, resizeable=yes'
                                );
-                    close();
+                    /* close(); */
                 });
                 return true;
             };
@@ -340,7 +342,7 @@
                                 'height=450, width=550, top=' + ($(window).height() / 2 - 225) + ', left=' + $(window).width() / 2 +
                                 ', toolbar=no, location=0, menubar=no, directories=no, scrollbars=no, resizeable=yes'
                                );
-                    close();
+                    /* close(); */
                 });
                 return true;
             };
@@ -351,7 +353,7 @@
                                 'height=600, width=600, top=' + ($(window).height() / 2 - 300) + ', left=' + $(window).width() / 2 +
                                 ', toolbar=no, location=0, menubar=no, directories=no, scrollbars=no, resizeable=yes'
                                );
-                    close();
+                    /* close(); */
                 });
                 return true;
             };
@@ -365,7 +367,7 @@
                                 'height=600, width=600, top=' + ($(window).height() / 2 - 300) + ', left=' + $(window).width() / 2 +
                                 ', toolbar=no, location=0, menubar=no, directories=no, scrollbars=no, resizeable=yes'
                                );
-                    close();
+                    /* close(); */
                 });
                 return true;
             };
