@@ -7,21 +7,33 @@ subgroups:
         event:    evenement
         kids:     kinderen
         shopping: winkelen
+        museum:   museum
+        coast:    zon, zee, strand
+        city:     stadsbezoek
     fr:
         daytrip:  (todo fr) sejour
         event:    (todo fr) évenement
         kids:     (todo fr) enfants
         shopping: (todo fr) le shopping
+        museum:   (todo fr) museum
+        coast:    (todo fr) beach
+        city:     (todo fr) city
     de:
         daytrip:  (todo de) tagesausflüge
         event:    (todo de) reeignis
         kids:     (todo de) kinder
         shopping: (todo de) shopping
+        museum:   (todo de) museum
+        coast:    (todo fr) beach
+        city:     (todo fr) city
     en:
         daytrip:  daytrips
         event:    events
         kids:     kids
         shopping: shopping
+        museum:   museum
+        coast:    (todo fr) beach
+        city:     (todo fr) city
 
 items:
     -
@@ -53,6 +65,7 @@ items:
             - /img/activity/brugge-bynight.jpg
         subgroups:
             - daytrip
+            - city
             - shopping
         title:
             nl: Brugge Die Scone
@@ -73,6 +86,7 @@ items:
         subgroups:
             - daytrip
             - shopping
+            - city
         title:
             nl: Oostende, koningin der badsteden
         caption:
@@ -98,8 +112,33 @@ items:
             - /img/activity/strand-bredene-kinderen.jpg
         subgroups:
             - daytrip
+            - coast
             - kids
         title:
             nl: Strand
         caption:
             nl: genieten
+    -
+        link: http://www.muzee.be/
+        ranking: 3
+        location: 51.225613, 2.914555
+        images:
+            - /img/activity/oostende-muzee.jpg
+        subgroups:
+            - museum
+        title:
+            nl: MuZee
+            fr: MuZee
+        caption:
+            nl: Kunst & Cultuur
+    -
+        ranking: 5
+        location: 51.257756, 2.981683
+        images:
+            - /img/activity/bredene-naaktstrand.jpg
+        subgroups:
+            - coast
+        title:
+            nl: Naakstrand
+        caption:
+            nl: Naturisme

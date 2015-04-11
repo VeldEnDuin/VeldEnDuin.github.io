@@ -3,8 +3,8 @@ layout: default
 ---
 {% include layout-prelude.html %}
 
-{% assign grp   = page.group %}
-{% capture key %}group-{{ grp }}{% endcapture %}
+{% assign grp   = page.data %}
+{% capture key %}{{ grp }}{% endcapture %}
 {% assign items = site.data[key].items %}
 {% assign style = site.data[key].class %}
 {% assign names = site.data[key].subgroups[pgLang] %}

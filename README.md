@@ -378,7 +378,7 @@ Oplossing voor landing-pads en addons --> selecteerbare delen die je toevoegt.
 
 ## "group pagina's" 
 
-De "group" layout pagina's worden aangestuurd door de gegevens in de bijhorende ```data/group-{groupname}.yml``` file.
+De "group" layout pagina's worden aangestuurd door de gegevens in de bijhorende ```data/{name}.yml``` file.
 Een voorbeeld hiervan is de "doen" pagina.
 
 Een dergelijke "group" verzamelpagina maak je vooral door de gegevens in de prelude.
@@ -388,17 +388,17 @@ Een dergelijke "group" verzamelpagina maak je vooral door de gegevens in de prel
     ---
     title: Doen en Beleven nabij Veld & Duin
     layout: group
-    group: activity
+    data: doen
     ---
 ```
 
 Deze geven aan dat de layout 'group' word geactiveerd, en zegt ook welke 'group' gegevens worden verzameld. 
 
-In dit geval wijst die naar de groeps-naam ```activity```. Dit verondersteld dat er gegevens beschikbaar zijn in de bijhorende file ```data/group-acivity.yml```
+In dit geval wijst die naar de groeps-naam ```doen```. Dit verondersteld dat er gegevens beschikbaar zijn in de bijhorende file ```data/doen.yml```
 
 Dat bestand heeft de volgende vorm:
 ```
-data/group-{groupname}.yml
+data/{name}.yml
 
     class:
         list:
