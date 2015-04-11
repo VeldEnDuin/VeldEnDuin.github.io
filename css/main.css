@@ -413,6 +413,9 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
  * styling imgstrip and footer
  *   -------------------------------------------------------------------------------
  */
+.vd-footer {
+    margin-top: 4em;
+}
 .vd-img-strip {
     height: 105px;
     background-color: rgba(255, 255, 255, 0.5);
