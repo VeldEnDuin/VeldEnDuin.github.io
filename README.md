@@ -288,6 +288,7 @@ De beschikbare elmenten die kunnen aangezet worden met 'insert' in de prelude zi
 insert      | beperkt tot layout  | acitveert
 ------------|---------------------|--------------
 virtualtour | alle layouts        | de google-virtual-tour
+play-album  | alle layouts        | de foto-album
 newsfeed    | landing             | de lijst met recente nieuws-artikels
 
 #### Prelude :: remove
@@ -297,6 +298,9 @@ De beschikbare elmenten die kunnen afgezet worden met 'remove' in de prelude zij
 remove      | beperkt tot layout  | verwijdert 
 ------------|---------------------|----------------
 socialshare | alle layouts        | de knoppen voor 'delen' op de sociale media
+banner      | alle layouts        | de banner-met foto onder de menu-balk bovenaan
+callout     | alle layouts        | de link voor het registratie-formulier in de banner
+imgstrip    | alle layouts        | de strip met foto's onderaan
 
 ## Nieuws Articles
 ### Locatie en bestandsnaam
@@ -373,11 +377,56 @@ Hierdoor kun je ook in andere pagina's een verwijzing naar deze varainten maken 
 Oplossing voor landing-pads en addons --> selecteerbare delen die je toevoegt.
 - aanduiden in de prelude van de pagina's die deze insets moeten bevatten
 
-## "group" en "item" pagina's
+## "group pagina's" 
 
-Hoe werkt het
-- specifieke prelude elementen ?
+De "group" layout pagina's worden aangestuurd door de gegevens in de bijhorende ```data/group-{groupname}.yml``` file.
+Een voorbeeld hiervan is de "doen" pagina.
 
-### Voorbeeld 'activity'
+Een dergelijke "group" verzamelpagina maak je vooral door de gegevens in de prelude.
+
+```
+/nl/in-de-buurt.html
+    ---
+    title: Doen en Beleven nabij Veld & Duin
+    layout: group
+    group: activity
+    ---
+```
+
+Deze geven aan dat de layout 'group' word geactiveerd, en zegt ook welke 'group' gegevens worden verzameld. 
+
+In dit geval wijst die naar de groeps-naam ```activity```. Dit verondersteld dat er gegevens beschikbaar zijn in de bijhorende file ```data/group-acivity.yml```
+
+Dat bestand heeft de volgende vorm:
+```
+data/group-{groupname}.yml
+
+    class:
+        list:
+        item:
+    subgroups:
+        {lang}:
+            {name}: {vertaling voor deze subgroup-naam}
+    items:
+        -
+            link:   {link horende bij dit item}
+            rating: {getal 1 <-> 10 dat het belang aangeeft 
+                     --> sortering is hierop gebaseerd}
+            location: {lat}, {lon}
+            images:      
+                - {pad naar bijhorende beelden 
+                   bv. /img/activity/bellewaerde-roetsjbaan.jpg}
+            subgroups:  
+                - {name #1 van de subgroup waar dit item toe behoort}
+                - {name #2 van de subgroup waar dit item toe behoort}
+                - ...
+            title:
+                {lang}: {naam van het titem}
+            caption: 
+                {lang}: {kernwoord}
+        -
+            {volgende item ...}
+            
+```
 
 

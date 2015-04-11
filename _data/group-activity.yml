@@ -1,0 +1,105 @@
+class:
+    list:
+    item: col-lg-3 col-md-4 col-sm-6 col-xs-12
+subgroups:
+    nl:
+        daytrip:  daguitstap
+        event:    evenement
+        kids:     kinderen
+        shopping: winkelen
+    fr:
+        daytrip:  (todo fr) sejour
+        event:    (todo fr) évenement
+        kids:     (todo fr) enfants
+        shopping: (todo fr) le shopping
+    de:
+        daytrip:  (todo de) tagesausflüge
+        event:    (todo de) reeignis
+        kids:     (todo de) kinder
+        shopping: (todo de) shopping
+    en:
+        daytrip:  daytrips
+        event:    events
+        kids:     kids
+        shopping: shopping
+
+items:
+    -
+        link:     http://bellewaerde.be/
+        ranking:  2
+        location: 50.847464, 2.950257
+        images:
+            - /img/activity/bellewaerde-roetsjbaan.jpg
+        subgroups:
+            - daytrip
+            - event
+            - kids
+        title:
+            nl: Bellewaerde
+            fr:
+            de:
+            en:
+        caption:
+            nl: roetsjen
+            fr:
+            de:
+            en:
+    -
+        link:     http://brugge.be
+        ranking:  2
+        location: 51.208822, 3.224377
+        images:
+            - /img/activity/brugge-canal-middle-shot.jpg
+            - /img/activity/brugge-bynight.jpg
+        subgroups:
+            - daytrip
+            - shopping
+        title:
+            nl: Brugge Die Scone
+            fr:
+            de:
+            en:
+        caption:
+            nl: kuieren
+            fr:
+            de:
+            en:
+    -
+        link:     http://oostende.be
+        ranking:  2
+        location: 51.228225, 2.915357
+        images:
+            - /img/activity/oostende-station.jpg
+        subgroups:
+            - daytrip
+            - shopping
+        title:
+            nl: Oostende, koningin der badsteden
+        caption:
+            nl: flaneren
+    -
+        link:     http://plospaland.be
+        ranking:  1
+        location: 51.080840, 2.598768
+        images:
+            - /img/activity/plopsaland-maya.jpg
+        subgroups:
+            - daytrip
+            - kids
+        title:
+            nl: Plopsaland
+        caption:
+            nl: plezier maken
+    -
+        ranking:  1
+        location: 51.254611, 2.973002
+        images:
+            - /img/activity/strand-bredene-verdwaalpaal.jpg
+            - /img/activity/strand-bredene-kinderen.jpg
+        subgroups:
+            - daytrip
+            - kids
+        title:
+            nl: Strand
+        caption:
+            nl: genieten

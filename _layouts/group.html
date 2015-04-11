@@ -3,50 +3,67 @@ layout: default
 ---
 {% include layout-prelude.html %}
 
+{% assign grp   = page.group %}
+{% capture key %}group-{{ grp }}{% endcapture %}
+{% assign items = site.data[key].items %}
+{% assign style = site.data[key].class %}
+{% assign names = site.data[key].subgroups[pgLang] %}
+
+<!--
+<pre>
+grp   = {{ grp | jsonify }}
+key   = {{ key | jsonify }}
+
+items = {{ items | jsonify }}
+</pre>
+-->
+
+
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-  <div class="vd-group-intro row vd-group-{{page.ofgroup}}-intro">
+  <div class="vd-group-intro row vd-group-{{grp}}-intro">
     {{ content }}
   </div>
 
-  <div class="vd-group-list row {{page.class.group.list}}"
-       id="vd-group-list"
-       data-geolocation="{{site.geolocation.lat}}, {{site.geolocation.lon}}">
-{% assign rankedpages = site.pages | sort: 'ranking' %}
-{% for pg in rankedpages %}
-    {% assign parts = pg.url | split: '/' %}
-    {% assign ln = parts[1] %}
-    {% if pg.group == page.ofgroup and ln == pgLang %}
-    <div class="vd-group-item vd-group-{{page.ofgroup}}-item {{page.class.group.item}}"
-         data-title      = "{{ pg.title }}"
-         data-images     = '{{ pg.images | jsonify}}'
-         data-link       = "{{ pg.link  }}"
+  <div id="vd-group-list" class="vd-group-list row {{style.list}}"
+       data-geolocation="{{site.geolocation.lat}}, {{site.geolocation.lon}}"
+       data-subgroupnames='{{ names | jsonify }}'>
+
+{% assign rankeditems = items | sort: 'ranking'  %}
+{% for it in rankeditems %}
+    {% assign title = it.title[pgLang] %}
+    {% assign caption = it.caption[pgLang] %}
+    <div class="vd-group-item vd-group-{{grp}}-item {{style.item}}"
+         data-title      = "{{ title }}"
+         data-caption    = "{{ caption }}"
+         data-images     = '{{ it.images | jsonify}}'
+         data-link       = "{{ it.link  }}"
          data-format     = "dist"
-         data-location   = "{{ pg.location }}"
-         data-subgroups  = '{{ pg.subgroups | jsonify }}'
-         data-ranking    = "{{ pg.ranking }}"
+         data-location   = "{{ it.location }}"
+         data-subgroups  = '{{ it.subgroups | jsonify }}'
+         data-ranking    = "{{ it.ranking }}"
     >
       <div class="vd-group-item-inner"
-           style="background-image: url('{{pg.images[0]}}');"
+           style="background-image: url('{{it.images[0]}}');"
       >
         <div class="vd-group-content">
           <div class="vd-group-content-arrow"></div>
           <div class="vd-group-content-inner">
-            <div class="vd-group-caption">{{ pg.caption }}</div>
+            <div class="vd-group-caption">{{ caption }}</div>
             <div class="vd-group-title">
-        {% if pg.link %}
-              <a class="vd-link" href="{{pg.link}}" target="_blank">
+        {% if it.link %}
+              <a class="vd-link" href="{{it.link}}" target="_blank">
                 <span class="glyphicon glyphicon-new-window"></span>
-                {{pg.title}}
+                {{ title }}
               </a>
         {% else %}
-            {{pg.title}}
+            {{ title }}
         {% endif %}
             </div>
-        {% if pg.location %}
+        {% if it.location %}
             <div class="vd-group-info">
               <a class="vd-location" target="_blank"
-               href="https://www.google.be/maps/dir/{{site.geolocation.lat}}, {{site.geolocation.lon}}/{{pg.location}}?hl={{ pgLang }}"
+                 href="https://www.google.be/maps/dir/{{site.geolocation.lat}}, {{site.geolocation.lon}}/{{it.location}}?hl={{ pgLang }}"
               >
                 <span class="glyphicon glyphicon-map-marker"></span>
               </a>
@@ -56,7 +73,6 @@ layout: default
         </div>
       </div>
     </div>
-    {% endif %}
 {% endfor %}
   </div>
 </div>

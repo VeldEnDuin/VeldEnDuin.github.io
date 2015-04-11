@@ -130,11 +130,13 @@
      * =======================================================================
      */
     $(function () {
-        var $groupList = $('#vd-group-list'), $groupItems, $items, geo,
+        var $groupList = $('#vd-group-list'), $groupItems, subgrpNames, $items, geo,
             subGrpCnts, allCnt,
             $btnGrp, activeSubGrp, $btns;
 
         if ($groupList && $groupList.length > 0) {
+
+            subgrpNames = $groupList.data('subgroupnames');
             geo = parseLatLon($groupList.data('geolocation'));
             $groupItems = $('.vd-group-item', $groupList);
             $items = $();
@@ -257,7 +259,7 @@
                 addBtn('ALL', TRANSL.dict.all, allCnt);
                 Object.keys(subGrpCnts).forEach(function (subgrp) {
                     var cnt = subGrpCnts[subgrp];
-                    addBtn(subgrp, subgrp, cnt);
+                    addBtn(subgrp, subgrpNames[subgrp], cnt);
                 });
 
                 $groupList.before(
