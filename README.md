@@ -268,7 +268,7 @@ layout     | tekst  | layout:&nbsp;landing  | Wijst naar een beschikbare layout 
 title      | tekst  | title:&nbsp;Mijn&nbsp;Titel| De vrij gekozen titel van de pagina.
 images     | lijst  | images:<br>&nbsp;&nbsp;-&nbsp;/img/een.jpg<br>&nbsp;&nbsp;-&nbsp;/img/twee.jpg | De oplijsting van beelden die aan dit artikel worden ge-associeerd.
 insert     | lijst  | insert:<br>&nbsp;&nbsp;- virtualtour | Gekozen specifieke scherm-elementen zijn vanzelf uitgeschakeld, maar worden hiermee expliciet aangezet. (Zie hieronder voor de opties.)
-remove     | lijst  | remove:<br>&nbsp;&nbsp;- socialshare | Gekozen specifieke scherm-elementen zijn vanzelf beschikbaar, maar kunnen hiermee worden afgezet.  (Zie hieronder voor de opties.)
+remove     | lijst  | remove:<br>&nbsp;&nbsp;- banner | Gekozen specifieke scherm-elementen zijn vanzelf beschikbaar, maar kunnen hiermee worden afgezet.  (Zie hieronder voor de opties.)
 
 #### Prelude :: layout
 De beschikbare layouts in de prelude zijn:
@@ -297,7 +297,6 @@ De beschikbare elmenten die kunnen afgezet worden met 'remove' in de prelude zij
 
 remove      | beperkt tot layout  | verwijdert 
 ------------|---------------------|----------------
-socialshare | alle layouts        | de knoppen voor 'delen' op de sociale media
 banner      | alle layouts        | de banner-met foto onder de menu-balk bovenaan
 callout     | alle layouts        | de link voor het registratie-formulier in de banner
 imgstrip    | alle layouts        | de strip met foto's onderaan
