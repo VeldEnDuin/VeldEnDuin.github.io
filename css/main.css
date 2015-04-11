@@ -232,6 +232,26 @@ body:before {
     text-align: right;
 }
 
+.vd-group-filter {
+    border: 1px solid #8fb742;
+    -webkit-border-radius: 6px;
+       -moz-border-radius: 6px;
+            border-radius: 6px;
+    margin-bottom: 2em;
+}
+
+.vd-group-filter-inner {
+    margin: 1em;
+}
+
+.vd-group-filter-nav {
+    margin: auto;
+    text-transform: capitalize;
+}
+.vd-group-filter-nav.nav-pills>li.active>a {
+    background-color: #8fb742;
+}
+
 /*
  *   -------------------------------------------------------------------------------
  *   [group :: activity]

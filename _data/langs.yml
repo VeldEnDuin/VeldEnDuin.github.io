@@ -5,8 +5,7 @@ nl:
         cx: 012964731216503545400:onwjrjqskq8
         resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
     dict:
-        route: route
-        noinfo: "Geen informatie beschikbaar"
+        all: alle
         news: Nieuws
         mapxl: Grotere kaart weergeven
         virttour:
@@ -36,8 +35,7 @@ fr:
         cx: 012964731216503545400:qlxwawrgx9q
         resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
     dict:
-        route: itinéraire
-        noinfo: "Aucune information disponible"
+        all: tous
         news: Nouvelles
         mapxl: Agrandir le plan
         virttour:
@@ -67,8 +65,7 @@ de:
         cx: 012964731216503545400:yf3vj8omajg
         resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
     dict:
-        route: Route
-        noinfo: "Keine Informationen verfügbar"
+        all: (todo DE) Alle
         news: Nachrichten
         mapxl: Größere Kartenansicht
         virttour:
@@ -98,8 +95,7 @@ en:
         cx: 012964731216503545400:7thummrhqau
         resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
     dict:
-        route: Route
-        noinfo: "No information available"
+        all: All
         news: News
         mapxl: View Larger Map
         virttour:

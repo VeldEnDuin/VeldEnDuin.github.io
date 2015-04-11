@@ -2,11 +2,22 @@
     "use strict";
     var TRANSL = {};
 
+    /*
+     * handy common stuff
+     * =======================================================================
+     */
+    function isEmpty(a) {
+        return (a === null || a === undefined || (a.hasOwnProperty("length") && a.length === 0));
+    }
 
     function isString(s) {
         return Object.prototype.toString.call(s) === '[object String]';
     }
 
+    /*
+     * geo stuff
+     * =======================================================================
+     */
     function parseLatLon(geom) {
         if (!geom) { return null; }
         var parts = geom.replace(/\s+/gi, '').split(',');
@@ -119,20 +130,16 @@
      * =======================================================================
      */
     $(function () {
-        var $groupList = $('#vd-group-list'),
-            geo,
-            $groupItems,
-            $items,
-            subGrpCnts,
-            $btnGrp,
-            activeSubGrp,
-            $btns;
+        var $groupList = $('#vd-group-list'), $groupItems, $items, geo,
+            subGrpCnts, allCnt,
+            $btnGrp, activeSubGrp, $btns;
 
         if ($groupList && $groupList.length > 0) {
             geo = parseLatLon($groupList.data('geolocation'));
             $groupItems = $('.vd-group-item', $groupList);
             $items = $();
             subGrpCnts = {};
+            allCnt = 0;
 
             $groupItems.each(function () {
                 var $item = $(this), itemGeo, itemDsp, itemFmt,
@@ -188,86 +195,83 @@
                 subgroups = $item.data('subgroups');
                 subgroups.forEach(function (subgrp) {
                     $item.addClass('vd-subgrp-' + subgrp);
+                    $item.addClass('vd-subgrp-ALL');
                     if (!subGrpCnts[subgrp]) {
                         subGrpCnts[subgrp] = 0;
                     }
                     subGrpCnts[subgrp] += 1;
                 });
             });
+            allCnt = $items.length;
 
             /*
              * facet-counts, facet-filtering, fragment-identifier-facets
              * ---------------------------------------------------------------
              */
-            $btnGrp = $("<div class='btn-group btn-group-lg btn-group-justified vd-subgrp-btns' " +
-                            " role='group' data-toggle='buttons'>");
+
+            $btnGrp = $('<ul class="vd-group-filter-nav nav nav-pills nav-justified"></ul>');
             $btns = $();
             activeSubGrp = null;
 
             (function () {
-                function toggleActive(canReset, newActiveGrp, $btn) {
-                    $btn = $btn || $("#vd-subgrp-btn-" + newActiveGrp);
-
-                    if (activeSubGrp === newActiveGrp) {
-                        if (canReset) {
-                            // set off  --> all on
-                            $btns.addClass('active');
-                            // make all items visible
-                            $items.fadeIn(1500);
-                            activeSubGrp = null;
-                            window.location.hash = '';
-                        }
-                    } else {
-                        var subgrpSelector = '.vd-subgrp-' + newActiveGrp,
-                            $hideItems = $items.not(subgrpSelector);
-                        // set on --> all others off
-                        $btns.removeClass('active');
-                        (function () {
-                            function fadeIn() {
-                                $(subgrpSelector, $groupList).fadeIn(500);
-                            }
-                            function fadeOutThenIn() {
-                                $hideItems.fadeOut(500, fadeIn);
-                            }
-                            if ($hideItems.length > 0) {
-                                fadeOutThenIn();
-                            } else {
-                                fadeIn();
-                            }
-                            $btn.addClass('active');
-                            activeSubGrp = newActiveGrp;
-                            window.location.hash = newActiveGrp;
-                        }());
+                function toggleActive(newActiveGrp, $btn) {
+                    if (isEmpty(newActiveGrp)) {
+                        newActiveGrp = 'ALL';
                     }
-                    /*
-                    $btns.each(function(){
-                        var $btn = $(this)
-                          , active = $btn.hasClass('active')
-                          , label = $btn.data('label')
-                        ;
-                        $btn.html('<span></span> ' + label);
-                    });
-                    */
+                    $btn = $btn || $("#vd-subgrp-" + newActiveGrp);
+
+                    var subgrpSelector = '.vd-subgrp-' + newActiveGrp,
+                        $hideItems = $items.not(subgrpSelector);
+                    // set on --> all others off
+                    $btns.removeClass('active');
+                    (function () {
+                        function fadeIn() {
+                            $(subgrpSelector, $groupList).fadeIn(500);
+                        }
+                        function fadeOutThenIn() {
+                            $hideItems.fadeOut(500, fadeIn);
+                        }
+                        if ($hideItems.length > 0) {
+                            fadeOutThenIn();
+                        } else {
+                            fadeIn();
+                        }
+                        $btn.addClass('active');
+                        activeSubGrp = newActiveGrp;
+                        window.location.hash = newActiveGrp;
+                    }());
+
                     return false;
                 }
-                Object.keys(subGrpCnts).forEach(function (subgrp) {
-                    var cnt = subGrpCnts[subgrp],
-                        $check = $("<input type='checkbox' autocomplete='off' checked>"),
-                        $btn = $("<label id='vd-subgrp-btn-" + subgrp + "' class='btn btn-default active' ></label>"),
-                        label = "<span class='glyphicon'></span> " + subgrp + " (" + cnt + ")";
 
-                    $btn.append($check).append(label).data('label', label);
+                function addBtn(subgrp, label, cnt) {
+                    var $btn = $('<li id="vd-subgrp-' + subgrp +
+                                 '"><a href="#' + subgrp + '">' + label + ' [' + cnt + ']</a></li>');
 
                     $btns = $btns.add($btn);
 
-                    $btn.click(function () { return toggleActive(true, subgrp, $btn); });
+                    $btn.click(function () { return toggleActive(subgrp, $btn); });
                     $btnGrp.append($btn);
+                }
+
+                addBtn('ALL', TRANSL.dict.all, allCnt);
+                Object.keys(subGrpCnts).forEach(function (subgrp) {
+                    var cnt = subGrpCnts[subgrp];
+                    addBtn(subgrp, subgrp, cnt);
                 });
 
-                $groupList.before($("<div class='row hidden-sm hidden-xs'>").append($btnGrp));
+                $groupList.before(
+                    $('<div class="container vd-group-filter">').append(
+                        $('<div class="vd-group-filter-inner hidden-xs"></div').append($btnGrp)
+                    )
+                );
                 //read the fragment-identifier and call the toggleActive(grp)
                 function followHash() {
-                    if (location.hash && location.hash.length > 1) { toggleActive(false, location.hash.slice(1));  }
+                    if (location.hash && location.hash.length > 1) {
+                        toggleActive(location.hash.slice(1));
+                    } else {
+                        toggleActive();
+                    }
                 }
                 $(window).on('hashchange', followHash);
                 followHash();
