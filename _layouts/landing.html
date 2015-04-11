@@ -3,7 +3,7 @@ layout: default
 ---
 {% include layout-prelude.html %}
 
-<div class="row">
+<div>
 {% if page.insert contains 'newsfeed' == true %}
     {% assign space = 8 %}
 {% else %}
@@ -13,7 +13,7 @@ layout: default
         <div class="vd-landing-intro jumbotron">
     {{ content }}
         </div>
-        <div class="vd-landing-selection row">
+        <div class="vd-landing-selection">
     {% include select.html %}
         </div>
     </div>
