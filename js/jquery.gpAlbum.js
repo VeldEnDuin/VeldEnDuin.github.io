@@ -253,11 +253,14 @@ For more information, please refer to <http://unlicense.org/>
         jqEnableEvent($elm, 'contentUpdated');
         $(window).bind('storage', function (e) {
             // for events coming from other windows that are open and could see the update
+            /*
             window.console.log("local storage update from other window on key == " +
                                e.originalEvent.key);
+            */
             var matchResponse = me.matchCacheKey(e.originalEvent.key);
             if (matchResponse !== undefined) {
-                me.updateContent(matchResponse.id, e.originalEvent.newValue); //propagate event
+                me.updateContent(matchResponse.id,
+                                 JSON.parse(e.originalEvent.newValue)); //propagate event
             }
         });
 
