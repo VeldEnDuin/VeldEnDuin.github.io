@@ -37,7 +37,8 @@ subgroups:
 
 items:
     -
-        link:     http://bellewaerde.be/
+        link:
+            nl: http://bellewaerde.be/
         ranking:  2
         location: 50.847464, 2.950257
         images:
@@ -57,7 +58,8 @@ items:
             de:
             en:
     -
-        link:     http://brugge.be
+        link:
+            nl: http://brugge.be
         ranking:  2
         location: 51.208822, 3.224377
         images:
@@ -78,7 +80,8 @@ items:
             de:
             en:
     -
-        link:     http://oostende.be
+        link:
+            nl: http://oostende.be
         ranking:  2
         location: 51.228225, 2.915357
         images:
@@ -92,7 +95,8 @@ items:
         caption:
             nl: flaneren
     -
-        link:     http://plospaland.be
+        link:
+            nl: http://plospaland.be
         ranking:  1
         location: 51.080840, 2.598768
         images:
@@ -119,7 +123,8 @@ items:
         caption:
             nl: genieten
     -
-        link: http://www.muzee.be/
+        link:
+            nl: http://www.muzee.be/
         ranking: 3
         location: 51.225613, 2.914555
         images:

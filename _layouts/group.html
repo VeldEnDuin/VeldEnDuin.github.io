@@ -22,13 +22,14 @@ layout: default
 
 {% assign rankeditems = items | sort: 'ranking'  %}
 {% for it in rankeditems %}
-    {% assign title = it.title[pgLang] %}
+    {% assign title   = it.title[pgLang] %}
+    {% assign link    = it.link[pgLang] %}
     {% assign caption = it.caption[pgLang] %}
     <div class="vd-group-item vd-group-{{grp}}-item {{style.item}}"
          data-title      = "{{ title }}"
          data-caption    = "{{ caption }}"
          data-images     = '{{ it.images | jsonify}}'
-         data-link       = "{{ it.link  }}"
+         data-link       = "{{ link  }}"
          data-format     = "dist"
          data-location   = "{{ it.location }}"
          data-subgroups  = '{{ it.subgroups | jsonify }}'
@@ -42,8 +43,8 @@ layout: default
           <div class="vd-group-content-inner">
             <div class="vd-group-caption">{{ caption }}</div>
             <div class="vd-group-title">
-        {% if it.link %}
-              <a class="vd-link" href="{{it.link}}" target="_blank">
+        {% if link %}
+              <a class="vd-link" href="{{ link }}" target="_blank">
                 <span class="glyphicon glyphicon-new-window"></span>
                 {{ title }}
               </a>
