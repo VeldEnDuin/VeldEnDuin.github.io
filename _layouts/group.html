@@ -41,17 +41,17 @@ layout: default
         <div class="vd-group-content">
           <div class="vd-group-content-arrow"></div>
           <div class="vd-group-content-inner">
-            <div class="vd-group-caption">{{ caption }}</div>
             <div class="vd-group-title">
         {% if link %}
               <a class="vd-link" href="{{ link }}" target="_blank">
-                <span class="glyphicon glyphicon-new-window"></span>
+                <!-- <span class="glyphicon glyphicon-new-window"></span> -->
                 {{ title }}
               </a>
         {% else %}
             {{ title }}
         {% endif %}
             </div>
+            <div class="vd-group-caption">{{ caption }}</div>
         {% if it.location %}
             <div class="vd-group-info">
               <a class="vd-location" target="_blank"

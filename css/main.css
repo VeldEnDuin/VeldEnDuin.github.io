@@ -215,13 +215,14 @@ body:before {
 
 .vd-group-caption {
     text-align: center;
-    text-transform: uppercase;
-    font-size: 1.5em;
+    text-transform: capitalize;
+    font-size: 1.15em;
 }
 
 .vd-group-title {
     text-align: center;
-    font-size: 1em;
+    text-transform: uppercase;
+    font-size: 1.5em;
 }
 
 .vd-group-info {

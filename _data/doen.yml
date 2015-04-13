@@ -53,7 +53,7 @@ items:
             de:
             en:
         caption:
-            nl: roetsjen
+            nl: pretpark
             fr:
             de:
             en:
@@ -70,12 +70,12 @@ items:
             - city
             - shopping
         title:
-            nl: Brugge Die Scone
+            nl: Brugge
             fr:
             de:
             en:
         caption:
-            nl: kuieren
+            nl: Unesco Wereld Erfgoed
             fr:
             de:
             en:
@@ -91,9 +91,9 @@ items:
             - shopping
             - city
         title:
-            nl: Oostende, koningin der badsteden
+            nl: Oostende
         caption:
-            nl: flaneren
+            nl: Stad Aan Zee
     -
         link:
             nl: http://plospaland.be
@@ -107,7 +107,7 @@ items:
         title:
             nl: Plopsaland
         caption:
-            nl: plezier maken
+            nl: pretpark
     -
         ranking:  1
         location: 51.254611, 2.973002
@@ -121,7 +121,7 @@ items:
         title:
             nl: Strand
         caption:
-            nl: genieten
+            nl: zonnen
     -
         link:
             nl: http://www.muzee.be/
@@ -135,7 +135,7 @@ items:
             nl: MuZee
             fr: MuZee
         caption:
-            nl: Kunst & Cultuur
+            nl: Moderne Kunst
     -
         ranking: 5
         location: 51.257756, 2.981683
