@@ -122,29 +122,56 @@ For more information, please refer to <http://unlicense.org/>
         return uri;
     }
 
+    var NOBUILD = {};
+    function getElmForRole($container, role, elm) {
+        elm = elm || 'div';
+        role = isEmpty(role) ? 'jq.gcse' : 'jq.gcse.' + role;
+        if (isEmpty(role)) {return; }
+        var select = '[role="' + role + '"]',
+            $div = $(select, $container);
+
+        if (isEmpty($div) && elm !== NOBUILD) { // build it and add it.
+            $div = $('<' + elm + '></' + elm + '>').attr('role', role).addClass(role.replace(/\./g, '-'));
+            $container.append($div);
+        }
+        return $div;
+    }
+
     $(function () {
-        var $gcse, conf, qry, $form, $pager, $results, $input, $lang, $info, msg;
+        var $gcse, conf, qry, $clonebox, $form, $input,
+            $pager, $results, $template,
+            $info, $first, $last, $total, $time,
+            msg, $msg;
 
-
-        $gcse = $('[role="jquery.gcse"]').eq(0); // only grab the first
+        $gcse = getElmForRole($('body'), '', NOBUILD).eq(0); // only grab the first
         if (isEmpty($gcse)) { return; }
 
         qry = qryParams();
         conf = $gcse.data('gcse');
         msg = conf.msg;
 
-        $form = $("form#gcse-search").clone().attr("id", "gcse-search-clone");
+        $clonebox = getElmForRole($gcse, 'search.clone', NOBUILD);
+        if (isEmpty($clonebox)) {
+            $form = $('form[role="jq.gcse.form"]'); // don't clone it
+        } else {
+            $form = $('form[role="jq.gcse.form"]').clone().attr("role", "jq.gcse.form-clone");
+            $clonebox.append($form);
+        }
         $input = $("input[name=q]", $form);
         $input.val(qry.q);
 
-        $info = $('<div class="jq-gcse-info"></div>');
-        $pager = $('<div class="jq-gcse-pager"></div>');
-        $results = $('<div class="jq-gcse-results"><div class="alert alert-info">' + msg.wait + '</div></div>');
+        $pager = getElmForRole($gcse, 'pager');
+        $info = getElmForRole($gcse, 'info', NOBUILD).hide();
+        $time = getElmForRole($info, 'time', NOBUILD);
+        $first = getElmForRole($info, 'first', 'span');
+        $last = getElmForRole($info, 'last', 'span');
+        $total = getElmForRole($info, 'total', 'span');
 
-        $gcse.append($('<div class="col-lg-5 col-md-5 col-sm-6 col-xs-12"></div').append($form));
-        $gcse.append($('<div class="col-lg-5 col-md-5 col-sm-6 col-xs-12"></div').append($pager));
-        $gcse.append($('<div class="col-lg-2 col-md-2 hidden-sm hidden-xs"></div').append($info));
-        $gcse.append($('<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"></div').append($results));
+        $msg = getElmForRole($gcse, 'msg');
+        $msg.html('<div class="alert alert-info">' + msg.wait + '</div>');
+
+        $results = getElmForRole($gcse, 'results');
+        $template = getElmForRole($results, 'template');
 
         function updateResults(n, isPop) {
             isPop = isPop || false;
@@ -155,18 +182,26 @@ For more information, please refer to <http://unlicense.org/>
                 updateLocation(qry);
             }
 
+            // initialise
+            $msg.html('');
+            $results.html('');
+            $pager.html('');
+            $info.hide();
+
+
             if (isEmpty(qry.q)) {
-                $results.html('<div class="alert alert-primary">' + msg.use + '<div>');
+                $msg.html('<div class="alert alert-primary">' + msg.use + '<div>');
             } else {
                 $.getJSON(getAPIUri(qry, conf), function (response) {
-                    var info = "", results = "", pager = "",
+                    var results = "", pager = "",
                         infoSet = response.searchInformation,
                         request = response.queries.request[0],
                         pageStart = 1, pageNum = 1, active, activeNum,
                         prevStart, nextStart, last, activeEnd, size = 10;
 
-                    if (Number(infoSet.totalResults) > 0 && !isEmpty(response.items)) {
-
+                    if (Number(infoSet.totalResults) === 0 || isEmpty(response.items)) {
+                        $msg.html('<div class="alert alert-warning">' + msg.empty + " '" + qry.q + "'<div>");
+                    } else {
                         /*--------------- pager --------------*/
                         last = request.totalResults;
                         active = request.startIndex;
@@ -201,57 +236,47 @@ For more information, please refer to <http://unlicense.org/>
                         pager += '><a data-start="' + nextStart + '" href="#" aria-label="Next"><span aria-hidden="true">&raquo;</span></a></li>';
                         pager += '</ul></nav>';
 
-                        /*--------------- info ---------------*/
-                        info += '<div class="label label-success">';
-                        info += '<span class="fa fa-info-circle"></span>|';
-                        info += '<span class="jq-gcse-time"><span class="fa fa-clock-o"></span> ' +
-                            infoSet.formattedSearchTime + 's</span>|';
-                        info += '<span class="jq-gcse-nums">' + active + ' <span class="fa fa-arrows-h"></span> ' +
-                            activeEnd + '</span>|';
-                        info += '<span class="jq-gcse-count"><span class="fa fa-arrows-v"></span> ' +
-                            infoSet.formattedTotalResults + ' </span>';
-                        info += '</div>';
+                        $pager.html(pager);
+                        $('li', $pager).not('[class*="disabled"]').children('a').each(function () {
+                            var $a = $(this);
+                            $a.click(function () {
+                                updateResults($a.data('start'));
+                                return false;
+                            });
+                        });
 
+                        /*--------------- info ---------------*/
+                        $time.html(infoSet.formattedSearchTime);
+                        $first.html(active);
+                        $last.html(activeEnd);
+                        $total.html(infoSet.formattedTotalResults);
+                        $info.show();
 
                         /*--------------- items --------------*/
                         response.items.forEach(function (item) {
-                            var res = "", tmb;
+                            var $res, $title, $link, $snippet, $img, tmb;
 
-                            res += '<div class="row jq-gcse-result"><div class="jq-gcse-result-inner">';
+                            $res = $template.clone();
+                            $title = getElmForRole($res, 'title');
+                            $link = getElmForRole($res, 'link');
+                            $snippet = getElmForRole($res, 'snippet');
+                            $img = getElmForRole($res, 'img', NOBUILD);
 
-                            res += '<div class="col-lg-5 col-md-5 col-sm-6 col-xs-6"><a href="' +
-                                item.link + '">';
-                            res += '<div class="jq-gcse-title">' + item.htmlTitle + '</div>';
-                            res += '<div class="jq-gcse-url">' + item.formattedUrl + '</div>';
-                            res += '</a></div>';
-                            res += '<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 jq-gcse-snippet">' +
-                                item.htmlSnippet + '</div>';
+                            $title.html('<a href="' + item.link + '">' + item.htmlTitle + '</a>');
+                            $link.html('<a href="' + item.link + '">' + item.formattedUrl + '</a>');
+                            $snippet.html(item.htmlSnippet);
 
-                            if (!isEmpty(item.pagemap) && !isEmpty(item.pagemap.cse_thumbnail)) {
+                            if (isEmpty($img) || isEmpty(item.pagemap) || isEmpty(item.pagemap.cse_thumbnail)) {
+                                $img.hide();
+                            } else {
                                 tmb = item.pagemap.cse_thumbnail[0];
-
-                                res += '<div class="col-lg-1 col-md-1 hidden-sm hidden-xs jq-gcse-thumbnail">' +
-                                    '<img class="img-responsive img-thumbnail" src="' +
-                                    tmb.src + '" height="' + tmb.height + '" width="' + tmb.width + '" ></div>';
+                                $img.html('<img class="img-responsive img-thumbnail" src="' +
+                                    tmb.src + '" height="' + tmb.height + '" width="' + tmb.width + '" >');
                             }
 
-                            res += '</div></div>';
-                            results += res;
+                            $results.append($res.show());
                         });
-                    } else {
-                        results = '<div class="alert alert-warning">' + msg.empty + " '" + qry.q + "'<div>";
                     }
-
-                    $info.html(info);
-                    $pager.html(pager);
-                    $('li', $pager).not('[class*="disabled"]').children('a').each(function () {
-                        var $a = $(this);
-                        $a.click(function () {
-                            updateResults($a.data('start'));
-                            return false;
-                        });
-                    });
-                    $results.html(results);
                 });
             }
         }
