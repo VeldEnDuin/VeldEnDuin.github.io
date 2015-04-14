@@ -139,7 +139,7 @@ For more information, please refer to <http://unlicense.org/>
 
     $(function () {
         var $gcse, conf, qry, $clonebox, $form, $input,
-            $pager, $results, $template,
+            $pager, $results, $template, striplink, stripRE,
             $info, $first, $last, $total, $time,
             msg, $msg;
 
@@ -149,8 +149,22 @@ For more information, please refer to <http://unlicense.org/>
         qry = qryParams();
         conf = $gcse.data('gcse');
         msg = conf.msg;
+        striplink = conf.striplink;
+        if (!isEmpty(striplink)) {
+            stripRE = new RegExp(striplink);
+        }
 
+        $msg = getElmForRole($gcse, 'msg');
+        $msg.html('<div class="alert alert-info">' + msg.wait + '</div>');
+
+        $pager = getElmForRole($gcse, 'pager');
+        $info = getElmForRole($gcse, 'info', NOBUILD).hide();
+        $time = getElmForRole($info, 'time', NOBUILD);
+        $first = getElmForRole($info, 'first', 'span');
+        $last = getElmForRole($info, 'last', 'span');
+        $total = getElmForRole($info, 'total', 'span');
         $clonebox = getElmForRole($gcse, 'search.clone', NOBUILD);
+
         if (isEmpty($clonebox)) {
             $form = $('form[role="jq.gcse.form"]'); // don't clone it
         } else {
@@ -160,18 +174,8 @@ For more information, please refer to <http://unlicense.org/>
         $input = $("input[name=q]", $form);
         $input.val(qry.q);
 
-        $pager = getElmForRole($gcse, 'pager');
-        $info = getElmForRole($gcse, 'info', NOBUILD).hide();
-        $time = getElmForRole($info, 'time', NOBUILD);
-        $first = getElmForRole($info, 'first', 'span');
-        $last = getElmForRole($info, 'last', 'span');
-        $total = getElmForRole($info, 'total', 'span');
-
-        $msg = getElmForRole($gcse, 'msg');
-        $msg.html('<div class="alert alert-info">' + msg.wait + '</div>');
-
         $results = getElmForRole($gcse, 'results');
-        $template = getElmForRole($results, 'template');
+        $template = getElmForRole($results, 'template').hide();
 
         function updateResults(n, isPop) {
             isPop = isPop || false;
@@ -254,7 +258,7 @@ For more information, please refer to <http://unlicense.org/>
 
                         /*--------------- items --------------*/
                         response.items.forEach(function (item) {
-                            var $res, $title, $link, $snippet, $img, tmb;
+                            var $res, $title, $link, url, $snippet, $img, tmb;
 
                             $res = $template.clone();
                             $title = getElmForRole($res, 'title');
@@ -262,8 +266,13 @@ For more information, please refer to <http://unlicense.org/>
                             $snippet = getElmForRole($res, 'snippet');
                             $img = getElmForRole($res, 'img', NOBUILD);
 
+                            url = item.formattedUrl;
+                            if (stripRE) {
+                                url = url.replace(stripRE, '');
+                            }
+
                             $title.html('<a href="' + item.link + '">' + item.htmlTitle + '</a>');
-                            $link.html('<a href="' + item.link + '">' + item.formattedUrl + '</a>');
+                            $link.html('<a href="' + item.link + '">' + url + '</a>');
                             $snippet.html(item.htmlSnippet);
 
                             if (isEmpty($img) || isEmpty(item.pagemap) || isEmpty(item.pagemap.cse_thumbnail)) {
