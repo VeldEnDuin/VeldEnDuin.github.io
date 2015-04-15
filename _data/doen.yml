@@ -1,149 +1,55 @@
 class:
-    list:
-    item: col-lg-3 col-md-4 col-sm-6 col-xs-12
-subgroups:
-    nl:
-        daytrip:  daguitstap
-        event:    evenement
-        kids:     kinderen
-        shopping: winkelen
-        museum:   museum
-        coast:    zon, zee, strand
-        city:     stadsbezoek
-    fr:
-        daytrip:  (todo fr) sejour
-        event:    (todo fr) évenement
-        kids:     (todo fr) enfants
-        shopping: (todo fr) le shopping
-        museum:   (todo fr) museum
-        coast:    (todo fr) beach
-        city:     (todo fr) city
-    de:
-        daytrip:  (todo de) tagesausflüge
-        event:    (todo de) reeignis
-        kids:     (todo de) kinder
-        shopping: (todo de) shopping
-        museum:   (todo de) museum
-        coast:    (todo fr) beach
-        city:     (todo fr) city
-    en:
-        daytrip:  daytrips
-        event:    events
-        kids:     kids
-        shopping: shopping
-        museum:   museum
-        coast:    (todo fr) beach
-        city:     (todo fr) city
-
+    list: ""
+    item: 'col-lg-3 col-md-4 col-sm-6 col-xs-12'
 items:
-    -
-        link:
-            nl: http://bellewaerde.be/
-        ranking:  2
-        location: 50.847464, 2.950257
-        images:
-            - /img/activity/bellewaerde-roetsjbaan.jpg
-        subgroups:
-            - daytrip
-            - event
-            - kids
-        title:
-            nl: Bellewaerde
-            fr:
-            de:
-            en:
-        caption:
-            nl: pretpark
-            fr:
-            de:
-            en:
-    -
-        link:
-            nl: http://brugge.be
-        ranking:  2
-        location: 51.208822, 3.224377
-        images:
-            - /img/activity/brugge-canal-middle-shot.jpg
-            - /img/activity/brugge-bynight.jpg
-        subgroups:
-            - daytrip
-            - city
-            - shopping
-        title:
-            nl: Brugge
-            fr:
-            de:
-            en:
-        caption:
-            nl: Unesco Wereld Erfgoed
-            fr:
-            de:
-            en:
-    -
-        link:
-            nl: http://oostende.be
-        ranking:  2
-        location: 51.228225, 2.915357
-        images:
-            - /img/activity/oostende-station.jpg
-        subgroups:
-            - daytrip
-            - shopping
-            - city
-        title:
-            nl: Oostende
-        caption:
-            nl: Stad Aan Zee
-    -
-        link:
-            nl: http://plospaland.be
-        ranking:  1
-        location: 51.080840, 2.598768
-        images:
-            - /img/activity/plopsaland-maya.jpg
-        subgroups:
-            - daytrip
-            - kids
-        title:
-            nl: Plopsaland
-        caption:
-            nl: pretpark
-    -
-        ranking:  1
-        location: 51.254611, 2.973002
-        images:
-            - /img/activity/strand-bredene-verdwaalpaal.jpg
-            - /img/activity/strand-bredene-kinderen.jpg
-        subgroups:
-            - daytrip
-            - coast
-            - kids
-        title:
-            nl: Strand
-        caption:
-            nl: zonnen
-    -
-        link:
-            nl: http://www.muzee.be/
-        ranking: 3
-        location: 51.225613, 2.914555
-        images:
-            - /img/activity/oostende-muzee.jpg
-        subgroups:
-            - museum
-        title:
-            nl: MuZee
-            fr: MuZee
-        caption:
-            nl: Moderne Kunst
-    -
-        ranking: 5
-        location: 51.257756, 2.981683
-        images:
-            - /img/activity/bredene-naaktstrand.jpg
-        subgroups:
-            - coast
-        title:
-            nl: Naakstrand
-        caption:
-            nl: Naturisme
+    - {ranking: '10', location: '51.252266, 2.975109', subgroups: [cult], images: [/img/doen/bre-cc-stafversl-0.jpg], link: {nl: 'http://www.stafversluys-centrum.be/nl/', fr: 'http://www.stafversluys-centrum.be/fr/', de: 'http://www.stafversluys-centrum.be/de/', en: 'http://www.stafversluys-centrum.be/en/'}, title: {nl: 'Staf Versluyscentrum', fr: "", de: "", en: ""}, caption: {nl: 'meeting en eventcentrum - Bredene', fr: "", de: "", en: ""}}
+    - {ranking: '39', location: '51.230606, 2.915692', subgroups: [cult], images: [/img/doen/ost-cc-post-0.jpg], link: {nl: 'http://www.degrotepost.be/', fr: 'http://www.degrotepost.be/', de: 'http://www.degrotepost.be/', en: 'http://www.degrotepost.be/'}, title: {nl: 'De Grote Post', fr: "", de: "", en: ""}, caption: {nl: 'cultuurhuis - Oostende', fr: "", de: "", en: ""}}
+    - {ranking: '15', location: "", subgroups: [cult], images: [/img/doen/flandersfields-0.jpg], link: {nl: 'http://www.flandersfields.be/nl', fr: 'http://www.flandersfields.be/fr', de: 'http://www.flandersfields.be/de', en: 'http://www.flandersfields.be/en'}, title: {nl: '100 jaar Groote Oorlog', fr: "", de: "", en: ""}, caption: {nl: 'herdenking WO I', fr: "", de: "", en: ""}}
+    - {ranking: '48', location: '50.851692, 2.885478', subgroups: [cult], images: [/img/doen/iffm-0.jpg], link: {nl: 'http://www.inflandersfields.be/nl', fr: 'http://www.inflandersfields.be/fr', de: 'http://www.inflandersfields.be/de', en: 'http://www.inflandersfields.be/en'}, title: {nl: 'In Flanders Fields', fr: "", de: "", en: ""}, caption: {nl: 'museum WO I - Ieper', fr: "", de: "", en: ""}}
+    - {ranking: '32', location: '51.239829, 2.934340', subgroups: [cult, city], images: [/img/doen/ost-fortnapoleon-0.jpg], link: {nl: 'http://www.fortnapoleon.be/nl/', fr: 'http://www.fortnapoleon.be/fr/', de: 'http://www.fortnapoleon.be/fr/', en: 'http://www.fortnapoleon.be/fr/'}, title: {nl: 'Fort Napoleon', fr: "", de: "", en: ""}, caption: {nl: 'militair fort - Oostende', fr: "", de: "", en: ""}}
+    - {ranking: '19', location: '51.226366, 2.914577', subgroups: [cult, city], images: [/img/doen/ost-muzee-0.jpg], link: {nl: 'http://www.muzee.be/', fr: 'http://www.muzee.be/?null&lang=fr', de: 'http://www.muzee.be/?null&lang=de', en: 'http://www.muzee.be/?null&lang=en'}, title: {nl: MuZee, fr: "", de: "", en: ""}, caption: {nl: 'kunstmuseum voor Belgische kunst - Oostende', fr: "", de: "", en: ""}}
+    - {ranking: '57', location: '51.199366, 2.848961', subgroups: [cult, city], images: [/img/doen/ost-atl-wall-0.jpg], link: {nl: 'http://www.raversyde.be/', fr: 'http://www.raversyde.be/fr', de: 'http://www.raversyde.be/de', en: 'http://www.raversyde.be/en'}, title: {nl: 'Provinciedomein Raversyde', fr: "", de: "", en: ""}, caption: {nl: 'Atlanticwall - Oostende', fr: "", de: "", en: ""}}
+    - {ranking: '23', location: '51.226279, 3.224892', subgroups: [cult, city], images: [/img/doen/brugge-0.jpg], link: {nl: 'https://bezoekers.brugge.be/', fr: 'https://bezoekers.brugge.be/fr', de: 'https://bezoekers.brugge.be/de', en: 'https://bezoekers.brugge.be/en'}, title: {nl: 'Historisch Brugge', fr: "", de: "", en: ""}, caption: {nl: 'Unesco Werelderfgoedstad', fr: "", de: "", en: ""}}
+    - {ranking: '65', location: '51.136871, 2.755682', subgroups: [cult, city], images: [/img/doen/nprt-ganzepoot-0.jpg], link: {nl: 'http://visit-nieuwpoort.be/nl/de-groote-oorlog/bezoekerscentrum', fr: 'http://www.nieuwpoort.be/nieuwpoort/view/fr/nieuwpoort/tourisme', de: 'http://www.nieuwpoort.be/nieuwpoort/view/de/nieuwpoort/tourismus', en: 'http://www.nieuwpoort.be/nieuwpoort/view/en/nieuwpoort/tourism'}, title: {nl: 'Westfront Nieuwpoort', fr: "", de: "", en: ""}, caption: {nl: 'sluizencomplex Ganzepoot', fr: "", de: "", en: ""}}
+    - {ranking: '4', location: '51.252213, 2.974759', subgroups: [event], images: [/img/doen/bre-afroc-0.jpg], link: {nl: 'http://www.afrocaribbean.be/', fr: "", de: "", en: ""}, title: {nl: 'Afro C Festival Bredene', fr: "", de: "", en: ""}, caption: {nl: 'gratis wereldmuziekfestival - 7+8/8', fr: "", de: "", en: ""}}
+    - {ranking: '14', location: '51.231234, 2.913555', subgroups: [event], images: [/img/doen/ost-taz-0.jpg], link: {nl: 'http://theateraanzee.be/nl/', fr: 'http://theateraanzee.be/fr/', de: "", en: 'http://theateraanzee.be/en/'}, title: {nl: 'Theater aan Zee', fr: "", de: "", en: ""}, caption: {nl: 'theaterfestival Oostende - 30/7-8/8', fr: "", de: "", en: ""}}
+    - {ranking: '33', location: '51.278736, 3.034791', subgroups: [event], images: [/img/doen/dhn-trammelant-0.jpg], link: {nl: "", fr: 'http://www.visitdehaan.be/fr/faire/evenements/trammelant/1487/', de: 'http://www.visitdehaan.be/de/erleben/veranstaltungen/trammelant/1487/', en: 'http://www.visitdehaan.be/en/experience/events/trammelant/1487/'}, title: {nl: 'Trammelant ', fr: "", de: "", en: ""}, caption: {nl: 'Belle Epoquefeest - De Haan', fr: "", de: "", en: ""}}
+    - {ranking: '40', location: '51.315091, 3.131080', subgroups: [event], images: [/img/doen/blk-corso-0.jpg], link: {nl: 'http://www.bloemencorso-blankenberge.be/#!/page_SPLASH', fr: "", de: "", en: ""}, title: {nl: Bloemencorso, fr: "", de: "", en: ""}, caption: {nl: 'stoet Blankenberge - 30/8/2015', fr: "", de: "", en: ""}}
+    - {ranking: '49', location: "", subgroups: [event], images: [/img/doen/wt-itrip-0.png], link: {nl: 'https://itrip.be/#itrip_0', fr: 'https://itrip.be/#itrip_0', de: "", en: 'https://itrip.be/#itrip_0'}, title: {nl: Itrip, fr: "", de: "", en: ""}, caption: {nl: reisplanner, fr: "", de: "", en: ""}}
+    - {ranking: '58', location: "", subgroups: [event], images: [/img/doen/cnet-uit-0.png], link: {nl: 'http://www.uitinvlaanderen.be/', fr: "", de: "", en: ""}, title: {nl: 'Uit in Vlaanderen', fr: "", de: "", en: ""}, caption: {nl: 'overzicht evenementen Vlaanderen', fr: "", de: "", en: ""}}
+    - {ranking: '25', location: '51.318481, 3.146007', subgroups: [kids], images: [/img/doen/blk-sealife-0.jpg], link: {nl: 'https://www.visitsealife.com/blankenberge/', fr: 'https://www.visitsealife.com/blankenberge/', de: 'https://www.visitsealife.com/blankenberge/de/', en: 'https://www.visitsealife.com/blankenberge/en/'}, title: {nl: 'Sealife Blankenberge', fr: "", de: "", en: ""}, caption: {nl: 'attractiepark met zeedieren', fr: "", de: "", en: ""}}
+    - {ranking: '3', location: '51.255308, 3.007239', subgroups: [kids], images: [/img/doen/dhn-sierk-0.jpg], link: {nl: 'http://www.desierk.be/nl/index.html', fr: "", de: "", en: ""}, title: {nl: 'De Sierk', fr: "", de: "", en: ""}, caption: {nl: 'themaspeelterrein - De Haan', fr: "", de: "", en: ""}}
+    - {ranking: '34', location: '51.181855, 3.214026', subgroups: [kids], images: [/img/doen/brg-boudewijn-0.jpg], link: {nl: 'http://www.boudewijnseapark.be/', fr: 'http://www.boudewijnseapark.be/fr/', de: "", en: ""}, title: {nl: 'Bouwewijn Seapark', fr: "", de: "", en: ""}, caption: {nl: 'dolfinarium - Brugge', fr: "", de: "", en: ""}}
+    - {ranking: '50', location: '51.238518, 2.939241', subgroups: [kids], images: [/img/doen/ost-explorado-0.jpg], link: {nl: 'http://www.explorado-oostende.be/', fr: 'http://www.explorado-oostende.be/?lang=fr', de: 'http://www.explorado-oostende.be/?lang=de', en: 'http://www.explorado-oostende.be/?lang=en'}, title: {nl: Explorado, fr: "", de: "", en: ""}, caption: {nl: 'avonturen-en kennispark Oostende', fr: "", de: "", en: ""}}
+    - {ranking: '59', location: '51.206802, 2.907028', subgroups: [kids], images: [/img/doen/speeltuin-0.jpg], link: {nl: 'http://bowlingpaleis.be/oostende/speelpaleis/', fr: "", de: "", en: ""}, title: {nl: 'speelpaleis Oostende', fr: "", de: "", en: ""}, caption: {nl: binnenspeeltuin, fr: "", de: "", en: ""}}
+    - {ranking: '16', location: '51.080998, 2.598774', subgroups: [kids], images: [/img/doen/dpn-plopsa-0.jpg], link: {nl: 'http://www.plopsa.be/plopsaland-de-panne/', fr: 'http://www.plopsa.be/plopsaland-de-panne/fr', de: 'http://www.plopsa.be/plopsaland-de-panne/de', en: 'http://www.plopsa.be/plopsaland-de-panne/en'}, title: {nl: 'Plopsaland ', fr: "", de: "", en: ""}, caption: {nl: 'pretpark De Panne', fr: "", de: "", en: ""}}
+    - {ranking: '60', location: '50.845818, 2.950622', subgroups: [kids], images: [/img/doen/iep-bellewaerde-0.jpg], link: {nl: 'http://www.bellewaerde.be/nl', fr: 'http://www.bellewaerde.be/fr', de: "", en: 'http://www.bellewaerde.be/en'}, title: {nl: Bellewaerde, fr: "", de: "", en: ""}, caption: {nl: 'pretpark Ieper', fr: "", de: "", en: ""}}
+    - {ranking: '9', location: "", subgroups: [coast], images: [/img/doen/ost-raveel-0.jpg], link: {nl: 'http://www.visitoostende.be/nl/in-oostende/gratis-overzet-visserskaai-oosteroever/286', fr: 'http://www.visitoostende.be/fr', de: 'http://www.visitoostende.be/de', en: 'http://www.visitoostende.be/en'}, title: {nl: 'veerverbinding Oostende', fr: "", de: "", en: ""}, caption: {nl: 'gratis overzetboot wester-oosteroever', fr: "", de: "", en: ""}}
+    - {ranking: '20', location: "", subgroups: [coast], images: [/img/doen/bre-naakt-0.jpg], link: {nl: 'http://uitinbredene.be/index.asp?pid=19', fr: 'http://uitinbredene.be/index.asp?pid=19&lang=FR', de: 'http://uitinbredene.be/index.asp?pid=19&lang=DE', en: ""}, title: {nl: 'naaktstrand Bredene', fr: "", de: "", en: ""}, caption: {nl: naaktrecreatie, fr: "", de: "", en: ""}}
+    - {ranking: '13', location: "", subgroups: [coast], images: [/img/doen/ost-boot-0.jpg], link: {nl: 'http://www.visitoostende.be/nl/in-oostende/boottochten/133', fr: 'http://www.visitoostende.be/fr', de: 'http://www.visitoostende.be/de', en: 'http://www.visitoostende.be/en'}, title: {nl: boottochten, fr: "", de: "", en: ""}, caption: {nl: 'ontdek de kust vanop zee', fr: "", de: "", en: ""}}
+    - {ranking: '42', location: "", subgroups: [coast], images: [/img/doen/ost-vissen-0.jpg], link: {nl: 'http://www.visitoostende.be/nl/in-oostende/vissen-op-zee/132', fr: 'http://www.visitoostende.be/fr', de: 'http://www.visitoostende.be/de', en: 'http://www.visitoostende.be/en'}, title: {nl: 'vissen op zee', fr: "", de: "", en: ""}, caption: {nl: 'vang uw eigen avondmaal', fr: "", de: "", en: ""}}
+    - {ranking: '29', location: "", subgroups: [coast], images: [/img/doen/nieuw-stak-0.jpg], link: {nl: "", fr: "", de: "", en: ""}, title: {nl: 'staketsel Nieuwpoort', fr: "", de: "", en: ""}, caption: {nl: 'wandelen en zeehengelen', fr: "", de: "", en: ""}}
+    - {ranking: '51', location: "", subgroups: [coast], images: [/img/doen/blan-pier-0.jpg], link: {nl: "", fr: "", de: "", en: ""}, title: {nl: 'pier Blankenberge', fr: "", de: "", en: ""}, caption: {nl: 'tentoonstelling Storms', fr: "", de: "", en: ""}}
+    - {ranking: '24', location: "", subgroups: [coast], images: [/img/doen/kust-tram-0.jpg], link: {nl: 'https://www.delijn.be/nl/kusttram/index.html', fr: 'https://www.delijn.be/fr/kusttram/index.html', de: 'https://www.delijn.be/de/kusttram/index.html?vertaling=true', en: 'https://www.delijn.be/en/kusttram/index.html?vertaling=true'}, title: {nl: kusttram, fr: "", de: "", en: ""}, caption: {nl: 'het ideale kustvervoermiddel', fr: "", de: "", en: ""}}
+    - {ranking: '35', location: '51.233715, 2.922228', subgroups: [coast, city], images: [/img/doen/ost-trap-0.jpg], link: {nl: 'http://www.visitoostende.be/nl/shoppen/vistrap/2872', fr: 'http://www.visitoostende.be/fr', de: 'http://www.visitoostende.be/de', en: 'http://www.visitoostende.be/en'}, title: {nl: 'vistrap Oostende', fr: "", de: "", en: ""}, caption: {nl: 'pittoreske vismarkt', fr: "", de: "", en: ""}}
+    - {ranking: '52', location: "", subgroups: [recrea], images: [/img/doen/wt-wandelen-0.jpg], link: {nl: 'http://www.wandelknooppunt.be/wandelnetwerk.aspx?kaart=kustwandelroute', fr: "", de: "", en: ""}, title: {nl: kustwandelroute, fr: "", de: "", en: ""}, caption: {nl: 'wandelnetwerk aan zee', fr: "", de: "", en: ""}}
+    - {ranking: '5', location: "", subgroups: [recrea], images: [/img/doen/wt-fietsen-0.jpg], link: {nl: 'http://www.fietsnet.be/routeplanner/default.aspx', fr: "", de: "", en: ""}, title: {nl: fietsroutenetwerk, fr: "", de: "", en: ""}, caption: {nl: 'stel zelf uw fietsroute samen', fr: "", de: "", en: ""}}
+    - {ranking: '30', location: '51.247020, 2.952719', subgroups: [recrea], images: [/img/doen/bre-surf-0.jpg], link: {nl: 'http://www.twinsclub.be/', fr: "", de: "", en: ""}, title: {nl: '(golf) surfen', fr: "", de: "", en: ""}, caption: {nl: 'sportief op zee', fr: "", de: "", en: ""}}
+    - {ranking: '21', location: "", subgroups: [recrea], images: [/img/doen/kust-markt-0.jpg], link: {nl: 'http://www.dekust.be/proeven/markten', fr: 'http://www.lelittoral.be/se-regaler/savourez-le-littoral/march%C3%A9s', de: 'http://www.belgischekueste.be/Markte', en: 'http://www.belgiancoast.co.uk/markets'}, title: {nl: (avond)markten, fr: "", de: "", en: ""}, caption: {nl: 'gezellig rondsnuisteren', fr: "", de: "", en: ""}}
+    - {ranking: '43', location: "", subgroups: [recrea], images: [/img/doen/paard-0.jpg], link: {nl: 'http://www.uitinbredene.be/index.asp?pid=33', fr: 'http://www.uitinbredene.be/index.asp?pid=33&lang=FR', de: 'http://www.uitinbredene.be/index.asp?pid=33&lang=DE', en: ""}, title: {nl: paardrijden, fr: "", de: "", en: ""}, caption: {nl: 'maneges en diverse ruiterroutes', fr: "", de: "", en: ""}}
+    - {ranking: '61', location: "", subgroups: [recrea], images: [/img/doen/zwem-0.jpg], link: {nl: 'http://www.bredene.be/diensten.asp?pid=30/http: / /www.oostende.be/zwembad', fr: 'http://www.uitinbredene.be/index.asp?pid=33&lang=FR/http://www.visitoostende.be/fr/faire/piscine-municipale/242#.VS5YSo6uPMU', de: 'http://www.uitinbredene.be/index.asp?pid=33&lang=DE/http://www.visitoostende.be/de/erleben/stadtisches-schwimmbad/242#.VS5YcY6uPMU', en: 'http://www.visitoostende.be/en/do/municipal-swimming-pool/242#.VS5YkI6uPMU'}, title: {nl: zwemmen, fr: "", de: "", en: ""}, caption: {nl: 'zwembaden in Bredene en Oostende', fr: "", de: "", en: ""}}
+    - {ranking: '41', location: "", subgroups: [recrea], images: [/img/doen/bre-polder-0.jpg], link: {nl: "", fr: "", de: "", en: ""}, title: {nl: 'Bredense polder', fr: "", de: "", en: ""}, caption: {nl: 'uitvalsbasis voor  fietsers en wandelaars', fr: "", de: "", en: ""}}
+    - {ranking: '11', location: "", subgroups: [recrea], images: [/img/doen/bre-grasduinen-0.jpg], link: {nl: 'http://www.bredene.be/artikel2011.asp?id=4567', fr: "", de: "", en: ""}, title: {nl: 'Grasduinen Bredene', fr: "", de: "", en: ""}, caption: {nl: recreatiedomein, fr: "", de: "", en: ""}}
+    - {ranking: '31', location: "", subgroups: [recrea], images: [/img/doen/dhn-dheye-0.jpg], link: {nl: 'http://www.natuurenbos.be/nl-BE/domeinen/west-vlaanderen/DHeye#.VS5YyI6uPMU', fr: "", de: "", en: ""}, title: {nl: 'natuurreservaat D''Heye ', fr: "", de: "", en: ""}, caption: {nl: 'begeleide wandelingen met gids', fr: "", de: "", en: ""}}
+    - {ranking: '53', location: "", subgroups: [recrea], images: [/img/doen/knk-zwin-0.jpg], link: {nl: 'http://www.knokke-heist.info/ontspanning/natuur/15', fr: 'http://www.knokke-heist.info/ontspanning/natuur/15?lang=fr', de: 'http://www.knokke-heist.info/ontspanning/natuur/15?lang=de', en: 'http://www.knokke-heist.info/ontspanning/natuur/15?lang=en'}, title: {nl: Zwinvlakte, fr: "", de: "", en: ""}, caption: {nl: 'natuurgebied Knokke', fr: "", de: "", en: ""}}
+    - {ranking: '37', location: "", subgroups: [recrea], images: [/img/doen/dhn-duinbos-0.jpg], link: {nl: 'http://www.natuurenbos.be/nl-BE/domeinen/west-vlaanderen/Duinbossen_van_De_Haan#.VS5ZZY6uPMU', fr: "", de: "", en: ""}, title: {nl: Duinbossen, fr: "", de: "", en: ""}, caption: {nl: 'bosstrook van Vosseslag tot Wenduine', fr: "", de: "", en: ""}}
+    - {ranking: '62', location: "", subgroups: [recrea], images: [/img/doen/blk-uitkerk-0.jpg], link: {nl: 'http://www.uitkerkse-polder.be/', fr: "", de: "", en: ""}, title: {nl: 'Uitkerkse polder', fr: "", de: "", en: ""}, caption: {nl: '1400 ha authentieke kustpolder', fr: "", de: "", en: ""}}
+    - {ranking: '44', location: "", subgroups: [shop], images: [/img/doen/nprt-shop-0.jpg], link: {nl: 'http://www.nieuwpoort.be/nieuwpoort/view/nl/nieuwpoort/toerisme/ontspannen/winkelen', fr: 'http://www.nieuwpoort.be/nieuwpoort/view/fr/nieuwpoort/tourisme/detente/shopping', de: 'http://www.nieuwpoort.be/nieuwpoort/view/de/nieuwpoort/tourismus/erhohlen/einkaufen', en: ""}, title: {nl: 'shopping Nieuwpoort', fr: "", de: "", en: ""}, caption: {nl: 'exclusieve en trendy boetieks', fr: "", de: "", en: ""}}
+    - {ranking: '63', location: "", subgroups: [shop], images: [/img/doen/knk-shop-0.jpg], link: {nl: "", fr: "", de: "", en: ""}, title: {nl: 'shopping Knokke', fr: "", de: "", en: ""}, caption: {nl: 'ook open op zondag', fr: "", de: "", en: ""}}
+    - {ranking: '12', location: "", subgroups: [city], images: [/img/doen/gent-0.jpg], link: {nl: "", fr: "", de: "", en: ""}, title: {nl: Gent, fr: "", de: "", en: ""}, caption: {nl: 'levendige studentenstad', fr: "", de: "", en: ""}}
+    - {ranking: '27', location: "", subgroups: [city, out], images: [/img/doen/ost-wellington-0.jpg], link: {nl: "", fr: "", de: "", en: ""}, title: {nl: 'Wellington Hippodroom', fr: "", de: "", en: ""}, caption: {nl: 'draf-en galopkoersen Oostende', fr: "", de: "", en: ""}}
+subgroups:
+    nl: {coast: kustbeleving, city: stadsbezoek, cult: cutluur, kids: kinderen, shop: winkelen, recrea: recreatie, out: uitgaan, event: evenement}
+    fr: {}
+    de: {}
+    en: {}

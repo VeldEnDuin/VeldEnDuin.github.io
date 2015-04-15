@@ -19,7 +19,7 @@
      * =======================================================================
      */
     function parseLatLon(geom) {
-        if (!geom) { return null; }
+        if (isEmpty(geom)) { return null; }
         var parts = geom.replace(/\s+/gi, '').split(',');
         return {
             "lat" : parts[0],
@@ -156,7 +156,9 @@
                  */
                 itemGeo = parseLatLon($item.data('location'));
                 itemFmt = $item.data('format') || "full";
-                itemDsp = calculateDisplacement(geo, itemGeo, itemFmt);
+                if (!isEmpty(itemGeo)) {
+                    itemDsp = calculateDisplacement(geo, itemGeo, itemFmt);
+                }
 
                 $item.data('geo', itemGeo);
                 if (itemDsp) {
