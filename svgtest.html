@@ -1,0 +1,70 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="/css/bootstrap.css">
+
+    <script type="text/javascript" src="/js/jquery-2.1.3.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.svg.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.svgdom.min.js"></script>
+
+    <script type="text/javascript">
+// TODO interactive SVG
+// http://tympanus.net/Tutorials/InteractiveSVG/
+
+// or use jquery-svg
+// http://keith-wood.name/svg.html
+(function ($) {
+    $(function () {
+        var $scene = $("#scene"), $map, $locById = {},
+            svgData = $scene.data('svg'),
+            href = svgData.href,
+            clrs = ["#569f98", "#e8b64f", "#c6362e"],
+            ndx = 0, $btn;
+
+
+        function svgLoaded ($svg, error){
+            if (error) {
+                $scene.html("Error during load: " + error);
+                return;
+            }
+
+            $map = $("#veldenduin", $scene);
+            $("[id]", $scene).each(function (){
+                var $loc = $(this), id = $loc.attr("id");
+                $locById[id] = $loc;
+            });
+        }
+
+        $scene.svg({ loadURL : href, settings: {addTo: false, changeSize: true}, onLoad: svgLoaded  });
+
+        $btn = $("#t1");
+        $btn.removeClass('btn-success').addClass('btn-danger');
+        $btn.click(function () {
+            ndx = (ndx + 1) % clrs.length;
+
+            var $b01 = $locById["B01"];
+            $b01.css('fill', clrs[ndx]);
+
+            $b01.animate({svgTransform: 'rotate(60, 100, 75) translate(20,40)'}, 2000);
+        });
+    });
+}(jQuery));
+    </script>
+    <style type="text/css">
+/*
+#scene path#B01 {
+    transform-origin: 177px 485px;
+}
+#scene path#B01:hover {
+    transform: scale(1) translate(0px, 0px);
+}
+*/
+    </style>
+  </head>
+
+  <body class="container">
+    <h1>svg test</h1>
+      <button class="btn btn-lg btn-success" id="t1">test #1</button>
+    <div id="scene" style="width: 1000px; height: 1000px"
+         data-svg='{"href": "/img/svg/plantest.svg"}'></div>
+  </body>
+</html>
