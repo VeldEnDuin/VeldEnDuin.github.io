@@ -9,32 +9,32 @@ layout: default
 {% else %}
     {% assign space = 12 %}
 {% endif %}
-    <div class="col-lg-{{space}} col-md-{{space}}">
-        <div class="vd-landing-intro jumbotron">
+  <div class="col-lg-{{space}} col-md-{{space}}">
+    <div class="vd-landing-intro jumbotron">
     {{ content }}
-        </div>
-        <div class="vd-landing-selection">
-    {% include select.html %}
-        </div>
     </div>
+    <div class="vd-landing-selection">
+    {% include select.html %}
+    </div>
+  </div>
 
 
 {% if page.insert contains 'newsfeed' %}
-    <div class="col-lg-4 col-md-4">
+  <div class="col-lg-4 col-md-4">
     {% include newsfeed.html %}
-    </div>
+  </div>
 {% endif %}
 </div>
 
 
 <div class="vd-landing-footer hidden-sm hidden-xs">
-    <div class="col-lg-4 col-md-4">
+  <div class="col-lg-4 col-md-4">
 {% include virtualtour-link.html %}
-    </div>
-    <div class="col-lg-3 col-md-3">
+  </div>
+  <div class="col-lg-3 col-md-3">
 {% include mailchimp-form.html %}
-    </div>
-    <div class="col-lg-4 col-md-4 col-lg-offset-1 col-md-offset-1">
+  </div>
+  <div class="col-lg-4 col-md-4 col-lg-offset-1 col-md-offset-1">
 {% include socialmedia-links.html %}
-    </div>
+  </div>
 </div>
