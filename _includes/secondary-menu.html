@@ -1,0 +1,31 @@
+<!-- 2nd level -menu -->
+{% for m1 in site.data.menu %}
+    {% if pgLink == site.data.linkcode[m1.linkcode][pgLang] %}
+        {% assign lvl1 = m1 %}
+    {% endif %}
+    {% for m2 in m1.submenu %}
+        {% if pgLink == site.data.linkcode[m2.linkcode][pgLang] %}
+            {% assign lvl1 = m1 %}
+            {% assign lvl2 = m2 %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+<div class="vd-group-filter">
+   <div class="vd-group-filter-inner">
+
+
+<ul id="submenu" class="vd-group-filter-nav nav nav-pills nav-justified" >
+{% if lvl1.submenu and lvl1.linkcode %}
+    {% for m2 in lvl1.submenu %}
+  <li {% if pgLink == site.data.linkcode[m2.linkcode][pgLang] %}class="active"{% endif %} >
+    <a href="{{ site.data.linkcode[m2.linkcode][pgLang] }}" >
+        {{ m2.item[pgLang]}}
+    </a>
+  </li>
+    {% endfor %}
+{% endif %}
+</ul>
+
+   </div>
+</div>

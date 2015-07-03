@@ -1,42 +1,11 @@
 <div class="vd-select-list {{page.class.select.list}}" id="vd-select-list">
 {% for select in page.select %}
     {% for pg in site.pages %}
-        {% if pg.url == site.data.linkcode[select][pgLang].link %}
-  <a href="{{pg.url}}">
-    <div class="vd-select-item {{page.class.select.item}}">
-      <div class="vd-select-item-inner">
-        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-          <img class="vd-select-item-img img-responsive img-thumbnail" src="{{pg.images[0]}}">
-        </div>
-        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-            {% assign previewTitle = pg.title %}
-            {% if pg.preview.title %}
-                {% assign previewTitle = pg.preview.title %}
-            {% endif %}
-          <h2 class="vd-select-title">{{ previewTitle }}</h2>
-            {% if pg.preview %}
-          <div class="vd-select-content">
-                {% if pg.preview.text.size > 0 %}
-            <div>
-                {% for ln in pg.preview.text %}
-                    {{ ln }}<br>
-                {% endfor %}
-            </div>
-                {% endif %}
-            <ul>
-                {% if pg.preview.list.size > 0 %}
-                    {% for it in pg.preview.list %}
-              <li>{{ it }}</li>
-                    {% endfor %}
-                {% endif %}
-            </ul>
-          </div>
-            {% endif %}
-          <button class="btn btn-lg btn-success">{{site.data.langs[pgLang].dict.readmore}}</button>
-        </div>
-      </div>
-    </div>
-  </a>
+        {% if pg.url == site.data.linkcode[select][pgLang] %}
+
+            {% assign linkPage = pg %}
+            {% include linkPageStyleLanding.html %}
+
         {% endif %}
     {% endfor %}
 {% endfor %}

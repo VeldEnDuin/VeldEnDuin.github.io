@@ -1,5 +1,5 @@
 ---
-title: Te Koop
+title: Residentieel Verblijf
 layout: default
 images:
     - /img/stacaravan.jpg
@@ -8,4 +8,4 @@ preview:
 ---
 
 # Te koop
-pagina over wat te koop is
+pagina over wat te koop is en zo van die dingen

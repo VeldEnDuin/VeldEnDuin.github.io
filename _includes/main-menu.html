@@ -1,11 +1,15 @@
 {% for m1 in site.data.menu %}
-    {% if pgLink == m1.menu[pgLang].link %}
-        {% assign active1 = m1.menu %}
+    {% assign menuLinkCode = m1.linkcode %}
+    {% assign menuLink = site.data.linkcode[menuLinkCode][pgLang] %}
+    {% if pgLink == menuLink %}
+        {% assign active1 = m1 %}
     {% endif %}
     {% for m2 in m1.submenu %}
-        {% if pgLink == m2.item[pgLang].link %}
-            {% assign active1 = m1.menu %}
-            {% assign active2 = m2.item %}
+        {% assign menuLinkCode = m2.linkcode %}
+        {% assign menuLink = site.data.linkcode[menuLinkCode][pgLang] %}
+        {% if pgLink == menuLink %}
+            {% assign active1 = m1 %}
+            {% assign active2 = m2 %}
         {% endif %}
     {% endfor %}
 {% endfor %}
@@ -13,25 +17,25 @@
 <!-- menu for {{pgLang}} at {{ pgLink }} -->
 <ul id="menu" class="nav navbar-nav" >
 {% for m1 in site.data.menu %}
-    <li class="{% if m1.submenu %}dropdown{% endif %} {% if active1 == m1.menu %}active{% endif %}">
-        <a href="{{ m1.menu[pgLang].link }}"
-           {% if m1.submenu %}
+    <li class="{% if m1.submenu %}dropdown{% endif %} {% if active1 == m1 %}active{% endif %}">
+        <a href="{{ site.data.linkcode[m1.linkcode][pgLang] }}"
+           {% if m1.submenu %}{% unless m1.linkcode %}
                data-toggle="dropdown" role="button" aria-expanded="false" class="dropdown-toggle"
-           {% endif %}
-           >{{ m1.menu[pgLang].name}}
+           {% endunless %}{% endif %}
+           >{{ m1.item[pgLang] }}
         </a>
 
-        {% if m1.submenu %}
+        {% if m1.submenu %}{% unless m1.linkcode %}
             <ul class="dropdown-menu" role="menu">
                 {% for m2 in m1.submenu %}
-                    <li {% if pgLink == m2.item[pgLang].link %}class="active"{% endif %} >
-                        <a href="{{ m2.item[pgLang].link }}" >
-                        {{ m2.item[pgLang].name}}
+                    <li {% if active2 == m2 %}class="active"{% endif %} >
+                        <a href="{{ site.data.linkcode[m2.linkcode][pgLang] }}" >
+                        {{ m2.item[pgLang]}}
                         </a>
                     </li>
                 {% endfor %}
             </ul>
-        {% endif %}
+        {% endunless %}{% endif %}
     </li>
 {% endfor %}
 </ul>

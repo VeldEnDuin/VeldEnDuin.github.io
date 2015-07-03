@@ -265,7 +265,7 @@
                 });
 
                 $groupList.before(
-                    $('<div class="container vd-group-filter">').append(
+                    $('<div class="vd-group-filter">').append(
                         $('<div class="vd-group-filter-inner hidden-xs"></div').append($btnGrp)
                     )
                 );

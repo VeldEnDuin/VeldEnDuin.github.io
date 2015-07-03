@@ -1,31 +1,124 @@
-# gelinkt vanuit site-code...
+# [0] gelinkt vanuit site-code...
 search:
-    nl: { link: /nl/zoeken.html    }
-    fr: { link: /fr/recherche.html }
-    en: { link: /en/search.html    }
-    de: { link: /de/suche.html     }
+    nl:  /nl/zoeken.html
+    fr:  /fr/recherche.html
+    en:  /en/search.html
+    de:  /de/suche.html
 contact:
-    nl: { link: /contact.html }
-    fr: { link: /contact.html }
-    en: { link: /contact.html }
-    de: { link: /contact.html }
+    nl:  /contact.html
+    fr:  /contact.html
+    en:  /contact.html
+    de:  /contact.html
 virtualtour:
-    nl: { link: /nl/virtueel-bezoek.html   }
-    fr: { link: /fr/tour-virtuel.html      }
-    en: { link: /en/virtual-tour.html      }
-    de: { link: /de/virtueller-besuch.html }
+    nl:  /nl/virtueel-bezoek.html
+    fr:  /fr/tour-virtuel.html
+    en:  /en/virtual-tour.html
+    de:  /de/virtueller-besuch.html
 news:
-    nl: { link: /nl/nieuws.html      }
-    fr: { link: /fr/nouvelles.html   }
-    en: { link: /en/news.html        }
-    de: { link: /de/nachrichten.html }
+    nl:  /nl/nieuws.html
+    fr:  /fr/nouvelles.html
+    en:  /en/news.html
+    de:  /de/nachrichten.html
 
-# pure content - alleen interne links en taal-koppeling
+# [1] menu - goed om weten
+troeven:
+    nl:  /nl/onze-troeven.html
+    fr:  /fr/nos-forces.html
+    en:  /en/our-strengths.html
+    de:  /de/unsere-stärken.html
+hier-staan-we-voor:
+    nl:  /nl/hier-staan-we-voor.html
+    fr:  /fr/ce-que-nous-représentons.html
+    en:  /en/what-we-stand-for.html
+    de:  /de/wofür-wir-stehen.html
+wie-zijn-we:
+    nl:  /nl/wie-zijn-we.html
+    fr:  /fr/qui-sommes-nous.html
+    en:  /en/who-we-are.html
+    de:  /de/wer-wir-sind.html
+
+# [2] menu - overnachten
 huur:
-    nl: { link: /nl/huren.html            }
-koop:
-    nl: { link: /nl/te-koop.html          }
+    nl:  /nl/overnachten/verhuur.html
+trek:
+    nl:  /nl/overnachten/trekkers.html
+residentieel:
+    nl:  /nl/overnachten/residentieel.html
+appartement :
+    nl:  /nl/overnachten/arrangement.html
+
+# [2.1] submenu overnachten -> verhuur
+verhuur_appartement:
+    nl:  /nl/overnachten/verhuur/appartement.html
+verhuur_comfort4:
+    nl:  /nl/overnachten/verhuur/comfort4.html
+verhuur_comfort4plus:
+    nl:  /nl/overnachten/verhuur/comfort4plus.html
+verhuur_luxe-appartementen:
+    nl:  /nl/overnachten/verhuur/luxe-appartementen.html
+verhuur_standaard-caravan:
+    nl:  /nl/overnachten/verhuur/standaard-caravan.html
+verhuur_standaard-chalet:
+    nl:  /nl/overnachten/verhuur/standaard-chalet.html
+
+# [3] menu - voorzieningen
+voorzieningen:
+    #todo link for entry page
+speel:
+    nl: /nl/speelplein.html
+    fr: /fr/cour-de-récréation.html
+    en: /en/playground.html
+    de: /de/spielplatz.html
+animatie:
+    nl: /nl/animatie.html
+    fr: /fr/animation.html
+    en: /en/animation.html
+    de: /de/Animation.html
+petanque:
+    nl: /nl/petanque.html
+    fr: /fr/terrain-de-pétanque.html
+    en: /en/boules.html
+    de: /de/Boules.html
+internet:
+    nl: /nl/draadloos-internet.html
+    fr: /fr/internet.html
+    en: /en/internet.html
+    de: /de/internet.html
+sanitair:
+    nl: /nl/sanitair.html
+    fr: /fr/sanitaire.html
+    en: /en/sanitary.html
+    de: /de/sanitär.html
+wassalon:
+    nl: /nl/wassalon.html
+    fr: /fr/buanderie.html
+    en: /en/washroom.html
+    de: /de/waschraum.html
+sauna:
+    nl: /nl/sauna.html
+    fr: /fr/sauna.html
+    en: /en/sauna.html
+    de: /de/sauna.html
+infomuur:
+    nl: /nl/infomuur.html
+    fr: /fr/wall-info.html
+    en: /en/info-wall.html
+    de: /de/inf-wand.html
+# [4] menu doen
+doen:
+    nl: /nl/doen.html
+    fr: /fr/a-faire-en-region.html
+    en: /en/activities.html
+    de: /de/zu-tun.html
+# [5] menu fotos
+fotos:
+    nl: /nl/fotos.html
+    fr: /fr/photos.html
+    en: /en/photos.html
+    de: /de/fotos.html
+
+# [* ] losse content - alleen interne links en taal-koppeling
 fietslabel:
-    nl: { link: /nl/fietsvriendelijk.html }
+    nl:  /nl/fietsvriendelijk.html
 qlabel:
-    nl: { link: /nl/qlabel.html           }
+    nl:  /nl/qlabel.html

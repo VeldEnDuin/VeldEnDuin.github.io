@@ -1,0 +1,34 @@
+{% assign previewTitle = linkPage.title %}
+{% if linkPage.preview.title %}
+    {% assign previewTitle = linkPage.preview.title %}
+{% endif %}
+
+  <a href="{{pg.url}}">
+    <div class="vd-select-item vd-select-submenu {{page.class.select.item}}">
+      <div class="vd-select-item-inner">
+
+        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+          <h2 class="vd-select-title">{{ previewTitle }}</h2>
+            {% if linkPage.preview %}
+          <div class="vd-select-content">
+                {% if linkPage.preview.text.size > 0 %}
+            <div>
+                    {% for ln in linkPage.preview.text %}
+                    {{ ln }}<br>
+                    {% endfor %}
+            </div>
+                {% endif %}
+            <ul>
+                {% if linkPage.preview.list.size > 0 %}
+                    {% for it in linkPage.preview.list %}
+              <li>{{ it }}</li>
+                    {% endfor %}
+                {% endif %}
+            </ul>
+          </div>
+            {% endif %}
+          <button class="btn btn-lg btn-success">{{site.data.langs[pgLang].dict.readmore}}</button>
+        </div>
+      </div>
+    </div>
+  </a>

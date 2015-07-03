@@ -1,294 +1,122 @@
-- menu:
-    nl:
-        name: Goed om weten
-    fr:
-        name: Bon à savoir
-    en:
-        name: Good to know
-    de:
-        name: Gut zu wissen
+- item:
+    nl: Goed om weten
+    fr: Bon à savoir
+    en: Good to know
+    de: Gut zu wissen
   submenu:
-    - item:
-        nl:
-            name: Onze troeven
-            link: /nl/onze-troeven.html
-        fr:
-            name: Nos forces
-            link: /fr/nos-forces.html
-        en:
-            name: Our strengths
-            link: /en/our-strengths.html
-        de:
-            name: Unsere Stärken
-            link: /de/unsere-stärken.html
-      linkcode: troeven
+    - linkcode: troeven
+      item:
+        nl: Onze troeven
+        fr: Nos forces
+        en: Our strengths
+        de: Unsere Stärken
 
-    - item:
-        nl:
-            name: Hier staan we voor
-            link: /nl/hier-staan-we-voor.html
-        fr:
-            name: Ce que nous représentons
-            link: /fr/ce-que-nous-représentons.html
-        en:
-            name: What we stand for
-            link: /en/what-we-stand-for.html
-        de:
-            name: Wofür wir stehen
-            link: /de/wofür-wir-stehen.html
-      linkcode: hier-staan-we-voor
+    - linkcode: hier-staan-we-voor
+      item:
+        nl: Hier staan we voor
+        fr: Ce que nous représentons
+        en: What we stand for
+        de: Wofür wir stehen
 
-    - item:
-        nl:
-            name: Wie zijn we
-            link: /nl/wie-zijn-we.html
-        fr:
-            name: Qui sommes-nous
-            link: /fr/qui-sommes-nous.html
-        en:
-            name: Who we are
-            link: /en/who-we-are.html
-        de:
-            name: Wer wir sind
-            link: /de/wer-wir-sind.html
-      linkcode: wie-zijn-we
+    - linkcode: wie-zijn-we
+      item:
+        nl: Wie zijn we
+        fr: Qui sommes-nous
+        en: Who we are
+        de: Wer wir sind
 
-- menu:
-    nl:
-        name: Overnachten
-    fr:
-        name: Passer la nuit
-    en:
-        name: Staying overnight
-    de:
-        name: Übernachten
+- linkcode: huur # linkcode here will hide sub menu
+  item:
+    nl: Overnachten
+    fr: Passer la nuit
+    en: Staying overnight
+    de: Übernachten
   submenu:
-    - item:
-        nl:
-            name: Huren
-            link: /nl/huren.html
-        fr:
-            name: A Louér
-            link: /fr/a-louer.html
-        en:
-            name: To rent
-            link: /en/to-rent.html
-        de:
-            name: zur Miete
-            link: /de/zur-miete.html
-      linkcode: huur
-    - item:
-        nl:
-            name: Arrangementen
-            link: /nl/arrangementen.html
-        fr:
-            name: Arrangements
-            link: /fr/arrangements.html
-        en:
-            name: Packages
-            link: /en/packages.html
-        de:
-            name: Packages
-            link: /de/packages.html
-      linkcode: arrangement
+    - linkcode: huur
+      item:
+        nl:  Verhuur
+      submenu:
+        - linkcode: verhuur_appartement
+        - linkcode: verhuur_comfort4
+        - linkcode: verhuur_comfort4plus
+        - linkcode: verhuur_luxe-appartementen
+        - linkcode: verhuur_standaard-caravan
+        - linkcode: verhuur_standaard-chalet
+    - linkcode: trek
+      item:
+        nl:  Trekkers
+    - linkcode: residentieel
+      item:
+        nl:  Residentieel Verblijf
+    - linkcode: appartement
+      item:
+        nl:  Arrangementen
 
-    - item:
-        nl:
-            name: Trekken
-            link: /nl/trekken.html
-        fr:
-            name: Errer
-            link: /fr/errer.html
-        en:
-            name: Wander
-            link: /en/wander.html
-        de:
-            name: Wandern
-            link: /de/wandern.html
-      linkcode: trekken
-
-    - item:
-        nl:
-            name: Residentieel verblijven
-            link: /nl/residentieel.html
-        fr:
-            name: Séjour Résidentiel
-            link: /fr/séjour-résidentiel.html
-        en:
-            name: Residential Stay
-            link: /en/residential-stay.html
-        de:
-            name: Wohn Aufenthalt
-            link: /de/wohn-aufenthalt
-
-    - item:
-        nl:
-            name: Te Koop
-            link: /nl/te-koop.html
-        fr:
-            name: À vendre
-            link: /fr/a-vendre.html
-        en:
-            name: For Sale
-            link: /en/for-sale.html
-        de:
-            name: zu verkaufen
-            link: /de/zu-verkaufen.html
-
-
-- menu:
-    nl:
-        name: Voorzieningen
-    fr:
-        name: Aménagements
-    en:
-        name: Facilities
-    de:
-        name: Einrichtungen
+- item:
+    nl:  Voorzieningen
+    fr:  Aménagements
+    en:  Facilities
+    de:  Einrichtungen
   submenu:
-    - item:
-        nl:
-            name: Speelplein
-            link: /nl/speelplein.html
-        fr:
-            name: Cour de récréation
-            link: /fr/cour-de-récréation.html
-        en:
-            name: Playground
-            link: /en/playground.html
-        de:
-            name: Spielplatz
-            link: /de/spielplatz.html
-      linkcode: speel
+    - linkcode: speel
+      item:
+        nl:  Speelplein
+        fr:  Cour de récréation
+        en:  Playground
+        de:  Spielplatz
+    - linkcode: animatie
+      item:
+        nl:  Animatie
+        fr:  Animation
+        en:  Animation
+        de:  Animation
+    - linkcode: petanque
+      item:
+        nl:  Petanque
+        fr:  Terrain de pétanque
+        en:  Boules
+        de:  Boules
+    - linkcode: internet
+      item:
+        nl:  Internet
+        fr:  Internet
+        en:  Internet
+        de:  Internet
+    - linkcode: sanitair
+      item:
+        nl:  Sanitair
+        fr:  Sanitaire
+        en:  Sanitary
+        de:  Sanitär
+    - linkcode: wassalon
+      item:
+        nl:  Wassalon
+        fr:  Buanderie
+        en:  Washroom
+        de:  Waschraum
+    - linkcode: sauna
+      item:
+        nl:  Sauna
+        fr:  Sauna
+        en:  Sauna
+        de:  Sauna
+    - linkcode: infomuur
+      item:
+        nl:  Infomuur
+        fr:  Wall Info
+        en:  info wall
+        de:  info Wand
 
-    - item:
-        nl:
-            name: Animatie
-            link: /nl/animatie.html
-        fr:
-            name: Animation
-            link: /fr/animation.html
-        en:
-            name: Animation
-            link: /en/animation.html
-        de:
-            name: Animation
-            link: /de/Animation.html
-      linkcode: anim
+- linkcode: doen
+  item:
+    nl:  Doen
+    fr:  Que faire
+    en:  Activities
+    de:  Zu Tun
 
-    - item:
-        nl:
-            name: Petanque
-            link: /nl/petanque.html
-        fr:
-            name: Terrain de pétanque
-            link: /fr/terrain-de-pétanque.html
-        en:
-            name: Boules
-            link: /en/boules.html
-        de:
-            name: Boules
-            link: /de/Boules.html
-      linkcode: petanque
-
-    - item:
-        nl:
-            name: Internet
-            link: /nl/draadloos-internet.html
-        fr:
-            name: Internet
-            link: /fr/internet.html
-        en:
-            name: Internet
-            link: /en/internet.html
-        de:
-            name: Internet
-            link: /de/internet.html
-      linkcode: net
-
-    - item:
-        nl:
-            name: Sanitair
-            link: /nl/sanitair.html
-        fr:
-            name: Sanitaire
-            link: /fr/sanitaire.html
-        en:
-            name: Sanitary
-            link: /en/sanitary.html
-        de:
-            name: Sanitär
-            link: /de/sanitär.html
-      linkcode: sanit
-
-    - item:
-        nl:
-            name: Wassalon
-            link: /nl/wassalon.html
-        fr:
-            name: Buanderie
-            link: /fr/buanderie.html
-        en:
-            name: Washroom
-            link: /en/washroom.html
-        de:
-            name: Waschraum
-            link: /de/waschraum.html
-      linkcode: was
-
-    - item:
-        nl:
-            name: Sauna
-            link: /nl/sauna.html
-        fr:
-            name: Sauna
-            link: /fr/sauna.html
-        en:
-            name: Sauna
-            link: /en/sauna.html
-        de:
-            name: Sauna
-            link: /de/sauna.html
-      linkcode: sauna
-
-    - item:
-        nl:
-            name: Infomuur
-            link: /nl/infomuur.html
-        fr:
-            name: Wall Info
-            link: /fr/wall-info.html
-        en:
-            name: info wall
-            link: /en/info-wall.html
-        de:
-            name: info Wand
-            link: /de/inf-wand.html
-
-- menu:
-    nl:
-        name: Doen
-        link: /nl/doen.html
-    fr:
-        name: Que faire
-        link: /fr/a-faire-en-region.html
-    en:
-        name: Activities
-        link: /en/activities.html
-    de:
-        name: Zu Tun
-        link: /de/zu-tun.html
-
-- menu:
-    nl:
-        name: Foto's
-        link: /nl/fotos.html
-    fr:
-        name: Foto's
-        link: /fr/photos.html
-    en:
-        name: Foto's
-        link: /en/photos.html
-    de:
-        name: Foto's
-        link: /de/fotos.html
+- linkcode: fotos
+  item:
+    nl:  Foto's
+    fr:  Foto's
+    en:  Foto's
+    de:  Foto's
