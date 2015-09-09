@@ -14,6 +14,7 @@
 
 [Deze tekst op volle pagina][README.md]
 
+--> TODO beschrijf de specifieke preludes voor verhuur-item pagina's (overweeg andere artikels voor de specifieke document-types, en voor de foto's...)
 
 # VeldEnDuin.github.io
 Beheer van de publieke website www.veldenduin.be
@@ -76,20 +77,17 @@ De twee niveau's van het menu (hoofdmenu en submenu's) worden beheerd in het bes
 
 De structuur van dat bestand is deze:
 ```yml
-- menu:
-    {taal-code}:
-        name: {titel}
-        link: {link}
+- linkcode: {link-code}
+  item:
+    {taal-code}: {label}
     {taal-code} ... // zelfde voor volgende taal
-    linkcode: {link-code}
   submenu:
-    - item:
-        {taal code}:
-            name: {titel}
-            link: {link voor dir menu}
-      linkcode: {link-code} 
-    - item: ... // meer items zoals voorgaande
-- menu: ... // meer menu-items zoals voorgaande
+    - linkcode: {link-code} 
+      item:
+        {taal code}:{label}
+    - linkcode: ... // meer submenu opties met linkcode en 
+      item:     ... // item-taal-labels... zoals voorgaande
+- ...:... // meer menu-items zoals voorgaande
 ```
 
 Daarin vervang je
@@ -98,23 +96,38 @@ Daarin vervang je
 -----------------|-------------------|-------------------
 {taal-code}      | nl, fr, de, en    | 2-letter taal code die naam en link beschrijven voor die taal
 {label}          | bv. Mijn Tekst    | Het label dat in het menu zichtbaar zal zijn voor de eindgebruiker
-{link}           | bv. /nl/link/pagina.html | De link naar de pagina die gevolgd wordt als deze menuoptie wordt gekozen
+{link-code}      | bv. link1         | De code van de link naar de pagina die gevolgd wordt als deze menuoptie wordt gekozen -- voor hoofdmenu's met sub-secties wordt die doorgaans weggelaten op niveau 1
 
-Je kunt zoveel ```-menu``` lijnen invoeren als je wilt, er moet natuurlijk wel genoeg plaats zijn om alle menu-items te kunnen bevatten.
+Je kunt zoveel menu/submenu lijnen invoeren als je wilt, er moet natuurlijk wel genoeg plaats zijn om alle menu-items te kunnen bevatten.
 
-Door onder de sectie ```submenu:```  meer ```-item```s toe te voegen, maak je submenu-items die zich op het tweede niveau bevinden (onder het huidige menu dus). Menu's met een subniveau hebben geen ```{link}``` nodig, want als je er op klikt moet het subniveau opengaan, en dus wordt de link toch niet gevolgd.
+Door onder de sectie ```submenu:```  meer ```-item```s toe te voegen, maak je submenu-items die zich op het tweede niveau bevinden (onder het huidige menu dus). Menu's met een subniveau hebben typisch geen eigen ```{link-code}``` nodig, want als je er op klikt moet het subniveau opengaan, en dus wordt de link toch niet gevolgd.
 
-Je kunt elk item ook voorzien van een ```linkcode``` code waardoor de menu-link ook beschikbaar wordt om vanuit de tekst links te leggen naar deze items.  Zie sectie over linkbeheer.
+De vermelde ```{link-code}``` code is een verwijzing naar de centrale lijst van alle beschikbare "links"  binnen de website.  Deze staan opgelijst in het bestand [linkcode.yml].  Dat bestand volgt deze structuur:
 
-Het niveau van 'inspringen' in dit bestand is cruciaal voor het gewenste effect. Inspringen kan met tab of spatie.
+```yml
+{link-code}:
+    nl:  /nl/verwijzing-naar-nl-bestand.html
+    fr:  /fr/reference-pour-fichier-fr.html
+    en:  /en/link-to-en-file.html
+    de:  /de/verweis-auf-de-datei.html
+```
+
+Door hier een verwijzing te definieren maak je een de bijhorende unieke en zelfgekozen ```{link-code}``` die alle informatie bevat om anafhankelijk van de taal van de gebruiker te wijzen naar de juiste pagina vanuit het menu, of zelfs vanuit de doorlopende tekst (zie verder).
+
+Het niveau van 'inspringen' in deze bestand is cruciaal voor het gewenste effect. Inspringen kan met tab of spatie.
 
 ## Md-file maken
 Om nieuw bestand te maken in bepaalde taalfolder:
 op taal staan - rechtermuisklik - nieuw bestand
 
-Elke md-file moet starten met prelude (cfr verder voor meer detail) nl
-2 lijnen met 3 streepjes
-1 blanco lijn
+Elke md-file moet starten met prelude (cfr verder voor meer detail) die minmaal bestaat uit
+2 lijnen met 3 streepjes, gevolgd door 1 blanco lijn
+```md
+---
+---
+
+Vanaf hier begint je echte text...
+```
 
 ## Alle pagina's / ongeacht layout
 
@@ -126,7 +139,7 @@ In het algemeen worden deze pagina's best per taal georganizeerd. Deze site beva
 
 Om een taal toe te voegen kun je een nieuwe folder beginnen, en ze uitwerken in het [langs.yml] bestand.
 
-**Tip:** De hier beschreven locaties voor de pagina.md bestanden zijn **niet** strikt vereist om een werkend systeem te krijgen.  De juiste aanduiding van de paden in de [linkcode.yml] en [menu.yml] is eigenlijk het enige wat echt telt.  Toch is de voorgestelde opdeling hanteren vooral nuttig om te blijven alles vlot terug te vinden.  Indien nuttig mogen dus ook naar believen verdere onderverdelingen gemaakt door het toevoegen van subfolders.
+**Tip:** De hier beschreven locaties voor de pagina.md bestanden zijn **niet** strikt vereist om een werkend systeem te krijgen.  De juiste aanduiding van de paden in de [linkcode.yml] is eigenlijk het enige wat echt telt.  Toch is de voorgestelde opdeling in folders vooral nuttig om te blijven alles vlot terug te vinden.  Waar zinvol mogen voor dezelfde reden (organisatie en vindbaarheid) dus ook naar believen verdere onderverdelingen gemaakt door het toevoegen van subfolders.
 
 ### Grafische elementen
 Verschillende grafische effecten kunnen op makkelijke manier ingegeven worden.
@@ -190,49 +203,30 @@ levend      | maakt. Coupletjes | en refreintjes
 ### Links leggen en beheren
 
 In de ```*.md``` bestanden kun je ook makkelijk links naar andere web-pagina's leggen.
-Hiervoor zijn een aantal mogelijkheden.
 
-#### Links uit de menu met verschillende talen
-
-Pagina's die in het menu opgenomen zijn (via de [menu.yml] zie hierboven) kunnen via een link-code makkelijk gelinkt worden vanuit de tekst.
-
-Dit gebeurt door het toevoegen van een "linkcode" aan het menuitem.
-Dit doe je door in [menu.yml] aan het item een ```linkcode``` toe te voegen:
-
-```yml
-    - item:
-        nl:
-            name: tekst-nl
-            link: /nl/link-naar-foo.html
-        fr:
-            name: texte-fr
-            link: /fr/lien-a-foo.html
-        linkcode: foo
-```
-In dit geval kun je naar het menu-item linken in de ```*.md``` files via een inline link die er zo uitziet:
-
-```md
-{% include links.md %}
-
-De link via [klikbaar woord][foo.nl] naar de nederlandse link van dit menu-element 
-```
-
-#### Links in verschillende talen (maar niet in de menu)
-
-Ook voor pagina's die niet aanwezig zijn in de menu, kunnen we dergelijke link-codes aanwenden door ze toe te voegen aan de [linkcode.yml].  De layout van dat bestand is zo:
+Voor alle pagina's waarnaar je wilt linken, vanuit de menu, of vanuit de tekst is het best vooraf een zogenaamde ```{link-code}``` te voorzien.  Dit doe je door ze toe te voegen aan de [linkcode.yml].  De layout van dat bestand is zo:
 
 ```yml
 {linkcode}: 
     {iso-taal-code}: { link: {de effectieve link}   }
 ```
 
-Het invoegen in de tekst van het ```*.md``` bestand volgt dan dezelfde formatering als bij menu-links.  ```[klikbare tekst][{linkcode}.{iso taal code}]```
+Het invoegen in de tekst van het ```*.md``` bestand volgt dan deze formatering.
+```[klikbare tekst][{linkcode}.{iso taal code}]```
+
+Een voorbeeld:
+```md
+{% include links.md %}
+
+De link via [klikbaar woord][foo.nl] naar de nederlandse link van dit menu-element 
+```
 
 **Belangrijk**: Deze links werken alleen als: 
 * de ```{%include links.md%}``` is opgenomen in de tekst
-* de betrokken linkcode ```foo``` is gedefinieerd in de [menu.yml] of [linkcode.yml]
+* de betrokken linkcode ```foo``` is gedefinieerd in het bestand [linkcode.yml]
 
-**Nuttig om weten**: Via de [menu.yml] of [linkcode.yml] worden de verschillende taalvarianten van een bepaalde 'link' aan dezelfde 'linkcode' gekoppeld.  Op basis daarvan zal de taal-keuze in de menu-balk bij het bekijken van één van deze pagina's rechtstreekse links bevatten naar de gekoppelde taalvarianten.
+**Nuttig om weten**: Via de [linkcode.yml] worden de verschillende taalvarianten van een bepaalde 'link' aan dezelfde ```{link-code}``` gekoppeld.  Op basis van deze koppeling zal de taal-keuze in de menu-balk bij het bekijken van één van deze pagina's rechtstreekse links bevatten naar de gekoppelde taalvarianten.  De taal-menu op de pagina werkt dan dus bijna als een "vertaal deze pagina in &laquo;aangeklikte taalcode&raquo;"
+Voor pagina's waar de linkcode en taal-koppeling niet is gemaakt kan dat niet - daar werkt het taalmenu als "breng mee naar de hoofdpagina van &laquo;aangeklikte taalcode&raquo;"
 
 #### Losse links (zonder verder beheer)
 
@@ -257,7 +251,7 @@ lijstcode:
     - tweede
 ---
 
-De rest van de tekst komt dan onder de prelude, een lege lijn ertussen wordt aangeraden.
+Na een lege lijn, begint dan je werkelijke text...
 ```
 
 In deze prelude kunnen volgende instellingen gemaakt worden die door deze site worden opgepikt:
@@ -279,6 +273,7 @@ default | Standaard pagina. Bevat alle gemeenschappelijke elementen
 post    | Nieuws-artikel. 
 group   | Groep van filterbare elementen. (zie activiteiten)
 landing | Pagina waarop mensen de site binnenkomen. Home page, maar ook specifieke campagne-pagina's vallen hieronder
+verhuur-item| Een specifieke layout voor de opmaak van verhuur-item-pagina's
 
 
 #### Prelude :: insert
@@ -349,7 +344,7 @@ Stel je hebt een "post" in volgende talen toegevoegd, met de permalinks zoals in
     
 /_posts/fr/2015-06-06-article.html
     ---
-    permalink: /nl/2015-06-06-bar.html
+    permalink: /fr/2015-06-06-bar.html
     ---
     
     Texte en fr
@@ -361,10 +356,10 @@ Dan ziet de juiste toevoeging in [linkcode.yml] er zo uit:
 ```
 foobar:
     nl: {link: /nl/2015-06-06-foo.html}
-    fr: {link: /nl/2015-06-06-bar.html}
+    fr: {link: /fr/2015-06-06-bar.html}
 ```
 
-Hierdoor zal er in de menu een directe link bestaan tussen de ```nl | fr``` varianten.
+Hierdoor zal het taal-menu werken als een "vertaal-deze-pagina" optie en directe links bevatten tussen de ```nl | fr``` varianten.
 
 Hierdoor kun je ook in andere pagina's een verwijzing naar deze varainten maken door (bv voor fr variant) deze notatie te gebruiken:
 ```

@@ -267,29 +267,87 @@ body:before {
 }
 
 .vd-group-content ul li:before
-, .vd-select-content ul li:before
-{
+, .vd-select-content ul li:before {
     font-family: 'Glyphicons Halflings';
     content: '\e013  ';
     color: rgb(10, 88, 10);
 }
 
-.vd-select-item-img {
+.vd-select-item-img  {
     margin-bottom: 2em;
 }
-.vd-select-title {
+.vd-select-title  {
     text-transform: uppercase;
 }
 
-.vd-subgrp-btns label span.glyphicon:before
-{
+.vd-subgrp-btns label span.glyphicon:before {
     content: '\e014  '; /* remove icon when not active*/
 }
-.vd-subgrp-btns label.active span.glyphicon:before
-{
+.vd-subgrp-btns label.active span.glyphicon:before {
     content: '\e013  '; /* ok icon when active */
 }
 
+.vd-select-submenu {
+    padding: 0 0.5em 0 0.5em;]
+}
+.vd-select-submenu div {
+    text-align: center;
+}
+.vd-select-submenu .vd-select-title {
+    font-size: 1.5em;
+}
+.vd-select-submenu .vd-select-title
+, .vd-select-submenu .vd-select-content ul li {
+    padding: 0.5em 0 0.5em 0;
+    border-bottom: 1px solid rgba(0,0,0,0.3);
+}
+.vd-select-submenu .vd-select-content ul {
+    padding: 0;
+}
+.vd-select-submenu .vd-select-content ul li:before {
+    content: '';
+}
+.vd-select-submenu .vd-select-item-inner {
+    background-color: rgba(255,255,255,0.3);
+    border: 1px solid rgba(0,0,0,0.3);
+    padding: 1.5em 0.5em 0.5em 0.5em;
+    margin: 100px 0 50px 0;
+    position: relative;
+}
+.vd-select-submenu .vd-button {
+    position: absolute;
+    top: -110px;
+    width: 100%
+}
+.vd-select-submenu .vd-button .vd-button-tag {
+    border: 1px dashed rgba(0,0,0,0.3);
+    background-color: #fff;
+    padding: 1em;
+    border-radius: 50%;
+    width: 145px;
+    height: 145px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.vd-select-submenu .vd-button .vd-button-inner {
+    background-color: #8FB742;
+    color: #fff;
+    padding: 1em;
+    border-radius: 50%;
+    height: 115px;
+    width: 115px;
+}
+.vd-select-submenu .vd-button span {
+    display: block;
+}
+.vd-select-submenu .vd-button .vd-button-price {
+    font-size: 2em;
+}
+.vd-select-submenu .vd-button span.vd-button-price:before {
+    content: '€';
+    font-size: 1em;
+}
 
 /* ===================================================================================
  * styling vd-news sections

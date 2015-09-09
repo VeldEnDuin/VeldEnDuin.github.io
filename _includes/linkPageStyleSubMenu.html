@@ -3,32 +3,41 @@
     {% assign previewTitle = linkPage.preview.title %}
 {% endif %}
 
-  <a href="{{pg.url}}">
-    <div class="vd-select-item vd-select-submenu {{page.class.select.item}}">
-      <div class="vd-select-item-inner">
-
-        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-          <h2 class="vd-select-title">{{ previewTitle }}</h2>
+<a href="{{pg.url}}">
+  <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 vd-select-item {{page.class.select.item}} vd-select-submenu">
+    <div class="vd-select-item-inner">
+      <h2 class="vd-select-title">{{ previewTitle }}</h2>
             {% if linkPage.preview %}
-          <div class="vd-select-content">
+      <div class="vd-button"><div class="vd-button-tag"><div class="vd-button-inner">
+
+        <span class="">
+                {{ site.data.langs[pgLang].dict.starting}}
+        </span>
+        <span class="vd-button-price">
+                {{ linkPage.preview.button.price }}
+        </span>
+        <span class="">
+                {{ site.data.langs[pgLang].dict.permonth}}
+        </span>
+      </div></div></div>
+      <div class="vd-select-content">
                 {% if linkPage.preview.text.size > 0 %}
-            <div>
+        <div>
                     {% for ln in linkPage.preview.text %}
                     {{ ln }}<br>
                     {% endfor %}
-            </div>
+        </div>
                 {% endif %}
-            <ul>
+        <ul>
                 {% if linkPage.preview.list.size > 0 %}
                     {% for it in linkPage.preview.list %}
-              <li>{{ it }}</li>
+          <li>{{ it }}</li>
                     {% endfor %}
                 {% endif %}
-            </ul>
-          </div>
-            {% endif %}
-          <button class="btn btn-lg btn-success">{{site.data.langs[pgLang].dict.readmore}}</button>
-        </div>
+        </ul>
       </div>
+            {% endif %}
+        <button class="btn btn-lg btn-success">{{site.data.langs[pgLang].dict.moreinfo}}</button>
     </div>
-  </a>
+  </div>
+</a>
