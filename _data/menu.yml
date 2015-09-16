@@ -25,6 +25,13 @@
         en: Who we are
         de: Wer wir sind
 
+    - linkcode: history
+      item:
+        nl: Geschiedenis
+        fr: Histoire
+        en: History
+        de: Geschichte
+
 - linkcode: huur # linkcode here will hide sub menu
   item:
     nl: Overnachten

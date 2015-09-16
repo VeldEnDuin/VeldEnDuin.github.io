@@ -1,0 +1,45 @@
+# http://www.9lessons.info/2012/01/facebook-timeline-design-using-jquery.html
+# http://codyhouse.co/demo/vertical-timeline/index.html
+class:
+  item: "vd-group-timeline-item col-lg-6 col-md-6 col-sm-12 col-xs-12"
+  list: "vd-group-timeline row"
+style:
+  spacer: true
+sort:
+    key: date
+    reverse: true
+items:
+  -
+    description:
+      nl: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ut urna a elit volutpat placerat. Maecenas semper nulla at tortor lobortis sodales. Donec molestie orci ac rhoncus malesuada. Donec tincidunt vel velit venenatis faucibus. Aliquam eu turpis mattis, lobortis nisi sed, placerat risus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce luctus, nulla vel sodales sollicitudin, nisl diam feugiat risus, ac pharetra tellus orci sit amet massa. Vestibulum sed mollis sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;"
+    images:
+      - /img/doen/bre-cc-stafversl-0.jpg
+      - /img/doen/ost-cc-post-0.jpg
+    date: "2015-03-17"
+    title:
+      de: ""
+      en: ""
+      fr: ""
+      nl: "Het nieuwe"
+
+  -
+    description:
+      nl: "jaja, zo was het toen"
+    images:
+      - /img/doen/flandersfields-0.jpg
+      - /img/doen/iffm-1.jpg
+    date: "1965-06-07"
+    title:
+      de: ""
+      en: ""
+      fr: ""
+      nl: "Het oude"
+  -
+    description:
+      nl: "en dan was er alleen een beetje tekst"
+    date: "1965-06-17"
+    title:
+      de: ""
+      en: ""
+      fr: ""
+      nl: "Text Only"

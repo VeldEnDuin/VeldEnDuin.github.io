@@ -1,6 +1,9 @@
 class:
   item: "col-lg-3 col-md-4 col-sm-6 col-xs-12"
-  list: ""
+  list: "vd-group-grid"
+sort:
+    key: ranking
+img-in-background: true
 items:
   -
     caption:

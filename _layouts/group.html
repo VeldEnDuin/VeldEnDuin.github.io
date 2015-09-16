@@ -5,9 +5,23 @@ layout: default
 
 {% assign grp   = page.data %}
 {% capture key %}{{ grp }}{% endcapture %}
+{% capture groupid %}vd-group-{{ key }}{% endcapture %}
 {% assign items = site.data[key].items %}
 {% assign style = site.data[key].class %}
 {% assign names = site.data[key].subgroups[pgLang] %}
+{% assign sortkey = 'ranking' %}
+{% assign imgbg = site.data[key]['img-in-background'] %}
+{% assign addspacer = site.data[key].style.spacer %}
+
+{% if site.data[key].id %}
+    {% assign groupid = site.data[key].id %}
+{% endif %}
+
+{% if site.data[key].sort.key %}
+    {% assign sortkey = site.data[key].sort.key %}
+{% endif %}
+
+
 
 
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -16,15 +30,22 @@ layout: default
     {{ content }}
   </div>
 
-  <div id="vd-group-list" class="vd-group-list {{style.list}}"
+  <div id="{{ groupid }}" class="vd-group-list {{style.list}}"
        data-geolocation="{{site.geolocation.lat}}, {{site.geolocation.lon}}"
        data-subgroupnames='{{ names | jsonify }}'>
 
-{% assign rankeditems = items | sort: 'ranking'  %}
+{% assign rankeditems = items | sort: sortkey  %}
+{% if site.data[key].sort.reverse %}
+    {% assign rankeditems = rankeditems | reverse  %}
+{% endif %}
 {% for it in rankeditems %}
-    {% assign title   = it.title[pgLang] %}
-    {% assign link    = it.link[pgLang] %}
-    {% assign caption = it.caption[pgLang] %}
+    {% assign title       = it.title[pgLang] %}
+    {% assign description = it.description[pgLang] %}
+    {% assign link        = it.link[pgLang] %}
+    {% assign caption     = it.caption[pgLang] %}
+    {% if addspacer %}
+    <div class="vd-group-item-spacer {{style.item}}"></div>
+    {% endif %}
     <div class="vd-group-item vd-group-{{grp}}-item {{style.item}}"
          data-title      = "{{ title }}"
          data-caption    = "{{ caption }}"
@@ -36,7 +57,9 @@ layout: default
          data-ranking    = "{{ it.ranking }}"
     >
       <div class="vd-group-item-inner"
+        {% if imgbg %}
            style="background-image: url('{{it.images[0]}}');"
+        {% endif %}
       >
         <div class="vd-group-content">
           <div class="vd-group-content-arrow"></div>
@@ -51,7 +74,9 @@ layout: default
             {{ title }}
         {% endif %}
             </div>
+        {% if caption %}
             <div class="vd-group-caption">{{ caption }}</div>
+        {% endif %}
         {% if it.location %}
             <div class="vd-group-info">
               <a class="vd-location" target="_blank"
@@ -59,6 +84,14 @@ layout: default
               >
                 <span class="glyphicon glyphicon-map-marker"></span>
               </a>
+            </div>
+        {% endif %}
+        {% unless imgbg %}
+            <div class="vd-group-img"><img src="{{it.images[0]}}" class="img img-thumbnail img-responsive"></div>
+        {% endunless %}
+        {% if description %}
+            <div class="vd-group-description">
+                {{ description }}
             </div>
         {% endif %}
           </div>

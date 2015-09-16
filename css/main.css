@@ -163,71 +163,6 @@ body:before {
  *   -------------------------------------------------------------------------------
  *   [all groups]
  */
-.vd-group-item
-{
-    overflow: hidden;
-    padding: 1px;
-}
-
-.vd-group-item
-{
-    height: 20em !important;
-}
-
-.vd-group-item-inner
-{
-    background-size: cover;
-    background-position: center center;
-    height: 100% !important;
-}
-
-.vd-group-content
-{
-    position: absolute;
-    width: 100%;
-    background-color: rgba(255,255,255,0.8);
-    transition: opacity 1.5s, bottom 1s;
-    opacity: 0;
-    bottom: -50%;
-    border-top-left-radius: 1px;
-    border-top-right-radius: 1px;
-}
-
-.vd-group-content .vd-group-content-arrow {
-    bottom: 10px;
-    margin: 0 auto 0 auto;
-    padding: 0;
-    border-bottom: 10px solid rgba(255,255,255,0.8);
-    border-left: 10px solid transparent;
-    border-right: 10px solid transparent;
-    width:  0;
-    position: relative;
-}
-.vd-group-content-inner {
-    padding: 0.5em 1em 0.5em 1em;
-}
-
-.vd-group-item:hover .vd-group-content
-{
-    opacity: 1;
-    bottom: 0;
-}
-
-.vd-group-caption {
-    text-align: center;
-    font-size: 1.15em;
-}
-
-.vd-group-title {
-    text-align: center;
-    text-transform: uppercase;
-    font-size: 1.5em;
-}
-
-.vd-group-info {
-    text-align: right;
-}
-
 .vd-group-filter {
     border: 1px solid #8fb742;
     -webkit-border-radius: 6px;
@@ -247,12 +182,161 @@ body:before {
 .vd-group-filter-nav.nav-pills>li.active>a {
     background-color: #8fb742;
 }
+.vd-group-item
+{
+    overflow: hidden;
+    padding: 1px;
+}
 
 /*
  *   -------------------------------------------------------------------------------
- *   [group :: activity]
+ *   [group :: gridlayout]
  */
 
+.vd-group-grid .vd-group-item
+{
+    height: 20em !important;
+}
+
+.vd-group-grid .vd-group-item-inner
+{
+    background-size: cover;
+    background-position: center center;
+    height: 100% !important;
+}
+
+.vd-group-grid .vd-group-content
+{
+    position: absolute;
+    width: 100%;
+    background-color: rgba(255,255,255,0.8);
+    transition: opacity 1.5s, bottom 1s;
+    opacity: 0;
+    bottom: -50%;
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+}
+
+.vd-group-grid .vd-group-content .vd-group-content-arrow {
+    bottom: 10px;
+    margin: 0 auto 0 auto;
+    padding: 0;
+    border-bottom: 10px solid rgba(255,255,255,0.8);
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    width:  0;
+    position: relative;
+}
+.vd-group-grid .vd-group-content-inner {
+    padding: 0.5em 1em 0.5em 1em;
+}
+
+.vd-group-grid .vd-group-item:hover .vd-group-content
+{
+    opacity: 1;
+    bottom: 0;
+}
+
+.vd-group-grid .vd-group-caption {
+    text-align: center;
+    font-size: 1.15em;
+}
+
+.vd-group-grid .vd-group-title {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+
+.vd-group-grid .vd-group-info {
+    text-align: right;
+}
+
+/*
+ *   -------------------------------------------------------------------------------
+ *   [group :: timeline]
+ */
+.vd-group-timeline.row {
+}
+
+.vd-group-timeline .timeline {
+    margin: 0 auto;
+    height: 100% !important;
+    width: 30px;
+}
+
+.timeline .timeline-line {
+    margin: 0 auto;
+    height: 100% !important;
+    width: 10px;
+    border: 1px solid rgba(79, 81, 55, 1);
+    background-color: rgba(79, 81, 55, 1);
+    border-radius: 15px;
+}
+
+.timeline .timeline-dot {
+    position: absolute;
+    margin: 0 auto;
+    display: block;
+    padding: 7px;
+    height: 22px !important;
+    width: 22px !important;
+    border: 1px dashed rgba(0,0,0,0.3);
+    background-color: rgba(255,255,255,0.8);
+    border-radius: 50%;
+    padding: 1em;
+}
+
+.timeline .timeline-dot > span{
+    background-color: #8b9448;
+    position: absolute;
+    display: block;
+    width: 12px !important;
+    height: 12px !important;
+    border-radius: 50%;
+    top: 8px;
+    left: 8px;
+}
+
+.vd-group-timeline .vd-group-item-spacer {
+    height: 4em !important;
+}
+
+.vd-group-timeline .vd-group-timeline-item {
+    padding-left: 5%;
+    padding-right: 5%;
+    display: inline-block;
+}
+
+
+.vd-group-timeline-item {
+    position:relative;
+}
+
+.vd-group-timeline-item .vd-group-item-inner {
+    padding: 2em;
+    border: 1px solid #4f5137;
+    background-color: rgba(255,255,255,0.4);
+    border-radius: 5px;
+    display: block;
+}
+
+.vd-group-timeline-item.timeline-left .vd-group-item-inner {
+    border-right: 10px solid #4f5137;
+}
+
+.vd-group-timeline-item.timeline-right .vd-group-item-inner {
+    border-left: 10px solid #4f5137;
+}
+
+/*
+ *     ~~~~~~~~~  responsive timeline ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ */
+@media (max-width: 991px) {                           /*  'xs' ans 'sm'  */
+    .vd-group-timeline .timeline {
+        margin: 0;
+    }
+}
 
 /* ===================================================================================
  * styling vd-select sections

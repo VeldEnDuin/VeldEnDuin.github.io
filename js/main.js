@@ -126,13 +126,13 @@
     });
 
     /*
-     * Build up the group pages
+     * Build up the group page 'doen'
      * =======================================================================
      */
     $(function () {
-        var $groupList = $('#vd-group-list'), $groupItems, subgrpNames, $items, geo,
+        var $groupList = $('#vd-group-doen'), $groupItems, subgrpNames, $items, geo,
             subGrpCnts, allCnt,
-            $btnGrp, activeSubGrp, $btns;
+            $btnGrp, activeSubGrp, $btns, showSubNav = true;
 
         if ($groupList && $groupList.length > 0) {
 
@@ -197,14 +197,18 @@
                  */
 
                 subgroups = $item.data('subgroups');
-                subgroups.forEach(function (subgrp) {
-                    $item.addClass('vd-subgrp-' + subgrp);
-                    $item.addClass('vd-subgrp-ALL');
-                    if (!subGrpCnts[subgrp]) {
-                        subGrpCnts[subgrp] = 0;
-                    }
-                    subGrpCnts[subgrp] += 1;
-                });
+                if (subgroups !== undefined && subgroups !== null && Array.isArray(subgroups)) {
+                    subgroups.forEach(function (subgrp) {
+                        $item.addClass('vd-subgrp-' + subgrp);
+                        $item.addClass('vd-subgrp-ALL');
+                        if (!subGrpCnts[subgrp]) {
+                            subGrpCnts[subgrp] = 0;
+                        }
+                        subGrpCnts[subgrp] += 1;
+                    });
+                } else {
+                    showSubNav = false;
+                }
             });
             allCnt = $items.length;
 
@@ -213,74 +217,136 @@
              * ---------------------------------------------------------------
              */
 
-            $btnGrp = $('<ul class="vd-group-filter-nav nav nav-pills nav-justified"></ul>');
-            $btns = $();
-            activeSubGrp = null;
+            if (showSubNav) {
 
-            (function () {
-                function toggleActive(newActiveGrp, $btn) {
-                    if (isEmpty(newActiveGrp)) {
-                        newActiveGrp = 'ALL';
+                $btnGrp = $('<ul class="vd-group-filter-nav nav nav-pills nav-justified"></ul>');
+                $btns = $();
+                activeSubGrp = null;
+
+                (function () {
+                    function toggleActive(newActiveGrp, $btn) {
+                        if (isEmpty(newActiveGrp)) {
+                            newActiveGrp = 'ALL';
+                        }
+                        $btn = $btn || $("#vd-subgrp-" + newActiveGrp);
+
+                        var subgrpSelector = '.vd-subgrp-' + newActiveGrp,
+                            $hideItems = $items.not(subgrpSelector);
+                        // set on --> all others off
+                        $btns.removeClass('active');
+                        (function () {
+                            function fadeIn() {
+                                $(subgrpSelector, $groupList).fadeIn(500);
+                            }
+                            function fadeOutThenIn() {
+                                $hideItems.fadeOut(500, fadeIn);
+                            }
+                            if ($hideItems.length > 0) {
+                                fadeOutThenIn();
+                            } else {
+                                fadeIn();
+                            }
+                            $btn.addClass('active');
+                            activeSubGrp = newActiveGrp;
+                            window.location.hash = newActiveGrp;
+                        }());
+
+                        return false;
                     }
-                    $btn = $btn || $("#vd-subgrp-" + newActiveGrp);
 
-                    var subgrpSelector = '.vd-subgrp-' + newActiveGrp,
-                        $hideItems = $items.not(subgrpSelector);
-                    // set on --> all others off
-                    $btns.removeClass('active');
-                    (function () {
-                        function fadeIn() {
-                            $(subgrpSelector, $groupList).fadeIn(500);
-                        }
-                        function fadeOutThenIn() {
-                            $hideItems.fadeOut(500, fadeIn);
-                        }
-                        if ($hideItems.length > 0) {
-                            fadeOutThenIn();
+                    function addBtn(subgrp, label, cnt) {
+                        var $btn = $('<li id="vd-subgrp-' + subgrp +
+                                     '"><a href="#' + subgrp + '">' + label + ' [' + cnt + ']</a></li>');
+
+                        $btns = $btns.add($btn);
+
+                        $btn.click(function () { return toggleActive(subgrp, $btn); });
+                        $btnGrp.append($btn);
+                    }
+
+                    addBtn('ALL', TRANSL.dict.all, allCnt);
+                    Object.keys(subGrpCnts).forEach(function (subgrp) {
+                        var cnt = subGrpCnts[subgrp];
+                        addBtn(subgrp, subgrpNames[subgrp], cnt);
+                    });
+
+                    $groupList.before(
+                        $('<div class="vd-group-filter">').append(
+                            $('<div class="vd-group-filter-inner hidden-xs"></div').append($btnGrp)
+                        )
+                    );
+                    //read the fragment-identifier and call the toggleActive(grp)
+                    function followHash() {
+                        if (location.hash && location.hash.length > 1) {
+                            toggleActive(location.hash.slice(1));
                         } else {
-                            fadeIn();
+                            toggleActive();
                         }
-                        $btn.addClass('active');
-                        activeSubGrp = newActiveGrp;
-                        window.location.hash = newActiveGrp;
-                    }());
-
-                    return false;
-                }
-
-                function addBtn(subgrp, label, cnt) {
-                    var $btn = $('<li id="vd-subgrp-' + subgrp +
-                                 '"><a href="#' + subgrp + '">' + label + ' [' + cnt + ']</a></li>');
-
-                    $btns = $btns.add($btn);
-
-                    $btn.click(function () { return toggleActive(subgrp, $btn); });
-                    $btnGrp.append($btn);
-                }
-
-                addBtn('ALL', TRANSL.dict.all, allCnt);
-                Object.keys(subGrpCnts).forEach(function (subgrp) {
-                    var cnt = subGrpCnts[subgrp];
-                    addBtn(subgrp, subgrpNames[subgrp], cnt);
-                });
-
-                $groupList.before(
-                    $('<div class="vd-group-filter">').append(
-                        $('<div class="vd-group-filter-inner hidden-xs"></div').append($btnGrp)
-                    )
-                );
-                //read the fragment-identifier and call the toggleActive(grp)
-                function followHash() {
-                    if (location.hash && location.hash.length > 1) {
-                        toggleActive(location.hash.slice(1));
-                    } else {
-                        toggleActive();
                     }
-                }
-                $(window).on('hashchange', followHash);
-                followHash();
-            }());
+                    $(window).on('hashchange', followHash);
+                    followHash();
+                }());
+            }
         }
+    });
+
+    /*
+     * Build up the group page 'history-timeline'
+     * =======================================================================
+     */
+    $(function () {
+        var $groupList = $('#vd-group-history'),
+            $items = $('.vd-group-timeline-item', $groupList),
+            $grid,
+            $tl = $("<div class='timeline'>");
+
+        $tl.append($("<div class='timeline-line'>"));
+
+        function allNonSpacerItems(fn) {
+            $items.each(function () {
+                var $it = $(this);
+                if ($it.hasClass('vd-group-item-spacer')) {
+                    return;
+                } //else
+                return fn($it, $it.data('tl-dot'));
+            });
+        }
+
+
+        $groupList.prepend($tl);
+        allNonSpacerItems(function ($it) {
+            var $dot = $('<span class="timeline-dot"><span>&nbsp;</span></span>');
+            $tl.append($dot);
+            $it.data('tl-dot', $dot);
+        });
+
+        $grid = $groupList.isotope({ // apply the masonry (default) layout.
+            // options
+            itemSelector: '.vd-group-timeline-item',
+            columnWidth: '.vd-group-timeline-item',
+            percentPosition: true
+        });
+
+
+        function postlayout(event, items) {
+            var tlpos = $tl.position(), tloff = $tl.offset();
+            allNonSpacerItems(function ($it, $dot) {
+                var itpos = $it.position(), itoff = $it.offset(), dh = Number($dot.css("height").replace(/\D/g, "")) || 0;
+                $it.removeClass('timeline-left').removeClass('timeline-right');
+                // note the extra -1 is required because the timeline is
+                // sometimes positione at fraction through 50%
+                if (itoff.left < (tloff.left - 1)) {
+                    $it.addClass('timeline-left');
+                } else {
+                    $it.addClass('timeline-right');
+                }
+                $dot.css("top", (itpos.top + dh) + "px");
+                window.console.log("handled reordering for item - " + dh);
+            });
+        }
+
+        $grid.on('layoutComplete', postlayout);
+        postlayout();
     });
 
     /*
