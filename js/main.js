@@ -70,6 +70,33 @@
         };
     }
 
+    /*
+     * image rotation stuff
+     * ---------------------------------------------------------------
+     */
+    function imgLoadAndRotate(imgs, time, fn) {
+        time = time || 5000 * (1 + Math.random(5000));
+        if (imgs === null || imgs === undefined || !imgs.length) {
+            return;
+        }
+        var imgcnt = imgs.length, imgndx = imgs.length;
+
+        function loaded() {
+            imgndx -= 1;
+            if (imgndx === 0) {
+                setInterval(function () {
+                    imgndx = (imgndx + 1) % imgcnt;
+                    fn(imgs[imgndx]);
+                }, time);
+            }
+        }
+
+        if (imgcnt > 1) {
+            imgs.forEach(function (img) {
+                $('<img src=' + img + '>').load(loaded);
+            });
+        }
+    }
 
     /*
      * Read and initialize TRANSL
@@ -145,8 +172,7 @@
 
             $groupItems.each(function () {
                 var $item = $(this), itemGeo, itemDsp, itemFmt,
-                    imgs, imgcnt, imgndx,
-                    subgroups;
+                    imgs, subgroups;
 
                 $items = $items.add($item);
 
@@ -172,24 +198,9 @@
                  * ---------------------------------------------------------------
                  */
                 imgs   = $item.data('images');
-                imgcnt = imgs.length;
-                imgndx = imgs.length;
-
-                function loaded() {
-                    imgndx -= 1;
-                    if (imgndx === 0) {
-                        setInterval(function () {
-                            imgndx = (imgndx + 1) % imgcnt;
-                            $('div.vd-group-item-inner', $item).css('background-image', "url('" + imgs[imgndx] + "')");
-                        }, 5000 * (1 + Math.random(5000)));
-                    }
-                }
-
-                if (imgcnt > 1) {
-                    imgs.forEach(function (img) {
-                        $('<img src=' + img + '>').load(loaded);
-                    });
-                }
+                imgLoadAndRotate(imgs, 0, function (url) {
+                    $('div.vd-group-item-inner', $item).css('background-image', "url('" + url + "')");
+                });
 
                 /*
                  * assemble facet-counts information
@@ -315,9 +326,14 @@
 
         $groupList.prepend($tl);
         allNonSpacerItems(function ($it) {
-            var $dot = $('<span class="timeline-dot"><span>&nbsp;</span></span>');
+            var $dot = $('<span class="timeline-dot"><span>&nbsp;</span></span>'), imgs;
             $tl.append($dot);
             $it.data('tl-dot', $dot);
+
+            imgs   = $it.data('images');
+            imgLoadAndRotate(imgs, 0, function (url) {
+                $('.vd-group-img img.img.img-thumbnail', $it).attr('src', url);
+            });
         });
 
         $grid = $groupList.isotope({ // apply the masonry (default) layout.
@@ -341,7 +357,6 @@
                     $it.addClass('timeline-right');
                 }
                 $dot.css("top", (itpos.top + dh) + "px");
-                window.console.log("handled reordering for item - " + dh);
             });
         }
 
