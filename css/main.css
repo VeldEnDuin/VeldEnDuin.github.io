@@ -313,6 +313,20 @@ body:before {
     position:relative;
 }
 
+.vd-group-timeline-item .vd-group-date {
+    font-size: 2em;
+}
+
+.vd-group-timeline-item .vd-group-date .month {
+    color: #8fb742;
+}
+
+.vd-group-timeline-item .vd-group-date .year {
+    color: #4f5137;
+}
+
+
+
 .vd-group-timeline-item .vd-group-item-inner {
     padding: 2em;
     border: 1px solid #4f5137;

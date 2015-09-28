@@ -40,6 +40,13 @@ layout: default
 {% endif %}
 {% for it in rankeditems %}
     {% assign title       = it.title[pgLang] %}
+    {% assign my_date     = it.date | date: "%m.%Y" %}
+    {% assign m_date      = it.date | date: "%m" %}
+    {% comment %}
+        see https://docs.shopify.com/themes/liquid-documentation/filters/additional-filters#date
+        %b == abreviated month name, %B = full month name
+    {% endcomment %}
+    {% assign y_date      = it.date | date: "%Y" %}
     {% assign description = it.description[pgLang] %}
     {% assign link        = it.link[pgLang] %}
     {% assign caption     = it.caption[pgLang] %}
@@ -64,6 +71,9 @@ layout: default
         <div class="vd-group-content">
           <div class="vd-group-content-arrow"></div>
           <div class="vd-group-content-inner">
+        {% if my_date %}
+            <div class="vd-group-date"><span class="month">{{ m_date }}</span>.<span class="year">{{ y_date }}</span></div>
+        {% endif %}
             <div class="vd-group-title">
         {% if link %}
               <a class="vd-link" href="{{ link }}" target="_blank">
