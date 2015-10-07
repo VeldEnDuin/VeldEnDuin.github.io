@@ -17,6 +17,14 @@ TODO
 - tijdslijn beheerstructuur in spreadsheet gooien!
 
 
+- doen layout
+    "vooral de groep-selectie banner moet anders:
+    - tussenlijntjes 
+    - cijfers weg (aantallen)
+    - geen padding tussen knop en buitenrand
+    - blijft over de hele breedte
+
+    OPM: zelfde vormgeving bij banner overnachten"
 
 
 - fotoalbum(s)
