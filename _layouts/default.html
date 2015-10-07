@@ -59,12 +59,12 @@
     <article>
       <div class="container-fluid">
         <div id="content" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+  {% if page.insert contains 'play-album' %}
+    {% include play-album.html %}
+  {% endif %}
   {{ content }}
   {% if page.insert contains 'virtualtour' %}
     {% include virtualtour.html %}
-  {% endif %}
-  {% if page.insert contains 'play-album' %}
-    {% include play-album.html %}
   {% endif %}
         </div>
       </div>

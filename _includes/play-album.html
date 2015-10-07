@@ -1,9 +1,14 @@
 {% assign albattr = "play-album" %}
+{% assign rndattr = "play-render" %}
 {% assign albid = site[albattr] %}
+{% assign albrender = site[rndattr] %}
 {% if page[albattr] %}
     {% assign albid = page[albattr] %}
 {% endif %}
+{% if page[rndattr] %}
+    {% assign albrender = page[rndattr] %}
+{% endif %}
 <div id="album" class="vd-album"
-     data-album='{"gp-id": {{site["gp-id"] | jsonify }}, "album-spec": {{albid | jsonify}} }'>
+     data-album='{"gp-id": {{site["gp-id"] | jsonify }}, "album-spec": {{albid | jsonify}}, "render": {{albrender | jsonify}} }'>
     album-player loading...
 </div>

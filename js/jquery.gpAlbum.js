@@ -158,8 +158,8 @@ For more information, please refer to <http://unlicense.org/>
     // use composite pattern to care for array of albumSpecs (ids)
     function compositeMatchFn(cms) {
         return function (id, name) {
-            return cms.some(function (mfn) {
-                return mfn(id, name);
+            return cms.some(function (matchFn) {
+                return matchFn(id, name);
             });
         };
     }
@@ -184,18 +184,18 @@ For more information, please refer to <http://unlicense.org/>
     }
     // makeMatchFn is a factory-method that creates the structure out of an 'albumSpec'
     function makeMatchFn(spec) {
-        var mfn, cms;
+        var matchFn, cms;
         if ($.isArray(spec)) {
             spec = flattenArray(spec);
             cms = [];
             spec.forEach(function (childSpec) {
                 cms.push(makeMatchFn(childSpec));
             });
-            mfn = compositeMatchFn(cms);
+            matchFn = compositeMatchFn(cms);
         } else {
-            mfn = simpleMatchFn(spec);
+            matchFn = simpleMatchFn(spec);
         }
-        return mfn;
+        return matchFn;
     }
 
     // make sizeFunction to handle window resize
@@ -238,6 +238,7 @@ For more information, please refer to <http://unlicense.org/>
         this.albums = {};
         this.albumList = undefined;
         this.albumMatch = makeMatchFn(this.config.albumspec);
+        this.showingId = ""; // none --> full list!
 
         this.$album = $elm.css("overflow", "hidden");
         jqEnableEvent($elm, 'heightUpdated');
@@ -247,16 +248,13 @@ For more information, please refer to <http://unlicense.org/>
         sizeUp = makeSizeAdaptFn(this.config.dimensions, $elm);
         $w.resize(sizeUp).trigger("resize");
 
-
         $elm.data('gpAlbum', this);
 
         jqEnableEvent($elm, 'contentUpdated');
         $(window).bind('storage', function (e) {
             // for events coming from other windows that are open and could see the update
-            /*
-            window.console.log("local storage update from other window on key == " +
-                               e.originalEvent.key);
-            */
+console.log("local storage update from other window on key == " + e.originalEvent.key);
+
             var matchResponse = me.matchCacheKey(e.originalEvent.key);
             if (matchResponse !== undefined) {
                 me.updateContent(matchResponse.id,
@@ -265,6 +263,7 @@ For more information, please refer to <http://unlicense.org/>
         });
 
         this.$album.contentUpdated(function (evt, data) {
+console.log("contentUpdated - data ==>", data);
             me.render(data.id);
         });
 
@@ -273,6 +272,7 @@ For more information, please refer to <http://unlicense.org/>
     }
 
     GpAlbum.prototype.updateContent = function (id, content) {
+console.log("updateContent - id = %s, content  ==>", id, content);
         var me = this;
         if (isEmpty(id)) {
             if (!isEmpty(content)) {
@@ -335,6 +335,7 @@ For more information, please refer to <http://unlicense.org/>
     };
 
     GpAlbum.prototype.putCache = function (albumId, data) {
+console.log("putCache albumId = %s, data ==>", albumId, data);
         var cached = putCache(this.cacheKey(albumId), data);
         this.updateContent(albumId, cached); // fire-event!
         return cached;
@@ -424,6 +425,7 @@ For more information, please refer to <http://unlicense.org/>
         }
 
         function loadFromCache(id) {
+console.log("loadFromCache id=%s", id);
             var content = me.getCache(id);
             if (!isEmpty(content)) {
                 me.updateContent(id, content);
@@ -431,28 +433,31 @@ For more information, please refer to <http://unlicense.org/>
         }
 
         loadFromCache("");
-        albumId = me.matchingAlbumIds[0];
-        loadFromCache(albumId);
-
+        if (me.matchingAlbumIds.length === 1) {
+            albumId = me.matchingAlbumIds[0];
+            loadFromCache(albumId);
+        }
+        
         function doLoad() {
             // TODO load albumList for account and process that
             albumList(account, function (aList) {
                 me.putCache("", aList);
-                albumId = me.matchingAlbumIds[0];
+                me.showingId = me.matchingAlbumIds.length === 0 ? me.matchingAlbumIds[0] : "";
 
-                var cachedAlbum = me.albums[albumId], emptyCache = true, staleCache = true;
+                if (me.showingId !== "") {
+                    var cachedAlbum = me.albums[albumId], emptyCache = true, staleCache = true;
 
-                if (!isEmpty(cachedAlbum)) {
-                    emptyCache = (isEmpty(cachedAlbum.lastmodified) || isEmpty(cachedAlbum.photoList));
-                    staleCache = cachedAlbum.lastmodified < aList.albumSet[albumId].updated;
+                    if (!isEmpty(cachedAlbum)) {
+                        emptyCache = (isEmpty(cachedAlbum.lastmodified) || isEmpty(cachedAlbum.photoList));
+                        staleCache = cachedAlbum.lastmodified < aList.albumSet[albumId].updated;
+                    }
+
+                    if (emptyCache || staleCache) {
+                        photoList(account, albumId, function (pList) {
+                            me.putCache(albumId, pList);
+                        });
+                    } // else no need to load this album
                 }
-
-                if (emptyCache || staleCache) {
-                    photoList(account, albumId, function (pList) {
-                        me.putCache(albumId, pList);
-                    });
-                } // else no need to load this album
-
             });
         }
 
@@ -780,51 +785,34 @@ For more information, please refer to <http://unlicense.org/>
         GpAlbum.RenderStrategy.strip = StripRenderStrategy;
     }());
 
+    
+    
     /*
-     *   render strategy 'turn' : using bootstrap - turnjs
+     *   render strategy 'browser' : for debugging
      *   ------------------------------------------------------------------
      */
-    /*
     (function () {
-        function TurnRenderStrategy(gpAlbum) {
-            this.$album = gpAlbum.$album;
-
-            var me = this;
-            this.$album.heightUpdated(function () { me.sizeUp(); }).trigger("heightUpdated");
+        function BrowserRenderStrategy(gpAlbum) {
+            this.$elm = gpAlbum.$album;
         }
-        TurnRenderStrategy.prototype.sizeUp = function () {
-            console.log("no turn resize yet"); return;
-
-            if (!isEmpty(this.$turn)) {
-                this.$turn.turn('size', (this.$album.width() - 10), (this.$album.height() - 10));
-            }
+        BrowserRenderStrategy.prototype.drawAlbumList = function (aListData) {
+            this.$elm.html('<pre>albs ==> \n' + JSON.stringify(aListData) + '</pre>');
         };
-        TurnRenderStrategy.prototype.drawAlbumList = function (aListData) {
-            this.$album.html('<pre>albs ==> \n' + JSON.stringify(aListData) + '</pre>');
-            this.$turn = null;
-        };
-        TurnRenderStrategy.prototype.drawPhotoList = function (pListData) {
-            var html = "", id = "flibook-" + Math.floor(Math.random() * 100000);
-            html += '<div id="' + id + '">';
+        BrowserRenderStrategy.prototype.drawPhotoList = function (pListData) {
+            var html = "";
+            html += '<pre>imgs ==> \n';
+            html += '\turl\t\t\t\t\t\t\t\t\t\t\t\t==>\tlbl\n';
             pListData.forEach(function (item, ndx) {
                 var imgurl = item.content,
                     imglbl = (isEmpty(item.caption)) ? "" : item.caption;
-                html += '<div class="page p' + (ndx + 1) + '">';
-                html += '<img src="' + imgurl + '" alt="' + imglbl + '">';
-                html += '</div>';
+                html += '\t' + imgurl + '"\t==>\t"' + imglbl + '"\n';
             });
-            html += '</div>';
+            html += '</pre>';
 
-            this.$turn = $(html);
-            this.$album.html('').append(this.$turn);
-            this.$turn.turn({display: "single"});
-            this.sizeUp();
+            this.$elm.html(html);
         };
-        GpAlbum.RenderStrategy.turn = TurnRenderStrategy;
+        GpAlbum.RenderStrategy.browser = BrowserRenderStrategy;
     }());
-    */
-
-    // TODO album-browser strategy for /pics replacement
 
 
     GpAlbum.prototype.getRenderer = function () {
@@ -839,7 +827,7 @@ For more information, please refer to <http://unlicense.org/>
             albumId = this.matchingAlbumIds[0],
             render = me.getRenderer(),
             content = me.getContent(albumId);
-
+console.log("RENDER // updateId = %s, albumId = %s, content ==>", updateId, albumId, content);
         // TODO support rendering more then only configured first album
         if (albumId === updateId && !isEmpty(content)) {
             if (isEmpty(albumId)) {

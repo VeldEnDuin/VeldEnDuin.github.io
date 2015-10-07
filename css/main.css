@@ -570,7 +570,7 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
  *   -------------------------------------------------------------------------------
  */
 .vd-footer {
-    margin-top: 4em;
+    /* margin-top: 4em; */
 }
 .vd-img-strip {
     height: 105px;
