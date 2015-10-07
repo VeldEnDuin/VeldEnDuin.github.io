@@ -21,6 +21,11 @@ news:
     de:  /de/nachrichten.html
 
 # [1] menu - goed om weten
+info:
+    nl:  /nl/goed-om-weten.html
+    fr:  /fr/bien-a-savoir.html
+    en:  /en/good-to-know.html
+    de:  /de/gut-zu-wissen.html
 troeven:
     nl:  /nl/onze-troeven.html
     fr:  /fr/nos-forces.html
@@ -68,7 +73,10 @@ verhuur_standaard-chalet:
 
 # [3] menu - voorzieningen
 voorzieningen:
-    #todo link for entry page
+    nl: /nl/voorzieningen.html
+    fr: /fr/aménagements.html
+    en: /en/facilities.html
+    de: /de/einrichtungen.html
 speel:
     nl: /nl/speelplein.html
     fr: /fr/cour-de-récréation.html

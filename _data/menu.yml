@@ -1,4 +1,5 @@
-- item:
+- linkcode: info
+  item:
     nl: Goed om weten
     fr: Bon à savoir
     en: Good to know
@@ -59,7 +60,8 @@
       item:
         nl:  Arrangementen
 
-- item:
+- linkcode: voorzieningen
+  item:
     nl:  Voorzieningen
     fr:  Aménagements
     en:  Facilities
