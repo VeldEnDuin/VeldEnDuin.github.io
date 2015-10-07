@@ -28,7 +28,7 @@
         data-toggle="dropdown" role="button" aria-expanded="false" class="dropdown-toggle"
        ><span>{{ pgLang }}</span>
     </a>
-    <ul class="dropdown-menu" role="menu">
+    <ul class="dropdown-menu dropdown-menu-narrow" role="menu">
 {% for lang in site.data.langs %}
 {% assign ln = lang[0] %}
         <li {% if ln == pgLang %}class="active"{% endif %}>

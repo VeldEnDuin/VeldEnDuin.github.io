@@ -1,5 +1,5 @@
 nl:
-    label: Nederlands
+    label: NL
     directions: ["N", "NO", "O", "ZO", "Z", "ZW", "W", "NW"]
     id:
         cx: 012964731216503545400:onwjrjqskq8
@@ -35,7 +35,7 @@ nl:
         empty: Helaas, geen resultaten gevonden voor de huidige zoekterm.
 
 fr:
-    label: français
+    label: FR
     directions: ["N", "NE", "E", "SE", "S", "SO", "O", "NO"]
     id:
         cx: 012964731216503545400:qlxwawrgx9q
@@ -67,7 +67,7 @@ fr:
         empty: (TODO FR) no results for term, followed by (term)
 
 de:
-    label: Deutsch
+    label: DE
     directions: ["N", "NO", "O", "SO", "S", "SW", "W", "NW"]
     id:
         cx: 012964731216503545400:yf3vj8omajg
@@ -99,7 +99,7 @@ de:
         empty: (TODO DE) no results for term, followed by (term)
 
 en:
-    label: English
+    label: EN
     directions: ["N", "NE", "E", "SE", "S", "SW", "W", "NW"]
     id:
         cx: 012964731216503545400:7thummrhqau

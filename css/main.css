@@ -63,6 +63,10 @@ body:before {
     margin-bottom: 0px;
 }
 
+.navbar .dropdown-menu-narrow {
+    min-width: 0;
+}
+
 .navbar li {
     border-right: 2px solid #8fb742;
 }
