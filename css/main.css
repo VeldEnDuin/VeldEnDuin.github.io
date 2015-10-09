@@ -272,7 +272,7 @@ body:before {
 .timeline .timeline-line {
     margin: 0 auto;
     height: 100% !important;
-    width: 10px;
+    width: 7px;
     border: 1px solid rgba(79, 81, 55, 1);
     background-color: rgba(79, 81, 55, 1);
     border-radius: 15px;
@@ -282,24 +282,30 @@ body:before {
     position: absolute;
     margin: 0 auto;
     display: block;
-    padding: 7px;
+    padding: 4px;
     height: 22px !important;
     width: 22px !important;
-    border: 1px dashed rgba(0,0,0,0.3);
-    background-color: rgba(255,255,255,0.8);
+    background-color: rgba(255,255,255,1);
     border-radius: 50%;
     padding: 1em;
 }
 
 .timeline .timeline-dot > span{
-    background-color: #8b9448;
+    background-color: rgb(143, 183, 66);
     position: absolute;
     display: block;
-    width: 12px !important;
-    height: 12px !important;
+    width: 18px !important;
+    height: 18px !important;
     border-radius: 50%;
-    top: 8px;
-    left: 8px;
+    top: 5px;
+    left: 5px;
+}
+
+.vd-group-timeline-item .img-thumbnail {
+    padding: 0;
+    background-color: transparent;
+    border: 0;
+    /* max-height: 300px; */
 }
 
 .vd-group-timeline .vd-group-item-spacer {
@@ -307,8 +313,8 @@ body:before {
 }
 
 .vd-group-timeline .vd-group-timeline-item {
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 30px;
+    padding-right: 30px;
     display: inline-block;
 }
 
@@ -319,32 +325,55 @@ body:before {
 
 .vd-group-timeline-item .vd-group-date {
     font-size: 2em;
+    text-transform: uppercase;
 }
 
 .vd-group-timeline-item .vd-group-date .month {
-    color: #8fb742;
-}
-
-.vd-group-timeline-item .vd-group-date .year {
     color: #4f5137;
 }
 
+.vd-group-timeline-item .vd-group-date .year {
+    color: #8fb742;
+}
 
 
 .vd-group-timeline-item .vd-group-item-inner {
     padding: 2em;
-    border: 1px solid #4f5137;
-    background-color: rgba(255,255,255,0.4);
+    background-color: rgba(143, 183, 66, 0.08);
     border-radius: 5px;
     display: block;
+    position: relative;
 }
 
-.vd-group-timeline-item.timeline-left .vd-group-item-inner {
-    border-right: 10px solid #4f5137;
+.vd-group-timeline-item .vd-group-item-inner .vd-group-title {
+    color: rgb(79, 81, 55);
 }
 
-.vd-group-timeline-item.timeline-right .vd-group-item-inner {
-    border-left: 10px solid #4f5137;
+.vd-group-timeline-item .vd-group-item-inner .vd-group-title {
+    font-size: 1.3em;
+}
+
+.vd-group-timeline-item .vd-group-item-inner:after {
+	top: 40px;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	border-color: rgba(0, 0, 0, 0);
+	border-width: 10px;
+	margin-top: -10px;
+}
+
+.vd-group-timeline-item.timeline-right .vd-group-item-inner:after {
+	right: 100%;
+	border-right-color: rgba(143, 183, 66, 0.08);
+}
+
+.vd-group-timeline-item.timeline-left .vd-group-item-inner:after {
+	left: 100%;
+	border-left-color: rgba(143, 183, 66, 0.08);
 }
 
 /*
