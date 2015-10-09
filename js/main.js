@@ -330,10 +330,12 @@
             $tl.append($dot);
             $it.data('tl-dot', $dot);
 
+            /*
             imgs   = $it.data('images');
             imgLoadAndRotate(imgs, 0, function (url) {
                 $('.vd-group-img img.img.img-thumbnail', $it).attr('src', url);
             });
+            */
         });
 
         $grid = $groupList.isotope({ // apply the masonry (default) layout.
