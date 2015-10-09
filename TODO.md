@@ -1,30 +1,15 @@
 TODO
 ====
-- styling tijdslijn aanpassen
-
-    - ander groen in de bol, bol groter, stippelijn weg, witte rand niet transparant
-    - geen brede rand tegen de lijn
-    - vinkjes (beksjes) naar de lijn
-    - eventueel wat dichter bij de lijn
-    - maand.jaartal --> vertaald! kleuren omgewisseld
-    - vaste afmeting voor beelden
-    - geen rand rond items
-    - tijdslijn zelf smaller
-    - geen kader rond de foto
-    - titel onder datum ietsje groter
-    - tekst-font iets grijzer (zie tekst op verhuur pagina) - ook qua size\
-
-- tijdslijn beheerstructuur in spreadsheet gooien!
 
 
 - doen layout
-    "vooral de groep-selectie banner moet anders:
-    - tussenlijntjes 
-    - cijfers weg (aantallen)
-    - geen padding tussen knop en buitenrand
-    - blijft over de hele breedte
-
-    OPM: zelfde vormgeving bij banner overnachten"
+    - "vooral de groep-selectie banner moet anders:
+        - tussenlijntjes 
+        - cijfers weg (aantallen)
+        - geen padding tussen knop en buitenrand
+        - blijft over de hele breedte
+        OPM: zelfde vormgeving bij banner overnachten"
+    - en dan ook de arrows volgens zelfde stijl van http://cssarrowplease.com/ == vele properder
 
 
 - fotoalbum(s)
