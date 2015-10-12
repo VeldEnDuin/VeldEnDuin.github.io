@@ -44,10 +44,10 @@
       item:
         nl:  Verhuur
       submenu:
+        - linkcode: verhuur_luxe-appartementen
         - linkcode: verhuur_appartement
         - linkcode: verhuur_comfort4
         - linkcode: verhuur_comfort4plus
-        - linkcode: verhuur_luxe-appartementen
         - linkcode: verhuur_standaard-caravan
         - linkcode: verhuur_standaard-chalet
     - linkcode: trek
