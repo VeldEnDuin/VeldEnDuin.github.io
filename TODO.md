@@ -1,14 +1,6 @@
 TODO
 ====
-
-
 - doen layout
-    - "vooral de groep-selectie banner moet anders:
-        - tussenlijntjes 
-        - cijfers weg (aantallen)
-        - geen padding tussen knop en buitenrand
-        - blijft over de hele breedte
-        OPM: zelfde vormgeving bij banner overnachten"
     - en dan ook de arrows volgens zelfde stijl van http://cssarrowplease.com/ == vele properder
 
 

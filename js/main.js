@@ -267,7 +267,7 @@
 
                     function addBtn(subgrp, label, cnt) {
                         var $btn = $('<li id="vd-subgrp-' + subgrp +
-                                     '"><a href="#' + subgrp + '">' + label + ' [' + cnt + ']</a></li>');
+                                     '"><a href="#' + subgrp + '">' + label + '</a></li>');
 
                         $btns = $btns.add($btn);
 
