@@ -46,10 +46,13 @@
       submenu:
         - linkcode: verhuur_luxe-appartementen
         - linkcode: verhuur_appartement
-        - linkcode: verhuur_comfort4
-        - linkcode: verhuur_comfort4plus
-        - linkcode: verhuur_standaard-caravan
+        - linkcode: verhuur_comfort4plus_chalet
+        - linkcode: verhuur_comfort4_chalet
+        - linkcode: verhuur_comfort4_caravan
+        - linkcode: verhuur_comfort2_chalet
+        - linkcode: verhuur_comfort2_caravan
         - linkcode: verhuur_standaard-chalet
+       
     - linkcode: trek
       item:
         nl:  Trekkers
