@@ -1,5 +1,12 @@
 TODO
 ====
+- verhuur detail pagina 
+  nav -- + links andere details + link practische-info
+  tables - styling!
+  foto's 
+  
+  eerste foto in background
+  
 
 - fotoalbum(s)
   - include one album
