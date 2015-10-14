@@ -233,7 +233,6 @@ body:before {
 {
     position: absolute;
     width: 100%;
-    background-color: rgba(255,255,255,0.8);
     transition: opacity 1.5s, bottom 1s;
     opacity: 0;
     bottom: -50%;
@@ -241,18 +240,25 @@ body:before {
     border-top-right-radius: 1px;
 }
 
-.vd-group-grid .vd-group-content .vd-group-content-arrow {
-    bottom: 10px;
-    margin: 0 auto 0 auto;
-    padding: 0;
-    border-bottom: 10px solid rgba(255,255,255,0.8);
-    border-left: 10px solid transparent;
-    border-right: 10px solid transparent;
-    width:  0;
-    position: relative;
-}
 .vd-group-grid .vd-group-content-inner {
-    padding: 0.5em 1em 0.5em 1em;
+    padding: 1em 1em 1em 1em;
+    position: relative;
+    background-color: rgba(255,255,255,0.8);
+}
+
+.vd-group-grid .vd-group-content-inner:after {
+	bottom: 100%;
+	left: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	border-color: rgba(255, 255, 255, 0);
+	border-bottom-color: rgba(255, 255, 255, 0.8);
+	border-width: 10px;
+	margin-left: -10px;
 }
 
 .vd-group-grid .vd-group-item:hover .vd-group-content

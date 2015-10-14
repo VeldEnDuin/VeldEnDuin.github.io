@@ -1,8 +1,5 @@
 TODO
 ====
-- doen layout
-    - en dan ook de arrows volgens zelfde stijl van http://cssarrowplease.com/ == vele properder
-
 
 - fotoalbum(s)
   - include one album
