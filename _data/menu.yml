@@ -33,7 +33,7 @@
         en: History
         de: Geschichte
 
-- linkcode: verhuur # linkcode here will hide sub menu
+- linkcode: verhuur
   item:
     nl: Overnachten
     fr: Passer la nuit
@@ -42,7 +42,8 @@
   submenu:
     - linkcode: verhuur
       item:
-        nl:  Verhuur
+        nl: Verhuur
+        fr: Location
       submenu:
         - linkcode: verhuur_luxe_appartementen
         - linkcode: verhuur_appartement
@@ -55,7 +56,7 @@
 
         - linkcode: verhuur_info
        
-    - linkcode: trek
+    - linkcode: trekkers
       item:
         nl:  Trekkers
     - linkcode: residentieel
