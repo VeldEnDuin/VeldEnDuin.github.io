@@ -16,63 +16,43 @@
 
 --> TODO beschrijf de specifieke preludes voor verhuur-item pagina's (overweeg andere artikels voor de specifieke document-types, en voor de foto's...)
 
-# VeldEnDuin.github.io
-Beheer van de publieke website www.veldenduin.be
+# Beheer site via Github - Brackets
 
-# Achtergrond
-## Onderbouw en tools
+De nieuwe site www.veldenduin.be wordt beheerd in Github - Brackets.
 
-### jekyll en liquid 
-- produceert uitgaande van de basiscode de effectieve site  
-- wordt gebruikt om gewijzigde teksten/opmaak lokaal te testen.
+## Achtergrond en begrippen
 
-### brackets 
+### Brackets 
 - wordt gebruikt voor het tekstbeheer en de opmaak maw hier worden de teksten van de site ingevoerd.
-- via modules in brackets gebruiken we
+- in brackets wordt gebruik gemaakt van:
+    - md: om teksten te schrijven met een minimale formatering (= vereenvoudigde html)
+    - yml: om data (lengtes, lijsten, geneste structuren zoals adressen) vereenvoudigd in een structuur te steken (= vereenvoudigde xml). Alle yml is terug te vinden onder _data.
+    - markdown: ingebouwde preview van tekst zodat je meteen kunt checken hoe ingegeven tekst eruit zal zien (= icoontje rechts met M + pijl naar beneden)
     - git: synchronisatieprogramma voor live zetten op github
-    - markdown: ingebouwde preview van tekst
-    
-In brackets kunnen wij aan volgende folders aanpassingen doen:
-    - data linkcode: links invoeren
-    - data menu: beheer talen en (sub)menu's
+
+In brackets kunnen door de receptie enkel aanpassingen aangebracht worden in volgende folders:
+    - _data menu.yml: beheer talen en (sub)menu's
+    - _data linkcode.yml: om links in te geven
     - img: foto's
     - nl/fr/de/en: beheer van teksten in bepaalde taal
     
-### uitbreidingsbeheer
-= legosteentje in rechterkolom. Als er updates zijn die nog niet geïnstalleerd werden, wordt dit legosteentje groen. Updaten kan dan door te klikken op de betreffende knop + sluiten.
 
-# Commit / Push / Pull
-## commit
-= aangeven dat iets afgewerkt is, bevestigen dat je klaar bent met een bepaalde wijziging.
+#### iconen in brackets
+rechts bovenaan (van boven naar onder):
+- platte bliksemschicht (live voorbeeld): 
+- legosteentje (extensiebeheer): als er updates zijn die nog niet geïnstalleerd werden, wordt dit legosteentje groen. Updaten kan dan door te klikken op de betreffende knop + sluiten.
+- kadosymbool met pijltje naar beneden (nieuwe versie):
+- blauw blokje met 'M' en pijltje naar beneden (markdown): ingebouwde preview van tekst zodat je meteen kunt checken hoe ingegeven tekst eruit zal zien
+- proefbuisje (run jekyll serve):
+- muzieknoot
 
-Hoe?
+### Jekyll en liquid 
+- produceert uitgaande van de basiscode de effectieve site  
+- wordt gebruikt om gewijzigde teksten/opmaak lokaal te testen.
 
-Via het speciale tekentje in de rechterkolom (kers? muzieknoot? met bolletje erboven) wordt er een scherm onderaan geopend. Hier kun je de commitknop gebruiken.
-Er wordt aangegeven welke wijzigingen er zijn. Door op het +/- teken te klikken zie je meer detail van de wijzigingen. Rood is wat gewijzigd/verwijderd werd, groen is het nieuwe resultaat.
+## Beheer site
 
-Als je het item dat gewijzigd werd aanvinkt, kun je ofwel committen ofwel 'discard changes' (wijzigingen verwerpen). Nadat je gecommit hebt, opmerkingen ingeven waarom je bepaalde wijziging aangebracht hebt.
-
-Om te committen is er geen internetverbinding nodig.
-
-## push / pull
-= synchroniseren van de gecommitte elementen met de server. 
-
-Pull: binnentrekken van de wijzingen die anderen hebben aangebracht.
-
-Push: buitenduwen van de wijzigingen die je zelf hebt aangebracht.
-
-Hoe?
-
-Via het icoontje met de pijl naar buiten (pull) of naar binnen (push). Bij de pushicoon staat ook aangegeven hoeveel commits nog niet gepusht werden. Dit aantal beperken door vlot wijzigingen te pushen.
-
-\! Bij begin werk begin je met een pull, op het einde van je werk commit + push.
-
-\! Als je met 2 aan het werk bent en één persoon al eerder gepusht heeft, krijg je mededeling dat iemand al gewijzigd heeft.
-
-
-# Brackets - Beheer van de site 
-## menu en navigatie
-
+### _data menu.yml
 De twee niveau's van het menu (hoofdmenu en submenu's) worden beheerd in het bestand [menu.yml].
 
 De structuur van dat bestand is deze:
@@ -187,7 +167,7 @@ Resultaat:
  rechts     | center            | links
 -----------:|:-----------------:|:-----
 hallo       | ik ben            | een zanger 
-een muziek- | behanger          | die dooie melodietjes
+een muziek- | behanger          | die dooie melodietjes<br>
 levend      | maakt. Coupletjes | en refreintjes
 
 
@@ -198,6 +178,27 @@ Door:
 hallo       | ik ben            | een zanger 
 een muziek- | behanger          | die dooie melodietjes
 levend      | maakt. Coupletjes | en refreintjes
+```
+! Combinatie van soorten centrering niet mogelijk vb titel links gecentreerd en info in de kolommen rechts gecentreerd.
+
+
+**harde splitsing binnenin een tabel:**
+
+Indien je tekst wil samenhouden binnen een bepaalde kolom. 
+
+Resultaat:
+
+LAAGSEIZOEN           |TUSSENSEIZOEN      |    HOOGSEIZOEN|
+:--------------------:|:-----------------:|:-------------:|
+november - maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april - juni, <br>september, oktober, <br>paas, herfst, krokus, <br>kerstvakantie | juli - augustus
+
+
+Door:
+```md
+Resultaat:
+LAAGSEIZOEN           |TUSSENSEIZOEN      |    HOOGSEIZOEN|
+:--------------------:|:-----------------:|:-------------:|
+november - maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april - juni, <br>september, oktober, <br>paas, herfst, krokus, <br>kerstvakantie | juli - augustus
 ```
 
 ### Links leggen en beheren
@@ -422,5 +423,32 @@ data/{name}.yml
             {volgende item ...}
             
 ```
+# Commit / Push / Pull
+## commit
+= aangeven dat iets afgewerkt is, bevestigen dat je klaar bent met een bepaalde wijziging.
+
+Hoe?
+
+Via het speciale tekentje in de rechterkolom (kers? muzieknoot? met bolletje erboven) wordt er een scherm onderaan geopend. Hier kun je de commitknop gebruiken.
+Er wordt aangegeven welke wijzigingen er zijn. Door op het +/- teken te klikken zie je meer detail van de wijzigingen. Rood is wat gewijzigd/verwijderd werd, groen is het nieuwe resultaat.
+
+Als je het item dat gewijzigd werd aanvinkt, kun je ofwel committen ofwel 'discard changes' (wijzigingen verwerpen). Nadat je gecommit hebt, opmerkingen ingeven waarom je bepaalde wijziging aangebracht hebt.
+
+Om te committen is er geen internetverbinding nodig.
+
+## push / pull
+= synchroniseren van de gecommitte elementen met de server. 
+
+Pull: binnentrekken van de wijzingen die anderen hebben aangebracht.
+
+Push: buitenduwen van de wijzigingen die je zelf hebt aangebracht.
+
+Hoe?
+
+Via het icoontje met de pijl naar buiten (pull) of naar binnen (push). Bij de pushicoon staat ook aangegeven hoeveel commits nog niet gepusht werden. Dit aantal beperken door vlot wijzigingen te pushen.
+
+\! Bij begin werk begin je met een pull, op het einde van je werk commit + push.
+
+\! Als je met 2 aan het werk bent en één persoon al eerder gepusht heeft, krijg je mededeling dat iemand al gewijzigd heeft.
 
 

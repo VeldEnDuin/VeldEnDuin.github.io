@@ -9,7 +9,7 @@ preview:
         - groot zonne-terras of balkon
         - 65 m²
         - vaatwas
-        - hele jaar door boekbaar
+        - 
 ---
 {% include links.md %}
 
@@ -35,8 +35,7 @@ Gelegen aan de ingang van de camping, bieden deze appartementen alle luxe met zi
 - Appartement tweede verdieping: max 6 personen
 - Huisdieren niet toegelaten - wel mogelijk in de chalets of caravans
 - Geen lift
-
-
+- Hele jaar door boekbaar
 
 ###Prijzen
 
