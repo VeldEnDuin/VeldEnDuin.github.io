@@ -60,22 +60,20 @@ arrangementen:
 # [2.1] submenu overnachten -> verhuur
 verhuur_appartement:
     nl:  /nl/overnachten/verhuur/appartement.html
-verhuur_comfort2_chalet:
-    nl:  /nl/overnachten/verhuur/comfort2-chalet.html
 verhuur_comfort2_caravan:
     nl:  /nl/overnachten/verhuur/comfort2-caravan.html
-verhuur_comfort4_chalet:
-    nl:  /nl/overnachten/verhuur/comfort4-chalet.html
+verhuur_comfort2_chalet:
+    nl:  /nl/overnachten/verhuur/comfort2-chalet.html
 verhuur_comfort4_caravan:
     nl:  /nl/overnachten/verhuur/comfort4-caravan.html
+verhuur_comfort4_chalet:
+    nl:  /nl/overnachten/verhuur/comfort4-chalet.html
 verhuur_comfort4plus_chalet:
     nl:  /nl/overnachten/verhuur/comfort4plus-chalet.html
 verhuur_luxe_appartementen:
     nl:  /nl/overnachten/verhuur/luxe-appartementen.html
 verhuur_standaard_chalet:
     nl:  /nl/overnachten/verhuur/standaard-chalet.html
-verhuur_info:
-    nl:  /nl/overnachten/verhuur/praktische-info.html
 
 # [3] menu - voorzieningen
 voorzieningen:
