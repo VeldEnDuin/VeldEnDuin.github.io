@@ -52,6 +52,8 @@
         - linkcode: verhuur_comfort2_chalet
         - linkcode: verhuur_comfort2_caravan
         - linkcode: verhuur_standaard_chalet
+
+        - linkcode: verhuur_info
        
     - linkcode: trek
       item:

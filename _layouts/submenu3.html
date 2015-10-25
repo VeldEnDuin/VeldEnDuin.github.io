@@ -9,14 +9,15 @@ layout: default
 {% include secondary-menu.html %}
 
     <div class="vd-select-list {{page.class.select.list}}" id="vd-select-list">
+
 {% for link in lvl2.submenu %}
     {% assign select = link.linkcode %}
     {% for pg in site.pages %}
         {% if pg.url == site.data.linkcode[select][pgLang] %}
-
-            {% assign linkPage = pg %}
-            {% include linkPageStyleSubMenu.html %}
-
+            {% unless pg.submenu == "hide" %}
+                {% assign linkPage = pg %}
+                {% include linkPageStyleSubMenu.html %}
+            {% endunless %}
         {% endif %}
     {% endfor %}
 {% endfor %}
