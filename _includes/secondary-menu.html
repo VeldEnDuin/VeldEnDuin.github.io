@@ -8,6 +8,13 @@
             {% assign lvl1 = m1 %}
             {% assign lvl2 = m2 %}
         {% endif %}
+        {% for m3 in m2.submenu %}
+            {% if pgLink == site.data.linkcode[m3.linkcode][pgLang] %}
+                {% assign lvl1 = m1 %}
+                {% assign lvl2 = m2 %}
+                {% assign lvl3 = m3 %}
+            {% endif %}
+        {% endfor %}
     {% endfor %}
 {% endfor %}
 
@@ -18,7 +25,7 @@
 <ul id="submenu" class="vd-group-filter-nav nav nav-pills nav-justified" >
 {% if lvl1.submenu and lvl1.linkcode %}
     {% for m2 in lvl1.submenu %}
-  <li {% if pgLink == site.data.linkcode[m2.linkcode][pgLang] %}class="active"{% endif %} >
+  <li {% if lvl2 == m2 %}class="active"{% endif %} >
     <a href="{{ site.data.linkcode[m2.linkcode][pgLang] }}" >
         {{ m2.item[pgLang]}}
     </a>
