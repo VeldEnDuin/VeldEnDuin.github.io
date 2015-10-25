@@ -257,7 +257,7 @@ De link via [klikbaar woord](http://anderewebsite.be) naar de andere site.
 ```
 
 
-### Pagina-Instellingen in de prelude
+## Prelude
 
 De ```*.md``` bestanden laten toe om specifieke pagina-instellingen te maken.  Deze instellingen worden gemaakt in de zogenaamde 'prelude' : een sectie bovenaan de file die wordt afgelijnd door een lijntje met ```---``` (drie mintekens) boven en onder de prelude.  De gegevens in prelude zelf volgen de [yaml](http://en.wikipedia.org/wiki/YAML) notatie
 
@@ -268,10 +268,9 @@ lijstcode:
     - eerste
     - tweede
 ---
-
-Na een lege lijn, begint dan je werkelijke text...
 ```
-
+Na een lege lijn, begint dan de eigenlijke tekst...
+```
 In deze prelude kunnen volgende instellingen gemaakt worden die door deze site worden opgepikt:
 
   {code}   |   type |    voorbeeld          | gebruik
