@@ -34,10 +34,10 @@ Git en github worden aangestuurd vanuit brackets.
     - yml: om data (waarden, lijsten, geneste structuren zoals adressen) vereenvoudigd in een structuur te steken (= vereenvoudigde xml). Alle yml-files zijn terug te vinden onder de folder _data.
 
 In brackets worden door de receptie enkel aan volgende bestanden en folders aanpassingen aangebracht:
-    - _data --> menu.yml: beheer talen en (sub)menu's
     - _data --> linkcode.yml: om links te definiëren
-    - img: foto's
+    - _data --> menu.yml: beheer talen en (sub)menu's
     - nl, fr, de, en: beheer van teksten in bepaalde taal
+    - img: foto's
     - posts
     
 
@@ -48,57 +48,76 @@ rechts bovenaan (van boven naar onder):
 - kadosymbool met pijltje naar beneden (nieuwe versie): staat er enkel als er een nieuwe versie is - te installeren door Marc
 - blokje met 'M' en pijltje naar beneden (markdown): ingebouwde preview van tekst zodat je meteen kunt checken hoe ingegeven tekst eruit zal zien. Blokje is enkel zichtbaar als je met md-file aan het werken bent. Kleur (blauw of grijs) geeft aan of de preview al dan niet actief is.
 - proefbuisje (run jekyll serve): voorlopig niet gebruiken.
-- wegsplitsing
+- wegsplitsing: geeft zicht en controle op het versiebeheer via git en github. Alle verdere info hierover onder commit / push / pull.
 
-### Jekyll en liquid 
-- produceert uitgaande van de basiscode de effectieve site  
-- wordt gebruikt om gewijzigde teksten/opmaak lokaal te testen.
 
-## Beheer site
+## Aanmaken nieuwe webpagina
+Bij aanmaak van een nieuwe webpagina moeten steeds een aantal stappen gerespecteerd worden. 
 
-### _data menu.yml
-De twee niveau's van het menu (hoofdmenu en submenu's) worden beheerd in het bestand [menu.yml].
+**Belangrijk**:
+gebruik geen spaties, in plaats daarvan:
+- in bestandsnamen: gebruik minteken '-'
+- in linkcodes: gebruik underscore '_' 
 
-De structuur van dat bestand is deze:
+### Stap 1: nieuwe webpagina maken
+- Maak nieuwe *md-file aan (info over lay-out volgt verder).
+- Van zodra je een nieuwe *md-file bewaart, wordt er - achter de schermen - automatisch meteen ook een html webpagina aangemaakt.
+
+Voorbeeld:
+
+```nl/overnachten/verhuur/appartement.md``` wordt dan ```http://.../nl/overnachten/verhuur/appartement.html```
+
+! *md-files worden in brackets alfabetisch getoond. De volgorde die je op je site wil, wordt vastgelegd in de _data menu.yml.
+
+### Stap 2: aanmaken linkcodes
+Linkcodes worden aangemaakt in _data --> linkcode.yml. 
+Hierin vind je het overzicht van alle mogelijke linkbare webpagina's waarnaar je kunt linken.
+
+Voor elke webpagina die je maakt, moet een unieke link-code aangemaakt worden. 
+- Eerst komt een **taal-onafhankelijke ** linkcode maw 1 code voor de verschillende taalvarianten. Kies hiervoor een zinvolle en herkenbare naam.
+- Daaronder volgen dan de links naar de verschillende talen.
+
+Voorbeeld:
+
+```yml
+verhuur_appartement: (= taalonafhankelijke code)
+    nl: /nl/overnachten/verhuur/appartement.html (= nederlandse link)
+    fr: /fr/séjourner/location/appartement.html (= franse link)
+```
+  
+**Belangrijk**:
+- In de linkcodes enkel kleine letters gebruiken.
+- De volgorde van de linkcodes is vrij maar best groeperen per submenu. 
+
+### Stap 3: navigatie bepalen
+Met navigatie bedoelen we die set van links die op verschillende pagina's (en verschillende niveaus) terugkomen.
+De verschillende niveaus van het menu (hoofdmenu - submenu - subsubmenu...) worden beheerd via _data --> menu.yml.
+
+Hier vind je de boomstructuur en namen zoals ze ook op de site terug te vinden zijn.
+
+De structuur van dat bestand is als volgt:
 ```yml
 - linkcode: {link-code}
-  item:
+  menutekst:
     {taal-code}: {label}
     {taal-code} ... // zelfde voor volgende taal
   submenu:
     - linkcode: {link-code} 
-      item:
+      menutekst:
         {taal code}:{label}
-    - linkcode: ... // meer submenu opties met linkcode en 
-      item:     ... // item-taal-labels... zoals voorgaande
-- ...:... // meer menu-items zoals voorgaande
-```
+```   
+Je kunt zoveel menu/submenu lijnen invoeren als je wilt.
 
-Daarin vervang je
+De vermelde ```{link-code}``` code is een verwijzing naar de oplijsting van alle beschikbare "links"  binnen de website zoals je ze vindt onder linkcode.yml.
 
-{deze elementen} | door deze waarden | om dit te bereiken
------------------|-------------------|-------------------
-{taal-code}      | nl, fr, de, en    | 2-letter taal code die naam en link beschrijven voor die taal
-{label}          | bv. Mijn Tekst    | Het label dat in het menu zichtbaar zal zijn voor de eindgebruiker
-{link-code}      | bv. link1         | De code van de link naar de pagina die gevolgd wordt als deze menuoptie wordt gekozen -- voor hoofdmenu's met sub-secties wordt die doorgaans weggelaten op niveau 1
+Het niveau van 'inspringen' in deze bestanden is cruciaal voor het gewenste effect. Inspringen kan met tab of spatie.
 
-Je kunt zoveel menu/submenu lijnen invoeren als je wilt, er moet natuurlijk wel genoeg plaats zijn om alle menu-items te kunnen bevatten.
-
-Door onder de sectie ```submenu:```  meer ```-item```s toe te voegen, maak je submenu-items die zich op het tweede niveau bevinden (onder het huidige menu dus). Menu's met een subniveau hebben typisch geen eigen ```{link-code}``` nodig, want als je er op klikt moet het subniveau opengaan, en dus wordt de link toch niet gevolgd.
-
-De vermelde ```{link-code}``` code is een verwijzing naar de centrale lijst van alle beschikbare "links"  binnen de website.  Deze staan opgelijst in het bestand [linkcode.yml].  Dat bestand volgt deze structuur:
-
-```yml
-{link-code}:
-    nl:  /nl/verwijzing-naar-nl-bestand.html
-    fr:  /fr/reference-pour-fichier-fr.html
-    en:  /en/link-to-en-file.html
-    de:  /de/verweis-auf-de-datei.html
-```
-
-Door hier een verwijzing te definieren maak je een de bijhorende unieke en zelfgekozen ```{link-code}``` die alle informatie bevat om anafhankelijk van de taal van de gebruiker te wijzen naar de juiste pagina vanuit het menu, of zelfs vanuit de doorlopende tekst (zie verder).
-
-Het niveau van 'inspringen' in deze bestand is cruciaal voor het gewenste effect. Inspringen kan met tab of spatie.
+##### Tips & tricks
+- CTRL SHFT pijltje omhoog: geselecteerde tekst naar boven verschuiven
+- CTRL SHFT pijltje omlaag: geselecteerde tekst naar beneden verschuiven
+- CTRL D: dupliceren van huidige lijn of selectie
+- CLTL SHFT D: verwijderen
+- CTRL Z: undo
 
 ## Md-file maken
 Om nieuw bestand te maken in bepaalde taalfolder:
@@ -109,25 +128,19 @@ Elke md-file moet starten met prelude (cfr verder voor meer detail) die minmaal 
 ```md
 ---
 ---
-
-Vanaf hier begint je echte text...
 ```
+Vanaf hier begint je echte tekst.
 
-## Alle pagina's / ongeacht layout
 
-Deze website laat toe de web-pagina's en de elementen erin te noteren in zogenaamde *markdown* notatie.  Deze betanden zijn te herkennen aan hun ```*.md``` extensie.  Hieronder beschrijven we wat je in deze site met deze bestanden kunt doen.
 
-### Locatie van de bestanden
 
-In het algemeen worden deze pagina's best per taal georganizeerd. Deze site bevat reeds specifieke folders voor volgende talen: [nl], [fr], [en], [de].  Speciale types tekst die ook als onderdeel op andere pagina's moeten verschijnen (voornamelijk de nieuws-artikels) krijgen een andere locatie (zie verder) 
+
+In het algemeen worden deze pagina's best per taal georganiseerd. Deze site bevat reeds specifieke folders voor volgende talen: [nl], [fr], [en], [de].  Speciale types tekst die ook als onderdeel op andere pagina's moeten verschijnen (voornamelijk de nieuws-artikels) krijgen een andere locatie (zie verder) 
 
 Om een taal toe te voegen kun je een nieuwe folder beginnen, en ze uitwerken in het [langs.yml] bestand.
 
-**Tip:** De hier beschreven locaties voor de pagina.md bestanden zijn **niet** strikt vereist om een werkend systeem te krijgen.  De juiste aanduiding van de paden in de [linkcode.yml] is eigenlijk het enige wat echt telt.  Toch is de voorgestelde opdeling in folders vooral nuttig om te blijven alles vlot terug te vinden.  Waar zinvol mogen voor dezelfde reden (organisatie en vindbaarheid) dus ook naar believen verdere onderverdelingen gemaakt door het toevoegen van subfolders.
-
-### Grafische elementen
-Verschillende grafische effecten kunnen op makkelijke manier ingegeven worden.
-Dit door de zogenaamde [Markdown notatie](https://help.github.com/articles/github-flavored-markdown/) te hanteren. We vermelden hier de voor deze site meest nuttige elementen daaruit:
+### Opmaak
+Opmaak kan via de zogenaamde [Markdown notatie](https://help.github.com/articles/github-flavored-markdown/) te gebruiken. We vermelden hier de voor deze site meest nuttige mogelijkheden:
 
 **bold:** 
 tekst in **vetjes** krijg je door dubbele sterren ```**``` voor en achter toe te voegen
@@ -136,14 +149,14 @@ tekst in **vetjes** krijg je door dubbele sterren ```**``` voor en achter toe te
 tekst in *cursief* krijg je door enkele sterren ```*``` voor en achter toe te voegen
 
 **lijstjes:**
-door een ```-``` of ```*``` teken met spatie aan het begin van een lijn te gebruiken kun je makkelijk lijstjes aanmaken:
+door een ```-``` of ```*``` teken met spatie aan het begin van een lijn te gebruiken maak je lijstjes aan:
 * item 1
 * item 2
 - topic 3
 
 
 **gescheiden paragrafen:**
-Lege lijnen zijn in dit formaat belangrijk om gescheiden paragrafen te maken.
+lege lijnen zijn belangrijk om gescheiden paragrafen te maken.
 Zonder de lege tussenlijn worden teksten aan dezelfde paragraaf toegevoegd. 
 
 
@@ -157,7 +170,7 @@ Zonder de lege tussenlijn worden teksten aan dezelfde paragraaf toegevoegd.
 ## hoofd 2
 ### hoofd 3 (enz.)
 
-**tabellen:** Kun je aanmaken door de kolommen met ```|``` tekens te scheiden en (belangrijk) ook de eerste rij van de volgende te scheiden met ```---|---``` lijnen waar het aantal kolommen in terugkomt
+**tabellen:** kun je aanmaken door de kolommen met ```|``` tekens te scheiden en (belangrijk) ook de eerste rij van de volgende te scheiden met ```---|---``` lijnen.
 
 Belangrijk: De scheidingslijnen moeten minstens 3 mintekens lang zijn
 
@@ -209,7 +222,7 @@ november - maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | apr
 
 In de ```*.md``` bestanden kun je ook makkelijk links naar andere web-pagina's leggen.
 
-Voor alle pagina's waarnaar je wilt linken, vanuit de menu, of vanuit de tekst is het best vooraf een zogenaamde ```{link-code}``` te voorzien.  Dit doe je door ze toe te voegen aan de [linkcode.yml].  De layout van dat bestand is zo:
+Voor alle pagina's waarnaar je wilt linken (vanuit menu of vanuit tekst) is het best vooraf een zogenaamde ```{link-code}``` te voorzien.  Dit doe je door ze toe te voegen aan de [linkcode.yml].  De layout van dat bestand is zo:
 
 ```yml
 {linkcode}: 

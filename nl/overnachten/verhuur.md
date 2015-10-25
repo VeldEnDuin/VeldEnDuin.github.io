@@ -11,6 +11,3 @@ preview:
 images:
     - /img/ingang.jpg
 ---
-
-# Te Huur 
-pagina over wat te huur is
