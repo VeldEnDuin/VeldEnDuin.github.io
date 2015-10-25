@@ -1,5 +1,5 @@
 ---
-layout: submenu3
+layout: default
 title: Verhuur
 banner: TODO - trigger tekst vanop VERHUUR page
     
