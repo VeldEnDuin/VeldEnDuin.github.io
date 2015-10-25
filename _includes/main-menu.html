@@ -22,7 +22,7 @@
            {% if m1.submenu %}{% unless m1.linkcode %}
                data-toggle="dropdown" role="button" aria-expanded="false" class="dropdown-toggle"
            {% endunless %}{% endif %}
-           >{{ m1.item[pgLang] }}
+           >{{ m1.menutekst[pgLang] }}
         </a>
 
         {% if m1.submenu %}{% unless m1.linkcode %}
@@ -30,7 +30,7 @@
                 {% for m2 in m1.submenu %}
                     <li {% if active2 == m2 %}class="active"{% endif %} >
                         <a href="{{ site.data.linkcode[m2.linkcode][pgLang] }}" >
-                        {{ m2.item[pgLang]}}
+                        {{ m2.menutekst[pgLang]}}
                         </a>
                     </li>
                 {% endfor %}

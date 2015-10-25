@@ -27,7 +27,7 @@
     {% for m2 in lvl1.submenu %}
   <li {% if lvl2 == m2 %}class="active"{% endif %} >
     <a href="{{ site.data.linkcode[m2.linkcode][pgLang] }}" >
-        {{ m2.item[pgLang]}}
+        {{ m2.menutekst[pgLang]}}
     </a>
   </li>
     {% endfor %}

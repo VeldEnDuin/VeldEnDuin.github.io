@@ -1,47 +1,47 @@
 - linkcode: info
-  item:
+  menutekst:
     nl: Goed om weten
     fr: Bon à savoir
     en: Good to know
     de: Gut zu wissen
   submenu:
     - linkcode: troeven
-      item:
+      menutekst:
         nl: Onze troeven
         fr: Nos forces
         en: Our strengths
         de: Unsere Stärken
 
     - linkcode: hier-staan-we-voor
-      item:
+      menutekst:
         nl: Hier staan we voor
         fr: Ce que nous représentons
         en: What we stand for
         de: Wofür wir stehen
 
     - linkcode: wie-zijn-we
-      item:
+      menutekst:
         nl: Wie zijn we
         fr: Qui sommes-nous
         en: Who we are
         de: Wer wir sind
 
     - linkcode: history
-      item:
+      menutekst:
         nl: Geschiedenis
         fr: Histoire
         en: History
         de: Geschichte
 
 - linkcode: verhuur # linkcode here will hide sub menu
-  item:
+  menutekst:
     nl: Overnachten
     fr: Passer la nuit
     en: Staying overnight
     de: Übernachten
   submenu:
     - linkcode: verhuur
-      item:
+      menutekst:
         nl:  Verhuur
       submenu:
         - linkcode: verhuur_appartement
@@ -56,80 +56,80 @@
         - linkcode: verhuur_info
        
     - linkcode: trek
-      item:
+      menutekst:
         nl:  Trekkers
     - linkcode: residentieel
-      item:
+      menutekst:
         nl:  Residentieel Verblijf
     - linkcode: appartement
-      item:
+      menutekst:
         nl:  Arrangementen
 
 - linkcode: voorzieningen
-  item:
+  menutekst:
     nl:  Voorzieningen
     fr:  Aménagements
     en:  Facilities
     de:  Einrichtungen
   submenu:
     - linkcode: speel
-      item:
+      menutekst:
         nl:  Speelplein
         fr:  Cour de récréation
         en:  Playground
         de:  Spielplatz
     - linkcode: animatie
-      item:
+      menutekst:
         nl:  Animatie
         fr:  Animation
         en:  Animation
         de:  Animation
     - linkcode: petanque
-      item:
+      menutekst:
         nl:  Petanque
         fr:  Terrain de pétanque
         en:  Boules
         de:  Boules
     - linkcode: internet
-      item:
+      menutekst:
         nl:  Internet
         fr:  Internet
         en:  Internet
         de:  Internet
     - linkcode: sanitair
-      item:
+      menutekst:
         nl:  Sanitair
         fr:  Sanitaire
         en:  Sanitary
         de:  Sanitär
     - linkcode: wassalon
-      item:
+      menutekst:
         nl:  Wassalon
         fr:  Buanderie
         en:  Washroom
         de:  Waschraum
     - linkcode: sauna
-      item:
+      menutekst:
         nl:  Sauna
         fr:  Sauna
         en:  Sauna
         de:  Sauna
     - linkcode: infomuur
-      item:
+      menutekst:
         nl:  Infomuur
         fr:  Wall Info
         en:  info wall
         de:  info Wand
 
 - linkcode: doen
-  item:
+  menutekst:
     nl:  Doen
     fr:  Que faire
     en:  Activities
     de:  Zu Tun
 
 - linkcode: fotos
-  item:
+  menutekst:
     nl:  Foto's
     fr:  Foto's
     en:  Foto's
