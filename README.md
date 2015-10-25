@@ -22,29 +22,33 @@ De nieuwe site www.veldenduin.be wordt beheerd in Github - Brackets.
 
 ## Achtergrond en begrippen
 
+### Git / Github
+Git is een lokaal versiebeheersysteem. Het wordt gebruikt om alle code (techniek / stijl / teksten) van de site te beheren. Om die versies publiek te maken, wordt github gebruikt. 
+Git en github worden aangestuurd vanuit brackets.
+
 ### Brackets 
 - wordt gebruikt voor het tekstbeheer en de opmaak maw hier worden de teksten van de site ingevoerd.
 - in brackets wordt gebruik gemaakt van:
-    - md: om teksten te schrijven met een minimale formatering (= vereenvoudigde html)
-    - yml: om data (lengtes, lijsten, geneste structuren zoals adressen) vereenvoudigd in een structuur te steken (= vereenvoudigde xml). Alle yml is terug te vinden onder _data.
-    - markdown: ingebouwde preview van tekst zodat je meteen kunt checken hoe ingegeven tekst eruit zal zien (= icoontje rechts met M + pijl naar beneden)
-    - git: synchronisatieprogramma voor live zetten op github
+    - md: om teksten te schrijven met een minimale formatering (= vereenvoudigde html). Via de markdown (= icoontje rechts met M + pijl naar beneden) krijg je een ingebouwde preview van de tekst zodat je meteen kunt checken hoe ingegeven tekst er ongeveer zal uitzien.
+    
+    - yml: om data (waarden, lijsten, geneste structuren zoals adressen) vereenvoudigd in een structuur te steken (= vereenvoudigde xml). Alle yml-files zijn terug te vinden onder de folder _data.
 
-In brackets kunnen door de receptie enkel aanpassingen aangebracht worden in volgende folders:
-    - _data menu.yml: beheer talen en (sub)menu's
-    - _data linkcode.yml: om links in te geven
+In brackets worden door de receptie enkel aan volgende bestanden en folders aanpassingen aangebracht:
+    - _data --> menu.yml: beheer talen en (sub)menu's
+    - _data --> linkcode.yml: om links te definiëren
     - img: foto's
-    - nl/fr/de/en: beheer van teksten in bepaalde taal
+    - nl, fr, de, en: beheer van teksten in bepaalde taal
+    - posts
     
 
-#### iconen in brackets
+#### iconen (extenties) in brackets
 rechts bovenaan (van boven naar onder):
-- platte bliksemschicht (live voorbeeld): 
+- platte bliksemschicht (live voorbeeld): niet gebruiken. 
 - legosteentje (extensiebeheer): als er updates zijn die nog niet geïnstalleerd werden, wordt dit legosteentje groen. Updaten kan dan door te klikken op de betreffende knop + sluiten.
-- kadosymbool met pijltje naar beneden (nieuwe versie):
-- blauw blokje met 'M' en pijltje naar beneden (markdown): ingebouwde preview van tekst zodat je meteen kunt checken hoe ingegeven tekst eruit zal zien
-- proefbuisje (run jekyll serve):
-- muzieknoot
+- kadosymbool met pijltje naar beneden (nieuwe versie): staat er enkel als er een nieuwe versie is - te installeren door Marc
+- blokje met 'M' en pijltje naar beneden (markdown): ingebouwde preview van tekst zodat je meteen kunt checken hoe ingegeven tekst eruit zal zien. Blokje is enkel zichtbaar als je met md-file aan het werken bent. Kleur (blauw of grijs) geeft aan of de preview al dan niet actief is.
+- proefbuisje (run jekyll serve): voorlopig niet gebruiken.
+- wegsplitsing
 
 ### Jekyll en liquid 
 - produceert uitgaande van de basiscode de effectieve site  
