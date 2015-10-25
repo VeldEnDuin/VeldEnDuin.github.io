@@ -44,13 +44,13 @@
       item:
         nl:  Verhuur
       submenu:
-        - linkcode: verhuur_appartement
-        - linkcode: verhuur_comfort2_caravan
-        - linkcode: verhuur_comfort2_chalet
-        - linkcode: verhuur_comfort4_caravan
-        - linkcode: verhuur_comfort4_chalet
-        - linkcode: verhuur_comfort4plus_chalet
         - linkcode: verhuur_luxe_appartementen
+        - linkcode: verhuur_appartement
+        - linkcode: verhuur_comfort4plus_chalet
+        - linkcode: verhuur_comfort4_chalet
+        - linkcode: verhuur_comfort4_caravan
+        - linkcode: verhuur_comfort2_chalet
+        - linkcode: verhuur_comfort2_caravan
         - linkcode: verhuur_standaard_chalet
        
     - linkcode: trek
