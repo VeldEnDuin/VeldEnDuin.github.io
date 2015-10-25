@@ -48,27 +48,31 @@ history:
     fr:  /fr/histoire.html
 
 # [2] menu - overnachten
-huur:
+verhuur:
     nl:  /nl/overnachten/verhuur.html
-trek:
+trekkers:
     nl:  /nl/overnachten/trekkers.html
 residentieel:
     nl:  /nl/overnachten/residentieel.html
-appartement :
+arrangementen:
     nl:  /nl/overnachten/arrangement.html
 
 # [2.1] submenu overnachten -> verhuur
 verhuur_appartement:
     nl:  /nl/overnachten/verhuur/appartement.html
-verhuur_comfort4:
-    nl:  /nl/overnachten/verhuur/comfort4.html
-verhuur_comfort4plus:
-    nl:  /nl/overnachten/verhuur/comfort4plus.html
-verhuur_luxe-appartementen:
+verhuur_comfort2_chalet:
+    nl:  /nl/overnachten/verhuur/comfort2-chalet.html
+verhuur_comfort2_caravan:
+    nl:  /nl/overnachten/verhuur/comfort2-caravan.html
+verhuur_comfort4_chalet:
+    nl:  /nl/overnachten/verhuur/comfort4-chalet.html
+verhuur_comfort4_caravan:
+    nl:  /nl/overnachten/verhuur/comfort4-caravan.html
+verhuur_comfort4plus_chalet:
+    nl:  /nl/overnachten/verhuur/comfort4plus-chalet.html
+verhuur_luxe_appartementen:
     nl:  /nl/overnachten/verhuur/luxe-appartementen.html
-verhuur_standaard-caravan:
-    nl:  /nl/overnachten/verhuur/standaard-caravan.html
-verhuur_standaard-chalet:
+verhuur_standaard_chalet:
     nl:  /nl/overnachten/verhuur/standaard-chalet.html
 
 # [3] menu - voorzieningen
@@ -132,6 +136,6 @@ fotos:
 
 # [* ] losse content - alleen interne links en taal-koppeling
 fietslabel:
-    nl:  /nl/fietsvriendelijk.html
+    nl:  /nl/voorzieningen/fietsvriendelijk.html
 qlabel:
-    nl:  /nl/qlabel.html
+    nl:  /nl/overnachten/qlabel.html
