@@ -214,7 +214,7 @@ LAAGSEIZOEN           |TUSSENSEIZOEN      |    HOOGSEIZOEN|
 november - maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april - juni, <br>september, oktober, <br>paas, herfst, krokus, <br>kerstvakantie | juli - augustus
 ```
 
-### Links leggen en beheren
+### Links leggen en beheren - nog te bekijken
 
 In de ```*.md``` bestanden kun je ook makkelijk links naar andere web-pagina's leggen.
 
@@ -259,12 +259,14 @@ De ```*.md``` bestanden laten toe om specifieke pagina-instellingen te bepalen. 
 
 In de prelude staat ook de metadata die gebruikt wordt om andere pagina's te voeden. Voorbeeld: in de prelude van 'overnachten / verhuur / appartementen' staan de kenmerken die op de hoofdpagina 'overnachten / verhuur' komen.
 
+Voorbeeld structuur prelude:
+
 ```md
 ---
-code: value
-lijstcode:
-    - eerste
-    - tweede
+code (vb layout): value (vb default)
+code2 (vb imgs):
+    - eerste (bv /img/foto10.jpg)
+    - tweede (...)
 ---
 ```
 
@@ -274,9 +276,9 @@ In deze prelude kunnen volgende instellingen gemaakt worden die door deze site w
 
   {code}   |   type |    voorbeeld          | gebruik
 -----------|--------|-----------------------|--------------------
-layout     | tekst  | layout:&nbsp;landing  | Wijst naar een beschikbare layout voor deze pagina (mogelijke opties: cfr verder).
-title      | tekst  | title:&nbsp;Mijn&nbsp;Titel| De vrij gekozen titel van de pagina.
-images     | lijst  | images:<br>&nbsp;&nbsp;-&nbsp;/img/een.jpg<br>&nbsp;&nbsp;-&nbsp;/img/twee.jpg | De oplijsting van beelden die aan dit artikel worden ge-associeerd.
+layout     | tekst  | layout:&nbsp;landing  | **verplicht** Wijst naar een beschikbare layout voor deze pagina (mogelijke opties: cfr verder).
+title      | tekst  | title:&nbsp;Mijn&nbsp;Titel| **verplicht** De vrij gekozen titel van de pagina.
+images     | lijst  | images:<br>&nbsp;&nbsp;-&nbsp;/img/een.jpg<br>&nbsp;&nbsp;-&nbsp;/img/twee.jpg | De oplijsting van beelden die aan dit artikel worden ge-associeerd (cfr verdere info over imgs)
 insert     | lijst  | insert:<br>&nbsp;&nbsp;- virtualtour | Gekozen specifieke scherm-elementen zijn vanzelf uitgeschakeld, maar worden hiermee expliciet aangezet. (Zie hieronder voor de opties.)
 remove     | lijst  | remove:<br>&nbsp;&nbsp;- banner | Gekozen specifieke scherm-elementen zijn vanzelf beschikbaar, maar kunnen hiermee worden afgezet.  (Zie hieronder voor de opties.)
 
@@ -285,11 +287,11 @@ De beschikbare layouts in de prelude zijn:
 
 layout  | gebruikt voor
 --------|--------------
-default | Standaard pagina. Bevat alle gemeenschappelijke elementen
+default | Standaard pagina lay-out, dit voegt de algemene vormgeving toe aan de pagina.
 post    | Nieuws-artikel. 
-group   | Groep van filterbare elementen. (zie activiteiten)
-landing | Pagina waarop mensen de site binnenkomen. Home page, maar ook specifieke campagne-pagina's vallen hieronder
-verhuur-item| Een specifieke layout voor de opmaak van verhuur-item-pagina's
+group   | Groep van meerdere elementen (doen-pagina en tijdslijn).
+landing | Pagina waarop mensen de site binnenkomen. Home page, maar ook specifieke campagne-pagina's vallen hieronder.
+verhuur-item| Een specifieke layout voor de opmaak van verhuur-item-pagina's.
 
 
 ### Prelude: insert
@@ -300,6 +302,7 @@ insert      | mogelijk in layout  | acitveert
 ------------|---------------------|--------------
 virtualtour | alle layouts        | google-virtual-tour
 play-album  | alle layouts        | foto-album
+level3-tiles| alle layouts        | klikbare tegels van level3 menu = blokken in je derde niveau van navigatie vb de blokken bij verhuuritems / residentieel / arrangementen
 newsfeed    | landing             | lijst met recente nieuws-artikels
 
 ### Prelude: remove
@@ -309,17 +312,19 @@ De beschikbare elmenten die kunnen afgezet worden met 'remove' in de prelude zij
 remove      | mogelijk in layout  | dit verwijdert 
 ------------|---------------------|----------------
 banner      | alle layouts        | de banner onder hoofdmenu
-callout     | alle layouts        | de link voor het registratie-formulier in de banner
+callout     | alle layouts        | de link voor de reservatie-aanvraag in de banner
 imgstrip    | alle layouts        | de strip met foto's onderaan
 
-### Prelude: nieuwsartikels
-Nieuwsartikels omvatten specifieke prelude-elementen. Deze worden verder beschreven bij 'nieuwsartikels'.
+### Andere preludes
+Nieuwsartikels, landingspagina's en grouppagina's omvatten specifieke prelude-elementen. Deze worden verder beschreven in de betreffende secties.
 
 ## Nieuwsartikels
 
-De 'nieuws' artikels worden allemaal ondergebracht in de ```_posts/``` folder, meer bepaald in een subfolder per taal: [_posts/nl], [_posts/fr], [_posts/en], [_posts/de]
+De 'nieuws' artikels worden allemaal ondergebracht in de ```_posts/``` folder, meer bepaald in een subfolder per taal: [_posts/nl], [_posts/fr], [_posts/en], [_posts/de].
 
-De naam van deze bestanden volgt een zeer specifiek naamgevingspatroon dat de titel en de datum bevat:
+Er is ook een overzichtspagina per taal (die dus het archief omvat van alle berichten). Deze vind je onder nl/nieuws.md (en dan ook een versie voor het frans/duits/engels).
+
+De naam van de posts volgt een zeer specifiek naamgevingspatroon dat de titel en de datum bevat:
 ```
     {YYYY}-{MM}-{DD}-{woorden-van-de-titel}.md
 ```
@@ -336,7 +341,7 @@ Ook in deze ```*.md``` files is er weer plaats voor een prelude. Voor nieuws-art
   {code}   |   type |    voorbeeld          | gebruik
 -----------|--------|-----------------------|--------------------
 description| tekst  | V&D maakt animatie-programma voor dit jaar bekend!  | Wervende krachtige korte introductie. Deze wordt gebruikt in de overzichten op de landingspagina's
-permalink  | tekst  | /nl/2015-04-12-animatie-2015.html | De link die zal worden gebruikt voor dit artikel. **Zeer belangrijk** Dit is ook de link die voor vertalingen in het bestand [linkcode.yml] wordt toegevoegd.
+permalink  | tekst  | /nl/2015-04-12-animatie-2015.html | Onder welke naam (adres) je wil dat dit nieuwsartikel wordt gepubliceerd op de website. Maw: de link die zal worden gebruikt voor dit artikel. **Zeer belangrijk** Dit is ook de link die voor vertalingen in het bestand [linkcode.yml] wordt toegevoegd.
 
 **Tips:** 
 * vergeet niet in de prelude de ```layout```  in te stellen op 'post'
@@ -347,51 +352,63 @@ permalink  | tekst  | /nl/2015-04-12-animatie-2015.html | De link die zal worden
 
 Bij vertaalde nieuws-artikels wordt ook aangeraden om de koppeling tussen de permalinks in te geven in het [linkcode.yml] bestand.
 
-Stel je hebt een "post" in volgende talen toegevoegd, met de permalinks zoals in de preludes.
-(De echte preludes zullen meer instellingen bevatten.)
+Stel: je hebt een "post" in volgende talen toegevoegd, met de permalinks zoals in de preludes.
+(De echte preludes zullen meer instellingen bevatten)
 
 ```
-/_posts/nl/2015-06-06-artikel.html
+/_posts/nl/2015-12-26-glühwein.md
     ---
-    permalink: /nl/2015-06-06-foo.html
+    permalink: /nl/2015-12-26-glühwein.html
     ---
     
     Tekst in nl
     
     
-/_posts/fr/2015-06-06-article.html
+/_posts/fr/2015-12-26-soirée-vin-chaud.md
     ---
-    permalink: /fr/2015-06-06-bar.html
+    permalink: /fr/2015-12-26-soirée-vin-chaud.html
     ---
     
     Texte en fr
 ```
 
 Dan ziet de juiste toevoeging in [linkcode.yml] er zo uit:
-(De gekozen link-code is ```foobar```)
+(De gekozen link-code is ```2015_glühwein```)
 
 ```
-foobar:
-    nl: {link: /nl/2015-06-06-foo.html}
-    fr: {link: /fr/2015-06-06-bar.html}
+2015_glühwein:
+    nl: {link: /nl/2015-12-26-glühwein.html}
+    fr: {link: /fr/2015-12-26-soirée-vin-chaud.html}
 ```
 
 Hierdoor zal het taal-menu werken als een "vertaal-deze-pagina" optie en directe links bevatten tussen de ```nl | fr``` varianten.
 
-Hierdoor kun je ook in andere pagina's een verwijzing naar deze varainten maken door (bv voor fr variant) deze notatie te gebruiken:
+Hierdoor kun je ook in andere pagina's een verwijzing naar deze varianten maken door (bv voor fr variant) deze notatie te gebruiken:
 ```
-[linktekst][foobar.fr]
+[linktekst][2015_glühwein.fr]
 ```
 
-## "insets"
+## Landingspagina's
 
-Oplossing voor landing-pads en addons --> selecteerbare delen die je toevoegt.
-- aanduiden in de prelude van de pagina's die deze insets moeten bevatten
+Dit is standaaard de pagina waarom bezoekers terechtkomen. In de meeste gevallen is dit de homepage. In de toekomst voorzien we ook specifieke landingspagina's rond bepaalde campagnes vb jubileum, bepaalde arrangementen,...
 
-## "group pagina's" 
+### Specifieke prelude voor landingspagina's - verder uit te werken
+
+todo: 
+- select
+- preview
+  - title
+  - text
+  - button
+   - price
+  - list
+- imgs
+
+
+## Group pagina's - nog verder uit te werken 
 
 De "group" layout pagina's worden aangestuurd door de gegevens in de bijhorende ```data/{name}.yml``` file.
-Een voorbeeld hiervan is de "doen" pagina.
+Een voorbeeld hiervan is de doen-pagina en de tijdslijn.
 
 Een dergelijke "group" verzamelpagina maak je vooral door de gegevens in de prelude.
 
@@ -418,6 +435,9 @@ data/{name}.yml
     subgroups:
         {lang}:
             {name}: {vertaling voor deze subgroup-naam}
+    img-in-background: true
+    sort: 
+        key: ranking
     items:
         -
             link:   {link horende bij dit item}
