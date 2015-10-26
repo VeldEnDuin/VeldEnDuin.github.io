@@ -6,7 +6,7 @@ sort:
   key: ranking
 img-in-background: true
 items:
-- ranking: '3'
+- ranking: 3
   location: 51.252266, 2.975109
   subgroups:
   - cult
@@ -27,7 +27,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '16'
+- ranking: 16
   location: 51.230606, 2.915692
   subgroups:
   - cult
@@ -48,7 +48,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '50'
+- ranking: 50
   subgroups:
   - cult
   images:
@@ -68,7 +68,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '28'
+- ranking: 28
   location: 51.239829, 2.934340
   subgroups:
   - cult
@@ -90,7 +90,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '22'
+- ranking: 22
   location: 51.226366, 2.914577
   subgroups:
   - cult
@@ -112,7 +112,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '35'
+- ranking: 35
   location: 51.199366, 2.848961
   subgroups:
   - cult
@@ -134,7 +134,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '9'
+- ranking: 9
   location: 51.226279, 3.224892
   subgroups:
   - cult
@@ -157,7 +157,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '48'
+- ranking: 48
   location: 51.136871, 2.755682
   subgroups:
   - cult
@@ -179,7 +179,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '4'
+- ranking: 4
   location: 51.252213, 2.974759
   subgroups:
   - event
@@ -202,7 +202,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '10'
+- ranking: 10
   location: 51.252213, 2.974759
   subgroups:
   - event
@@ -223,7 +223,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '23'
+- ranking: 23
   location: 51.231234, 2.913555
   subgroups:
   - event
@@ -244,7 +244,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '17'
+- ranking: 17
   location: 51.278736, 3.034791
   subgroups:
   - event
@@ -265,7 +265,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '29'
+- ranking: 29
   location: 51.315091, 3.131080
   subgroups:
   - event
@@ -286,7 +286,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '36'
+- ranking: 36
   location: 51.252384, 2.974792
   subgroups:
   - event
@@ -307,7 +307,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '44'
+- ranking: 44
   location: 51.234870, 2.922678
   subgroups:
   - event
@@ -328,7 +328,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '24'
+- ranking: 24
   location: 51.318481, 3.146007
   subgroups:
   - kids
@@ -349,7 +349,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '11'
+- ranking: 11
   location: 51.255308, 3.007239
   subgroups:
   - kids
@@ -370,7 +370,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '37'
+- ranking: 37
   location: 51.181855, 3.214026
   subgroups:
   - kids
@@ -391,7 +391,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '18'
+- ranking: 18
   location: 51.238518, 2.939241
   subgroups:
   - kids
@@ -412,7 +412,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '30'
+- ranking: 30
   location: 51.206802, 2.907028
   subgroups:
   - kids
@@ -433,7 +433,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '5'
+- ranking: 5
   location: 51.080998, 2.598774
   subgroups:
   - kids
@@ -454,7 +454,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '45'
+- ranking: 45
   location: 50.845818, 2.950622
   subgroups:
   - kids
@@ -476,7 +476,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '1'
+- ranking: 1
   location: 51.256371, 2.975413
   subgroups:
   - coast
@@ -498,7 +498,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '15'
+- ranking: 15
   location: 51.234339, 2.927839
   subgroups:
   - coast
@@ -519,7 +519,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '2'
+- ranking: 2
   location: 51.255187, 2.975755
   subgroups:
   - coast
@@ -540,7 +540,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '34'
+- ranking: 34
   location: 51.257974, 2.981694
   subgroups:
   - coast
@@ -562,7 +562,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '27'
+- ranking: 27
   subgroups:
   - coast
   images:
@@ -582,7 +582,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '31'
+- ranking: 31
   subgroups:
   - coast
   images:
@@ -602,7 +602,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '42'
+- ranking: 42
   location: 51.152374, 2.722896
   subgroups:
   - coast
@@ -623,7 +623,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '38'
+- ranking: 38
   location: 51.321632, 3.136375
   subgroups:
   - coast
@@ -644,7 +644,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '8'
+- ranking: 8
   subgroups:
   - coast
   images:
@@ -664,7 +664,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '21'
+- ranking: 21
   location: 51.233715, 2.922228
   subgroups:
   - coast
@@ -686,7 +686,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '6'
+- ranking: 6
   subgroups:
   - recrea
   images:
@@ -706,7 +706,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '12'
+- ranking: 12
   subgroups:
   - recrea
   images:
@@ -726,7 +726,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '49'
+- ranking: 49
   location: 51.247020, 2.952719
   subgroups:
   - recrea
@@ -747,7 +747,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '25'
+- ranking: 25
   subgroups:
   - recrea
   images:
@@ -767,7 +767,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '39'
+- ranking: 39
   subgroups:
   - recrea
   images:
@@ -788,7 +788,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '51'
+- ranking: 51
   subgroups:
   - recrea
   images:
@@ -808,7 +808,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '19'
+- ranking: 19
   location: 51.230265, 2.964793
   subgroups:
   - recrea
@@ -829,7 +829,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '32'
+- ranking: 32
   location: 51.244098, 2.974537
   subgroups:
   - recrea
@@ -850,7 +850,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '52'
+- ranking: 52
   location: 51.246573, 2.992032
   subgroups:
   - recrea
@@ -871,7 +871,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '53'
+- ranking: 53
   location: 51.255872, 2.982859
   subgroups:
   - recrea
@@ -892,7 +892,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '56'
+- ranking: 56
   location: 51.363853, 3.363277
   subgroups:
   - recrea
@@ -914,7 +914,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '54'
+- ranking: 54
   location: 51.283618, 3.053152
   subgroups:
   - recrea
@@ -935,7 +935,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '55'
+- ranking: 55
   location: 51.291442, 3.135372
   subgroups:
   - recrea
@@ -956,7 +956,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '7'
+- ranking: 7
   subgroups:
   - shopout
   images:
@@ -976,7 +976,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '13'
+- ranking: 13
   location: 51.208589, 2.861945
   subgroups:
   - coast
@@ -999,7 +999,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '43'
+- ranking: 43
   location: 51.057415, 3.722725
   subgroups:
   - cult
@@ -1021,7 +1021,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '40'
+- ranking: 40
   location: 51.225649, 2.906060
   subgroups:
   - city
@@ -1043,7 +1043,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '33'
+- ranking: 33
   subgroups:
   - shopout
   images:
@@ -1063,7 +1063,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '14'
+- ranking: 14
   subgroups:
   - shopout
   images:
@@ -1084,7 +1084,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '26'
+- ranking: 26
   subgroups:
   - shopout
   - kids
@@ -1105,7 +1105,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '20'
+- ranking: 20
   subgroups:
   - shopout
   images:
@@ -1125,7 +1125,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '41'
+- ranking: 41
   subgroups:
   - shopout
   images:
@@ -1145,7 +1145,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: '47'
+- ranking: 47
   subgroups:
   - shopout
   images:

@@ -11,3 +11,22 @@
 {% if maxloop < 2 %}
     {% assign pgLang = 'nl' %}
 {% endif %}
+
+{% for m1 in site.data.menu %}
+    {% if pgLink == site.data.linkcode[m1.linkcode][pgLang] %}
+        {% assign lvl1 = m1 %}
+    {% endif %}
+    {% for m2 in m1.submenu %}
+        {% if pgLink == site.data.linkcode[m2.linkcode][pgLang] %}
+            {% assign lvl1 = m1 %}
+            {% assign lvl2 = m2 %}
+        {% endif %}
+        {% for m3 in m2.submenu %}
+            {% if pgLink == site.data.linkcode[m3.linkcode][pgLang] %}
+                {% assign lvl1 = m1 %}
+                {% assign lvl2 = m2 %}
+                {% assign lvl3 = m3 %}
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+{% endfor %}

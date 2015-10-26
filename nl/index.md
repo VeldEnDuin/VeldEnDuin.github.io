@@ -5,7 +5,7 @@ banner: Dit is de banner-tekst
 insert:
     - newsfeed
 select:
-    - huur
+    - verhuur
     - residentieel
 class:
     select:

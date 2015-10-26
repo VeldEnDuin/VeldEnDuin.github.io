@@ -1,28 +1,9 @@
-<!-- current lang == {{pgLang}} - current link = {{pgLink}} -->
-<!-- hrefLangVariants == {{ hrefLangVariants | jsonify }} -->
-{% for m1 in site.data.menu %}
-    {% if pgLink == m1.menu[pgLang].link %}
-        {% assign hrefLangVariants = m1.menu %}
-        <!-- hrefLangVariants == {{ hrefLangVariants | jsonify }} -->
+{% for codelink in site.data.linkcode %}
+    {% if pgLink == codelink[1][pgLang] %}
+         {% assign hrefLangVariants = codelink[1] %}
     {% endif %}
-    {% for m2 in m1.submenu %}
-        {% if pgLink == m2.item[pgLang].link %}
-            {% assign hrefLangVariants = m2.item %}
-            <!-- hrefLangVariants == {{ hrefLangVariants | jsonify }} -->
-        {% endif %}
-    {% endfor %}
-    <!-- hrefLangVariants == {{ hrefLangVariants | jsonify }} -->
 {% endfor %}
-{% unless hrefLangVariants[pgLang] %}
-    {% for codelink in site.data.linkcode %}
-        {% if pgLink == codelink[1][pgLang].link %}
-             {% assign hrefLangVariants = codelink[1] %}
-        {% endif %}
-    {% endfor %}
-    <!-- hrefLangVariants == {{ hrefLangVariants | jsonify }} -->
-{% endunless %}
 
-<!-- hrefLangVariants == {{ hrefLangVariants | jsonify }} -->
 <li id="lang">
     <a href=""
         data-toggle="dropdown" role="button" aria-expanded="false" class="dropdown-toggle"
@@ -33,8 +14,8 @@
 {% assign ln = lang[0] %}
         <li {% if ln == pgLang %}class="active"{% endif %}>
     {% capture langVariantRef %}/{{ ln }}{% endcapture %}
-    {% if ln != pgLang and hrefLangVariants[ln].link %}
-        {% assign langVariantRef = hrefLangVariants[ln].link %}
+    {% if ln != pgLang and hrefLangVariants[ln] %}
+        {% assign langVariantRef = hrefLangVariants[ln] %}
     {% endif %}
             <a href="{{ langVariantRef }}">{{ lang[1].label }}</a>
         </li>

@@ -1,24 +1,31 @@
-###BETALINGSVOORWAARDEN
+---
+layout: default
+submenu: hide
+---
+#PRAKTISCHE INFO
+
+##BETALINGSVOORWAARDEN
 - Voorschot: 25% binnen de 10 dagen na reservatie
 - Saldo: uiterlijk 14 dagen voor start verblijf
 De reservatie is pas definitief na betaling van het voorschot.
 
-###ANNULEREN
+##ANNULEREN
 - Annulatie (meer of gelijk aan-teken) 4 weken voor aankomst: 25% van het totale huurbedrag is verschuldigd.
 - Annulatie (minder dan-teken) 4 weken voor aankomst: volledige huurbedrag is verschuldigd.
 - Bij voortijdige beëindiging van het verblijf is er geen terugbetaling.
 
-Tip: u kunt bij ons een annulatieverzekering afsluiten, zo vermijdt u onnodige kosten als u door een grondige reden niet kan komen.
+**Tip**: u kunt bij ons een annulatieverzekering afsluiten, zo vermijdt u onnodige kosten als u door een grondige reden niet kan komen.
+
 Prijs: 3,5 % van de totale reissom. 
-Annulatievoorwaarden: |aanklikbaar met verwijzing naar de vwen| |todo.nl|
 
-#PRACTISCHE INFO
+Annulatievoorwaarden: [aanklikbaar met verwijzing naar de vwen][todo.nl]
 
-###AANKOMST-EN VERTREKREGELING
+
+##AANKOMST-EN VERTREKREGELING
 - Aankomst: vanaf 14 u
 - Vertrek: voor 10 u
 
-###OPENINGSUREN RECEPTIE
+##OPENINGSUREN RECEPTIE
 
 TIJD ONLINE                     | PRIJS       | 
 :------------------------------:|:-----------:|

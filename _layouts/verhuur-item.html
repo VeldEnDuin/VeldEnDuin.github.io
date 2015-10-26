@@ -1,6 +1,37 @@
 ---
 layout: default
 ---
-todo stijl verhuur-item
+{% include layout-prelude.html %}
+
+<div>
+  <div class="col-lg-12 col-md-12">
+
+{% assign lastmenundx = lvl2.submenu |size | minus:1 %}
+{% assign lastcode = lvl2.submenu[lastmenundx].linkcode %}
+
+    <div class="vd-nav">
+      <span class="vd-navlink vd-button"><span class="vd-button-tag"><span class="vd-button-inner">
+          {{page.title}}
+      </span></span></span>
+      <span class="vd-navlink vd-button">
+        <a href="{{site.data.linkcode[lvl2.linkcode][pgLang]}}">
+          <span class="vd-button-tag"><span class="vd-button-inner">
+            {{site.data.langs[pgLang].dict.other_rental_types}}
+          </span></span>
+        </a>
+      </span>
+      <span class="vd-navlink vd-button">
+        <a href="{{site.data.linkcode[lastcode][pgLang]}}">
+          <span class="vd-button-tag vd-button-tag-invert"><span class="vd-button-inner">
+            {{site.data.langs[pgLang].dict.practical_info}}
+          </span></span>
+        </a>
+      </span>
+    </div>
+    <div class="vd-layout-verhuur-item container">
 
 {{ content }}
+
+    </div>
+  </div>
+</div>
