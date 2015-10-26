@@ -14,7 +14,6 @@
 
 [Deze tekst op volle pagina][README.md]
 
---> TODO beschrijf de specifieke preludes voor verhuur-item pagina's (overweeg andere artikels voor de specifieke document-types, en voor de foto's...)
 
 # Beheer site via Github - Brackets
 
@@ -97,6 +96,7 @@ Door hier een verwijzing te definieren maak je een de bijhorende unieke en zelfg
 Het niveau van 'inspringen' in deze bestand is cruciaal voor het gewenste effect. Inspringen kan met tab of spatie.
 
 ## Md-file maken
+
 Om nieuw bestand te maken in bepaalde taalfolder:
 op taal staan - rechtermuisklik - nieuw bestand
 
@@ -109,7 +109,7 @@ Elke md-file moet starten met prelude (cfr verder voor meer detail) die minmaal 
 Vanaf hier begint je echte text...
 ```
 
-## Alle pagina's / ongeacht layout
+### Alle pagina's - ongeacht layout
 
 Deze website laat toe de web-pagina's en de elementen erin te noteren in zogenaamde *markdown* notatie.  Deze betanden zijn te herkennen aan hun ```*.md``` extensie.  Hieronder beschrijven we wat je in deze site met deze bestanden kunt doen.
 
@@ -240,9 +240,11 @@ De link via [klikbaar woord](http://anderewebsite.be) naar de andere site.
 ```
 
 
-### Pagina-Instellingen in de prelude
+## Prelude
 
-De ```*.md``` bestanden laten toe om specifieke pagina-instellingen te maken.  Deze instellingen worden gemaakt in de zogenaamde 'prelude' : een sectie bovenaan de file die wordt afgelijnd door een lijntje met ```---``` (drie mintekens) boven en onder de prelude.  De gegevens in prelude zelf volgen de [yaml](http://en.wikipedia.org/wiki/YAML) notatie
+De ```*.md``` bestanden laten toe om specifieke pagina-instellingen te bepalen.  Deze instellingen worden vastgelegd in de zogenaamde 'prelude'. Dit is het gedeelte bovenaan de file dat wordt afgelijnd door een lijntje met ```---``` (drie mintekens) boven en onder de prelude.  De gegevens in de prelude zelf volgen de [yaml](http://en.wikipedia.org/wiki/YAML) notatie.
+
+In de prelude staat ook de metadata die gebruikt wordt om andere pagina's te voeden. Voorbeeld: in de prelude van 'overnachten / verhuur / appartementen' staan de kenmerken die op de hoofdpagina 'overnachten / verhuur' komen.
 
 ```md
 ---
@@ -251,21 +253,20 @@ lijstcode:
     - eerste
     - tweede
 ---
-
-Na een lege lijn, begint dan je werkelijke text...
 ```
+Na de '---' en een lege lijn, begint dan de eigenlijke tekst.
 
-In deze prelude kunnen volgende instellingen gemaakt worden die door deze site worden opgepikt:
+Volgende instellingen kunnen in de prelude worden aagengeven:
 
   {code}   |   type |    voorbeeld          | gebruik
 -----------|--------|-----------------------|--------------------
-layout     | tekst  | layout:&nbsp;landing  | Wijst naar een beschikbare layout voor deze pagina. (Zie hieronder voor de opties.)
+layout     | tekst  | layout:&nbsp;landing  | Wijst naar een beschikbare layout voor deze pagina (mogelijke opties: cfr verder).
 title      | tekst  | title:&nbsp;Mijn&nbsp;Titel| De vrij gekozen titel van de pagina.
 images     | lijst  | images:<br>&nbsp;&nbsp;-&nbsp;/img/een.jpg<br>&nbsp;&nbsp;-&nbsp;/img/twee.jpg | De oplijsting van beelden die aan dit artikel worden ge-associeerd.
 insert     | lijst  | insert:<br>&nbsp;&nbsp;- virtualtour | Gekozen specifieke scherm-elementen zijn vanzelf uitgeschakeld, maar worden hiermee expliciet aangezet. (Zie hieronder voor de opties.)
 remove     | lijst  | remove:<br>&nbsp;&nbsp;- banner | Gekozen specifieke scherm-elementen zijn vanzelf beschikbaar, maar kunnen hiermee worden afgezet.  (Zie hieronder voor de opties.)
 
-#### Prelude :: layout
+### Prelude: layout
 De beschikbare layouts in de prelude zijn:
 
 layout  | gebruikt voor
@@ -277,30 +278,32 @@ landing | Pagina waarop mensen de site binnenkomen. Home page, maar ook specifie
 verhuur-item| Een specifieke layout voor de opmaak van verhuur-item-pagina's
 
 
-#### Prelude :: insert
+### Prelude: insert
 
-De beschikbare elmenten die kunnen aangezet worden met 'insert' in de prelude zijn:
+De mogelijke inserts die in de prelude kunnen aangegeven worden:
 
-insert      | beperkt tot layout  | acitveert
+insert      | mogelijk in layout  | acitveert
 ------------|---------------------|--------------
-virtualtour | alle layouts        | de google-virtual-tour
-play-album  | alle layouts        | de foto-album
-newsfeed    | landing             | de lijst met recente nieuws-artikels
+virtualtour | alle layouts        | google-virtual-tour
+play-album  | alle layouts        | foto-album
+newsfeed    | landing             | lijst met recente nieuws-artikels
 
-#### Prelude :: remove
+### Prelude: remove
 
 De beschikbare elmenten die kunnen afgezet worden met 'remove' in de prelude zijn:
 
-remove      | beperkt tot layout  | verwijdert 
+remove      | mogelijk in layout  | dit verwijdert 
 ------------|---------------------|----------------
-banner      | alle layouts        | de banner-met foto onder de menu-balk bovenaan
+banner      | alle layouts        | de banner onder hoofdmenu
 callout     | alle layouts        | de link voor het registratie-formulier in de banner
 imgstrip    | alle layouts        | de strip met foto's onderaan
 
-## Nieuws Articles
-### Locatie en bestandsnaam
+### Prelude: nieuwsartikels
+Nieuwsartikels omvatten specifieke prelude-elementen. Deze worden verder beschreven bij 'nieuwsartikels'.
 
-De 'nieuws' artikels dienen allemaal ondergebracht worden in de ```_posts/``` folder, meer bepaald in een subfolder per taal: [_posts/nl], [_posts/fr], [_posts/en], [_posts/de]
+## Nieuwsartikels
+
+De 'nieuws' artikels worden allemaal ondergebracht in de ```_posts/``` folder, meer bepaald in een subfolder per taal: [_posts/nl], [_posts/fr], [_posts/en], [_posts/de]
 
 De naam van deze bestanden volgt een zeer specifiek naamgevingspatroon dat de titel en de datum bevat:
 ```
@@ -312,8 +315,7 @@ voorbeelden:
     2015-02-10-zomaar-een-naam.md
 ```
 
-
-### Specifieke Pre-lude elementen 
+### Specifieke Prelude elementen bij de nieuwsartikels 
 
 Ook in deze ```*.md``` files is er weer plaats voor een prelude. Voor nieuws-artikels zijn er een aantal specifiek van belang:
 
@@ -423,13 +425,15 @@ data/{name}.yml
             {volgende item ...}
             
 ```
-# Commit / Push / Pull
-## commit
+## Commit / Push / Pull
+Als je aanpassingen gedaan hebt, moet dit ook doorgevoerd worden zodat het 'definitief' wordt. Dit gebeurt in 3 stappen:
+
+### Commit
 = aangeven dat iets afgewerkt is, bevestigen dat je klaar bent met een bepaalde wijziging.
 
 Hoe?
 
-Via het speciale tekentje in de rechterkolom (kers? muzieknoot? met bolletje erboven) wordt er een scherm onderaan geopend. Hier kun je de commitknop gebruiken.
+Via het speciale tekentje in de rechterkolom (wegsplitsing - onderaan) wordt er een scherm onderaan geopend. Hier kun je de commitknop gebruiken.
 Er wordt aangegeven welke wijzigingen er zijn. Door op het +/- teken te klikken zie je meer detail van de wijzigingen. Rood is wat gewijzigd/verwijderd werd, groen is het nieuwe resultaat.
 
 Als je het item dat gewijzigd werd aanvinkt, kun je ofwel committen ofwel 'discard changes' (wijzigingen verwerpen). Nadat je gecommit hebt, opmerkingen ingeven waarom je bepaalde wijziging aangebracht hebt.
