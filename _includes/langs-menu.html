@@ -1,5 +1,5 @@
 {% for codelink in site.data.linkcode %}
-    {% if pgLink == codelink[1][pgLang].link %}
+    {% if pgLink == codelink[1][pgLang] %}
          {% assign hrefLangVariants = codelink[1] %}
     {% endif %}
 {% endfor %}
@@ -14,8 +14,8 @@
 {% assign ln = lang[0] %}
         <li {% if ln == pgLang %}class="active"{% endif %}>
     {% capture langVariantRef %}/{{ ln }}{% endcapture %}
-    {% if ln != pgLang and hrefLangVariants[ln].link %}
-        {% assign langVariantRef = hrefLangVariants[ln].link %}
+    {% if ln != pgLang and hrefLangVariants[ln] %}
+        {% assign langVariantRef = hrefLangVariants[ln] %}
     {% endif %}
             <a href="{{ langVariantRef }}">{{ lang[1].label }}</a>
         </li>
