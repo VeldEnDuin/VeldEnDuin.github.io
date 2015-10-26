@@ -120,10 +120,10 @@ Het niveau van 'inspringen' in deze bestanden is cruciaal voor het gewenste effe
 - CTRL Z: undo
 
 ## Md-file maken
-Om nieuw bestand te maken in bepaalde taalfolder:
-op taal staan - rechtermuisklik - nieuw bestand
+Om nieuw bestand te maken in een bepaalde taalfolder:
+op taal staan - rechtermuisklik - nieuw bestand.
 
-Elke md-file moet starten met prelude (cfr verder voor meer detail) die minmaal bestaat uit
+Elke md-file moet starten met prelude (cfr verder voor meer detail over inhoud prelude) die minmaal bestaat uit
 2 lijnen met 3 streepjes, gevolgd door 1 blanco lijn
 ```md
 ---
@@ -135,12 +135,12 @@ Vanaf hier begint je echte tekst.
 
 
 
-In het algemeen worden deze pagina's best per taal georganiseerd. Deze site bevat reeds specifieke folders voor volgende talen: [nl], [fr], [en], [de].  Speciale types tekst die ook als onderdeel op andere pagina's moeten verschijnen (voornamelijk de nieuws-artikels) krijgen een andere locatie (zie verder) 
+Deze pagina's worden best per taal georganiseerd. Deze site bevat reeds specifieke folders voor volgende talen: [nl], [fr], [en], [de].  Speciale types tekst die ook als onderdeel op andere pagina's moeten verschijnen (voornamelijk de nieuws-artikels) krijgen een andere locatie (zie verder) 
 
 Om een taal toe te voegen kun je een nieuwe folder beginnen, en ze uitwerken in het [langs.yml] bestand.
 
 ### Opmaak
-Opmaak kan via de zogenaamde [Markdown notatie](https://help.github.com/articles/github-flavored-markdown/) te gebruiken. We vermelden hier de voor deze site meest nuttige mogelijkheden:
+Opmaak kan door de zogenaamde [Markdown notatie](https://help.github.com/articles/github-flavored-markdown/) te gebruiken. Hieronder een opsomming van de meest nuttige mogelijkheden:
 
 **bold:** 
 tekst in **vetjes** krijg je door dubbele sterren ```**``` voor en achter toe te voegen
@@ -149,7 +149,7 @@ tekst in **vetjes** krijg je door dubbele sterren ```**``` voor en achter toe te
 tekst in *cursief* krijg je door enkele sterren ```*``` voor en achter toe te voegen
 
 **lijstjes:**
-door een ```-``` of ```*``` teken met spatie aan het begin van een lijn te gebruiken maak je lijstjes aan:
+door een ```-``` of ```*``` teken met spatie aan het begin van een lijn te gebruiken:
 * item 1
 * item 2
 - topic 3
@@ -164,11 +164,11 @@ Zonder de lege tussenlijn worden teksten aan dezelfde paragraaf toegevoegd.
 
 ----
 
-**hoofdingen:** Door een aantal ```#``` tekens aan het begin van de lijn te hanteren (een lege lijn vooraf is nodig!) bouw je een hoofding van een bepaald niveau (het aantal ```#``` bepaalt het niveau)
+**titels:** Door een aantal ```#``` tekens aan het begin van de lijn te hanteren (een lege lijn vooraf is nodig!) bouw je een hoofding van een bepaald niveau (het aantal ```#``` bepaalt het niveau)
 
-# hoofd 1
-## hoofd 2
-### hoofd 3 (enz.)
+# titel 1
+## titel 2
+### titel 3 (enz.)
 
 **tabellen:** kun je aanmaken door de kolommen met ```|``` tekens te scheiden en (belangrijk) ook de eerste rij van de volgende te scheiden met ```---|---``` lijnen.
 
@@ -201,7 +201,7 @@ levend      | maakt. Coupletjes | en refreintjes
 
 **harde splitsing binnenin een tabel:**
 
-Indien je tekst wil samenhouden binnen een bepaalde kolom. 
+Indien je tekst wil samenhouden binnen een bepaalde kolom, moet je gebruik maken van <br> na het woord waar een harde splitsing moet komen.
 
 Resultaat:
 
