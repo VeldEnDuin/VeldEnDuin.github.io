@@ -74,6 +74,8 @@ verhuur_luxe_appartementen:
     nl:  /nl/overnachten/verhuur/luxe-appartementen.html
 verhuur_standaard_chalet:
     nl:  /nl/overnachten/verhuur/standaard-chalet.html
+verhuur_info:
+    nl:  /nl/overnachten/verhuur/praktische-info.html
 
 # [3] menu - voorzieningen
 voorzieningen:

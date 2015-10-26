@@ -10,4 +10,7 @@ preview:
         - Ook kampeerders met eigen caravan of tent zijn bij ons van harte welkom.
 images:
     - /img/ingang.jpg
+    
+insert:
+    - level3-tiles
 ---
