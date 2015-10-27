@@ -9,15 +9,15 @@ preview:
         - groot zonne-terras of balkon
         - 65 m²
         - vaatwas
-        - 
+        - 5-6 personen
 ---
 {% include links.md %}
 
 ##Luxe appartementen
 
-Gelegen aan de ingang van de camping, bieden deze appartementen alle luxe met zicht op de bloemenpracht en het speelplein. 
+Gelegen aan de ingang van de camping, bieden deze appartementen alle luxe met zicht op de bloemenpracht aan de ingang en het speelplein. 
 
-###Inrichting appartement
+###Inrichting luxe appartementen:
 - Ruime woonkamer met flatscreen en digibox
 - Ingerichte keuken met vaatwasmachine en microgolf
 - Badkamer met douche, wastafel en toilet
@@ -54,7 +54,7 @@ extra nacht >7 n    |€ 51         |€ 62           | € 95
 
 LAAGSEIZOEN           |TUSSENSEIZOEN      |    HOOGSEIZOEN|
 :--------------------:|:-----------------:|:-------------:|
-november - maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april - juni, <br>september, oktober, <br>paas, herfst, krokus, <br>kerstvakantie | juli - augustus
+november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni, <br>september, oktober, <br>schoolkerstvakanties | juli - augustus
 
 ###Waarborg
 - 50 € - cash te betalen bij aankomst
@@ -62,7 +62,8 @@ november - maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | apr
 
 ###Inbegrepen
 - parking 1 auto
-- verbruik gas-water-elektriciteit - uitzondering: verbruik gas en elektriciteit (meer dan gelijk aan teken) 4 nachten van 1/11 - 31/3
+- verbruik gas-water-elektriciteit 
+- **uitzondering**: verbruik gas en elektriciteit is exclusief bij huur vanaf 4 nachten van 1/11 - 31/3
 
 ###Extra's
 EXTRA             | PRIJS 
@@ -76,3 +77,5 @@ tweede parking| € 4 / begonnen dag
 plaats fietsberging| € 1 / fiets / nacht
 sauna| € 30
 [internet][internet.nl]| afhankelijk van tijd online
+Veld & Duin service | € 75
+
