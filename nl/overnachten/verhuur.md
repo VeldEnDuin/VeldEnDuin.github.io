@@ -1,5 +1,5 @@
 ---
-layout: submenu3
+layout: default
 title: Verhuur
 banner: TODO - trigger tekst vanop VERHUUR page
     
@@ -10,7 +10,7 @@ preview:
         - Ook kampeerders met eigen caravan of tent zijn bij ons van harte welkom.
 images:
     - /img/ingang.jpg
+    
+insert:
+    - level3-tiles
 ---
-
-# Te Huur 
-pagina over wat te huur is

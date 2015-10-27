@@ -21,6 +21,11 @@ news:
     de:  /de/nachrichten.html
 
 # [1] menu - goed om weten
+info:
+    nl:  /nl/goed-om-weten.html
+    fr:  /fr/bien-a-savoir.html
+    en:  /en/good-to-know.html
+    de:  /de/gut-zu-wissen.html
 troeven:
     nl:  /nl/onze-troeven.html
     fr:  /fr/nos-forces.html
@@ -43,32 +48,41 @@ history:
     fr:  /fr/histoire.html
 
 # [2] menu - overnachten
-huur:
+verhuur:
     nl:  /nl/overnachten/verhuur.html
-trek:
+trekkers:
     nl:  /nl/overnachten/trekkers.html
 residentieel:
     nl:  /nl/overnachten/residentieel.html
-appartement :
+arrangementen:
     nl:  /nl/overnachten/arrangement.html
 
 # [2.1] submenu overnachten -> verhuur
 verhuur_appartement:
     nl:  /nl/overnachten/verhuur/appartement.html
-verhuur_comfort4:
-    nl:  /nl/overnachten/verhuur/comfort4.html
-verhuur_comfort4plus:
-    nl:  /nl/overnachten/verhuur/comfort4plus.html
-verhuur_luxe-appartementen:
+verhuur_comfort2_caravan:
+    nl:  /nl/overnachten/verhuur/comfort2-caravan.html
+verhuur_comfort2_chalet:
+    nl:  /nl/overnachten/verhuur/comfort2-chalet.html
+verhuur_comfort4_caravan:
+    nl:  /nl/overnachten/verhuur/comfort4-caravan.html
+verhuur_comfort4_chalet:
+    nl:  /nl/overnachten/verhuur/comfort4-chalet.html
+verhuur_comfort4plus_chalet:
+    nl:  /nl/overnachten/verhuur/comfort4plus-chalet.html
+verhuur_luxe_appartementen:
     nl:  /nl/overnachten/verhuur/luxe-appartementen.html
-verhuur_standaard-caravan:
-    nl:  /nl/overnachten/verhuur/standaard-caravan.html
-verhuur_standaard-chalet:
+verhuur_standaard_chalet:
     nl:  /nl/overnachten/verhuur/standaard-chalet.html
+verhuur_info:
+    nl:  /nl/overnachten/verhuur/praktische-info.html
 
 # [3] menu - voorzieningen
 voorzieningen:
-    #todo link for entry page
+    nl: /nl/voorzieningen.html
+    fr: /fr/aménagements.html
+    en: /en/facilities.html
+    de: /de/einrichtungen.html
 speel:
     nl: /nl/speelplein.html
     fr: /fr/cour-de-récréation.html
@@ -85,7 +99,7 @@ petanque:
     en: /en/boules.html
     de: /de/Boules.html
 internet:
-    nl: /nl/draadloos-internet.html
+    nl: /nl/voorzieningen/internet.html
     fr: /fr/internet.html
     en: /en/internet.html
     de: /de/internet.html
@@ -124,6 +138,6 @@ fotos:
 
 # [* ] losse content - alleen interne links en taal-koppeling
 fietslabel:
-    nl:  /nl/fietsvriendelijk.html
+    nl:  /nl/voorzieningen/fietsvriendelijk.html
 qlabel:
-    nl:  /nl/qlabel.html
+    nl:  /nl/overnachten/qlabel.html

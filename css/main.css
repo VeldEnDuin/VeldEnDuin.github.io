@@ -63,6 +63,10 @@ body:before {
     margin-bottom: 0px;
 }
 
+.navbar .dropdown-menu-narrow {
+    min-width: 0;
+}
+
 .navbar li {
     border-right: 2px solid #8fb742;
 }
@@ -135,6 +139,42 @@ body:before {
   }
 }
 
+/* ===================================================================================
+ * tables
+ *   -------------------------------------------------------------------------------
+ */
+table.table {
+    width: auto;
+    /*min-width: 80%;*/
+    background-color: rgba(255,255,255,0.8);
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #4f5137;
+}
+
+table.table>thead>tr>th,
+table.table>tbody>tr>td {
+    padding-left: 3em;
+    padding-right: 3em;
+    border-left-color: #4f5137;
+    border-left-style: solid;
+    border-left-width: 1px;
+}
+
+table.table>thead>tr>th {
+    background-color: #4f5137;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    color: #fff;
+    border-left-color: #fff;
+    font-size: 1.1em;
+}
+
+table.table>thead>tr>th:first-child,
+table.table>tbody>tr>td:first-child
+{
+    border-left: none;
+}
 
 /* ===================================================================================
  * styling share buttons --> colors and fontsize
@@ -172,13 +212,36 @@ body:before {
 }
 
 .vd-group-filter-inner {
-    margin: 1em;
+    /* margin: 1em; */
 }
 
 .vd-group-filter-nav {
     margin: auto;
     text-transform: capitalize;
 }
+
+.vd-group-filter-nav.nav-pills>li {
+    border-right: 1px solid #8fb742;
+}
+.vd-group-filter-nav.nav-pills>li>a {
+    border-radius: 0;
+}
+.vd-group-filter-nav.nav-pills>li>a:hover {
+    background: #b8ba8a;
+}
+.vd-group-filter-nav.nav-pills>li:first-child>a {
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+.vd-group-filter-nav.nav-pills>li:last-child>a {
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.vd-group-filter-nav.nav-pills>li:last-child {
+    border-right: 0;
+}
+
 .vd-group-filter-nav.nav-pills>li.active>a {
     background-color: #8fb742;
 }
@@ -209,7 +272,6 @@ body:before {
 {
     position: absolute;
     width: 100%;
-    background-color: rgba(255,255,255,0.8);
     transition: opacity 1.5s, bottom 1s;
     opacity: 0;
     bottom: -50%;
@@ -217,18 +279,25 @@ body:before {
     border-top-right-radius: 1px;
 }
 
-.vd-group-grid .vd-group-content .vd-group-content-arrow {
-    bottom: 10px;
-    margin: 0 auto 0 auto;
-    padding: 0;
-    border-bottom: 10px solid rgba(255,255,255,0.8);
-    border-left: 10px solid transparent;
-    border-right: 10px solid transparent;
-    width:  0;
-    position: relative;
-}
 .vd-group-grid .vd-group-content-inner {
-    padding: 0.5em 1em 0.5em 1em;
+    padding: 1em 1em 1em 1em;
+    position: relative;
+    background-color: rgba(255,255,255,0.8);
+}
+
+.vd-group-grid .vd-group-content-inner:after {
+	bottom: 100%;
+	left: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	border-color: rgba(255, 255, 255, 0);
+	border-bottom-color: rgba(255, 255, 255, 0.8);
+	border-width: 10px;
+	margin-left: -10px;
 }
 
 .vd-group-grid .vd-group-item:hover .vd-group-content
@@ -268,7 +337,7 @@ body:before {
 .timeline .timeline-line {
     margin: 0 auto;
     height: 100% !important;
-    width: 10px;
+    width: 7px;
     border: 1px solid rgba(79, 81, 55, 1);
     background-color: rgba(79, 81, 55, 1);
     border-radius: 15px;
@@ -278,24 +347,30 @@ body:before {
     position: absolute;
     margin: 0 auto;
     display: block;
-    padding: 7px;
+    padding: 4px;
     height: 22px !important;
     width: 22px !important;
-    border: 1px dashed rgba(0,0,0,0.3);
-    background-color: rgba(255,255,255,0.8);
+    background-color: rgba(255,255,255,1);
     border-radius: 50%;
     padding: 1em;
 }
 
 .timeline .timeline-dot > span{
-    background-color: #8b9448;
+    background-color: rgb(143, 183, 66);
     position: absolute;
     display: block;
-    width: 12px !important;
-    height: 12px !important;
+    width: 18px !important;
+    height: 18px !important;
     border-radius: 50%;
-    top: 8px;
-    left: 8px;
+    top: 5px;
+    left: 5px;
+}
+
+.vd-group-timeline-item .img-thumbnail {
+    padding: 0;
+    background-color: transparent;
+    border: 0;
+    /* max-height: 300px; */
 }
 
 .vd-group-timeline .vd-group-item-spacer {
@@ -303,8 +378,8 @@ body:before {
 }
 
 .vd-group-timeline .vd-group-timeline-item {
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 30px;
+    padding-right: 30px;
     display: inline-block;
 }
 
@@ -315,32 +390,55 @@ body:before {
 
 .vd-group-timeline-item .vd-group-date {
     font-size: 2em;
+    text-transform: uppercase;
 }
 
 .vd-group-timeline-item .vd-group-date .month {
-    color: #8fb742;
-}
-
-.vd-group-timeline-item .vd-group-date .year {
     color: #4f5137;
 }
 
+.vd-group-timeline-item .vd-group-date .year {
+    color: #8fb742;
+}
 
 
 .vd-group-timeline-item .vd-group-item-inner {
     padding: 2em;
-    border: 1px solid #4f5137;
-    background-color: rgba(255,255,255,0.4);
+    background-color: rgba(143, 183, 66, 0.08);
     border-radius: 5px;
     display: block;
+    position: relative;
 }
 
-.vd-group-timeline-item.timeline-left .vd-group-item-inner {
-    border-right: 10px solid #4f5137;
+.vd-group-timeline-item .vd-group-item-inner .vd-group-title {
+    color: rgb(79, 81, 55);
 }
 
-.vd-group-timeline-item.timeline-right .vd-group-item-inner {
-    border-left: 10px solid #4f5137;
+.vd-group-timeline-item .vd-group-item-inner .vd-group-title {
+    font-size: 1.3em;
+}
+
+.vd-group-timeline-item .vd-group-item-inner:after {
+	top: 40px;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	border-color: rgba(0, 0, 0, 0);
+	border-width: 10px;
+	margin-top: -10px;
+}
+
+.vd-group-timeline-item.timeline-right .vd-group-item-inner:after {
+	right: 100%;
+	border-right-color: rgba(143, 183, 66, 0.08);
+}
+
+.vd-group-timeline-item.timeline-left .vd-group-item-inner:after {
+	left: 100%;
+	border-left-color: rgba(143, 183, 66, 0.08);
 }
 
 /*
@@ -415,28 +513,50 @@ body:before {
 .vd-select-submenu .vd-button {
     position: absolute;
     top: -110px;
+}
+.vd-button {
     width: 100%
 }
-.vd-select-submenu .vd-button .vd-button-tag {
+.vd-button .vd-button-tag {
     border: 1px dashed rgba(0,0,0,0.3);
     background-color: #fff;
     padding: 1em;
     border-radius: 50%;
-    width: 145px;
-    height: 145px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-.vd-select-submenu .vd-button .vd-button-inner {
+.vd-button .vd-button-inner {
     background-color: #8FB742;
     color: #fff;
     padding: 1em;
     border-radius: 50%;
+}
+.vd-button .vd-button-tag-invert .vd-button-inner {
+    background-color: #4F5137;
+}
+
+a:hover .vd-button .vd-button-inner,
+.vd-button a:hover .vd-button-inner {
+    background-color: #8B9448;
+}
+a:hover .vd-button .vd-button-tag-invert .vd-button-inner,
+.vd-button a:hover .vd-button-tag-invert .vd-button-inner {
+    background-color: #B8BA8A;
+}
+.vd-button a:hover {
+    text-decoration: none;
+}
+
+.vd-select-submenu .vd-button .vd-button-tag {
+    width: 145px;
+    height: 145px;
+}
+.vd-select-submenu .vd-button .vd-button-inner {
     height: 115px;
     width: 115px;
 }
-.vd-select-submenu .vd-button span {
+.vd-button span {
     display: block;
 }
 .vd-select-submenu .vd-button .vd-button-price {
@@ -518,6 +638,41 @@ body:before {
     margin-top: 20px;
     border-top: 1px solid #eee;
 }
+
+
+/* ===================================================================================
+ * styling verhuur-item
+ *   -------------------------------------------------------------------------------
+ */
+.vd-layout-verhuur-item {
+    margin: 0 auto 0 auto;
+    padding: 0 auto 0 auto;
+}
+
+.vd-nav {
+    display: table;
+    width: 100%;
+    table-layout: fixed;    /* For cells of equal size */
+}
+.vd-nav .vd-navlink {
+    display: table-cell;
+    text-align: center;
+    padding-left: auto;
+    padding-right: auto;
+}
+
+.vd-nav .vd-button .vd-button-tag {
+    width: 195px;
+    height: 195px;
+}
+.vd-nav .vd-button .vd-button-inner {
+    height: 165px;
+    width: 165px;
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 1.1em;
+}
+
 
 /* ===================================================================================
  * styling landing-footer

@@ -59,25 +59,47 @@
     <article>
       <div class="container-fluid">
         <div id="content" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-  {% if page.insert contains 'play-album' %}
-    {% include play-album.html %}
-  {% endif %}
-  {{ content }}
-  {% if page.insert contains 'virtualtour' %}
-    {% include virtualtour.html %}
-  {% endif %}
+    {% include secondary-menu.html %}
+    {% if page.insert contains 'level3-tiles' %}
+        {% if lvl2.submenu %}
+          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="vd-select-list {{page.class.select.list}}" id="vd-select-list">
+            {% for link in lvl2.submenu %}
+                {% assign select = link.linkcode %}
+                {% for pg in site.pages %}
+                    {% if pg.url == site.data.linkcode[select][pgLang] %}
+                        {% unless pg.submenu == "hide" %}
+                            {% assign linkPage = pg %}
+                            {% include linkPageStyleSubMenu.html %}
+                        {% endunless %}
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+            </div>
+          </div>
+        {% endif %}
+    {% endif %}
+
+    {{ content }}
+
+    {% if page.insert contains 'virtualtour' %}
+        {% include virtualtour.html %}
+    {% endif %}
+    {% if page.insert contains 'play-album' %}
+        {% include play-album.html %}
+    {% endif %}
         </div>
       </div>
     </article>
 
     <footer>
       <div id="footer" class="vd-footer">
-  {% unless  page.remove contains 'imgstrip'%}
-    {% include strip-album.html %}
-  {% endunless%}
+    {% unless  page.remove contains 'imgstrip'%}
+        {% include strip-album.html %}
+    {% endunless%}
         <!-- more footer elements? -->
         <div id="contact" class="vd-contact" itemscope itemtype="http://schema.org/Place">
-        <a href="{{site.data.linkcode.contact[pgLang].link}}" class="vd-barelink">
+        <a href="{{site.data.linkcode.contact[pgLang]}}" class="vd-barelink">
         <div class="container-fluid" >
           <span class="vd-contact-item hidden-xs">
             <span>&copy; 2015</span> <span class="" itemprop="name">{{ site.contact.owner }}</span>

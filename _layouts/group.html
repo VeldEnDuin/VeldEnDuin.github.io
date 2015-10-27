@@ -22,8 +22,6 @@ layout: default
 {% endif %}
 
 
-
-
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
   <div class="vd-group-intro vd-group-{{grp}}-intro">
@@ -41,11 +39,9 @@ layout: default
 {% for it in rankeditems %}
     {% assign title       = it.title[pgLang] %}
     {% assign my_date     = it.date | date: "%m.%Y" %}
-    {% assign m_date      = it.date | date: "%m" %}
-    {% comment %}
-        see https://docs.shopify.com/themes/liquid-documentation/filters/additional-filters#date
-        %b == abreviated month name, %B = full month name
-    {% endcomment %}
+    {% assign m_date      = it.date | date: "%-m" |modulo: 12%}
+    {% comment %}- sign removes zero padding --> still text though, |modulo: 12 makes it numeral - useable as arrayindex {% endcomment %}
+    {% assign m_text      = site.data.langs[pgLang].months[m_date] %}
     {% assign y_date      = it.date | date: "%Y" %}
     {% assign description = it.description[pgLang] %}
     {% assign link        = it.link[pgLang] %}
@@ -69,10 +65,9 @@ layout: default
         {% endif %}
       >
         <div class="vd-group-content">
-          <div class="vd-group-content-arrow"></div>
           <div class="vd-group-content-inner">
         {% if my_date %}
-            <div class="vd-group-date"><span class="month">{{ m_date }}</span>.<span class="year">{{ y_date }}</span></div>
+            <div class="vd-group-date"><span class="month">{{ m_text }}</span>&nbsp;<span class="year">{{ y_date }}</span></div>
         {% endif %}
             <div class="vd-group-title">
         {% if link %}

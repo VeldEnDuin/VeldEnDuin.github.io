@@ -267,7 +267,7 @@
 
                     function addBtn(subgrp, label, cnt) {
                         var $btn = $('<li id="vd-subgrp-' + subgrp +
-                                     '"><a href="#' + subgrp + '">' + label + ' [' + cnt + ']</a></li>');
+                                     '"><a href="#' + subgrp + '">' + label + '</a></li>');
 
                         $btns = $btns.add($btn);
 
@@ -330,10 +330,12 @@
             $tl.append($dot);
             $it.data('tl-dot', $dot);
 
+            /*
             imgs   = $it.data('images');
             imgLoadAndRotate(imgs, 0, function (url) {
                 $('.vd-group-img img.img.img-thumbnail', $it).attr('src', url);
             });
+            */
         });
 
         $grid = $groupList.isotope({ // apply the masonry (default) layout.

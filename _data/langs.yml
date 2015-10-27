@@ -1,6 +1,7 @@
 nl:
-    label: Nederlands
+    label: NL
     directions: ["N", "NO", "O", "ZO", "Z", "ZW", "W", "NW"]
+    months: ["januari", "februari", "maart", "april", "mei", "juni", "juli", "augustus", "september", "oktober", "november", "december"]
     id:
         cx: 012964731216503545400:onwjrjqskq8
         resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
@@ -28,6 +29,8 @@ nl:
         moreinfo: Meer info
         per2n: 2 nachten
         starting: Vanaf
+        practical_info: Praktische Informatie
+        other_rental_types: Andere Types Logement
 
     gcse:
         use: Geef een zoekterm in!
@@ -35,8 +38,9 @@ nl:
         empty: Helaas, geen resultaten gevonden voor de huidige zoekterm.
 
 fr:
-    label: français
+    label: FR
     directions: ["N", "NE", "E", "SE", "S", "SO", "O", "NO"]
+    months: ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"]
     id:
         cx: 012964731216503545400:qlxwawrgx9q
         resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
@@ -67,8 +71,9 @@ fr:
         empty: (TODO FR) no results for term, followed by (term)
 
 de:
-    label: Deutsch
+    label: DE
     directions: ["N", "NO", "O", "SO", "S", "SW", "W", "NW"]
+    months: [ "Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"]
     id:
         cx: 012964731216503545400:yf3vj8omajg
         resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
@@ -99,8 +104,9 @@ de:
         empty: (TODO DE) no results for term, followed by (term)
 
 en:
-    label: English
+    label: EN
     directions: ["N", "NE", "E", "SE", "S", "SW", "W", "NW"]
+    months: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
     id:
         cx: 012964731216503545400:7thummrhqau
         resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
