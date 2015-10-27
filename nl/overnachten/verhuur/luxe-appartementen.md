@@ -8,8 +8,9 @@ preview:
     list:
         - groot zonne-terras of balkon
         - 65 m²
-        - vaatwas
+        - vaatwasmachine
         - 5-6 personen
+images:
 ---
 {% include links.md %}
 
@@ -54,7 +55,7 @@ extra nacht >7 n    |€ 51         |€ 62           | € 95
 
 LAAGSEIZOEN           |TUSSENSEIZOEN      |    HOOGSEIZOEN|
 :--------------------:|:-----------------:|:-------------:|
-november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni, <br>september, oktober, <br>schoolkerstvakanties | juli - augustus
+november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni, <br>september - oktober, <br>schoolvakanties | juli - augustus
 
 ###Waarborg
 - 50 € - cash te betalen bij aankomst
