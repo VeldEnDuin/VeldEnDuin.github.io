@@ -1,8 +1,7 @@
 TODO
 ====
 - verhuur detail pagina 
-  nav -- + links andere details + link practische-info  --> links andere details via js effect? (anders dan nu?)
-  tables - styling!
+  nav -- links andere details via js effect? (anders dan nu?)
   foto's 
   
   eerste foto in background
