@@ -1,8 +1,9 @@
 TODO
 ====
 - verhuur detail pagina 
-  nav -- links andere details via js effect? (anders dan nu?)
-  foto's 
+  nav -- links andere details --> nav aan de rechterkant prakt-info in ander kleur
+  foto's -- strip onder de level2 nav --> rechtermenu komt daar onder
+  
   
   eerste foto in background
   
@@ -13,9 +14,25 @@ TODO
 - fotoalbum(s)
   - include one album
   - allow browsing all albums --> /pics
-  - preview en autoplay
+  - preview en autoplay?
+  
+  - tussenlijn per jaar --> doen grid behouden
+  
+  - detail van 1 pic --> makkelijk sharen via social media --> hyperlink met direct-access is nog nodig!
+  
+  - joke: maakt link-back icon om van 1 album terug te keren naar browse van alle albums
+  
+  - nog nadenken over linken naar de /pics --> mijn Veld & Duin
+  
+  
+  
 
-- mailchimp styling --> Joke?
+- mailchimp styling 
+    --> Joke voorstel komt eraan
+    marc al simpele variant uitwerken en de templating-language van mc erop toepassen
+    
+    
+    
 
 - print.css elementen! (doet bootstrap al iets?)
   
