@@ -45,6 +45,7 @@
         nl:  Verhuur
         fr: Location
       submenu:
+        - linkcode: verhuur_info
         - linkcode: verhuur_luxe_appartementen
         - linkcode: verhuur_appartement
         - linkcode: verhuur_comfort4plus_chalet
@@ -54,11 +55,18 @@
         - linkcode: verhuur_comfort2_caravan
         - linkcode: verhuur_standaard_chalet
 
-        - linkcode: verhuur_info
        
     - linkcode: trekkers
       menutekst:
         nl:  Trekkers
+      submenu:
+        - linkcode: trekkers_arrangement
+        - linkcode: trekkers_lang
+        - linkcode: trekkers_tent7x8
+        - linkcode: trekkers_tent10x8
+        - linkcode: trekkers_trekker10x8
+        - linkcode: trekkers_info
+
     - linkcode: residentieel
       menutekst:
         nl:  Residentieel Verblijf

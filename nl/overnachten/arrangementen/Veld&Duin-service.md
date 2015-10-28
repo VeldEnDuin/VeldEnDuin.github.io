@@ -11,7 +11,9 @@ preview:
         - lift
         - plaats voor fietsen
 ---
+
 {% include links.md %}
 
 ## Veld & Duin Service
+
 Prelude nog aanpassen + tekst nog schrijven!

@@ -4,31 +4,32 @@ layout: default
 {% include layout-prelude.html %}
 
 <div>
-  <div class="col-lg-12 col-md-12">
-
-{% assign lastmenundx = lvl2.submenu |size | minus:1 %}
-{% assign lastcode = lvl2.submenu[lastmenundx].linkcode %}
-
-    <div class="vd-nav">
-      <span class="vd-navlink vd-button"><span class="vd-button-tag"><span class="vd-button-inner">
-          {{page.title}}
-      </span></span></span>
-      <span class="vd-navlink vd-button">
-        <a href="{{site.data.linkcode[lvl2.linkcode][pgLang]}}">
-          <span class="vd-button-tag"><span class="vd-button-inner">
-            {{site.data.langs[pgLang].dict.other_rental_types}}
-          </span></span>
-        </a>
-      </span>
-      <span class="vd-navlink vd-button">
-        <a href="{{site.data.linkcode[lastcode][pgLang]}}">
-          <span class="vd-button-tag vd-button-tag-invert"><span class="vd-button-inner">
-            {{site.data.langs[pgLang].dict.practical_info}}
-          </span></span>
-        </a>
-      </span>
+{% if page.images %}
+  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+    <div class="vd-img-strip">
+    {% for img in page.images %}
+      <img src="{{img}}">
+    {% endfor %}
     </div>
-    <div class="vd-layout-verhuur-item container">
+  </div>
+{% endif %}
+
+  <div class="col-lg-4 col-lg-push-8 col-md-4 col-md-push-8 col-sm-12 col-xs-12">
+    <div class="vd-nav">
+      <ul>
+    {% for m3 in lvl2.submenu %}
+        <li>
+          <a href="{{site.data.linkcode[m3.linkcode][pgLang]}}">
+              title( {{ m3.linkcode }} )
+          </a>
+        </li>
+    {%endfor %}
+      </ul>
+    </div>
+  </div>
+
+  <div class="col-lg-8 col-lg-pull-4 col-md-8 col-md-pull-4 col-sm-12 col-xs-12">
+    <div class="vd-layout-verhuur-item">
 
 {{ content }}
 

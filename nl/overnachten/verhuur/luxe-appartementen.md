@@ -6,18 +6,19 @@ preview:
     button:
         price: 175
     list:
-        - groot zonne-terras of balkon
-        - 65 m²
-        - vaatwasmachine
-        - 5-6 personen
+        - "groot zonne-terras of balkon"
+        - "65 m²"
+        - "vaatwasmachine"
+        - "5-6 personen"
 images:
     - /img/ingang.jpg
     - /img/stacaravan.jpg
     - /img/trekker.jpg
 ---
+
 {% include links.md %}
 
-##LUXE APPARTEMENTEN
+##Luxe Appartementen
 
 Gelegen aan de ingang van de camping, bieden deze appartementen alle luxe met zicht op de bloemenpracht aan de ingang en het speelplein. 
 
@@ -70,17 +71,17 @@ november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | a
 - **uitzondering**: verbruik gas en elektriciteit is exclusief bij huur vanaf 4 nachten van 1/11 - 31/3
 
 ###Extra's
-EXTRA             | PRIJS 
-:------------------|:-----------|
-schoonmaak| € 50 - zelf schoonmaken kan
+EXTRA               | PRIJS 
+:-------------------|:-----------|
+schoonmaak          | € 50 - zelf schoonmaken kan
 annulatieverzekering| 3,5 % van de totale reissom - Allianz 
-lakenpakket| € 8 / bed
-kinderbed| € 1 / nacht
-kinderstoel| € 1 / nacht
-tweede parking| € 4 / begonnen dag
-plaats fietsberging| € 1 / fiets / nacht
-[sauna][sauna.nl]| € 30
+lakenpakket         | € 8 / bed
+kinderbed           | € 1 / nacht
+kinderstoel         | € 1 / nacht
+tweede parking      | € 4 / begonnen dag
+plaats fietsberging | € 1 / fiets / nacht
+[sauna][sauna.nl]   | € 30
 [internet][internet.nl]| afhankelijk van tijd online
-[Veld & Duin service][Veld_&_Duin_service.nl]| € 75 
+[Veld & Duin service][veld_duin_service.nl]| € 75 
 
 

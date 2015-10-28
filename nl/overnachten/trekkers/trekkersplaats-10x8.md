@@ -6,15 +6,15 @@ preview:
     button:
         price: 20
     list:
-        - voor trekcaravan of mobilhome
+        - "voor trekcaravan of mobilhome"
         - "afmetingen: 10x8 meter"
-        - gras-of betonplaats
-        - dichtbij sanitair
+        - "gras-of betonplaats"
+        - "dichtbij sanitair"
 images:
 ---
 {% include links.md %}
 
-## Trekkersplaats 10x8
+## TREKKERSPLAATS 10x8
 Combineer de vrijheid van het reizen met een trekcaravan of mobilhome met het comfort van onze camping.
 
 ###Goed om weten

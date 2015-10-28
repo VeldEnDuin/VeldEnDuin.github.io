@@ -77,6 +77,26 @@ verhuur_standaard_chalet:
 verhuur_info:
     nl:  /nl/overnachten/verhuur/praktische-info.html
 
+# [2.2] submenu overnachten -> trekkers
+trekkers_arrangement:
+    nl:  /nl/overnachten/trekkers/kampeerarrangement.html
+trekkers_lang:
+    nl:  /nl/overnachten/trekkers/lang-verblijf.html
+trekkers_tent7x8:
+    nl:  /nl/overnachten/trekkers/tentplaats-7x8.html
+trekkers_tent10x8:
+    nl:  /nl/overnachten/trekkers/tentplaats-10x8.html
+trekkers_trekker10x8:
+    nl:  /nl/overnachten/trekkers/trekkersplaats-10x8.html
+trekkers_info:
+    nl:  /nl/overnachten/trekkers/praktische-info.html
+
+# [2.3] submenu overnachten -> residentieel
+
+# [2.4] submenu overnachten -> arrangementen
+veld_duin_service:
+    nl: /nl/overnachten/arrangementen/Veld&Duin-service.html
+
 # [3] menu - voorzieningen
 voorzieningen:
     nl: /nl/voorzieningen.html
