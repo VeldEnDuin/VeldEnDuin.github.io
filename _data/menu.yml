@@ -62,11 +62,13 @@
     - linkcode: residentieel
       menutekst:
         nl:  Residentieel Verblijf
-    - linkcode: appartement
+    - linkcode: arrangementen
       menutekst:
         nl:  Arrangementen
+        submenu:
+        - linkcode: veld_&_duin_service
 
-- linkcode: voorzieningen
+ - linkcode: voorzieningen
   menutekst:
     nl:  Voorzieningen
     fr:  Aménagements
