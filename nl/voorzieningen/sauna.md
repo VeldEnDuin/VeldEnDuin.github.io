@@ -13,5 +13,6 @@ preview:
 ---
 {% include links.md %}
 
-## Veld & Duin Service
-Prelude nog aanpassen + tekst nog schrijven!
+##Sauna
+
+Prelude nog aanpassen - tekst nog schrijven!
