@@ -11,6 +11,9 @@ preview:
         - vaatwasmachine
         - 5-6 personen
 images:
+    - /img/ingang.jpg
+    - /img/stacaravan.jpg
+    - /img/trekker.jpg
 ---
 {% include links.md %}
 
