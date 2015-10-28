@@ -14,7 +14,7 @@ images:
 ---
 {% include links.md %}
 
-##Luxe appartementen
+##LUXE APPARTEMENTEN
 
 Gelegen aan de ingang van de camping, bieden deze appartementen alle luxe met zicht op de bloemenpracht aan de ingang en het speelplein. 
 

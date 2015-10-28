@@ -23,8 +23,8 @@ Annulatievoorwaarden: [aanklikbaar met verwijzing naar de vwen][todo.nl]
 
 
 ##Aankomst-en vertrekregeling
-- Aankomst: vanaf 14 u - indien buiten de openingsuren receptie, vooraf verwittigen aub
-- Vertrek: voor 10 u
+- Aankomst: vanaf 14 u - indien buiten de openingsuren receptie, vooraf verwittigen aub.
+- Vertrek: voor 11 u.
 
 ##Openingsuren receptie
 
@@ -35,25 +35,6 @@ Paasvakantie<br>Verlengde weekends mei en juni<br>Juli en augustus              
 15 november tot 15 maart        |bereikbaar na afspraak                     
                              
 Wenst u buiten deze openingsuren aan te komen? Dat kan, maar geef dan een seintje vooraf zodat we een tijd kunnen afspreken.
-
-
-###Inventaris
-
-tekst noodzakelijk     |             |               |              |
-:---------------------:|:-----------:|:-------------:|:------------:
-bier/wijn/waterglazen  |kinderbestek |kookpotten     |borstel                             
-borden                 |aardappelmes |pannen         |aftrekker
-tassen                 |slacouvert   |slazwierder    |ruitenaftrekker
-bekers                 |pollepel     |vergiet        |emmer
-dessertkommetjes       |pureestamper |koffiezet      |vuilblik
-eierdopjes             |flesopener   |waterkoker     |dweil
-broodmandje            |kurkentrekker|asbak          |spons
-groentenschalen        |klopper      |vuilnisbak     |vaatdoek
-microgolfpot           |schepper     |kapstokken     |detergent
-snijplank              |blikopener   |donsdekens     |allesreiniger
-maatbeker              |schaar       |hoofdkussens   |azijn
-bestek                 |microgolf    |matrasbeschermer|tuinmeubels
-
 
 ###Plan camping
 

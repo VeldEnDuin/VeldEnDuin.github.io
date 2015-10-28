@@ -15,7 +15,7 @@ images
 {% include links.md %}
 
 ## Trekkersplaats 10x8
-Combineer de vrijheid van het reizen met een trekcaravan of mobilhome met de luxe van de fasciliteiten van onze camping.
+Combineer de vrijheid van het reizen met een trekcaravan of mobilhome met het comfort van onze camping.
 
 ###Goed om weten
 - max 6 personen / plaats
