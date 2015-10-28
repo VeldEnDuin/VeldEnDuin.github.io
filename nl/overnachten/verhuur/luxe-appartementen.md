@@ -76,7 +76,8 @@ kinderbed| € 1 / nacht
 kinderstoel| € 1 / nacht
 tweede parking| € 4 / begonnen dag
 plaats fietsberging| € 1 / fiets / nacht
-sauna| € 30
+[sauna][sauna.nl]| € 30
 [internet][internet.nl]| afhankelijk van tijd online
-Veld & Duin service | € 75
+[Veld & Duin service][Veld_&_Duin_service.nl]| € 75 
+
 
