@@ -68,7 +68,7 @@
         submenu:
         - linkcode: veld_&_duin_service
 
- - linkcode: voorzieningen
+- linkcode: voorzieningen
   menutekst:
     nl:  Voorzieningen
     fr:  Aménagements

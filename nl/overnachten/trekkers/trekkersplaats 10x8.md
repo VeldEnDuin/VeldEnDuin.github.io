@@ -7,10 +7,10 @@ preview:
         price: 20
     list:
         - voor trekcaravan of mobilhome
-        - afmetingen: 10x8 meter
+        - "afmetingen: 10x8 meter"
         - gras-of betonplaats
         - dichtbij sanitair
-images
+images:
 ---
 {% include links.md %}
 
