@@ -1,6 +1,6 @@
 ---
 layout: default
-
+submenu: hide
 ---
 
 ##PRAKTISCHE INFO

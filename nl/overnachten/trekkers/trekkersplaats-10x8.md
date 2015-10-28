@@ -36,10 +36,10 @@ AANTAL PERSONEN | PRIJS
 
 Aantal nachten | Korting       
 :-------------:|:-----------:|
->= 5 nachten   | 5 %             
->= 7 nachten   | 7 %                  
->= 10 nachten  | 10 %      
->= 14 nachten  | 14 %            
+≥ 5 nachten   | 5 %             
+≥ 7 nachten   | 7 %                  
+≥ 10 nachten  | 10 %      
+≥ 14 nachten  | 14 %            
 
 - Korting enkel geldig op het verblijf, niet op extra’s en niet combineerbaar met andere kortingen of kampeerarrangementen.
 - Geldigheidsduur: hele jaar met uitzondering van juli en augustus.
@@ -60,9 +60,3 @@ tweede parking| € 4 / begonnen dag
 plaats fietsberging| € 1 / fiets / nacht
 [sauna][sauna.nl]| € 30
 [internet][internet.nl]| afhankelijk van tijd online
- 
-
-
-
-
-
