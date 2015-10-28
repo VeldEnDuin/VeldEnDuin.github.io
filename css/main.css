@@ -501,6 +501,9 @@ table.table>tbody>tr>td:first-child
     padding: 0.5em 0 0.5em 0;
     border-bottom: 1px solid rgba(0,0,0,0.3);
 }
+.vd-select-submenu .vd-select-title {
+    min-height: 4em;
+}
 .vd-select-submenu .vd-select-content ul {
     padding: 0;
 }
@@ -734,7 +737,7 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
 .vd-img-strip {
     background-color: rgba(255, 255, 255, 0.5);
     margin: 1em 0 0 0;
-    height: 210px;
+    height: 160px;
     overflow: hidden;
 }
 .vd-img-strip img {
