@@ -70,13 +70,17 @@
     - linkcode: residentieel
       menutekst:
         nl:  Residentieel Verblijf
+      submenu:
+        - linkcode: type_1
+
+
     - linkcode: arrangementen
       menutekst:
         nl:  Arrangementen
-        submenu:
+      submenu:
         - linkcode: extraatje
          nl:  Arrangementen
-        submenu:
+      submenu:
         - linkcode: veld_&_duin_service
 
 - linkcode: voorzieningen
@@ -149,9 +153,9 @@
     en:  Foto's
     de:  Foto's
 
-- linkcode: pdf
-  menutekst:
-    nl: Allianz
-    fr:
-    en:
-    de:
+    - linkcode: pdf
+    menutekst:
+        nl: Allianz
+        fr:
+        en:
+        de:
