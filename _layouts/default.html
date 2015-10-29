@@ -68,7 +68,7 @@
                 {% assign select = link.linkcode %}
                 {% for pg in site.pages %}
                     {% if pg.url == site.data.linkcode[select][pgLang] %}
-                        {% unless pg.submenu == "hide" %}
+                        {% unless pg.preview == false %}
                             {% assign linkPage = pg %}
                             {% include linkPageStyleSubMenu.html %}
                         {% endunless %}

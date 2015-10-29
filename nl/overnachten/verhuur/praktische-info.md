@@ -1,6 +1,8 @@
 ---
-layout: default
-submenu: hide
+layout: verhuur-item
+title: Praktische Info
+
+preview: no
 ---
 
 ##PRAKTISCHE INFO

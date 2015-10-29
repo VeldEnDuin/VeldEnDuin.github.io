@@ -19,8 +19,17 @@ layout: default
       <ul>
     {% for m3 in lvl2.submenu %}
         <li>
-          <a href="{{site.data.linkcode[m3.linkcode][pgLang]}}">
-              title( {{ m3.linkcode }} )
+        {% assign linklangurl = site.data.linkcode[m3.linkcode][pgLang]%}
+          <a href="{{linklangurl}}">
+        {% for pg in site.pages %}
+            {% if pg.url == linklangurl %}
+                {% assign title = pg.title %}
+                {% if pg.preview.title %}
+                    {% assign title = pg.preview.title %}
+                {% endif %}
+                {{ title }}
+            {% endif %}
+        {% endfor %}
           </a>
         </li>
     {%endfor %}
