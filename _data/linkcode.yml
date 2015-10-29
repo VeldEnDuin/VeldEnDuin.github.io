@@ -94,6 +94,8 @@ trekkers_info:
 # [2.3] submenu overnachten -> residentieel
 
 # [2.4] submenu overnachten -> arrangementen
+extraatje:
+    nl: /nl/overnachten/arrangementen/extraatje.html
 veld_duin_service:
     nl: /nl/overnachten/arrangementen/Veld&Duin-service.html
 
@@ -152,6 +154,13 @@ doen:
 # [5] menu fotos
 fotos:
     nl: /nl/fotos.html
+    fr: /fr/photos.html
+    en: /en/photos.html
+    de: /de/fotos.html
+
+# [6] menu pdf
+pdf:
+    nl: /nl/Allianz-alg-vwen.html
     fr: /fr/photos.html
     en: /en/photos.html
     de: /de/fotos.html

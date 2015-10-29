@@ -74,6 +74,9 @@
       menutekst:
         nl:  Arrangementen
         submenu:
+        - linkcode: extraatje
+         nl:  Arrangementen
+        submenu:
         - linkcode: veld_&_duin_service
 
 - linkcode: voorzieningen
@@ -145,3 +148,10 @@
     fr:  Foto's
     en:  Foto's
     de:  Foto's
+
+- linkcode: pdf
+  menutekst:
+    nl: Allianz
+    fr:
+    en:
+    de:

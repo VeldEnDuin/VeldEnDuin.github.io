@@ -3,6 +3,8 @@ layout: default
 submenu: hide
 ---
 
+{% include links.md %}
+
 ##PRAKTISCHE INFO
 
 ###Betalingsvoorwaarden
@@ -20,12 +22,12 @@ De reservatie is pas definitief na ontvangst van het voorschot.
 
 Prijs: 3,5 % van de totale reissom. 
 
-Annulatievoorwaarden: [aanklikbaar met verwijzing naar de vwen][todo.nl]
+Annulatievoorwaarden: [Allianz][pdf.nl].
 
 
 ###Aankomst-en vertrekregeling
-- Aankomst: vanaf 14 u - indien buiten de openingsuren receptie, vooraf verwittigen aub
-- Vertrek: voor 10 u
+- Aankomst: vanaf 14 u - indien buiten de openingsuren receptie, vooraf verwittigen aub.
+- Vertrek: voor 10 u.
 
 ###Openingsuren receptie
 
@@ -38,7 +40,7 @@ Paasvakantie<br>Verlengde weekends mei en juni<br>Juli en augustus              
 Wenst u buiten deze openingsuren aan te komen? Dat kan, maar geef dan een seintje vooraf zodat we een tijd kunnen afspreken.
 
 
-####Inventaris
+###Inventaris
 
 tekst noodzakelijk     |             |               |              |
 :---------------------:|:-----------:|:-------------:|:------------:
@@ -56,6 +58,3 @@ maatbeker              |schaar       |hoofdkussens   |azijn
 bestek                 |microgolf    |matrasbeschermer|tuinmeubels
 
 
-####Plan camping
-
-[invoegen plan][plan.nl]
