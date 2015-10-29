@@ -39,7 +39,7 @@ Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Kie
 ###Prijzen
 
 STANDPLAAATS          |                | NUTSVOORZIENINGEN *|             |
-:------------------:--|:--------------:|:------------------:|:-----------:|
+:--------------------:|:--------------:|:------------------:|:-----------:|
 standplaatsvergoeding |€ 2510          |electriciteit       | € 0,35 / kw        
 gemeentetaks          |€ 333,90 (2015) |water        | € 6,50 / m³  
 huisvuilbijdrage<br>incl 25 zakken<br> |€ 65 |gas         | € 6,50 / m³       
@@ -48,7 +48,7 @@ brandverzekering      |afhankelijk van <br>waarde caravan| tellervergoeding|€1
 * Prijs kan wijzigen bij stijging van de energieprijzen
 
 ALLERLEI              |PRIJS           | DAGTAKS<br> (VERHUUR CARAVAN)|PRIJS  |
-:------------------:--|:--------------:|:------------------:|:-----------:|
+:--------------------:|:--------------:|:------------------:|:-----------:|
 winterservice         |€ 40            |1 persoon           | € 2,50        
 slagboomkaart (eenmalig)|€ 100           |2 personen          | € 5  
 parking 2de auto      |€ 4 / begonnen dag |gezin (tot 5 pers)  | € 8     

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sauna
-images
+images:
 ---
 {% include links.md %}
 

@@ -60,12 +60,12 @@
       menutekst:
         nl:  Trekkers
       submenu:
+        - linkcode: trekkers_info
         - linkcode: trekkers_arrangement
         - linkcode: trekkers_lang
         - linkcode: trekkers_tent7x8
         - linkcode: trekkers_tent10x8
         - linkcode: trekkers_trekker10x8
-        - linkcode: trekkers_info
 
     - linkcode: residentieel
       menutekst:
@@ -78,9 +78,7 @@
       menutekst:
         nl:  Arrangementen
       submenu:
-        - linkcode: extraatje
-         nl:  Arrangementen
-      submenu:
+        - linkcode: 7_plus_1
         - linkcode: veld_&_duin_service
 
 - linkcode: voorzieningen
@@ -153,9 +151,3 @@
     en:  Foto's
     de:  Foto's
 
-    - linkcode: pdf
-    menutekst:
-        nl: Allianz
-        fr:
-        en:
-        de:
