@@ -71,3 +71,7 @@ tweede parking| € 4 / begonnen dag
 plaats fietsberging| € 1 / fiets / nacht
 sauna| € 30
 [internet][internet.nl]| afhankelijk van tijd online
+
+####Plan camping
+
+[invoegen plan][plan.nl]
