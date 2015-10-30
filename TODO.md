@@ -1,5 +1,10 @@
 TODO
 ====
+- verhuur-item naam veranderen --> wordt gebruikt voor alle items
+
+- preview-level3 gebruikt button met naast price: ook for:
+- styling voor grotere prijzen --> residentieel (font te groot voor 4digit getal)
+
 - verhuur detail pagina 
   nav -- links andere details --> nav aan de rechterkant prakt-info in ander kleur
   foto's -- strip onder de level2 nav --> rechtermenu komt daar onder

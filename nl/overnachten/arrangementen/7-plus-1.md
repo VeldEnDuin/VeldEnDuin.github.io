@@ -1,10 +1,11 @@
 ---
 layout: verhuur-item
-title: Extraatje
+title: 7+1
 preview: 
-    title: Extraatje
+    title: 7+1
     button:
         price: 260
+        for: 8 nachten
     list:
         - "1 nacht gratis"
         - "geldig voor elke verhuurtype"
