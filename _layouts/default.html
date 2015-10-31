@@ -38,12 +38,24 @@
         </div>
 
         <div class="collapse navbar-collapse" id="vd-menu">
+        {% if page.remove contains 'menu' %}
+          <ul id="menu" class="nav navbar-nav">
+            <li><a href="#">{{page.title}}</a></li>
+          </ul>
+          <ul id="lang" class="nav navbar-nav navbar-right">
+            {% include contact-menu.html %}
+          </ul>
+        {% else %}
             {% include main-menu.html %}
-            <ul id="lang" class="nav navbar-nav navbar-right">
+
+          <ul id="lang" class="nav navbar-nav navbar-right">
             {% include langs-menu.html %}
             {% include contact-menu.html %}
             {% include search-menu.html %}
-            </ul>
+          </ul>
+        {% endif %}
+
+
         </div>
         </div>
         </div>
