@@ -1,45 +1,50 @@
 ---
 layout: verhuur-item
-title: Appartement Comfort 4 Plus
+title: Appartementen
 preview: 
     title: Appartement
     button:
         price: 155
     list:
-        - zicht op duinen
-        - 65 m²
-        - lift
-        - plaats voor fietsen
+        - "4-5 personen"
+        - "lift"
+        - "zicht op duinen"
+        - "65 m²"
+images:
+    - /img/ingang.jpg
+    - /img/stacaravan.jpg
+    - /img/trekker.jpg
 ---
+
 {% include links.md %}
 
-##Appartement comfort 4 plus
+##Appartementen
 
-Vanuit onze appartementen hebt u zicht op de duinen en de voetgangersbrug die u naar het strand leidt.
+De appartementen liggen net naast de camping. Op die manier combineert u de ruimte van een appartement met de voorzieningen die we bieden.  
 
-###Inrichting appartement
+###Inrichting appartementen:
 - Ruime woonkamer met flatscreen en digibox
 - Ingerichte keuken met microgolf
 - Badkamer met douche, wastafel en toilet
-- 2 slaapkamers waarvan 1 met dubbelbed en 1 met stapelbed
-- Zetelbed voor 1 persoon
-- Balkon
+- Slaapkamers appartement:
+    - 1 kamer met dubbelbed (140x200)
+    - 1 kamer met stapelbed 2x (90x200) + zetelbed 1 persoon
+- Balkon vooraan (zicht op duinen) en achteraan (zicht op speelplein)
     
 ###Goed om weten
-- Max 5 personen
+- Appartement voorzien voor 4-5 personen
 - Huisdieren niet toegelaten - wel mogelijk in de chalets of caravans
-- Fietsbergplaats
-- Lift
+- Lift voorzien
 - Hele jaar door boekbaar
 
 ###Prijzen
 
 PERIODE             | LAAGSEIZOEN | TUSSENSEIZOEN | HOOGSEIZOEN |
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 nachten           |€ 155        |€ 170          |-          
-extra nacht         |€ 52         |€ 58           |-            
-midweek (ma-vrij)   |€ 215        |€ 240          |-
-verlengd WE (3 n)   |             |€ 240          |-
+2 nachten           |€ 155        |€ 170          |       
+extra nacht         |€ 52         |€ 58           |           
+midweek (ma-vrij)   |€ 215        |€ 240          |
+verlengd WE (3 n)   |             |€ 240          |
 7 nachten           |€ 370        |€ 410          | € 595
 extra nacht >7 n    |€ 45         |€ 55           | € 84
 14 nachten          |€ 650        |€ 755          | € 1125
@@ -49,7 +54,7 @@ extra nacht >7 n    |€ 45         |€ 55           | € 84
 
 LAAGSEIZOEN           |TUSSENSEIZOEN      |    HOOGSEIZOEN|
 :--------------------:|:-----------------:|:-------------:|
-november - maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april - juni, <br>september, oktober, <br>paas, herfst, krokus, <br>kerstvakantie | juli - augustus
+november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni, <br>september - oktober, <br>schoolvakanties | juli - augustus
 
 ###Waarborg
 - 50 € - cash te betalen bij aankomst
@@ -57,21 +62,24 @@ november - maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | apr
 
 ###Inbegrepen
 - parking 1 auto
-- verbruik gas-water-elektriciteit - uitzondering: verbruik gas en elektriciteit (meer dan gelijk aan teken) 4 nachten van 1/11 - 31/3
+- verbruik gas-water-elektriciteit 
+- **uitzondering**: verbruik gas en elektriciteit is exclusief bij huur vanaf 4 nachten van 1/11 - 31/3
 
 ###Extra's
-EXTRA             | PRIJS 
-:------------------|:-----------|
-schoonmaak| € 50 - zelf schoonmaken kan
+EXTRA               | PRIJS 
+:-------------------|:-----------|
+schoonmaak          | € 50 - zelf schoonmaken kan
 annulatieverzekering| 3,5 % van de totale reissom - Allianz 
-lakenpakket| € 8 / bed
-kinderbed| € 1 / nacht
-kinderstoel| € 1 / nacht
-tweede parking| € 4 / begonnen dag
-plaats fietsberging| € 1 / fiets / nacht
-sauna| € 30
+lakenpakket         | € 8 / bed
+kinderbed           | € 1 / nacht
+kinderstoel         | € 1 / nacht
+tweede parking      | € 4 / begonnen dag
+plaats fietsberging | € 1 / fiets / nacht
+[sauna][sauna.nl]   | € 30
 [internet][internet.nl]| afhankelijk van tijd online
+[Veld & Duin service][veld_duin_service.nl]| € 75 
 
-####Plan camping
+
+###Plan camping
 
 [invoegen plan][plan.nl]

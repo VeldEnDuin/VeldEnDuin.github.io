@@ -94,6 +94,8 @@ trekkers_info:
 # [2.3] submenu overnachten -> residentieel
 type_1:
     nl: /nl/overnachten/residentieel-verblijf/type-1.html
+type_2:
+    nl: /nl/overnachten/residentieel-verblijf/type-2.html
 
 # [2.4] submenu overnachten -> arrangementen
 7_plus_1:
