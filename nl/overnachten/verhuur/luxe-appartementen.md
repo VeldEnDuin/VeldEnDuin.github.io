@@ -34,6 +34,7 @@ Gelegen aan de ingang van de camping, bieden deze appartementen alle luxe met zi
     - 1 kamer met stapelbed 2x (140x200)
 - Appartement eerste verdieping: ruim zonne-terras
 - Appartement tweede verdieping: balkon
+
     
 ###Goed om weten
 - Appartement eerste verdieping: max 5 personen
