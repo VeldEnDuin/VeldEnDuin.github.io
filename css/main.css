@@ -43,16 +43,7 @@ body:before {
     font-size: 1.15em;
 }
 
-#content h2 {
-    text-transform: uppercase;
-}
 
-#content h2 {
-    padding-top: 1em;
-}
-#content h3 {
-    padding-top: 1em;
-}
 
 /* ===================================================================================
  * styling menu and header
@@ -214,6 +205,21 @@ table.table>tbody>tr>td:first-child
 }
 .fa.vd-share-pi {
     color: #cb2027!important;
+}
+
+/* ===================================================================================
+ * styling vd-layout-page sections
+ *   -------------------------------------------------------------------------------
+ */
+.vd-layout-page  h2 {
+    text-transform: uppercase;
+}
+
+.vd-layout-page h2 {
+    padding-top: 1em;
+}
+.vd-layout-page  h3 {
+    padding-top: 1em;
 }
 
 /* ===================================================================================

@@ -1,10 +1,11 @@
 TODO
 ====
-  
-- tussen-link-page  
-  eerste foto in background
-  
-  
+- mailchimp styling 
+    --> Joke voorstel komt eraan
+    marc al simpele variant uitwerken en de templating-language van mc erop toepassen
+    
+    
+    
 
 - fotoalbum(s)
   - include one album
@@ -22,12 +23,7 @@ TODO
   
   
 
-- mailchimp styling 
-    --> Joke voorstel komt eraan
-    marc al simpele variant uitwerken en de templating-language van mc erop toepassen
-    
-    
-    
+
 
 - print.css elementen! (doet bootstrap al iets?)
   
