@@ -1,5 +1,5 @@
 ---
-layout: verhuur-item
+layout: page
 title: Standaard Chalet
 preview: 
     title: Standaard Chalet

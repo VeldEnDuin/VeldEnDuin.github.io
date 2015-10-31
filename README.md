@@ -288,10 +288,10 @@ De beschikbare layouts in de prelude zijn:
 layout  | gebruikt voor
 --------|--------------
 default | Standaard pagina lay-out, dit voegt de algemene vormgeving toe aan de pagina.
-post    | Nieuws-artikel. 
-group   | Groep van meerdere elementen (doen-pagina en tijdslijn).
-landing | Pagina waarop mensen de site binnenkomen. Home page, maar ook specifieke campagne-pagina's vallen hieronder.
-verhuur-item| Een specifieke layout voor de opmaak van verhuur-item-pagina's.
+page    | Een meer specifieke layout voor de opmaak van tekstuele pagina's --> ondersteund ook een niveau 3 menu aan de rechterkant
+post    | Specifiekere vormgeving voor Nieuws-artikel. 
+group   | Specifiekere vormgeving voor Groepering van meerdere data-elementen (bv. doen-pagina en tijdslijn).
+landing | Specifiekere vormgeving voor Pagina waarop mensen de site binnenkomen. Home page, maar ook specifieke campagne-pagina's vallen hieronder. --> bevat oa nieuws-overzicht en zogenaamde "landing-pads" == links met previews naar andere geselecteerde pagina's
 
 
 ### Prelude: insert
@@ -304,6 +304,7 @@ virtualtour | alle layouts        | google-virtual-tour
 play-album  | alle layouts        | foto-album
 level3-tiles| alle layouts        | klikbare tegels van level3 menu = blokken in je derde niveau van navigatie vb de blokken bij verhuuritems / residentieel / arrangementen
 newsfeed    | landing             | lijst met recente nieuws-artikels
+page-images | alle layouts        |
 
 ### Prelude: remove
 

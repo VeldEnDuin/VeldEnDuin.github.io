@@ -1,5 +1,5 @@
 ---
-layout: verhuur-item
+layout: page
 title: Standaard Caravan
 preview: 
     title: Standaard Caravan

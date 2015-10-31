@@ -1,5 +1,5 @@
 ---
-layout: verhuur-item
+layout: page
 title: 7+1
 preview: 
     title: 7+1

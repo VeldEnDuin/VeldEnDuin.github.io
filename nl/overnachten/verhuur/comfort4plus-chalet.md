@@ -1,5 +1,5 @@
 ---
-layout: verhuur-item
+layout: page
 title: Chalet Comfort 4 Plus
 preview: 
     title: comfort 4+

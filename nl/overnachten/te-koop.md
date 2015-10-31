@@ -1,6 +1,6 @@
 ---
-title: Residentieel Verblijf
 layout: default
+title: Residentieel Verblijf
 images:
     - /img/stacaravan.jpg
 preview: 
