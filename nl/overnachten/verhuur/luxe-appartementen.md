@@ -1,5 +1,5 @@
 ---
-layout: verhuur-item
+layout: page
 title: Luxe Appartementen
 preview: 
     title: Luxe Appartement

@@ -1,6 +1,6 @@
 ---
-layout: default
-submenu: hide
+layout: page
+preview: none
 ---
 
 {% include links.md %}

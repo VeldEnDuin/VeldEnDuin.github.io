@@ -1,5 +1,5 @@
 ---
-layout: verhuur-item
+layout: page
 title: Trekkersplaats 10x8
 preview: 
     title: Trekker 10x8

@@ -1,6 +1,6 @@
 ---
-layout: verhuur-item
-title: Appartementen
+layout: page
+title: Appartement Comfort 4 Plus
 preview: 
     title: Appartement
     button:

@@ -1,5 +1,5 @@
 ---
-layout: verhuur-item
+layout: page
 title: Chalet of Caravan Comfort 4
 preview: 
     title: Comfort 4

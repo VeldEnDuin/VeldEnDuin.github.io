@@ -1,5 +1,5 @@
 ---
-layout: verhuur-item
+layout: page
 title: Praktische Info
 
 preview: no

@@ -1,6 +1,6 @@
 ---
-title: Q-Label
 layout: default
+title: Q-Label
 images: 
     - /img/labels/qfactor-label-2014-2016.jpg
     - /img/labels/qfactor-veldenduin.jpg
