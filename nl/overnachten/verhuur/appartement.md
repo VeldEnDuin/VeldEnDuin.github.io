@@ -5,11 +5,12 @@ preview:
     title: Appartement
     button:
         price: 155
+        for: 2 nachten
     list:
-        - zicht op duinen
-        - 65 m²
-        - lift
-        - plaats voor fietsen
+        - "zicht op duinen"
+        - "65 m²"
+        - "lift"
+        - "plaats voor fietsen"
 ---
 {% include links.md %}
 

@@ -6,20 +6,24 @@ insert:
 {% include layout-prelude.html %}
 
 <div>
-  <div class="col-lg-4 col-lg-push-8 col-md-4 col-md-push-8 col-sm-12 col-xs-12">
+  <div class="col-lg-3 col-lg-push-9 col-md-3 col-md-push-9 col-sm-12 col-xs-12">
 {%if lvl3%}
     <div class="vd-nav">
-      <ul>
+      <ul class="nav nav-pills nav-stacked">
     {% for m3 in lvl2.submenu %}
-        <li>
         {% assign linklangurl = site.data.linkcode[m3.linkcode][pgLang]%}
-          <a href="{{linklangurl}}">
+        <li class="{%if linklangurl == page.url %}active{% endif %}">
+          <a href="{{linklangurl}}" >
+
         {% for pg in site.pages %}
             {% if pg.url == linklangurl %}
                 {% assign title = pg.title %}
                 {% if pg.preview.title %}
                     {% assign title = pg.preview.title %}
                 {% endif %}
+                {% if pg.icon %}
+            <span class="glyphicon glyphicon-{{pg.icon}}"></span>&nbsp;
+                {% endif%}
                 {{ title }}
             {% endif %}
         {% endfor %}
@@ -31,7 +35,7 @@ insert:
 {% endif %}
   </div>
 
-  <div class="col-lg-8 col-lg-pull-4 col-md-8 col-md-pull-4 col-sm-12 col-xs-12">
+  <div class="col-lg-9 col-lg-pull-3 col-md-9 col-md-pull-3 col-sm-12 col-xs-12">
     <div class="vd-layout-verhuur-item">
 
 {{ content }}

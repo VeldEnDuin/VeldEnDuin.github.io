@@ -4,12 +4,13 @@ title: Appartement Comfort 4 Plus
 preview: 
     title: Appartement
     button:
-        price: 155
+        price: XXX
+        for: bundle
     list:
-        - zicht op duinen
-        - 65 m²
-        - lift
-        - plaats voor fietsen
+        - "..."
+        - "65 m²"
+        - "lift"
+        - "plaats voor fietsen"
 ---
 
 {% include links.md %}

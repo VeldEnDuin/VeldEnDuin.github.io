@@ -5,6 +5,7 @@ preview:
     title: Standaard Caravan
     button:
         price: 99
+        for: 2 nachten
     list:
         - verlof
         - incusief

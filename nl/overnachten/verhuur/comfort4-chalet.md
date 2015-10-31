@@ -5,6 +5,7 @@ preview:
     title: Comfort 4
     button:
         price: 319
+        for: 2 nachten
     list:
         - cmft kenmerk
         - 4 is goed

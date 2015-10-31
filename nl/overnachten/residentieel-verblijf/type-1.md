@@ -5,6 +5,7 @@ preview:
     title: Type 1
     button:
         price: 2510
+        for: per jaar
     list:
         - "luxeplaatsen"
         - "extra groenbeleving"

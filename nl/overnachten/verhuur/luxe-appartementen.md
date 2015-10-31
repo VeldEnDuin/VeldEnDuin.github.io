@@ -5,6 +5,7 @@ preview:
     title: Luxe Appartement
     button:
         price: 175
+        for: 2 nachten
     list:
         - "groot zonne-terras of balkon"
         - "65 m²"

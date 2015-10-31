@@ -5,6 +5,7 @@ preview:
     title: Trekker 10x8
     button:
         price: 20
+        for: /prs /n
     list:
         - "voor trekcaravan of mobilhome"
         - "afmetingen: 10x8 meter"
