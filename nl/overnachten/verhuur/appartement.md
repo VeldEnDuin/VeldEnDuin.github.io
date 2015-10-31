@@ -77,7 +77,7 @@ tweede parking      | € 4 / begonnen dag
 plaats fietsberging | € 1 / fiets / nacht
 [sauna][sauna.nl]   | € 30
 [internet][internet.nl]| afhankelijk van tijd online
-[Veld & Duin service][veld_duin_service.nl]| € 75 
+[Veld & Duin service][veld_duin_service.nl]| € 60
 
 
 ###Plan camping

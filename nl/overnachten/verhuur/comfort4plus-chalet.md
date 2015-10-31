@@ -20,7 +20,7 @@ images:
 
 ##Chalets comfort 4 +
 
-Na een heerlijke stranddag kunt u in deze chalets aperitieven, gezellig napraten en n chalets met overdekt terras. 
+Na een heerlijke stranddag kunt u op het overdekt terras met een lekker aperitiefje plannen maken voor de komende dagen. 
 
 ###Inrichting chalets:
 - Ruime woonkamer met flatscreen en digibox
@@ -29,7 +29,7 @@ Na een heerlijke stranddag kunt u in deze chalets aperitieven, gezellig napraten
 - Slaapkamers chalet:
     - 1 kamer met dubbelbed (140x200)
     - 1 kamer met stapelbed 2x (90x200) 
-- Overdekt en afgesloten terras
+- Overdekt en afgesloten terras met tuinmeubilair
     
 ###Goed om weten
 - Chalet voorzien voor 4 personen
@@ -77,7 +77,7 @@ tweede parking      | € 4 / begonnen dag
 plaats fietsberging | € 1 / fiets / nacht
 [sauna][sauna.nl]   | € 30
 [internet][internet.nl]| afhankelijk van tijd online
-[Veld & Duin service][veld_duin_service.nl]| € 75 
+[Veld & Duin service][veld_duin_service.nl]| € 60
 
 
 ###Plan camping
