@@ -1,6 +1,6 @@
 ---
 layout: mc-template
-title: NIEUWSBRIEF YYYY-MM-DD
+title: "*|MC:SUBJECT|*"
 ---
 #TITLE
 

@@ -785,9 +785,10 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
     padding: 0.5em 0 0.5em 0;
     text-align: center;
 }
-.vd-contact > div {
-    padding: 0.5em 0 0.5em 0;
+#mc-footer.vd-contact {
+    background-color: #4f5137;
 }
+
 .vd-contact .vd-contact-item {
     padding: 0 1.5em 0 1.5em;
     border-right: 1px solid #fff;

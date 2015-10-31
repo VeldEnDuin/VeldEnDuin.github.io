@@ -4,7 +4,8 @@ TODO
     --> Joke voorstel komt eraan
     marc al simpele variant uitwerken en de templating-language van mc erop toepassen
     
-    
+    https://us10.admin.mailchimp.com/templates/design?tid=123977
+    http://kb.mailchimp.com/templates/code/getting-started-with-mailchimps-template-language
     
 
 - fotoalbum(s)

@@ -38,9 +38,9 @@
         </div>
 
         <div class="collapse navbar-collapse" id="vd-menu">
-        {% if page.remove contains 'menu' %}
+        {% if page.insert contains 'mc-tags' %}
           <ul id="menu" class="nav navbar-nav">
-            <li><a href="#">{{page.title}}</a></li>
+            <li><a href="#"><span mc:edit="subject">{{page.title}}</span></a></li>
           </ul>
           <ul id="lang" class="nav navbar-nav navbar-right">
             {% include contact-menu.html %}
@@ -106,9 +106,15 @@
     {% endif %}
 
 
+    {% if page.insert contains 'mc-tags' %}
+      <div mc:edit="body">
+        {{content}}
+      </div>
+    {% else %}
 
-    {{ content }}
+      {{ content }}
 
+    {% endif %}
 
 
     {% if page.insert contains 'virtualtour' %}
@@ -165,6 +171,16 @@
         </a>
         </div>
       </div>
+    {% if page.insert contains 'mc-tags' %}
+      <div id="mc-footer" class="vd-contact">
+        <div class="container-fluid" >
+            <span class="vd-contact-item">*|UNSUB|*</span>
+            <span class="vd-contact-item">*|LIST:DESCRIPTION|*</span>
+            <span class="vd-contact-item">*|LIST:ADDRESS|*</span>
+          </div>
+        <div mc:edit="footer"></div>
+      </div>
+    {% endif %}
     </footer>
 
 
