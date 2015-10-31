@@ -7,7 +7,7 @@ preview:
         price: 175
         for: 2 nachten
     list:
-        - "groot zonne-terras of balkon"
+        - "zonneterras of balkon"
         - "65 m²"
         - "vaatwasmachine"
         - "5-6 personen"
@@ -48,8 +48,8 @@ Gelegen aan de ingang van de camping, bieden deze appartementen alle luxe met zi
 
 PERIODE             | LAAGSEIZOEN | TUSSENSEIZOEN | HOOGSEIZOEN |
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 nachten           |€ 175        |€ 195          |         
-extra nacht         |€ 59         |€ 65           |            
+2 nachten           |€ 175        |€ 195          |       
+extra nacht         |€ 59         |€ 65           |           
 midweek (ma-vrij)   |€ 245        |€ 270          |
 verlengd WE (3 n)   |             |€ 270          |
 7 nachten           |€ 415        |€ 460          | € 670
