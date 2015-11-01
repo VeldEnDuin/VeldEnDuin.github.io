@@ -68,7 +68,7 @@ november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | a
 ###Extra's
 EXTRA               | PRIJS 
 :-------------------|:-----------|
-schoonmaak          | € 50 - zelf schoonmaken kan
+schoonmaak          | € 40 - zelf schoonmaken kan
 annulatieverzekering| 3,5 % van de totale reissom - Allianz 
 huisdier            | € 4 / hond - max 2
 lakenpakket         | € 8 / bed

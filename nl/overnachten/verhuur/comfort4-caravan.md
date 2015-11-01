@@ -22,7 +22,7 @@ images:
 
 ##Caravan comfort 4 
 
-Een caravan roept de herinnering op aan het authentieke kamperen. De combinatie met het comfort van thuis staat dan ook garant voor een onvergetelijke kampeerervaring.
+Een caravan roept nog meer de herinnering op aan het authentieke kamperen. De mix met het comfort van thuis staat dan ook garant voor een sfeervol verblijf.
 
 ###Inrichting caravan:
 - Ruime woonkamer met tv en digibox
@@ -30,13 +30,13 @@ Een caravan roept de herinnering op aan het authentieke kamperen. De combinatie 
 - Badkamer met douche, wastafel en toilet
 - Slaapkamers caravan:
     - 1 kamer met dubbelbed (140x200)
-    - 2 kamers met enkelbed - 2x (80x200) 
+    - 2 kamers met enkelbed 2x (80x200) 
 - Tuinmeubilair
     
 ###Goed om weten
-- Chalet voorzien voor 4 personen
-- Honden toegelaten - max 2
-- Hele jaar door boekbaar
+- Caravan voorzien voor 4 personen
+- Honden toegelaten 
+- Niet boekbaar tussen 15/11 en 15/3
 
 ###Prijzen
 
@@ -64,7 +64,7 @@ november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | a
 ###Inbegrepen
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
-- **uitzondering**: verbruik gas en elektriciteit is exclusief bij huur vanaf 4 nachten van 1/11 - 31/3
+
 
 ###Extra's
 EXTRA               | PRIJS 
