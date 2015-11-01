@@ -5,11 +5,13 @@ preview:
     title: Caravan comfort 4 
     button:
         price: 140
+        for: 2 nachten
     list:
         - "4 personen"
         - "honden toegelaten"
         - "het echte kampeergevoel"
         - "caravan 9x3,7 m"
+
 images:
     - /img/ingang.jpg
     - /img/stacaravan.jpg

@@ -5,15 +5,16 @@ preview:
     title: Chalet comfort 4 
     button:
         price: 140
+        for: 2 nachten
     list:
         - "honden toegelaten"
         - "4 personen"
         - "36 m²"
         - "dichtbij speelplein"
 images:
+    - /img/trekker.jpg
     - /img/ingang.jpg
     - /img/stacaravan.jpg
-    - /img/trekker.jpg
 ---
 
 {% include links.md %}

@@ -5,7 +5,16 @@
 
 <a href="{{pg.url}}">
   <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 vd-select-item {{page.class.select.item}} vd-select-submenu">
-    <div class="vd-select-item-inner">
+    <div class="vd-select-item-inner"
+    {% if linkPage.preview.list.size > 0 %}
+        {% if linkPage.images.size > 0 %}
+          style="background: linear-gradient(rgba(255,255,255,0.7),rgba(255,255,255,0.7)),
+                 url('{{linkPage.images[0]}}');background-position: center center;
+                 background-size: cover;
+                 background-position: center center;"
+        {% endif %}
+    {% endif %}
+    >
       <h2 class="vd-select-title">{{ previewTitle }}</h2>
             {% if linkPage.preview %}
       <div class="vd-button"><div class="vd-button-tag"><div class="vd-button-inner">
@@ -17,7 +26,7 @@
                 {{ linkPage.preview.button.price }}
         </span>
         <span class="">
-                {{ site.data.langs[pgLang].dict.per2n}}
+                {{ linkPage.preview.button.for }}
         </span>
       </div></div></div>
       <div class="vd-select-content">

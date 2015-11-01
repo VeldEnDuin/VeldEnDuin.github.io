@@ -1,20 +1,12 @@
 TODO
 ====
-- verhuur-item naam veranderen --> wordt gebruikt voor alle items
-
-- preview-level3 gebruikt button met naast price: ook for:
-- styling voor grotere prijzen --> residentieel (font te groot voor 4digit getal)
-
-- verhuur detail pagina 
-  nav -- links andere details --> nav aan de rechterkant prakt-info in ander kleur
-  foto's -- strip onder de level2 nav --> rechtermenu komt daar onder
-  
-  
-  eerste foto in background
-  
-  styling van de praktische info-page
-  
-  
+- mailchimp styling 
+    --> Joke voorstel komt eraan
+    marc al simpele variant uitwerken en de templating-language van mc erop toepassen
+    
+    https://us10.admin.mailchimp.com/templates/design?tid=123977
+    http://kb.mailchimp.com/templates/code/getting-started-with-mailchimps-template-language
+    
 
 - fotoalbum(s)
   - include one album
@@ -32,12 +24,7 @@ TODO
   
   
 
-- mailchimp styling 
-    --> Joke voorstel komt eraan
-    marc al simpele variant uitwerken en de templating-language van mc erop toepassen
-    
-    
-    
+
 
 - print.css elementen! (doet bootstrap al iets?)
   

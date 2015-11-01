@@ -5,6 +5,7 @@ preview:
     title: Chalet comfort 4 +
     button:
         price: 155
+        for: 2 nachten
     list:
         - "overdekt terras"
         - "42 m²"

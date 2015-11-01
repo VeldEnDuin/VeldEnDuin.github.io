@@ -27,10 +27,13 @@ nl:
         sociallinks: Veld & Duin op de sociale media
         readmore: Lees meer...
         moreinfo: Meer info
-        per2n: 2 nachten
         starting: vanaf
         practical_info: Praktische Informatie
         other_rental_types: Andere Types Logement
+        mc_unsub: Verwijder
+        mc_from_this: van deze lijst
+        mc_forward: Stuur dit door naar een vriend
+        mc_profile: Pas je nieuws-brief-profiel aan
 
     gcse:
         use: Geef een zoekterm in!
@@ -65,6 +68,11 @@ fr:
         mailchimp: (TODO FR) tekst mailchimp inschrijving
         sociallinks: (TODO FR) tekst VD op social media
         readmore: (TODO FR) knop lees meer
+        mc_unsub: (TODO FR) unsub
+        mc_from_this: (TODO FR) from list
+        mc_forward: (TODO FR) fwd
+        mc_profile: (TODO FR) profile update
+
     gcse:
         use: (TODO FR) usage search - no search term
         wait: (TODO FR) wait - results loading
@@ -98,6 +106,10 @@ de:
         mailchimp: (TODO DE) tekst mailchimp inschrijving
         sociallinks: (TODO DE) tekst VD op social media
         readmore: (TODO DE) knop lees meer
+        mc_unsub: (TODO DE) unsub
+        mc_from_this: (TODO DE) from list
+        mc_forward: (TODO DE) fwd
+        mc_profile: (TODO DE) profile update
     gcse:
         use: (TODO DE) usage search - no search term
         wait: (TODO DE) wait - results loading
@@ -131,6 +143,10 @@ en:
         mailchimp: (TODO EN) tekst mailchimp inschrijving
         sociallinks: (TODO EN) tekst VD op social media
         readmore: (TODO EN) knop lees meer
+        mc_unsub: (TODO EN) unsub
+        mc_from_this: (TODO EN) from list
+        mc_forward: (TODO EN) fwd
+        mc_profile: (TODO EN) profile update
     gcse:
         use: (TODO EN) usage search - no search term
         wait: (TODO EN) wait - results loading

@@ -43,16 +43,7 @@ body:before {
     font-size: 1.15em;
 }
 
-#content h2 {
-    text-transform: uppercase;
-}
 
-#content h2 {
-    padding-top: 1em;
-}
-#content h3 {
-    padding-top: 1em;
-}
 
 /* ===================================================================================
  * styling menu and header
@@ -214,6 +205,21 @@ table.table>tbody>tr>td:first-child
 }
 .fa.vd-share-pi {
     color: #cb2027!important;
+}
+
+/* ===================================================================================
+ * styling vd-layout-page sections
+ *   -------------------------------------------------------------------------------
+ */
+.vd-layout-page  h2 {
+    text-transform: uppercase;
+}
+
+.vd-layout-page h2 {
+    padding-top: 1em;
+}
+.vd-layout-page  h3 {
+    padding-top: 1em;
 }
 
 /* ===================================================================================
@@ -530,7 +536,10 @@ table.table>tbody>tr>td:first-child
     padding: 1.5em 0.5em 0.5em 0.5em;
     margin: 100px 0 50px 0;
     position: relative;
+    border-radius:  5px;
 }
+
+.vd-select-item-inner {}
 .vd-select-submenu .vd-button {
     position: absolute;
     top: -110px;
@@ -581,7 +590,7 @@ a:hover .vd-button .vd-button-tag-invert .vd-button-inner,
     display: block;
 }
 .vd-select-submenu .vd-button .vd-button-price {
-    font-size: 1.7em;
+    font-size: 1.5em;
 }
 .vd-select-submenu .vd-button span.vd-button-price:before {
     content: '€';
@@ -670,28 +679,30 @@ a:hover .vd-button .vd-button-tag-invert .vd-button-inner,
     padding: 0 auto 0 auto;
 }
 
-.vd-nav {
-    display: table;
-    width: 100%;
-    table-layout: fixed;    /* For cells of equal size */
-}
-.vd-nav .vd-navlink {
-    display: table-cell;
-    text-align: center;
-    padding-left: auto;
-    padding-right: auto;
+.vd-nav ul.nav-pills {
+    margin-top: 1em;
 }
 
-.vd-nav .vd-button .vd-button-tag {
-    width: 195px;
-    height: 195px;
+.vd-nav ul.nav-pills>li:first-child>a {
+    background-color: #4f5137;
+    color: #eee;
 }
-.vd-nav .vd-button .vd-button-inner {
-    height: 165px;
-    width: 165px;
-    display: table-cell;
-    vertical-align: middle;
-    font-size: 1.1em;
+
+.vd-nav ul.nav-pills>li:first-child {
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    border-bottom: 1px dashed #4f5137;
+}
+.vd-nav ul.nav-pills>li>a:hover {
+    background-color: #B8BA8A;
+}
+.vd-nav ul.nav-pills>li.active>a {
+    background-color: #8fb742;
+}
+.vd-nav ul.nav-pills>li:first-child {
+
+}
+.vd-nav ul>li>a:hover {
 }
 
 
@@ -754,13 +765,20 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
     height: 160px;
     overflow: hidden;
 }
-.vd-img-strip img {
+.vd-img-strip>div {
+    width: 200%;
+    height: 160px;
+}
+.vd-img-strip>div>img {
     float: left;
     max-height: 100%;
     max-width: 100%;
     margin-right: 2px;
 }
 .vd-footer .vd-img-strip {
+    height: 105px;
+}
+.vd-footer .vd-img-strip>div {
     height: 105px;
 }
 .vd-contact {
@@ -770,9 +788,10 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
     padding: 0.5em 0 0.5em 0;
     text-align: center;
 }
-.vd-contact > div {
-    padding: 0.5em 0 0.5em 0;
+#mc-footer.vd-contact {
+    background-color: #4f5137;
 }
+
 .vd-contact .vd-contact-item {
     padding: 0 1.5em 0 1.5em;
     border-right: 1px solid #fff;

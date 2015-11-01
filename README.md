@@ -281,8 +281,10 @@ title      | tekst  | title:&nbsp;Mijn&nbsp;Titel| **verplicht** De vrij gekozen
 images     | lijst  | images:<br>&nbsp;&nbsp;-&nbsp;/img/een.jpg<br>&nbsp;&nbsp;-&nbsp;/img/twee.jpg | De oplijsting van beelden die aan dit artikel worden ge-associeerd (cfr verdere info over imgs)
 insert     | lijst  | insert:<br>&nbsp;&nbsp;- virtualtour | Gekozen specifieke scherm-elementen zijn vanzelf uitgeschakeld, maar worden hiermee expliciet aangezet. (Zie hieronder voor de opties.)
 remove     | lijst  | remove:<br>&nbsp;&nbsp;- banner | Gekozen specifieke scherm-elementen zijn vanzelf beschikbaar, maar kunnen hiermee worden afgezet.  (Zie hieronder voor de opties.)
+icon       | tekst  | info-sign             | associeert een glyphicon met de pagina voor gebruik in links. Zie [lijst](http://getbootstrap.com/components/#glyphicons-glyphs) met ondersteunde iconen.
 
 ### Prelude: layout
+
 De beschikbare layouts in de prelude zijn:
 
 layout  | gebruikt voor
@@ -292,6 +294,11 @@ page    | Een meer specifieke layout voor de opmaak van tekstuele pagina's --> o
 post    | Specifiekere vormgeving voor Nieuws-artikel. 
 group   | Specifiekere vormgeving voor Groepering van meerdere data-elementen (bv. doen-pagina en tijdslijn).
 landing | Specifiekere vormgeving voor Pagina waarop mensen de site binnenkomen. Home page, maar ook specifieke campagne-pagina's vallen hieronder. --> bevat oa nieuws-overzicht en zogenaamde "landing-pads" == links met previews naar andere geselecteerde pagina's
+
+
+### Prelude: title
+
+De titel van de pagina
 
 
 ### Prelude: insert
@@ -304,7 +311,7 @@ virtualtour | alle layouts        | google-virtual-tour
 play-album  | alle layouts        | foto-album
 level3-tiles| alle layouts        | klikbare tegels van level3 menu = blokken in je derde niveau van navigatie vb de blokken bij verhuuritems / residentieel / arrangementen
 newsfeed    | landing             | lijst met recente nieuws-artikels
-page-images | alle layouts        |
+page-images | alle layouts        | band bovenaan de pagina met de lijst van beelden die gedeclareerd staan in de images: sectie van de prelude
 
 ### Prelude: remove
 
@@ -316,8 +323,37 @@ banner      | alle layouts        | de banner onder hoofdmenu
 callout     | alle layouts        | de link voor de reservatie-aanvraag in de banner
 imgstrip    | alle layouts        | de strip met foto's onderaan
 
+
+### Prelude: preview
+
+In de sectie preview van de prelude geef je aan hoe een pagina in preview als link-pad zal vorm gegeven worden.
+
+Deze elementen (en niet de tekst van de pagina zelf) worden op die andere pagina's geplaatst als preview van waarnaar gekinkt wordt.
+
+De sectie bevat volgende elementen:
+
+```yml
+preview:
+    button:
+        price: 123
+        for:   "waarover de prijs gaat"
+    list:
+        - "topic 1"
+        - "topic 2"
+    
+    title: "title in de preview"
+    text:  "korte paragraaf tekst"
+    
+images:
+    - /img/paht/file.jpg
+```
+
+
+
 ### Andere preludes
+
 Nieuwsartikels, landingspagina's en grouppagina's omvatten specifieke prelude-elementen. Deze worden verder beschreven in de betreffende secties.
+
 
 ## Nieuwsartikels
 

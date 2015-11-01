@@ -5,14 +5,15 @@ preview:
     title: Appartement
     button:
         price: 155
+        for: 2 nachten
     list:
         - "4-5 personen"
         - "lift"
         - "zicht op duinen"
         - "65 m²"
 images:
-    - /img/ingang.jpg
     - /img/stacaravan.jpg
+    - /img/ingang.jpg
     - /img/trekker.jpg
 ---
 
