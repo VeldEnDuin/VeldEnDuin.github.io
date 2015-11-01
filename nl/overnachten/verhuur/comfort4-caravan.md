@@ -6,10 +6,10 @@ preview:
     button:
         price: 140
     list:
-        - "honden toegelaten"
         - "4 personen"
-        - "36 m²"
-        - "dichtbij speelplein"
+        - "honden toegelaten"
+        - "het echte kampeergevoel"
+        - "caravan 9x3,7 m"
 images:
     - /img/ingang.jpg
     - /img/stacaravan.jpg
@@ -20,15 +20,15 @@ images:
 
 ##Caravan comfort 4 
 
-Deze chalets liggen vooraan op de camping en dicht bij het speelplein. Ideaal dus voor de kinderen om hun vriendjes steeds in de buurt te hebben.
+Een caravan roept de herinnering op aan het authentieke kamperen. De combinatie met het comfort van thuis staat dan ook garant voor een onvergetelijke kampeerervaring.
 
 ###Inrichting caravan:
-- Ruime woonkamer met flatscreen en digibox
+- Ruime woonkamer met tv en digibox
 - Ingerichte keuken met microgolf
 - Badkamer met douche, wastafel en toilet
-- Slaapkamers chalet:
+- Slaapkamers caravan:
     - 1 kamer met dubbelbed (140x200)
-    - 1 kamer met stapelbed 2x (90x200) 
+    - 2 kamers met enkelbed - 2x (80x200) 
 - Tuinmeubilair
     
 ###Goed om weten
