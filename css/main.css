@@ -536,7 +536,10 @@ table.table>tbody>tr>td:first-child
     padding: 1.5em 0.5em 0.5em 0.5em;
     margin: 100px 0 50px 0;
     position: relative;
+    border-radius:  5px;
 }
+
+.vd-select-item-inner {}
 .vd-select-submenu .vd-button {
     position: absolute;
     top: -110px;

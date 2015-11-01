@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 {% include layout-prelude.html %}
 
+{% assign mct = false %}
+{% if page.insert contains 'mc-tags' %}
+    {% assign mct = true %}
+{% endif %}
+
 <html>
   <head>
     <meta charset="utf-8">
@@ -34,11 +39,11 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/{{ pgLang }}/"><img src="/img/style/logo_veldenduin.png" title="Veld &amp; Duin"></a>
+          <a class="navbar-brand" href="{%if mct %}{{site.url}}{%endif%}/{{ pgLang }}/"><img src="/img/style/logo_veldenduin.png" title="Veld &amp; Duin"></a>
         </div>
 
         <div class="collapse navbar-collapse" id="vd-menu">
-        {% if page.insert contains 'mc-tags' %}
+        {% if mct %}
           <ul id="menu" class="nav navbar-nav">
             <li><a href="#"><span mc:edit="subject">{{page.title}}</span></a></li>
           </ul>
@@ -106,15 +111,7 @@
     {% endif %}
 
 
-    {% if page.insert contains 'mc-tags' %}
-      <div mc:edit="body">
-        {{content}}
-      </div>
-    {% else %}
-
-      {{ content }}
-
-    {% endif %}
+    {{ content }}
 
 
     {% if page.insert contains 'virtualtour' %}
@@ -171,13 +168,14 @@
         </a>
         </div>
       </div>
-    {% if page.insert contains 'mc-tags' %}
+    {% if mct %}
       <div id="mc-footer" class="vd-contact">
         <div class="container-fluid" >
-            <span class="vd-contact-item">*|UNSUB|*</span>
-            <span class="vd-contact-item">*|LIST:DESCRIPTION|*</span>
-            <span class="vd-contact-item">*|LIST:ADDRESS|*</span>
-          </div>
+          <span class="vd-contact-item"><a href="*|ADDRESS|*">*|LIST:DESCRIPTION|*</a></span>
+            <span class="vd-contact-item"><a href="*|UNSUB|*">{{site.data.langs[pgLang].dict.mc_unsub}} *|EMAIL|* {{site.data.langs[pgLang].dict.mc_from_this}}</a></span>
+          <span class="vd-contact-item"><a href="*|FORWARD|*">{{site.data.langs[pgLang].dict.mc_forward}}</a></span>
+          <span class="vd-contact-item"><a href="*|UPDATE_PROFILE|*">{{site.data.langs[pgLang].dict.mc_profile}}</a></span>
+        </div>
         <div mc:edit="footer"></div>
       </div>
     {% endif %}
