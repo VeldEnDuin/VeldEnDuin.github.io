@@ -21,7 +21,7 @@ images:
 
 ##Chalets comfort 4 +
 
-Na een heerlijke stranddag kunt u op het overdekt terras met een lekker aperitiefje plannen maken voor de komende dagen. 
+Na een heerlijke dagje strand of een tripje in de buurt lonkt het overdekte terras (en de aperitief) om nog even terug te blikken of al plannen te maken voor de komende dagen. 
 
 ###Inrichting chalets:
 - Ruime woonkamer met flatscreen en digibox
@@ -68,7 +68,7 @@ november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | a
 ###Extra's
 EXTRA               | PRIJS 
 :-------------------|:-----------|
-schoonmaak          | € 50 - zelf schoonmaken kan
+schoonmaak          | € 40 - zelf schoonmaken kan
 annulatieverzekering| 3,5 % van de totale reissom - Allianz 
 huisdier            | € 4 / hond - max 2
 lakenpakket         | € 8 / bed

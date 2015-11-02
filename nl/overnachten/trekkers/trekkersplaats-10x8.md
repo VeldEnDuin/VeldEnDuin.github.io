@@ -2,7 +2,7 @@
 layout: page
 title: Trekkersplaats 10x8
 preview: 
-    title: Trekker 10x8
+    title: Trekkersplaats 10x8
     button:
         price: 20
         for: /prs /n

@@ -1,1 +1,1 @@
-bundle exec jekyll serve --port 4444 -w
+_scripts/rundev.sh

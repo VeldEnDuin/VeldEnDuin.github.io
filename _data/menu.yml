@@ -42,7 +42,7 @@
   submenu:
     - linkcode: verhuur
       menutekst:
-        nl:  Verhuur
+        nl: Verhuur
         fr: Location
       submenu:
         - linkcode: verhuur_info
@@ -61,11 +61,13 @@
         nl:  Trekkers
       submenu:
         - linkcode: trekkers_info
-        - linkcode: trekkers_arrangement
-        - linkcode: trekkers_lang
-        - linkcode: trekkers_tent7x8
-        - linkcode: trekkers_tent10x8
         - linkcode: trekkers_trekker10x8
+        - linkcode: trekkers_tent10x8
+        - linkcode: trekkers_tent7x8
+        - linkcode: trekkers_lang
+        - linkcode: trekkers_arrangement
+
+
 
     - linkcode: residentieel
       menutekst:

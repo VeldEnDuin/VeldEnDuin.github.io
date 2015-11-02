@@ -12,16 +12,24 @@ preview:
         - "vaatwasmachine"
         - "5-6 personen"
 images:
-    - /img/ingang.jpg
-    - /img/stacaravan.jpg
-    - /img/trekker.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-01-living.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-02-keuken.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-03-slaapk.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-04-badk.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-05-terras.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-06-slaapk.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-07-living.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-08-slaapk.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-09-badk.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-10-keuken.jpg
 ---
+
 
 {% include links.md %}
 
 ##Luxe Appartementen
 
-Gelegen aan de ingang van de camping, bieden deze appartementen alle luxe met zicht op de bloemenpracht aan de ingang en het speelplein. 
+Gelegen aan de ingang van de camping, bieden deze appartementen-met-dat-ietsje-meer alle luxe met zicht op de bloemenpracht aan de ingang en het speelplein. 
 
 ###Inrichting luxe appartementen:
 - Ruime woonkamer met flatscreen en digibox

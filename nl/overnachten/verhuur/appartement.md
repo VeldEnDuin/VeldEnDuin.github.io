@@ -21,7 +21,7 @@ images:
 
 ##Appartementen
 
-De appartementen liggen net naast de camping. Op die manier combineert u de ruimte van een appartement met de voorzieningen die we bieden.  
+De appartementen liggen net naast de camping. Zo geniet u van de ruimte van een appartement en kunt u tegelijk vrij gebruik maken van de voorzieningen van onze camping.
 
 ###Inrichting appartementen:
 - Ruime woonkamer met flatscreen en digibox
@@ -69,7 +69,7 @@ november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | a
 ###Extra's
 EXTRA               | PRIJS 
 :-------------------|:-----------|
-schoonmaak          | € 50 - zelf schoonmaken kan
+schoonmaak          | € 40 - zelf schoonmaken kan
 annulatieverzekering| 3,5 % van de totale reissom - Allianz 
 lakenpakket         | € 8 / bed
 kinderbed           | € 1 / nacht

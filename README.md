@@ -197,7 +197,7 @@ levend      | maakt. Coupletjes | en refreintjes
 
 **harde splitsing binnenin een tabel:**
 
-Indien je tekst wil samenhouden binnen een bepaalde kolom, moet je gebruik maken van <br> na het woord waar een harde splitsing moet komen.
+Indien je tekst wil samenhouden binnen een bepaalde kolom, moet je gebruik maken van ```<br>``` na het woord waar een harde splitsing moet komen.
 
 Resultaat:
 
@@ -263,10 +263,13 @@ Voorbeeld structuur prelude:
 
 ```md
 ---
-code (vb layout): value (vb default)
-code2 (vb imgs):
+code: value (vb layout: page)
+code2: (vb images:)
     - eerste (bv /img/foto10.jpg)
     - tweede (...)
+code3: (vb preview)
+    sub-a: waarde (vb: description: een beschrijvende tekst)
+    sub-b: waarde
 ---
 ```
 
