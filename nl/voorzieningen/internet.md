@@ -1,13 +1,17 @@
 ---
+layout: page
+title: Draadloos internet
 ---
 
 # Draadloos internet
+
 Uiteraard wenst u uw familie en vrienden graag op de hoogte te houden van al het leuks dat er bij ons, in Bredene en omgeving te beleven valt!
 
 Dit kan via ons draadloos netwerk dat de hele camping beslaat. Het volstaat om een ticket te kopen aan de receptie en in te loggen op ons netwerk.
 
 
 ## Prijzen
+
 TIJD ONLINE         | PRIJS       | 
 :------------------:|:-----------:|
 2 dagen             |€ 2                
