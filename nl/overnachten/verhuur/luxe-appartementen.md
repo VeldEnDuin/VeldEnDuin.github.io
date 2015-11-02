@@ -13,10 +13,10 @@ preview:
         - "5-6 personen"
 images:
     - /img/overnachten/verhuring-luxe-appartement/lx-01-living.jpg
-    - /img/overnachten/verhuring-luxe-appartement/lx-02-slaapk.jpg
-    - /img/overnachten/verhuring-luxe-appartement/lx-03-terras.jpg
-    - /img/overnachten/verhuring-luxe-appartement/lx-04-keuken.jpg
-    - /img/overnachten/verhuring-luxe-appartement/lx-05-badk.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-02-keuken.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-03-slaapk.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-04-badk.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-05-terras.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-06-slaapk.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-07-living.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-08-slaapk.jpg
