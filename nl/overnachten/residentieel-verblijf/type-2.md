@@ -19,4 +19,4 @@ images:
 {% include links.md %}
 
 TYPE 2
-dddd
+Een vaste stek aan de kust om steeds opnieuw naar terug te keren, wie droomt daar niet van? Maak uw droom waar met een residentiële caravan om heel vaak van te genieten.
