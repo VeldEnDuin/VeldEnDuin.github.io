@@ -1171,7 +1171,7 @@ subgroups:
     city: stadsbezoek
     cult: cultuur
     kids: kinderen
-    shopout: winkelen
+    shopout: uit
     recrea: recreatie
     event: evenement
   fr: {}
