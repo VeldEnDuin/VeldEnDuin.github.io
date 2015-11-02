@@ -42,7 +42,7 @@
   submenu:
     - linkcode: verhuur
       menutekst:
-        nl:  Verhuur
+        nl: Verhuur
         fr: Location
       submenu:
         - linkcode: verhuur_info
