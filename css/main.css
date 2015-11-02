@@ -108,6 +108,10 @@ body:before {
        -moz-border-radius: 1.25em;
             border-radius: 1.25em;
 }
+
+header.spaced {
+    padding-bottom: 1em;
+}
 .btn-lg.btn-success {
     background-color: transparent;
     border: none;

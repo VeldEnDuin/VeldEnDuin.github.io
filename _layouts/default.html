@@ -24,7 +24,7 @@
 
   </head>
   <body data-translations='{{site.data.langs[pgLang] | jsonify}}'>
-    <header>
+    <header {%if page.remove contains 'banner'%}class="spaced"{%endif%}>
       <nav class="navbar navbar-default navbar-inverse">
         <div class="vd-menu">
         <div class="container-fluid">
