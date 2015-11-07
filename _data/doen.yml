@@ -6,12 +6,12 @@ sort:
   key: ranking
 img-in-background: true
 items:
-- ranking: 3
+- ranking: 160
   location: 51.252266, 2.975109
   subgroups:
   - cult
   images:
-  - "/img/doen/bre-cc-stafversl-0.jpg"
+  - "/img/doen/bre-cc-stafversl.jpg"
   link:
     nl: http://www.stafversluys-centrum.be/nl/
     fr: http://www.stafversluys-centrum.be/fr/
@@ -27,12 +27,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 16
+- ranking: 220
   location: 51.230606, 2.915692
   subgroups:
   - cult
   images:
-  - "/img/doen/ost-cc-post-0.jpg"
+  - "/img/doen/ost-cc-post.jpg"
   link:
     nl: http://www.degrotepost.be/
     fr: http://www.degrotepost.be/
@@ -48,11 +48,11 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 50
+- ranking: 500
   subgroups:
   - cult
   images:
-  - "/img/doen/flandersfields-0.jpg"
+  - "/img/doen/flandersfields.jpg"
   link:
     nl: http://www.flandersfields.be/nl
     fr: http://www.flandersfields.be/fr
@@ -68,13 +68,13 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 28
+- ranking: 280
   location: 51.239829, 2.934340
   subgroups:
   - cult
   - city
   images:
-  - "/img/doen/ost-fortnapoleon-0.jpg"
+  - "/img/doen/ost-fortnapoleon.jpg"
   link:
     nl: http://www.fortnapoleon.be/nl/
     fr: http://www.fortnapoleon.be/fr/
@@ -90,13 +90,13 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 22
+- ranking: 90
   location: 51.226366, 2.914577
   subgroups:
   - cult
   - city
   images:
-  - "/img/doen/ost-muzee-0.jpg"
+  - "/img/doen/ost-muzee.jpg"
   link:
     nl: http://www.muzee.be/
     fr: http://www.muzee.be/?null&lang=fr
@@ -112,13 +112,13 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 35
+- ranking: 350
   location: 51.199366, 2.848961
   subgroups:
   - cult
   - city
   images:
-  - "/img/doen/ost-atl-wall-0.jpg"
+  - "/img/doen/ost-atl-wall.jpg"
   link:
     nl: http://www.raversyde.be/nl/atlantikwall
     fr: http://www.raversyde.be/fr/atlantikwall
@@ -134,14 +134,13 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 9
+- ranking: 30
   location: 51.226279, 3.224892
   subgroups:
   - cult
   - city
   images:
-  - "/img/doen/brugge-0.jpg"
-  - "/img/doen/brugge-1.jpg"
+  - "/img/doen/brugge.jpg"
   link:
     nl: https://bezoekers.brugge.be/
     fr: https://bezoekers.brugge.be/fr
@@ -157,13 +156,13 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 48
+- ranking: 480
   location: 51.136871, 2.755682
   subgroups:
   - cult
   - city
   images:
-  - "/img/doen/nprt-ganzepoot-0.jpg"
+  - "/img/doen/nprt-ganzepoot.jpg"
   link:
     nl: http://visit-nieuwpoort.be/nl/de-groote-oorlog
     fr: http://www.nieuwpoort.be/nieuwpoort/view/fr/nieuwpoort/la_grande_guerre/westfront_nieuwpoort
@@ -179,14 +178,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 4
+- ranking: 40
   location: 51.252213, 2.974759
   subgroups:
   - event
   images:
-  - "/img/doen/bre-afroc-0.jpg"
-  - "/img/doen/bre-afroc-1.jpg"
-  - "/img/doen/bre-afroc-2.jpg"
+  - "/img/doen/bre-afroc.jpg"
   link:
     nl: http://www.afrocaribbean.be/
     fr: http://www.afrocaribbean.be/
@@ -202,12 +199,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 10
+- ranking: 100
   location: 51.252213, 2.974759
   subgroups:
   - event
   images:
-  - "/img/doen/bre-gardens-0.jpg"
+  - "/img/doen/bre-gardens.jpg"
   link:
     nl: ''
     fr: ''
@@ -223,12 +220,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 23
+- ranking: 230
   location: 51.231234, 2.913555
   subgroups:
   - event
   images:
-  - "/img/doen/ost-taz-0.jpg"
+  - "/img/doen/ost-taz.jpg"
   link:
     nl: http://theateraanzee.be/nl/
     fr: http://theateraanzee.be/fr/
@@ -244,12 +241,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 17
+- ranking: 170
   location: 51.278736, 3.034791
   subgroups:
   - event
   images:
-  - "/img/doen/dhn-trammelant-0.jpg"
+  - "/img/doen/dhn-trammelant.jpg"
   link:
     nl: http://www.visitdehaan.be/nl/doen/evenementen/trammelant/1487/
     fr: http://www.visitdehaan.be/fr/faire/evenements/trammelant/1487/
@@ -265,12 +262,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 29
+- ranking: 290
   location: 51.315091, 3.131080
   subgroups:
   - event
   images:
-  - "/img/doen/blk-corso-0.jpg"
+  - "/img/doen/blk-corso.jpg"
   link:
     nl: http://www.bloemencorso-blankenberge.be/#!/page_SPLASH
     fr: http://www.bloemencorso-blankenberge.be/#!/page_SPLASH
@@ -286,54 +283,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 36
-  location: 51.252384, 2.974792
-  subgroups:
-  - event
-  images:
-  - "/img/doen/bre-nost-0.jpg"
-  link:
-    nl: http://www.nostalgiebeachfestival.be/
-    fr: http://www.nostalgiebeachfestival.be/
-    de: http://www.nostalgiebeachfestival.be/
-    en: http://www.nostalgiebeachfestival.be/
-  title:
-    nl: Nostalgie Beach
-    fr: ''
-    de: ''
-    en: ''
-  caption:
-    nl: Muziekfestival - Bredene
-    fr: ''
-    de: ''
-    en: ''
-- ranking: 44
-  location: 51.234870, 2.922678
-  subgroups:
-  - event
-  images:
-  - "/img/doen/ost-ostbeach-0.jpg"
-  link:
-    nl: http://www.ostendbeach.be/
-    fr: http://www.ostendbeach.be/
-    de: http://www.ostendbeach.be/
-    en: http://www.ostendbeach.be/
-  title:
-    nl: Ostend Beach
-    fr: ''
-    de: ''
-    en: ''
-  caption:
-    nl: Dance festival - Oostende
-    fr: ''
-    de: ''
-    en: ''
-- ranking: 24
+- ranking: 240
   location: 51.318481, 3.146007
   subgroups:
   - kids
   images:
-  - "/img/doen/blk-sealife-0.jpg"
+  - "/img/doen/blk-sealife.jpg"
   link:
     nl: https://www.visitsealife.com/blankenberge/
     fr: https://www.visitsealife.com/blankenberge/fr
@@ -349,12 +304,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 11
+- ranking: 110
   location: 51.255308, 3.007239
   subgroups:
   - kids
   images:
-  - "/img/doen/dhn-sierk-0.jpg"
+  - "/img/doen/dhn-sierk.jpg"
   link:
     nl: http://www.desierk.be/nl/index.html
     fr: http://www.desierk.be/nl/index.html
@@ -370,12 +325,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 37
+- ranking: 370
   location: 51.181855, 3.214026
   subgroups:
   - kids
   images:
-  - "/img/doen/brg-boudewijn-0.jpg"
+  - "/img/doen/brg-boudewijn.jpg"
   link:
     nl: http://www.boudewijnseapark.be/
     fr: http://www.boudewijnseapark.be/fr/
@@ -391,12 +346,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 18
+- ranking: 180
   location: 51.238518, 2.939241
   subgroups:
   - kids
   images:
-  - "/img/doen/ost-explorado-0.jpg"
+  - "/img/doen/ost-explorado.jpg"
   link:
     nl: http://www.explorado-oostende.be/
     fr: http://www.explorado-oostende.be/?lang=fr
@@ -412,12 +367,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 30
+- ranking: 300
   location: 51.206802, 2.907028
   subgroups:
   - kids
   images:
-  - "/img/doen/speeltuin-0.jpg"
+  - "/img/doen/speeltuin.jpg"
   link:
     nl: http://bowlingpaleis.be/oostende/speelpaleis/
     fr: http://bowlingpaleis.be/oostende/speelpaleis/
@@ -433,12 +388,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 5
+- ranking: 50
   location: 51.080998, 2.598774
   subgroups:
   - kids
   images:
-  - "/img/doen/dpn-plopsa-0.png"
+  - "/img/doen/dpn-plopsa.jpg"
   link:
     nl: http://www.plopsa.be/plopsaland-de-panne/
     fr: http://www.plopsa.be/plopsaland-de-panne/fr
@@ -454,13 +409,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 45
+- ranking: 450
   location: 50.845818, 2.950622
   subgroups:
   - kids
   images:
-  - "/img/doen/iep-bellewaerde-0.jpg"
-  - "/img/doen/iep-bellewaerde-1.jpg"
+  - "/img/doen/iep-bellewaerde.jpg"
   link:
     nl: http://www.bellewaerde.be/nl
     fr: http://www.bellewaerde.be/fr
@@ -476,13 +430,13 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 1
+- ranking: 10
   location: 51.256371, 2.975413
   subgroups:
   - coast
   - kids
   images:
-  - "/img/doen/bre-strand-0.jpg"
+  - "/img/doen/bre-strand.jpg"
   link:
     nl: ''
     fr: ''
@@ -498,12 +452,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 15
+- ranking: 150
   location: 51.234339, 2.927839
   subgroups:
   - coast
   images:
-  - "/img/doen/ost-raveel-0.jpg"
+  - "/img/doen/ost-raveel.jpg"
   link:
     nl: http://www.visitoostende.be/nl/overzetboot-visserskaai-oosteroever
     fr: http://www.visitoostende.be/fr/overzetboot-visserskaai-oosteroever
@@ -519,12 +473,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 2
+- ranking: 20
   location: 51.255187, 2.975755
   subgroups:
   - coast
   images:
-  - "/img/doen/bre-duinen-0.jpg"
+  - "/img/doen/bre-duinen.jpg"
   link:
     nl: ''
     fr: ''
@@ -540,13 +494,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 34
+- ranking: 340
   location: 51.257974, 2.981694
   subgroups:
   - coast
   images:
-  - "/img/doen/bre-naakt-0.jpg"
-  - "/img/doen/bre-naakt-1.jpg"
+  - "/img/doen/bre-naakt.jpg"
   link:
     nl: http://uitinbredene.be/index.asp?pid=19
     fr: http://uitinbredene.be/index.asp?pid=19&lang=FR
@@ -562,11 +515,11 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 27
+- ranking: 270
   subgroups:
   - coast
   images:
-  - "/img/doen/ost-boot-0.jpg"
+  - "/img/doen/ost-boot.jpg"
   link:
     nl: http://www.dekust.be/actief-beleven/zee-excursies-oostende-boottocht-franlis-iii
     fr: http://www.lelittoral.be/action/promenades-en-bateau-franlis-iii
@@ -582,11 +535,11 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 31
+- ranking: 310
   subgroups:
   - coast
   images:
-  - "/img/doen/ost-vissen-0.jpg"
+  - "/img/doen/ost-vissen.jpg"
   link:
     nl: http://www.franlis.be/vissen-op-zee
     fr: http://www.franlis.be/peche-en-mer/concept
@@ -602,12 +555,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 42
+- ranking: 420
   location: 51.152374, 2.722896
   subgroups:
   - coast
   images:
-  - "/img/doen/nieuw-stak-0.jpg"
+  - "/img/doen/nieuw-stak.jpg"
   link:
     nl: http://www.nieuwpoort.be/nieuwpoort/view/nl/nieuwpoort/toerisme/bezoeken/bezienswaardigheden/staketsel
     fr: ''
@@ -623,12 +576,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 38
+- ranking: 380
   location: 51.321632, 3.136375
   subgroups:
   - coast
   images:
-  - "/img/doen/blan-pier-0.jpeg"
+  - "/img/doen/blan-pier.jpeg"
   link:
     nl: ''
     fr: ''
@@ -644,11 +597,11 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 8
+- ranking: 80
   subgroups:
   - coast
   images:
-  - "/img/doen/kust-tram-0.jpg"
+  - "/img/doen/kust-tram.jpg"
   link:
     nl: https://www.delijn.be/nl/kusttram/index.html
     fr: https://www.delijn.be/fr/kusttram/index.html
@@ -664,13 +617,13 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 21
+- ranking: 210
   location: 51.233715, 2.922228
   subgroups:
   - coast
   - city
   images:
-  - "/img/doen/ost-trap-0.jpg"
+  - "/img/doen/ost-trap.jpg"
   link:
     nl: http://www.visitoostende.be/nl/vistrap
     fr: http://www.visitoostende.be/fr/vistrap
@@ -686,11 +639,11 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 6
+- ranking: 105
   subgroups:
   - recrea
   images:
-  - "/img/doen/wt-wandelen-0.jpg"
+  - "/img/doen/wt-wandelen.jpg"
   link:
     nl: http://www.wandelknooppunt.be/wandelnetwerk.aspx?kaart=kustwandelroute
     fr: http://www.lelittoral.be/randonneedulittoral
@@ -706,11 +659,11 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 12
+- ranking: 120
   subgroups:
   - recrea
   images:
-  - "/img/doen/wt-fietsen-0.jpg"
+  - "/img/doen/wt-fietsen.jpg"
   link:
     nl: http://www.fietsnet.be/routeplanner/default.aspx
     fr: http://www.fietsnet.be/routeplanner/default.aspx
@@ -726,12 +679,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 49
+- ranking: 490
   location: 51.247020, 2.952719
   subgroups:
   - recrea
   images:
-  - "/img/doen/bre-surf-0.jpg"
+  - "/img/doen/bre-surf.jpg"
   link:
     nl: http://www.twinsclub.be/
     fr: http://www.twinsclub.be/
@@ -747,11 +700,11 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 25
+- ranking: 520
   subgroups:
   - recrea
   images:
-  - "/img/doen/kust-markt-0.jpg"
+  - "/img/doen/kust-markt.jpg"
   link:
     nl: http://www.dekust.be/proeven/markten
     fr: http://www.lelittoral.be/se-regaler/savourez-le-littoral/march%C3%A9s
@@ -767,12 +720,11 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 39
+- ranking: 390
   subgroups:
   - recrea
   images:
-  - "/img/doen/bre-minigolf-0.jpg"
-  - "/img/doen/bre-minigolf-1.jpg"
+  - "/img/doen/bre-minigolf.jpg"
   link:
     nl: http://www.uitinbredene.be/index.asp?pid=33
     fr: http://www.uitinbredene.be/index.asp?pid=33&lang=FR
@@ -788,11 +740,11 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 51
+- ranking: 510
   subgroups:
   - recrea
   images:
-  - "/img/doen/paard-0.jpg"
+  - "/img/doen/paard.jpg"
   link:
     nl: http://www.uitinbredene.be/index.asp?pid=33
     fr: http://www.uitinbredene.be/index.asp?pid=33&lang=FR
@@ -808,12 +760,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 19
+- ranking: 190
   location: 51.230265, 2.964793
   subgroups:
   - recrea
   images:
-  - "/img/doen/bre-zwem-0.jpg"
+  - "/img/doen/bre-zwem.jpg"
   link:
     nl: http://www.dekust.be/mindergoedweer/zwembaden-en-wellness
     fr: http://www.dekust.be/mindergoedweer/zwembaden-en-wellness
@@ -829,12 +781,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 32
+- ranking: 320
   location: 51.244098, 2.974537
   subgroups:
   - recrea
   images:
-  - "/img/doen/bre-grasduinen-0.jpg"
+  - "/img/doen/bre-grasduinen.jpg"
   link:
     nl: http://www.uitinbredene.be/index.asp?pid=62&lang=NL
     fr: http://www.uitinbredene.be/index.asp?pid=62&lang=FR
@@ -850,12 +802,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 52
+- ranking: 250
   location: 51.246573, 2.992032
   subgroups:
   - recrea
   images:
-  - "/img/doen/bre-dheye-0.jpg"
+  - "/img/doen/bre-dheye.jpg"
   link:
     nl: http://www.uitinbredene.be/index.asp?pid=26
     fr: http://www.uitinbredene.be/index.asp?pid=26&lang=FR
@@ -871,12 +823,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 53
+- ranking: 485
   location: 51.255872, 2.982859
   subgroups:
   - recrea
   images:
-  - "/img/doen/bre-ppanne-0.jpg"
+  - "/img/doen/bre-ppanne.jpg"
   link:
     nl: http://www.uitinbredene.be/index.asp?pid=27
     fr: http://www.uitinbredene.be/index.asp?pid=27&lang=FR
@@ -892,13 +844,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 56
+- ranking: 560
   location: 51.363853, 3.363277
   subgroups:
   - recrea
   images:
-  - "/img/doen/knk-zwin-0.jpg"
-  - "/img/doen/knk-zwin-1.jpg"
+  - "/img/doen/knk-zwin.jpg"
   link:
     nl: http://www.zwin.be/nl
     fr: http://www.zwin.be/fr
@@ -914,12 +865,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 54
+- ranking: 385
   location: 51.283618, 3.053152
   subgroups:
   - recrea
   images:
-  - "/img/doen/dhn-duinbos-0.jpg"
+  - "/img/doen/dhn-duinbos.jpg"
   link:
     nl: http://www.natuurenbos.be/duinbossendehaan
     fr: http://www.visitdehaan.be/fr/faire/curiosites/duinbossen-les-dunes-boisees/1573/
@@ -935,12 +886,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 55
+- ranking: 550
   location: 51.291442, 3.135372
   subgroups:
   - recrea
   images:
-  - "/img/doen/blk-uitkerk-0.jpg"
+  - "/img/doen/blk-uitkerk.jpg"
   link:
     nl: http://www.uitkerkse-polder.be/
     fr: http://www.uitkerkse-polder.be/tekst_fransnieuw.html
@@ -956,11 +907,11 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 7
+- ranking: 70
   subgroups:
   - shopout
   images:
-  - "/img/doen/shop-0.jpg"
+  - "/img/doen/shop.jpg"
   link:
     nl: http://www.dekust.be/shoppen
     fr: http://www.lelittoral.be/le-shopping
@@ -976,14 +927,13 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 13
+- ranking: 130
   location: 51.208589, 2.861945
   subgroups:
   - coast
   - city
   images:
-  - "/img/doen/ost-dijk-0.jpg"
-  - "/img/doen/ost-dijk-1.jpg"
+  - "/img/doen/ost-dijk.jpg"
   link:
     nl: "/"
     fr: ''
@@ -999,13 +949,13 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 43
+- ranking: 430
   location: 51.057415, 3.722725
   subgroups:
   - cult
   - city
   images:
-  - "/img/doen/gent-0.jpg"
+  - "/img/doen/gent.jpg"
   link:
     nl: http://www.visitgent.be/nl/home
     fr: http://www.visitgent.be/fr/home
@@ -1021,13 +971,13 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 40
+- ranking: 400
   location: 51.225649, 2.906060
   subgroups:
   - city
   - shopout
   images:
-  - "/img/doen/ost-wellington-0.jpg"
+  - "/img/doen/ost-wellington.jpg"
   link:
     nl: http://oostendekoerse.be/
     fr: http://oostendekoerse.be/
@@ -1043,11 +993,11 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 33
+- ranking: 330
   subgroups:
   - shopout
   images:
-  - "/img/doen/bistro-res-0.jpg"
+  - "/img/doen/bistro-res.jpg"
   link:
     nl: http://www.uitinbredene.be/index.asp?pid=13
     fr: http://www.uitinbredene.be/index.asp?pid=13&lang=FR
@@ -1063,12 +1013,11 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 14
+- ranking: 140
   subgroups:
   - shopout
   images:
-  - "/img/doen/friet-0.jpg"
-  - "/img/doen/friet-1.jpg"
+  - "/img/doen/friet.jpg"
   link:
     nl: http://www.uitinbredene.be/index.asp?pid=14
     fr: http://www.uitinbredene.be/index.asp?pid=14&lang=FR
@@ -1084,12 +1033,12 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 26
+- ranking: 260
   subgroups:
   - shopout
   - kids
   images:
-  - "/img/doen/ijs-0.jpg"
+  - "/img/doen/ijs.jpg"
   link:
     nl: http://www.uitinbredene.be/index.asp?pid=15
     fr: http://www.uitinbredene.be/index.asp?pid=15&lang=FR
@@ -1105,11 +1054,11 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 20
+- ranking: 200
   subgroups:
   - shopout
   images:
-  - "/img/doen/strandbar-0.jpg"
+  - "/img/doen/strandbar.jpg"
   link:
     nl: http://www.dekust.be/strandbarsenbeachclubs
     fr: http://www.lelittoral.be/9-haltes-d%C3%A9tente-bar-club-de-plage
@@ -1125,11 +1074,11 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 41
+- ranking: 410
   subgroups:
   - shopout
   images:
-  - "/img/doen/cinema-0.jpg"
+  - "/img/doen/cinema.jpg"
   link:
     nl: http://www.dekust.be/search/content/cinema
     fr: http://www.lelittoral.be/search/content/cinema
@@ -1145,11 +1094,11 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 47
+- ranking: 470
   subgroups:
   - shopout
   images:
-  - "/img/doen/bowling-0.jpg"
+  - "/img/doen/bowling.jpg"
   link:
     nl: http://www.dekust.be/search/content/bowling
     fr: http://www.lelittoral.be/search/content/bowling
