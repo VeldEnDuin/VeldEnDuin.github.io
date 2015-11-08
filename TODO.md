@@ -1,5 +1,6 @@
 TODO
 ====
+
 - mailchimp styling 
     --> Joke voorstel komt eraan
     marc al simpele variant uitwerken en de templating-language van mc erop toepassen
@@ -23,7 +24,10 @@ TODO
   
   
   
-
+- infomuur ?!
+  - weerbericht
+  - prentjes van recente albums
+  - info-slides
 
 
 - print.css elementen! (doet bootstrap al iets?)
