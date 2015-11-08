@@ -16,11 +16,15 @@ images:
     - /img/ingang.jpg
     - /img/stacaravan.jpg
     - /img/trekker.jpg
+
+insert:
+    - page-images-top
+
 ---
 
 {% include links.md %}
 
-##Caravan comfort 4 
+# Caravan comfort 4 
 
 Een caravan roept nog meer de herinnering op aan het authentieke kamperen. De mix met het comfort van thuis staat dan ook garant voor een sfeervol verblijf.
 

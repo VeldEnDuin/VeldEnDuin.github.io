@@ -1,0 +1,28 @@
+---
+layout: page
+title: Info
+picto: /img/svg/voorzieningen/info.svg
+
+images:
+
+insert:
+    - page-images-bottom
+---
+
+# Toeristische Informatie
+
+We informeren u ter plaatse graag uitgebreid over alles wat er hier te beleven valt. Dit doen we onder meer via volgende kanalen:
+
+## INFOMUUR
+- up-to-date overzicht van de activiteiten in Bredene en omgeving op het infoscherm
+- infobord met alle praktische info zoals prijzen, noodnummers, het plan,...
+- brievenkast voor uw post of krant
+- de meest actuele tip op het krijtbord
+
+## RECEPTIE
+- ruim aanbod aan folders van heel wat activiteiten in de buurt
+- inkijkmap met oa  folders, prijzen en openingsuren attracties en evenementen 
+
+## DIENST VOOR TOERISME
+- gelegen tegenover de camping
+- dagelijks geopend

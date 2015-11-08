@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Type 1
+title: Type 2
 preview: 
-    title: Type 1
+    title: Type 2
     button:
         price: 2510
     list:

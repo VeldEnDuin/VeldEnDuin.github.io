@@ -15,11 +15,15 @@ images:
     - /img/stacaravan.jpg
     - /img/ingang.jpg
     - /img/trekker.jpg
+    
+insert:
+    - page-images-top
+
 ---
 
 {% include links.md %}
 
-##Appartementen
+# Appartementen
 
 De appartementen liggen net naast de camping. Zo geniet u van de ruimte van een appartement en kunt u tegelijk vrij gebruik maken van de voorzieningen van onze camping.
 

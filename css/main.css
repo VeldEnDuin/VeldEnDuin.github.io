@@ -523,6 +523,9 @@ table.table>tbody>tr>td:first-child
 .vd-select-submenu .vd-select-title
 , .vd-select-submenu .vd-select-content ul li {
     padding: 0.5em 0 0.5em 0;
+}
+.properties-grid .vd-select-submenu .vd-select-title
+, .properties-grid .vd-select-submenu .vd-select-content ul li {
     border-bottom: 1px solid rgba(0,0,0,0.3);
 }
 .vd-select-submenu .vd-select-title {
@@ -538,9 +541,21 @@ table.table>tbody>tr>td:first-child
     background-color: rgba(255,255,255,0.3);
     border: 1px solid rgba(0,0,0,0.3);
     padding: 1.5em 0.5em 0.5em 0.5em;
-    margin: 100px 0 50px 0;
     position: relative;
     border-radius:  5px;
+    margin: 0.5em 0 0.5em 0;
+}
+
+.properties-grid .vd-select-submenu .vd-select-item-inner {
+    margin: 100px 0 50px 0;
+}
+
+.picto-grid .vd-select-submenu .vd-select-item-inner {
+    height: 320px;
+}
+
+.picto-grid button {
+    display: none;
 }
 
 .vd-select-item-inner {}
@@ -570,18 +585,6 @@ table.table>tbody>tr>td:first-child
     background-color: #4F5137;
 }
 
-a:hover .vd-button .vd-button-inner,
-.vd-button a:hover .vd-button-inner {
-    background-color: #8B9448;
-}
-a:hover .vd-button .vd-button-tag-invert .vd-button-inner,
-.vd-button a:hover .vd-button-tag-invert .vd-button-inner {
-    background-color: #B8BA8A;
-}
-.vd-button a:hover {
-    text-decoration: none;
-}
-
 .vd-select-submenu .vd-button .vd-button-tag {
     width: 153px;
     height: 153px;
@@ -600,6 +603,22 @@ a:hover .vd-button .vd-button-tag-invert .vd-button-inner,
     content: '€';
     font-size: 1em;
 }
+
+a:hover .vd-button .vd-button-inner,
+.vd-button a:hover .vd-button-inner {
+    background-color: #8B9448;
+}
+a:hover .vd-button .vd-button-tag-invert .vd-button-inner,
+.vd-button a:hover .vd-button-tag-invert .vd-button-inner {
+    background-color: #B8BA8A;
+}
+.vd-button a:hover {
+    text-decoration: none;
+}
+a:hover .vd-select-item-inner {
+    transform: scale(1.01, 1.01);
+}
+
 
 /* ===================================================================================
  * styling vd-news sections
@@ -685,6 +704,10 @@ a:hover .vd-button .vd-button-tag-invert .vd-button-inner,
 
 .vd-nav ul.nav-pills {
     margin-top: 1em;
+}
+
+.vd-nav ul.nav-pills img.img-icon{
+    height: 2em;
 }
 
 .vd-nav ul.nav-pills>li:first-child>a {

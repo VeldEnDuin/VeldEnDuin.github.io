@@ -61,12 +61,19 @@
 
     <article>
       <div class="container-fluid">
-        <div id="content" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div id="content" class="col-lg-12 col-md-12 col-sm-12 col-xs-12" >
     {% include secondary-menu.html %}
     {% if page.insert contains 'level3-tiles' %}
         {% if lvl2.submenu %}
           <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-            <div class="vd-select-list {{page.class.select.list}}" id="vd-select-list">
+            <div class="vd-select-list {{page.class.select.list}} clearfix" id="vd-select-list"
+            {% if page.insert contains 'background-image' and page.images.size > 0 %}
+              style="background: linear-gradient(rgba(255,255,255,0.7),rgba(255,255,255,0.7)),
+                     url('{{page.images[0]}}');background-position: center center;
+                     background-size: cover;
+                     background-position: center center;"
+            {% endif %}
+            >
             {% for link in lvl2.submenu %}
                 {% assign select = link.linkcode %}
                 {% for pg in site.pages %}
@@ -83,7 +90,7 @@
         {% endif %}
     {% endif %}
 
-    {% if page.insert contains 'page-images' %}
+    {% if page.insert contains 'page-images-top' %}
         {% if page.images %}
           <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <div class="vd-img-strip"><div style="width:200%">
@@ -99,6 +106,19 @@
 
     {{ content }}
 
+
+    {% if page.insert contains 'page-images-bottom' %}
+        {% if page.images %}
+          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="vd-img-strip"><div style="width:200%">
+
+            {% for img in page.images %}
+              <img src="{{img}}">
+            {% endfor %}
+            </div></div>
+          </div>
+        {% endif %}
+    {% endif %}
 
     {% if page.insert contains 'virtualtour' %}
         {% include virtualtour.html %}

@@ -1,6 +1,13 @@
 ---
 layout: page
 title: Draadloos internet
+picto: /img/svg/voorzieningen/internet.svg
+
+images:
+
+insert:
+    - page-images-bottom
+    
 ---
 
 # Draadloos internet
@@ -23,4 +30,4 @@ TIJD ONLINE         | PRIJS       |
 
 Ticket is bruikbaar voor 1 toestel.
 
-Bij het huren van een chalet, caravan of appartement, kunt u ook ons arrangement ‘Veld & Duin service’ boeken. Bij dit arrangement (doorklikbaar) zijn onder andere 2 internettickets inbegrepen.
+Bij het huren van een chalet, caravan of appartement, kunt u ook ons [arrangement ‘Veld & Duin service’][veld_duin_service.nl] boeken. Bij dit arrangement zijn onder andere 2 internettickets inbegrepen.

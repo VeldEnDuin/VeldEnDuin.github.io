@@ -1,6 +1,8 @@
 ---
 layout: page
-preview: none
+
+preview: no
+icon: info-sign
 ---
 
 {% include links.md %}

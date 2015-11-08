@@ -15,11 +15,15 @@ images:
     - /img/ingang.jpg
     - /img/stacaravan.jpg
     - /img/trekker.jpg
+
+insert:
+    - page-images-top
+
 ---
 
 {% include links.md %}
 
-##Chalets comfort 4 +
+# Chalets comfort 4 +
 
 Na een heerlijke dagje strand of een tripje in de buurt lonkt het overdekte terras (en de aperitief) om nog even terug te blikken of al plannen te maken voor de komende dagen. 
 

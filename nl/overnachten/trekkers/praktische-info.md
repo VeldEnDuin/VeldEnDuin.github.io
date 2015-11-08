@@ -1,20 +1,22 @@
 ---
 layout: page
 title: Praktische Info
+
 preview: no
+icon: info-sign
 ---
 
 {% include links.md %}
 
-#PRAKTISCHE INFO
+# Practische info "trekkers"
 
-##Betalingsvoorwaarden
+## Betalingsvoorwaarden
 - Voorschot: 25% binnen de 10 dagen na reservatie.
 - Saldo: uiterlijk 14 dagen voor start verblijf.
 
 De reservatie is pas definitief na ontvangst van het voorschot.
 
-##Annuleren
+## Annuleren
 - Annulatie meer dan 4 weken voor aankomst: 25% van het totale huurbedrag is verschuldigd.
 - Annulatie minder dan 4 weken voor aankomst: volledige huurbedrag is verschuldigd.
 - Bij voortijdige beëindiging van het verblijf is er geen terugbetaling.
@@ -26,11 +28,11 @@ Prijs: 3,5 % van de totale reissom.
 Annulatievoorwaarden: [Allianz][pdf_allianz.nl].
 
 
-##Aankomst-en vertrekregeling
+## Aankomst-en vertrekregeling
 - Aankomst: vanaf 14 u - indien buiten de openingsuren receptie, vooraf verwittigen aub.
 - Vertrek: voor 11 u.
 
-##Openingsuren receptie
+## Openingsuren receptie
 
 PERIODE                         | OPENINGSUREN       | 
 :------------------------------:|:-----------:|

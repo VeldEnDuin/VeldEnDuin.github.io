@@ -105,50 +105,26 @@ veld_duin_service:
 
 # [3] menu - voorzieningen
 voorzieningen:
-    nl: /nl/voorzieningen.html
-    fr: /fr/aménagements.html
-    en: /en/facilities.html
-    de: /de/einrichtungen.html
+    nl: /nl/voorzieningen-overzicht.html
 speel:
-    nl: /nl/speelplein.html
-    fr: /fr/cour-de-récréation.html
-    en: /en/playground.html
-    de: /de/spielplatz.html
+    nl: /nl/voorzieningen/speelplein.html
 animatie:
-    nl: /nl/animatie.html
-    fr: /fr/animation.html
-    en: /en/animation.html
-    de: /de/Animation.html
-petanque:
-    nl: /nl/petanque.html
-    fr: /fr/terrain-de-pétanque.html
-    en: /en/boules.html
-    de: /de/Boules.html
+    nl: /nl/voorzieningen/animatie.html
 internet:
     nl: /nl/voorzieningen/internet.html
-    fr: /fr/internet.html
-    en: /en/internet.html
-    de: /de/internet.html
 sanitair:
-    nl: /nl/sanitair.html
-    fr: /fr/sanitaire.html
-    en: /en/sanitary.html
-    de: /de/sanitär.html
+    nl: /nl/voorzieningen/sanitair.html
+toeristische_info:
+    nl: /nl/voorzieningen/info.html
 wassalon:
-    nl: /nl/wassalon.html
-    fr: /fr/buanderie.html
-    en: /en/washroom.html
-    de: /de/waschraum.html
+    nl: /nl/voorzieningen/wassalon.html
 sauna:
-    nl: /nl/sauna.html
-    fr: /fr/sauna.html
-    en: /en/sauna.html
-    de: /de/sauna.html
-infomuur:
-    nl: /nl/infomuur.html
-    fr: /fr/wall-info.html
-    en: /en/info-wall.html
-    de: /de/inf-wand.html
+    nl: /nl/voorzieningen/sauna.html
+fietsberging:
+    nl: /nl/voorzieningen/fietsberging.html
+pop_up_bib:
+    nl: /nl/voorzieningen/pop-up-bib.html
+
 # [4] menu doen
 doen:
     nl: /nl/doen.html

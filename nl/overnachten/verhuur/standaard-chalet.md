@@ -16,11 +16,15 @@ images:
     - /img/ingang.jpg
     - /img/stacaravan.jpg
     - /img/trekker.jpg
+    
+insert:
+    - page-images-top
+
 ---
 
 {% include links.md %}
 
-##Standaard chalet
+# Standaard chalet
 
 Wenst u prijsbewust op vakantie te gaan maar is het slapen in een tent niet helemaal uw ding? Dan zijn deze eenvoudige chalets wellicht wat u zoekt. 
 

@@ -15,11 +15,15 @@ images:
     - /img/trekker.jpg
     - /img/ingang.jpg
     - /img/stacaravan.jpg
+    
+insert:
+    - page-images-top
+
 ---
 
 {% include links.md %}
 
-##Chalets comfort 4 
+# Chalets comfort 4 
 
 Deze chalets liggen vooraan op de camping en dicht bij het speelplein. Ideaal dus voor de kinderen om hun vriendjes steeds in de buurt te hebben.
 

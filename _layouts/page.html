@@ -1,7 +1,5 @@
 ---
 layout: default
-insert:
-    - page-images
 remove:
     - banner
 ---
@@ -25,6 +23,8 @@ remove:
                 {% endif %}
                 {% if pg.icon %}
             <span class="glyphicon glyphicon-{{pg.icon}}"></span>&nbsp;
+                {% else %}
+                    {%if pg.picto %}<img class="img-icon" src="{{pg.picto}}">{% endif %}
                 {% endif%}
                 {{ title }}
             {% endif %}

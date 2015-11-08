@@ -16,11 +16,15 @@ images:
     - /img/ingang.jpg
     - /img/stacaravan.jpg
     - /img/trekker.jpg
+    
+insert:
+    - page-images-top
+
 ---
 
 {% include links.md %}
 
-##Caravan comfort 2 
+# Caravan comfort 2 
 
 Deze mini-caravan met privé-tuintje is ideaal voor wie houdt van het buiten-leven maar 's avonds toch graag z'n eigen potje kookt of een verkwikkende douche neemt.
 

@@ -16,11 +16,15 @@ images:
     - /img/ingang.jpg
     - /img/stacaravan.jpg
     - /img/trekker.jpg
+    
+insert:
+    - page-images-top
+
 ---
 
 {% include links.md %}
 
-##Chalet comfort 2 
+# Chalet comfort 2 
 
 Even alleen komen uitwaaien of met z'n tweetjes? In deze chalet is het heerlijk thuiskomen na  een dagje echt kust-genieten.
 

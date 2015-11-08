@@ -1,18 +1,17 @@
 ---
 layout: page
-title: Appartement Comfort 4 Plus
+title: Veld & Duin Service Arrangement
 preview: 
-    title: Appartement
+    title: Veld & Duin Service
     button:
         price: XXX
         for: bundle
     list:
         - "..."
-        - "65 m²"
-        - "lift"
-        - "plaats voor fietsen"
+        - "todo"
+        - "'t één"
+        - "en 't ander"
 ---
-
 {% include links.md %}
 
 ## Veld & Duin Service

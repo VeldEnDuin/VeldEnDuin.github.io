@@ -22,12 +22,16 @@ images:
     - /img/overnachten/verhuring-luxe-appartement/lx-08-slaapk.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-09-badk.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-10-keuken.jpg
+
+insert:
+    - page-images-top
+
 ---
 
 
 {% include links.md %}
 
-##Luxe Appartementen
+# Luxe Appartementen
 
 Gelegen aan de ingang van de camping, bieden deze appartementen-met-dat-ietsje-meer alle luxe met zicht op de bloemenpracht aan de ingang en het speelplein. 
 
