@@ -13,8 +13,7 @@ items:
     description:
       nl: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ut urna a elit volutpat placerat. Maecenas semper nulla at tortor lobortis sodales. Donec molestie orci ac rhoncus malesuada. Donec tincidunt vel velit venenatis faucibus. Aliquam eu turpis mattis, lobortis nisi sed, placerat risus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce luctus, nulla vel sodales sollicitudin, nisl diam feugiat risus, ac pharetra tellus orci sit amet massa. Vestibulum sed mollis sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;"
     images:
-      - /img/doen/bre-cc-stafversl-0.jpg
-      - /img/doen/ost-cc-post-0.jpg
+      - /img/ingang.jpg
     date: 2015-03-17
     title:
       de: ""
@@ -26,8 +25,7 @@ items:
     description:
       nl: "jaja, zo was het toen"
     images:
-      - /img/doen/flandersfields-0.jpg
-      - /img/doen/iffm-1.jpg
+      - /img/trekker.jpg
     date: 1965-06-07
     title:
       de: ""
