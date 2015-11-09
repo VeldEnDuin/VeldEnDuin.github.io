@@ -68,14 +68,15 @@
         - linkcode: trekkers_arrangement
 
 
-
     - linkcode: residentieel
       menutekst:
         nl:  Residentieel Verblijf
       submenu:
-        - linkcode: residentieel
+        - linkcode: residentieel_info
         - linkcode: type_1
         - linkcode: type_2
+        - linkcode: type_3
+        - linkcode: type_4
 
 
     - linkcode: arrangementen
