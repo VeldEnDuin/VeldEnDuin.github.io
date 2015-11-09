@@ -306,7 +306,7 @@
      * =======================================================================
      */
     $(function () {
-        var $groupList = $('#vd-group-history'),
+        var $groupList = $('#vd-group-tijdslijn'),
             $items = $('.vd-group-timeline-item', $groupList),
             $grid,
             $tl = $("<div class='timeline'>");
@@ -329,13 +329,6 @@
             var $dot = $('<span class="timeline-dot"><span>&nbsp;</span></span>'), imgs;
             $tl.append($dot);
             $it.data('tl-dot', $dot);
-
-            /*
-            imgs   = $it.data('images');
-            imgLoadAndRotate(imgs, 0, function (url) {
-                $('.vd-group-img img.img.img-thumbnail', $it).attr('src', url);
-            });
-            */
         });
 
         $grid = $groupList.isotope({ // apply the masonry (default) layout.

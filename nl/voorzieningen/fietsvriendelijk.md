@@ -1,9 +1,10 @@
 ---
 title: Label fietsvriendelijk 
-layout: default
+layout: page
 images: 
     - /img/labels/fietsvriendelijk-label-2015.jpg
 ---
+{% include links.md %}
 
 # Fietsvriendelijk
 

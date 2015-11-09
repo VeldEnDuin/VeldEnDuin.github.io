@@ -7,7 +7,6 @@ highlighter: pygments
 
 description: Veld & Duin, Camping Bredene
 url: http://veldenduin.be
-imgUrl: /img/vd-logo-news.png
 
 keywords:
   - camping
@@ -46,8 +45,8 @@ gp-id: "107871249081614981666"
 gcse:
     apikey: "AIzaSyCMGfdDaSfjqv5zYoS0mTJnOT3e9MURWkU"
 
-strip-album: "site-strip-algemeen"
-play-album: "site-hoofdalbum"
+strip-album: "www-footer-imgstrip"
+play-album: "www-foto-album"
 
 links:
     social:

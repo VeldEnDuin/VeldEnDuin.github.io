@@ -278,13 +278,15 @@ console.log("updateContent - id = %s, content  ==>", id, content);
             if (!isEmpty(content)) {
                 this.albumList = content;
                 this.matchingAlbumIds = [];
-                Object.keys(content.albumSet).forEach(function (albumId) {
-                    var name = content.albumSet[albumId].title;
-                    if (me.albumMatch(albumId, name)) {
-                        me.matchingAlbumIds.push(albumId);
-                    }
-                    me.albums[albumId] = getCache(albumId);
-                });
+                if (content !== undefined && content.albumSet !== undefined) {
+                    Object.keys(content.albumSet).forEach(function (albumId) {
+                        var name = content.albumSet[albumId].title;
+                        if (me.albumMatch(albumId, name)) {
+                            me.matchingAlbumIds.push(albumId);
+                        }
+                        me.albums[albumId] = getCache(albumId);
+                    });
+                }
             }
         } else {
             this.albums[id] = content;

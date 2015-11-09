@@ -1,21 +1,34 @@
 TODO
 ====
-- verhuur detail pagina 
-  nav -- links andere details via js effect? (anders dan nu?)
-  foto's 
-  
-  eerste foto in background
-  
-  styling van de praktische info-page
-  
-  
+
+- mailchimp styling 
+    --> Joke voorstel komt eraan
+    marc al simpele variant uitwerken en de templating-language van mc erop toepassen
+    
+    https://us10.admin.mailchimp.com/templates/design?tid=123977
+    http://kb.mailchimp.com/templates/code/getting-started-with-mailchimps-template-language
+    
 
 - fotoalbum(s)
   - include one album
   - allow browsing all albums --> /pics
-  - preview en autoplay
+  - preview en autoplay?
+  
+  - tussenlijn per jaar --> doen grid behouden
+  
+  - detail van 1 pic --> makkelijk sharen via social media --> hyperlink met direct-access is nog nodig!
+  
+  - joke: maakt link-back icon om van 1 album terug te keren naar browse van alle albums
+  
+  - nog nadenken over linken naar de /pics --> mijn Veld & Duin
+  
+  
+  
+- infomuur ?!
+  - weerbericht
+  - prentjes van recente albums
+  - info-slides
 
-- mailchimp styling --> Joke?
 
 - print.css elementen! (doet bootstrap al iets?)
   

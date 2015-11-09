@@ -42,9 +42,10 @@
   submenu:
     - linkcode: verhuur
       menutekst:
-        nl:  Verhuur
+        nl: Verhuur
         fr: Location
       submenu:
+        - linkcode: verhuur_info
         - linkcode: verhuur_luxe_appartementen
         - linkcode: verhuur_appartement
         - linkcode: verhuur_comfort4plus_chalet
@@ -54,17 +55,36 @@
         - linkcode: verhuur_comfort2_caravan
         - linkcode: verhuur_standaard_chalet
 
-        - linkcode: verhuur_info
        
     - linkcode: trekkers
       menutekst:
         nl:  Trekkers
+      submenu:
+        - linkcode: trekkers_info
+        - linkcode: trekkers_trekker10x8
+        - linkcode: trekkers_tent10x8
+        - linkcode: trekkers_tent7x8
+        - linkcode: trekkers_lang
+        - linkcode: trekkers_arrangement
+
+
+
     - linkcode: residentieel
       menutekst:
         nl:  Residentieel Verblijf
-    - linkcode: appartement
+      submenu:
+        - linkcode: residentieel
+        - linkcode: type_1
+        - linkcode: type_2
+
+
+    - linkcode: arrangementen
       menutekst:
         nl:  Arrangementen
+      submenu:
+        - linkcode: arrangementen
+        - linkcode: 7_plus_1
+        - linkcode: veld_duin_service
 
 - linkcode: voorzieningen
   menutekst:
@@ -73,54 +93,17 @@
     en:  Facilities
     de:  Einrichtungen
   submenu:
-    - linkcode: speel
-      menutekst:
-        nl:  Speelplein
-        fr:  Cour de récréation
-        en:  Playground
-        de:  Spielplatz
-    - linkcode: animatie
-      menutekst:
-        nl:  Animatie
-        fr:  Animation
-        en:  Animation
-        de:  Animation
-    - linkcode: petanque
-      menutekst:
-        nl:  Petanque
-        fr:  Terrain de pétanque
-        en:  Boules
-        de:  Boules
-    - linkcode: internet
-      menutekst:
-        nl:  Internet
-        fr:  Internet
-        en:  Internet
-        de:  Internet
-    - linkcode: sanitair
-      menutekst:
-        nl:  Sanitair
-        fr:  Sanitaire
-        en:  Sanitary
-        de:  Sanitär
-    - linkcode: wassalon
-      menutekst:
-        nl:  Wassalon
-        fr:  Buanderie
-        en:  Washroom
-        de:  Waschraum
-    - linkcode: sauna
-      menutekst:
-        nl:  Sauna
-        fr:  Sauna
-        en:  Sauna
-        de:  Sauna
-    - linkcode: infomuur
-      menutekst:
-        nl:  Infomuur
-        fr:  Wall Info
-        en:  info wall
-        de:  info Wand
+    - submenu:
+        - linkcode: voorzieningen
+        - linkcode: speel
+        - linkcode: animatie
+        - linkcode: internet
+        - linkcode: sanitair
+        - linkcode: toeristische_info
+        - linkcode: wassalon
+        - linkcode: sauna
+        - linkcode: fietsberging
+        - linkcode: pop_up_bib
 
 - linkcode: doen
   menutekst:
@@ -135,3 +118,4 @@
     fr:  Foto's
     en:  Foto's
     de:  Foto's
+

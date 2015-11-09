@@ -53,7 +53,7 @@ verhuur:
 trekkers:
     nl:  /nl/overnachten/trekkers.html
 residentieel:
-    nl:  /nl/overnachten/residentieel.html
+    nl:  /nl/overnachten/residentieel-verblijf.html
 arrangementen:
     nl:  /nl/overnachten/arrangement.html
 
@@ -77,52 +77,54 @@ verhuur_standaard_chalet:
 verhuur_info:
     nl:  /nl/overnachten/verhuur/praktische-info.html
 
+# [2.2] submenu overnachten -> trekkers
+trekkers_arrangement:
+    nl:  /nl/overnachten/trekkers/kampeerarrangement.html
+trekkers_lang:
+    nl:  /nl/overnachten/trekkers/lang-verblijf.html
+trekkers_tent7x8:
+    nl:  /nl/overnachten/trekkers/tentplaats-7x8.html
+trekkers_tent10x8:
+    nl:  /nl/overnachten/trekkers/tentplaats-10x8.html
+trekkers_trekker10x8:
+    nl:  /nl/overnachten/trekkers/trekkersplaats-10x8.html
+trekkers_info:
+    nl:  /nl/overnachten/trekkers/praktische-info.html
+
+# [2.3] submenu overnachten -> residentieel
+type_1:
+    nl: /nl/overnachten/residentieel-verblijf/type-1.html
+type_2:
+    nl: /nl/overnachten/residentieel-verblijf/type-2.html
+
+# [2.4] submenu overnachten -> arrangementen
+7_plus_1:
+    nl: /nl/overnachten/arrangementen/7-plus-1.html
+veld_duin_service:
+    nl: /nl/overnachten/arrangementen/Veld&Duin-service.html
+
 # [3] menu - voorzieningen
 voorzieningen:
-    nl: /nl/voorzieningen.html
-    fr: /fr/aménagements.html
-    en: /en/facilities.html
-    de: /de/einrichtungen.html
+    nl: /nl/voorzieningen-overzicht.html
 speel:
-    nl: /nl/speelplein.html
-    fr: /fr/cour-de-récréation.html
-    en: /en/playground.html
-    de: /de/spielplatz.html
+    nl: /nl/voorzieningen/speelplein.html
 animatie:
-    nl: /nl/animatie.html
-    fr: /fr/animation.html
-    en: /en/animation.html
-    de: /de/Animation.html
-petanque:
-    nl: /nl/petanque.html
-    fr: /fr/terrain-de-pétanque.html
-    en: /en/boules.html
-    de: /de/Boules.html
+    nl: /nl/voorzieningen/animatie.html
 internet:
     nl: /nl/voorzieningen/internet.html
-    fr: /fr/internet.html
-    en: /en/internet.html
-    de: /de/internet.html
 sanitair:
-    nl: /nl/sanitair.html
-    fr: /fr/sanitaire.html
-    en: /en/sanitary.html
-    de: /de/sanitär.html
+    nl: /nl/voorzieningen/sanitair.html
+toeristische_info:
+    nl: /nl/voorzieningen/info.html
 wassalon:
-    nl: /nl/wassalon.html
-    fr: /fr/buanderie.html
-    en: /en/washroom.html
-    de: /de/waschraum.html
+    nl: /nl/voorzieningen/wassalon.html
 sauna:
-    nl: /nl/sauna.html
-    fr: /fr/sauna.html
-    en: /en/sauna.html
-    de: /de/sauna.html
-infomuur:
-    nl: /nl/infomuur.html
-    fr: /fr/wall-info.html
-    en: /en/info-wall.html
-    de: /de/inf-wand.html
+    nl: /nl/voorzieningen/sauna.html
+fietsberging:
+    nl: /nl/voorzieningen/fietsberging.html
+pop_up_bib:
+    nl: /nl/voorzieningen/pop-up-bib.html
+
 # [4] menu doen
 doen:
     nl: /nl/doen.html
@@ -136,8 +138,13 @@ fotos:
     en: /en/photos.html
     de: /de/fotos.html
 
+# [6] menu pdf
+pdf_allianz:
+    nl: /nl/pdf/allianz-algemene-voorwaarden.pdf
+
 # [* ] losse content - alleen interne links en taal-koppeling
 fietslabel:
     nl:  /nl/voorzieningen/fietsvriendelijk.html
+
 qlabel:
     nl:  /nl/overnachten/qlabel.html

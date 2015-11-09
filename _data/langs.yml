@@ -27,8 +27,7 @@ nl:
         sociallinks: Veld & Duin op de sociale media
         readmore: Lees meer...
         moreinfo: Meer info
-        per2n: 2 nachten
-        starting: Vanaf
+        starting: vanaf
         practical_info: Praktische Informatie
         other_rental_types: Andere Types Logement
 
@@ -65,6 +64,7 @@ fr:
         mailchimp: (TODO FR) tekst mailchimp inschrijving
         sociallinks: (TODO FR) tekst VD op social media
         readmore: (TODO FR) knop lees meer
+
     gcse:
         use: (TODO FR) usage search - no search term
         wait: (TODO FR) wait - results loading

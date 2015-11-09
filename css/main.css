@@ -38,6 +38,13 @@ body:before {
     z-index: -1;
 }
 
+#content {
+    line-height: 180%;
+    font-size: 1.15em;
+}
+
+
+
 /* ===================================================================================
  * styling menu and header
  *   -------------------------------------------------------------------------------
@@ -101,6 +108,10 @@ body:before {
        -moz-border-radius: 1.25em;
             border-radius: 1.25em;
 }
+
+header.spaced {
+    padding-bottom: 1em;
+}
 .btn-lg.btn-success {
     background-color: transparent;
     border: none;
@@ -147,9 +158,10 @@ table.table {
     width: auto;
     /*min-width: 80%;*/
     background-color: rgba(255,255,255,0.8);
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 5em;
     border: 1px solid #4f5137;
+    margin-left: 5em;
+    vertical-align: middle;
 }
 
 table.table>thead>tr>th,
@@ -159,6 +171,7 @@ table.table>tbody>tr>td {
     border-left-color: #4f5137;
     border-left-style: solid;
     border-left-width: 1px;
+    vertical-align: middle;
 }
 
 table.table>thead>tr>th {
@@ -196,6 +209,21 @@ table.table>tbody>tr>td:first-child
 }
 .fa.vd-share-pi {
     color: #cb2027!important;
+}
+
+/* ===================================================================================
+ * styling vd-layout-page sections
+ *   -------------------------------------------------------------------------------
+ */
+.vd-layout-page  h2 {
+    text-transform: uppercase;
+}
+
+.vd-layout-page h2 {
+    padding-top: 1em;
+}
+.vd-layout-page  h3 {
+    padding-top: 1em;
 }
 
 /* ===================================================================================
@@ -495,7 +523,13 @@ table.table>tbody>tr>td:first-child
 .vd-select-submenu .vd-select-title
 , .vd-select-submenu .vd-select-content ul li {
     padding: 0.5em 0 0.5em 0;
+}
+.properties-grid .vd-select-submenu .vd-select-title
+, .properties-grid .vd-select-submenu .vd-select-content ul li {
     border-bottom: 1px solid rgba(0,0,0,0.3);
+}
+.vd-select-submenu .vd-select-title {
+    min-height: 4em;
 }
 .vd-select-submenu .vd-select-content ul {
     padding: 0;
@@ -507,9 +541,24 @@ table.table>tbody>tr>td:first-child
     background-color: rgba(255,255,255,0.3);
     border: 1px solid rgba(0,0,0,0.3);
     padding: 1.5em 0.5em 0.5em 0.5em;
-    margin: 100px 0 50px 0;
     position: relative;
+    border-radius:  5px;
+    margin: 0.5em 0 0.5em 0;
 }
+
+.properties-grid .vd-select-submenu .vd-select-item-inner {
+    margin: 100px 0 50px 0;
+}
+
+.picto-grid .vd-select-submenu .vd-select-item-inner {
+    height: 320px;
+}
+
+.picto-grid button {
+    display: none;
+}
+
+.vd-select-item-inner {}
 .vd-select-submenu .vd-button {
     position: absolute;
     top: -110px;
@@ -536,6 +585,25 @@ table.table>tbody>tr>td:first-child
     background-color: #4F5137;
 }
 
+.vd-select-submenu .vd-button .vd-button-tag {
+    width: 153px;
+    height: 153px;
+}
+.vd-select-submenu .vd-button .vd-button-inner {
+    height: 120px;
+    width: 120px;
+}
+.vd-button span {
+    display: block;
+}
+.vd-select-submenu .vd-button .vd-button-price {
+    font-size: 1.5em;
+}
+.vd-select-submenu .vd-button span.vd-button-price:before {
+    content: '€';
+    font-size: 1em;
+}
+
 a:hover .vd-button .vd-button-inner,
 .vd-button a:hover .vd-button-inner {
     background-color: #8B9448;
@@ -547,25 +615,10 @@ a:hover .vd-button .vd-button-tag-invert .vd-button-inner,
 .vd-button a:hover {
     text-decoration: none;
 }
+a:hover .vd-select-item-inner {
+    transform: scale(1.01, 1.01);
+}
 
-.vd-select-submenu .vd-button .vd-button-tag {
-    width: 145px;
-    height: 145px;
-}
-.vd-select-submenu .vd-button .vd-button-inner {
-    height: 115px;
-    width: 115px;
-}
-.vd-button span {
-    display: block;
-}
-.vd-select-submenu .vd-button .vd-button-price {
-    font-size: 2em;
-}
-.vd-select-submenu .vd-button span.vd-button-price:before {
-    content: '€';
-    font-size: 1em;
-}
 
 /* ===================================================================================
  * styling vd-news sections
@@ -649,28 +702,34 @@ a:hover .vd-button .vd-button-tag-invert .vd-button-inner,
     padding: 0 auto 0 auto;
 }
 
-.vd-nav {
-    display: table;
-    width: 100%;
-    table-layout: fixed;    /* For cells of equal size */
-}
-.vd-nav .vd-navlink {
-    display: table-cell;
-    text-align: center;
-    padding-left: auto;
-    padding-right: auto;
+.vd-nav ul.nav-pills {
+    margin-top: 1em;
 }
 
-.vd-nav .vd-button .vd-button-tag {
-    width: 195px;
-    height: 195px;
+.vd-nav ul.nav-pills img.img-icon{
+    height: 2em;
 }
-.vd-nav .vd-button .vd-button-inner {
-    height: 165px;
-    width: 165px;
-    display: table-cell;
-    vertical-align: middle;
-    font-size: 1.1em;
+
+.vd-nav ul.nav-pills>li:first-child>a {
+    background-color: #4f5137;
+    color: #eee;
+}
+
+.vd-nav ul.nav-pills>li:first-child {
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    border-bottom: 1px dashed #4f5137;
+}
+.vd-nav ul.nav-pills>li>a:hover {
+    background-color: #B8BA8A;
+}
+.vd-nav ul.nav-pills>li.active>a {
+    background-color: #8fb742;
+}
+.vd-nav ul.nav-pills>li:first-child {
+
+}
+.vd-nav ul>li>a:hover {
 }
 
 
@@ -728,9 +787,26 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
     /* margin-top: 4em; */
 }
 .vd-img-strip {
-    height: 105px;
     background-color: rgba(255, 255, 255, 0.5);
     margin: 1em 0 0 0;
+    height: 160px;
+    overflow: hidden;
+}
+.vd-img-strip>div {
+    width: 200%;
+    height: 160px;
+}
+.vd-img-strip>div>img {
+    float: left;
+    max-height: 100%;
+    max-width: 100%;
+    margin-right: 2px;
+}
+.vd-footer .vd-img-strip {
+    height: 105px;
+}
+.vd-footer .vd-img-strip>div {
+    height: 105px;
 }
 .vd-contact {
     font-size: 1.05em;
@@ -739,9 +815,10 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
     padding: 0.5em 0 0.5em 0;
     text-align: center;
 }
-.vd-contact > div {
-    padding: 0.5em 0 0.5em 0;
+#mc-footer.vd-contact {
+    background-color: #4f5137;
 }
+
 .vd-contact .vd-contact-item {
     padding: 0 1.5em 0 1.5em;
     border-right: 1px solid #fff;

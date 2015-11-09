@@ -1,46 +1,51 @@
 ---
-layout: default
-submenu: hide
+layout: page
+title: Praktische Info
+
+preview: no
+icon: info-sign
 ---
-#PRAKTISCHE INFO
 
-##BETALINGSVOORWAARDEN
-- Voorschot: 25% binnen de 10 dagen na reservatie
-- Saldo: uiterlijk 14 dagen voor start verblijf
-De reservatie is pas definitief na betaling van het voorschot.
+{% include links.md %}
 
-##ANNULEREN
-- Annulatie (meer of gelijk aan-teken) 4 weken voor aankomst: 25% van het totale huurbedrag is verschuldigd.
-- Annulatie (minder dan-teken) 4 weken voor aankomst: volledige huurbedrag is verschuldigd.
+# Practische info "verhuur"
+
+## Betalingsvoorwaarden
+- Voorschot: 25% binnen de 10 dagen na reservatie.
+- Saldo: uiterlijk 14 dagen voor start verblijf.
+
+De reservatie is pas definitief na ontvangst van het voorschot.
+
+## Annuleren
+- Annulatie meer dan 4 weken voor aankomst: 25% van het totale huurbedrag is verschuldigd.
+- Annulatie minder dan 4 weken voor aankomst: volledige huurbedrag is verschuldigd.
 - Bij voortijdige beëindiging van het verblijf is er geen terugbetaling.
 
-**Tip**: u kunt bij ons een annulatieverzekering afsluiten, zo vermijdt u onnodige kosten als u door een grondige reden niet kan komen.
+**Tip**: u kunt bij ons een annulatieverzekering afsluiten, zo vermijdt u onnodige kosten als u door een geldige reden niet kan komen.
 
 Prijs: 3,5 % van de totale reissom. 
 
-Annulatievoorwaarden: [aanklikbaar met verwijzing naar de vwen][todo.nl]
+Annulatievoorwaarden: [Allianz][pdf_allianz.nl].
 
 
-##AANKOMST-EN VERTREKREGELING
-- Aankomst: vanaf 14 u
-- Vertrek: voor 10 u
+## Aankomst-en vertrekregeling
+- Aankomst: vanaf 14 u - indien buiten de openingsuren receptie, vooraf verwittigen aub.
+- Vertrek: voor 10 u.
 
-##OPENINGSUREN RECEPTIE
+## Openingsuren receptie
 
-TIJD ONLINE                     | PRIJS       | 
+PERIODE                         | OPENINGSUREN       | 
 :------------------------------:|:-----------:|
-Paasvakantie                    |09u00 - 12u00
-Verlengde weekends mei en juni  |13u30 - 17u30
-Juli en augustus                |
-15 maart tot 15 oktober         |09u00 - 12u00
-buiten bovenstaande periodes    |13u30 - 16u00
-                                |gesloten: woensdag- en zondagmiddag
-15 oktober tot 15 maart         |bereikbaar na afspraak                     
+Paasvakantie<br>Verlengde weekends mei en juni<br>Juli en augustus               |09u00 - 12u00<br>13u30 - 17u30
+15 maart tot 15 november        |09u00 - 12u00<br>13u30 - 16u00<br>gesloten: woensdag- en zondagmiddag
+15 november tot 15 maart        |bereikbaar na afspraak                     
                              
-Wenst u buiten deze openingsuren aan te komen? Dat kan, maar geef dan een seintje vooraf zodat we een exacte tijd kunnen afspreken.
+Wenst u buiten deze openingsuren aan te komen? Dat kan, maar geef dan een seintje vooraf zodat we een tijd kunnen afspreken.
 
-###INVENTARIS HUUR
-                       |             |               |              
+
+## Inventaris
+
+tekst noodzakelijk     |             |               |              |
 :---------------------:|:-----------:|:-------------:|:------------:
 bier/wijn/waterglazen  |kinderbestek |kookpotten     |borstel                             
 borden                 |aardappelmes |pannen         |aftrekker
@@ -54,7 +59,3 @@ microgolfpot           |schepper     |kapstokken     |detergent
 snijplank              |blikopener   |donsdekens     |allesreiniger
 maatbeker              |schaar       |hoofdkussens   |azijn
 bestek                 |microgolf    |matrasbeschermer|tuinmeubels
-
-###PLAN CAMPING
-
-[invoegen plan][plan.nl]
