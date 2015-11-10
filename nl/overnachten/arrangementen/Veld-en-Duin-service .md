@@ -22,12 +22,12 @@ images:
 
 ##Veld & Duin service
 
-Om optimaal te kunnen genieten van uw verblijf, bieden wij dit servicepakket aan. Zo blijft er nog meer tijd over voor de echt leuke dingen.
+Om optimaal te kunnen genieten van uw verblijf, bieden wij dit servicepakket aan. Dit geeft u de ruimte om maximaal tijd te maken voor al die zaken waar u tijdens het jaar niet aan toe komt.
 
     
 ###Goed om weten
 - geldig voor elk verhuurtype
-- geldig het hele jaar door 
+- het hele jaar door boekbaar
 
 
 ###Prijzen

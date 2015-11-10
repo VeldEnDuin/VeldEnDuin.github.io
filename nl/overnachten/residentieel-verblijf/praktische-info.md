@@ -8,6 +8,8 @@ icon: info-sign
 
 {% include links.md %}
 
+##Praktische info
+
 ###Troeven residentieel verblijf Veld & Duin
 - het hele jaar open - u kunt zo vaak komen als u wenst
 - groenonderhoud door Veld & Duin

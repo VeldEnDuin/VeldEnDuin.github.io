@@ -18,7 +18,7 @@ Even een wasje tussendoor of alvast wat spullen wassen om die berg was bij thuis
 Hiervoor kunt u terecht op 3 plaatsen op de camping in onze professionele wasmachines en droogkasten:
 
 
-| toestellen               | prijs  |
+| toestel                  | prijs  |
 |--------------------------|:------:|
 | 2 wasmachines van 6 kilo | € 4,00 |
 | 1 wasmachine van 8 kilo  | € 5,50 |
