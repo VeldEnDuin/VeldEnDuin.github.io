@@ -1,37 +1,22 @@
 - linkcode: info
   menutekst:
     nl: Goed om weten
-    fr: Bon à savoir
-    en: Good to know
-    de: Gut zu wissen
-  submenu:
+   submenu:
     - linkcode: troeven
       menutekst:
         nl: Onze troeven
-        fr: Nos forces
-        en: Our strengths
-        de: Unsere Stärken
 
     - linkcode: hier-staan-we-voor
       menutekst:
         nl: Hier staan we voor
-        fr: Ce que nous représentons
-        en: What we stand for
-        de: Wofür wir stehen
 
-    - linkcode: wie-zijn-we
+    - linkcode: tijdslijn
       menutekst:
-        nl: Wie zijn we
-        fr: Qui sommes-nous
-        en: Who we are
-        de: Wer wir sind
+        nl: Tijdslijn
 
-    - linkcode: history
+    - linkcode: praktisch
       menutekst:
-        nl: Geschiedenis
-        fr: Histoire
-        en: History
-        de: Geschichte
+        nl: Praktisch
 
 - linkcode: verhuur
   menutekst:

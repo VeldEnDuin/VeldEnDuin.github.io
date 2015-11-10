@@ -26,6 +26,6 @@ Hiervoor kunt u terecht op 3 plaatsen op de camping in onze professionele wasmac
 | 1 droogkast van 8 kilo   | € 4,50 |
 
 
-Betaling met munten van € 0,50 € 1,00 of € 2,00.
+Betaling met munten van € 0,50; € 1,00 of € 2,00.
 
 Waspoeder (€ 1,70) en wasverzachter (€ 0,60)  verkrijgbaar aan de receptie.

@@ -22,30 +22,14 @@ news:
 
 # [1] menu - goed om weten
 info:
-    nl:  /nl/goed-om-weten.html
-    fr:  /fr/bien-a-savoir.html
-    en:  /en/good-to-know.html
-    de:  /de/gut-zu-wissen.html
-troeven:
+    nl:  /nl/praktisch.html
+onze_troeven:
     nl:  /nl/onze-troeven.html
-    fr:  /fr/nos-forces.html
-    en:  /en/our-strengths.html
-    de:  /de/unsere-stärken.html
-hier-staan-we-voor:
+hier_staan_we_voor:
     nl:  /nl/hier-staan-we-voor.html
-    fr:  /fr/ce-que-nous-représentons.html
-    en:  /en/what-we-stand-for.html
-    de:  /de/wofür-wir-stehen.html
-wie-zijn-we:
-    nl:  /nl/wie-zijn-we.html
-    fr:  /fr/qui-sommes-nous.html
-    en:  /en/who-we-are.html
-    de:  /de/wer-wir-sind.html
-history:
-    nl:  /nl/geschiedenis.html
-    de:  /de/geschichte.html
-    en:  /en/history.html
-    fr:  /fr/histoire.html
+tijdslijn:
+    nl:  /nl/tijdslijn.html
+
 
 # [2] menu - overnachten
 verhuur:

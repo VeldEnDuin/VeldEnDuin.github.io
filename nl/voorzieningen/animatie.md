@@ -11,9 +11,8 @@ insert:
 ---
 {% include links.md %}
 
-# Animatie
-
 ##Animatie Veld & Duin
+
 In de paasvakantie organiseren we 2 activiteiten. Tijdens de paaseierenzoektocht kun je niet alleen paaseieren zoeken maar via diverse spelletjes ook extra eieren voor je ploeg winnen of verliezen.
 
 De vrijdagen in het hoogseizoen voorzien we een gevarieerd animatieprogramma. We proberen hierbij de platgetreden paden te verlaten en gaan telkens op zoek naar een leuk en vernieuwend aanbod. Hou onze kalender in de gaten voor een volledig overzicht.

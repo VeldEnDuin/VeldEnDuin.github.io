@@ -16,7 +16,7 @@ insert:
 Verwen uw lichaam na een lange strandwandeling of uitputtende koopjesjacht met een weldadige sauna. 
 
 In onze wellnessruimte vindt u:
-- sauna voor max 4 personen
+- een sauna voor max 4 personen
 - 4 relaxzetels
 - ijskoude dompelton
 - douche
@@ -25,9 +25,9 @@ In onze wellnessruimte vindt u:
 **Prijs afhuren sauna**: € 30 voor 3 uur.
 
 
-## Arrangement
+# Romantiek-aan-zee arrangement
 
-Of boek meteen ons sauna-arrangement en keer als herboren terug naar huis!
+Boek ons sauna-arrangement en keer als herboren terug naar huis!
 
 Het arrangement omvat:
 - gebruik sauna + ontspanningsruimte (douche, relaxzetels, dompelton)
@@ -35,13 +35,13 @@ Het arrangement omvat:
     - gezond: fruit / noten / fles biologisch fruitsap
     - hartig: fles wijn + 3 tapas
 
-### Prijzen Arrangement
+## Prijzen 
 
 
-|           | Laagseizoen  | Tussenseizoen | 
-|:----------|-------------:|--------------:|
-| Standaard | -            | € 150,00      |
-| Comfort 2 | -            | € 180,00      |
-| Comfort 4 | € 180,00     | € 195,00      |
-| Comfort Plus 4 | € 195,00| € 210,00      |
-| Luxe appartementen | € 215,00 | € 235,00 |
+|                    | Laagseizoen  | Tussenseizoen | 
+|:-------------------|:------------:|:-------------:|
+| Standaard          |              | € 150,00      |
+| Comfort 2          |              | € 180,00      |
+| Comfort 4          | € 180,00     | € 195,00      |
+| Comfort Plus 4     | € 195,00     | € 210,00      |
+| Luxe appartementen | € 215,00     | € 235,00      |
