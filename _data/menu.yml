@@ -85,7 +85,10 @@
       submenu:
         - linkcode: arrangementen
         - linkcode: 7_plus_1
+        - linkcode: 14_plus_1
         - linkcode: veld_duin_service
+        - linkcode: romantiek_aan_zee
+        - linkcode: kadobon
 
 - linkcode: voorzieningen
   menutekst:
