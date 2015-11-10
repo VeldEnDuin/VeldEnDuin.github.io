@@ -11,18 +11,20 @@ insert:
 ---
 {% include links.md %}
 
-# FietsBerging
+# Fietsberging
 
-U wenst uw fiets na een mooie fietstocht binnen te kunnen zetten? We hebben in totaal 80 plaatsen voor fietsliefhebbers.
+U wilt uw fiets na een mooie fietstocht graag binnenzetten? In onze overdekte fietsberging hebben we in totaal 116 plaatsen voor fietsliefhebbers.
 
-Onze residentiële kampeerders kunnen een plaats huren voor een volledig jaar, voor onze huurders of trekkers is het mogelijk om een plaats vast te leggen voor de duur van het verblijf.
-Reservaties mogelijk via de receptie.
+Onze residentiële kampeerders kunnen een plaats huren voor een volledig jaar. Voor onze huurders of trekkers is het mogelijk om een plaats vast te leggen voor de duur van het verblijf.
+Reservatie mogelijk via de receptie.
 
-| formule                 | prijs |
+| Formule                 | Prijs |
 |-------------------------|:-----:|
-| Jaarplaats fietsberging |€ 45,00|
-| Plaats huurders / trekkers | € 1,00 / nacht |
+| jaarplaats fietsberging |€ 45,00|
+| plaats huurders / trekkers | € 1,00 / nacht |
 
-Verder is er ook een fietsenrek aan de receptie en het speelplein zodat u ook daar vlot met uw fiets terecht kan. 
 
-Veld & Duin ligt op 1,4 km van het dichtstbijzijnde knooppunt van het fietsknooppuntennetwerk. Kaarten hiervan kunt u uitlenen aan de receptie.
+Aan de receptie en het speelplein is er een fietsenrek zodat u ook daar makkelijk met uw fiets terecht kan. 
+
+Veld & Duin ligt op 1,4 km van het dichtstbijzijnde knooppunt van het fietsknooppuntennetwerk kust. Kaarten van dit netwerk kunt u uitlenen aan de receptie.
+
