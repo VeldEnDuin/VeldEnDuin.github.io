@@ -78,9 +78,6 @@
 - linkcode: voorzieningen
   menutekst:
     nl:  Voorzieningen
-    fr:  Aménagements
-    en:  Facilities
-    de:  Einrichtungen
   submenu:
     - submenu:
         - linkcode: voorzieningen
@@ -97,14 +94,10 @@
 - linkcode: doen
   menutekst:
     nl:  Doen
-    fr:  Que faire
-    en:  Activities
-    de:  Zu Tun
+
 
 - linkcode: fotos
   menutekst:
     nl:  Foto's
-    fr:  Foto's
-    en:  Foto's
-    de:  Foto's
+
 

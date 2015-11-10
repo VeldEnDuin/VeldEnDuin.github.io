@@ -21,14 +21,14 @@ news:
     de:  /de/nachrichten.html
 
 # [1] menu - goed om weten
-info:
-    nl:  /nl/praktisch.html
 onze_troeven:
-    nl:  /nl/onze-troeven.html
+    nl:  /nl/goed-om-weten/onze-troeven.html
 hier_staan_we_voor:
-    nl:  /nl/hier-staan-we-voor.html
+    nl:  /nl/goed-om-weten/hier-staan-we-voor.html
 tijdslijn:
-    nl:  /nl/tijdslijn.html
+    nl:  /nl/goed-om-weten/tijdslijn.html
+praktisch:
+    nl:  /nl/goed-om-weten/praktisch.html
 
 
 # [2] menu - overnachten
