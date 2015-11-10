@@ -5,7 +5,7 @@ preview:
     title: Trekkersplaats 10x8
     button:
         price: 20
-        for: /prs /n
+        for: per nacht
     list:
         - "voor trekcaravan of mobilhome"
         - "afmetingen: 10x8 meter"

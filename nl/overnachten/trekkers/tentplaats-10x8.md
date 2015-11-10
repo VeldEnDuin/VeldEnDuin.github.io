@@ -5,7 +5,7 @@ preview:
     title: Tentplaats 10x8
     button:
         price: 20
-        for: /persoon /nacht
+        for: per nacht
         
     list:
         - "geschikt voor familietenten"
