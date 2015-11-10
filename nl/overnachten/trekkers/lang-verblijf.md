@@ -4,7 +4,7 @@ title: Residentiële trekkers
 preview: 
     title: Residentiële trekkers
     button:
-        price: 20
+        price: 1500
         for: per jaar
     list:
         - "het hele jaar door genieten"

@@ -10,8 +10,8 @@ icon: info-sign
 ##PRAKTISCHE INFO
 
 ###Betalingsvoorwaarden
-- Voorschot: 25% binnen de 10 dagen na reservatie.
-- Saldo: uiterlijk 14 dagen voor start verblijf.
+- voorschot: 25% binnen de 10 dagen na reservatie
+- saldo: uiterlijk 14 dagen voor start verblijf
 
 De reservatie is pas definitief na ontvangst van het voorschot.
 
@@ -28,8 +28,8 @@ Annulatievoorwaarden: [Allianz][pdf.nl].
 
 
 ###Aankomst-en vertrekregeling
-- Aankomst: vanaf 14 u - indien buiten de openingsuren receptie, vooraf verwittigen aub.
-- Vertrek: voor 10 u.
+- aankomst: vanaf 14 u - indien buiten de openingsuren receptie, graag vooraf verwittigen 
+- vertrek: voor 10 u
 
 ###Openingsuren receptie
 

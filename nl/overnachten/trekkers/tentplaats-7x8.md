@@ -5,7 +5,7 @@ preview:
     title: Tentplaats 7x8
     button:
         price: 18
-        for: /persoon /nacht
+        for: per nacht
         
     list:
         - "afmetingen: 7x8 meter"

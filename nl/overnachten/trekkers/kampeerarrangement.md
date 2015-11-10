@@ -4,8 +4,8 @@ title: Kampeerarrangement 10x8
 preview: 
     title: Kampeerarrangement
     button:
-        price: 20
-        for: /prs /n
+        price: 290
+        for: per mnd
     list:
         - "1 maand of meer"
         - "afmetingen: 10x8 meter"
