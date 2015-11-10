@@ -12,9 +12,8 @@ preview:
         - "onbeperkt geldig"
         
 images:
-    - /img/ingang.jpg
-    - /img/stacaravan.jpg
-    - /img/trekker.jpg
+    - /img/overnachten/arrangementen-cado/arrcado-01.jpg
+    
 ---
 
 {% include links.md %}

@@ -12,9 +12,9 @@ preview:
         - "tapas"
         
 images:
-    - /img/ingang.jpg
-    - /img/stacaravan.jpg
-    - /img/trekker.jpg
+    - /img/overnachten/arrangementen-romzee/arrromzee-01.jpg
+    
+    
 ---
 
 {% include links.md %}

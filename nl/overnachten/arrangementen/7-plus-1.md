@@ -12,9 +12,8 @@ preview:
         - "extra genieten"
         
 images:
-    - /img/ingang.jpg
-    - /img/stacaravan.jpg
-    - /img/trekker.jpg
+    - /img/overnachten/arrangementen-7plus1/arr7plus1-01.jpg
+    
 ---
 
 {% include links.md %}
