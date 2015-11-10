@@ -12,9 +12,8 @@ preview:
         - "gemiddelde opp: 120 m²"
         
 images:
-    - /img/ingang.jpg
-    - /img/stacaravan.jpg
-    - /img/trekker.jpg
+    - /img/overnachten/residentieel-type2/restyp2-01.jpg
+    
 ---
 
 {% include links.md %}

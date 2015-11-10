@@ -13,7 +13,23 @@ preview:
         - "dichtbij sanitair"
         - "afmetingen: 10x8 meter"
 images:
+    - /img/overnachten/trekkers-tent-10x8/tent10x8-01.jpg
+    - /img/overnachten/trekkers-tent-10x8/tent10x8-02.jpg
+    - /img/overnachten/trekkers-tent-10x8/tent10x8-03.jpg
+    - /img/overnachten/trekkers-tent-10x8/tent10x8-04.jpg
+    - /img/overnachten/trekkers-tent-10x8/tent10x8-05.jpg
+    - /img/overnachten/trekkers-tent-10x8/tent10x8-06.jpg
+    - /img/overnachten/trekkers-tent-10x8/tent10x8-07.jpg
+    - /img/overnachten/trekkers-tent-10x8/tent10x8-08.jpg
+    - /img/overnachten/trekkers-tent-10x8/tent10x8-09.jpg
+    - /img/overnachten/trekkers-tent-10x8/tent10x8-10.jpg
+    
+    
+insert:
+    - page-images-top
+    
 ---
+
 {% include links.md %}
 
 ## TENTPLAATSEN 10x8

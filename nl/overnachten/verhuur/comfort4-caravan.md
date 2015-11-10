@@ -13,10 +13,18 @@ preview:
         - "caravan 9x3,7 m"
 
 images:
-    - /img/ingang.jpg
-    - /img/stacaravan.jpg
-    - /img/trekker.jpg
-
+    - /img/overnachten/verhuring-C4-caravan/c4c-01.jpg
+    - /img/overnachten/verhuring-C4-caravan/c4c-02.jpg
+    - /img/overnachten/verhuring-C4-caravan/c4c-03.jpg
+    - /img/overnachten/verhuring-C4-caravan/c4c-04.jpg
+    - /img/overnachten/verhuring-C4-caravan/c4c-05.jpg
+    - /img/overnachten/verhuring-C4-caravan/c4c-06.jpg
+    - /img/overnachten/verhuring-C4-caravan/c4c-07.jpg
+    - /img/overnachten/verhuring-C4-caravan/c4c-08.jpg
+    - /img/overnachten/verhuring-C4-caravan/c4c-09.jpg
+    - /img/overnachten/verhuring-C4-caravan/c4c-10.jpg
+    
+    
 insert:
     - page-images-top
 

@@ -13,9 +13,16 @@ preview:
         - "36 m²"
 
 images:
-    - /img/ingang.jpg
-    - /img/stacaravan.jpg
-    - /img/trekker.jpg
+    - /img/overnachten/verhuring-ST-chalet/stch-01.jpg
+    - /img/overnachten/verhuring-ST-chalet/stch-02.jpg
+    - /img/overnachten/verhuring-ST-chalet/stch-03.jpg
+    - /img/overnachten/verhuring-ST-chalet/stch-04.jpg
+    - /img/overnachten/verhuring-ST-chalet/stch-05.jpg
+    - /img/overnachten/verhuring-ST-chalet/stch-06.jpg
+    - /img/overnachten/verhuring-ST-chalet/stch-07.jpg
+    - /img/overnachten/verhuring-ST-chalet/stch-08.jpg
+    - /img/overnachten/verhuring-ST-chalet/stch-09.jpg
+    - /img/overnachten/verhuring-ST-chalet/stch-10.jpg
     
 insert:
     - page-images-top
