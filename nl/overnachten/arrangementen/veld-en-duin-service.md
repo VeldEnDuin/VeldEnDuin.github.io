@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Veld & Duin service
+title: "Veld & Duin service"
 preview: 
-    title: Veld & Duin service
+    title: "Veld & Duin service"
     button:
         price: 50
         for: arrangement
@@ -20,7 +20,7 @@ images:
 {% include links.md %}
 
 
-##Veld & Duin service
+## Veld & Duin service
 
 Om optimaal te kunnen genieten van uw verblijf, bieden wij dit servicepakket aan. Dit geeft u de ruimte om maximaal tijd te maken voor al die zaken waar u tijdens het jaar niet aan toe komt.
 

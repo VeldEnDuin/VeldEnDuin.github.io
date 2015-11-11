@@ -1,7 +1,7 @@
 - linkcode: info
   menutekst:
-    nl: Goed om weten
-   submenu:
+     nl: Goed om weten
+  submenu:
     - linkcode: troeven
       menutekst:
         nl: Onze troeven
@@ -70,7 +70,7 @@
       submenu:
         - linkcode: arrangementen
         - linkcode: 7_plus_1
-        - linkcode: 14_plus_1
+        - linkcode: 14_plus_2
         - linkcode: veld_duin_service
         - linkcode: romantiek_aan_zee
         - linkcode: kadobon

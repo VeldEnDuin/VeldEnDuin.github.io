@@ -94,11 +94,12 @@ type_4:
 14_plus_2:
     nl: /nl/overnachten/arrangementen/14-plus-2.html
 veld_duin_service:
-    nl: /nl/overnachten/arrangementen/Veld&Duin-service.html
+    nl: /nl/overnachten/arrangementen/veld-en-duin-service.html
 romantiek_aan_zee:
     nl: /nl/overnachten/arrangementen/romantiek-aan-zee.html
 kadobon:
     nl: /nl/overnachten/arrangementen/kadobon.html
+
 
 
 # [3] menu - voorzieningen
