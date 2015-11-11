@@ -1,22 +1,30 @@
-- linkcode: info
+- linkcode: onze_troeven
   menutekst:
      nl: Goed om weten
   submenu:
-    - linkcode: troeven
+    - linkcode: onze_troeven
       menutekst:
-        nl: Onze troeven
+        nl: onze troeven
 
-    - linkcode: hier-staan-we-voor
+    - linkcode: hier_staan_we_voor
       menutekst:
-        nl: Hier staan we voor
-
-    - linkcode: tijdslijn
-      menutekst:
-        nl: Tijdslijn
+        nl: hier staan we voor
+      submenu:
+        - linkcode: rust
+        - linkcode: groen
+        - linkcode: iedereen_welkom
+        - linkcode: hondvriendelijk
+        - linkcode: kwaliteit
+        - linkcode: fietsvriendelijk
 
     - linkcode: praktisch
       menutekst:
-        nl: Praktisch
+        nl: praktisch
+
+    - linkcode: tijdslijn
+      menutekst:
+        nl: tijdslijn
+
 
 - linkcode: verhuur
   menutekst:

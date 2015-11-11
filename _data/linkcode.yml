@@ -23,8 +23,22 @@ news:
 # [1] menu - goed om weten
 onze_troeven:
     nl:  /nl/goed-om-weten/onze-troeven.html
+
 hier_staan_we_voor:
     nl:  /nl/goed-om-weten/hier-staan-we-voor.html
+fietsvriendelijk:
+    nl:  /nl/goed-om-weten/hier-staan-we-voor/fietsvriendelijk.html
+groen:
+    nl:  /nl/goed-om-weten/hier-staan-we-voor/groen.html
+kwaliteit:
+    nl:  /nl/goed-om-weten/hier-staan-we-voor/kwaliteit.html
+hondvriendelijk:
+    nl:  /nl/goed-om-weten/hier-staan-we-voor/hondvriendelijk.html
+rust:
+    nl:  /nl/goed-om-weten/hier-staan-we-voor/rust.html
+iedereen_welkom:
+    nl:  /nl/goed-om-weten/hier-staan-we-voor/iedereen-welkom.html
+
 tijdslijn:
     nl:  /nl/goed-om-weten/tijdslijn.html
 praktisch:
@@ -140,10 +154,3 @@ fotos:
 # [6] menu pdf
 pdf_allianz:
     nl: /nl/pdf/allianz-algemene-voorwaarden.pdf
-
-# [* ] losse content - alleen interne links en taal-koppeling
-fietslabel:
-    nl:  /nl/voorzieningen/fietsvriendelijk.html
-
-qlabel:
-    nl:  /nl/overnachten/qlabel.html

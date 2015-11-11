@@ -1,0 +1,4 @@
+---
+title: Praktisch
+layout: page
+---

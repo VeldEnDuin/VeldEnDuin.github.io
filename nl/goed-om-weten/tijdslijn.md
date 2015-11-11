@@ -1,5 +1,5 @@
 ---
-title: Veld & Duin door de jaren heen
+title: Tijdslijn
 layout: group
 data: tijdslijn
 ---
