@@ -16,7 +16,7 @@ TODO
   
   - tussenlijn per jaar --> doen grid behouden
   
-  - detail van 1 pic --> makkelijk sharen via social media --> hyperlink met direct-access is nog nodig!
+  - detail van 1 pic --> makkelijk sharen via social media --> hyperlink met direct-access is nog nodig!  + meteen maken dat ook #! link voor album mogelijk is #!albumid,picsid #!albumid #!,picsid
   
   - joke: maakt link-back icon om van 1 album terug te keren naar browse van alle albums
   

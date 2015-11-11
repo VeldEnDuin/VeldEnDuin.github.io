@@ -1,5 +1,38 @@
-// OUDE VERSIE - BIJGEHOUDEN OM IN REFACTORING NAAR TE KUNNEN TERUGGRIJPEN
-// 2015-11-11
+/*
+This is free and unencumbered software released into the public domain.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
+
+In jurisdictions that recognize copyright laws, the author or authors
+of this software dedicate any and all copyright interest in the
+software to the public domain. We make this dedication for the benefit
+of the public at large and to the detriment of our heirs and
+successors. We intend this dedication to be an overt act of
+relinquishment in perpetuity of all present and future rights to this
+software under copyright law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+For more information, please refer to <http://unlicense.org/>
+*/
+
+/**************************************************************************
+ * Name:   gpAlbumViewer
+ * Copyright (c) 2015
+ * Author: Marc Portier <marc.portier@gmail.com>
+ **************************************************************************
+ * Small thingy to load images from a (public) google-album and show those
+ * on your site. Uses HTML5 cache to speed up things and avoid load.
+ */
 
 
 (function ($) {
@@ -13,6 +46,14 @@
         return (a === null || a === undefined || (a.hasOwnProperty("length") && a.length === 0));
     }
 
+    /*
+     * Check for dependency
+     * =======================================================================
+     */
+    var moment = window.moment;
+    if (isEmpty(moment)) {
+        throw "this will not work without moment.js library! get it from http://momentjs.com";
+    }
 
     /*
      * jquery stuff I like to use
@@ -56,12 +97,20 @@
         };
     }
 
+    /**
+    SimpleCache is a simple memory mechanism to store objects. It follows the signatures of the LocalStorage so it can act as a replacement. This one doesn't remember stuff across sessions though.
+    */
+    function SimpleCache() {
+        this.mem = {};
+    }
+    SimpleCache.prototype.getItem = function (key) {
+        return this.mem[key];
+    };
+    SimpleCache.prototype.setItem = function (key, val) {
+        this.mem[key] = val;
+    };
 
-    /*
-     * standard cache stuff
-     * =======================================================================
-     */
-
+    /** Helper function to decide which kind of cache we can use */
     function hasLocalStorage() {
         try {
             return window.hasOwnProperty('localStorage') && window.localStorage !== null;
@@ -69,53 +118,189 @@
             return false;
         }
     }
-    function getCache(key, empty) {
-        var result = empty,
-            json;
-        if (hasLocalStorage()) {
-            json = window.localStorage.getItem(key);
-            if (json && json.length > 0) {
-                try {
-                    result = JSON.parse(json);
-                } catch (e) { }  // bad object that can't be parsed, so just ignore
+
+    /**
+    JSONCache decorates a simple cache to automatically store json-serialized versions.
+    Also enhances the signature to allow for production-function to be passed in.
+    */
+    function JSONCache(original) {
+        //TODO !IMPORTANT -- there is need for some cache invalidation mechanism!
+        // --> passing in external validatefn seems most flexible
+
+        this.original = original;
+        if (this.original === undefined || this.original === null) {
+            if (!hasLocalStorage) {
+                this.original = new SimpleCache();
             }
+            this.original = window.localStorage;
         }
-        return result;
     }
-    function putCache(key, data) {
-        var json;
-        if (hasLocalStorage()) {
-            json = JSON.stringify(data);
-            window.localStorage.setItem(key, json);
+    JSONCache.prototype.getItem = function (key, cb, producer) {
+        var result, json, me = this;
+        json = this.original.getItem(key);
+        if (!isEmpty(json)) {
+            try {
+                result = JSON.parse(json);
+            } catch (e) {} // just ignore objects that can't be parsed
         }
-        return data;
+        if (!isEmpty(result)) {
+            return cb(result);
+        } // else
+        producer(function (data) {
+            result = data;
+            me.setItem(key, result);
+            return cb(result);
+        });
+    };
+
+    JSONCache.prototype.setItem = function (key, val) {
+        var json = JSON.stringify(val);
+        this.original.setItem(key, json);
+    };
+
+    function standardCache() {
+        return new JSONCache();
     }
-    /*
-     * TODO - concurrency
-     * http://stackoverflow.com/questions/4671852/how-to-bind-to-localstorage-change-event-using-jquery-for-all-browsers
-     * only other windows will get updates
-     * --> this suggests multiple windows could use the event!
-     * --> this also suggest we have to handle multiple windows working on the central localStorage (locking?)
-     *     see http://balpha.de/2012/03/javascript-concurrency-and-locking-the-html5-localstorage/
-     *     and https://bitbucket.org/balpha/lockablestorage/src/96b7ddb1962334cde9c647663d0053ab640ec5a1/lockablestorage.js?at=default
-     * anyway: least we do is create a jquery event like this to both handle the originating and the listening windows!
-     *
-     *
-     * Seems a bit overkill maybe for what we should do:
-     *   - first process in a given time-slot should load the data
-     *     (all others should take what is there and listen for the change-event)
-     *
-     */
 
 
-    /*
-     * Check for dependency
-     * =======================================================================
-     */
-    var moment = window.moment;
-    if (isEmpty(moment)) {
-        throw "this will not work without moment.js library! get it from http://momentjs.com";
+    /**
+    ViewState holds what the viewer is currently displaying
+    */
+    function ViewState(albid, picid) {
+        this.albid = albid;
+        this.picid = picid;
     }
+    ViewState.parts2hash = function (a, p) {
+        return "#!" + [a, p].join(',');
+    };
+    ViewState.hash2parts = function (hash) {
+        if (hash.indexOf("#!") !== 0) {
+            throw "bad hash format";
+        }
+        hash = hash.slice(2);
+        return hash.split(',');
+    };
+    ViewState.fromHash = function (hash) {
+        var parts = ViewState.hash2parts(hash);
+        return new ViewState(parts[0], parts[1]);
+    };
+    ViewState.prototype.asHash = function () {
+        return ViewState.parts2hash(this.albid, this.picid);
+    };
+
+    function imageMaxSize(config) {
+        var dim = Math.max(window.screen.width, window.screen.height),
+            max = 0;
+        config.imgsizes.forEach(function (size) {
+            if (dim > size) {
+                max = Math.max(max, size);
+            }
+        });
+        return max;
+    }
+
+    /**
+    Gallery is a service that organizes pictures in albums, two variants
+    - GPGallery (GooglePlus-Gallery)
+    - CachedGallery (Caching already retrieved sets)
+    */
+    function GPGallery(config) {
+        this.base = config.serviceUri;
+        this.owner = config.account;
+        this.imgmax = imageMaxSize(config);
+        this.thumbsize = config.thumbsize;
+        this.cacheKeyPrefix = config.cacheKeyPrefix;
+        if (isEmpty(this.base) || isEmpty(this.owner)) {
+            throw "GPGallery needs base and owner";
+        }
+    }
+    GPGallery.prototype.cacheKey = function (albid) {
+        var keyparts = [this.cacheKeyPrefix, this.owner];
+        if (albid !== undefined && albid !== null) {
+            keyparts.push(albid);
+        }
+        return keyparts.join('.');
+    };
+
+    //https://developers.google.com/picasa-web/docs/2.0/developers_guide_protocol
+    GPGallery.getAPIUri = function (type, albid) {
+        var uri = String(this.base);
+        if (type) {
+            uri += '/user/' + this.owner;
+            if (albid) {
+                uri += '/albumid/' + albid;
+            }
+            uri += '?kind=' + type + '&access=visible';
+            if (type === "photo") {
+                uri += '&imgmax=' + this.imgmax;
+            }
+            uri += '&alt=json-in-script&thumbsize=' + this.thumbsize + 'c';
+            uri += '&callback=?';
+        }
+
+        return uri;
+    };
+
+    GPGallery.prototype.getAlbumList = function (cb) {
+        $.getJSON(this.getAPIUri('album'), function (response) {
+            var data = {};
+            data.albumSet = {};
+
+            response.feed.entry.forEach(function (aItem) {
+                var id = aItem.gphoto$id.$t,
+                    name = aItem.title.$t;
+                data.albumSet[id] = {
+                    "updated"  : moment(aItem.updated.$t).valueOf(),
+                    "title"    : name,
+                    "numpics"  : aItem.gphoto$numphotos.$t,
+                    "thumbnail": aItem.media$group.media$thumbnail[0].url,
+                    "description": aItem.media$group.media$description.$t
+                };
+            });
+            data.lastmodified = moment().valueOf();
+            cb(data);
+        });
+    };
+
+    GPGallery.prototype.getPictureList = function (albid, cb) {
+        $.getJSON(this.getAPIUri('photo', albid), function (response) {
+            var data = {};
+            data.photoList = [];
+
+            response.feed.entry.forEach(function (pItem) {
+                data.photoList.push({
+                    "content"  : pItem.media$group.media$content[0].url,
+                    "thumbnail": pItem.media$group.media$thumbnail[0].url,
+                    "caption"  : pItem.media$group.media$description.$t
+                });
+            });
+
+            data.lastmodified = moment().valueOf();
+            cb(data);
+        });
+    };
+
+
+    function CachedGallery(gallery, cache) {
+        if (isEmpty(gallery)) {
+            throw "cached gallery needs a fallback real gallery!";
+        }
+        this.gallery = gallery;
+        this.cache = cache || standardCache();
+    }
+    CachedGallery.prototype.getAlbumList = function (cb) {
+        var key = this.gallery.cacheKey(), me = this;
+        return this.cache.getItem(key, cb, function (icb) {
+            me.gallery.getAlbumList(icb);
+        });
+    };
+    CachedGallery.prototype.getPictureList = function (albid, cb) {
+        var key = this.gallery.cacheKey(albid), me = this;
+        return this.cache.getItem(key, cb, function (icb) {
+            me.gallery.getPictureList(albid, icb);
+        });
+    };
+
 
 
     /*
@@ -188,24 +373,27 @@
      * The real stuff
      * =======================================================================
      */
-    function GpAlbum($elm, config) {
+    function GpAlbumViewer($elm, config) {
 
         var $w = $(window), sizeUp,
             me = this;
 
-        this.config = jqMerge(GpAlbum.config, config);
+        this.config = jqMerge(GpAlbumViewer.config, config);
 
         if (isEmpty($elm) || $elm.length !== 1) {
             throw "this will not work without a non-empty single-element jquery wrapper";
         }
         if (isEmpty(this.config.account)) {
-            throw "this will not work without the gp account-id";
+            throw "this will not work without the gp Albumaccount-id";
         }
 
-        this.albums = {};
-        this.albumList = undefined;
-        this.albumMatch = makeMatchFn(this.config.albumspec);
-        this.showingId = ""; // none --> full list!
+        this.gallery = new CachedGallery(new GPGallery(this.config));
+        this.albListFull = {};
+        this.matchingAlbumIds = [];
+        this.picList = {};
+
+        this.albMatchFn = makeMatchFn(this.config.albumspec);
+        this.viewState = new ViewState(); // none --> full list!
 
         this.$album = $elm.css("overflow", "hidden");
         jqEnableEvent($elm, 'heightUpdated');
@@ -215,231 +403,103 @@
         sizeUp = makeSizeAdaptFn(this.config.dimensions, $elm);
         $w.resize(sizeUp).trigger("resize");
 
-        $elm.data('gpAlbum', this);
+        $elm.data('gpAlbumViewer', this);
 
-        jqEnableEvent($elm, 'contentUpdated');
-        $(window).bind('storage', function (e) {
-            // for events coming from other windows that are open and could see the update
-console.log("local storage update from other window on key == " + e.originalEvent.key);
-
-            var matchResponse = me.matchCacheKey(e.originalEvent.key);
-            if (matchResponse !== undefined) {
-                me.updateContent(matchResponse.id,
-                                 JSON.parse(e.originalEvent.newValue)); //propagate event
-            }
+        // load data, and when it is there --> render
+        this.init(function () {
+            me.showAlbList();
         });
-
-        this.$album.contentUpdated(function (evt, data) {
-console.log("contentUpdated - data ==>", data);
-            me.render(data.id);
-        });
-
-        // load data
-        this.load();
     }
 
-    GpAlbum.prototype.updateContent = function (id, content) {
-console.log("updateContent - id = %s, content  ==>", id, content);
-        var me = this;
-        if (isEmpty(id)) {
-            if (!isEmpty(content)) {
-                this.albumList = content;
-                this.matchingAlbumIds = [];
-                if (content !== undefined && content.albumSet !== undefined) {
-                    Object.keys(content.albumSet).forEach(function (albumId) {
-                        var name = content.albumSet[albumId].title;
-                        if (me.albumMatch(albumId, name)) {
-                            me.matchingAlbumIds.push(albumId);
+
+    GpAlbumViewer.prototype.init = function (cb) {
+
+        var me = this, albid;
+        this.gallery.getAlbumList(function (alblist) {
+            me.albListFull = alblist;
+
+            if (!isEmpty(alblist.albumSet)) {
+                me.matchingAlbumIds = [];
+                Object.keys(alblist.albumSet).forEach(function (albid) {
+                    var albname = alblist.albumSet[albid].title;
+                    if (me.albMatchFn(albid, albname)) {
+                        me.matchingAlbumIds.push(albid);
+                    }
+                });
+            }
+
+            // todo: check initial hash to decide what to do now
+            /*
+
+                    //read the fragment-identifier and call the toggleActive(grp)
+                    function followHash() {
+                        if (location.hash && location.hash.length > 1) {
+                            toggleActive(location.hash.slice(1));
+                        } else {
+                            toggleActive();
                         }
-                        me.albums[albumId] = getCache(albumId);
-                    });
-                }
-            }
-        } else {
-            this.albums[id] = content;
-        }
-        this.$album.contentUpdated({"id": id, "content": content});
-    };
+                    }
+                    $(window).on('hashchange', followHash);
+                    followHash();
 
-    GpAlbum.prototype.getContent = function (id) {
-        if (isEmpty(id)) {
-            return this.albumList;
-        } else {
-            return this.albums[id];
-        }
-    };
 
-    GpAlbum.prototype.cacheKey = function (albumId) {
-        var keys = [this.config.cacheKeyPrefix, this.config.account];
-        if (!isEmpty(albumId)) {
-            albumId = String(albumId);
-            if (albumId.length > 0) {
-                keys.push(albumId);
-            }
-        }
-        return keys.join('.');
-    };
+            */
 
-    GpAlbum.prototype.matchCacheKey = function (key) {
-        var leadKey = this.cacheKey(),
-            id = "";
+            // else go into "normal" mode
+            if (me.matchingAlbumIds.length === 1) {
+                // if the filtered list has length 1
+                // then go load that album --> go into view-single album --> and finally render that
+                albid = me.matchingAlbumIds[0];
+                me.loadAlbum(albid, function() {
+                    me.showAlbum(albid);
+                });
 
-        if (key.search(leadKey) !== 0) {
-            return; //undefined match-response since no match key
-        }
-
-        if (key.length > leadKey.length) {
-            id = key.slice(leadKey.length + 1); // albumId
-        }
-
-        return {"id": id};
-    };
-
-    GpAlbum.prototype.getCache = function (albumId) {
-        var EMPTY = { "photoList": [], "lastmodified": null };
-        if (isEmpty(albumId)) {
-            EMPTY = { "albumSet": {}, "lastmodified": null };
-        }
-        return getCache(this.cacheKey(albumId), EMPTY);
-    };
-
-    GpAlbum.prototype.putCache = function (albumId, data) {
-console.log("putCache albumId = %s, data ==>", albumId, data);
-        var cached = putCache(this.cacheKey(albumId), data);
-        this.updateContent(albumId, cached); // fire-event!
-        return cached;
-    };
-
-    GpAlbum.prototype.getMaxImgSize = function () {
-        var dim = Math.max(window.screen.width, window.screen.height),
-            max = 0;
-        this.config.imgsizes.forEach(function (size) {
-            if (dim > size) {
-                max = Math.max(max, size);
+            } else {
+                // do whatever the top level expected
+                cb();
             }
         });
-        return max;
     };
 
-
-
-    GpAlbum.prototype.load = function () {
-
-        var base = this.config.serviceUri,
-            imgmax = this.getMaxImgSize(),
-            thumbsize = this.config.thumbsize,
-            account = this.config.account,
-            albumId,
-            me = this;
-
-        //https://developers.google.com/picasa-web/docs/2.0/developers_guide_protocol
-        function getAPIUri(type, user, album) {
-            var uri = String(base);
-            if (type) {
-                if (user) {
-                    uri += '/user/' + user;
-                    if (album) {
-                        uri += '/albumid/' + album;
-                    }
-                }
-                uri += '?kind=' + type + '&access=visible';
-                if (type === "photo") {
-                    uri += '&imgmax=' + imgmax;
-                }
-                uri += '&alt=json-in-script&thumbsize=' + thumbsize + 'c';
-                uri += '&callback=?';
-            }
-
-            return uri;
+    GpAlbumViewer.prototype.loadAlbum = function (albid, cb) {
+        var me = this, alb = this.albListFull.albumSet[albid];
+        if (isEmpty(alb)) {
+            throw "unexpected album loaded should have metadata available already"
         }
-
-        function albumList(user, cb) {
-            $.getJSON(getAPIUri('album', user), function (response) {
-                var data = {};
-                data.albumSet = {};
-
-                response.feed.entry.forEach(function (aItem) {
-                    var id = aItem.gphoto$id.$t,
-                        name = aItem.title.$t;
-                    data.albumSet[id] = {
-                        "updated"  : moment(aItem.updated.$t).valueOf(),
-                        "title"    : name,
-                        "numpics"  : aItem.gphoto$numphotos.$t,
-                        "thumbnail": aItem.media$group.media$thumbnail[0].url,
-                        "description": aItem.media$group.media$description.$t
-                    };
-
-                });
-                data.lastmodified = (new Date()).valueOf();
-                cb(data);
-            });
+        if (isEmpty(alb.photoList) {
+            this.gallery.getPictureList(albid, function(piclist) {
+                alb.photoList = piclist.photoList;
+                cb();
+            })
+        } else {
+            cb();
         }
-
-        function photoList(user, album, cb) {
-            $.getJSON(getAPIUri('photo', user, album), function (response) {
-                var data = {};
-                data.photoList = [];
-
-                response.feed.entry.forEach(function (pItem) {
-                    data.photoList.push({
-                        "content"  : pItem.media$group.media$content[0].url,
-                        "thumbnail": pItem.media$group.media$thumbnail[0].url,
-                        "caption"  : pItem.media$group.media$description.$t
-                    });
-                });
-
-                data.lastmodified = (new Date()).valueOf();
-                cb(data);
-            });
-        }
-
-        function loadFromCache(id) {
-console.log("loadFromCache id=%s", id);
-            var content = me.getCache(id);
-            if (!isEmpty(content)) {
-                me.updateContent(id, content);
-            }
-        }
-
-        loadFromCache("");
-        if (me.matchingAlbumIds.length === 1) {
-            albumId = me.matchingAlbumIds[0];
-            loadFromCache(albumId);
-        }
-        
-        function doLoad() {
-            // TODO load albumList for account and process that
-            albumList(account, function (aList) {
-                me.putCache("", aList);
-                me.showingId = me.matchingAlbumIds.length === 0 ? me.matchingAlbumIds[0] : "";
-
-                if (me.showingId !== "") {
-                    var cachedAlbum = me.albums[albumId], emptyCache = true, staleCache = true;
-
-                    if (!isEmpty(cachedAlbum)) {
-                        emptyCache = (isEmpty(cachedAlbum.lastmodified) || isEmpty(cachedAlbum.photoList));
-                        staleCache = cachedAlbum.lastmodified < aList.albumSet[albumId].updated;
-                    }
-
-                    if (emptyCache || staleCache) {
-                        photoList(account, albumId, function (pList) {
-                            me.putCache(albumId, pList);
-                        });
-                    } // else no need to load this album
-                }
-            });
-        }
-
-
-        window.setTimeout(doLoad, 0);
-        return;
     };
+
+    GpAlbumViewer.prototype.showAlbList = function () {
+        //set view state
+        //update hash --> window.location.hash = !albid,picid
+        //render
+    };
+
+    GpAlbumViewer.prototype.showAlbum = function (albid) {
+        //set view state
+        //update hash --> window.location.hash = !albid,
+        //render
+    };
+
+    GpAlbumViewer.prototype.showPicture = function (albid, picid) {
+        //setview state
+        //update hash --> window.location.hash = !albid,picid
+        //render
+    };
+
 
     /*
      * Renderstrategies
      * ======================================================================
      */
-    GpAlbum.RenderStrategy = {};
+    GpAlbumViewer.RenderStrategy = {};
 
 
     /*
@@ -466,7 +526,7 @@ console.log("loadFromCache id=%s", id);
 
             this.$elm.html(html);
         };
-        GpAlbum.RenderStrategy.echo = EchoRenderStrategy;
+        GpAlbumViewer.RenderStrategy.echo = EchoRenderStrategy;
     }());
 
     /*
@@ -675,7 +735,7 @@ console.log("loadFromCache id=%s", id);
             this.show();
         };
 
-        GpAlbum.RenderStrategy.play = PlayRenderStrategy;
+        GpAlbumViewer.RenderStrategy.play = PlayRenderStrategy;
     }());
 
 
@@ -721,7 +781,7 @@ console.log("loadFromCache id=%s", id);
             this.$album.html('').append($carousel);
             this.sizeUp();
         };
-        GpAlbum.RenderStrategy.carousel = CarouselRenderStrategy;
+        GpAlbumViewer.RenderStrategy.carousel = CarouselRenderStrategy;
     }());
 
     /*
@@ -751,11 +811,11 @@ console.log("loadFromCache id=%s", id);
                 this.$album.html(html);
             }
         };
-        GpAlbum.RenderStrategy.strip = StripRenderStrategy;
+        GpAlbumViewer.RenderStrategy.strip = StripRenderStrategy;
     }());
 
-    
-    
+
+
     /*
      *   render strategy 'browser' : for debugging
      *   ------------------------------------------------------------------
@@ -780,18 +840,18 @@ console.log("loadFromCache id=%s", id);
 
             this.$elm.html(html);
         };
-        GpAlbum.RenderStrategy.browser = BrowserRenderStrategy;
+        GpAlbumViewer.RenderStrategy.browser = BrowserRenderStrategy;
     }());
 
 
-    GpAlbum.prototype.getRenderer = function () {
+    GpAlbumViewer.prototype.getRenderer = function () {
         if (isEmpty(this.renderer)) {
-            this.renderer = new GpAlbum.RenderStrategy[this.config.render](this);
+            this.renderer = new GpAlbumViewer.RenderStrategy[this.config.render](this);
         }
         return this.renderer;
     };
 
-    GpAlbum.prototype.render = function (updateId) {
+    GpAlbumViewer.prototype.render = function (updateId) {
         var me = this,
             albumId = this.matchingAlbumIds[0],
             render = me.getRenderer(),
@@ -807,7 +867,7 @@ console.log("RENDER // updateId = %s, albumId = %s, content ==>", updateId, albu
         }
     };
 
-    GpAlbum.config = {
+    GpAlbumViewer.config = {
         "account"        : "NONE",
         "albumspec"      : "*",
         "cacheKeyPrefix" : "gp.album",
@@ -823,7 +883,7 @@ console.log("RENDER // updateId = %s, albumId = %s, content ==>", updateId, albu
      * jquery registration
      * =======================================================================
      */
-    jqDefine("gpAlbum", GpAlbum);
+    jqDefine("gpAlbumViewer", GpAlbumViewer);
 
 
 }(window.jQuery));

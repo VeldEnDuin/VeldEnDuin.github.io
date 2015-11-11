@@ -497,7 +497,7 @@
             render = data.render || "play";
             dims = data.dimensions;
 
-            vwr = $album.gpAlbum({"account": gpid, "albumspec": albumspec, "render": render, "dimensions": dims})[0];
+            vwr = $album.gpAlbumViewer({"account": gpid, "albumspec": albumspec, "render": render, "dimensions": dims})[0];
         });
     });
 }(window.jQuery));
