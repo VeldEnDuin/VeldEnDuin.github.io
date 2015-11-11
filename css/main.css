@@ -181,6 +181,7 @@ table.table>thead>tr>th {
     color: #fff;
     border-left-color: #fff;
     font-size: 1.1em;
+    text-transform: uppercase;
 }
 
 table.table>thead>tr>th:first-child,
@@ -215,7 +216,7 @@ table.table>tbody>tr>td:first-child
  * styling vd-layout-page sections
  *   -------------------------------------------------------------------------------
  */
-.vd-layout-page  h2 {
+.vd-layout-page  h1 {
     text-transform: uppercase;
 }
 

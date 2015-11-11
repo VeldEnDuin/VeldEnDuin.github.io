@@ -1,5 +1,5 @@
 ---
-title: Hier Staan We Voor
+title: Hier staan we voor
 layout: default
 
 class:
