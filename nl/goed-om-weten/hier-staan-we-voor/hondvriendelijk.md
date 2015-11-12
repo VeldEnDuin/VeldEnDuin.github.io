@@ -4,20 +4,35 @@ layout: page
 ---
 
 #Hondvriendelijk
-Uw hond is van harte welkom op de camping!
- Ook in de verhuurchalets en caravans zijn honden welkom, in de (luxe)appartementen is dit niet mogelijk. Maximum 2 honden per perceel - geen gevaarlijke rassen - 4 € / hond / nacht.
+Uw hond is van harte welkom op de camping!<br>
+Ook in de verhuurchalets en caravans zijn honden welkom, in de (luxe)appartementen is dit niet toegelaten.<br>
+
 
 ##Spelregels 
-Er zijn echter een aantal spelregels die moeten gevolgd om andere gasten niet te hinderen:
-huisdieren moeten op de camping op elk moment aan de lijn gehouden worden
-uitwerpselen moeten meteen opgeraapt worden
-honden moeten op hun eigen perceel blijven
-laat uw hond geen andere gasten storen
+Hondenbezitters zijn steeds verantwoordelijk voor hun hond. Hierbij zijn er een aantal spelregels die strikt moeten gevolgd worden zodat de andere gasten geen hinder ondervinden:
 
-###Hond uitlaten
+
+- huisdieren moeten op de camping steeds aan de lijn
+- uitwerpselen moeten meteen opgeraapt worden
+- honden moeten op hun eigen perceel blijven
+- maximum 2 honden per perceel
+- gevaarlijke rassen zijn niet toegelaten
+- huurders en trekkers betalen € 4 / hond / nacht
+
+
+##Hond uitlaten
 
 De hond uitlaten kan in het tegenoverliggende park Paelsteenveld of op het strand. 
-Hou er wel rekening mee dat er een aantal bepalingen vastgelegd werden:
-honden zijn toegelaten op het strand en in de duinen als ze aan de leiband worden gehouden
-van 1/7 tot 31/8 zijn honden  welkom op het strand en in de duinen (behalve de verharde paden) voor 10u30 en na 18u30. 
-uitzonderingen hondenverbod strand in de zomer: strandzones voorbij de Twins tot grens Oostende en de zone tussen post 6 en het naaktstrand 
+
+###Strand
+
+- 1/9 - 30/6: honden hele dag toegelaten op het strand en in de duinen
+- 1/7 - 31/8: honden zijn **niet welkom** op het strand en in de duinen (behalve de verharde paden) **voor 10u30 en na 18u30** 
+
+*Uitzonderingen hondenverbod strand tussen 1/7-31/8:*
+
+
+- strandzones voorbij de Twins tot grens Oostende
+- de zone tussen post 6 en het naaktstrand 
+
+Honden moeten ook op het strand en in de duinen aan de leiband worden gehouden.
