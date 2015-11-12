@@ -12,9 +12,9 @@ insert:
 
 # Draadloos internet
 
-Uiteraard wenst u uw familie en vrienden graag op de hoogte te houden van al het leuks dat er bij ons, in Bredene en omgeving te beleven valt!
+Post uw mooiste vakantiefoto en hou uw familie en vrienden op de hoogte van alle laatste vakantienieuwtjes.
 
-Dit kan via ons draadloos netwerk dat de hele camping beslaat. Het volstaat om een ticket te kopen aan de receptie en in te loggen op ons netwerk.
+Dit kan via ons draadloos netwerk dat over de hele camping bereikbaar is. Koop uw ticket aan de receptie, log in en u bent online!
 
 
 ## Prijzen
@@ -30,4 +30,4 @@ TIJD ONLINE         | PRIJS       |
 
 Ticket is bruikbaar voor 1 toestel.
 
-Bij het huren van een chalet, caravan of appartement, kunt u ook ons [arrangement ‘Veld & Duin service’][veld_duin_service.nl] boeken. Bij dit arrangement zijn onder andere 2 internettickets inbegrepen.
+Bij het huren van een chalet, caravan of appartement, kunt u ook ons [‘Veld & Duin service’ arrangement][veld_duin_service.nl] boeken. Dit omvat onder meer  2 tickets voor het internet voor de duur van uw verblijf.

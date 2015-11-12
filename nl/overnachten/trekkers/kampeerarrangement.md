@@ -4,15 +4,30 @@ title: Kampeerarrangement 10x8
 preview: 
     title: Kampeerarrangement
     button:
-        price: 20
-        for: /prs /n
+        price: 290
+        for: per mnd
     list:
         - "1 maand of meer"
         - "afmetingen: 10x8 meter"
         - "verschillende formules"
         - "speciale prijs lange periodes"
 images:
+    - /img/overnachten/trekkers-arr/kamparr-01.jpg
+    - /img/overnachten/trekkers-arr/kamparr-02.jpg
+    - /img/overnachten/trekkers-arr/kamparr-03.jpg
+    - /img/overnachten/trekkers-arr/kamparr-04.jpg
+    - /img/overnachten/trekkers-arr/kamparr-05.jpg
+    - /img/overnachten/trekkers-arr/kamparr-06.jpg
+    - /img/overnachten/trekkers-arr/kamparr-07.jpg
+    - /img/overnachten/trekkers-arr/kamparr-08.jpg
+    - /img/overnachten/trekkers-arr/kamparr-09.jpg
+    - /img/overnachten/trekkers-arr/kamparr-10.jpg
+    
+    
+insert:
+    - page-images-top
 ---
+
 {% include links.md %}
 
 ## Kampeerarrangementen

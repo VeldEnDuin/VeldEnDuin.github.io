@@ -4,15 +4,32 @@ title: Residentiële trekkers
 preview: 
     title: Residentiële trekkers
     button:
-        price: 20
+        price: 1500
         for: per jaar
     list:
         - "het hele jaar door genieten"
         - "80 m² plaatsen"
         - "beton-of grindplaatsen"
         - "sanitairvoorzieningen dichtbij"
+        
 images:
+    - /img/overnachten/trekkers-res/restr-01.jpg
+    - /img/overnachten/trekkers-res/restr-02.jpg
+    - /img/overnachten/trekkers-res/restr-03.jpg
+    - /img/overnachten/trekkers-res/restr-04.jpg
+    - /img/overnachten/trekkers-res/restr-05.jpg
+    - /img/overnachten/trekkers-res/restr-06.jpg
+    - /img/overnachten/trekkers-res/restr-07.jpg
+    - /img/overnachten/trekkers-res/restr-08.jpg
+    - /img/overnachten/trekkers-res/restr-09.jpg
+    - /img/overnachten/trekkers-res/restr-10.jpg
+    
+    
+insert:
+    - page-images-top
+
 ---
+
 {% include links.md %}
 
 ## RESIDENTIËLE TREKKERS

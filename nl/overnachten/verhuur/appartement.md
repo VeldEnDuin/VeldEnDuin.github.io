@@ -12,9 +12,17 @@ preview:
         - "zicht op duinen"
         - "65 m²"
 images:
-    - /img/stacaravan.jpg
-    - /img/ingang.jpg
-    - /img/trekker.jpg
+    - /img/overnachten/verhuring-C4pl-appartement/c4pla-01.jpg
+    - /img/overnachten/verhuring-C4pl-appartement/c4pla-02.jpg
+    - /img/overnachten/verhuring-C4pl-appartement/c4pla-03.jpg
+    - /img/overnachten/verhuring-C4pl-appartement/c4pla-04.jpg
+    - /img/overnachten/verhuring-C4pl-appartement/c4pla-05.jpg
+    - /img/overnachten/verhuring-C4pl-appartement/c4pla-06.jpg
+    - /img/overnachten/verhuring-C4pl-appartement/c4pla-07.jpg
+    - /img/overnachten/verhuring-C4pl-appartement/c4pla-08.jpg
+    - /img/overnachten/verhuring-C4pl-appartement/c4pla-09.jpg
+    - /img/overnachten/verhuring-C4pl-appartement/c4pla-10.jpg
+    
     
 insert:
     - page-images-top

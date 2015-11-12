@@ -18,7 +18,7 @@ Even een wasje tussendoor of alvast wat spullen wassen om die berg was bij thuis
 Hiervoor kunt u terecht op 3 plaatsen op de camping in onze professionele wasmachines en droogkasten:
 
 
-| toestellen               | prijs  |
+| toestel                  | prijs  |
 |--------------------------|:------:|
 | 2 wasmachines van 6 kilo | € 4,00 |
 | 1 wasmachine van 8 kilo  | € 5,50 |
@@ -26,6 +26,6 @@ Hiervoor kunt u terecht op 3 plaatsen op de camping in onze professionele wasmac
 | 1 droogkast van 8 kilo   | € 4,50 |
 
 
-Betaling met munten van € 0,50 € 1,00 of € 2,00.
+Betaling met munten van € 0,50; € 1,00 of € 2,00.
 
 Waspoeder (€ 1,70) en wasverzachter (€ 0,60)  verkrijgbaar aan de receptie.

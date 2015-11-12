@@ -6,7 +6,7 @@ banner: TODO - trigger tekst vanop VERHUUR page
 class:
     select: 
         list: "properties-grid"
-    
+
 preview:
     title: Zin om er even uit te zijn?
     text: 

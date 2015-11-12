@@ -1,4 +1,3 @@
----
 class:
   list: vd-group-grid
   item: col-lg-3 col-md-4 col-sm-6 col-xs-12
@@ -199,7 +198,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 100
+- ranking: 170
   location: 51.252213, 2.974759
   subgroups:
   - event
@@ -241,7 +240,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 170
+- ranking: 100
   location: 51.278736, 3.034791
   subgroups:
   - event
@@ -473,7 +472,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 20
+- ranking: 130
   location: 51.255187, 2.975755
   subgroups:
   - coast
@@ -700,11 +699,11 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 520
+- ranking: 145
   subgroups:
-  - recrea
+  - shopout
   images:
-  - "/img/doen/kust-markt.jpg"
+  - "/img/doen/kust-markt2.jpg"
   link:
     nl: http://www.dekust.be/proeven/markten
     fr: http://www.lelittoral.be/se-regaler/savourez-le-littoral/march%C3%A9s
@@ -927,7 +926,7 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 130
+- ranking: 20
   location: 51.208589, 2.861945
   subgroups:
   - coast
@@ -1097,6 +1096,7 @@ items:
 - ranking: 470
   subgroups:
   - shopout
+  - recrea
   images:
   - "/img/doen/bowling.jpg"
   link:

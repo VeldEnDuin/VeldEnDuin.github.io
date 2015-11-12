@@ -12,16 +12,17 @@ preview:
         - "vaatwasmachine"
         - "5-6 personen"
 images:
-    - /img/overnachten/verhuring-luxe-appartement/lx-01-living.jpg
-    - /img/overnachten/verhuring-luxe-appartement/lx-02-keuken.jpg
-    - /img/overnachten/verhuring-luxe-appartement/lx-03-slaapk.jpg
-    - /img/overnachten/verhuring-luxe-appartement/lx-04-badk.jpg
-    - /img/overnachten/verhuring-luxe-appartement/lx-05-terras.jpg
-    - /img/overnachten/verhuring-luxe-appartement/lx-06-slaapk.jpg
-    - /img/overnachten/verhuring-luxe-appartement/lx-07-living.jpg
-    - /img/overnachten/verhuring-luxe-appartement/lx-08-slaapk.jpg
-    - /img/overnachten/verhuring-luxe-appartement/lx-09-badk.jpg
-    - /img/overnachten/verhuring-luxe-appartement/lx-10-keuken.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-01.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-02.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-03.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-04.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-05.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-06.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-07.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-08.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-09.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-10.jpg
+    
 
 insert:
     - page-images-top

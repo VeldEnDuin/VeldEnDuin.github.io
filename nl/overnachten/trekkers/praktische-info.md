@@ -8,7 +8,7 @@ icon: info-sign
 
 {% include links.md %}
 
-# Practische info "trekkers"
+# PRAKTISCHE INFO
 
 ## Betalingsvoorwaarden
 - Voorschot: 25% binnen de 10 dagen na reservatie.

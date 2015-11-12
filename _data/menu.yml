@@ -1,37 +1,30 @@
-- linkcode: info
+- linkcode: onze_troeven
   menutekst:
-    nl: Goed om weten
-    fr: Bon à savoir
-    en: Good to know
-    de: Gut zu wissen
+     nl: Goed om weten
   submenu:
-    - linkcode: troeven
+    - linkcode: onze_troeven
       menutekst:
-        nl: Onze troeven
-        fr: Nos forces
-        en: Our strengths
-        de: Unsere Stärken
+        nl: onze troeven
 
-    - linkcode: hier-staan-we-voor
+    - linkcode: hier_staan_we_voor
       menutekst:
-        nl: Hier staan we voor
-        fr: Ce que nous représentons
-        en: What we stand for
-        de: Wofür wir stehen
+        nl: hier staan we voor
+      submenu:
+        - linkcode: rust
+        - linkcode: groen
+        - linkcode: iedereen_welkom
+        - linkcode: hondvriendelijk
+        - linkcode: kwaliteit
+        - linkcode: fietsvriendelijk
 
-    - linkcode: wie-zijn-we
+    - linkcode: praktisch
       menutekst:
-        nl: Wie zijn we
-        fr: Qui sommes-nous
-        en: Who we are
-        de: Wer wir sind
+        nl: praktisch
 
-    - linkcode: history
+    - linkcode: tijdslijn
       menutekst:
-        nl: Geschiedenis
-        fr: Histoire
-        en: History
-        de: Geschichte
+        nl: tijdslijn
+
 
 - linkcode: verhuur
   menutekst:
@@ -61,21 +54,22 @@
         nl:  Trekkers
       submenu:
         - linkcode: trekkers_info
-        - linkcode: trekkers_trekker10x8
-        - linkcode: trekkers_tent10x8
         - linkcode: trekkers_tent7x8
+        - linkcode: trekkers_tent10x8
+        - linkcode: trekkers_trekker10x8
         - linkcode: trekkers_lang
         - linkcode: trekkers_arrangement
-
 
 
     - linkcode: residentieel
       menutekst:
         nl:  Residentieel Verblijf
       submenu:
-        - linkcode: residentieel
+        - linkcode: residentieel_info
         - linkcode: type_1
         - linkcode: type_2
+        - linkcode: type_3
+        - linkcode: type_4
 
 
     - linkcode: arrangementen
@@ -84,14 +78,14 @@
       submenu:
         - linkcode: arrangementen
         - linkcode: 7_plus_1
+        - linkcode: 14_plus_2
         - linkcode: veld_duin_service
+        - linkcode: romantiek_aan_zee
+        - linkcode: kadobon
 
 - linkcode: voorzieningen
   menutekst:
     nl:  Voorzieningen
-    fr:  Aménagements
-    en:  Facilities
-    de:  Einrichtungen
   submenu:
     - submenu:
         - linkcode: voorzieningen
@@ -108,14 +102,10 @@
 - linkcode: doen
   menutekst:
     nl:  Doen
-    fr:  Que faire
-    en:  Activities
-    de:  Zu Tun
+
 
 - linkcode: fotos
   menutekst:
     nl:  Foto's
-    fr:  Foto's
-    en:  Foto's
-    de:  Foto's
+
 

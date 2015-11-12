@@ -5,14 +5,29 @@ preview:
     title: Tentplaats 7x8
     button:
         price: 18
-        for: /persoon /nacht
+        for: per nacht
         
     list:
         - "afmetingen: 7x8 meter"
         - "grasplaatsen"
         - "dichtbij sanitair"
         - "ideaal voor 2-persoonstentjes"
+        
 images:
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-01.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-02.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-03.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-04.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-05.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-06.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-07.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-08.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-09.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-10.jpg
+    
+    
+insert:
+    - page-images-top
 ---
 {% include links.md %}
 

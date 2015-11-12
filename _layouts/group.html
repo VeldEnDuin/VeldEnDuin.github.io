@@ -19,6 +19,9 @@ layout: default
 
 {% if site.data[key].sort.key %}
     {% assign sortkey = site.data[key].sort.key %}
+    {% assign rankeditems = items | sort: sortkey  %}
+{% else %}
+    {% assign rankeditems = items  %}
 {% endif %}
 
 
@@ -32,7 +35,6 @@ layout: default
        data-geolocation="{{site.geolocation.lat}}, {{site.geolocation.lon}}"
        data-subgroupnames='{{ names | jsonify }}'>
 
-{% assign rankeditems = items | sort: sortkey  %}
 {% if site.data[key].sort.reverse %}
     {% assign rankeditems = rankeditems | reverse  %}
 {% endif %}
