@@ -12,9 +12,10 @@ preview:
         - "internet voor 2 toestellen"
         
 images:
-    - /img/ingang.jpg
-    - /img/stacaravan.jpg
-    - /img/trekker.jpg
+    - /img/overnachten/arrangementen-vdserv/arrvdserv-01.jpg
+    
+    
+    
 ---
 
 {% include links.md %}

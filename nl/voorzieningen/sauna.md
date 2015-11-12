@@ -4,6 +4,10 @@ title: Sauna
 picto: /img/svg/voorzieningen/sauna.svg
 
 images:
+    - /img/voorzieningen/sauna/sauna-01.jpg
+    - /img/voorzieningen/sauna/sauna-02.jpg
+    - /img/voorzieningen/sauna/sauna-03.jpg
+    - /img/voorzieningen/sauna/sauna-04.jpg
 
 insert:
     - page-images-bottom

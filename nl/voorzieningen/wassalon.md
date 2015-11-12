@@ -4,6 +4,10 @@ title: Wassalon
 picto: /img/svg/voorzieningen/wassalon.svg
 
 images:
+    - /img/voorzieningen/wassalon/was-01.jpg
+    - /img/voorzieningen/wassalon/was-02.jpg
+    - /img/voorzieningen/wassalon/was-03.jpg
+    - /img/voorzieningen/wassalon/was-04.jpg
 
 insert:
     - page-images-bottom

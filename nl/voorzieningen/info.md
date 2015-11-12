@@ -4,6 +4,11 @@ title: Info
 picto: /img/svg/voorzieningen/info.svg
 
 images:
+    - /img/voorzieningen/info/info-01.jpg
+    - /img/voorzieningen/info/info-02.jpg
+    - /img/voorzieningen/info/info-03.jpg
+    - /img/voorzieningen/info/info-04.jpg
+    
 
 insert:
     - page-images-bottom

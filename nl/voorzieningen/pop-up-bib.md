@@ -4,6 +4,10 @@ title: Pop-Up Bib
 picto: /img/svg/voorzieningen/pop-up-bib.svg
 
 images:
+    - /img/voorzieningen/popupbib/bib-01.jpg
+    - /img/voorzieningen/popupbib/bib-02.jpg
+    - /img/voorzieningen/popupbib/bib-03.jpg
+    - /img/voorzieningen/popupbib/bib-04.jpg
 
 insert:
     - page-images-bottom

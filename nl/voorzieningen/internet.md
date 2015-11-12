@@ -4,6 +4,10 @@ title: Draadloos internet
 picto: /img/svg/voorzieningen/internet.svg
 
 images:
+    - /img/voorzieningen/internet/internet-01.jpg
+    - /img/voorzieningen/internet/internet-02.jpg
+    - /img/voorzieningen/internet/internet-03.jpg
+    - /img/voorzieningen/internet/internet-04.jpg
 
 insert:
     - page-images-bottom
