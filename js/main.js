@@ -376,7 +376,7 @@
             $items = $('.vd-group-tag-item', $groupList),
             troeven = [],
             num_angles = 2,
-            fill = vd_kleur_fill, //TODO category colors in veld-duin scheme
+            fill = vd_kleur_fill,
             // TODO sizing automatically to max width and height (like done in jqalbum stuff)
             // TODO resize and redraw upon event
             cw = 1600,
