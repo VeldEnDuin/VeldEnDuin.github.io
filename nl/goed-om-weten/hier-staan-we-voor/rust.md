@@ -1,6 +1,16 @@
 ---
 title: Rust
 layout: page
+
+images:
+    - /img/hierstaanwevoor/rust/rust-01.jpg
+    - /img/hierstaanwevoor/rust/rust-02.jpg
+    - /img/hierstaanwevoor/rust/rust-03.jpg
+    - /img/hierstaanwevoor/rust/rust-04.jpg
+
+insert:
+    - page-images-bottom
+    
 ---
 
 

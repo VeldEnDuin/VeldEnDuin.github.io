@@ -6,7 +6,14 @@ preview:
     title: Fietsvriendelijk
     
 images:
-    - /img/ingang.jpg
+    - /img/hierstaanwevoor/fietsvriendelijk/fietsvr-01.jpg
+    - /img/hierstaanwevoor/fietsvriendelijk/fietsvr-02.jpg
+    - /img/hierstaanwevoor/fietsvriendelijk/fietsvr-03.jpg
+    - /img/hierstaanwevoor/fietsvriendelijk/fietsvr-04.jpg
+
+insert:
+    - page-images-bottom
+    
 ---
 
 #Fietsvriendelijk

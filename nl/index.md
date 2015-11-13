@@ -6,7 +6,7 @@ insert:
     - newsfeed
 select:
     - verhuur
-    - residentieel
+    - nieuw-project
 class:
     select:
         item: col-lg-12 col-md-12 col-sm-12 col-xs-12

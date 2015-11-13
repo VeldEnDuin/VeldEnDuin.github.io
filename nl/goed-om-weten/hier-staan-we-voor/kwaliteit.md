@@ -2,8 +2,8 @@
 title: Kwaliteit
 layout: page
 images: 
-    - /img/labels/qfactor-label-2014-2016.jpg
     - /img/labels/qfactor-veldenduin.jpg
+    
 ---
 
 #Kwaliteit

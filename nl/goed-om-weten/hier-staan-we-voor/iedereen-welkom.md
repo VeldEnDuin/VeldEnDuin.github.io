@@ -1,6 +1,16 @@
 ---
 title: Iedereen Welkom
 layout: page
+
+images:
+    - /img/hierstaanwevoor/iederwelkom/iederwelkom-01.jpg
+    - /img/hierstaanwevoor/iederwelkom/iederwelkom-02.jpg
+    - /img/hierstaanwevoor/iederwelkom/iederwelkom-03.jpg
+    - /img/hierstaanwevoor/iederwelkom/iederwelkom-04.jpg
+
+insert:
+    - page-images-bottom
+
 ---
 
 #Iedereen welkom
