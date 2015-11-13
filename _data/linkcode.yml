@@ -117,6 +117,21 @@ romantiek_aan_zee:
 kadobon:
     nl: /nl/overnachten/arrangementen/kadobon.html
 
+# [2.5] submenu overnachten -> te koop
+te_koop:
+    nl: /nl/overnachten/te-koop.html
+a_15:
+    nl: /nl/overnachten/te-koop/a-15.html
+b_21:
+    nl: /nl/overnachten/te-koop/b-21.html
+b_47:
+    nl: /nl/overnachten/te-koop/b-47.html
+b_54:
+    nl: /nl/overnachten/te-koop/b-54.html
+b_65:
+    nl: /nl/overnachten/te-koop/b-65.html
+c_16:
+    nl: /nl/overnachten/te-koop/c-16.html
 
 
 # [3] menu - voorzieningen
