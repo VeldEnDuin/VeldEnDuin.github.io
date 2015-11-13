@@ -42,8 +42,9 @@ layout: default
     {% assign title       = it.title[pgLang] %}
     {% assign my_date     = it.date | date: "%m.%Y" %}
     {% assign m_date      = it.date | date: "%-m" |modulo: 12%}
+    {% assign m_date_ndx  = m_date  | minus: 1 %}
     {% comment %}- sign removes zero padding --> still text though, |modulo: 12 makes it numeral - useable as arrayindex {% endcomment %}
-    {% assign m_text      = site.data.langs[pgLang].months[m_date] %}
+    {% assign m_text      = site.data.langs[pgLang].months[m_date_ndx] %}
     {% assign y_date      = it.date | date: "%Y" %}
     {% assign description = it.description[pgLang] %}
     {% assign link        = it.link[pgLang] %}
