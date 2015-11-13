@@ -54,6 +54,9 @@ residentieel:
     nl:  /nl/overnachten/residentieel-verblijf.html
 arrangementen:
     nl:  /nl/overnachten/arrangement.html
+nieuw_project:
+    nl: /nl/overnachten/nieuw-project.html
+
 
 # [2.1] submenu overnachten -> verhuur
 verhuur_appartement:
