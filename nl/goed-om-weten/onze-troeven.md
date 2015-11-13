@@ -2,6 +2,9 @@
 title: Onze troeven
 layout: group
 data: troeven
+extrajs: 
+    - d3.min
+    - d3-cloud.min
 
 images:
 

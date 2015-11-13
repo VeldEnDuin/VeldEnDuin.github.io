@@ -1,9 +1,15 @@
 ---
 layout: page
 title: Nieuw project
-        
+
+preview:
+    title: TODO
+    text: 
+        - Zin 1 todo
+        - Zin 2 todo
 images:
-    - /img/overnachten/residentieel-type1/restyp1-01.jpg
+    - /img/prevverhuur.jpg
+
     
 ---
 

@@ -204,8 +204,20 @@
     <script type="text/javascript" src="/js/jquery.gpAlbum.js"></script>
     <script type="text/javascript" src="/js/main.js"></script>
 
-    <!-- todo: dynamic load scripts are injected here...
-    <script type="text/javascript" src="/js/jquery.gcse.js"></script>
+    {% for jscript in page.extrajs %}
+    <script type="text/javascript" src="/js/{{jscript}}.js"></script>
+    {% endfor %}
+
+    <!-- todo: dynamic load scripts are injected here... use this template:
+    <script type="text/javascript">(function() {
+        window.addEventListener("load", function () {
+            var tag = document.createElement('script');
+            tag.type = 'text/javascript'; tag.async = true;
+            tag.src = '/js/yourscript.js';
+            var ps = document.getElementById('vd-post-script');
+            ps.parentNode.insertBefore(tag, ps);
+        });
+    }());</script>
     -->
     <hr style="display:none" id="vd-post-script" >
 
