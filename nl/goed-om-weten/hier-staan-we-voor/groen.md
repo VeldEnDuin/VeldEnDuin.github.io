@@ -1,6 +1,16 @@
 ---
 title: Groen
 layout: page
+
+images:
+    - /img/hierstaanwevoor/groen/groen-01.jpg
+    - /img/hierstaanwevoor/groen/groen-02.jpg
+    - /img/hierstaanwevoor/groen/groen-03.jpg
+    - /img/hierstaanwevoor/groen/groen-04.jpg
+
+insert:
+    - page-images-bottom
+
 ---
 
 #Groen

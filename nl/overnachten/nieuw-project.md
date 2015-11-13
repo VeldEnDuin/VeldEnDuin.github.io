@@ -13,6 +13,7 @@ images:
     
 ---
 
+
 #Nieuw project
 
 De komende jaren worden in totaal 53 nieuwe plaatsen aangelegd. De werken hiervoor gebeuren telkens in de winter en lopen gefaseerd. 

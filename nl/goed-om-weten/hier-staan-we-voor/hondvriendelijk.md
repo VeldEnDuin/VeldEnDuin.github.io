@@ -1,6 +1,17 @@
 ---
 title: Hondvriendelijk
 layout: page
+
+images:
+    - /img/hierstaanwevoor/hondvriendelijk/hondvr-01.jpg
+    - /img/hierstaanwevoor/hondvriendelijk/hondvr-02.jpg
+    - /img/hierstaanwevoor/hondvriendelijk/hondvr-03.jpg
+    - /img/hierstaanwevoor/hondvriendelijk/hondvr-04.jpg
+
+insert:
+    - page-images-bottom
+
+
 ---
 
 #Hondvriendelijk
