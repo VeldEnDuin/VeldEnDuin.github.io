@@ -1,11 +1,18 @@
 ---
+title: Te Koop
 layout: default
-title: Residentieel Verblijf
-images:
-    - /img/stacaravan.jpg
-preview: 
-    text: Gewoon een goede tekst
+banner: TODO - trigger tekst vanop te koop page
+    
+class:
+    select: 
+        list: "properties-grid"
+
+preview: no
+
+icon: home
+
+insert:
+    - level3-tiles
 ---
 
-# Te koop
-pagina over wat te koop is en zo van die dingen
+
