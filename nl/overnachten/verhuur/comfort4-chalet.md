@@ -23,6 +23,15 @@ images:
     - /img/overnachten/verhuring-C4-chalet/c4ch-09.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-10.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-11.jpg
+    - /img/overnachten/verhuring-C4-chalet/c4ch-01.jpg
+    - /img/overnachten/verhuring-C4-chalet/c4ch-02.jpg
+    - /img/overnachten/verhuring-C4-chalet/c4ch-03.jpg
+    - /img/overnachten/verhuring-C4-chalet/c4ch-04.jpg
+    - /img/overnachten/verhuring-C4-chalet/c4ch-05.jpg
+    - /img/overnachten/verhuring-C4-chalet/c4ch-06.jpg
+    - /img/overnachten/verhuring-C4-chalet/c4ch-07.jpg
+    - /img/overnachten/verhuring-C4-chalet/c4ch-08.jpg
+    - /img/overnachten/verhuring-C4-chalet/c4ch-09.jpg
     
     
     

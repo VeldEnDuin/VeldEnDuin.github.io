@@ -18,11 +18,22 @@ images:
     - /img/overnachten/verhuring-C2-chalet/c2ch-03.jpg
     - /img/overnachten/verhuring-C2-chalet/c2ch-04.jpg
     - /img/overnachten/verhuring-C2-chalet/c2ch-05.jpg
-    - /img/overnachten/verhuring-C2-chalet/c2ch-06.jpg
-    - /img/overnachten/verhuring-C2-chalet/c2ch-07.jpg
-    - /img/overnachten/verhuring-C2-chalet/c2ch-08.jpg
-    - /img/overnachten/verhuring-C2-chalet/c2ch-09.jpg
-    - /img/overnachten/verhuring-C2-chalet/c2ch-10.jpg
+    - /img/overnachten/verhuring-C2-chalet/c2ch-01.jpg
+    - /img/overnachten/verhuring-C2-chalet/c2ch-02.jpg
+    - /img/overnachten/verhuring-C2-chalet/c2ch-03.jpg
+    - /img/overnachten/verhuring-C2-chalet/c2ch-04.jpg
+    - /img/overnachten/verhuring-C2-chalet/c2ch-05.jpg
+    - /img/overnachten/verhuring-C2-chalet/c2ch-01.jpg
+    - /img/overnachten/verhuring-C2-chalet/c2ch-02.jpg
+    - /img/overnachten/verhuring-C2-chalet/c2ch-03.jpg
+    - /img/overnachten/verhuring-C2-chalet/c2ch-04.jpg
+    - /img/overnachten/verhuring-C2-chalet/c2ch-05.jpg
+    - /img/overnachten/verhuring-C2-chalet/c2ch-01.jpg
+    - /img/overnachten/verhuring-C2-chalet/c2ch-02.jpg
+    - /img/overnachten/verhuring-C2-chalet/c2ch-03.jpg
+    - /img/overnachten/verhuring-C2-chalet/c2ch-04.jpg
+    - /img/overnachten/verhuring-C2-chalet/c2ch-05.jpg
+    
     
 insert:
     - page-images-top

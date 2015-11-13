@@ -4,6 +4,10 @@ title: Animatie
 picto: /img/svg/voorzieningen/animatie.svg
 
 images:
+    - /img/voorzieningen/animatie/anim-01.jpg
+    - /img/voorzieningen/animatie/anim-02.jpg
+    - /img/voorzieningen/animatie/anim-03.jpg
+    - /img/voorzieningen/animatie/anim-04.jpg
 
 insert:
     - page-images-bottom

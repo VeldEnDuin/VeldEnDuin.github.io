@@ -4,7 +4,12 @@ title: Fietsberging
 picto: /img/svg/voorzieningen/fietsberging.svg
 
 images:
-
+    - /img/voorzieningen/fietsberging/fietsberg-01.jpg
+    - /img/voorzieningen/fietsberging/fietsberg-02.jpg
+    - /img/voorzieningen/fietsberging/fietsberg-03.jpg
+    - /img/voorzieningen/fietsberging/fietsberg-04.jpg
+    
+    
 insert:
     - page-images-bottom
 

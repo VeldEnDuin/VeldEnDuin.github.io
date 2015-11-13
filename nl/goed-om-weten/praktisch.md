@@ -4,6 +4,9 @@ layout: page
 ---
 
 
+#Praktische info
+
+
 ## Openingsuren receptie
 
 PERIODE                         | OPENINGSUREN       | 

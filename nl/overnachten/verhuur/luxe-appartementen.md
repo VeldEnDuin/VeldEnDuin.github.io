@@ -22,6 +22,16 @@ images:
     - /img/overnachten/verhuring-luxe-appartement/lx-08.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-09.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-10.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-01.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-02.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-03.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-04.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-05.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-06.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-07.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-08.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-09.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-10.jpg
     
 
 insert:

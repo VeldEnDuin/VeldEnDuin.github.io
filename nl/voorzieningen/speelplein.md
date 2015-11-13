@@ -4,9 +4,10 @@ title: Speelplein
 picto: /img/svg/voorzieningen/speelplein.svg
 
 images:
-    - /img/ingang.jpg
-    - /img/stacaravan.jpg
-    - /img/trekker.jpg
+    - /img/voorzieningen/speelplein/speel-01.jpg
+    - /img/voorzieningen/speelplein/speel-02.jpg
+    - /img/voorzieningen/speelplein/speel-03.jpg
+    - /img/voorzieningen/speelplein/speel-04.jpg
 
 insert:
     - page-images-bottom
