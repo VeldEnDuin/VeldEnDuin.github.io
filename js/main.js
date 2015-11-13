@@ -366,20 +366,26 @@
      * =======================================================================
      */
     $(function () {
+        function vd_kleur_fill(n) {
+            var pallet = ["#569F98", "#e8B64F", "#4F5137", "#8B9448", "#8FB742", "#B8BA8A", "#cb2027"];
+            return pallet[n % pallet.length];
+        }
+
         var $groupList = $('#vd-group-troeven'),
             $container = $groupList.parent(),
             $items = $('.vd-group-tag-item', $groupList),
             troeven = [],
-            fill = d3.scale.category20(), //TODO category colors in veld-duin scheme
+            num_angles = 2,
+            fill = vd_kleur_fill, //TODO category colors in veld-duin scheme
             // TODO sizing automatically to max width and height (like done in jqalbum stuff)
             // TODO resize and redraw upon event
             cw = 1600,
             ch = 400;
 
         $items.each(function () {
-            troeven.push($(this).text().trim());
+            troeven.push($(this).data('title'));
         });
-        $groupList.hide(); // best already covered by css, but for sure
+        $groupList.hide(); // best to cover hiding by css, but for sure we hide here again
 
         function draw(words) {
             d3.select($container.get(0)).append("svg")
@@ -404,14 +410,14 @@
             .words(troeven.map(function (d) {
                 return {text: d, size: 10 + Math.random() * 50};
             }))
-            .rotate(function () { return ~~(Math.random() * 2) * 90; })
+            .rotate(function () { return Math.floor((Math.random() - 0.5) * num_angles) * (180 / num_angles); })
             .font("Impact")
             .fontSize(function (d) { return d.size; })
             .on("end", draw)
             .start();
     });
 
-    //TODO make it dynamic relfresh after X time
+    //TODO make it dynamic refresh after X time
 
 
     /*

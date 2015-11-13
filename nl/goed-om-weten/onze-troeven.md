@@ -4,7 +4,7 @@ layout: group
 data: troeven
 extrajs: 
     - d3.min
-    - d3-cloud.min
+    - d3.layout.cloud
 
 images:
 
