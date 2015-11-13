@@ -487,6 +487,11 @@ table.table>tbody>tr>td:first-child
     display:none;
 }
 
+svg.tagcloud {
+    display: block;
+    margin: auto;
+}
+
 
 /* ===================================================================================
  * styling vd-select sections
