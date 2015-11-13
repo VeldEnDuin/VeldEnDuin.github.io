@@ -5,6 +5,7 @@ data: troeven
 extrajs: 
     - d3.min
     - d3.layout.cloud
+    - tagcloud
 
 images:
 
@@ -15,5 +16,4 @@ insert:
 {% include links.md %}
 
 
-##Onze troeven
 
