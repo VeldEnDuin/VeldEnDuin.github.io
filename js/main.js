@@ -404,8 +404,6 @@
                     return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
                 })
                 .text(function (d) { return d.text; });
-
-            window.location.hash = ""; // remove jasondavies hash
         }
 
         d3.layout.cloud().size([cw, ch])
