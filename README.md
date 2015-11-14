@@ -283,7 +283,7 @@ layout     | tekst  | layout:&nbsp;landing  | **verplicht** Wijst naar een besch
 title      | tekst  | title:&nbsp;Mijn&nbsp;Titel| **verplicht** De vrij gekozen titel van de pagina.
 images     | lijst  | images:<br>&nbsp;&nbsp;-&nbsp;/img/een.jpg<br>&nbsp;&nbsp;-&nbsp;/img/twee.jpg | De oplijsting van beelden die aan dit artikel worden ge-associeerd (cfr verdere info over imgs)
 insert     | lijst  | insert:<br>&nbsp;&nbsp;- virtualtour | Gekozen specifieke scherm-elementen zijn vanzelf uitgeschakeld, maar worden hiermee expliciet aangezet. (Zie hieronder voor de opties.)
-remove     | lijst  | remove:<br>&nbsp;&nbsp;- banner | Gekozen specifieke scherm-elementen zijn vanzelf beschikbaar, maar kunnen hiermee worden afgezet.  (Zie hieronder voor de opties.)
+remove     | lijst  | remove:<br>&nbsp;&nbsp;- callout | Gekozen specifieke scherm-elementen zijn vanzelf beschikbaar, maar kunnen hiermee worden afgezet.  (Zie hieronder voor de opties.)
 icon       | tekst  | info-sign             | associeert een glyphicon met de pagina voor gebruik in links. Zie [lijst](http://getbootstrap.com/components/#glyphicons-glyphs) met ondersteunde iconen.
 
 ### Prelude: layout
@@ -311,6 +311,7 @@ De mogelijke inserts die in de prelude kunnen aangegeven worden:
 insert      | mogelijk in layout  | acitveert
 ------------|---------------------|--------------
 virtualtour | alle layouts        | google-virtual-tour
+banner      | alle layouts        | de banner onder hoofdmenu
 play-album  | alle layouts        | foto-album
 level3-tiles| alle layouts        | klikbare tegels van level3 menu = blokken in je derde niveau van navigatie vb de blokken bij verhuuritems / residentieel / arrangementen
 newsfeed    | landing             | lijst met recente nieuws-artikels
@@ -322,7 +323,6 @@ De beschikbare elmenten die kunnen afgezet worden met 'remove' in de prelude zij
 
 remove      | mogelijk in layout  | dit verwijdert 
 ------------|---------------------|----------------
-banner      | alle layouts        | de banner onder hoofdmenu
 callout     | alle layouts        | de link voor de reservatie-aanvraag in de banner
 imgstrip    | alle layouts        | de strip met foto's onderaan
 

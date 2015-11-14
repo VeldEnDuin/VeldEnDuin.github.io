@@ -24,7 +24,7 @@
 
   </head>
   <body data-translations='{{site.data.langs[pgLang] | jsonify}}'>
-    <header {%if page.remove contains 'banner'%}class="spaced"{%endif%}>
+    <header {%unless page.insert contains 'banner'%}class="spaced"{%endunless%}>
       <nav class="navbar navbar-default navbar-inverse">
         <div class="vd-menu">
         <div class="container-fluid">
@@ -51,12 +51,12 @@
         </div>
         </div>
       </nav>
-    {% unless page.remove contains 'banner' %}
+    {% if page.insert contains 'banner' %}
       <div class="vd-banner hidden-sm hidden-xs"></div>
         {% unless page.remove contains 'callout' %}
             {% include callout-form.html %}
         {% endunless%}
-    {% endunless %}
+    {% endif %}
     </header>
 
     <article>
