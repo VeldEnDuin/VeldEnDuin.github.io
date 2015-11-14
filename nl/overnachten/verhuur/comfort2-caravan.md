@@ -7,7 +7,7 @@ preview:
         price: 140
         for: 2 nachten
     list:
-        - "comfort in mini-formaat"
+        - "2 personen comfort in mini-formaat"
         - "20 m²"
         - "vooraan op de camping"
         - "privé-tuintje"

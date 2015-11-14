@@ -12,9 +12,9 @@ preview:
         - "meer waar voor uw geld"
         
 images:
-    - /img/ingang.jpg
-    - /img/stacaravan.jpg
-    - /img/trekker.jpg
+    - /img/overnachten/arrangementen-14plus2/arr14plus2-01.jpg
+
+
 ---
 
 {% include links.md %}

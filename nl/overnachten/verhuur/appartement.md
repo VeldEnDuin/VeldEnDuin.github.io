@@ -8,6 +8,7 @@ preview:
         for: 2 nachten
     list:
         - "4-5 personen"
+        - "65 m²"
         - "lift"
         - "zicht op duinen"
         - "65 m²"

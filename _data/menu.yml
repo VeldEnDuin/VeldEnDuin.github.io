@@ -3,8 +3,6 @@
      nl: Goed om weten
   submenu:
     - linkcode: onze_troeven
-      menutekst:
-        nl: onze troeven
 
     - linkcode: hier_staan_we_voor
       menutekst:
