@@ -3,14 +3,14 @@ layout: page
 title: Nieuw project
 
 preview:
-    title: TODO
+    title: Nieuw project
     text: 
-        - Zin 1 todo
-        - Zin 2 todo
+        - De komende jaren worden in totaal 53 nieuwe plaatsen aangelegd. We zetten in op ruime en luxueuze plaatsen met maximaal comfort.
+        
 images:
-    - /img/prevverhuur.jpg
+      - /img/prevnieuwpr.jpg
 
-    
+
 ---
 
 
