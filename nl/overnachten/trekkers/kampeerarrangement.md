@@ -1,16 +1,17 @@
 ---
 layout: page
-title: Kampeerarrangement 10x8
+title: Kampeerarrangement 
 preview: 
     title: Kampeerarrangement
     button:
         price: 290
         for: per mnd
     list:
+        - "80 m² plaatsen"
         - "1 maand of meer"
-        - "afmetingen: 10x8 meter"
         - "verschillende formules"
         - "speciale prijs lange periodes"
+
 images:
     - /img/overnachten/trekkers-arr/kamparr-01.jpg
     - /img/overnachten/trekkers-arr/kamparr-02.jpg
@@ -40,14 +41,14 @@ insert:
 
 {% include links.md %}
 
-## Kampeerarrangementen
-U hebt langere tijd te spenderen? Bekijk dan de verschillende kampeerarrangementen, er zit vast een geschikte formule voor u bij.
+# Kampeerarrangement
+U hebt een maand of langer te spenderen? Bekijk dan de verschillende kampeerarrangementen, er zit vast een geschikte formule voor u bij.
 
-###Goed om weten
+##Goed om weten
 - max 6 personen / plaats
 - honden toegelaten: max 2 - geen gevaarlijke rassen
 
-###Prijzen
+##Prijzen
 PERIODE        | PRIJS       
 :-------------:|:-----------:|
 april          |€ 320               
@@ -61,18 +62,21 @@ november       |€ 290
 april-mei-juni |€ 695
 september-oktober-november|€ 695
 
-###Inbegrepen
+##Inbegrepen
 - gemeente-en verblijfstaksen
 - parking 1 auto
 
-###Niet inbegrepen
+##Niet inbegrepen
 
 EXTRA              | PRIJS 
 :------------------|:-----------|
 elektriciteit      |volgens verbruik 
-douchejeton        | € 1 / jeton
+douchejeton        |€ 1 / jeton
+parking extra auto |€ 4 / begonnen dag
+plaats fietsberging|€ 1 / fiets / nacht
+sauna              |€ 30
+internet           |afhankelijk van tijd online
 
-
-###Plan camping
+##Plan camping
 
 [invoegen plan][plan.nl]

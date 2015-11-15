@@ -6,12 +6,12 @@ preview:
     button:
         price: 20
         for: per nacht
-        
     list:
+        - "afmetingen: 10x8 meter"
         - "geschikt voor familietenten"
         - "grasplaatsen"
         - "dichtbij sanitair"
-        - "afmetingen: 10x8 meter"
+       
 images:
     - /img/overnachten/trekkers-tent-10x8/tent10x8-01.jpg
     - /img/overnachten/trekkers-tent-10x8/tent10x8-02.jpg
@@ -42,15 +42,15 @@ insert:
 
 {% include links.md %}
 
-## TENTPLAATSEN 10x8
+# TENTPLAATS 10x8
 Ga voor de echte kampeerbeleving en trek er met het hele gezin op uit met de tent. Op onze trekkersweide vindt u zeker gelijkgestemden om ervaringen uit te wisselen. 
 
-###Goed om weten
+##Goed om weten
 - max 6 personen / plaats
 - honden toegelaten: max 2 - geen gevaarlijke rassen
 
-###Prijzen
-AANTAL PERSONEN | PRIJS       
+##Prijzen
+AANTAL PERSONEN | PRIJS / NACHT     
 :-------------:|:-----------:|
 1 persoon      |€ 20               
 2 personen     |€ 23                   
@@ -60,7 +60,7 @@ AANTAL PERSONEN | PRIJS
 
 15/7 - 15/8: reservatie vanaf 7 nachten
 
-###Kortingen
+##Kortingen
 
 Aantal nachten | Korting       
 :-------------:|:-----------:|
@@ -69,27 +69,27 @@ Aantal nachten | Korting
 ≥ 10 nachten  | 10 %      
 ≥ 14 nachten  | 14 %            
 
-- Korting enkel geldig op het verblijf, niet op extra’s en niet combineerbaar met andere kortingen of kampeerarrangementen.
-- Geldigheidsduur: hele jaar met uitzondering van juli en augustus.
+- korting enkel geldig op het verblijf, niet op extra’s en niet combineerbaar met andere kortingen of kampeerarrangementen
+- geldigheidsduur: het hele jaar met uitzondering van juli en augustus
 
 
-###Inbegrepen
-- gemeente-en verblijfstaksen
+##Inbegrepen
+- gemeente- en verblijfstaksen
 - parking 1 auto
 - elektriciteit
 
-###Extra's
+##Extra's
 EXTRA             | PRIJS 
 :------------------|:-----------|
 annulatieverzekering| 3,5 % van de totale reissom - Allianz 
 douchejeton       | € 1 / jeton
 hond              | € 4 / nacht - max 2 honden, geen gevaarlijke rassen
-tweede parking| € 4 / begonnen dag
+parking extra auto| € 4 / begonnen dag
 plaats fietsberging| € 1 / fiets / nacht
 [sauna][sauna.nl]| € 30
 [internet][internet.nl]| afhankelijk van tijd online
 
 
-###Plan camping
+##Plan camping
 
 [invoegen plan][plan.nl]
