@@ -8,10 +8,7 @@ class:
 insert: 
     - level3-tiles
     - background-image
-
-remove:
-    - banner
-    
+    - banner    
     
 preview: no
 

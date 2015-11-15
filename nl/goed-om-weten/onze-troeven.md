@@ -7,10 +7,10 @@ extrajs:
     - d3.layout.cloud
     - tagcloud
 
-images:
-
 insert:
-    - page-images-bottom
+    - banner
+    
+callout: "Waarom kiezen voor Veld & Duin? We zetten hier graag onze voornaamste troeven op een rijtje."
 
 ---
 {% include links.md %}

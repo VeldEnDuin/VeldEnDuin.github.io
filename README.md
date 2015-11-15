@@ -252,6 +252,52 @@ Daarvoor gebruik je dit formaat in de ```*.md``` bestanden:
 De link via [klikbaar woord](http://anderewebsite.be) naar de andere site. 
 ```
 
+## Banner - callout - imagestrip
+### Banner
+- standaard staat de banner uit (uitgezonderd bij de landingspagina, daar staat banner automatisch aan)
+- banner toevoegen kan in de prelude:
+
+```yml
+insert:
+  - banner
+```
+### Callout
+- standaard bevat de banner een callout (= witte balk met reservatie aanvraag knop). 
+- de callout kun je verbergen:
+
+```yml
+remove:
+  - callout
+```
+
+- de tekst in de callout wordt standaard ingevuld (per taal) met de tekst die je vindt in _data / langs.yml (te vinden onder taal / dict / callout)
+- als je de callout tekst op een bepaalde pagina wil laten afwijken, kan dat in de prelude via
+
+```yml
+callout: "dit is de andere tekst"  
+```
+
+
+### Imagestrip
+Staat standaard aan. Indien je wil dat die op een bepaalde pagina uit staat, pas je dit aan in de prelude:
+
+```yml
+remove:
+  - imgstrip
+```
+
+De beelden voor de imgstrip worden opgehaald uit een google plus album. De naam van het album wordt bepaald in _config.yml:
+
+```yml
+strip-album: "www-footer-imgstrip"
+```
+Als je de imgstrip op een bepaalde pagina wilt laten afwijken, moet je allereerst een nieuwe google plus pagina aanmaken. In de prelude moet je dan verwijzen naar dat dat andere google plus album vb:
+
+```yml
+strip-album: "www-footerresidentieel-imgstrip"
+```
+
+
 
 ## Prelude
 
@@ -353,10 +399,54 @@ images:
 
 
 
-### Andere preludes
+### Andere 
+
+## Banner - callout - imagestrip
+### Banner
+- standaard staat de banner uit (uitgezonderd bij de landingspagina, daar staat banner automatisch aan)
+- banner toevoegen kan in de prelude:
+
+```yml
+insert:
+  - banner
+```
+### Callout
+- standaard bevat de banner een callout (= witte balk met reservatie aanvraag knop). 
+- de callout kun je verbergen:
+
+```yml
+remove:
+  - callout
+```
+
+- de tekst in de callout wordt standaard ingevuld (per taal) met de tekst die je vindt in _data / langs.yml (te vinden onder taal / dict / callout)
+- als je de callout tekst op een bepaalde pagina wil laten afwijken, kan dat in de prelude via
+
+```yml
+callout: "dit is de andere tekst"  
+```
+
+
+### Imagestrip
+Staat standaard aan. Indien je wil dat die op een bepaalde pagina uit staat, pas je dit aan in de prelude:
+
+```yml
+remove:
+  - imgstrip
+```
+
+De beelden voor de imgstrip worden opgehaald uit een google plus album. De naam van het album wordt bepaald in _config.yml:
+
+```yml
+strip-album: "www-footer-imgstrip"
+```
+Als je de imgstrip op een bepaalde pagina wilt laten afwijken, moet je allereerst een nieuwe google plus pagina aanmaken. In de prelude moet je dan verwijzen naar dat dat andere google plus album vb:
+
+```yml
+strip-album: "www-footerresidentieel-imgstrip"
+```
 
 Nieuwsartikels, landingspagina's en grouppagina's omvatten specifieke prelude-elementen. Deze worden verder beschreven in de betreffende secties.
-
 
 ## Nieuwsartikels
 

@@ -5,8 +5,10 @@ insert:
     - play-album
 remove:
     - socialshare
-    - banner
-    - imgstrip
+      - imgstrip
 play-album:
     - "site-hoofdalbum"
+    
+insert:
+    - banner
 ---

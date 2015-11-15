@@ -1,7 +1,6 @@
 ---
 layout: landing
 title: Camping Veld & Duin -- Landing -- NL
-banner: Dit is de banner-tekst
 insert:
     - newsfeed
 select:

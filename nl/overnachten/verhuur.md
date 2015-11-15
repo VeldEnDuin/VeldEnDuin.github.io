@@ -17,6 +17,7 @@ images:
     
 insert:
     - level3-tiles
+    - banner
     
 
 ---
