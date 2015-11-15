@@ -29,7 +29,7 @@ In onze wellnessruimte vindt u:
 **Prijs afhuren sauna**: € 30 voor 3 uur.
 
 
-# Romantiek-aan-zee arrangement
+## Romantiek-aan-zee arrangement
 
 Boek ons sauna-arrangement en keer als herboren terug naar huis!
 

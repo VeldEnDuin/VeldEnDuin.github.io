@@ -7,9 +7,10 @@ preview:
         price: 1870
         for: per jaar
     list:
+        - "gemiddelde opp: 120 m²"
         - "vernieuwde plaatsen"
         - "hele jaar toegankelijk"
-        - "gemiddelde opp: 120 m²"
+       
         
 images:
     - /img/overnachten/residentieel-type2/restyp2-01.jpg
@@ -18,18 +19,18 @@ images:
 
 {% include links.md %}
 
-##TYPE 2 - CARAVAN OF CHALET
+#TYPE 2 - CARAVAN OF CHALET
 Een vaste stek aan de kust om steeds opnieuw naar terug te keren, wie droomt daar niet van? Maak uw droom waar met een eigen caravan of chalet om heel vaak van te genieten.
 
 
-###Goed om weten
+##Goed om weten
 - vernieuwde plaatsen
 - aparte tellers voor gas - water - elektriciteit
 - ondergronds gasnetwerk - geen gasflessen
 - wintervaste wateraansluiting
 
 
-###Prijzen
+##Prijzen
 
 TYPE 2                |PRIJS           |
 :--------------------:|:--------------:|
@@ -49,7 +50,7 @@ tellervergoeding      | € 18 / teller
 
 
 
-###Plan camping
+##Plan camping
 
 [invoegen plan][plan.nl]
 aanduiden met kleur op plan welke percelen - Joke?

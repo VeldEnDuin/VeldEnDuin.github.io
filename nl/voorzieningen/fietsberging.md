@@ -16,7 +16,7 @@ insert:
 ---
 {% include links.md %}
 
-# Fietsberging
+#Fietsberging
 
 U wilt uw fiets na een mooie fietstocht graag binnenzetten? In onze overdekte fietsberging hebben we in totaal 116 plaatsen voor fietsliefhebbers.
 

@@ -14,7 +14,7 @@ insert:
     - page-images-bottom
 ---
 
-# Toeristische informatie
+#Toeristische informatie
 
 We informeren u ter plaatse graag uitgebreid over alles wat er hier te beleven valt. Dit doen we onder meer via volgende kanalen:
 

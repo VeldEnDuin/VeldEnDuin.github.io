@@ -15,7 +15,7 @@ insert:
 ---
 {% include links.md %}
 
-##Animatie Veld & Duin
+#Animatie Veld & Duin
 
 In de paasvakantie organiseren we 2 activiteiten. Tijdens de paaseierenzoektocht kun je niet alleen paaseieren zoeken maar via diverse spelletjes ook extra eieren voor je ploeg winnen of verliezen.
 
@@ -24,7 +24,7 @@ De vrijdagen in het hoogseizoen voorzien we een gevarieerd animatieprogramma. We
 Het jaar wordt afgesloten met een gezellige glühweinavond. Onder het genot van een glaasje en versnapering halen we herinneringen op en kijk we al uit naar het volgend seizoen.
 
 
-### Kalender
+##Kalender Veld & Duin
 
 #### Kerstvakantie 2015
 

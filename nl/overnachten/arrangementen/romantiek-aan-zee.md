@@ -20,16 +20,16 @@ images:
 {% include links.md %}
 
 
-##Romantiek-aan-zee
+#Romantiek-aan-zee
 
 Ons romantisch-aan-zee-arrangement is de gedroomde kans om uw geliefde in de watten te leggen. Naast een heerlijk verblijf wacht u een verkwikkende saunabeurt met extraatjes.
 
     
-###Goed om weten
+##Goed om weten
 - geldig voor elk verhuurtype
 - het hele jaar door boekbaar met uitzondering van schoolvakanties en verlengde weekends
 
-###Prijzen
+##Prijzen
 
 VERHUURTYPE         | LAAGSEIZOEN | TUSSENSEIZOEN  |
 :------------------:|:-----------:|:-------------:
@@ -41,22 +41,22 @@ luxe appartement    |€ 215        |€ 460
         
 
 
-###Periodes
+##Periodes
 
 LAAGSEIZOEN           |TUSSENSEIZOEN      |   
 :--------------------:|:-----------------:|:-------------:|
 november tot maart<br>**uitgezonderd schoolvakanties <br>en verlengde weekends** | april tot juni, <br>september en oktober <br>**uitgezonderd schoolvakanties <br>en verlengde weekends**
 
-###Waarborg
+##Waarborg
 - 50 € - contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien goed schoongemaakt
 
-###Inbegrepen
+##Inbegrepen
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
 - **uitzondering**: verbruik gas en elektriciteit is exclusief bij huur vanaf 4 nachten tussen 1/11 - 31/3
 
-###Extra's
+##Extra's
 EXTRA               | PRIJS 
 :-------------------|:-----------|
 schoonmaak          | € 50 - zelf schoonmaken kan
@@ -65,6 +65,6 @@ hond                | € 4 / nacht<br> niet toegelaten in de appartementen
 lakenpakket         | € 8 / bed
 kinderbed           | € 1 / nacht
 kinderstoel         | € 1 / nacht
-tweede parking      | € 4 / begonnen dag
+parking extra auto  | € 4 / begonnen dag
 plaats fietsberging | € 1 / fiets / nacht
 

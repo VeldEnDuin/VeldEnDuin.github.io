@@ -19,18 +19,18 @@ images:
 {% include links.md %}
 
 
-##Arrangement 7 + 1
+#Arrangement 7 + 1
 
 Boek dit arrangement en krijg een extra nacht gratis bij een reservatie van 7 nachten of meer. Extra genieten dus voor hetzelfde geld!
 
     
-###Goed om weten
+##Goed om weten
 - geldig voor elk verhuurtype
 - niet geldig voor de extra's
 - arrangement mogelijk volgens beschikbaarheid
 - geldig het hele jaar door met uitzondering van schoolvakanties en verlengde weekends
 
-###Prijzen
+##Prijzen
 
 VERHUURTYPE         | LAAGSEIZOEN | TUSSENSEIZOEN  |
 :------------------:|:-----------:|:-------------:
@@ -42,22 +42,22 @@ luxe appartement    |€ 415        |€ 460
         
 
 
-###Periodes
+##Periodes
 
 LAAGSEIZOEN           |TUSSENSEIZOEN      |   
 :--------------------:|:-----------------:|:-------------:|
 november tot maart<br>**uitgezonderd schoolvakanties <br>en verlengde weekends** | april tot juni, <br>september en oktober <br>**uitgezonderd schoolvakanties <br>en verlengde weekends**
 
-###Waarborg
+##Waarborg
 - 50 € - contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien goed schoongemaakt
 
-###Inbegrepen
+##Inbegrepen
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
 - **uitzondering**: verbruik gas en elektriciteit is exclusief bij huur vanaf 4 nachten tussen 1/11 - 31/3
 
-###Extra's
+##Extra's
 EXTRA               | PRIJS 
 :-------------------|:-----------|
 schoonmaak          | € 50 - zelf schoonmaken kan
@@ -66,7 +66,7 @@ hond                | € 4 / nacht<br> niet toegelaten in de appartementen
 lakenpakket         | € 8 / bed
 kinderbed           | € 1 / nacht
 kinderstoel         | € 1 / nacht
-tweede parking      | € 4 / begonnen dag
+parking extra auto  | € 4 / begonnen dag
 plaats fietsberging | € 1 / fiets / nacht
 [sauna][sauna.nl]   | € 30
 [internet][internet.nl]| afhankelijk van tijd online

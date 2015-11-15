@@ -7,9 +7,10 @@ preview:
         price: 2510
         for: per jaar
     list:
+        - "gemiddelde opp: 190 m²"
         - "luxeplaatsen"
         - "extra groenbeleving"
-        - "gemiddelde opp: 190 m²"
+        
         
 images:
     - /img/overnachten/residentieel-type1/restyp1-01.jpg
@@ -18,11 +19,11 @@ images:
 
 {% include links.md %}
 
-##Type 1 - caravan
+#Type 1 - caravan
 
 Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Ga dan voor één van onze luxueuze plaatsen en geniet van de extra ruimte.
 
-###Goed om weten
+##Goed om weten
 - alle type 1 percelen liggen rond de wadi
 - betonplaat van 12x4 m - geschikt voor grote caravans
 - aparte tellers voor gas - water - elektriciteit
@@ -30,7 +31,7 @@ Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Ga 
 - wintervaste wateraansluiting
 
 
-###Prijzen
+##Prijzen
 
 TYPE 1                |PRIJS           |
 :--------------------:|:--------------:|
@@ -50,7 +51,7 @@ tellervergoeding      | € 18 / teller
 
 
 
-###Plan camping
+##Plan camping
 
 [invoegen plan][plan.nl]
 aanduiden met kleur op plan welke percelen - Joke?
