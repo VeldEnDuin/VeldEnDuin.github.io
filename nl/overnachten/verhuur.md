@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Verhuur
-banner: TODO - trigger tekst vanop VERHUUR page
+callout: TODO - trigger tekst vanop VERHUUR page
 
 class:
     select: 
