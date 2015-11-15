@@ -7,10 +7,10 @@ preview:
         price: 140
         for: 2 nachten
     list:
-        - "honden toegelaten"
         - "4 personen"
         - "36 m²"
         - "dichtbij speelplein"
+        - "honden toegelaten"
 images:
     - /img/overnachten/verhuring-C4-chalet/c4ch-01.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-02.jpg
@@ -42,68 +42,68 @@ insert:
 
 {% include links.md %}
 
-# Chalets comfort 4 
+# Chalet comfort 4 
 
 Deze chalets liggen vooraan op de camping en dicht bij het speelplein. Ideaal dus voor de kinderen om hun vriendjes steeds in de buurt te hebben.
 
-###Inrichting chalets:
-- Ruime woonkamer met flatscreen en digibox
-- Ingerichte keuken met microgolf
-- Badkamer met douche, wastafel en toilet
-- Slaapkamers chalet:
+##Inrichting chalet
+- ruime woonkamer met flatscreen en digibox
+- ingerichte keuken met microgolf
+- badkamer met douche, wastafel en toilet
+- slaapkamers chalet:
     - 1 kamer met dubbelbed (140x200)
     - 1 kamer met stapelbed 2x (90x200) 
-- Tuinmeubilair
+- tuinmeubilair
     
-###Goed om weten
-- Chalet voorzien voor 4 personen
-- Honden toegelaten - max 2
-- Hele jaar door boekbaar
+##Goed om weten
+- chalet voorzien voor 4 personen
+- honden toegelaten - max 2 - geen gevaarlijke rassen
+- het hele jaar door boekbaar
 
-###Prijzen
+##Prijzen
 
 PERIODE             | LAAGSEIZOEN | TUSSENSEIZOEN | HOOGSEIZOEN |
 :------------------:|:-----------:|:-------------:|:-----------:|
 2 nachten           |€ 140        |€ 155          |       
 extra nacht         |€ 48         |€ 53           |           
 midweek (ma-vrij)   |€ 195        |€ 220          |
-verlengd WE (3 n)   |             |€ 220          |
+verlengd weekend (3 n)   |             |€ 220          |
 7 nachten           |€ 335        |€ 375          | € 540
 extra nacht >7 n    |€ 41         |€ 49           | € 77
 14 nachten          |€ 590        |€ 685          | € 1025
 
 
-###Periodes
+##Periodes
 
 LAAGSEIZOEN           |TUSSENSEIZOEN      |    HOOGSEIZOEN|
 :--------------------:|:-----------------:|:-------------:|
-november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni, <br>september - oktober, <br>schoolvakanties | juli - augustus
+november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni, <br>september en oktober, <br>schoolvakanties | juli en augustus
 
-###Waarborg
-- 50 € - cash te betalen bij aankomst
-- terugbetaling waarborg bij vertrek indien goed schoongemaakt
+##Waarborg
+- 50 € - contant te betalen bij aankomst
+- terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
 
-###Inbegrepen
+##Inbegrepen
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
 - **uitzondering**: verbruik gas en elektriciteit is exclusief bij huur vanaf 4 nachten van 1/11 - 31/3
 
-###Extra's
+##Extra's
 EXTRA               | PRIJS 
 :-------------------|:-----------|
 schoonmaak          | € 40 - zelf schoonmaken kan
 annulatieverzekering| 3,5 % van de totale reissom - Allianz 
-huisdier            | € 4 / hond - max 2
+hond                | € 4 / hond - max 2
 lakenpakket         | € 8 / bed
 kinderbed           | € 1 / nacht
 kinderstoel         | € 1 / nacht
-tweede parking      | € 4 / begonnen dag
+parking extra auto  | € 4 / begonnen dag
 plaats fietsberging | € 1 / fiets / nacht
 [sauna][sauna.nl]   | € 30
 [internet][internet.nl]| afhankelijk van tijd online
 [Veld & Duin service][veld_duin_service.nl]| € 60
 
 
-###Plan camping
+##Plan camping
 
 [invoegen plan][plan.nl]

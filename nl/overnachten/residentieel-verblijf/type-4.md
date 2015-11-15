@@ -7,10 +7,10 @@ preview:
         price: 1685
         for: per jaar
     list:
-        - "8 maanden toegankelijk"
-        - "rustige ligging"
         - "gemiddelde opp: 80 m²"
-        
+        - "rustige ligging"
+        - "8 maanden toegankelijk"
+               
 images:
     - /img/overnachten/residentieel-type4/restyp4-01.jpg
     
@@ -19,17 +19,17 @@ images:
 
 {% include links.md %}
 
-##TYPE 4 - CARAVAN 
+#TYPE 4 - CARAVAN 
 Deze plaatsen zijn iets kleiner qua oppervlakte maar bieden evengoed een instant vakantiegevoel. 
 
 
-###Goed om weten
+##Goed om weten
 - teller voor elektriciteit - forfait water
 - gasflessen
 - geen wintervaste wateraansluiting - sanitairgebouw blijft open
 
 
-###Prijzen
+##Prijzen
 
 TYPE 4                |PRIJS           |
 :--------------------:|:--------------:|
@@ -48,7 +48,7 @@ tellervergoeding      | € 18 / teller
 
 
 
-###Plan camping
+##Plan camping
 
 [invoegen plan][plan.nl]
 aanduiden met kleur op plan welke percelen - Joke?

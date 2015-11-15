@@ -7,9 +7,10 @@ preview:
         price: 1820
         for: per jaar
     list:
-        - "8 maanden toegankelijk"
-        - "te vernieuwen plaatsen"
         - "gemiddelde opp: 100 m²"
+        - "te vernieuwen plaatsen"
+        - "8 maanden toegankelijk"
+        
         
 images:
     - /img/overnachten/residentieel-type3/restyp3-01.jpg
@@ -18,18 +19,18 @@ images:
 
 {% include links.md %}
 
-##TYPE 3 - CARAVAN 
+#TYPE 3 - CARAVAN 
 Kom na een drukke werkweek onthaasten in uw caravan. Zo kunt u er straks weer helemaal tegenaan!
 
 
-###Goed om weten
+##Goed om weten
 - deze plaatsen worden in de nabije toekomst vernieuwd - cfr nieuw project
 - teller voor elektriciteit - forfait water
 - gasflessen
 - geen wintervaste wateraansluiting - sanitairgebouw blijft open
 
 
-###Prijzen
+##Prijzen
 
 TYPE 3                |PRIJS           |
 :--------------------:|:--------------:|
@@ -49,7 +50,7 @@ tellervergoeding      | € 18 / teller
 
 
 
-###Plan camping
+##Plan camping
 
 [invoegen plan][plan.nl]
 aanduiden met kleur op plan welke percelen - Joke?
