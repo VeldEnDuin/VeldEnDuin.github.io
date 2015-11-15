@@ -8,7 +8,9 @@ class:
 insert: 
     - level3-tiles
     - background-image
-    - banner    
+    - banner
+    
+callout: "Ontdek wat we nog meer te bieden hebben om uw vakantie onvergetelijk te maken."
     
 preview: no
 

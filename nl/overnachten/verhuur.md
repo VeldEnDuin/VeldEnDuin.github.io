@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Verhuur
-callout: TODO - trigger tekst vanop VERHUUR page
+callout: "Laat u verrassen door ons diverse logiesaanbod en kies de formule die het best bij u past."
 
 class:
     select: 

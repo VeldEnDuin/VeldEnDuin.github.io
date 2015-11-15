@@ -7,35 +7,159 @@ sort:
     key: date
     reverse: true
 items:
-  -
-    description:
-      nl: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ut urna a elit volutpat placerat. Maecenas semper nulla at tortor lobortis sodales. Donec molestie orci ac rhoncus malesuada. Donec tincidunt vel velit venenatis faucibus. Aliquam eu turpis mattis, lobortis nisi sed, placerat risus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce luctus, nulla vel sodales sollicitudin, nisl diam feugiat risus, ac pharetra tellus orci sit amet massa. Vestibulum sed mollis sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;"
+  - description:
+      nl: "start Bredene als campinggemeente"
+    date: 1932-01-01
+    title:
+      de: ""
+      en: ""
+      fr: ""
+      nl: "toerisme in Bredene"
+ - description:
+      nl: "Fernand Casier en kersverse echtgenote starten het kampeeravontuur."
     images:
       - /img/ingang.jpg
-    date: 2015-03-17
+    date: 1967-01-01
     title:
       de: ""
       en: ""
       fr: ""
-      nl: "Het nieuwe"
-
-  -
-    description:
-      nl: "jaja, zo was het toen"
+      nl: "korenveld wordt camping"
+  - description:
+      nl: "vanaf dan werd toiletbezoek een stuk comfortabeler"
     images:
       - /img/trekker.jpg
-    date: 1965-06-05
+    date: 1972-01-01
     title:
       de: ""
       en: ""
       fr: ""
-      nl: "Het oude"
-  -
-    description:
-      nl: "en dan was er alleen een beetje tekst"
-    date: 1965-01-04
+      nl: "aanleg riolering"
+  - description:
+      nl: "dankzij de distributie moest niemand nog een aflevering van zijn of haar vertrouwde feuilleton missen"
+    date: 1985-01-01
     title:
       de: ""
       en: ""
       fr: ""
-      nl: "Text Only"
+      nl: "antennes verdwijnen"
+  - description:
+      nl: "dankzij de distributie moest niemand nog een aflevering van zijn of haar vertrouwde feuilleton missen"
+    date: 1985-01-01
+    title:
+      de: ""
+      en: ""
+      fr: ""
+      nl: "antennes verdwijnen"
+  - description:
+      nl: "feesie"
+    date: 1992-01-01
+    title:
+      de: ""
+      en: ""
+      fr: ""
+      nl: "25-jarig jubileum"
+  - description:
+      nl: "de vertrouwde gasflessen worden omgeruild voor tankgas"
+    date: 1997-01-01
+    title:
+      de: ""
+      en: ""
+      fr: ""
+      nl: "gasflessen verdwijnen"
+  - description:
+      nl: "de aangrenzende camping Zon en Zee wordt overgenomen"
+    date: 2002-01-01
+    title:
+      de: ""
+      en: ""
+      fr: ""
+      nl: "overname zon en zee"
+  - description:
+      nl: "Belgiës eerste airtrampoline krijgt een plaatsje op Veld & Duin"
+    date: 2003-01-01
+    title:
+      de: ""
+      en: ""
+      fr: ""
+      nl: "airtrampoline"
+  - description:
+      nl: "start vernieuwingswerken op ex Zon en Zee"
+    date: 2005-01-01
+    title:
+      de: ""
+      en: ""
+      fr: ""
+      nl: "23 vernieuwde plaatsen"
+  - description:
+      nl: "Veld & Duin gaat voor draadloos"
+    date: 2006-01-01
+    title:
+      de: ""
+      en: ""
+      fr: ""
+      nl: "internet"
+  - description:
+      nl: "speelplein wordt verplaatst en uitgebreid"
+    date: 2006-06-01
+    title:
+      de: ""
+      en: ""
+      fr: ""
+      nl: "verplaatsing speelplein"
+  - description:
+      nl: "total make-over van de ingang: canvascontstructie, wandelpad en nieuwe toegangscontrole"
+    date: 2007-06-01
+    title:
+      de: ""
+      en: ""
+      fr: ""
+      nl: "vernieuwing ingang"
+  - description:
+      nl: "groots jubileumfeest en inhuldiging nieuwe ingang"
+    date: 2007-08-01
+    title:
+      de: ""
+      en: ""
+      fr: ""
+      nl: "40-jarig jubileum"
+  - description:
+      nl: "facelift receptie"
+    date: 2008-01-01
+    title:
+      de: ""
+      en: ""
+      fr: ""
+      nl: "nieuw onthaal"
+  - description:
+      nl: "de 2 appartementen boven de receptie worden klaargestoomd om te verhuren"
+    date: 2010-01-01
+    title:
+      de: ""
+      en: ""
+      fr: ""
+      nl: "2 luxe-appartementen"
+  - description:
+      nl: "vernieuwing check-in zone en plaatsing bannieren"
+    date: 2013-01-01
+    title:
+      de: ""
+      en: ""
+      fr: ""
+      nl: "bannier"
+  - description:
+      nl: "afwerking sanitair VDII"
+    date: 2014-01-01
+    title:
+      de: ""
+      en: ""
+      fr: ""
+      nl: "nieuw sanitairgebouw"
+  - description:
+      nl: "start fase IV"
+    date: 2014-01-01
+    title:
+      de: ""
+      en: ""
+      fr: ""
+      nl: "aanleg 10 plaatsen"

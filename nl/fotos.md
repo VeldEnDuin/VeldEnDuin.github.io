@@ -11,4 +11,7 @@ play-album:
     
 insert:
     - banner
+    
+callout: Wenst u al een voorproefje? Blader dan door dit fotoalbum en snuif de sfeer op van Veld & Duin.
+
 ---

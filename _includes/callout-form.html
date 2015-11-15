@@ -1,7 +1,7 @@
 {% include layout-prelude.html %}
 {% assign callout = page.callout %}
 {% if callout == nil %}
-    {% assign banner = site.data.langs[pgLang].dict.callout %}
+    {% assign callout = site.data.langs[pgLang].dict.callout %}
 {% endif %}
 
 <div class="container hidden-sm hidden-xs">
