@@ -20,7 +20,7 @@ nl:
         publication: Publicatie
         close: sluiten
         search: Zoek
-        banner: Wenst u graag een verblijf vast te leggen of hebt u nog een vraag voor ons? Vul dan nu meteen de reservatie aanvraag in.
+        callout: Wenst u graag een verblijf vast te leggen of hebt u nog een vraag voor ons? Vul dan nu meteen de reservatie aanvraag in.
         resa_action: Reservatie Aanvraag
         resa_formwait: Reservatie Aanvraag wordt geladen... (even geduld)
         mailchimp: Schrijf in op onze nieuwsbrief
@@ -58,7 +58,7 @@ fr:
         publication: (TODO FR) Publicatie
         close: fermer
         search: Recherche
-        banner: (TODO FR) tekst in de banner-callout
+        callout: (TODO FR) tekst in de banner-callout
         resa_action: (TODO FR) knop resa
         resa_formwait: (TODO FR) Reservatie Aanvraag wordt geladen... (even geduld)
         mailchimp: (TODO FR) tekst mailchimp inschrijving
@@ -92,7 +92,7 @@ de:
         publication: (TODO DE) Publicatie
         search: Suche
         close: (TODO DE) sluiten
-        banner: (TODO DE) tekst in de banner-callout
+        callout: (TODO DE) tekst in de banner-callout
         resa_action: (TODO DE) knop resa
         resa_formwait: (TODO DE) Reservatie Aanvraag wordt geladen... (even geduld)
         mailchimp: (TODO DE) tekst mailchimp inschrijving
@@ -125,7 +125,7 @@ en:
         publication: (TODO EN) publication
         close: close
         search: Search
-        banner: (TODO EN) tekst in de banner-callout
+        callout: (TODO EN) tekst in de banner-callout
         resa_action: (TODO EN) knop resa
         resa_formwait: (TODO EN) Reservatie Aanvraag wordt geladen... (even geduld)
         mailchimp: (TODO EN) tekst mailchimp inschrijving

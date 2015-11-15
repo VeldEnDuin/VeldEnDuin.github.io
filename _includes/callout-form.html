@@ -1,13 +1,13 @@
 {% include layout-prelude.html %}
-{% assign banner = page.banner %}
-{% if banner == nil %}
-    {% assign banner = site.data.langs[pgLang].dict.banner %}
+{% assign callout = page.callout %}
+{% if callout == nil %}
+    {% assign banner = site.data.langs[pgLang].dict.callout %}
 {% endif %}
 
 <div class="container hidden-sm hidden-xs">
 <div class="vd-callout row">
   <div class="col-lg-9 col-md-8">
-      {{ banner }}
+      {{ callout }}
   </div>
   <div class="pull-right col-lg-3 col-md-4">
     <button data-calloutselect="#form-callout"
