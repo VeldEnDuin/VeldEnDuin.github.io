@@ -69,7 +69,7 @@ PERIODE             | LAAGSEIZOEN | TUSSENSEIZOEN | HOOGSEIZOEN |
 2 nachten           |€ 155        |€ 170          |       
 extra nacht         |€ 52         |€ 58           |           
 midweek (ma-vrij)   |€ 215        |€ 240          |
-verlengd weekend (3 n)   |             |€ 240          |
+verlengd weekend (3 n)|             |€ 240          |
 7 nachten           |€ 370        |€ 410          | € 595
 extra nacht >7 n    |€ 45         |€ 55           | € 84
 14 nachten          |€ 650        |€ 755          | € 1125
