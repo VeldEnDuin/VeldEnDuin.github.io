@@ -40,6 +40,7 @@ layout: default
 {% endif %}
 {% for it in rankeditems %}
     {% assign title       = it.title[pgLang] %}
+    {% assign label       = it.label %}
     {% assign my_date     = it.date | date: "%m.%Y" %}
     {% assign m_date      = it.date | date: "%-m" |modulo: 12%}
     {% assign m_date_ndx  = m_date  | minus: 1 %}
@@ -69,8 +70,12 @@ layout: default
       >
         <div class="vd-group-content">
           <div class="vd-group-content-inner">
-        {% if my_date %}
-            <div class="vd-group-date"><span class="month">{{ m_text }}</span>&nbsp;<span class="year">{{ y_date }}</span></div>
+        {% if label %}
+            <div class="vd-group-date"><span class="year">{{ label }}</span></div>
+        {% else %}
+            {% if my_date %}
+                <div class="vd-group-date"><span class="month">{{ m_text }}</span>&nbsp;<span class="year">{{ y_date }}</span></div>
+            {% endif %}
         {% endif %}
             <div class="vd-group-title">
         {% if link %}
@@ -95,7 +100,14 @@ layout: default
             </div>
         {% endif %}
         {% unless imgbg %}
-            <div class="vd-group-img"><img src="{{it.images[0]}}" class="img img-thumbnail img-responsive"></div>
+            {% if it.images.size > 0 %}
+                {% if it.images.size == 1 %}
+                <div class="vd-group-img"><img src="{{it.images[0]}}" class="img img-thumbnail img-responsive"></div>
+                {% else %}
+                    {% assign imgs = it.images %}
+                    {% include imgs_as_strip.html %}
+                {% endif%}
+           {% endif%}
         {% endunless %}
         {% if description %}
             <div class="vd-group-description">

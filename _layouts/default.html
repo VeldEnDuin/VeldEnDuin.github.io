@@ -91,16 +91,8 @@
     {% endif %}
 
     {% if page.insert contains 'page-images-top' %}
-        {% if page.images %}
-          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-            <div class="vd-img-strip"><div style="width:200%">
-
-            {% for img in page.images %}
-              <img src="{{img}}">
-            {% endfor %}
-            </div></div>
-          </div>
-        {% endif %}
+        {% assign imgs = page.images %}
+        {% include imgs_as_strip.html %}
     {% endif %}
 
 
@@ -108,16 +100,8 @@
 
 
     {% if page.insert contains 'page-images-bottom' %}
-        {% if page.images %}
-          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-            <div class="vd-img-strip"><div style="width:200%">
-
-            {% for img in page.images %}
-              <img src="{{img}}">
-            {% endfor %}
-            </div></div>
-          </div>
-        {% endif %}
+        {% assign imgs = page.images %}
+        {% include imgs_as_strip.html %}
     {% endif %}
 
     {% if page.insert contains 'virtualtour' %}

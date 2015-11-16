@@ -7,157 +7,99 @@ sort:
     key: date
     reverse: true
 items:
-  - description:
-      nl: "Foto 1: Het strand en de duinen van Bredene oefenenen al sedert begin vorige eeuw een grote aantrekkingskracht uit.<br> Foto 2: Vanaf midden de jaren '20 zetten de eerste avonturiers hun tentje lukraak in de duinen. <br> Foto 3: Het wildkamperen in de duinen is verboden vanaf 1932. Vanaf dan kunnen de kampeerders terecht in het huidige Paelsteenveld en op de grond die een aantal landbouwers verhuren. <br> Foto 4: Het kamperen raakt meer en meer georganiseerd en de eerste echte campings zijn een feit. Tot de eerste generatie campinguitbaters behoren oa Arthur Claeys, Robert Ryckx en Oscar Devos, Verkempinck en weduwe Geldhof."
-    date: 1920-1965
+  - date: 1920-01-01
+    label: 1920 - 1965
     title:
-      de: ""
-      en: ""
-      fr: ""
       nl: "start (kampeer)toerisme in Bredene"
-  - description:
-      nl: "Foto 1: 1960: camping Prins Filip wordt opgericht door Albert Claeys en later uitgebaat door de fam Eerebout. Vanaf 1997 wordt dit Veld & Duin II.<br> Foto 2: In 1966 start Remi Pyra met camping Zon en Zee. <br> Foto 3: Een stuk korenveld wordt vanaf 1967 vrijgemaakt om te starten met Veld & Duin."
-    date: 1920-1965
+    description:
+      nl: >
+          <ol>
+            <li>Het strand en de duinen van Bredene oefenenen al sedert begin vorige eeuw een grote aantrekkingskracht uit.</li>
+            <li>Vanaf midden de jaren '20 zetten de eerste avonturiers hun tentje lukraak in de duinen.</li>
+            <li>Het wildkamperen in de duinen is verboden vanaf 1932. Vanaf dan kunnen de kampeerders terecht in het huidige Paelsteenveld en op de grond die een aantal landbouwers verhuren. </li>
+            <li>Het kamperen raakt meer en meer georganiseerd en de eerste echte campings zijn een feit. Tot de eerste generatie campinguitbaters behoren oa Arthur Claeys, Robert Ryckx en Oscar Devos, Verkempinck en weduwe Geldhof.</li>
+          </ol>
+
+
+  - date: 1960-01-01
+    label: 1960 - 1967
     title:
-      de: ""
-      en: ""
-      fr: ""
       nl: "Start Prins Filip, Zon en Zee, Veld & Duin"
-  - description:
+    description:
+      nl: >
+          <ol>
+            <li>1960. Camping Prins Filip wordt opgericht door Albert Claeys en later uitgebaat door de fam. Eerebout.
+                Vanaf 1997 wordt dit Veld & Duin II.</li>
+            <li>In 1966 start Remi Pyra met camping Zon en Zee.</li>
+            <li>Foto 3: Een stuk korenveld wordt vanaf 1967 vrijgemaakt om te starten met Veld & Duin.</li>
+          </ol>
+    images:
+      - /img/trekker.jpg
+
+
+  - date: 1967-01-01
+    label: 1967 - 1985
+    title:
+      nl: "De beginjaren van Veld & Duin"
+    description:
       nl: "Klik hier voor een hele reeks sfeerfoto's uit de jaren '70 en '80."
     images:
       - /img/trekker.jpg
-    date: 1967 - 1985
+      - /img/trekker.jpg
+      - /img/trekker.jpg
+      - /img/trekker.jpg
+
+
+  - date: 1992-07-31
     title:
-      de: ""
-      en: ""
-      fr: ""
-      nl: "De beginjaren van Veld & Duin"
-  - description:
-      nl: "Een kwarteeuw Veld & Duin werd uitbundig gevierd met lekker eten, muziek, dans en plezier. Alleen de weergoden speelden niet mee..."
-    date: 1992
-    title:
-      de: ""
-      en: ""
-      fr: ""
       nl: "25-jarig jubileum Veld & Duin"
-  - description:
-      nl: "In 2002 wordt het toenmalige Zon en Zee overgenomen. Er wordt meteen werk gemaakt van een renovatieplan voor de komende jaren."
-    date: 2002
+    description:
+      nl: "Een kwarteeuw Veld & Duin werd uitbundig gevierd met lekker eten, muziek, dans en plezier. Alleen de weergoden speelden niet mee..."
+
+
+  - date: 2002-01-01
+    label: 2002
     title:
-      de: ""
-      en: ""
-      fr: ""
       nl: "Overname Zon en Zee"
-  - description:
-      nl: "De eerste airtrampoline van België wordt bij ons geïnstalleerd. Vanaf 2006 krijgt de airtrampoline een plaatsje vooraan op de camping."
-    date: 2003
+    description:
+      nl: "In 2002 wordt het toenmalige Zon en Zee overgenomen. Er wordt meteen werk gemaakt van een renovatieplan voor de komende jaren."
+
+
+  - date: 2003-01-01
+    label: 2003
     title:
-      de: ""
-      en: ""
-      fr: ""
       nl: "Plaatsing airtrampoline"
-  - description:
-      nl: "In totaal worden 23 percelen volledig vernieuwd en voorzien van alle comfort."
-    date: 2004-2005
+    description:
+      nl: "De eerste airtrampoline van België wordt bij ons geïnstalleerd. Vanaf 2006 krijgt de airtrampoline een plaatsje vooraan op de camping."
+
+
+  - date: 2004-01-01
+    label: 2004 - 2005
     title:
-      de: ""
-      en: ""
-      fr: ""
       nl: "Start renovatiewerken ex Zon en Zee"
-  - description:
-      nl: "Nog eens 12 plaatsen worden vernieuwd, het speelplein wordt verplaatst en uitgebreid en komt wifi voor onze kampeerders."
-    date: 2005-2006
+    description:
+      nl: "In totaal worden 23 percelen volledig vernieuwd en voorzien van alle comfort."
+
+
+  - date: 2005-01-01
+    label: 2005 - 2006
     title:
-      de: ""
-      en: ""
-      fr: ""
       nl: "Verplaatsing speelplein"
-  - description:
-      nl: "De ingang wordt compleet vernieuwd met een grote canvastent, een mooi aangelegd wandelpad, een grafitti-wall en nieuwe toegangscontrole. Tenslotte worden nog eens 12 percelen vernieuwd."
-    date: 2006-2007
+    description:
+      nl: "Nog eens 12 plaatsen worden vernieuwd, het speelplein wordt verplaatst en uitgebreid en komt wifi voor onze kampeerders."
+
+
+  - date: 2006-01-01
+    label: 2006 - 2007
     title:
-      de: ""
-      en: ""
-      fr: ""
       nl: "Complete vernieuwing ingang"
-  - description:
-      nl: "Het 40-jarige jubileum wordt groots gevierd met een dag vol animatie aan de vernieuwde ingang en een sfeervol avondfeest."
-    date: 2007
+    description:
+      nl: "De ingang wordt compleet vernieuwd met een grote canvastent, een mooi aangelegd wandelpad, een grafitti-wall en nieuwe toegangscontrole. Tenslotte worden nog eens 12 percelen vernieuwd."
+
+
+  - date: 2007-01-01
+    label: 2007
     title:
-      de: ""
-      en: ""
-      fr: ""
       nl: "40-jarig jubileum"
-  - description:
-      nl: "todo"
-    date: 2006-01-01
-    title:
-      de: ""
-      en: ""
-      fr: ""
-      nl: "todo"
-  - description:
-      nl: "todo"
-    date: 2006-06-01
-    title:
-      de: ""
-      en: ""
-      fr: ""
-      nl: "todo"
-  - description:
-      nl: "todo"
-    date: 2007-06-01
-    title:
-      de: ""
-      en: ""
-      fr: ""
-      nl: "todo"
-  - description:
-      nl: "todo"
-    date: 2007-08-01
-    title:
-      de: ""
-      en: ""
-      fr: ""
-      nl: "todo"
-  - description:
-      nl: "todo"
-    date: 2008-01-01
-    title:
-      de: ""
-      en: ""
-      fr: ""
-      nl: "todo"
-  - description:
-      nl: "todo"
-    date: 2010-01-01
-    title:
-      de: ""
-      en: ""
-      fr: ""
-      nl: "todo"
-  - description:
-      nl: "todo"
-    date: 2013-01-01
-    title:
-      de: ""
-      en: ""
-      fr: ""
-      nl: "todo"
-  - description:
-      nl: "todo"
-    date: 2014-01-01
-    title:
-      de: ""
-      en: ""
-      fr: ""
-      nl: "todo"
-  - description:
-      nl: "todo"
-    date: 2014-01-01
-    title:
-      de: ""
-      en: ""
-      fr: ""
-      nl: "todo"
+    description:
+      nl: "Het 40-jarige jubileum wordt groots gevierd met een dag vol animatie aan de vernieuwde ingang en een sfeervol avondfeest."

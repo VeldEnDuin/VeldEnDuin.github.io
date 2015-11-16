@@ -354,13 +354,32 @@ table.table>tbody>tr>td:first-child
  *   -------------------------------------------------------------------------------
  *   [group :: timeline]
  */
+
+#vd-group-tijdslijn .vd-group-content ol {
+    counter-reset: foto;
+    display: table;
+}
+
+#vd-group-tijdslijn .vd-group-content ol > li {
+    counter-increment: foto;
+    display: table-row;
+}
+
+#vd-group-tijdslijn .vd-group-content ol > li::before {
+    content: "Foto\00a0" counter(foto) "."; /* the \00a0 works as nbsp */
+    display: table-cell;
+    text-align: right;
+    padding-right: 0.3em;
+}
+
+
 .vd-group-timeline.row {
 }
 
 .vd-group-timeline .timeline {
     margin: 0 auto;
     height: 100% !important;
-    width: 30px;
+    width: 34px;
 }
 
 .timeline .timeline-line {
@@ -377,8 +396,8 @@ table.table>tbody>tr>td:first-child
     margin: 0 auto;
     display: block;
     padding: 4px;
-    height: 22px !important;
-    width: 22px !important;
+    height: 20px !important;
+    width: 20px !important;
     background-color: rgba(255,255,255,1);
     border-radius: 50%;
     padding: 1em;
@@ -391,8 +410,8 @@ table.table>tbody>tr>td:first-child
     width: 18px !important;
     height: 18px !important;
     border-radius: 50%;
-    top: 5px;
-    left: 5px;
+    top: 7px;
+    left: 7px;
 }
 
 .vd-group-timeline-item .img-thumbnail {
@@ -805,12 +824,18 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
     background-color: rgba(255, 255, 255, 0.5);
     margin: 1em 0 0 0;
     height: 160px;
-    overflow: hidden;
+    overflow: scroll;
 }
+.vd-group-item-inner .vd-img-strip {
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
 .vd-img-strip>div {
     width: 200%;
     height: 160px;
 }
+
 .vd-img-strip>div>img {
     float: left;
     max-height: 100%;
