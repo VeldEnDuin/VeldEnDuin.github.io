@@ -5,8 +5,6 @@
     - linkcode: onze_troeven
 
     - linkcode: hier_staan_we_voor
-      menutekst:
-        nl: hier staan we voor
       submenu:
         - linkcode: rust
         - linkcode: groen
@@ -16,12 +14,8 @@
         - linkcode: fietsvriendelijk
 
     - linkcode: praktisch
-      menutekst:
-        nl: praktisch
 
     - linkcode: tijdslijn
-      menutekst:
-        nl: tijdslijn
 
 
 - linkcode: verhuur
@@ -32,9 +26,6 @@
     de: Übernachten
   submenu:
     - linkcode: verhuur
-      menutekst:
-        nl: Verhuur
-        fr: Location
       submenu:
         - linkcode: verhuur_info
         - linkcode: verhuur_luxe_appartementen
@@ -48,8 +39,6 @@
 
        
     - linkcode: trekkers
-      menutekst:
-        nl:  Trekkers
       submenu:
         - linkcode: trekkers_info
         - linkcode: trekkers_tent7x8
@@ -60,8 +49,6 @@
 
 
     - linkcode: residentieel
-      menutekst:
-        nl:  Residentieel Verblijf
       submenu:
         - linkcode: residentieel_info
         - linkcode: type_1
@@ -71,8 +58,6 @@
 
 
     - linkcode: arrangementen
-      menutekst:
-        nl:  Arrangementen
       submenu:
         - linkcode: arrangementen
         - linkcode: 7_plus_1
@@ -83,8 +68,6 @@
 
 
     - linkcode: te_koop
-      menutekst:
-        nl: Te koop
       submenu:
         - linkcode: te_koop
         - linkcode: a_15
@@ -120,5 +103,3 @@
 - linkcode: fotos
   menutekst:
     nl:  Foto's
-
-
