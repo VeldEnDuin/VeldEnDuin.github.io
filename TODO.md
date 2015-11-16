@@ -1,6 +1,10 @@
 TODO
 ====
-- tagcloud voor "onze troeven"
+- nakijken sync picasa ==> wat als beeld wordt verwijderd
+
+- tijdslijn
+  - indien beschikbaar link naar /pics album
+  - custom scroll-bar styling voor imgstrip
 
 - faq sectie op de search
 
