@@ -8,158 +8,159 @@ sort:
     reverse: true
 items:
   - description:
-      nl: "start Bredene als campinggemeente"
-    date: 1932-01-01
+      nl: "Foto 1: Het strand en de duinen van Bredene oefenenen al sedert begin vorige eeuw een grote aantrekkingskracht uit.<br> Foto 2: Vanaf midden de jaren '20 zetten de eerste avonturiers hun tentje lukraak in de duinen. <br> Foto 3: Het wildkamperen in de duinen is verboden vanaf 1932. Vanaf dan kunnen de kampeerders terecht in het huidige Paelsteenveld en op de grond die een aantal landbouwers verhuren. <br> Foto 4: Het kamperen raakt meer en meer georganiseerd en de eerste echte campings zijn een feit. Tot de eerste generatie campinguitbaters behoren oa Arthur Claeys, Robert Ryckx en Oscar Devos, Verkempinck en weduwe Geldhof."
+    date: 1920-1965
     title:
       de: ""
       en: ""
       fr: ""
-      nl: "toerisme in Bredene"
+      nl: "start (kampeer)toerisme in Bredene"
+
  - description:
-      nl: "Fernand Casier en kersverse echtgenote starten het kampeeravontuur."
+      nl: "Foto 1: "1960: camping Prins Filip wordt opgericht door Albert Claeys en later uitgebaat door de fam Eerebout. Vanaf 1997 wordt dit Veld & Duin II.<br> Foto 2: In 1966 start Remi Pyra met camping Zon en Zee. <br> Foto 3: Een stuk korenveld wordt vanaf 1967 vrijgemaakt om te starten met Veld & Duin."
     images:
       - /img/ingang.jpg
-    date: 1967-01-01
+    date: 1960-1967
     title:
       de: ""
       en: ""
       fr: ""
-      nl: "korenveld wordt camping"
+      nl: "begindagen Prins Filip, Zon en Zee, Veld & Duin"
   - description:
-      nl: "vanaf dan werd toiletbezoek een stuk comfortabeler"
+      nl: "Klik hier voor een hele reeks sfeerfoto's uit de jaren '70 en '80."
     images:
       - /img/trekker.jpg
-    date: 1972-01-01
+    date: 1967 - 1985
     title:
       de: ""
       en: ""
       fr: ""
-      nl: "aanleg riolering"
+      nl: "De beginjaren van Veld & Duin"
   - description:
-      nl: "dankzij de distributie moest niemand nog een aflevering van zijn of haar vertrouwde feuilleton missen"
-    date: 1985-01-01
+      nl: "Een kwarteeuw Veld & Duin werd uitbundig gevierd met lekker eten, muziek, dans en plezier. Alleen de weergoden speelden niet mee..."
+    date: 1992
     title:
       de: ""
       en: ""
       fr: ""
-      nl: "antennes verdwijnen"
+      nl: "25-jarig jubileum Veld & Duin"
   - description:
-      nl: "dankzij de distributie moest niemand nog een aflevering van zijn of haar vertrouwde feuilleton missen"
-    date: 1985-01-01
+      nl: "In 2002 wordt het toenmalige Zon en Zee overgenomen. Er wordt meteen werk gemaakt van een renovatieplan voor de komende jaren."
+    date: 2002
     title:
       de: ""
       en: ""
       fr: ""
-      nl: "antennes verdwijnen"
+      nl: "Overname Zon en Zee"
   - description:
-      nl: "feesie"
-    date: 1992-01-01
+      nl: "De eerste airtrampoline van België wordt bij ons geïnstalleerd. Vanaf 2006 krijgt de airtrampoline een plaatsje vooraan op de camping."
+    date: 2003
     title:
       de: ""
       en: ""
       fr: ""
-      nl: "25-jarig jubileum"
+      nl: "Plaatsing airtrampoline"
   - description:
-      nl: "de vertrouwde gasflessen worden omgeruild voor tankgas"
-    date: 1997-01-01
+      nl: "In totaal worden 23 percelen volledig vernieuwd en voorzien van alle comfort."
+    date: 2004-2005
     title:
       de: ""
       en: ""
       fr: ""
-      nl: "gasflessen verdwijnen"
+      nl: "Start renovatiewerken ex Zon en Zee"
   - description:
-      nl: "de aangrenzende camping Zon en Zee wordt overgenomen"
-    date: 2002-01-01
+      nl: "Nog eens 12 plaatsen worden vernieuwd, het speelplein wordt verplaatst en uitgebreid en komt wifi voor onze kampeerders."
+    date: 2005-2006
     title:
       de: ""
       en: ""
       fr: ""
-      nl: "overname zon en zee"
+      nl: "Verplaatsing speelplein"
   - description:
-      nl: "Belgiës eerste airtrampoline krijgt een plaatsje op Veld & Duin"
-    date: 2003-01-01
+      nl: "De ingang wordt compleet vernieuwd met een grote canvastent, een mooi aangelegd wandelpad, een grafitti-wall en nieuwe toegangscontrole. Tenslotte worden nog eens 12 percelen vernieuwd."
+    date: 2006-2007
     title:
       de: ""
       en: ""
       fr: ""
-      nl: "airtrampoline"
+      nl: "Complete vernieuwing ingang"
   - description:
-      nl: "start vernieuwingswerken op ex Zon en Zee"
-    date: 2005-01-01
-    title:
-      de: ""
-      en: ""
-      fr: ""
-      nl: "23 vernieuwde plaatsen"
-  - description:
-      nl: "Veld & Duin gaat voor draadloos"
-    date: 2006-01-01
-    title:
-      de: ""
-      en: ""
-      fr: ""
-      nl: "internet"
-  - description:
-      nl: "speelplein wordt verplaatst en uitgebreid"
-    date: 2006-06-01
-    title:
-      de: ""
-      en: ""
-      fr: ""
-      nl: "verplaatsing speelplein"
-  - description:
-      nl: "total make-over van de ingang: canvascontstructie, wandelpad en nieuwe toegangscontrole"
-    date: 2007-06-01
-    title:
-      de: ""
-      en: ""
-      fr: ""
-      nl: "vernieuwing ingang"
-  - description:
-      nl: "groots jubileumfeest en inhuldiging nieuwe ingang"
-    date: 2007-08-01
+      nl: "Het 40-jarige jubileum wordt groots gevierd met een dag vol animatie aan de vernieuwde ingang en een sfeervol avondfeest."
+    date: 2007
     title:
       de: ""
       en: ""
       fr: ""
       nl: "40-jarig jubileum"
   - description:
-      nl: "facelift receptie"
+      nl: "todo"
+    date: 2006-01-01
+    title:
+      de: ""
+      en: ""
+      fr: ""
+      nl: "todo"
+  - description:
+      nl: "todo"
+    date: 2006-06-01
+    title:
+      de: ""
+      en: ""
+      fr: ""
+      nl: "todo"
+  - description:
+      nl: "todo"
+    date: 2007-06-01
+    title:
+      de: ""
+      en: ""
+      fr: ""
+      nl: "todo"
+  - description:
+      nl: "todo"
+    date: 2007-08-01
+    title:
+      de: ""
+      en: ""
+      fr: ""
+      nl: "todo"
+  - description:
+      nl: "todo"
     date: 2008-01-01
     title:
       de: ""
       en: ""
       fr: ""
-      nl: "nieuw onthaal"
+      nl: "todo"
   - description:
-      nl: "de 2 appartementen boven de receptie worden klaargestoomd om te verhuren"
+      nl: "todo"
     date: 2010-01-01
     title:
       de: ""
       en: ""
       fr: ""
-      nl: "2 luxe-appartementen"
+      nl: "todo"
   - description:
-      nl: "vernieuwing check-in zone en plaatsing bannieren"
+      nl: "todo"
     date: 2013-01-01
     title:
       de: ""
       en: ""
       fr: ""
-      nl: "bannier"
+      nl: "todo"
   - description:
-      nl: "afwerking sanitair VDII"
+      nl: "todo"
     date: 2014-01-01
     title:
       de: ""
       en: ""
       fr: ""
-      nl: "nieuw sanitairgebouw"
+      nl: "todo"
   - description:
-      nl: "start fase IV"
+      nl: "todo"
     date: 2014-01-01
     title:
       de: ""
       en: ""
       fr: ""
-      nl: "aanleg 10 plaatsen"
+      nl: "todo"
