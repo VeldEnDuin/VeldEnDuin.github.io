@@ -26,8 +26,7 @@
   <body data-translations='{{site.data.langs[pgLang] | jsonify}}'>
     <header {%unless page.insert contains 'banner'%}class="spaced"{%endunless%}>
       <nav class="navbar navbar-default navbar-inverse">
-        <div class="vd-menu">
-        <div class="container-fluid">
+        <div class="vd-menu"><div class="container-fluid">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#vd-menu">
             <span class="sr-only">Toggle navigation</span>
@@ -38,6 +37,7 @@
           <a class="navbar-brand" href="/{{ pgLang }}/"><img src="/img/style/logo_veldenduin.png" title="Veld &amp; Duin"></a>
         </div>
 
+        <div id="vd-menu" class="navbar-collapse collapse">
             {% include main-menu.html %}
 
           <ul id="lang" class="nav navbar-nav navbar-right">
@@ -45,11 +45,9 @@
             {% include contact-menu.html %}
             {% include search-menu.html %}
           </ul>
+        </div>
 
-
-        </div>
-        </div>
-        </div>
+        </div></div>
       </nav>
     {% if page.insert contains 'banner' %}
       <div class="vd-banner hidden-sm hidden-xs"></div>
