@@ -15,17 +15,14 @@ items:
       en: ""
       fr: ""
       nl: "start (kampeer)toerisme in Bredene"
-
- - description:
-      nl: "Foto 1: "1960: camping Prins Filip wordt opgericht door Albert Claeys en later uitgebaat door de fam Eerebout. Vanaf 1997 wordt dit Veld & Duin II.<br> Foto 2: In 1966 start Remi Pyra met camping Zon en Zee. <br> Foto 3: Een stuk korenveld wordt vanaf 1967 vrijgemaakt om te starten met Veld & Duin."
-    images:
-      - /img/ingang.jpg
-    date: 1960-1967
+  - description:
+      nl: "Foto 1: 1960: camping Prins Filip wordt opgericht door Albert Claeys en later uitgebaat door de fam Eerebout. Vanaf 1997 wordt dit Veld & Duin II.<br> Foto 2: In 1966 start Remi Pyra met camping Zon en Zee. <br> Foto 3: Een stuk korenveld wordt vanaf 1967 vrijgemaakt om te starten met Veld & Duin."
+    date: 1920-1965
     title:
       de: ""
       en: ""
       fr: ""
-      nl: "begindagen Prins Filip, Zon en Zee, Veld & Duin"
+      nl: "Start Prins Filip, Zon en Zee, Veld & Duin"
   - description:
       nl: "Klik hier voor een hele reeks sfeerfoto's uit de jaren '70 en '80."
     images:
