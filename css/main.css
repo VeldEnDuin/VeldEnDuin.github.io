@@ -112,7 +112,8 @@ body:before {
 header.spaced {
     padding-bottom: 1em;
 }
-.btn-lg.btn-success {
+.btn-lg.btn-success,
+.btn-lg.btn-info {
     background-color: transparent;
     border: none;
     background-image: url('/img/style/btn_prim_background.svg');
@@ -121,6 +122,10 @@ header.spaced {
     background-repeat: no-repeat;
     text-align: center;
     text-shadow: 2px 2px 4px #4f5137;
+}
+
+.btn-lg.btn-info {
+    background-image: url('/img/style/btn_dark_background.svg');
 }
 
 /*
