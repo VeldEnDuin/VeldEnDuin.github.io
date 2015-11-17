@@ -10,28 +10,27 @@ items:
   - date: 1920-01-01
     label: 1920 - 1965
     title:
-      nl: "start (kampeer)toerisme in Bredene"
+      nl: "Start (kampeer)toerisme in Bredene"
     description:
       nl: >
           <ol>
-            <li>Het strand en de duinen van Bredene oefenenen al sedert begin vorige eeuw een grote aantrekkingskracht uit.</li>
+            <li>Het strand en de duinen van Bredene oefenen al sedert begin vorige eeuw een grote aantrekkingskracht uit.</li>
             <li>Vanaf midden de jaren '20 zetten de eerste avonturiers hun tentje lukraak in de duinen.</li>
-            <li>Het wildkamperen in de duinen is verboden vanaf 1932. Vanaf dan kunnen de kampeerders terecht in het huidige Paelsteenveld en op de grond die een aantal landbouwers verhuren. </li>
-            <li>Het kamperen raakt meer en meer georganiseerd en de eerste echte campings zijn een feit. Tot de eerste generatie campinguitbaters behoren oa Arthur Claeys, Robert Ryckx en Oscar Devos, Verkempinck en weduwe Geldhof.</li>
+            <li>Het wildkamperen in de duinen is verboden vanaf 1932. Vanaf dan kunnen de kampeerders terecht in het huidige Paelsteenveld en op de velden van een aantal plaatselijke landbouwers. </li>
+            <li>Het kamperen raakt meer en meer georganiseerd en de eerste echte campings zijn een feit. Tot de eerste generatie campinguitbaters behoren oa Arthur Claeys, Robert Ryckx, Oscar Devos, Verkempinck en weduwe Geldhof.</li>
           </ol>
 
 
-  - date: 1960-01-01
-    label: 1960 - 1967
+  - date: 1962-01-01
+    label: 1962 - 1967
     title:
-      nl: "Start Prins Filip, Zon en Zee, Veld & Duin"
+      nl: "Start campings Prins Filip - Zon en Zee - Veld & Duin"
     description:
       nl: >
           <ol>
-            <li>1960. Camping Prins Filip wordt opgericht door Albert Claeys en later uitgebaat door de fam. Eerebout.
-                Vanaf 1997 wordt dit Veld & Duin II.</li>
+            <li>Camping Prins Filip wordt in 1962 opgericht door Albert Claeys en later uitgebaat door de familie Eerebout. Vanaf 1996 wordt dit Veld & Duin II.</li>
             <li>In 1966 start Remi Pyra met camping Zon en Zee.</li>
-            <li>Foto 3: Een stuk korenveld wordt vanaf 1967 vrijgemaakt om te starten met Veld & Duin.</li>
+            <li>Een stuk korenveld wordt vanaf 1967 vrijgemaakt om te starten met Veld & Duin.</li>
           </ol>
     images:
       - /img/trekker.jpg
@@ -50,11 +49,26 @@ items:
       - /img/trekker.jpg
 
 
-  - date: 1992-07-31
+  - date: 1987-08-08
     title:
-      nl: "25-jarig jubileum Veld & Duin"
+      nl: "20-jarig jubileum Veld & Duin"
     description:
-      nl: "Een kwarteeuw Veld & Duin werd uitbundig gevierd met lekker eten, muziek, dans en plezier. Alleen de weergoden speelden niet mee..."
+      nl: "Groot feest ter gelegenheid van het 20-jarig bestaan van Veld & Duin en het 25-jarige jubileum van camping Prins Filip. Dit werd uitbundig gevierd met een Oberbayernavond, barbecue en kinderanimatie."
+
+
+  - date: 1996-08-01
+    label: 1996
+    title:
+      nl: "Eerste editie Afro Caribbean Festival"
+    description:
+      nl: "Het huidige Afro C Festival ontstond uit het Afro Caribbean Festival dat in 1996 voor het eerst werd georganiseerd als parkfeest. De eerste editie telde drie groepen, door de jaren heen werd het festival aanzienlijk uitgebreid. Vanaf 2009 werd dit een tweedaags festival."
+
+
+  - date: 1998-07-25
+    title:
+      nl: "Feest Veld & Duin"
+    description:
+      nl: "Opnieuw reden voor een feestje: Veld & Duin bestaat 31 jaar en Stefaan Casier verwelkomt zijn kampeerders voor het tweede seizoen op Veld & Duin II (het vroegere Prins Filip)."
 
 
   - date: 2002-01-01
@@ -63,6 +77,13 @@ items:
       nl: "Overname Zon en Zee"
     description:
       nl: "In 2002 wordt het toenmalige Zon en Zee overgenomen. Er wordt meteen werk gemaakt van een renovatieplan voor de komende jaren."
+
+  - date: 2002-08-01
+    label: 2002
+    title:
+      nl: "Jubileumfeest"
+    description:
+      nl: "Het seizoen wordt afgesloten met een feest ter gelegenheid van 35 jaar Veld & Duin. Op dit feest neemt Brigitte Pyra afscheid van haar kampeerders van Zon en Zee"
 
 
   - date: 2003-01-01
@@ -86,7 +107,7 @@ items:
     title:
       nl: "Verplaatsing speelplein"
     description:
-      nl: "Nog eens 12 plaatsen worden vernieuwd, het speelplein wordt verplaatst en uitgebreid en komt wifi voor onze kampeerders."
+      nl: "Nog eens 12 plaatsen worden vernieuwd, het speelplein wordt verplaatst en uitgebreid en er komt wifi voor onze kampeerders."
 
 
   - date: 2006-01-01
@@ -103,3 +124,43 @@ items:
       nl: "40-jarig jubileum"
     description:
       nl: "Het 40-jarige jubileum wordt groots gevierd met een dag vol animatie aan de vernieuwde ingang en een sfeervol avondfeest."
+
+
+  - date: 2008-01-01
+    label: 2008 - 2010
+    title:
+      nl: "Vernieuwing receptie"
+    description:
+      nl: "Het receptiegebouw wordt grondig gerenoveerd: het onthaal wordt volledig vernieuwd en er komt een extra verdieping. Op de eerste en tweede verdieping komen 2 luxe-appartementen voor verhuur."
+
+
+  - date: 2011-01-01
+    label: 2011
+    title:
+      nl: "Opening recreatiedomein Grasduinen"
+    description:
+      nl: "Grasduinen is een 9 ha groot recreatiedomein op wandelafstand van de camping. Op het domein is een vijver en vindt u verschillende sportvelden, speeltoestellen, wandel-en fietspaden. Er worden ook geregeld evenementen georganiseerd."
+
+
+  - date: 2013-01-01
+    label: 2013
+    title:
+      nl: "Toegang Veld & Duin in een nieuw jasje"
+    description:
+      nl: "Vanaf nu is de camping een stuk makkelijker terug te vinden door de plaatsing van 3 bannieren."
+
+
+  - date: 2013-02-01
+    label: 2013 - 2015
+    title:
+      nl: "Heraanleg park Paelsteenveld"
+    description:
+      nl: "Het Paelsteenveld tegenover de camping wordt grondig vernieuwd. De werken worden in verschillende fases uitgevoerd. Het gedeelte tussen de Astridbrug en het Staf Versluyscentrum is ondertussen volledig vernieuwd."
+
+
+  - date: 2014-01-01
+    label: 2014 - 2015
+    title:
+      nl: "Nieuw sanitair en start werken fase IV"
+    description:
+      nl: "Op Veld & Duin II wordt de laatste hand gelegd aan een modern nieuw sanitairgebouw. Daarnaast worden de eerste 10 plaatsen van het nieuwe renovatieproject aangelegd."
