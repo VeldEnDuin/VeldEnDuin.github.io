@@ -6,7 +6,7 @@ insert:
 {% include layout-prelude.html %}
 
 <div>
-{% if page.insert contains 'newsfeed' == true %}
+{% unless page.remove contains 'newsfeed' == true %}
     {% assign space = 8 %}
 {% else %}
     {% assign space = 12 %}
@@ -21,7 +21,7 @@ insert:
   </div>
 
 
-{% if page.insert contains 'newsfeed' %}
+{% unless page.remove contains 'newsfeed' %}
   <div class="col-lg-4 col-md-4">
     {% include newsfeed.html %}
   </div>
