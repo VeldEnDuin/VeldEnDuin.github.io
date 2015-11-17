@@ -9,7 +9,7 @@ class:
 
 preview: no
 
-icon: sunglasses
+icon: gift
 
 insert:
     - level3-tiles

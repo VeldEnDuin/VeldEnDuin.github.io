@@ -16,7 +16,7 @@
     {% endif %}
     >
       <h2 class="vd-select-title">{{ previewTitle }}</h2>
-            {% if linkPage.preview.button %}
+    {% if linkPage.preview.button %}
       <div class="vd-button"><div class="vd-button-tag"><div class="vd-button-inner">
 
         <span class="">
@@ -29,6 +29,7 @@
                 {{ linkPage.preview.button.for }}
         </span>
       </div></div></div>
+    {% endif %}
       <div class="vd-select-content">
                 {% if linkPage.preview.text.size > 0 %}
         <div>
@@ -45,8 +46,7 @@
                 {% endif %}
         </ul>
       </div>
-            {% endif %}
-        <button class="btn btn-lg btn-success">{{site.data.langs[pgLang].dict.moreinfo}}</button>
+        <button class="btn btn-lg btn-info">{{site.data.langs[pgLang].dict.moreinfo}}</button>
     </div>
   </div>
 </a>
