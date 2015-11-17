@@ -12,6 +12,10 @@ images:
 insert:
     - page-images-bottom
     
+remove:
+    - imgstrip
+    
+
 ---
 
 # Draadloos internet

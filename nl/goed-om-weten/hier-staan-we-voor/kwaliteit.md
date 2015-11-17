@@ -4,6 +4,10 @@ layout: page
 images: 
     - /img/labels/qfactor-label-2014-2016.jpg
     
+remove:
+    - imgstrip
+    
+
 ---
 
 #Kwaliteit

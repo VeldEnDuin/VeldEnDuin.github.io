@@ -12,6 +12,11 @@ images:
 
 insert:
     - page-images-bottom
+    
+remove:
+    - imgstrip
+    
+
 ---
 
 #Toeristische informatie

@@ -12,8 +12,7 @@ preview:
         - "privé-tuintje"
         - "comfort in mini-formaat"
         
- 
-        
+   
 
 images:
     - /img/overnachten/verhuring-C2-caravan/c2c-01.jpg

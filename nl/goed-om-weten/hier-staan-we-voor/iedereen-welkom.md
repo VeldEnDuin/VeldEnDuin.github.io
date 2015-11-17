@@ -11,6 +11,10 @@ images:
 insert:
     - page-images-bottom
 
+remove:
+    - imgstrip
+    
+
 ---
 
 #Iedereen welkom
