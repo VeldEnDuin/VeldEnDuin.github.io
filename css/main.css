@@ -577,19 +577,21 @@ svg.tagcloud {
     content: '';
 }
 .vd-select-submenu .vd-select-item-inner {
-    background-color: rgba(255,255,255,0.3);
-    border: 1px solid rgba(0,0,0,0.3);
-    padding: 1.5em 0.5em 0.5em 0.5em;
     position: relative;
-    border-radius:  5px;
     margin: 0.5em 0 0.5em 0;
+    border-radius: 5px;
 }
-
+.vd-select-submenu .vd-select-item-dimmer {
+    padding: 1.5em 0.5em 0.5em 0.5em;
+    background-color: rgba(255,255,255,0.7);
+    border: 1px solid rgba(0,0,0,0.3);
+    border-radius:  5px;
+}
 .properties-grid .vd-select-submenu .vd-select-item-inner {
     margin: 100px 0 50px 0;
 }
 
-.picto-grid .vd-select-submenu .vd-select-item-inner {
+.picto-grid .vd-select-submenu .vd-select-item-dimmer {
     height: 320px;
 }
 

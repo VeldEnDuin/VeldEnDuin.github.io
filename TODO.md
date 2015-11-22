@@ -12,9 +12,6 @@ TODO
     
 
 - voorzieningen overzicht
-    - iconen kleiner background-size = 50%
-    - background-repeat: no-repeat
-    - toch met wit-filter! eventueel lichter
     - lege blokken invoegen --> ruimte zie mail voor truuk/algoritme
 
 - responsive style voor de submenu ==> sneller onder elkaar zetten --> dan opletten voor tussenlijntjes horizontaal ipv verticaal!

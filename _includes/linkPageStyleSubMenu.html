@@ -8,13 +8,13 @@
     <div class="vd-select-item-inner"
     {% if linkPage.images.size > 0 %}{%assign backimg = linkPage.images[0] %}{%endif%}
     {% if linkPage.picto %}{%assign backimg = linkPage.picto %}{%endif%}
-    {% if backimg %}
-      style="background: linear-gradient(rgba(255,255,255,0.7),rgba(255,255,255,0.7)),
-             url('{{backimg}}');background-position: center center;
-             background-size: cover;
-             background-position: center center;"
+    {% if backimg %}style="
+        background: url('{{backimg}}');
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: {% if linkPage.picto %}50%{% else %}cover{% endif %};"
     {% endif %}
-    >
+    ><div class="vd-select-item-dimmer">
       <h2 class="vd-select-title">{{ previewTitle }}</h2>
     {% if linkPage.preview.button %}
       <div class="vd-button"><div class="vd-button-tag"><div class="vd-button-inner">
@@ -46,7 +46,7 @@
                 {% endif %}
         </ul>
       </div>
-        <button class="btn btn-lg btn-info">{{site.data.langs[pgLang].dict.moreinfo}}</button>
-    </div>
+      <button class="btn btn-lg btn-info">{{site.data.langs[pgLang].dict.moreinfo}}</button>
+    </div></div>
   </div>
 </a>
