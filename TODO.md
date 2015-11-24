@@ -11,42 +11,43 @@ TODO
       4/ sig.png --> handtekening met transp back ipv patroon 
     
 
-- responsive style voor de submenu ==> sneller onder elkaar zetten --> dan opletten voor tussenlijntjes horizontaal ipv verticaal!
+- styling level3-tiles tussenpagina --> variabel aantal kolommen afhankelijk van aantal items 
+   - 3 -> 3, 4 -> 4, 5+6 -> 3, 7+8 -> 4, 9 -> 3, 10+ --> 4 voor md en lg style, sm en xs altijd 2 resp 1
 
-- default style ==> responsiveness
-  1. menu smaller font or faster collapse variant
-  2. padding when banner is gone --> sowieso marge wat ruimer nemen!
-  
 - allow different banner-images for different pages --> default in style
   via prelude banner: {text:  , image: }
 
-- imgstrip size calculator ==> nu 200%, zou moeten gereduceerd worden door script zodat de scrollbar niet eindeloos blijft lopen (dus start 1000%, check height as parent, grab width --> set width)
-  * op de tijdlijn --> scroll beter afgemeten
-  * op de detail-pages --> geen overblijvende balk
+- news detail --> page layout 2/3 -1/3 zijblok bevat latest items zoals op landing
+  + knop naar news-archive
 
-- nakijken sync picasa ==> wat als beeld wordt verwijderd?
+- news overview page styling // archive
+  - tussenlijn per jaar
+  - simple list per jaar
+  - zijkant van deze bevat 'select sectie' --> die voorlopig herbruikbaar maken op de search page als faq?
+
+- shake up design voor "waar staan we voor"
 
 - tijdslijn
   - resize timing + masonery --> fail met images!! timing? img loaded?
   - indien beschikbaar link naar /pics album
   - eventueel custom scroll-bar styling voor imgstrip
 
-- news overview page styling // archive
-  - tussenlijn per jaar
-  - simple list per jaar
-  - zijkant van deze bevat 'select sectie' --> die voorlopig herbruikbaar maken op de search page als faq?
+- imgstrip size calculator ==> nu 200%, zou moeten gereduceerd worden door script zodat de scrollbar niet eindeloos blijft lopen (dus start 1000%, check height as parent, grab width --> set width)
+  * op de tijdlijn --> scroll beter afgemeten
+  * op de detail-pages --> geen overblijvende balk
+
+
+
+- responsive style voor de submenu ==> sneller onder elkaar zetten --> dan opletten voor tussenlijntjes horizontaal ipv verticaal!
+
+- default style ==> responsiveness
+  1. menu smaller font or faster collapse variant
+  2. padding when banner is gone --> sowieso marge wat ruimer nemen!
   
-- news detail --> page layout 2/3 -1/3 zijblok bevat latest items zoals op landing
-  + knop naar news-archive
-
-- styling level3-tiles tussenpagina --> variabel aantal kolommen afhankelijk van aantal items 
-   - 3 -> 3, 4 -> 4, 5+6 -> 3, 7+8 -> 4, 9 -> 3, 10+ --> 4 voor md en lg style, sm en xs altijd 2
-
-
+- nakijken sync picasa ==> wat als beeld wordt verwijderd?  
 
 - faq sectie op de search
 
-- shake up design voor "waar staan we voor"
 
 - joke: plan varianten met highlights
 
