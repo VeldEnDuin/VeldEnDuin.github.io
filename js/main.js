@@ -303,6 +303,54 @@
     });
 
     /*
+     * Inject Spaces in the grids of .spacedlayout
+     * =======================================================================
+     */
+    $(function () {
+        var $spacegroups = $('.picto-grid.vd-select-list');
+
+        function injArr(cnt, prd) {
+            if (prd < 3) {
+                return [];
+            }
+            var mod = cnt % prd, mdc = (prd - mod) % prd, tot = cnt + mdc,
+                injprd = Math.ceil(tot / (mdc + 1)),
+                injoff = mdc !== 0 ? Math.ceil(cnt / (2 * mdc)) : 0,
+                injarr = [], n;
+
+            // correction for insertion to be ignored if injection_period+1 would match the period
+            injprd += (prd === (injprd + 1)) ? 0 : 1;
+            for (n = 0; n < mdc; n += 1) {
+                injarr.push(injoff + n * injprd);
+            }
+            return injarr;
+        }
+
+        function spaceit(ndx, elm) {
+            $('.spacer', $(elm)).remove();
+            var $spc = $(elm), $items = $('.vd-select-item', $spc), $insets = $items.parent('a'),
+                count = $items.length, gridsize = 0, injarr, extra, n,
+                $fst = $items.eq(0),
+                top = $fst.offset().top,
+                itemcls = $fst.attr('class');
+
+            $items.each(function (ndx, elm) {
+                var elmtop = $(elm).offset().top;
+                top = top || elmtop;
+                gridsize +=  elmtop === top ? 1 : 0;
+            });
+            extra = (gridsize - (count % gridsize)) % gridsize;
+            for (n = 0; n < extra; n += 1) {
+                $spc.append('<a href="#" class="spacer"><div class="' + itemcls + '"><div class="vd-select-item-inner"><div class="vd-select-item-dimmer"></div></div></div></a>');
+            }
+        }
+        function spacethem() {
+            $spacegroups.each(spaceit);
+        }
+        $(window).resize(spacethem);
+        spacethem();
+    });
+    /*
      * Build up the group page 'history-timeline'
      * =======================================================================
      */

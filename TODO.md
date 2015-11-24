@@ -11,9 +11,6 @@ TODO
       4/ sig.png --> handtekening met transp back ipv patroon 
     
 
-- voorzieningen overzicht
-    - lege blokken invoegen --> ruimte zie mail voor truuk/algoritme
-
 - responsive style voor de submenu ==> sneller onder elkaar zetten --> dan opletten voor tussenlijntjes horizontaal ipv verticaal!
 
 - default style ==> responsiveness
