@@ -371,7 +371,8 @@ banner      | alle layouts        | de banner onder hoofdmenu
 play-album  | alle layouts        | foto-album
 level3-tiles| alle layouts        | klikbare tegels van level3 menu = blokken in je derde niveau van navigatie vb de blokken bij verhuuritems / residentieel / arrangementen
 newsfeed    | landing             | lijst met recente nieuws-artikels
-page-images | alle layouts        | band bovenaan de pagina met de lijst van beelden die gedeclareerd staan in de images: sectie van de prelude
+page-images-top | alle layouts        | band bovenaan de pagina met de lijst van beelden die gedeclareerd staan in de images: sectie van de prelude
+page-images-bottom | alle layouts        | dezelfde soort band met beelden, maar dan onder de tekst
 
 ### Prelude: remove
 
