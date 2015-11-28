@@ -12,6 +12,9 @@ TODO
     
 
 - shake up design voor "waar staan we voor"
+   - accordeon idee? 
+   >> http://stackoverflow.com/questions/18993202/bootstrap-3-0-collapse-horizontally
+   >> http://webdesignandsuch.com/top-20-horizontal-jquery-accordion-plugins-for-websites/
 
 - tijdslijn
   - resize timing + masonery --> fail met images!! timing? img loaded?
