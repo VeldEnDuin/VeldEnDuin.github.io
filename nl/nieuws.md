@@ -7,6 +7,6 @@ class:
 remove:
     - socialshare
 ---
+{% include layout-prelude.html %}
 
-{% assign pgLang = 'nl' %}
-{% include newsfeed.html %}
+{% include newsarchive.html %}

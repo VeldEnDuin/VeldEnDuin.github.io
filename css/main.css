@@ -196,6 +196,12 @@ table.table>tbody>tr>td:first-child
  * styling share buttons --> colors and fontsize
  *   -------------------------------------------------------------------------------
  */
+#vd-share {
+    text-align: center;
+}
+#vd-share div {
+    margin: 0 auto;
+}
 #vd-share-group {
 }
 .vd-share-grp button {
@@ -664,20 +670,27 @@ a:hover .vd-select-item-inner {
  */
 .vd-news-item {
     position: relative;
+    margin-left: 3em;
 }
 .vd-news-title {
     text-transform: uppercase;
 }
 .vd-news-item .vd-news-item-inner {
     position: relative;
-    margin-left: 3em;
     border-bottom: 1px solid rgba(79, 81, 55, 0.5);
     padding:  0;
 }
 .vd-news-item:last-child .vd-news-item-inner {
     border-bottom: 0px;
 }
-
+.vd-news-archive {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+}
+.vd-news-archive button {
+    margin: 0 auto;
+}
 .vd-news-item .vd-news-item-inner .vd-news-item-label {
     overflow: hidden;
     -webkit-border-radius: 6px;
@@ -725,6 +738,91 @@ a:hover .vd-select-item-inner {
 }
 
 .vd-news-footer {
+    padding-top: 9px;
+    margin-top: 20px;
+    border-top: 1px solid #eee;
+}
+
+
+
+/* ===================================================================================
+ * styling vd-archive sections
+ *   -------------------------------------------------------------------------------
+ */
+.vd-archive-item {
+    position: relative;
+    margin-left: 3em;
+}
+.vd-archive-title {
+    text-transform: uppercase;
+}
+.vd-archive-item .vd-archive-item-inner {
+    position: relative;
+    border-bottom: 1px solid rgba(79, 81, 55, 0.5);
+    padding:  0;
+}
+
+.vd-archive-item-inner.col-lg-12.col-md-12.col-sm-12.col-xs-12 {}
+.vd-archive-item:last-child .vd-archive-item-inner {
+    border-bottom: 0px;
+}
+
+.vd-archive-item .vd-archive-item-inner .vd-archive-item-label {
+    overflow: hidden;
+    -webkit-border-radius: 6px;
+       -moz-border-radius: 6px;
+            border-radius: 6px;
+    margin: 2px 0 2px 0;
+    padding: 6px 6px 6px 6px;
+}
+.vd-archive-item .vd-archive-item-inner .vd-archive-item-label:hover {
+    background: -moz-linear-gradient(left, rgba(184,186,138,0.5) 0%, rgba(162,167,105,0.5) 50%, rgba(139,148,72,0) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(184,186,138,0.5)), color-stop(50%,rgba(162,167,105,0.5)), color-stop(100%,rgba(139,148,72,0))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(left, rgba(184,186,138,0.5) 0%,rgba(162,167,105,0.5) 50%,rgba(139,148,72,0) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(left, rgba(184,186,138,0.5) 0%,rgba(162,167,105,0.5) 50%,rgba(139,148,72,0) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(left, rgba(184,186,138,0.5) 0%,rgba(162,167,105,0.5) 50%,rgba(139,148,72,0) 100%); /* IE10+ */
+    background: linear-gradient(to right, rgba(184,186,138,0.5) 0%,rgba(162,167,105,0.5) 50%,rgba(139,148,72,0) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80b8ba8a', endColorstr='#008b9448',GradientType=1 ); /* IE6-9 */
+}
+
+.vd-archive-item .vd-archive-icon {
+    position: absolute;
+    left: -3em;
+    top: 1em;
+    width: 2em;
+    height: 2em;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    margin: 0 0.5em 0 0.5em;
+    color: #fff;
+    text-shadow: 2px -2px 4px #4f5137;
+    background-color: #8fb742;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.vd-archive-item  .vd-archive-icon .fa {
+    font-size: 1.25em;
+}
+
+.vd-archive-item .vd-archive-item-inner .vd-archive-title {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.vd-archive-item .vd-archive-item-inner .vd-archive-title .vd-archive-item-date {
+    font-weight: normal;
+}
+
+.vd-archive-section {
+    padding-top: 1.5em;
+    padding-bottom: 0.5em;
+    color: #8fb742;
+    font-size: 2em;
+    text-transform: uppercase;
+    border-bottom: 1px solid rgba(79, 81, 55, 0.5);
+}
+
+.vd-archive-footer {
     padding-top: 9px;
     margin-top: 20px;
     border-top: 1px solid #eee;

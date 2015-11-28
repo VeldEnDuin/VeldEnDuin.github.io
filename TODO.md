@@ -10,13 +10,6 @@ TODO
       3/ kleuren voro utility/footer (kleuren achtergrond strip & buttons)
       4/ sig.png --> handtekening met transp back ipv patroon 
     
-- news detail --> page layout 2/3 -1/3 zijblok bevat latest items zoals op landing
-  + knop naar news-archive
-
-- news overview page styling // archive
-  - tussenlijn per jaar
-  - simple list per jaar
-  - zijkant van deze bevat 'select sectie' --> die voorlopig herbruikbaar maken op de search page als faq?
 
 - shake up design voor "waar staan we voor"
 

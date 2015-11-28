@@ -8,6 +8,7 @@ nl:
     dict:
         all: alle
         news: Nieuws
+        newsarchive: Archief
         mapxl: Grotere kaart weergeven
         virttour:
             - Virtuele

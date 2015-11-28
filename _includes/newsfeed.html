@@ -1,14 +1,18 @@
+<div class="vd-news-feed ">
 <div class="vd-news-title ">{{site.data.langs[pgLang].dict.news}}</div>
-<div class="vd-news-list  {{page.class.news.list}}"
+<div class="vd-news-list  {{page.class.news.list}} clearfix"
      id="vd-news-list" >
+{% assign cnt = 0 %}
 {% for pst in site.posts  %}
     <!-- {{pst.title}} @{{pst.url}} -->
     {% assign parts = pst.url | split: '/' %}
     {% assign ln = parts[1] %}
     {% if ln == pgLang %}
-  <div class="vd-news-item {{page.class.news.item}}" >
+        {% if cnt < site.newsfeed.max %}
+            {% assign cnt = cnt |plus: 1%}
+  <div class="vd-news-item clearfix {{page.class.news.item}}" >
     <a href="{{pst.url}}">
-      <div class="vd-news-item-inner col-lg-12 col-md-12 col-sm-12 col-xs-12"
+      <div class="vd-news-item-inner clearfix"
            data-images='{{pst.images | jsonify}}'>
         <div class="vd-news-icon">
           <span class="fa fa-rss"></span>
@@ -26,6 +30,13 @@
       </div>
     </a>
   </div>
+        {% endif %}
     {% endif %}
 {% endfor %}
+</div>
+<div class="vd-news-archive">
+  <a href="{{site.data.linkcode.news[pgLang]}}">
+    <button class="btn btn-lg btn-success">{{site.data.langs[pgLang].dict.newsarchive}}</button>
+  </a>
+</div>
 </div>
