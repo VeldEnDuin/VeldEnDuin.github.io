@@ -11,9 +11,6 @@ TODO
       4/ sig.png --> handtekening met transp back ipv patroon 
     
 
-- styling level3-tiles tussenpagina --> variabel aantal kolommen afhankelijk van aantal items 
-   - 3 -> 3, 4 -> 4, 5+6 -> 3, 7+8 -> 4, 9 -> 3, 10+ --> 4 voor md en lg style, sm en xs altijd 2 resp 1
-
 - allow different banner-images for different pages --> default in style
   via prelude banner: {text:  , image: }
 
