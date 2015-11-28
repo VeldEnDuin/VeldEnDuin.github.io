@@ -82,9 +82,6 @@ body:before {
 }
 .vd-banner {
     height: 450px;
-    background-image: url('/img/style/banner.jpg');
-    background-position: center top;
-    background-size: cover;
 }
 .vd-banner:after {
     content: "";

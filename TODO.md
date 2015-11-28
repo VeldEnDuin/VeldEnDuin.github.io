@@ -10,10 +10,6 @@ TODO
       3/ kleuren voro utility/footer (kleuren achtergrond strip & buttons)
       4/ sig.png --> handtekening met transp back ipv patroon 
     
-
-- allow different banner-images for different pages --> default in style
-  via prelude banner: {text:  , image: }
-
 - news detail --> page layout 2/3 -1/3 zijblok bevat latest items zoals op landing
   + knop naar news-archive
 
