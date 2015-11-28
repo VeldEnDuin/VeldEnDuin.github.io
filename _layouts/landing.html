@@ -11,7 +11,7 @@ insert:
 {% else %}
     {% assign space = 12 %}
 {% endunless %}
-  <div class="col-lg-{{space}} col-md-{{space}}">
+  <div class="col-lg-{{space}} col-md-{{space}} col-sm-12 col-xs-12">
     <div class="vd-landing-intro jumbotron">
     {{ content }}
     </div>
@@ -22,7 +22,7 @@ insert:
 
 
 {% unless page.remove contains 'newsfeed' %}
-  <div class="col-lg-4 col-md-4">
+  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
     {% include newsfeed.html %}
   </div>
 {% endunless %}
