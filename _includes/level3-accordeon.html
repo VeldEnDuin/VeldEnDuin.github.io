@@ -1,0 +1,33 @@
+{% if lvl2.submenu %}
+  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+    <div class="vd-horacc {{page.class.select.list}} clearfix" id="vd-horacc-list"
+    {% if page.insert contains 'background-image' and page.images.size > 0 %}
+      style="background: linear-gradient(rgba(255,255,255,0.7),rgba(255,255,255,0.7)),
+             url('{{page.images[0]}}');background-position: center center;
+             background-size: cover;
+             background-position: center center;"
+    {% endif %}
+    >
+
+    {% assign figcount = 0 %}
+    {% for link in lvl2.submenu %}
+        {% assign select = link.linkcode %}
+        {% for pg in site.pages %}
+            {% if pg.url == site.data.linkcode[select][pgLang] %}
+                {% unless pg.preview == false %}
+                    {% assign figcount = figcount |plus: 1 %}
+      <figure>
+        <div class="slide" style="background-image: url('{{pg.images[0]}}')"></div>
+        <input type="radio" name="acc-set" {% if figcount == 1 %}checked="checked"{% endif %}/>
+        <figcaption><a href="{{pg.url}}"><span>{{pg.title}}</span></a></figcaption>
+                {% endunless %}
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+
+    {% for i in (1..figcount) %}
+      </figure>
+    {% endfor %}
+    </div>
+  </div>
+{% endif %}

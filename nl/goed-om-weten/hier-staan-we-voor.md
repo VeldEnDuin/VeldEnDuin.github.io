@@ -4,9 +4,6 @@ layout: default
 
 preview: no
 icon: heart
-class:
-    select: 
-        list: "picto-grid"
 insert:
-    - level3-tiles
+    - level3-accordeon
 ---
