@@ -3,6 +3,8 @@ title: Geslaagde glühweinavond
 layout: post
 description: gezellig samenzijn met onze kampeerders
 permalink: /nl/2015-12-29-geslaagde-gluhweinavond.html
+
+    
 images: 
     - /img/stacaravan.jpg
 ---

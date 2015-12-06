@@ -1,7 +1,5 @@
 ---
 layout: default
-include:
-    - page-images-top
 ---
 {% include layout-prelude.html %}
 
@@ -18,7 +16,10 @@ include:
 
     {{ content }}
 
+    {% assign imgs = page.images %}
+    {% include imgs_as_strip.html %}
   </div>
+
   <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
     {% include newsfeed.html %}
 

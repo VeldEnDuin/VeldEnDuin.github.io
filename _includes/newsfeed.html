@@ -1,7 +1,26 @@
 <div class="vd-news-feed ">
-<div class="vd-news-title ">{{site.data.langs[pgLang].dict.news}}</div>
-<div class="vd-news-list  {{page.class.news.list}} clearfix"
-     id="vd-news-list" >
+
+<div class="vd-news-list {{page.class.news.list}} clearfix" id="vd-news-nav">
+{% if page.previous.url %}
+  <div class="vd-news-prev">
+    {% assign newsitem = page.previous %}
+    {% assign newsitemicon = 'glyphicon glyphicon-backward'%}
+    {% include newsfeeditem.html %}
+  </div>
+{% endif %}
+{% if page.next.url %}
+  <div class="vd-news-next">
+    {% assign newsitem = page.next %}
+    {% assign newsitemicon = 'glyphicon glyphicon-forward'%}
+    {% include newsfeeditem.html %}
+  </div>
+{% endif %}
+</div>
+
+
+<div class="vd-news-title ">{{ site.data.langs[pgLang].dict.latestnews}}</div>
+
+<div class="vd-news-list {{page.class.news.list}} clearfix" id="vd-news-list" >
 {% assign cnt = 0 %}
 {% for pst in site.posts  %}
     <!-- {{pst.title}} @{{pst.url}} -->
@@ -10,33 +29,18 @@
     {% if ln == pgLang %}
         {% if cnt < site.newsfeed.max %}
             {% assign cnt = cnt |plus: 1%}
-  <div class="vd-news-item clearfix {{page.class.news.item}}" >
-    <a href="{{pst.url}}">
-      <div class="vd-news-item-inner clearfix"
-           data-images='{{pst.images | jsonify}}'>
-        <div class="vd-news-icon">
-          <span class="fa fa-rss"></span>
-        </div>
-        <div class="vd-news-item-label">
-          <div class="vd-news-title ">
-        {{ pst.title }}
-            <span class="vd-news-item-date pull-right">
-              <span class="fa fa-calendar"></span>
-        {{ pst.date | date: "%d-%m-%y" }}
-            </span>
-          </div>
-          <div class="vd-news-teaser">{{ pst.description }}</div>
-        </div>
-      </div>
-    </a>
-  </div>
+            {% assign newsitem = pst %}
+            {% assign newsitemicon = 'fa fa-rss'%}
+            {% include newsfeeditem.html %}
         {% endif %}
     {% endif %}
 {% endfor %}
 </div>
+
 <div class="vd-news-archive">
   <a href="{{site.data.linkcode.news[pgLang]}}">
     <button class="btn btn-lg btn-success">{{site.data.langs[pgLang].dict.newsarchive}}</button>
   </a>
 </div>
+
 </div>

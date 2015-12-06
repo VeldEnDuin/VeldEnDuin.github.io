@@ -1,20 +1,12 @@
 TODO
 ====
 - mailchimp styling 
-    - tuning en testing
-    - vertaling
-    
+    - tuning en testing    
     - fixes (input van Els en Joke nodig)
-      1/ text preheader + spelling on-line
-      2/ text buttons in utility / footer
-      3/ kleuren voro utility/footer (kleuren achtergrond strip & buttons)
       4/ sig.png --> handtekening met transp back ipv patroon 
     
-
-- shake up design voor "waar staan we voor"
-   - accordeon idee? 
-   >> http://stackoverflow.com/questions/18993202/bootstrap-3-0-collapse-horizontally
-   >> http://webdesignandsuch.com/top-20-horizontal-jquery-accordion-plugins-for-websites/
+- nieuws
+  - regelen dat newsfeed verdwijnt als jongste artikel ouder is dan 3 maand --> kan niet in jekyll (html generation) --> zal in js moeten 
 
 - tijdslijn
   - resize timing + masonery --> fail met images!! timing? img loaded?

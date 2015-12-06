@@ -627,6 +627,7 @@ svg.tagcloud {
 }
 .vd-button .vd-button-tag-invert .vd-button-inner {
     background-color: #4F5137;
+
 }
 
 .vd-select-submenu .vd-button .vd-button-tag {
@@ -665,6 +666,220 @@ a:hover .vd-select-item-inner {
 
 
 /* ===================================================================================
+ * styling vd-horizontal accordeon sections
+ *   -------------------------------------------------------------------------------
+ */
+.vd-horacc {
+	width: 900px;  /* num items -1 * visible part + image width */
+	margin: 20px auto;
+	overflow: hidden;
+	box-shadow: 1px 1px 4px rgba(0,0,0,0.08);
+	border: 7px solid rgba(255,255,255,0.6);
+}
+
+.vd-horacc figure {
+    position: absolute;
+    top: 0;
+    left: 90px; /* width of visible piece */
+    width: 450px;
+    box-shadow: 0 0 0 1px rgba(255,255,255,0.6);
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.vd-horacc > figure {
+    position: relative;
+    left: 0 !important;
+}
+
+
+.vd-horacc div.slide {
+    width: 450px;
+    height: 600px;
+    background-size: cover;
+    background-position: center center;
+    background-color: rgba(143, 183, 66,0.5);
+    background-blend-mode: multiply;
+}
+
+
+.vd-horacc div.slide:hover {
+    background-color: rgba(255,255,255, 0.1);
+    background-blend-mode: multiply;
+}
+
+.vd-horacc input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 90px; /* just cover visible part */
+    height: 100%;
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    opacity: 0;
+    z-index: 100;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.vd-horacc input:checked{
+    width: 5px;
+    left: auto;
+    right: 0px;
+}
+.vd-horacc input:checked ~ figure {
+    -webkit-transition: all 0.7s ease-in-out;
+    -moz-transition: all 0.7s ease-in-out;
+    -o-transition: all 0.7s ease-in-out;
+    -ms-transition: all 0.7s ease-in-out;
+    transition: all 0.7s ease-in-out;
+    left: 450px; /* width of image */
+}
+
+.vd-horacc figcaption {
+    width: 100%;
+    height: 100%;
+    background: rgba(87, 73, 81, 0.1);
+    position: absolute;
+    top: 0px;
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    -ms-transition: all 0.2s linear;
+    /* transition: all 0.2s linear; */
+}
+
+.vd-horacc figcaption span {
+    position: absolute;
+    top: 40%;
+    margin-top: -30px;
+    right: 20px;
+    left: 20px;
+    overflow: hidden;
+    text-align: center;
+    background: rgba(87, 73, 81, 0.3);
+    line-height: 20px;
+    font-size: 18px;
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    opacity: 0;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: 700;
+    padding: 20px;
+    color: #fff;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
+}
+
+.vd-horacc input:checked + figcaption,
+.vd-horacc input:checked:hover + figcaption{
+    background: rgba(87, 73, 81, 0);
+}
+
+.vd-horacc input:checked + figcaption span {
+    -webkit-transition: all 0.4s ease-in-out 0.5s;
+    -moz-transition: all 0.4s ease-in-out 0.5s;
+    -o-transition: all 0.4s ease-in-out 0.5s;
+    -ms-transition: all 0.4s ease-in-out 0.5s;
+    transition: all 0.4s ease-in-out 0.5s;
+
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=99)";
+    filter: alpha(opacity=99);
+    opacity: 1;
+
+    top: 50%;
+}
+
+.vd-horacc input:hover + figcaption {
+    background: rgba(87, 73, 81, 0.03);
+}
+
+.vd-horacc input:checked ~ figure input{
+    z-index: 1;
+}
+
+@media screen and (max-width: 991px) {
+    .vd-horacc {
+	width: 700px;
+    }
+
+    .vd-horacc figure {
+	left: 60px;
+	width: 400px;
+    }
+
+    .vd-horacc input {
+	width: 60px;
+    }
+
+    .vd-horacc input:checked ~ figure {
+        left: 400px;
+    }
+
+    .vd-horacc figcaption span {
+        font-size: 20px;
+    }
+}
+
+
+@media screen and (max-width: 767px) {
+    .vd-horacc {
+	width: 500px;
+    }
+
+    .vd-horacc figure {
+	left: 40px;
+	width: 300px;
+    }
+
+    .vd-horacc input {
+	width: 40px;
+    }
+
+    .vd-horacc input:checked ~ figure {
+        left: 300px;
+    }
+
+    .vd-horacc figcaption span {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 520px) {
+    .vd-horacc {
+	width: 300px;
+    }
+
+    .vd-horacc figure {
+	left: 20px;
+	width: 200px;
+    }
+
+    .vd-horacc input {
+	width: 20px;
+    }
+
+    .vd-horacc input:checked ~ figure {
+	left: 200px;
+    }
+
+    .vd-horacc figcaption span {
+        font-size: 12px;
+        letter-spacing: 2px;
+        padding: 10px;
+        margin-top: -20px;
+    }
+}
+
+
+/* ===================================================================================
  * styling vd-news sections
  *   -------------------------------------------------------------------------------
  */
@@ -673,6 +888,7 @@ a:hover .vd-select-item-inner {
     margin-left: 3em;
 }
 .vd-news-title {
+    /* font-size:  2em; */
     text-transform: uppercase;
 }
 .vd-news-item .vd-news-item-inner {
@@ -715,14 +931,14 @@ a:hover .vd-select-item-inner {
     top: 1em;
     width: 2em;
     height: 2em;
-    padding: 0.5em 0.5em 0.5em 0.5em;
+    padding: 0.33em 0.33em 0.5em 0.5em;
     margin: 0 0.5em 0 0.5em;
     color: #fff;
     text-shadow: 2px -2px 4px #4f5137;
     background-color: #8fb742;
     -webkit-border-radius: 50%;
-       -moz-border-radius: 50%;
-            border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
 }
 
 .vd-news-item  .vd-news-icon .fa {
