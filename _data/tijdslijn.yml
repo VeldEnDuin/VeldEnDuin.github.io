@@ -15,9 +15,9 @@ items:
       nl: >
           <ol>
             <li>Het strand en de duinen van Bredene oefenen al sedert begin vorige eeuw een grote aantrekkingskracht uit.</li>
-            <li>Vanaf midden de jaren '20 zetten de eerste avonturiers hun tentje lukraak in de duinen.</li>
+            <li>Midden jaren '20 zetten de eerste avonturiers hun tentje lukraak in de duinen.</li>
             <li>Het wildkamperen in de duinen is verboden vanaf 1932. Vanaf dan kunnen de kampeerders terecht in het huidige Paelsteenveld en op de velden van een aantal plaatselijke landbouwers. </li>
-            <li>Het kamperen raakt meer en meer georganiseerd en de eerste echte campings zijn een feit. Tot de eerste generatie campinguitbaters behoren oa Arthur Claeys, Robert Ryckx, Oscar Devos, Verkempinck en weduwe Geldhof.</li>
+            <li>Het kamperen raakt meer en meer georganiseerd en de eerste echte campings zijn een feit. Tot de eerste generatie campinguitbaters behoren o.a. Arthur Claeys, Robert Ryckx, Oscar Devos, Verkempinck en weduwe Geldhof.</li>
           </ol>
     images:
       - /img/tijdslijn/1920-1965/strand.jpg
@@ -35,7 +35,7 @@ items:
           <ol>
             <li>Camping Prins Filip wordt in 1962 opgericht door Albert Claeys en later uitgebaat door de familie Eerebout. Vanaf 1996 wordt dit Veld & Duin II.</li>
             <li>In 1966 start Remi Pyra met camping Zon en Zee.</li>
-            <li>Een stuk korenveld wordt vanaf 1967 vrijgemaakt om te starten met Veld & Duin.</li>
+            <li>Een stuk korenveld wordt vanaf 1967 vrijgemaakt voor de eerste kampeerders op Veld & Duin.</li>
           </ol>
     images:
       - /img/tijdslijn/1962-1967/prinsfilip.jpg
@@ -101,7 +101,7 @@ items:
     title:
       nl: "Jubileumfeest"
     description:
-      nl: "Het seizoen wordt afgesloten met een feest ter gelegenheid van 35 jaar Veld & Duin. Op dit feest neemt Brigitte Pyra afscheid van haar kampeerders van Zon en Zee"
+      nl: "Het seizoen wordt afgesloten met een feest ter gelegenheid van 35 jaar Veld & Duin. Op dit feest neemt Brigitte Pyra afscheid van haar kampeerders van Zon en Zee."
     images:
       - /img/tijdslijn/2002/jubileum2002-01.jpg
       - /img/tijdslijn/2002/jubileum2002-02.jpg
@@ -124,9 +124,9 @@ items:
   - date: 2004-01-01
     label: 2004 - 2005
     title:
-      nl: "Start renovatiewerken ex Zon en Zee"
+      nl: "Start renovatiewerken"
     description:
-      nl: "In totaal worden 23 percelen volledig vernieuwd en voorzien van alle comfort."
+      nl: "Op het voormalige Zon en Zee worden 23 grote en nieuwe percelen aangelegd."
     images:
       - /img/tijdslijn/2004-2005/werken-01.jpg
       - /img/tijdslijn/2004-2005/werken-02.jpg
@@ -150,7 +150,7 @@ items:
     title:
       nl: "Complete vernieuwing ingang"
     description:
-      nl: "De ingang wordt compleet vernieuwd met een grote canvastent, een mooi aangelegd wandelpad, een grafitti-wall en nieuwe toegangscontrole. Tenslotte worden nog eens 12 percelen vernieuwd."
+      nl: "De ingang krijgt een complete facelift met een grote canvastent, een mooi aangelegd wandelpad, een grafitti-wall en een nieuwe toegangscontrole. Tenslotte komen er nog eens 12 nieuwe percelen."
     images:
       - /img/tijdslijn/2006-2007/tent-01.jpg
       - /img/tijdslijn/2006-2007/tent-02.jpg
@@ -165,7 +165,7 @@ items:
     title:
       nl: "40-jarig jubileum"
     description:
-      nl: "Het 40-jarige jubileum wordt groots gevierd met een dag vol animatie aan de vernieuwde ingang en een sfeervol avondfeest."
+      nl: "Het 40-jarig jubileum wordt groots gevierd met een dag vol animatie en een sfeervol avondfeest."
     images:
       - /img/tijdslijn/2007/jubileum2007-01.jpg
       - /img/tijdslijn/2007/jubileum2007-02.jpg
@@ -189,7 +189,7 @@ items:
     title:
       nl: "Opening recreatiedomein Grasduinen"
     description:
-      nl: "Grasduinen is een 9 ha groot recreatiedomein op wandelafstand van de camping. Op het domein is een vijver en vindt u verschillende sportvelden, speeltoestellen, wandel-en fietspaden. Er worden ook geregeld evenementen georganiseerd."
+      nl: "Grasduinen is een 9 ha groot recreatiedomein op wandelafstand van de camping. Op het domein is er een vijver en vindt u verschillende sportvelden, speeltoestellen, wandel-en fietspaden. Er worden ook geregeld evenementen georganiseerd."
     images:
       - /img/tijdslijn/2011/grasduinen.jpg
 
@@ -199,25 +199,26 @@ items:
     title:
       nl: "Toegang Veld & Duin in een nieuw jasje"
     description:
-      nl: "Vanaf nu is de camping een stuk makkelijker terug te vinden door de plaatsing van 3 bannieren."
+      nl: "Er komt een check-in zone en 3 stijlvolle bannieren zodat u ons nog makkelijker kan vinden."
     images:
       - /img/tijdslijn/2013/ingang.jpg
 
 
   - date: 2013-02-01
-    label: 2013 - 2015
+    label: 2013
     title:
-      nl: "Heraanleg park Paelsteenveld"
+      nl: "Start heraanleg park Paelsteenveld"
     description:
-      nl: "Het Paelsteenveld tegenover de camping wordt grondig vernieuwd. De werken worden in verschillende fases uitgevoerd. Het gedeelte tussen de Astridbrug en het Staf Versluyscentrum is ondertussen volledig vernieuwd."
+      nl: "Het Paelsteenveld tegenover de camping wordt heraangelegd. De werken worden in verschillende fases uitgevoerd. Het gedeelte tussen de Astridbrug en het Staf Versluyscentrum is ondertussen volledig klaar."
     images:
       - /img/tijdslijn/2013-2015/Paelsteenveld-01.jpg
       - /img/tijdslijn/2013-2015/Paelsteenveld-02.jpg
 
 
   - date: 2014-01-01
-    label: 2014 - 2016
+    label: 2014 - 2015
     title:
       nl: "Nieuw sanitair en start werken fase IV"
     description:
-      nl: "Op Veld & Duin II wordt de laatste hand gelegd aan een modern nieuw sanitairgebouw. Daarnaast worden de eerste 10 plaatsen van het nieuwe renovatieproject aangelegd."
+      nl: "Op Veld & Duin II wordt het moderne en nieuwe sanitairgebouw afgewerkt.<br> Het renovatieproject gaat van start met de aanleg van 10 nieuwe percelen."
+

@@ -23,7 +23,7 @@ Het sleutelwoord om samen een aangename vakantie door te brengen is wederzijds r
 
 Een aantal regels waaraan iedereen zich moet houden:
 
-- nachtrust
+- nachtrust (22u - 8u)
 - balspelen: niet toegelaten op de camping - u kunt hiervoor terecht in het tegenoverliggende park of op het strand
 - barbecueën is toegestaan bij uw chalet, caravan of tent - niet op het balkon of terras van de (luxe)appartementen 
 - vrienden en familieleden zijn welkom maar moeten uiteraard dezelfde regels volgen

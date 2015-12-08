@@ -22,10 +22,7 @@ remove:
 
 
 Vakantie bij Veld & Duin is even ontsnappen aan de dagelijkse sleur om zo terug de batterijen te kunnen opladen.<br>
-Als vakantie voor u synoniem is voor feesten tot diep in de nacht of indien u een fulltime animatieprogramma zoekt, kunnen we u niet de gewenste vakantie bieden.
+Als vakantie voor u synoniem is voor feesten tot diep in de nacht of indien u een fulltime animatieprogramma zoekt, zullen we u niet de gewenste vakantie kunnen bieden.
 
-De airtrampoline wordt aangezet van 14- tot 22u. Na 22u wordt de airtrampoline én het speelplein afgesloten om lawaaihinder te vermijden.<br>
-Uiteraard kunt u daarna met uw vrienden nog rustig napraten aan uw verblijf of met de kinderen een gezelschapspelletje spelen. Zorg er echter steeds voor dat uw buren kunnen genieten van hun nachtrust.
-
-Iedereen heeft recht op een goede nachtrust. Tussen 22u en 8u moet die dan ook gerespecteerd worden.<br>
-Binnenrijden met de auto tussen die uren kan, maar hou het zo discreet mogelijk.
+Iedere gast bij Veld & Duin heeft recht op een goede nachtrust. We vragen dan ook uitdrukkelijk om deze tussen 22u en 8u te respecteren.<br>
+Binnenrijden met de auto tussen die uren kan, maar houd het zo discreet mogelijk.
