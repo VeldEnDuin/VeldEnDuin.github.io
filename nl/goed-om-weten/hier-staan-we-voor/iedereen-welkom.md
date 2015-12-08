@@ -21,7 +21,7 @@ remove:
 Kinderen, jongeren, families, senioren,...we heten iedereen graag van harte welkom op Veld & Duin!<br>
 Het sleutelwoord om samen een aangename vakantie door te brengen is wederzijds respect en dat is voor ons dan ook cruciaal. 
 
-Een aantal regels waaraan iedereen zich moet houden:
+Een aantal regels waaraan iedereen zich dient te houden:
 
 - nachtrust (22u - 8u)
 - balspelen: niet toegelaten op de camping - u kunt hiervoor terecht in het tegenoverliggende park of op het strand
