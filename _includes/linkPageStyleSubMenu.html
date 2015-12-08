@@ -1,22 +1,25 @@
 {% assign previewTitle = linkPage.title %}
+{% unless itemcls %}
+    {% assign itemcls = 'col-lg-3 col-md-3 col-sm-6 col-xs-12' %}
+{% endunless %}
 {% if linkPage.preview.title %}
     {% assign previewTitle = linkPage.preview.title %}
 {% endif %}
 
 <a href="{{pg.url}}">
-  <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 vd-select-item {{page.class.select.item}} vd-select-submenu">
+  <div class="{{itemcls}} vd-select-item {{page.class.select.item}} vd-select-submenu">
     <div class="vd-select-item-inner"
     {% if linkPage.images.size > 0 %}{%assign backimg = linkPage.images[0] %}{%endif%}
     {% if linkPage.picto %}{%assign backimg = linkPage.picto %}{%endif%}
-    {% if backimg %}
-      style="background: linear-gradient(rgba(255,255,255,0.7),rgba(255,255,255,0.7)),
-             url('{{backimg}}');background-position: center center;
-             background-size: cover;
-             background-position: center center;"
+    {% if backimg %}style="
+        background: url('{{backimg}}');
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: {% if linkPage.picto %}50%{% else %}cover{% endif %};"
     {% endif %}
-    >
+    ><div class="vd-select-item-dimmer">
       <h2 class="vd-select-title">{{ previewTitle }}</h2>
-            {% if linkPage.preview.button %}
+    {% if linkPage.preview.button %}
       <div class="vd-button"><div class="vd-button-tag"><div class="vd-button-inner">
 
         <span class="">
@@ -29,6 +32,7 @@
                 {{ linkPage.preview.button.for }}
         </span>
       </div></div></div>
+    {% endif %}
       <div class="vd-select-content">
                 {% if linkPage.preview.text.size > 0 %}
         <div>
@@ -45,8 +49,7 @@
                 {% endif %}
         </ul>
       </div>
-            {% endif %}
-        <button class="btn btn-lg btn-success">{{site.data.langs[pgLang].dict.moreinfo}}</button>
-    </div>
+      <button class="btn btn-lg btn-info">{{site.data.langs[pgLang].dict.moreinfo}}</button>
+    </div></div>
   </div>
 </a>

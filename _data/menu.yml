@@ -6,6 +6,7 @@
 
     - linkcode: hier_staan_we_voor
       submenu:
+        - linkcode: hier_staan_we_voor
         - linkcode: rust
         - linkcode: groen
         - linkcode: iedereen_welkom

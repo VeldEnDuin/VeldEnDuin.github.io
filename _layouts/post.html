@@ -5,69 +5,25 @@ layout: default
 
 <div class="vd-news">
 
-  <div class="vd-news-content col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="vd-news-content col-lg-8 col-md-8 col-sm-12 col-xs-12" >
     <h1 class="vd-news-title">
     {{ page.title }}
+    <span class="vd-news-item-date pull-right">
+      <span class="fa fa-calendar"></span>
+    {{ page.date | date: "%d-%m-%y" }}
+    </span>
     </h1>
 
     {{ content }}
 
+    {% assign imgs = page.images %}
+    {% include imgs_as_strip.html %}
   </div>
 
-  <div class="vd-news-images col-lg-12 col-md-12 col-sm-12 hidden-xs">
-    {% for img in page.images %}
-    <div class="vd-news-image-item col-lg-4 col-md-4 col-sm-4">
-      <img src="{{ img }}" class="img-responsive img-thumbnail" >
-    </div>
-    {% endfor %}
-  </div>
+  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+    {% include newsfeed.html %}
 
-
-  <div class="vd-news-footer col-lg-12 col-md-12 col-sm-12 col-xs-12">
-    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
-    {{site.data.langs[pgLang].dict.share}}<br>
     {% include socialshare.html %}
-    </div>
-
-    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-    {{site.data.langs[pgLang].dict.othernews}}<br>
-      <div class="btn-group btn-group-lg">
-    {% if page.previous %}
-        <a class="btn btn-success" href="{{page.previous.url}}">
-          <span class="glyphicon glyphicon-backward"></span>
-        {{page.previous.title}}
-        </a>
-    {% else %}
-        <button type="button" class="btn btn-default disabled">
-          <span class="glyphicon glyphicon-remove"></span>
-        {{site.data.langs[pgLang].dict.prev}}
-        </button>
-    {%endif%}
-        <a class="btn btn-primary" href="{{site.data.linkcode.news[pgLang]}}">
-          <span class="glyphicon glyphicon-list"></span>
-        {{site.data.langs[pgLang].dict.overview}}
-        </a>
-    {% if page.next %}
-        <a class="btn btn-success" href="{{page.next.url}}">
-          <span class="glyphicon glyphicon-forward"></span>
-        {{page.next.title}}
-        </a>
-    {% else %}
-        <button type="button" class="btn btn-default disabled">
-          <span class="glyphicon glyphicon-remove"></span>
-        {{site.data.langs[pgLang].dict.next}}
-        </button>
-    {%endif%}
-      </div>
-    </div>
-
-    <div class="col-lg-1 col-md-1 hidden-sm hidden-xs">
-    {{site.data.langs[pgLang].dict.publication}}<br>
-      <span class="vd-news-item-date pull-right">
-        <span class="fa fa-calendar"></span>
-    {{ page.date | date: "%d-%m-%y" }}
-      </span>
-    </div>
   </div>
 
 </div>

@@ -1,3 +1,6 @@
+---
+tcs: [1,2,3,5,6,9]
+---
 <!DOCTYPE html>
 {% include layout-prelude.html %}
 
@@ -50,7 +53,11 @@
         </div></div>
       </nav>
     {% if page.insert contains 'banner' %}
-      <div class="vd-banner hidden-sm hidden-xs"></div>
+         {% assign bannerimg = '/img/style/banner.jpg' %}
+         {%if page.bannerimg %}{% assign bannerimg = page.bannerimg %}{%endif%}
+      <div class="vd-banner hidden-sm hidden-xs"
+          style="background-image: url('{{bannerimg}}'); background-position: center top; background-size: cover;"
+      ></div>
         {% unless page.remove contains 'callout' %}
             {% include callout-form.html %}
         {% endunless%}
@@ -61,31 +68,12 @@
       <div class="container-fluid">
         <div id="content" class="col-lg-12 col-md-12 col-sm-12 col-xs-12" >
     {% include secondary-menu.html %}
+
     {% if page.insert contains 'level3-tiles' %}
-        {% if lvl2.submenu %}
-          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-            <div class="vd-select-list {{page.class.select.list}} clearfix" id="vd-select-list"
-            {% if page.insert contains 'background-image' and page.images.size > 0 %}
-              style="background: linear-gradient(rgba(255,255,255,0.7),rgba(255,255,255,0.7)),
-                     url('{{page.images[0]}}');background-position: center center;
-                     background-size: cover;
-                     background-position: center center;"
-            {% endif %}
-            >
-            {% for link in lvl2.submenu %}
-                {% assign select = link.linkcode %}
-                {% for pg in site.pages %}
-                    {% if pg.url == site.data.linkcode[select][pgLang] %}
-                        {% unless pg.preview == false %}
-                            {% assign linkPage = pg %}
-                            {% include linkPageStyleSubMenu.html %}
-                        {% endunless %}
-                    {% endif %}
-                {% endfor %}
-            {% endfor %}
-            </div>
-          </div>
-        {% endif %}
+        {% include level3-tiles.html  %}
+    {% endif %}
+    {% if page.insert contains 'level3-accordeon' %}
+        {% include level3-accordeon.html  %}
     {% endif %}
 
     {% if page.insert contains 'page-images-top' %}

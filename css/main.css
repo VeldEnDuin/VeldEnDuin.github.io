@@ -82,9 +82,6 @@ body:before {
 }
 .vd-banner {
     height: 450px;
-    background-image: url('/img/style/banner.jpg');
-    background-position: center top;
-    background-size: cover;
 }
 .vd-banner:after {
     content: "";
@@ -112,7 +109,8 @@ body:before {
 header.spaced {
     padding-bottom: 1em;
 }
-.btn-lg.btn-success {
+.btn-lg.btn-success,
+.btn-lg.btn-info {
     background-color: transparent;
     border: none;
     background-image: url('/img/style/btn_prim_background.svg');
@@ -121,6 +119,10 @@ header.spaced {
     background-repeat: no-repeat;
     text-align: center;
     text-shadow: 2px 2px 4px #4f5137;
+}
+
+.btn-lg.btn-info {
+    background-image: url('/img/style/btn_dark_background.svg');
 }
 
 /*
@@ -194,6 +196,12 @@ table.table>tbody>tr>td:first-child
  * styling share buttons --> colors and fontsize
  *   -------------------------------------------------------------------------------
  */
+#vd-share {
+    text-align: center;
+}
+#vd-share div {
+    margin: 0 auto;
+}
 #vd-share-group {
 }
 .vd-share-grp button {
@@ -572,19 +580,21 @@ svg.tagcloud {
     content: '';
 }
 .vd-select-submenu .vd-select-item-inner {
-    background-color: rgba(255,255,255,0.3);
-    border: 1px solid rgba(0,0,0,0.3);
-    padding: 1.5em 0.5em 0.5em 0.5em;
     position: relative;
-    border-radius:  5px;
     margin: 0.5em 0 0.5em 0;
+    border-radius: 5px;
 }
-
+.vd-select-submenu .vd-select-item-dimmer {
+    padding: 1.5em 0.5em 0.5em 0.5em;
+    background-color: rgba(255,255,255,0.7);
+    border: 1px solid rgba(0,0,0,0.3);
+    border-radius:  5px;
+}
 .properties-grid .vd-select-submenu .vd-select-item-inner {
     margin: 100px 0 50px 0;
 }
 
-.picto-grid .vd-select-submenu .vd-select-item-inner {
+.picto-grid .vd-select-submenu .vd-select-item-dimmer {
     height: 320px;
 }
 
@@ -617,6 +627,7 @@ svg.tagcloud {
 }
 .vd-button .vd-button-tag-invert .vd-button-inner {
     background-color: #4F5137;
+
 }
 
 .vd-select-submenu .vd-button .vd-button-tag {
@@ -655,25 +666,247 @@ a:hover .vd-select-item-inner {
 
 
 /* ===================================================================================
+ * styling vd-horizontal accordeon sections
+ *   -------------------------------------------------------------------------------
+ */
+.vd-horacc {
+	width: 900px;  /* num items -1 * visible part + image width */
+	margin: 20px auto;
+	overflow: hidden;
+	box-shadow: 1px 1px 4px rgba(0,0,0,0.08);
+	border: 7px solid rgba(255,255,255,0.6);
+}
+
+.vd-horacc figure {
+    position: absolute;
+    top: 0;
+    left: 90px; /* width of visible piece */
+    width: 450px;
+    box-shadow: 0 0 0 1px rgba(255,255,255,0.6);
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.vd-horacc > figure {
+    position: relative;
+    left: 0 !important;
+}
+
+
+.vd-horacc div.slide {
+    width: 450px;
+    height: 600px;
+    background-size: cover;
+    background-position: center center;
+    background-color: rgba(143, 183, 66,0.5);
+    background-blend-mode: multiply;
+}
+
+
+.vd-horacc div.slide:hover {
+    background-color: rgba(255,255,255, 0.1);
+    background-blend-mode: multiply;
+}
+
+.vd-horacc input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 90px; /* just cover visible part */
+    height: 100%;
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    opacity: 0;
+    z-index: 100;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.vd-horacc input:checked{
+    width: 5px;
+    left: auto;
+    right: 0px;
+}
+.vd-horacc input:checked ~ figure {
+    -webkit-transition: all 0.7s ease-in-out;
+    -moz-transition: all 0.7s ease-in-out;
+    -o-transition: all 0.7s ease-in-out;
+    -ms-transition: all 0.7s ease-in-out;
+    transition: all 0.7s ease-in-out;
+    left: 450px; /* width of image */
+}
+
+.vd-horacc figcaption {
+    width: 100%;
+    height: 100%;
+    background: rgba(87, 73, 81, 0.1);
+    position: absolute;
+    top: 0px;
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    -ms-transition: all 0.2s linear;
+    /* transition: all 0.2s linear; */
+}
+
+.vd-horacc figcaption span {
+    position: absolute;
+    top: 40%;
+    margin-top: -30px;
+    right: 20px;
+    left: 20px;
+    overflow: hidden;
+    text-align: center;
+    background: rgba(87, 73, 81, 0.3);
+    line-height: 20px;
+    font-size: 18px;
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    opacity: 0;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: 700;
+    padding: 20px;
+    color: #fff;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
+}
+
+.vd-horacc input:checked + figcaption,
+.vd-horacc input:checked:hover + figcaption{
+    background: rgba(87, 73, 81, 0);
+}
+
+.vd-horacc input:checked + figcaption span {
+    -webkit-transition: all 0.4s ease-in-out 0.5s;
+    -moz-transition: all 0.4s ease-in-out 0.5s;
+    -o-transition: all 0.4s ease-in-out 0.5s;
+    -ms-transition: all 0.4s ease-in-out 0.5s;
+    transition: all 0.4s ease-in-out 0.5s;
+
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=99)";
+    filter: alpha(opacity=99);
+    opacity: 1;
+
+    top: 50%;
+}
+
+.vd-horacc input:hover + figcaption {
+    background: rgba(87, 73, 81, 0.03);
+}
+
+.vd-horacc input:checked ~ figure input{
+    z-index: 1;
+}
+
+@media screen and (max-width: 991px) {
+    .vd-horacc {
+	width: 700px;
+    }
+
+    .vd-horacc figure {
+	left: 60px;
+	width: 400px;
+    }
+
+    .vd-horacc input {
+	width: 60px;
+    }
+
+    .vd-horacc input:checked ~ figure {
+        left: 400px;
+    }
+
+    .vd-horacc figcaption span {
+        font-size: 20px;
+    }
+}
+
+
+@media screen and (max-width: 767px) {
+    .vd-horacc {
+	width: 500px;
+    }
+
+    .vd-horacc figure {
+	left: 40px;
+	width: 300px;
+    }
+
+    .vd-horacc input {
+	width: 40px;
+    }
+
+    .vd-horacc input:checked ~ figure {
+        left: 300px;
+    }
+
+    .vd-horacc figcaption span {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 520px) {
+    .vd-horacc {
+	width: 300px;
+    }
+
+    .vd-horacc figure {
+	left: 20px;
+	width: 200px;
+    }
+
+    .vd-horacc input {
+	width: 20px;
+    }
+
+    .vd-horacc input:checked ~ figure {
+	left: 200px;
+    }
+
+    .vd-horacc figcaption span {
+        font-size: 12px;
+        letter-spacing: 2px;
+        padding: 10px;
+        margin-top: -20px;
+    }
+}
+
+
+/* ===================================================================================
  * styling vd-news sections
  *   -------------------------------------------------------------------------------
  */
 .vd-news-item {
     position: relative;
+    margin-left: 3em;
 }
 .vd-news-title {
+    /* font-size:  2em; */
     text-transform: uppercase;
 }
 .vd-news-item .vd-news-item-inner {
     position: relative;
-    margin-left: 3em;
     border-bottom: 1px solid rgba(79, 81, 55, 0.5);
     padding:  0;
 }
 .vd-news-item:last-child .vd-news-item-inner {
     border-bottom: 0px;
 }
-
+.vd-news-archive {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+}
+.vd-news-archive button {
+    margin: 0 auto;
+}
 .vd-news-item .vd-news-item-inner .vd-news-item-label {
     overflow: hidden;
     -webkit-border-radius: 6px;
@@ -698,14 +931,14 @@ a:hover .vd-select-item-inner {
     top: 1em;
     width: 2em;
     height: 2em;
-    padding: 0.5em 0.5em 0.5em 0.5em;
+    padding: 0.33em 0.33em 0.5em 0.5em;
     margin: 0 0.5em 0 0.5em;
     color: #fff;
     text-shadow: 2px -2px 4px #4f5137;
     background-color: #8fb742;
     -webkit-border-radius: 50%;
-       -moz-border-radius: 50%;
-            border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
 }
 
 .vd-news-item  .vd-news-icon .fa {
@@ -721,6 +954,91 @@ a:hover .vd-select-item-inner {
 }
 
 .vd-news-footer {
+    padding-top: 9px;
+    margin-top: 20px;
+    border-top: 1px solid #eee;
+}
+
+
+
+/* ===================================================================================
+ * styling vd-archive sections
+ *   -------------------------------------------------------------------------------
+ */
+.vd-archive-item {
+    position: relative;
+    margin-left: 3em;
+}
+.vd-archive-title {
+    text-transform: uppercase;
+}
+.vd-archive-item .vd-archive-item-inner {
+    position: relative;
+    border-bottom: 1px solid rgba(79, 81, 55, 0.5);
+    padding:  0;
+}
+
+.vd-archive-item-inner.col-lg-12.col-md-12.col-sm-12.col-xs-12 {}
+.vd-archive-item:last-child .vd-archive-item-inner {
+    border-bottom: 0px;
+}
+
+.vd-archive-item .vd-archive-item-inner .vd-archive-item-label {
+    overflow: hidden;
+    -webkit-border-radius: 6px;
+       -moz-border-radius: 6px;
+            border-radius: 6px;
+    margin: 2px 0 2px 0;
+    padding: 6px 6px 6px 6px;
+}
+.vd-archive-item .vd-archive-item-inner .vd-archive-item-label:hover {
+    background: -moz-linear-gradient(left, rgba(184,186,138,0.5) 0%, rgba(162,167,105,0.5) 50%, rgba(139,148,72,0) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(184,186,138,0.5)), color-stop(50%,rgba(162,167,105,0.5)), color-stop(100%,rgba(139,148,72,0))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(left, rgba(184,186,138,0.5) 0%,rgba(162,167,105,0.5) 50%,rgba(139,148,72,0) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(left, rgba(184,186,138,0.5) 0%,rgba(162,167,105,0.5) 50%,rgba(139,148,72,0) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(left, rgba(184,186,138,0.5) 0%,rgba(162,167,105,0.5) 50%,rgba(139,148,72,0) 100%); /* IE10+ */
+    background: linear-gradient(to right, rgba(184,186,138,0.5) 0%,rgba(162,167,105,0.5) 50%,rgba(139,148,72,0) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80b8ba8a', endColorstr='#008b9448',GradientType=1 ); /* IE6-9 */
+}
+
+.vd-archive-item .vd-archive-icon {
+    position: absolute;
+    left: -3em;
+    top: 1em;
+    width: 2em;
+    height: 2em;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    margin: 0 0.5em 0 0.5em;
+    color: #fff;
+    text-shadow: 2px -2px 4px #4f5137;
+    background-color: #8fb742;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.vd-archive-item  .vd-archive-icon .fa {
+    font-size: 1.25em;
+}
+
+.vd-archive-item .vd-archive-item-inner .vd-archive-title {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.vd-archive-item .vd-archive-item-inner .vd-archive-title .vd-archive-item-date {
+    font-weight: normal;
+}
+
+.vd-archive-section {
+    padding-top: 1.5em;
+    padding-bottom: 0.5em;
+    color: #8fb742;
+    font-size: 2em;
+    text-transform: uppercase;
+    border-bottom: 1px solid rgba(79, 81, 55, 0.5);
+}
+
+.vd-archive-footer {
     padding-top: 9px;
     margin-top: 20px;
     border-top: 1px solid #eee;
@@ -824,7 +1142,7 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
     background-color: rgba(255, 255, 255, 0.5);
     margin: 1em 0 0 0;
     height: 160px;
-    overflow: scroll;
+    overflow: hidden;
 }
 .vd-group-item-inner .vd-img-strip {
     overflow-x: scroll;

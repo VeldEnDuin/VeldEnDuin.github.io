@@ -270,6 +270,16 @@ De link via [klikbaar woord](http://anderewebsite.be) naar de andere site.
 insert:
   - banner
 ```
+
+- het beeld in de banner wijst voor elke pagina naar ```/img/style/banner.jpg```, maar kan voor specifieke pagina anders ingesteld worden door de prelude:
+
+```yml
+bannerimg: /img/other/image.png
+```
+
+Let er wel op dat dit beeld breed genoeg is, en ook centraal-onderaan het meest belangrijke element bevat aangezien het automatisch op dat punt zal inzoomen op smallere schermen.
+
+
 ### Callout
 - standaard bevat de banner een callout (= witte balk met reservatie aanvraag knop). 
 - de callout kun je verbergen:
@@ -370,7 +380,8 @@ banner      | alle layouts        | de banner onder hoofdmenu
 play-album  | alle layouts        | foto-album
 level3-tiles| alle layouts        | klikbare tegels van level3 menu = blokken in je derde niveau van navigatie vb de blokken bij verhuuritems / residentieel / arrangementen
 newsfeed    | landing             | lijst met recente nieuws-artikels
-page-images | alle layouts        | band bovenaan de pagina met de lijst van beelden die gedeclareerd staan in de images: sectie van de prelude
+page-images-top | alle layouts        | band bovenaan de pagina met de lijst van beelden die gedeclareerd staan in de images: sectie van de prelude
+page-images-bottom | alle layouts        | dezelfde soort band met beelden, maar dan onder de tekst
 
 ### Prelude: remove
 

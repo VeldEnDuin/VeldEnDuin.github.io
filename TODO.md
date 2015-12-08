@@ -1,29 +1,43 @@
 TODO
 ====
-- nakijken sync picasa ==> wat als beeld wordt verwijderd
+- mailchimp styling 
+    - tuning en testing    
+    - fixes (input van Els en Joke nodig)
+      4/ sig.png --> handtekening met transp back ipv patroon 
+    
+- nieuws
+  - regelen dat newsfeed verdwijnt als jongste artikel ouder is dan 3 maand --> kan niet in jekyll (html generation) --> zal in js moeten 
 
 - tijdslijn
+  - resize timing + masonery --> fail met images!! timing? img loaded?
   - indien beschikbaar link naar /pics album
-  - custom scroll-bar styling voor imgstrip
+  - eventueel custom scroll-bar styling voor imgstrip
+
+- imgstrip size calculator ==> nu 200%, zou moeten gereduceerd worden door script zodat de scrollbar niet eindeloos blijft lopen (dus start 1000%, check height as parent, grab width --> set width)
+  * op de tijdlijn --> scroll beter afgemeten
+  * op de detail-pages --> geen overblijvende balk
+
+
+
+- responsive style voor de submenu ==> sneller onder elkaar zetten --> dan opletten voor tussenlijntjes horizontaal ipv verticaal!
+
+- default style ==> responsiveness
+  1. menu smaller font or faster collapse variant
+  2. padding when banner is gone --> sowieso marge wat ruimer nemen!
+  
+- nakijken sync picasa ==> wat als beeld wordt verwijderd?  
 
 - faq sectie op de search
 
-- shake up design voor "waar staan we voor"
-
-- te koop volgens "doen" layout
 
 - joke: plan varianten met highlights
 
 - uitleg: hoe beelden inlassen?
 
-- mailchimp styling 
-    - tuning en testing
-    - vertaling
-    
 
 - fotoalbum(s)
   - include one album
-  - allow browsing all albums --> /pics
+  - allow browsing all albums --> /pics <-- gefiltered op naam-patroon "YYYYMMDD (.*)" --> datum los van naam/title
   - preview en autoplay?
   
   - tussenlijn per jaar --> doen grid behouden
