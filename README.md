@@ -14,6 +14,10 @@
 
 [Deze tekst op volle pagina][README.md]
 
+Opstarten Brackets + terminalvenster (voor detecteren fouten):
+* ALT F2 of typ 'terminalvenster' in zoekscherm
+* terminalvenster opent zich
+* typ: 'startsite'
 
 # Beheer site via Github - Brackets
 
@@ -149,6 +153,11 @@ door een ```-``` of ```*``` teken met spatie aan het begin van een lijn te gebru
 * item 1
 * item 2
 - topic 3
+
+**speciale tekens**
+via de charactermap:
+* typ in zoekscherm 'tekenset'
+* van hieruit kun je de gewenste tekens knippen en plakken
 
 
 **gescheiden paragrafen:**

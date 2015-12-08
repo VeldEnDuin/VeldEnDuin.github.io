@@ -12,7 +12,7 @@ class:
     select:
         item: col-lg-12 col-md-12 col-sm-12 col-xs-12
         
-callout: We leiden u graag rond op onze nieuwe site en hopen u binnenkort bij ons te mogen verwelkomen!
+callout: Benieuwd wat Veld & Duin u te bieden heeft? Neem een kijkje op onze site en ontdek de vakantieformule die het beste bij u past. Graag tot binnenkort!
 
 ---
 {% include links.md %}

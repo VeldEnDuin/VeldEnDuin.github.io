@@ -22,7 +22,7 @@ images:
 
 #Romantiek-aan-zee
 
-Ons romantisch-aan-zee-arrangement is de gedroomde kans om uw geliefde in de watten te leggen. Naast een heerlijk verblijf wacht u een verkwikkende saunabeurt met extraatjes.
+Ons romantiek-aan-zee-arrangement is de gedroomde kans om uw geliefde in de watten te leggen. Naast een heerlijk verblijf wacht u een verkwikkende saunabeurt met extraatjes.
 
     
 ##Goed om weten
