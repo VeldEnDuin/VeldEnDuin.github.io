@@ -54,6 +54,9 @@ residentieel:
     nl:  /nl/overnachten/residentieel-verblijf.html
 arrangementen:
     nl:  /nl/overnachten/arrangement.html
+
+
+# [2.*] extra's overnachten buiten menu
 nieuw_project:
     nl: /nl/overnachten/nieuw-project.html
 wedstrijd:
