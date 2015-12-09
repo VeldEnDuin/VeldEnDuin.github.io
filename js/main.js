@@ -408,7 +408,9 @@
             $grid.on('layoutComplete', postlayout);
             postlayout();
         }
-        setTimeout(startMasonry,0);
+        $(window).on("load", function(){
+            setTimeout(startMasonry,0);
+        });
     });
 
     /*

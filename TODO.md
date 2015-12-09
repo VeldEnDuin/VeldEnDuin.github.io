@@ -6,9 +6,10 @@ TODO
       4/ sig.png --> handtekening met transp back ipv patroon 
     - probleem met de dubbele titel boven/onder logo --> qwerken met 2 rijen in tabel?
     
-- Fix -0 : terugzetten de stijl Hierstaanwevoor --> geen accordeon (later --> todo toevoegen)
 - Fix -1 : tijdslijn
   - resize timing + masonery --> fail met images!! timing? img loaded?
+    >> https://github.com/desandro/imagesloaded
+    >> http://stackoverflow.com/questions/910727/jquery-event-for-images-loaded
   - indien beschikbaar link naar /pics album
   - eventueel custom scroll-bar styling voor imgstrip
 - Fix -2 : fotos (nog zonder pics)
