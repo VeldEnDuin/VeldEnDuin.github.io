@@ -176,3 +176,16 @@ pdf_allianz:
     nl: /nl/pdf/allianz-algemene-voorwaarden.pdf
 pdf_mvo:
     nl: /nl/pdf/mvo-rapport.pdf
+pdf_brandverzekering:
+    nl: /nl/pdf/brandverzekering-polisvwen.pdf
+
+# [7] externe links
+kusttram:
+    nl:http://wwww.delijn.be/nl/kusttram
+nmbs:
+    nl:http://www.belgianrail.be/nl
+q-label:
+    nl:http://www.dekust.be/q-label
+fietsnet:
+    nl:http://www.fietsnet.be/routeplanner/default.aspx
+
