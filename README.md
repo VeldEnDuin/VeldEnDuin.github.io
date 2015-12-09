@@ -234,7 +234,7 @@ Voor alle pagina's waarnaar je wilt linken (vanuit menu of vanuit tekst) is het 
     {iso-taal-code}: {de effectieve link}
 ```
 
-voorbeeld:
+**voorbeeld:**
 
 ```yml
 sauna: 

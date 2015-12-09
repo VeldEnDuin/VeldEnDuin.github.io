@@ -29,7 +29,7 @@ items:
     - title:
         nl: "wifi"
     - title:
-        nl: "ruimte plaatsen"
+        nl: "ruime plaatsen"
     - title:
         nl: "eigen groenonderhoud"
     - title:
@@ -41,7 +41,7 @@ items:
     - title:
         nl: "technische know-how"
     - title:
-        nl: "infoscherm"
+        nl: "met zicht op de Mont Blanc"
     - title:
         nl: "petanqueplein"
     - title:
@@ -49,7 +49,7 @@ items:
     - title:
         nl: "infomappen"
     - title:
-        nl: "infodisplay receptie"
+        nl: "infodisplay"
     - title:
         nl: "duurzaam ondernemen"
     - title:
@@ -79,7 +79,7 @@ items:
     - title:
         nl: "tentplaatsen"
     - title:
-        nl: "plaats voor trekcaravans"
+        nl: "trekkersplaatsen"
     - title:
         nl: "sauna"
     - title:
@@ -90,8 +90,6 @@ items:
         nl: "Q-label"
     - title:
         nl: "nabij tramhalte"
-    - title:
-        nl: "mobilhomes welkom"
     - title:
         nl: "ACSI"
     - title:
