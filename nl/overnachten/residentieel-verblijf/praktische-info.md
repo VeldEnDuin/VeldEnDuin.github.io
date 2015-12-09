@@ -14,7 +14,7 @@ icon: info-sign
 - het hele jaar open - u kunt zo vaak komen als u wenst
 - groenonderhoud door Veld & Duin
 - technische know-how voor herstellingen
-- [brandverzekering][pdf_brandverekering.nl]: mogelijkheid om aan te sluiten via onze groepsverzekering
+- [brandverzekering][pdf_brandverzekering.nl]: mogelijkheid om aan te sluiten via onze groepsverzekering
 
 
 ##Prijzen extra's

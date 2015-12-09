@@ -13,8 +13,6 @@ preview:
                
 images:
     - /img/overnachten/residentieel-type4/restyp4-01.jpg
-    
-    
 ---
 
 {% include links.md %}
@@ -31,12 +29,12 @@ Deze plaatsen zijn iets kleiner qua oppervlakte maar bieden evengoed een instant
 
 ##Prijzen
 
-TYPE 1              |PRIJS           |
-:--------------------:|:--------------:|
-standplaatsvergoeding |€ 1685               
-gemeentetaks          |€ 333,90 (2015) 
-huisvuilbijdrage<br>incl 25 zakken<br> | € 65    
-[brandverzekering][pdf_brandverekering.nl]     |afhankelijk van <br>waarde caravan
+TYPE 1                                         |PRIJS                               |
+:---------------------------------------------:|:----------------------------------:|
+standplaatsvergoeding                          | € 1685         
+gemeentetaks                                   | € 333,90 (2015) 
+huisvuilbijdrage<br>incl 25 zakken<br>         | € 65    
+ [brandverzekering][pdf_brandverzekering.nl]    | afhankelijk van <br>waarde caravan
 
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|

@@ -67,5 +67,5 @@ tellervergoeding   |€ 18
 huisvuilbijdrage   |€ 60 (incl 20 zakken restafval + 5 PMD)
 slagboomkaart      |€ 100 (waarborg € 75)
 voortent winter    |€ 100
-[brandverzekering][pdf_brandverekering.nl]|verplicht - aansluiting groepsverzekering mogelijk
+[brandverzekering][pdf_brandverzekering.nl]|verplicht - aansluiting groepsverzekering mogelijk
 
