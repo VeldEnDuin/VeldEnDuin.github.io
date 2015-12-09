@@ -953,6 +953,12 @@ a:hover .vd-select-item-inner {
     font-weight: normal;
 }
 
+.vd-news .vd-news-content .vd-news-item-date {
+    font-size: 1.25em;
+    padding-top: 2em;
+    line-height: 2.5em;
+}
+
 .vd-news-footer {
     padding-top: 9px;
     margin-top: 20px;
