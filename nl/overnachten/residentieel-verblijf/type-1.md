@@ -4,38 +4,36 @@ title: Type 1
 preview: 
     title: Type 1
     button:
-        price: 2510
+        price: 1685
         for: per jaar
     list:
-        - "gemiddelde opp: 190 m²"
-        - "luxeplaatsen"
-        - "extra groenbeleving"
-        
-        
+        - "gemiddelde opp: 80 m²"
+        - "rustige ligging"
+        - "8 maanden toegankelijk"
+               
 images:
-    - /img/overnachten/residentieel-type1/restyp1-01.jpg
+    - /img/overnachten/residentieel-type4/restyp4-01.jpg
+    
     
 ---
 
 {% include links.md %}
 
-#Type 1 - caravan
+#TYPE 1 - CARAVAN 
+Deze plaatsen zijn iets kleiner qua oppervlakte maar bieden evengoed een instant vakantiegevoel. 
 
-Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Ga dan voor één van onze luxueuze plaatsen en geniet van de extra ruimte.
 
 ##Goed om weten
-- alle type 1 percelen liggen rond de wadi
-- betonplaat van 12x4 m - geschikt voor grote caravans
-- aparte tellers voor gas - water - elektriciteit
-- ondergronds gasnetwerk - geen gasflessen
-- wintervaste wateraansluiting
+- teller voor elektriciteit - forfait water
+- gasflessen
+- geen wintervaste wateraansluiting - sanitairgebouw blijft open
 
 
 ##Prijzen
 
-TYPE 1                |PRIJS           |
+TYPE 1              |PRIJS           |
 :--------------------:|:--------------:|
-standplaatsvergoeding |€ 2510               
+standplaatsvergoeding |€ 1685               
 gemeentetaks          |€ 333,90 (2015) 
 huisvuilbijdrage<br>incl 25 zakken<br> | € 65    
 brandverzekering      |afhankelijk van <br>waarde caravan
@@ -43,8 +41,7 @@ brandverzekering      |afhankelijk van <br>waarde caravan
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
 electriciteit         | € 0,35 / kw        
-water                 | € 6,50 / m³  
-gas                   | € 6,50 / m³       
+forfait water         | € 68 
 tellervergoeding      | € 18 / teller
 
 ⑴ prijs kan wijzigen bij stijging van de energieprijzen
@@ -55,3 +52,4 @@ tellervergoeding      | € 18 / teller
 
 [invoegen plan][plan.nl]
 aanduiden met kleur op plan welke percelen - Joke?
+

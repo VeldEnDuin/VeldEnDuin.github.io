@@ -24,7 +24,13 @@ images:
 
 Ons romantiek-aan-zee-arrangement is de gedroomde kans om uw geliefde in de watten te leggen. Naast een heerlijk verblijf wacht u een verkwikkende saunabeurt met extraatjes.
 
-    
+##Arrangement omvat
+- gebruik sauna + ontspanningsruimte (douche, relaxzetels, dompelton)
+- extraatjes - keuzen uit:
+    - gezond: fruit, noten, fles biologisch fruitsap
+    - hartig: fles wijn + 3 tapas
+
+
 ##Goed om weten
 - geldig voor elk verhuurtype
 - het hele jaar door boekbaar met uitzondering van schoolvakanties en verlengde weekends
@@ -34,10 +40,10 @@ Ons romantiek-aan-zee-arrangement is de gedroomde kans om uw geliefde in de watt
 VERHUURTYPE         | LAAGSEIZOEN | TUSSENSEIZOEN  |
 :------------------:|:-----------:|:-------------:
 standaard chalet    |-            |€ 150                
-comfort 2           |-            |€ 330                
-comfort 4           |€ 180        |€ 375         
-comfort 4 plus      |€ 195        |€ 410  
-luxe appartement    |€ 215        |€ 460         
+comfort 2           |-            |€ 180               
+comfort 4           |€ 180        |€ 195         
+comfort 4 plus      |€ 195        |€ 210  
+luxe appartement    |€ 215        |€ 235         
         
 
 
