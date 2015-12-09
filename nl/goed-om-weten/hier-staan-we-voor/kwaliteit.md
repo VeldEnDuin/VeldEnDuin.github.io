@@ -16,7 +16,7 @@ remove:
 #Kwaliteit
 
 ##Q-label
-Het [Q-label][http://www.dekust.be/q-label] staat voor Quality Service bij de toeristische ondernemers aan de Vlaamse Kust.  Het kwaliteitstraject bestaat uit een opleiding en individuele begeleiding en het label is geldig voor 3 jaar.
+Het [Q-label][q-label.nl] staat voor Quality Service bij de toeristische ondernemers aan de Vlaamse Kust.  Het kwaliteitstraject bestaat uit een opleiding en individuele begeleiding en het label is geldig voor 3 jaar.
 
  Vanaf 2011 konden ook campings hieraan deelnemen. We hebben deze kans meteen gegrepen omdat we graag blijvend investeren in onze kwaliteit. In juni 2011 mocht Veld & Duin het label in ontvangst nemen en in 2014 kregen we - na een nieuwe doorlichting - een verlenging van het Q-label.  
 
