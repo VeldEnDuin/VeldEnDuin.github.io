@@ -231,8 +231,19 @@ Voor alle pagina's waarnaar je wilt linken (vanuit menu of vanuit tekst) is het 
 
 ```yml
 {linkcode}: 
-    {iso-taal-code}: { link: {de effectieve link}   }
+    {iso-taal-code}: {de effectieve link}
 ```
+
+**voorbeeld:**
+
+```yml
+sauna: 
+    nl: /nl/voorzieningen/sauna.html
+    
+kusttram:
+    nl: http://www.delijn.be/nl/kusttram
+```
+
 
 Het invoegen in de tekst van het ```*.md``` bestand volgt dan deze formatering.
 ```[klikbare tekst][{linkcode}.{iso taal code}]```
@@ -241,7 +252,7 @@ Een voorbeeld:
 ```md
 {% include links.md %}
 
-De link via [klikbaar woord][foo.nl] naar de nederlandse link van dit menu-element 
+De link via [klikbaar woord][sauna.nl] naar de nederlandse link van dit menu-element en [linktekst naar de kusttram][kusttram.nl]
 ```
 
 **Belangrijk**: Deze links werken alleen als: 
