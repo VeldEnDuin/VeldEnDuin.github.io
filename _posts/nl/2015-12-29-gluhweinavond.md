@@ -11,5 +11,7 @@ images:
 
 We kijken met plezier terug op een geslaagde glühweinavond: gezellig sfeertje, lekkere drankjes en hapjes en de aanwezigheid van heel wat trouwe kampeerders.
 
+Bedankt aan alle aanwezigen! We laten u die avond graag nog even herbeleven met wat sfeerfoto's.
+
 
 

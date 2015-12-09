@@ -35,7 +35,7 @@ In onze wellnessruimte vindt u:
 
 ## Romantiek-aan-zee arrangement
 
-Boek ons sauna-arrangement en keer als herboren terug naar huis!
+Boek ons [sauna-arrangement][romantiek_aan_zee.nl] en keer als herboren terug naar huis!
 
 Het arrangement omvat:
 - gebruik sauna + ontspanningsruimte (douche, relaxzetels, dompelton)
