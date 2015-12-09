@@ -1,6 +1,4 @@
 ---
-
-
 layout: page
 title: Wedstrijd
 
@@ -11,8 +9,6 @@ preview:
         
 images:
       - /img/prevnieuwpr.jpg
-
-
 ---
 
 
