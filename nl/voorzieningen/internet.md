@@ -18,6 +18,8 @@ remove:
 
 ---
 
+{% include links.md %}
+
 # Draadloos internet
 
 Post uw mooiste vakantiefoto en hou uw familie en vrienden op de hoogte van alle laatste vakantienieuwtjes.
@@ -38,4 +40,4 @@ TIJD ONLINE         | PRIJS       |
 
 Ticket is bruikbaar voor 1 toestel.
 
-Bij het huren van een chalet, caravan of appartement, kunt u ook ons [‘Veld & Duin service’ arrangement][veld_duin_service.nl] boeken. Dit omvat onder meer  2 tickets voor het internet voor de duur van uw verblijf.
+Bij het huren van een chalet, caravan of appartement, kunt u ook ons [Veld & Duin service arrangement][veld_duin_service.nl] boeken. Dit omvat onder meer  2 tickets voor het internet voor de duur van uw verblijf.

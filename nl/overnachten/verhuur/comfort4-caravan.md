@@ -95,13 +95,13 @@ november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | a
 EXTRA               | PRIJS 
 :-------------------|:-----------|
 schoonmaak          | € 40 - zelf schoonmaken kan
-annulatieverzekering| 3,5 % van de totale reissom - Allianz 
+annulatieverzekering| 3,5 % van de totale reissom - [Allianz][pdf_allianz.nl] 
 hond                | € 4 / hond - max 2
 lakenpakket         | € 8 / bed
 kinderbed           | € 1 / nacht
 kinderstoel         | € 1 / nacht
 parking extra auto  | € 4 / begonnen dag
-plaats fietsberging | € 1 / fiets / nacht
+[plaats fietsberging][fietsberging.nl]| € 1 / fiets / nacht
 [sauna][sauna.nl]   | € 30
 [internet][internet.nl]| afhankelijk van tijd online
 [Veld & Duin service][veld_duin_service.nl]| € 60

@@ -73,9 +73,9 @@ EXTRA              | PRIJS
 elektriciteit      |volgens verbruik 
 douchejeton        |€ 1 / jeton
 parking extra auto |€ 4 / begonnen dag
-plaats fietsberging|€ 1 / fiets / nacht
-sauna              |€ 30
-internet           |afhankelijk van tijd online
+[plaats fietsberging][fietsberging.nl]| € 1 / fiets / nacht
+[sauna][sauna.nl]              |€ 30
+[internet][internet.nl]           |afhankelijk van tijd online
 
 ##Plan camping
 
