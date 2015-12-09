@@ -1,23 +1,5 @@
 <div class="vd-news-feed ">
 
-<div class="vd-news-list {{page.class.news.list}} clearfix" id="vd-news-nav">
-{% if page.previous.url %}
-  <div class="vd-news-prev">
-    {% assign newsitem = page.previous %}
-    {% assign newsitemicon = 'glyphicon glyphicon-backward'%}
-    {% include newsfeeditem.html %}
-  </div>
-{% endif %}
-{% if page.next.url %}
-  <div class="vd-news-next">
-    {% assign newsitem = page.next %}
-    {% assign newsitemicon = 'glyphicon glyphicon-forward'%}
-    {% include newsfeeditem.html %}
-  </div>
-{% endif %}
-</div>
-
-
 <div class="vd-news-title ">{{ site.data.langs[pgLang].dict.latestnews}}</div>
 
 <div class="vd-news-list {{page.class.news.list}} clearfix" id="vd-news-list" >
