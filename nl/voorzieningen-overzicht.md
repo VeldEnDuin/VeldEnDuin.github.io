@@ -1,5 +1,5 @@
 ---
-title: Overzicht voorzieningen
+title: Voorzieningen
 
 layout: default
 class:
