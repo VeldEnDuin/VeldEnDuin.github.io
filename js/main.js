@@ -380,32 +380,35 @@
             $it.data('tl-dot', $dot);
         });
 
-        $grid = $groupList.isotope({ // apply the masonry (default) layout.
-            // options
-            itemSelector: '.vd-group-timeline-item',
-            columnWidth: '.vd-group-timeline-item',
-            percentPosition: true
-        });
-
-
-        function postlayout(event, items) {
-            var tlpos = $tl.position(), tloff = $tl.offset();
-            allNonSpacerItems(function ($it, $dot) {
-                var itpos = $it.position(), itoff = $it.offset(), dh = Number($dot.css("height").replace(/\D/g, "")) || 0;
-                $it.removeClass('timeline-left').removeClass('timeline-right');
-                // note the extra -1 is required because the timeline is
-                // sometimes positione at fraction through 50%
-                if (itoff.left < (tloff.left - 1)) {
-                    $it.addClass('timeline-left');
-                } else {
-                    $it.addClass('timeline-right');
-                }
-                $dot.css("top", (itpos.top + dh) + "px");
+        function startMasonry() {
+            $grid = $groupList.isotope({ // apply the masonry (default) layout.
+                // options
+                itemSelector: '.vd-group-timeline-item',
+                columnWidth: '.vd-group-timeline-item',
+                percentPosition: true
             });
-        }
 
-        $grid.on('layoutComplete', postlayout);
-        postlayout();
+
+            function postlayout(event, items) {
+                var tlpos = $tl.position(), tloff = $tl.offset();
+                allNonSpacerItems(function ($it, $dot) {
+                    var itpos = $it.position(), itoff = $it.offset(), dh = Number($dot.css("height").replace(/\D/g, "")) || 0;
+                    $it.removeClass('timeline-left').removeClass('timeline-right');
+                    // note the extra -1 is required because the timeline is
+                    // sometimes positione at fraction through 50%
+                    if (itoff.left < (tloff.left - 1)) {
+                        $it.addClass('timeline-left');
+                    } else {
+                        $it.addClass('timeline-right');
+                    }
+                    $dot.css("top", (itpos.top + dh) + "px");
+                });
+            }
+
+            $grid.on('layoutComplete', postlayout);
+            postlayout();
+        }
+        setTimeout(startMasonry,0);
     });
 
     /*
