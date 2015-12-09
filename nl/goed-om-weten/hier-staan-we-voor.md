@@ -5,5 +5,5 @@ layout: default
 preview: no
 icon: heart
 insert:
-    - level3-accordeon
+    - level3-tiles
 ---
