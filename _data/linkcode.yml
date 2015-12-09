@@ -181,11 +181,11 @@ pdf_brandverzekering:
 
 # [7] externe links
 kusttram:
-    nl:http://wwww.delijn.be/nl/kusttram
+    nl: http://wwww.delijn.be/nl/kusttram
 nmbs:
-    nl:http://www.belgianrail.be/nl
+    nl: http://www.belgianrail.be/nl
 q-label:
-    nl:http://www.dekust.be/q-label
+    nl: http://www.dekust.be/q-label
 fietsnet:
-    nl:http://www.fietsnet.be/routeplanner/default.aspx
+    nl: http://www.fietsnet.be/routeplanner/default.aspx
 
