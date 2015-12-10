@@ -26,13 +26,13 @@ Op deze site hebben we – heel bewust –  3 maal serieus geblunderd...<br>
 Ga snel op zoek naar de 3 frapante onwaarheden die we verscholen hebben tussen de andere informatie en geef dit aan ons door.
 
 
-####Prijzen####
+####Prijzen
 
-- eerste prijs: bon ter waarde van 75 € in restaurant La Différence
-- tweede prijs: bon ter waarde van 50 € in tea-room Mdue
-- derde prijs: bon ter waarde van 25 € in de winkel van Anthony Lams (ambachtelijke chocolade en marsepein)
+- **eerste prijs**: bon ter waarde van 75 € in restaurant La Différence
+- **tweede prijs**: bon ter waarde van 50 € in tea-room Mdue
+- **derde prijs**: bon ter waarde van 25 € in de winkel van Anthony Lams (ambachtelijke chocolade en marsepein)
 
-*Hoe deelnemen?*
+####Hoe deelnemen?
 
 Vul hier uw deelnameformulier met vermelding van de 3 blunders en het antwoord op de schiftingsvraag. Deelnemen kan tot **10 februari 2016**.
 
