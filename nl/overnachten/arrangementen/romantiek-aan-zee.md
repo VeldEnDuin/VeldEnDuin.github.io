@@ -20,13 +20,14 @@ images:
 {% include links.md %}
 
 
-#Romantiek-aan-zee
+#Romantiek aan zee
 
 Ons romantiek-aan-zee-arrangement is de gedroomde kans om uw geliefde in de watten te leggen. Naast een heerlijk verblijf wacht u een verkwikkende saunabeurt met extraatjes.
 
 ##Arrangement omvat
+- 2 nachten in een verblijf naar keuze
 - gebruik sauna + ontspanningsruimte (douche, relaxzetels, dompelton)
-- extraatjes - keuzen uit:
+- extraatjes - keuze uit:
     - gezond: fruit, noten, fles biologisch fruitsap
     - hartig: fles wijn + 3 tapas
 
@@ -51,10 +52,10 @@ luxe appartement    |€ 215        |€ 235
 
 LAAGSEIZOEN           |TUSSENSEIZOEN      |   
 :--------------------:|:-----------------:|:-------------:|
-november tot maart<br>**uitgezonderd schoolvakanties <br>en verlengde weekends** | april tot juni, <br>september en oktober <br>**uitgezonderd schoolvakanties <br>en verlengde weekends**
+november tot maart<br> uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni,<br>september en oktober <br>uitgezonderd schoolvakanties <br>en verlengde weekends
 
 ##Waarborg
-- 50 € - contant te betalen bij aankomst
+- € 50 - contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien goed schoongemaakt
 
 ##Inbegrepen
@@ -65,12 +66,12 @@ november tot maart<br>**uitgezonderd schoolvakanties <br>en verlengde weekends**
 ##Extra's
 EXTRA               | PRIJS 
 :-------------------|:-----------|
-schoonmaak          | € 50 - zelf schoonmaken kan
-annulatieverzekering| 3,5 % van de totale reissom - Allianz 
+schoonmaak          | € 40 (luxe appartement € 50) - zelf schoonmaken kan
+annulatieverzekering| 3,5 % van de totale reissom - [Allianz][pdf_allianz.nl] 
 hond                | € 4 / nacht<br> niet toegelaten in de appartementen
 lakenpakket         | € 8 / bed
 kinderbed           | € 1 / nacht
 kinderstoel         | € 1 / nacht
 parking extra auto  | € 4 / begonnen dag
-plaats fietsberging | € 1 / fiets / nacht
+[plaats fietsberging][fietsberging.nl]| € 1 / fiets / nacht
 

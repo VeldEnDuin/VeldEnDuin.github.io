@@ -30,5 +30,10 @@ Bij reservatie van 14 nachten of meer krijgt u 2 gratis nachten. Deze zee van ti
 - niet geldig voor de extra's
 - arrangement mogelijk volgens beschikbaarheid
 - geldig het hele jaar door met uitzondering van schoolvakanties en verlengde weekends
+<br>
+<br>
 
- 
+
+Bekijk de verschillende [logiesmogelijkheden][verhuur.nl].
+
+

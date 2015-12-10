@@ -21,7 +21,7 @@ images:
 
 #Kadobon
 
-Verlegen om een leuk geschenk? Een kadobon van Veld & Duin met een bedrag naar keuze is steeds een schot in de roos. 
+Op zoek naar een leuk geschenk? Een mooie kadobon van Veld & Duin met een bedrag naar keuze is steeds een schot in de roos. 
 
     
 ##Goed om weten
@@ -29,7 +29,7 @@ Verlegen om een leuk geschenk? Een kadobon van Veld & Duin met een bedrag naar k
 - het hele jaar door bruikbaar volgens beschikbaarheid
 - onbeperkt geldig
 - kies zelf uw bedrag (minimum € 20)
-- aantrekkelijke waardebon
+
 
 
 

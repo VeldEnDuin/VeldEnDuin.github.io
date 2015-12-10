@@ -20,7 +20,7 @@ remove:
 
 # Sanitair 
 
-De trekkers en huurders van een standaardchalet kunnen gebruik maken van onze sanitiare voorzieningen:
+De trekkers en de huurders van een standaardchalet kunnen gebruik maken van onze sanitaire voorzieningen:
 
 * 5 douches
 * 8 toiletten en urinoirs

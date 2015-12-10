@@ -25,5 +25,5 @@ Vakantie... eindelijk tijd om u te verdiepen in een boek!
 
 Wij bieden u met onze pop-up bib een ruim aanbod aan boeken en strips die u kostenloos kunt uitlenen.
 
-Hebt u zelf een mooi boek dat u uitgelezen hebt en kwijt wil? Bedankt om die in onze bib te plaatsen, u doet er andere gasten zeker een plezier mee!
+Hebt u zelf een mooi boek dat u uitgelezen hebt en kwijt wil? U mag die gerust in onze bib plaatsen, u doet er andere gasten zeker een plezier mee!
 
