@@ -20,11 +20,11 @@ images:
 {% include links.md %}
 
 #TYPE 2 - CARAVAN 
-Kom na een drukke werkweek onthaasten in uw caravan. Zo kunt u er straks weer helemaal tegenaan!
+Kom na een drukke werkweek onthaasten in uw caravan. Zo kunt u er nadien weer helemaal tegenaan!
 
 
 ##Goed om weten
-- deze plaatsen worden in de nabije toekomst vernieuwd - cfr nieuw project
+- deze plaatsen worden in de nabije toekomst vernieuwd - zie [nieuw project][nieuw_project.nl]
 - teller voor elektriciteit - forfait water
 - gasflessen
 - geen wintervaste wateraansluiting - sanitairgebouw blijft open
@@ -46,7 +46,7 @@ electriciteit         | € 0,35 / kw
 forfait water         | € 68 
 tellervergoeding      | € 18 / teller
 
-⑴ prijs kan wijzigen bij stijging van de energieprijzen
+⑴ prijs onder voorbehoud van wijzigende energietarieven
 
 
 

@@ -69,7 +69,7 @@ extra nacht         |€ 48         |€ 53           |
 midweek (ma-vrij)   |€ 195        |€ 220          |
 verlengd weekend (3 n)   |             |€ 220          |
 7 nachten           |€ 335        |€ 375          | € 540
-extra nacht >7 n    |€ 41         |€ 49           | € 77
+extra nacht > 7 n    |€ 41         |€ 49           | € 77
 14 nachten          |€ 590        |€ 685          | € 1025
 
 
@@ -77,10 +77,10 @@ extra nacht >7 n    |€ 41         |€ 49           | € 77
 
 LAAGSEIZOEN           |TUSSENSEIZOEN      |    HOOGSEIZOEN|
 :--------------------:|:-----------------:|:-------------:|
-november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni, <br>september en oktober, <br>schoolvakanties | juli en augustus
+november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni, <br>september en oktober, <br>schoolvakanties, <br>verlengde weekends | juli en augustus
 
 ##Waarborg
-- 50 € - contant te betalen bij aankomst
+- € 50 - contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
 
 ##Inbegrepen

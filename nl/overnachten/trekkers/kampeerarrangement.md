@@ -63,7 +63,7 @@ april-mei-juni |€ 695
 september-oktober-november|€ 695
 
 ##Inbegrepen
-- gemeente-en verblijfstaksen
+- gemeente- en verblijfstaksen
 - parking 1 auto
 
 ##Niet inbegrepen

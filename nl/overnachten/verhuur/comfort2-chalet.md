@@ -70,7 +70,7 @@ extra nacht            |€ 47          |              |
 midweek (ma-vrij)      |€ 195         |              |
 verlengd weekend (3 n) |€ 195         |              |
 7 nachten              |€ 330         |€ 480         | 
-extra nacht >7 n       |€ 45          |€ 69          | 
+extra nacht > 7 n       |€ 45          |€ 69          | 
 14 nachten             |€ 610         |€ 915         | 
 
 
@@ -78,11 +78,11 @@ extra nacht >7 n       |€ 45          |€ 69          |
 
 TUSSENSEIZOEN      |    HOOGSEIZOEN|
 :--------------------:|:-----------------:|:-------------:|
- april tot juni, <br>september en oktober, <br>schoolvakanties | juli en augustus
+ april tot juni, <br>september en oktober, <br>schoolvakanties, <br>verlengde weekends  | juli en augustus
 
 ##Waarborg
-- 50 € - contant te betalen bij aankomst
-- terugbetaling waarborg bij vertrek uw verblijf indien goed schoongemaakt werd en er geen schade is
+- € 50 - contant te betalen bij aankomst
+- terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
 
 ##Inbegrepen
 - parking 1 auto

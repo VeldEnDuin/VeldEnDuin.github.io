@@ -28,9 +28,9 @@ prijs: 3,5 % van de totale reissom
 annulatievoorwaarden: [Allianz][pdf_allianz.nl]
 
 
-## Aankomst-en vertrekregeling
-- aankomst: vanaf 14 u 
-- vertrek: voor 11 u.
+## Aankomst- en vertrekregeling
+- aankomst: vanaf 14u 
+- vertrek: voor 11u
 
 Wenst u buiten de openingsuren aan te komen? Dat kan, maar geef dan een seintje vooraf zodat we een tijd kunnen afspreken.
 

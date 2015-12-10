@@ -70,7 +70,7 @@ Aantal nachten | Korting
 ≥ 14 nachten  | 14 %            
 
 - korting enkel geldig op het verblijf, niet op extra’s en niet combineerbaar met andere kortingen of kampeerarrangementen
-- geldigheidsduur: het hele jaar met uitzondering van juli en augustus
+- geldigheidsduur: het hele jaar door met uitzondering van juli en augustus
 
 
 ##Inbegrepen
