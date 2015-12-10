@@ -15,7 +15,7 @@ images:
 
 In het kader van ons [renovatieproject] [nieuw_project.nl] worden deze winter 7 nieuwe luxeplaatsen aangelegd.
 
-Ondertussen zijn alle betonplaten gegoten en wordt het concreet zichtbaar dat dit prachtige plaatsen worden. 
+Ondertussen zijn alle betonplaten gegoten en is het duidelijk dat dit prachtige plaatsen worden. 
 
 
 Uiteraard bent u steeds welkom om ter plaatse eens een kijkje te komen nemen!
