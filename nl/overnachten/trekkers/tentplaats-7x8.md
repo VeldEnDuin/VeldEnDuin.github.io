@@ -43,7 +43,8 @@ insert:
 {% include links.md %}
 
 # TENTPLAATS 7x8
-Dit zijn de geschikte plaatsen voor uw kleine werptentje. Zo bent u direct in de juiste kampeerstemming.
+Deze plaatsen van 7x8 meter zijn ideaal voor uw kleine (werp)tentje.  
+
 
 ##Goed om weten
 - max 4 personen / plaats
@@ -70,11 +71,11 @@ Aantal nachten | Korting
 ≥ 14 nachten  | 14 %            
 
 - korting enkel geldig op het verblijf, niet op extra’s en niet combineerbaar met andere kortingen of kampeerarrangementen
-- geldigheidsduur: hele jaar met uitzondering van juli en augustus
+- geldigheidsduur: het hele jaar door met uitzondering van juli en augustus
 
 
 ##Inbegrepen
-- gemeente-en verblijfstaksen
+- gemeente- en verblijfstaksen
 - parking 1 auto
 - elektriciteit
 

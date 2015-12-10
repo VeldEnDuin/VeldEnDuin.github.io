@@ -46,7 +46,7 @@ insert:
 
 # Luxe Appartement
 
-Gelegen aan de ingang van de camping, bieden deze nieuwe, luxueuze appartementen een mooi zicht op de bloemenpracht aan de ingang van de camping. 
+Gelegen boven de receptie bieden deze nieuwe en luxueuze appartementen een mooi zicht op de bloemenpracht aan de ingang van de camping. 
 
 ##Inrichting luxe appartement
 - ruime woonkamer met flatscreen en digibox
@@ -58,7 +58,7 @@ Gelegen aan de ingang van de camping, bieden deze nieuwe, luxueuze appartementen
 - slaapkamers appartement tweede verdieping:
     - 1 kamer met groot dubbelbed (180x200)
     - 1 kamer met stapelbed 2x (140x200)
-- appartement eerste verdieping: ruim zonne-terras
+- appartement eerste verdieping: ruim zonneterras
 - appartement tweede verdieping: balkon
 
     
@@ -78,7 +78,7 @@ extra nacht         |€ 59         |€ 65           |
 midweek (ma-vrij)   |€ 245        |€ 270          |
 verlengd weekend (3 n)   |             |€ 270          |
 7 nachten           |€ 415        |€ 460          | € 670
-extra nacht >7 n    |€ 51         |€ 62           | € 95
+extra nacht > 7 n    |€ 51         |€ 62           | € 95
 14 nachten          |€ 735        |€ 850          | € 1270
 
 
@@ -86,16 +86,16 @@ extra nacht >7 n    |€ 51         |€ 62           | € 95
 
 LAAGSEIZOEN           |TUSSENSEIZOEN      |    HOOGSEIZOEN|
 :--------------------:|:-----------------:|:-------------:|
-november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni, <br>september en oktober, <br>schoolvakanties | juli en augustus
+november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni, <br>september en oktober, <br>schoolvakanties, <br>verlengde weekends   | juli en augustus
 
 ##Waarborg
-- 50 € - contant te betalen bij aankomst
+- € 50 - contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is 
 
 ##Inbegrepen
 - parking 1 auto
-- verbruik gas-water-elektriciteit 
-- **uitzondering**: verbruik gas en elektriciteit is exclusief bij huur vanaf 4 nachten van 1/11 - 31/3
+- verbruik water en elektriciteit 
+- **uitzondering**: verbruik elektriciteit is exclusief bij huur vanaf 4 nachten van 1/11 - 31/3
 
 ##Extra's
 EXTRA               | PRIJS 

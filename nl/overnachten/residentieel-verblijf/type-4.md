@@ -9,7 +9,7 @@ preview:
     list:
         - "gemiddelde opp: 190 m²"
         - "luxeplaatsen"
-        - "extra groenbeleving"
+        - "hele jaar toegankelijk"
         
         
 images:
@@ -47,7 +47,7 @@ water                 | € 6,50 / m³
 gas                   | € 6,50 / m³       
 tellervergoeding      | € 18 / teller
 
-⑴ prijs kan wijzigen bij stijging van de energieprijzen
+⑴ prijs onder voorbehoud van wijzigende energietarieven
 
 
 

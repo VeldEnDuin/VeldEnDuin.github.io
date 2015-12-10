@@ -18,19 +18,19 @@ icon: info-sign
 
 ## Annuleren
 - annulatie meer dan 4 weken voor aankomst: 25% van het totale huurbedrag is verschuldigd
-- annulatie minder dan 4 weken voor aankomst: het volledige huurbedrag is verschuldigd.
+- annulatie minder dan 4 weken voor aankomst: het volledige huurbedrag is verschuldigd
 - bij voortijdige beëindiging van het verblijf is er geen terugbetaling
 
 **Tip**: u kunt bij ons een annulatieverzekering afsluiten, zo vermijdt u onnodige kosten als u door een geldige reden niet kan komen.
 
-prijs: 3,5 % van de totale reissom. 
+prijs: 3,5 % van de totale reissom
 
 annulatievoorwaarden: [Allianz][pdf_allianz.nl]
 
 
-## Aankomst -en vertrekregeling
-- aankomst: vanaf 14 u 
-- vertrek: voor 10 u
+## Aankomst- en vertrekregeling
+- aankomst: vanaf 14u 
+- vertrek: voor 10u
 
 Wenst u buiten de openingsuren van de receptie aan te komen? Dat kan, maar geef dan een seintje vooraf zodat we een tijd kunnen afspreken.
 

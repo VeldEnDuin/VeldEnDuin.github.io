@@ -9,7 +9,7 @@ preview:
     list:
         - "afmetingen: 10x8 meter"
         - "voor trekcaravan of mobilhome"
-        - "gras-of betonplaats"
+        - "gras- of betonplaats"
         - "dichtbij sanitair"
 images:
     - /img/overnachten/trekkers-tre-10x8/tre10x8-01.jpg
@@ -69,7 +69,7 @@ Aantal nachten | Korting
 ≥ 14 nachten  | 14 %            
 
 - korting enkel geldig op het verblijf, niet op extra’s en niet combineerbaar met andere kortingen of kampeerarrangementen
-- geldigheidsduur: het hele jaar met uitzondering van juli en augustus
+- geldigheidsduur: het hele jaar door met uitzondering van juli en augustus
 
 
 ##Inbegrepen

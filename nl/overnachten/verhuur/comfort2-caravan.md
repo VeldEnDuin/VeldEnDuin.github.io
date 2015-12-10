@@ -60,7 +60,7 @@ Deze mini-caravan met privé-tuintje is ideaal voor wie houdt van het buitenleve
     
 ##Goed om weten
 - gezien de beperkte oppervlakte wordt de caravan - ondanks de 2 slaapkamers - voor max 2 personen verhuurd
-- kleine hond toegelaten maar hou er rekening mee dat de woonruimte beperkt is
+- kleine hond toegelaten maar houd er rekening mee dat de woonruimte beperkt is
 - niet boekbaar tussen 15/11 en 15/3
 
 ##Prijzen
@@ -72,7 +72,7 @@ extra nacht            |€ 47          |              |
 midweek (ma-vrij)      |€ 195         |              |
 verlengd weekend (3 n) |€ 195         |              |
 7 nachten              |€ 330         |€ 480         | 
-extra nacht >7 n       |€ 45          |€ 69          | 
+extra nacht > 7 n       |€ 45          |€ 69          | 
 14 nachten             |€ 610         |€ 915         | 
 
 
@@ -80,10 +80,10 @@ extra nacht >7 n       |€ 45          |€ 69          |
 
 TUSSENSEIZOEN      |    HOOGSEIZOEN|
 :--------------------:|:-----------------:|:-------------:|
- april tot juni, <br>september en oktober, <br>schoolvakanties | juli en augustus
+ april tot juni, <br>september en oktober, <br>schoolvakanties, <br>verlengde weekends  | juli en augustus
 
 ##Waarborg
-- 50 € - contant te betalen bij aankomst
+- € 50 - contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
 
 ##Inbegrepen

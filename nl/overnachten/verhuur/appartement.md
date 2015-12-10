@@ -59,6 +59,7 @@ De appartementen liggen net naast de camping. Zo geniet u van de ruimte van een 
 - appartement voorzien voor 4-5 personen
 - huisdieren niet toegelaten - wel mogelijk in de chalets of caravans
 - lift voorzien
+- gemeenschappelijke ruimte voor fietsen
 - het hele jaar door boekbaar
 
 ##Prijzen
@@ -70,7 +71,7 @@ extra nacht         |€ 52         |€ 58           |
 midweek (ma-vrij)   |€ 215        |€ 240          |
 verlengd weekend (3 n)   |             |€ 240          |
 7 nachten           |€ 370        |€ 410          | € 595
-extra nacht >7 n    |€ 45         |€ 55           | € 84
+extra nacht > 7 n    |€ 45         |€ 55           | € 84
 14 nachten          |€ 650        |€ 755          | € 1125
 
 
@@ -78,16 +79,16 @@ extra nacht >7 n    |€ 45         |€ 55           | € 84
 
 LAAGSEIZOEN           |TUSSENSEIZOEN      |    HOOGSEIZOEN|
 :--------------------:|:-----------------:|:-------------:|
-november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni, <br>september en oktober, <br>schoolvakanties | juli en augustus
+november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni, <br>september en oktober, <br>schoolvakanties, <br>verlengde weekends  | juli en augustus
 
 ##Waarborg
-- 50 € - contant te betalen bij aankomst
+- € 50 - contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
 
 ##Inbegrepen
 - parking 1 auto
-- verbruik gas-water-elektriciteit 
-- **uitzondering**: verbruik gas en elektriciteit is exclusief bij huur vanaf 4 nachten van 1/11 - 31/3
+- verbruik water en elektriciteit 
+- **uitzondering**: verbruik elektriciteit is exclusief bij huur vanaf 4 nachten van 1/11 - 31/3
 
 ##Extra's
 EXTRA               | PRIJS 
@@ -98,7 +99,6 @@ lakenpakket         | € 8 / bed
 kinderbed           | € 1 / nacht
 kinderstoel         | € 1 / nacht
 parking extra auto  | € 4 / begonnen dag
-[plaats fietsberging][fietsberging.nl]| € 1 / fiets / nacht
 [sauna][sauna.nl]   | € 30
 [internet][internet.nl]| afhankelijk van tijd online
 [Veld & Duin service][veld_duin_service.nl]| € 60

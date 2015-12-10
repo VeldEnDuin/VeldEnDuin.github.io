@@ -42,7 +42,7 @@ electriciteit         | € 0,35 / kw
 forfait water         | € 68 
 tellervergoeding      | € 18 / teller
 
-⑴ prijs kan wijzigen bij stijging van de energieprijzen
+⑴ prijs onder voorbehoud van wijzigende energietarieven
 
 
 

@@ -8,7 +8,7 @@ preview:
         for: per jaar
     list:
         - "80 m² plaatsen"
-        - "beton-of grindplaatsen"
+        - "beton- of grindplaatsen"
         - "het hele jaar door genieten"
         - "sanitairvoorzieningen dichtbij"
         
@@ -52,8 +52,8 @@ Uw trekcaravan met alle basisvoorzieningen blijft het hele jaar staan. Zo kunt u
 ##Prijzen
 PERIODE               | STANDPLAATSVERGOEDING  | GEMEENTETAKS       
 :--------------------:|:----------------------:|--------------|
-6 maanden             |€ 1500                  |€ 127,20            
-1 jaar<br>(1/1-31/12) |€ 1605                  |€ 333,90                 
+6 maanden             |€ 1500                  |€ 127,20 (2015)            
+1 jaar<br>(1/1-31/12) |€ 1605                  |€ 333,90 (2015)                 
  
 ##Inbegrepen
 - parking 1 auto
