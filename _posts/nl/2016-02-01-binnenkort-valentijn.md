@@ -5,7 +5,8 @@ description: nog op zoek naar een leuk idee?
 permalink: /nl/2015-02-01-binnenkort-valentijn.html
 
 images: 
-    - /img/stacaravan.jpg 
+    - /img/nieuws/20160201-valentijn.jpg 
+    
 ---
 
 {% include links.md %}

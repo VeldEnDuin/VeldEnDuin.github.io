@@ -6,7 +6,7 @@ permalink: /nl/2015-12-29-geslaagde-gluhweinavond.html
 
     
 images: 
-    - /img/stacaravan.jpg
+    - /img/nieuws/20151229-glühwein.jpg
 ---
 
 We kijken met plezier terug op een geslaagde glühweinavond: gezellig sfeertje, lekkere drankjes en hapjes en de aanwezigheid van heel wat trouwe kampeerders.

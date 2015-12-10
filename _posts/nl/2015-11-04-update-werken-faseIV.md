@@ -4,7 +4,10 @@ layout: post
 description: aanleg 7 betonplaten 
 permalink: /nl/2015-11-04-werken-faze-iv.html
 images: 
-    - /img/stacaravan.jpg 
+    - /img/nieuws/20151104-werken-01.jpg
+    - /img/nieuws/20151104-werken-02.jpg
+    - /img/nieuws/20151104-werken-03.jpg
+    - /img/nieuws/20151104-werken-04.jpg
 ---
 
 {% include links.md %}

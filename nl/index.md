@@ -4,9 +4,9 @@ title: Camping Veld & Duin
 
     
 select:
+    - wedstrijd
     - verhuur
     - nieuw_project
-    - wedstrijd
     
 class:
     select:
