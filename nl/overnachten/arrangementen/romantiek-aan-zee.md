@@ -20,51 +20,58 @@ images:
 {% include links.md %}
 
 
-##Romantiek-aan-zee
+#Romantiek aan zee
 
-Ons romantisch-aan-zee-arrangement is de gedroomde kans om uw geliefde in de watten te leggen. Naast een heerlijk verblijf wacht u een verkwikkende saunabeurt met extraatjes.
+Ons romantiek-aan-zee-arrangement is de gedroomde kans om uw geliefde in de watten te leggen. Naast een heerlijk verblijf wacht u een verkwikkende saunabeurt met extraatjes.
 
-    
-###Goed om weten
+##Arrangement omvat
+- 2 nachten in een verblijf naar keuze
+- gebruik sauna + ontspanningsruimte (douche, relaxzetels, dompelton)
+- extraatjes - keuze uit:
+    - gezond: fruit, noten, fles biologisch fruitsap
+    - hartig: fles wijn + 3 tapas
+
+
+##Goed om weten
 - geldig voor elk verhuurtype
 - het hele jaar door boekbaar met uitzondering van schoolvakanties en verlengde weekends
 
-###Prijzen
+##Prijzen
 
 VERHUURTYPE         | LAAGSEIZOEN | TUSSENSEIZOEN  |
 :------------------:|:-----------:|:-------------:
 standaard chalet    |-            |€ 150                
-comfort 2           |-            |€ 330                
-comfort 4           |€ 180        |€ 375         
-comfort 4 plus      |€ 195        |€ 410  
-luxe appartement    |€ 215        |€ 460         
+comfort 2           |-            |€ 180               
+comfort 4           |€ 180        |€ 195         
+comfort 4 plus      |€ 195        |€ 210  
+luxe appartement    |€ 215        |€ 235         
         
 
 
-###Periodes
+##Periodes
 
 LAAGSEIZOEN           |TUSSENSEIZOEN      |   
 :--------------------:|:-----------------:|:-------------:|
-november tot maart<br>**uitgezonderd schoolvakanties <br>en verlengde weekends** | april tot juni, <br>september en oktober <br>**uitgezonderd schoolvakanties <br>en verlengde weekends**
+november tot maart<br> uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni,<br>september en oktober <br>uitgezonderd schoolvakanties <br>en verlengde weekends
 
-###Waarborg
-- 50 € - contant te betalen bij aankomst
+##Waarborg
+- € 50 - contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien goed schoongemaakt
 
-###Inbegrepen
+##Inbegrepen
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
 - **uitzondering**: verbruik gas en elektriciteit is exclusief bij huur vanaf 4 nachten tussen 1/11 - 31/3
 
-###Extra's
+##Extra's
 EXTRA               | PRIJS 
 :-------------------|:-----------|
-schoonmaak          | € 50 - zelf schoonmaken kan
-annulatieverzekering| 3,5 % van de totale reissom - Allianz 
+schoonmaak          | € 40 (luxe appartement € 50) - zelf schoonmaken kan
+annulatieverzekering| 3,5 % van de totale reissom - [Allianz][pdf_allianz.nl] 
 hond                | € 4 / nacht<br> niet toegelaten in de appartementen
 lakenpakket         | € 8 / bed
 kinderbed           | € 1 / nacht
 kinderstoel         | € 1 / nacht
-tweede parking      | € 4 / begonnen dag
-plaats fietsberging | € 1 / fiets / nacht
+parking extra auto  | € 4 / begonnen dag
+[plaats fietsberging][fietsberging.nl]| € 1 / fiets / nacht
 

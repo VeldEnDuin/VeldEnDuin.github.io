@@ -1,5 +1,5 @@
 ---
-title: Overzicht voorzieningen
+title: Voorzieningen
 
 layout: default
 class:
@@ -8,10 +8,9 @@ class:
 insert: 
     - level3-tiles
     - background-image
-
-remove:
-    - banner
     
+    
+callout: "Ontdek wat we nog meer te bieden hebben om uw vakantie onvergetelijk te maken."
     
 preview: no
 

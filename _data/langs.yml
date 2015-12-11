@@ -7,7 +7,8 @@ nl:
         resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
     dict:
         all: alle
-        news: Nieuws
+        latestnews: Laatste Nieuws
+        newsarchive: Archief
         mapxl: Grotere kaart weergeven
         virttour:
             - Virtuele
@@ -15,12 +16,12 @@ nl:
         prev: vorige
         next: volgende
         overview: overzicht
-        share: Deel dit bericht via Social Media
+        share: Deel dit bericht nu
         othernews: Lees ook deze andere berichten
         publication: Publicatie
         close: sluiten
         search: Zoek
-        resa_invite: (TODO NL) Hier komt dan een tekstje dat er voor zorgt dat ze rapper inschrijven bij VELD & DUIN !
+        callout: Wenst u graag een verblijf vast te leggen of hebt u nog een vraag voor ons? Vul dan nu meteen de reservatie aanvraag in.
         resa_action: Reservatie Aanvraag
         resa_formwait: Reservatie Aanvraag wordt geladen... (even geduld)
         mailchimp: Schrijf in op onze nieuwsbrief
@@ -58,7 +59,7 @@ fr:
         publication: (TODO FR) Publicatie
         close: fermer
         search: Recherche
-        resa_invite: (TODO FR) tekst in de banner-callout
+        callout: (TODO FR) tekst in de banner-callout
         resa_action: (TODO FR) knop resa
         resa_formwait: (TODO FR) Reservatie Aanvraag wordt geladen... (even geduld)
         mailchimp: (TODO FR) tekst mailchimp inschrijving
@@ -92,7 +93,7 @@ de:
         publication: (TODO DE) Publicatie
         search: Suche
         close: (TODO DE) sluiten
-        resa_invite: (TODO DE) tekst in de banner-callout
+        callout: (TODO DE) tekst in de banner-callout
         resa_action: (TODO DE) knop resa
         resa_formwait: (TODO DE) Reservatie Aanvraag wordt geladen... (even geduld)
         mailchimp: (TODO DE) tekst mailchimp inschrijving
@@ -125,7 +126,7 @@ en:
         publication: (TODO EN) publication
         close: close
         search: Search
-        resa_invite: (TODO EN) tekst in de banner-callout
+        callout: (TODO EN) tekst in de banner-callout
         resa_action: (TODO EN) knop resa
         resa_formwait: (TODO EN) Reservatie Aanvraag wordt geladen... (even geduld)
         mailchimp: (TODO EN) tekst mailchimp inschrijving

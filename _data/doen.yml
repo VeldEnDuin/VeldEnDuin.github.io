@@ -1114,6 +1114,27 @@ items:
     fr: ''
     de: ''
     en: ''
+- ranking: 115
+  location: 51.233696, 2.972101
+  subgroups:
+  - recrea
+  images:
+  - "/img/doen/bungee.jpg"
+  link:
+    nl:
+    fr:
+    de:
+    en:
+  title:
+    nl: Bungee jumpen
+    fr: ''
+    de: ''
+    en: ''
+  caption:
+    nl: waag een sprong van de watertoren
+    fr: ''
+    de: ''
+    en: ''
 subgroups:
   nl:
     coast: kustbeleving

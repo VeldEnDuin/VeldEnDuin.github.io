@@ -4,52 +4,54 @@ title: Type 4
 preview: 
     title: Type 4
     button:
-        price: 1685
+        price: 2510
         for: per jaar
     list:
-        - "8 maanden toegankelijk"
-        - "rustige ligging"
-        - "gemiddelde opp: 80 m²"
+        - "gemiddelde opp: 190 m²"
+        - "luxeplaatsen"
+        - "hele jaar toegankelijk"
+        
         
 images:
-    - /img/overnachten/residentieel-type4/restyp4-01.jpg
-    
+    - /img/overnachten/residentieel-type1/restyp1-01.jpg
     
 ---
 
 {% include links.md %}
 
-##TYPE 4 - CARAVAN 
-Deze plaatsen zijn iets kleiner qua oppervlakte maar bieden evengoed een instant vakantiegevoel. 
+#Type 4 - caravan
+
+Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Ga dan voor één van onze luxueuze plaatsen en geniet van de extra ruimte.
+
+##Goed om weten
+- alle type 1 percelen liggen rond de wadi
+- betonplaat van 12x4 m - geschikt voor grote caravans
+- aparte tellers voor gas - water - elektriciteit
+- ondergronds gasnetwerk - geen gasflessen
+- wintervaste wateraansluiting
 
 
-###Goed om weten
-- teller voor elektriciteit - forfait water
-- gasflessen
-- geen wintervaste wateraansluiting - sanitairgebouw blijft open
-
-
-###Prijzen
+##Prijzen
 
 TYPE 4                |PRIJS           |
 :--------------------:|:--------------:|
-standplaatsvergoeding |€ 1685               
+standplaatsvergoeding |€ 2510               
 gemeentetaks          |€ 333,90 (2015) 
 huisvuilbijdrage<br>incl 25 zakken<br> | € 65    
-brandverzekering      |afhankelijk van <br>waarde caravan
+[brandverzekering][pdf_brandverzekering.nl]     |afhankelijk van <br>waarde caravan
 
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
 electriciteit         | € 0,35 / kw        
-forfait water         | € 68 
+water                 | € 6,50 / m³  
+gas                   | € 6,50 / m³       
 tellervergoeding      | € 18 / teller
 
-⑴ prijs kan wijzigen bij stijging van de energieprijzen
+⑴ prijs onder voorbehoud van wijzigende energietarieven
 
 
 
-###Plan camping
+##Plan camping
 
 [invoegen plan][plan.nl]
 aanduiden met kleur op plan welke percelen - Joke?
-

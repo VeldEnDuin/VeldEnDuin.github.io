@@ -3,13 +3,10 @@
      nl: Goed om weten
   submenu:
     - linkcode: onze_troeven
-      menutekst:
-        nl: onze troeven
 
     - linkcode: hier_staan_we_voor
-      menutekst:
-        nl: hier staan we voor
       submenu:
+        - linkcode: hier_staan_we_voor
         - linkcode: rust
         - linkcode: groen
         - linkcode: iedereen_welkom
@@ -18,12 +15,8 @@
         - linkcode: fietsvriendelijk
 
     - linkcode: praktisch
-      menutekst:
-        nl: praktisch
 
     - linkcode: tijdslijn
-      menutekst:
-        nl: tijdslijn
 
 
 - linkcode: verhuur
@@ -34,9 +27,6 @@
     de: Übernachten
   submenu:
     - linkcode: verhuur
-      menutekst:
-        nl: Verhuur
-        fr: Location
       submenu:
         - linkcode: verhuur_info
         - linkcode: verhuur_luxe_appartementen
@@ -50,20 +40,16 @@
 
        
     - linkcode: trekkers
-      menutekst:
-        nl:  Trekkers
       submenu:
         - linkcode: trekkers_info
         - linkcode: trekkers_tent7x8
         - linkcode: trekkers_tent10x8
         - linkcode: trekkers_trekker10x8
-        - linkcode: trekkers_lang
         - linkcode: trekkers_arrangement
+        - linkcode: trekkers_lang
 
 
     - linkcode: residentieel
-      menutekst:
-        nl:  Residentieel Verblijf
       submenu:
         - linkcode: residentieel_info
         - linkcode: type_1
@@ -73,8 +59,6 @@
 
 
     - linkcode: arrangementen
-      menutekst:
-        nl:  Arrangementen
       submenu:
         - linkcode: arrangementen
         - linkcode: 7_plus_1
@@ -82,6 +66,19 @@
         - linkcode: veld_duin_service
         - linkcode: romantiek_aan_zee
         - linkcode: kadobon
+
+
+    - linkcode: te_koop
+      submenu:
+        - linkcode: te_koop
+        - linkcode: a_15
+        - linkcode: c_16
+        - linkcode: b_21
+        - linkcode: b_47
+        - linkcode: b_54
+        - linkcode: b_65
+
+
 
 - linkcode: voorzieningen
   menutekst:
@@ -107,5 +104,3 @@
 - linkcode: fotos
   menutekst:
     nl:  Foto's
-
-

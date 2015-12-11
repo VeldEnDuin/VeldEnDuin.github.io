@@ -55,6 +55,14 @@ residentieel:
 arrangementen:
     nl:  /nl/overnachten/arrangement.html
 
+
+# [2.*] extra's overnachten buiten menu
+nieuw_project:
+    nl: /nl/overnachten/nieuw-project.html
+wedstrijd:
+    nl: /nl/overnachten/wedstrijd.html
+
+
 # [2.1] submenu overnachten -> verhuur
 verhuur_appartement:
     nl:  /nl/overnachten/verhuur/appartement.html
@@ -114,6 +122,21 @@ romantiek_aan_zee:
 kadobon:
     nl: /nl/overnachten/arrangementen/kadobon.html
 
+# [2.5] submenu overnachten -> te koop
+te_koop:
+    nl: /nl/overnachten/te-koop.html
+a_15:
+    nl: /nl/overnachten/te-koop/a-15.html
+b_21:
+    nl: /nl/overnachten/te-koop/b-21.html
+b_47:
+    nl: /nl/overnachten/te-koop/b-47.html
+b_54:
+    nl: /nl/overnachten/te-koop/b-54.html
+b_65:
+    nl: /nl/overnachten/te-koop/b-65.html
+c_16:
+    nl: /nl/overnachten/te-koop/c-16.html
 
 
 # [3] menu - voorzieningen
@@ -154,3 +177,25 @@ fotos:
 # [6] menu pdf
 pdf_allianz:
     nl: /nl/pdf/allianz-algemene-voorwaarden.pdf
+pdf_mvo:
+    nl: /nl/pdf/mvo-rapport.pdf
+pdf_brandverzekering:
+    nl: /nl/pdf/brandverzekering-polisvwen.pdf
+
+# [7] externe links
+kusttram:
+    nl: http://wwww.delijn.be/nl/kusttram
+nmbs:
+    nl: http://www.belgianrail.be/nl
+q-label:
+    nl: http://www.dekust.be/q-label
+fietsnet:
+    nl: http://www.fietsnet.be/routeplanner/default.aspx
+ladifference:
+    nl: http://www.la-difference.biz
+mdue:
+    nl: http://www.facebook.com/Tearoom.mdue
+anthonylams:
+    nl: http://www.anthonylams.be
+
+

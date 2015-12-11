@@ -1,3 +1,6 @@
+---
+tcs: [1,2,3,5,6,9]
+---
 <!DOCTYPE html>
 {% include layout-prelude.html %}
 
@@ -24,10 +27,9 @@
 
   </head>
   <body data-translations='{{site.data.langs[pgLang] | jsonify}}'>
-    <header {%if page.remove contains 'banner'%}class="spaced"{%endif%}>
+    <header {%unless page.insert contains 'banner'%}class="spaced"{%endunless%}>
       <nav class="navbar navbar-default navbar-inverse">
-        <div class="vd-menu">
-        <div class="container-fluid">
+        <div class="vd-menu"><div class="container-fluid">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#vd-menu">
             <span class="sr-only">Toggle navigation</span>
@@ -38,6 +40,7 @@
           <a class="navbar-brand" href="/{{ pgLang }}/"><img src="/img/style/logo_veldenduin.png" title="Veld &amp; Duin"></a>
         </div>
 
+        <div id="vd-menu" class="navbar-collapse collapse">
             {% include main-menu.html %}
 
           <ul id="lang" class="nav navbar-nav navbar-right">
@@ -45,62 +48,37 @@
             {% include contact-menu.html %}
             {% include search-menu.html %}
           </ul>
+        </div>
 
-
-        </div>
-        </div>
-        </div>
+        </div></div>
       </nav>
-    {% unless page.remove contains 'banner' %}
-      <div class="vd-banner hidden-sm hidden-xs"></div>
+    {% if page.insert contains 'banner' %}
+         {% assign bannerimg = '/img/style/banner.jpg' %}
+         {%if page.bannerimg %}{% assign bannerimg = page.bannerimg %}{%endif%}
+      <div class="vd-banner hidden-sm hidden-xs"
+          style="background-image: url('{{bannerimg}}'); background-position: center top; background-size: cover;"
+      ></div>
         {% unless page.remove contains 'callout' %}
             {% include callout-form.html %}
         {% endunless%}
-    {% endunless %}
+    {% endif %}
     </header>
 
     <article>
       <div class="container-fluid">
         <div id="content" class="col-lg-12 col-md-12 col-sm-12 col-xs-12" >
     {% include secondary-menu.html %}
+
     {% if page.insert contains 'level3-tiles' %}
-        {% if lvl2.submenu %}
-          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-            <div class="vd-select-list {{page.class.select.list}} clearfix" id="vd-select-list"
-            {% if page.insert contains 'background-image' and page.images.size > 0 %}
-              style="background: linear-gradient(rgba(255,255,255,0.7),rgba(255,255,255,0.7)),
-                     url('{{page.images[0]}}');background-position: center center;
-                     background-size: cover;
-                     background-position: center center;"
-            {% endif %}
-            >
-            {% for link in lvl2.submenu %}
-                {% assign select = link.linkcode %}
-                {% for pg in site.pages %}
-                    {% if pg.url == site.data.linkcode[select][pgLang] %}
-                        {% unless pg.preview == false %}
-                            {% assign linkPage = pg %}
-                            {% include linkPageStyleSubMenu.html %}
-                        {% endunless %}
-                    {% endif %}
-                {% endfor %}
-            {% endfor %}
-            </div>
-          </div>
-        {% endif %}
+        {% include level3-tiles.html  %}
+    {% endif %}
+    {% if page.insert contains 'level3-accordeon' %}
+        {% include level3-accordeon.html  %}
     {% endif %}
 
     {% if page.insert contains 'page-images-top' %}
-        {% if page.images %}
-          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-            <div class="vd-img-strip"><div style="width:200%">
-
-            {% for img in page.images %}
-              <img src="{{img}}">
-            {% endfor %}
-            </div></div>
-          </div>
-        {% endif %}
+        {% assign imgs = page.images %}
+        {% include imgs_as_strip.html %}
     {% endif %}
 
 
@@ -108,16 +86,8 @@
 
 
     {% if page.insert contains 'page-images-bottom' %}
-        {% if page.images %}
-          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-            <div class="vd-img-strip"><div style="width:200%">
-
-            {% for img in page.images %}
-              <img src="{{img}}">
-            {% endfor %}
-            </div></div>
-          </div>
-        {% endif %}
+        {% assign imgs = page.images %}
+        {% include imgs_as_strip.html %}
     {% endif %}
 
     {% if page.insert contains 'virtualtour' %}
@@ -204,8 +174,20 @@
     <script type="text/javascript" src="/js/jquery.gpAlbumViewer.js"></script>
     <script type="text/javascript" src="/js/main.js"></script>
 
-    <!-- todo: dynamic load scripts are injected here...
-    <script type="text/javascript" src="/js/jquery.gcse.js"></script>
+    {% for jscript in page.extrajs %}
+    <script type="text/javascript" src="/js/{{jscript}}.js"></script>
+    {% endfor %}
+
+    <!-- todo: dynamic load scripts are injected here... use this template:
+    <script type="text/javascript">(function() {
+        window.addEventListener("load", function () {
+            var tag = document.createElement('script');
+            tag.type = 'text/javascript'; tag.async = true;
+            tag.src = '/js/yourscript.js';
+            var ps = document.getElementById('vd-post-script');
+            ps.parentNode.insertBefore(tag, ps);
+        });
+    }());</script>
     -->
     <hr style="display:none" id="vd-post-script" >
 

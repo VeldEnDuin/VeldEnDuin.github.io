@@ -7,11 +7,23 @@ preview:
         price: 175
         for: 2 nachten
     list:
-        - "zonneterras of balkon"
-        - "65 m²"
-        - "vaatwasmachine"
         - "5-6 personen"
+        - "65 m²"
+        - "zonneterras of balkon"
+        - "vaatwasmachine"
+        
+        
 images:
+    - /img/overnachten/verhuring-luxe-appartement/lx-01.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-02.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-03.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-04.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-05.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-06.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-07.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-08.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-09.jpg
+    - /img/overnachten/verhuring-luxe-appartement/lx-10.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-01.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-02.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-03.jpg
@@ -32,74 +44,74 @@ insert:
 
 {% include links.md %}
 
-# Luxe Appartementen
+# Luxe Appartement
 
-Gelegen aan de ingang van de camping, bieden deze appartementen-met-dat-ietsje-meer alle luxe met zicht op de bloemenpracht aan de ingang en het speelplein. 
+Gelegen boven de receptie bieden deze nieuwe en luxueuze appartementen een mooi zicht op de bloemenpracht aan de ingang van de camping. 
 
-###Inrichting luxe appartementen:
-- Ruime woonkamer met flatscreen en digibox
-- Ingerichte keuken met vaatwasmachine en microgolf
-- Badkamer met douche, wastafel en toilet
-- Slaapkamers appartement eerste verdieping:
+##Inrichting luxe appartement
+- ruime woonkamer met flatscreen en digibox
+- ingerichte keuken met vaatwasmachine en microgolf
+- badkamer met douche, wastafel en toilet
+- slaapkamers appartement eerste verdieping:
     - 1 kamer met groot dubbelbed (180x200)
     - 1 kamer met stapelbed (140x200) en (90x200)
-- Slaapkamers appartement 2de verdieping:
+- slaapkamers appartement tweede verdieping:
     - 1 kamer met groot dubbelbed (180x200)
     - 1 kamer met stapelbed 2x (140x200)
-- Appartement eerste verdieping: ruim zonne-terras
-- Appartement tweede verdieping: balkon
+- appartement eerste verdieping: ruim zonneterras
+- appartement tweede verdieping: balkon
 
     
-###Goed om weten
-- Appartement eerste verdieping: max 5 personen
-- Appartement tweede verdieping: max 6 personen
-- Huisdieren niet toegelaten - wel mogelijk in de chalets of caravans
-- Geen lift
-- Hele jaar door boekbaar
+##Goed om weten
+- appartement eerste verdieping: max 5 personen
+- appartement tweede verdieping: max 6 personen
+- huisdieren niet toegelaten - wel mogelijk in de chalets of caravans
+- geen lift
+- het hele jaar door boekbaar
 
-###Prijzen
+##Prijzen
 
 PERIODE             | LAAGSEIZOEN | TUSSENSEIZOEN | HOOGSEIZOEN |
 :------------------:|:-----------:|:-------------:|:-----------:|
 2 nachten           |€ 175        |€ 195          |       
 extra nacht         |€ 59         |€ 65           |           
 midweek (ma-vrij)   |€ 245        |€ 270          |
-verlengd WE (3 n)   |             |€ 270          |
+verlengd weekend (3 n)   |             |€ 270          |
 7 nachten           |€ 415        |€ 460          | € 670
-extra nacht >7 n    |€ 51         |€ 62           | € 95
+extra nacht > 7 n    |€ 51         |€ 62           | € 95
 14 nachten          |€ 735        |€ 850          | € 1270
 
 
-###Periodes
+##Periodes
 
 LAAGSEIZOEN           |TUSSENSEIZOEN      |    HOOGSEIZOEN|
 :--------------------:|:-----------------:|:-------------:|
-november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni, <br>september - oktober, <br>schoolvakanties | juli - augustus
+november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni, <br>september en oktober, <br>schoolvakanties, <br>verlengde weekends   | juli en augustus
 
-###Waarborg
-- 50 € - cash te betalen bij aankomst
-- terugbetaling waarborg bij vertrek indien goed schoongemaakt
+##Waarborg
+- € 50 - contant te betalen bij aankomst
+- terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is 
 
-###Inbegrepen
+##Inbegrepen
 - parking 1 auto
-- verbruik gas-water-elektriciteit 
-- **uitzondering**: verbruik gas en elektriciteit is exclusief bij huur vanaf 4 nachten van 1/11 - 31/3
+- verbruik water en elektriciteit 
+- **uitzondering**: verbruik elektriciteit is exclusief bij huur vanaf 4 nachten van 1/11 - 31/3
 
-###Extra's
+##Extra's
 EXTRA               | PRIJS 
 :-------------------|:-----------|
 schoonmaak          | € 50 - zelf schoonmaken kan
-annulatieverzekering| 3,5 % van de totale reissom - Allianz 
+annulatieverzekering| 3,5 % van de totale reissom - [Allianz][pdf_allianz.nl]
 lakenpakket         | € 8 / bed
 kinderbed           | € 1 / nacht
 kinderstoel         | € 1 / nacht
-tweede parking      | € 4 / begonnen dag
-plaats fietsberging | € 1 / fiets / nacht
+parking extra auto      | € 4 / begonnen dag
+[plaats fietsberging][fietsberging.nl]| € 1 / fiets / nacht
 [sauna][sauna.nl]   | € 30
 [internet][internet.nl]| afhankelijk van tijd online
 [Veld & Duin service][veld_duin_service.nl]| € 75 
 
 
-###Plan camping
+##Plan camping
 
 [invoegen plan][plan.nl]

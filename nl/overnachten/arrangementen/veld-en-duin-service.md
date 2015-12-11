@@ -12,25 +12,31 @@ preview:
         - "internet voor 2 toestellen"
         
 images:
-    - /img/ingang.jpg
-    - /img/stacaravan.jpg
-    - /img/trekker.jpg
+    - /img/overnachten/arrangementen-vdserv/arrvdserv-01.jpg
+    
+    
+    
 ---
 
 {% include links.md %}
 
 
-## Veld & Duin service
+#Veld & Duin service
 
-Om optimaal te kunnen genieten van uw verblijf, bieden wij dit servicepakket aan. Dit geeft u de ruimte om maximaal tijd te maken voor al die zaken waar u tijdens het jaar niet aan toe komt.
+Om optimaal te kunnen genieten van uw verblijf, bieden wij dit servicepakket aan. Dit geeft u de ruimte om het maximum uit uw vakantie te halen.
 
-    
-###Goed om weten
+##Arrangement omvat
+- eindschoonmaak
+- lakenpakket voor alle bedden (ligt klaar aan de receptie bij aankomst)
+- internetaansluiting voor maximum 2 toestellen
+
+
+##Goed om weten
 - geldig voor elk verhuurtype
 - het hele jaar door boekbaar
 
 
-###Prijzen
+##Prijzen
 
 VERHUURTYPE         | PRIJS
 :------------------:|:-----------

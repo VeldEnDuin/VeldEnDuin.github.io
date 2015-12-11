@@ -1,0 +1,46 @@
+<div class="vd-archive">
+<h1>{{site.data.langs[pgLang].dict.news}}</h1>
+<div class="col-lg-8 col-md-8">
+<div class="vd-archive-list  {{page.class.news.list}} clearfix"
+     id="vd-archive-list" >
+{% assign currentyear = 0 %}
+{% for pst in site.posts  %}
+    <!-- {{pst.title}} @{{pst.url}} -->
+    {% assign pstyear = pst.date | date: "%Y" %}
+    {% assign parts = pst.url | split: '/' %}
+    {% assign ln = parts[1] %}
+    {% if ln == pgLang %}
+        {% if pstyear != currentyear %}
+            {% assign currentyear = pstyear %}
+  <div class="vd-archive-section clearfix">{{currentyear}}</div>
+        {% endif %}
+  <div class="vd-archive-item clearfix {{page.class.archive.item}}" >
+    <a href="{{pst.url}}">
+      <div class="vd-archive-item-inner col-lg-12 col-md-12 col-sm-12 col-xs-12"
+           data-images='{{pst.images | jsonify}}'>
+        <div class="vd-archive-icon">
+          <span class="fa fa-rss"></span>
+        </div>
+        <div class="vd-archive-item-label">
+          <div class="vd-archive-title ">
+        {{ pst.title }}
+            <span class="vd-archive-item-date pull-right">
+        {{ pst.date | date: "%d-%m-%y" }}
+            </span>
+          </div>
+          <div class="vd-news-teaser">{{ pst.description }}</div>
+        </div>
+      </div>
+    </a>
+  </div>
+    {% endif %}
+{% endfor %}
+</div>
+</div>
+<div class="col-lg-4 col-md-4 hidden-sm hidden-xs">
+{% for pst in site.posts  %}{% if pst.images.size > 0 %}
+<a href="{{pst.url}}"><div class="col-lg-6 col-md-12">
+<img src="{{pst.images[0]}}" class="img-thumbnail img-responsive"></div></a>
+{% endif %}{% endfor %}
+</div>
+</div>

@@ -2,15 +2,18 @@
 title: Onze troeven
 layout: group
 data: troeven
-
-images:
+extrajs: 
+    - d3.min
+    - d3.layout.cloud
+    - tagcloud
 
 insert:
-    - page-images-bottom
+    
+    
+callout: "Waarom kiezen voor Veld & Duin? We zetten hier graag onze voornaamste troeven op een rijtje."
 
 ---
 {% include links.md %}
 
 
-##Onze troeven
 

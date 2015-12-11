@@ -6,7 +6,16 @@
     {% for m2 in lvl1.submenu %}
     <li {% if lvl2 == m2 %}class="active"{% endif %} >
       <a href="{{ site.data.linkcode[m2.linkcode][pgLang] }}" >
-        {{ m2.menutekst[pgLang]}}
+        {% if m2.menutekst[pgLang] %}
+            {% assign mlbl = m2.menutekst[pgLang]%}
+        {% else %}
+            {% for pg in site.pages %}
+                {% if pg.url == site.data.linkcode[m2.linkcode][pgLang] %}
+                    {% assign mlbl = pg.title %}
+                {% endif %}
+            {% endfor %}
+        {% endif %}
+        {{ mlbl }}
       </a>
     </li>
     {% endfor %}

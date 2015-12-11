@@ -1,7 +1,7 @@
 ---
 title: Residentieel
 layout: default
-banner: TODO - trigger tekst vanop RESIDENTIEEL page
+callout: TODO - trigger tekst vanop RESIDENTIEEL page
     
 class:
     select: 

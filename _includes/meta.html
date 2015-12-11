@@ -13,20 +13,6 @@
 <link href="https://plus.google.com/+VeldenduinBe" rel="author" />
 <link href="https://plus.google.com/+VeldenduinBe" rel="publisher" />
 
-<!-- default settings for site -->
-{% assign ogTitle  = site.name %}
-{% assign ogType   = 'website' %}
-{% assign ogImgUrl = site.imgurl %}
-{% assign ogUrl    = '' %}
-{% assign ogDescr  = site.description %}
-
-<!-- specific settings for page -->
-{%if page.title            %}{%assign ogTitle  = page.title       %}{%endif%}
-{%if page.ogType           %}{%assign ogType   = page.ogType      %}{%endif%}
-{%if page.images |size > 0 %}{%assign ogImgUrl = page.images[0]   %}{%endif%}
-{%if page.url              %}{%assign ogUrl    = page.url         %}{%endif%}
-{%if page.description      %}{%assign ogDescr  = page.description %}{%endif%}
-
 <!-- for Facebook -->
 <meta property="og:title"       content="{{ ogTitle }}" />
 <meta property="og:type"        content="{{ ogType}}" />

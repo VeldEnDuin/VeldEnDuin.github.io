@@ -7,11 +7,22 @@ preview:
         price: 155
         for: 2 nachten
     list:
-        - "overdekt terras"
-        - "42 m²"
         - "4 personen"
+        - "42 m²"
+        - "overdekt terras"
         - "honden toegelaten"
+        
 images:
+    - /img/overnachten/verhuring-C4pl-chalet/c4plch-01.jpg
+    - /img/overnachten/verhuring-C4pl-chalet/c4plch-02.jpg
+    - /img/overnachten/verhuring-C4pl-chalet/c4plch-03.jpg
+    - /img/overnachten/verhuring-C4pl-chalet/c4plch-04.jpg
+    - /img/overnachten/verhuring-C4pl-chalet/c4plch-05.jpg
+    - /img/overnachten/verhuring-C4pl-chalet/c4plch-06.jpg
+    - /img/overnachten/verhuring-C4pl-chalet/c4plch-07.jpg
+    - /img/overnachten/verhuring-C4pl-chalet/c4plch-08.jpg
+    - /img/overnachten/verhuring-C4pl-chalet/c4plch-09.jpg
+    - /img/overnachten/verhuring-C4pl-chalet/c4plch-10.jpg
     - /img/overnachten/verhuring-C4pl-chalet/c4plch-01.jpg
     - /img/overnachten/verhuring-C4pl-chalet/c4plch-02.jpg
     - /img/overnachten/verhuring-C4pl-chalet/c4plch-03.jpg
@@ -33,68 +44,68 @@ insert:
 
 {% include links.md %}
 
-# Chalets comfort 4 +
+# Chalet comfort 4 +
 
-Na een heerlijke dagje strand of een tripje in de buurt lonkt het overdekte terras (en de aperitief) om nog even terug te blikken of al plannen te maken voor de komende dagen. 
+Na een heerlijk dagje strand of een uitstapje in de buurt lonkt het overdekte terras (en de aperitief) om nog even terug te blikken of al plannen te maken voor de komende dagen. 
 
-###Inrichting chalets:
-- Ruime woonkamer met flatscreen en digibox
-- Ingerichte keuken met microgolf
-- Badkamer met douche, wastafel en toilet
-- Slaapkamers chalet:
+##Inrichting chalet:
+- ruime woonkamer met flatscreen en digibox
+- ingerichte keuken met microgolf
+- badkamer met douche, wastafel en toilet
+- slaapkamers chalet:
     - 1 kamer met dubbelbed (140x200)
     - 1 kamer met stapelbed 2x (90x200) 
-- Overdekt en afgesloten terras met tuinmeubilair
+- overdekt en afgesloten terras met tuinmeubilair
     
-###Goed om weten
-- Chalet voorzien voor 4 personen
-- Honden toegelaten - max 2
-- Hele jaar door boekbaar
+##Goed om weten
+- chalet voorzien voor 4 personen
+- honden toegelaten - max 2 - geen gevaarlijke rassen
+- het hele jaar door boekbaar
 
-###Prijzen
+##Prijzen
 
 PERIODE             | LAAGSEIZOEN | TUSSENSEIZOEN | HOOGSEIZOEN |
 :------------------:|:-----------:|:-------------:|:-----------:|
 2 nachten           |€ 155        |€ 170          |       
 extra nacht         |€ 52         |€ 58           |           
 midweek (ma-vrij)   |€ 215        |€ 240          |
-verlengd WE (3 n)   |             |€ 240          |
+verlengd weekend (3 n)|             |€ 240          |
 7 nachten           |€ 370        |€ 410          | € 595
-extra nacht >7 n    |€ 45         |€ 55           | € 84
+extra nacht > 7 n    |€ 45         |€ 55           | € 84
 14 nachten          |€ 650        |€ 755          | € 1125
 
 
-###Periodes
+##Periodes
 
 LAAGSEIZOEN           |TUSSENSEIZOEN      |    HOOGSEIZOEN|
 :--------------------:|:-----------------:|:-------------:|
-november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni, <br>september - oktober, <br>schoolvakanties | juli - augustus
+november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni, <br>september en oktober, <br>schoolvakanties, <br>verlengde weekends  | juli en augustus
 
-###Waarborg
-- 50 € - cash te betalen bij aankomst
-- terugbetaling waarborg bij vertrek indien goed schoongemaakt
+##Waarborg
+- € 50 - contant te betalen bij aankomst
+- terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
 
-###Inbegrepen
+##Inbegrepen
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
 - **uitzondering**: verbruik gas en elektriciteit is exclusief bij huur vanaf 4 nachten van 1/11 - 31/3
 
-###Extra's
+##Extra's
 EXTRA               | PRIJS 
 :-------------------|:-----------|
 schoonmaak          | € 40 - zelf schoonmaken kan
-annulatieverzekering| 3,5 % van de totale reissom - Allianz 
-huisdier            | € 4 / hond - max 2
+annulatieverzekering| 3,5 % van de totale reissom - [Allianz][pdf_allianz.nl] 
+hond                | € 4 / hond - max 2 
 lakenpakket         | € 8 / bed
 kinderbed           | € 1 / nacht
 kinderstoel         | € 1 / nacht
-tweede parking      | € 4 / begonnen dag
-plaats fietsberging | € 1 / fiets / nacht
+parking extra auto      | € 4 / begonnen dag
+[plaats fietsberging][fietsberging.nl]| € 1 / fiets / nacht
 [sauna][sauna.nl]   | € 30
 [internet][internet.nl]| afhankelijk van tijd online
 [Veld & Duin service][veld_duin_service.nl]| € 60
 
 
-###Plan camping
+##Plan camping
 
 [invoegen plan][plan.nl]

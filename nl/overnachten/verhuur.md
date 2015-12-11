@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Verhuur
-banner: TODO - trigger tekst vanop VERHUUR page
+callout: "Laat u verrassen door ons diverse logiesaanbod en kies de formule die het best bij u past."
 
 class:
     select: 
@@ -10,14 +10,14 @@ class:
 preview:
     title: Zin om er even uit te zijn?
     text: 
-        - Boek één van onze chalets, caravans of (luxe) appartementen en geniet volop van een zorgeloos en comfortabel verblijf. 
-        - Ook kampeerders met eigen caravan of tent zijn bij ons van harte welkom.
+        - Boek een chalet, caravan of (luxe)appartement en geniet volop van een zorgeloos en comfortabel verblijf. 
+        - Ook kampeerders met eigen caravan of tent zijn bij ons van harte welkom.     
 images:
-    - /img/ingang.jpg
+    - /img/prevverhuur.jpg
     
 insert:
     - level3-tiles
     
-remove:
-    - banner
+    
+
 ---

@@ -4,15 +4,23 @@ title: Sanitair
 picto: /img/svg/voorzieningen/sanitair.svg
 
 images:
+    - /img/voorzieningen/sanitair/sanit-01.jpg
+    - /img/voorzieningen/sanitair/sanit-02.jpg
+    - /img/voorzieningen/sanitair/sanit-03.jpg
+    - /img/voorzieningen/sanitair/sanit-04.jpg
 
 insert:
     - page-images-bottom
+
+remove:
+    - imgstrip
+    
 
 ---
 
 # Sanitair 
 
-De trekkers en huurders van een standaardchalet kunnen gebruik maken van onze sanitiare voorzieningen:
+De trekkers en de huurders van een standaardchalet kunnen gebruik maken van onze sanitaire voorzieningen:
 
 * 5 douches
 * 8 toiletten en urinoirs

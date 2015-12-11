@@ -7,10 +7,11 @@ preview:
         price: 110
         for: 2 nachten
     list:
-        - "eenvoudig"
         - "4 personen"
-        - "prijsbewust op vakantie"
         - "36 m²"
+        - "prijsbewust op vakantie"
+        - "eenvoudig"
+        
 
 images:
     - /img/overnachten/verhuring-ST-chalet/stch-01.jpg
@@ -20,9 +21,20 @@ images:
     - /img/overnachten/verhuring-ST-chalet/stch-05.jpg
     - /img/overnachten/verhuring-ST-chalet/stch-06.jpg
     - /img/overnachten/verhuring-ST-chalet/stch-07.jpg
-    - /img/overnachten/verhuring-ST-chalet/stch-08.jpg
-    - /img/overnachten/verhuring-ST-chalet/stch-09.jpg
-    - /img/overnachten/verhuring-ST-chalet/stch-10.jpg
+    - /img/overnachten/verhuring-ST-chalet/stch-01.jpg
+    - /img/overnachten/verhuring-ST-chalet/stch-02.jpg
+    - /img/overnachten/verhuring-ST-chalet/stch-03.jpg
+    - /img/overnachten/verhuring-ST-chalet/stch-04.jpg
+    - /img/overnachten/verhuring-ST-chalet/stch-05.jpg
+    - /img/overnachten/verhuring-ST-chalet/stch-06.jpg
+    - /img/overnachten/verhuring-ST-chalet/stch-07.jpg
+    - /img/overnachten/verhuring-ST-chalet/stch-01.jpg
+    - /img/overnachten/verhuring-ST-chalet/stch-02.jpg
+    - /img/overnachten/verhuring-ST-chalet/stch-03.jpg
+    - /img/overnachten/verhuring-ST-chalet/stch-04.jpg
+    - /img/overnachten/verhuring-ST-chalet/stch-05.jpg
+    - /img/overnachten/verhuring-ST-chalet/stch-06.jpg
+ 
     
 insert:
     - page-images-top
@@ -35,66 +47,66 @@ insert:
 
 Wenst u prijsbewust op vakantie te gaan maar is het slapen in een tent niet helemaal uw ding? Dan zijn deze eenvoudige chalets wellicht wat u zoekt. 
 
-###Inrichting chalet:
-- Woonkamer met tv en digibox
-- Ingerichte keuken met microgolf
-- Toilet
-- Slaapkamer chalet:
+##Inrichting chalet
+- woonkamer met tv en digibox
+- ingerichte keuken met microgolf
+- toilet
+- slaapkamer chalet:
     - 1 kamer met dubbelbed (140x200)
     - 1 kamer met stapelbed (2x(90x200)) of dubbelbed (140x200)
-- Tuinmeubilair
+- tuinmeubilair
     
-###Goed om weten
-- Chalet voorzien voor 4 personen
-- Geen douche en lavabo voorzien in de chalet - u kunt gebruik maken van het sanitair op de camping
-- Honden toegelaten - max 2 
-- Niet boekbaar tussen 15/11 en 15/3
+##Goed om weten
+- chalet voorzien voor 4 personen
+- geen douche en lavabo voorzien in de chalet - u kunt gebruik maken van het sanitair op de camping
+- honden toegelaten - max 2 - geen gevaarlijke rassen
+- niet boekbaar tussen 15/11 en 15/3
 
-###Prijzen
+##Prijzen
 
 PERIODE             |TUSSENSEIZOEN | HOOGSEIZOEN  |
-:------------------:|:-----------:|:----------  -:|
-2 nachten           | € 110       |                      
-extra nacht         | € 37        |                          
-midweek (ma-vrij)   | € 155       |               
-verlengd WE (3 n)   | € 155       |               
-7 nachten           | € 260       |€ 380           
-extra nacht >7 n    | € 35        |€ 53            
-14 nachten          | € 480       |€ 715           
+:------------------:|:------------:|:------------:|
+2 nachten           |€ 110         |                      
+extra nacht         |€ 37          |                          
+midweek (ma-vrij)   |€ 155         |               
+verlengd WE (3 n)   |€ 155         |               
+7 nachten           |€ 260         |€ 380           
+extra nacht > 7 n    |€ 35          |€ 53            
+14 nachten          |€ 480         |€ 715           
 
 
-###Periodes
+##Periodes
 
 TUSSENSEIZOEN      |    HOOGSEIZOEN|
 :--------------------:|:-----------------:|:-------------:|
- april tot juni, <br>september - oktober, <br>schoolvakanties | juli - augustus
+ april tot juni, <br>september en oktober, <br>schoolvakanties, <br>verlengde weekends  | juli en augustus
 
-###Waarborg
-- 50 € - cash te betalen bij aankomst
-- terugbetaling waarborg bij vertrek indien goed schoongemaakt
+##Waarborg
+- € 50 - contant te betalen bij aankomst
+- terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
 
-###Inbegrepen
+##Inbegrepen
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
 
 
-###Extra's
+##Extra's
 EXTRA               | PRIJS 
 :-------------------|:-----------|
 jeton douche        | € 1
 schoonmaak          | € 40 - zelf schoonmaken kan
-annulatieverzekering| 3,5 % van de totale reissom - Allianz 
-huisdier            | € 4 / hond - max 2
+annulatieverzekering| 3,5 % van de totale reissom - [Allianz][pdf_allianz.nl] 
+hond                | € 4 / hond - max 2
 lakenpakket         | € 8 / bed
 kinderbed           | € 1 / nacht
 kinderstoel         | € 1 / nacht
-tweede parking      | € 4 / begonnen dag
-plaats fietsberging | € 1 / fiets / nacht
+parking tweede auto | € 4 / begonnen dag
+[plaats fietsberging][fietsberging.nl]| € 1 / fiets / nacht
 [sauna][sauna.nl]   | € 30
 [internet][internet.nl]| afhankelijk van tijd online
 [Veld & Duin service][veld_duin_service.nl]| € 60
 
 
-###Plan camping
+##Plan camping
 
 [invoegen plan][plan.nl]

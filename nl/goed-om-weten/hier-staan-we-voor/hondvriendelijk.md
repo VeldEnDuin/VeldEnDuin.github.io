@@ -1,23 +1,44 @@
 ---
 title: Hondvriendelijk
 layout: page
+
+images:
+    - /img/hierstaanwevoor/hondvriendelijk/hondvr-01.jpg
+    - /img/hierstaanwevoor/hondvriendelijk/hondvr-02.jpg
+    - /img/hierstaanwevoor/hondvriendelijk/hondvr-03.jpg
+    - /img/hierstaanwevoor/hondvriendelijk/hondvr-04.jpg
+
+insert:
+    - page-images-bottom
+
+remove:
+    - imgstrip
+    
 ---
 
 #Hondvriendelijk
-Uw hond is van harte welkom op de camping!
- Ook in de verhuurchalets en caravans zijn honden welkom, in de (luxe)appartementen is dit niet mogelijk. Maximum 2 honden per perceel - geen gevaarlijke rassen - 4 € / hond / nacht.
+Uw hond is van harte welkom op de camping!<br>
+Ook in de verhuurchalets en caravans zijn honden welkom, in de (luxe)appartementen zijn ze echter niet toegelaten.<br>
+
 
 ##Spelregels 
-Er zijn echter een aantal spelregels die moeten gevolgd om andere gasten niet te hinderen:
-huisdieren moeten op de camping op elk moment aan de lijn gehouden worden
-uitwerpselen moeten meteen opgeraapt worden
-honden moeten op hun eigen perceel blijven
-laat uw hond geen andere gasten storen
+Hondenbezitters zijn steeds verantwoordelijk voor hun hond. Hierbij zijn er een aantal spelregels die strikt moeten gevolgd worden zodat de andere gasten geen hinder ondervinden:
 
-###Hond uitlaten
+- huisdieren op de camping steeds aan de lijn
+- uitwerpselen worden meteen opgeraapt
+- honden blijven op eigen perceel
+- maximum 2 honden per perceel
+- gevaarlijke rassen niet toegelaten
+ 
+##Hond uitlaten
 
 De hond uitlaten kan in het tegenoverliggende park Paelsteenveld of op het strand. 
-Hou er wel rekening mee dat er een aantal bepalingen vastgelegd werden:
-honden zijn toegelaten op het strand en in de duinen als ze aan de leiband worden gehouden
-van 1/7 tot 31/8 zijn honden  welkom op het strand en in de duinen (behalve de verharde paden) voor 10u30 en na 18u30. 
-uitzonderingen hondenverbod strand in de zomer: strandzones voorbij de Twins tot grens Oostende en de zone tussen post 6 en het naaktstrand 
+
+###Strand
+
+- 1/9 - 30/6: honden zijn de hele dag toegelaten op het strand en in de duinen
+- 1/7 - 31/8: honden zijn **niet toegelaten** op het strand en in de duinen (behalve de verharde paden) **tussen 10u30 en 18u30**. Uitzonderingen hierop:    
+    - de strandzones voorbij strandpost 1 (Twinsclub) tot aan de grens van Oostende
+    - de zone tussen strandpost 6 en het naaktstrand 
+
+Honden moeten ook op het strand en in de duinen aan de leiband worden gehouden.

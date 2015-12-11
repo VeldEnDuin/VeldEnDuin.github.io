@@ -9,11 +9,21 @@ preview:
         
     list:
         - "afmetingen: 7x8 meter"
+        - "ideaal voor 2-persoonstentjes"
         - "grasplaatsen"
         - "dichtbij sanitair"
-        - "ideaal voor 2-persoonstentjes"
-        
+                
 images:
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-01.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-02.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-03.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-04.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-05.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-06.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-07.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-08.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-09.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-10.jpg
     - /img/overnachten/trekkers-tent-7x8/tent7x8-01.jpg
     - /img/overnachten/trekkers-tent-7x8/tent7x8-02.jpg
     - /img/overnachten/trekkers-tent-7x8/tent7x8-03.jpg
@@ -26,20 +36,22 @@ images:
     - /img/overnachten/trekkers-tent-7x8/tent7x8-10.jpg
     
     
+    
 insert:
     - page-images-top
 ---
 {% include links.md %}
 
-## TENTPLAATSEN 7x8
-Dit zijn de geschikte plaatsen voor uw kleine (smijt)tentje. Het echte kampeergevoel krijgt u er zomaar bij...
+# TENTPLAATS 7x8
+Deze plaatsen van 7x8 meter zijn ideaal voor uw kleine (werp)tentje.  
 
-###Goed om weten
+
+##Goed om weten
 - max 4 personen / plaats
-- honden toegelaten
+- honden toegelaten - max 2 - geen gevaarlijke rassen
 
-###Prijzen
-AANTAL PERSONEN | PRIJS       
+##Prijzen
+AANTAL PERSONEN | PRIJS / NACHT     
 :-------------:|:-----------:|
 1 persoon      |€ 18              
 2 personen     |€ 21                   
@@ -49,7 +61,7 @@ AANTAL PERSONEN | PRIJS
 
 15/7 - 15/8: reservatie vanaf 7 nachten
 
-###Kortingen
+##Kortingen
 
 Aantal nachten | Korting       
 :-------------:|:-----------:|
@@ -58,27 +70,27 @@ Aantal nachten | Korting
 ≥ 10 nachten  | 10 %      
 ≥ 14 nachten  | 14 %            
 
-- Korting enkel geldig op het verblijf, niet op extra’s en niet combineerbaar met andere kortingen of kampeerarrangementen.
-- Geldigheidsduur: hele jaar met uitzondering van juli en augustus.
+- korting enkel geldig op het verblijf, niet op extra’s en niet combineerbaar met andere kortingen of kampeerarrangementen
+- geldigheidsduur: het hele jaar door met uitzondering van juli en augustus
 
 
-###Inbegrepen
-- gemeente-en verblijfstaksen
+##Inbegrepen
+- gemeente- en verblijfstaksen
 - parking 1 auto
 - elektriciteit
 
-###Extra's
+##Extra's
 EXTRA             | PRIJS 
 :------------------|:-----------|
-annulatieverzekering| 3,5 % van de totale reissom - Allianz 
+annulatieverzekering| 3,5 % van de totale reissom - [Allianz][pdf_allianz.nl] 
 douchejeton       | € 1 / jeton
-hond              | € 4 / nacht - max 2 honden, geen gevaarlijke rassen
-tweede parking| € 4 / begonnen dag
-plaats fietsberging| € 1 / fiets / nacht
+hond              | € 4 / nacht - max 2 
+parking extra auto| € 4 / begonnen dag
+[plaats fietsberging][fietsberging.nl]| € 1 / fiets / nacht
 [sauna][sauna.nl]| € 30
 [internet][internet.nl]| afhankelijk van tijd online
 
 
-###Plan camping
+##Plan camping
 
 [invoegen plan][plan.nl]

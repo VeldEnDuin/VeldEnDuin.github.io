@@ -14,6 +14,10 @@
 
 [Deze tekst op volle pagina][README.md]
 
+Opstarten Brackets + terminalvenster (voor detecteren fouten):
+* ALT F2 of typ 'terminalvenster' in zoekscherm
+* terminalvenster opent zich
+* typ: 'startsite'
 
 # Beheer site via Github - Brackets
 
@@ -150,6 +154,11 @@ door een ```-``` of ```*``` teken met spatie aan het begin van een lijn te gebru
 * item 2
 - topic 3
 
+**speciale tekens**
+via de charactermap:
+* typ in zoekscherm 'tekenset'
+* van hieruit kun je de gewenste tekens knippen en plakken
+
 
 **gescheiden paragrafen:**
 lege lijnen zijn belangrijk om gescheiden paragrafen te maken.
@@ -222,8 +231,19 @@ Voor alle pagina's waarnaar je wilt linken (vanuit menu of vanuit tekst) is het 
 
 ```yml
 {linkcode}: 
-    {iso-taal-code}: { link: {de effectieve link}   }
+    {iso-taal-code}: {de effectieve link}
 ```
+
+**voorbeeld:**
+
+```yml
+sauna: 
+    nl: /nl/voorzieningen/sauna.html
+    
+kusttram:
+    nl: http://www.delijn.be/nl/kusttram
+```
+
 
 Het invoegen in de tekst van het ```*.md``` bestand volgt dan deze formatering.
 ```[klikbare tekst][{linkcode}.{iso taal code}]```
@@ -232,7 +252,7 @@ Een voorbeeld:
 ```md
 {% include links.md %}
 
-De link via [klikbaar woord][foo.nl] naar de nederlandse link van dit menu-element 
+De link via [klikbaar woord][sauna.nl] naar de nederlandse link van dit menu-element en [linktekst naar de kusttram][kusttram.nl]
 ```
 
 **Belangrijk**: Deze links werken alleen als: 
@@ -251,6 +271,62 @@ Daarvoor gebruik je dit formaat in de ```*.md``` bestanden:
 ```md
 De link via [klikbaar woord](http://anderewebsite.be) naar de andere site. 
 ```
+
+## Banner - callout - imagestrip
+### Banner
+- standaard staat de banner uit (uitgezonderd bij de landingspagina, daar staat banner automatisch aan)
+- banner toevoegen kan in de prelude:
+
+```yml
+insert:
+  - banner
+```
+
+- het beeld in de banner wijst voor elke pagina naar ```/img/style/banner.jpg```, maar kan voor specifieke pagina anders ingesteld worden door de prelude:
+
+```yml
+bannerimg: /img/other/image.png
+```
+
+Let er wel op dat dit beeld breed genoeg is, en ook centraal-onderaan het meest belangrijke element bevat aangezien het automatisch op dat punt zal inzoomen op smallere schermen.
+
+
+### Callout
+- standaard bevat de banner een callout (= witte balk met reservatie aanvraag knop). 
+- de callout kun je verbergen:
+
+```yml
+remove:
+  - callout
+```
+
+- de tekst in de callout wordt standaard ingevuld (per taal) met de tekst die je vindt in _data / langs.yml (te vinden onder taal / dict / callout)
+- als je de callout tekst op een bepaalde pagina wil laten afwijken, kan dat in de prelude via
+
+```yml
+callout: "dit is de andere tekst"  
+```
+
+
+### Imagestrip
+Staat standaard aan. Indien je wil dat die op een bepaalde pagina uit staat, pas je dit aan in de prelude:
+
+```yml
+remove:
+  - imgstrip
+```
+
+De beelden voor de imgstrip worden opgehaald uit een google plus album. De naam van het album wordt bepaald in _config.yml:
+
+```yml
+strip-album: "www-footer-imgstrip"
+```
+Als je de imgstrip op een bepaalde pagina wilt laten afwijken, moet je allereerst een nieuwe google plus pagina aanmaken. In de prelude moet je dan verwijzen naar dat dat andere google plus album vb:
+
+```yml
+strip-album: "www-footerresidentieel-imgstrip"
+```
+
 
 
 ## Prelude
@@ -283,7 +359,7 @@ layout     | tekst  | layout:&nbsp;landing  | **verplicht** Wijst naar een besch
 title      | tekst  | title:&nbsp;Mijn&nbsp;Titel| **verplicht** De vrij gekozen titel van de pagina.
 images     | lijst  | images:<br>&nbsp;&nbsp;-&nbsp;/img/een.jpg<br>&nbsp;&nbsp;-&nbsp;/img/twee.jpg | De oplijsting van beelden die aan dit artikel worden ge-associeerd (cfr verdere info over imgs)
 insert     | lijst  | insert:<br>&nbsp;&nbsp;- virtualtour | Gekozen specifieke scherm-elementen zijn vanzelf uitgeschakeld, maar worden hiermee expliciet aangezet. (Zie hieronder voor de opties.)
-remove     | lijst  | remove:<br>&nbsp;&nbsp;- banner | Gekozen specifieke scherm-elementen zijn vanzelf beschikbaar, maar kunnen hiermee worden afgezet.  (Zie hieronder voor de opties.)
+remove     | lijst  | remove:<br>&nbsp;&nbsp;- callout | Gekozen specifieke scherm-elementen zijn vanzelf beschikbaar, maar kunnen hiermee worden afgezet.  (Zie hieronder voor de opties.)
 icon       | tekst  | info-sign             | associeert een glyphicon met de pagina voor gebruik in links. Zie [lijst](http://getbootstrap.com/components/#glyphicons-glyphs) met ondersteunde iconen.
 
 ### Prelude: layout
@@ -311,10 +387,12 @@ De mogelijke inserts die in de prelude kunnen aangegeven worden:
 insert      | mogelijk in layout  | acitveert
 ------------|---------------------|--------------
 virtualtour | alle layouts        | google-virtual-tour
+banner      | alle layouts        | de banner onder hoofdmenu
 play-album  | alle layouts        | foto-album
 level3-tiles| alle layouts        | klikbare tegels van level3 menu = blokken in je derde niveau van navigatie vb de blokken bij verhuuritems / residentieel / arrangementen
 newsfeed    | landing             | lijst met recente nieuws-artikels
-page-images | alle layouts        | band bovenaan de pagina met de lijst van beelden die gedeclareerd staan in de images: sectie van de prelude
+page-images-top | alle layouts        | band bovenaan de pagina met de lijst van beelden die gedeclareerd staan in de images: sectie van de prelude
+page-images-bottom | alle layouts        | dezelfde soort band met beelden, maar dan onder de tekst
 
 ### Prelude: remove
 
@@ -322,7 +400,6 @@ De beschikbare elmenten die kunnen afgezet worden met 'remove' in de prelude zij
 
 remove      | mogelijk in layout  | dit verwijdert 
 ------------|---------------------|----------------
-banner      | alle layouts        | de banner onder hoofdmenu
 callout     | alle layouts        | de link voor de reservatie-aanvraag in de banner
 imgstrip    | alle layouts        | de strip met foto's onderaan
 
@@ -353,10 +430,54 @@ images:
 
 
 
-### Andere preludes
+### Andere 
+
+## Banner - callout - imagestrip
+### Banner
+- standaard staat de banner uit (uitgezonderd bij de landingspagina, daar staat banner automatisch aan)
+- banner toevoegen kan in de prelude:
+
+```yml
+insert:
+  - banner
+```
+### Callout
+- standaard bevat de banner een callout (= witte balk met reservatie aanvraag knop). 
+- de callout kun je verbergen:
+
+```yml
+remove:
+  - callout
+```
+
+- de tekst in de callout wordt standaard ingevuld (per taal) met de tekst die je vindt in _data / langs.yml (te vinden onder taal / dict / callout)
+- als je de callout tekst op een bepaalde pagina wil laten afwijken, kan dat in de prelude via
+
+```yml
+callout: "dit is de andere tekst"  
+```
+
+
+### Imagestrip
+Staat standaard aan. Indien je wil dat die op een bepaalde pagina uit staat, pas je dit aan in de prelude:
+
+```yml
+remove:
+  - imgstrip
+```
+
+De beelden voor de imgstrip worden opgehaald uit een google plus album. De naam van het album wordt bepaald in _config.yml:
+
+```yml
+strip-album: "www-footer-imgstrip"
+```
+Als je de imgstrip op een bepaalde pagina wilt laten afwijken, moet je allereerst een nieuwe google plus pagina aanmaken. In de prelude moet je dan verwijzen naar dat dat andere google plus album vb:
+
+```yml
+strip-album: "www-footerresidentieel-imgstrip"
+```
 
 Nieuwsartikels, landingspagina's en grouppagina's omvatten specifieke prelude-elementen. Deze worden verder beschreven in de betreffende secties.
-
 
 ## Nieuwsartikels
 
