@@ -466,7 +466,7 @@ For more information, please refer to <http://unlicense.org/>
         if (isEmpty(alb)) {
             throw "unexpected album loaded should have metadata available already"
         }
-        if (isEmpty(alb.photoList) {
+        if (isEmpty(alb.photoList)) {
             this.gallery.getPictureList(albid, function(piclist) {
                 alb.photoList = piclist.photoList;
                 cb();
