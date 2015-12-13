@@ -24,16 +24,5 @@ images:
 
 Bij reservatie van 14 nachten of meer krijgt u 2 gratis nachten. Deze zee van tijd biedt u de kans om al het moois van onze kust en achterland in uw eigen tempo te ontdekken.
 
-    
-##Goed om weten
-- geldig voor elk verhuurtype
-- niet geldig voor de extra's
-- arrangement mogelijk volgens beschikbaarheid
-- geldig het hele jaar door met uitzondering van schoolvakanties en verlengde weekends
-<br>
-<br>
-
-
-Bekijk de verschillende [logiesmogelijkheden][verhuur.nl].
-
+{% include nl/arr-goedomweten.md %}
 
