@@ -378,7 +378,7 @@ items:
     de: http://bowlingpaleis.be/oostende/speelpaleis/
     en: http://bowlingpaleis.be/oostende/speelpaleis/
   title:
-    nl: 'Speelpaleis '
+    nl: Speelpaleis
     fr: ''
     de: ''
     en: ''
@@ -1144,6 +1144,27 @@ subgroups:
     shopout: uit
     recrea: recreatie
     event: evenement
-  fr: {}
-  de: {}
-  en: {}
+  fr:
+    coast: ''
+    city: ''
+    cult: ''
+    kids: ''
+    shopout: ''
+    recrea: ''
+    event: ''
+  de:
+    coast: ''
+    city: ''
+    cult: ''
+    kids: ''
+    shopout: ''
+    recrea: ''
+    event: ''
+  en:
+    coast: ''
+    city: ''
+    cult: ''
+    kids: ''
+    shopout: ''
+    recrea: ''
+    event: ''

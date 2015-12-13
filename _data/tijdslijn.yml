@@ -11,6 +11,9 @@ items:
     label: 1920 - 1965
     title:
       nl: "Start (kampeer)toerisme in Bredene"
+      fr: ''
+      de: ''
+      en: ''
     description:
       nl: >
           <ol>
@@ -20,6 +23,10 @@ items:
             <li>Het kamperen raakt meer en meer georganiseerd en de eerste echte campings zijn een feit. Tot de eerste generatie campinguitbaters behoren o.a. Arthur Claeys, Robert Ryckx, Oscar Devos, Verkempinck en weduwe Geldhof.</li>
           </ol>
           <i><small>Bron: '100 jaar Bredene aan zee in beeld' door Erwin Mahieu en Frank Huygebaert.</small></i>
+      fr: ''
+      de: ''
+      en: ''
+
     images:
       - /img/tijdslijn/1920-1965/strand.jpg
       - /img/tijdslijn/1920-1965/wildkamperen.jpg
@@ -31,6 +38,9 @@ items:
     label: 1962 - 1967
     title:
       nl: "Start campings Prins Filip - Zon en Zee - Veld & Duin"
+      fr: ''
+      de: ''
+      en: ''
     description:
       nl: >
           <ol>
@@ -39,6 +49,9 @@ items:
             <li>Een stuk korenveld wordt vanaf 1967 vrijgemaakt voor de eerste kampeerders op Veld & Duin.</li>
           </ol>
           <i><small>Bron: '100 jaar Bredene aan zee in beeld' door Erwin Mahieu en Frank Huygebaert.</small></i>
+      fr: ''
+      de: ''
+      en: ''
     images:
       - /img/tijdslijn/1962-1967/prinsfilip.jpg
       - /img/tijdslijn/1962-1967/zonenzee.jpg
@@ -49,8 +62,14 @@ items:
     label: 1967 - 1985
     title:
       nl: "De beginjaren van Veld & Duin"
+      fr: ''
+      de: ''
+      en: ''
     description:
       nl: "Klik hier voor een hele reeks sfeerfoto's uit de jaren '70 en '80."
+      fr: ''
+      de: ''
+      en: ''
     images:
       - /img/tijdslijn/1967-1985/tussenjaren.jpg
 
@@ -58,8 +77,14 @@ items:
   - date: 1987-08-08
     title:
       nl: "20-jarig jubileum Veld & Duin"
+      fr: ''
+      de: ''
+      en: ''
     description:
       nl: "Groot feest ter gelegenheid van het 20-jarig bestaan van Veld & Duin en het 25-jarige jubileum van camping Prins Filip. Dit werd uitbundig gevierd met een Oberbayernavond, barbecue en kinderanimatie."
+      fr: ''
+      de: ''
+      en: ''
     images:
       - /img/tijdslijn/1987/jubileum87-01.jpg
       - /img/tijdslijn/1987/jubileum87-02.jpg
@@ -70,8 +95,14 @@ items:
     label: 1996
     title:
       nl: "Eerste editie Afro Caribbean Festival"
+      fr: ''
+      de: ''
+      en: ''
     description:
       nl: "Het huidige Afro C Festival ontstond uit het Afro Caribbean Festival dat in 1996 voor het eerst werd georganiseerd als parkfeest. De eerste editie telde drie groepen, door de jaren heen werd het festival aanzienlijk uitgebreid. Vanaf 2009 werd dit een tweedaags festival."
+      fr: ''
+      de: ''
+      en: ''
     images:
       - /img/tijdslijn/1996/Afrocarribean.jpg
 
@@ -79,8 +110,14 @@ items:
   - date: 1998-07-25
     title:
       nl: "Feest Veld & Duin"
+      fr: ''
+      de: ''
+      en: ''
     description:
       nl: "Opnieuw reden voor een feestje: Veld & Duin bestaat 31 jaar en Stefaan Casier verwelkomt zijn kampeerders voor het tweede seizoen op Veld & Duin II (het vroegere Prins Filip)."
+      fr: ''
+      de: ''
+      en: ''
     images:
       - /img/tijdslijn/1998/jubileum98-01.jpg
       - /img/tijdslijn/1998/jubileum98-02.jpg
@@ -93,8 +130,14 @@ items:
     label: 2002
     title:
       nl: "Overname Zon en Zee"
+      fr: ''
+      de: ''
+      en: ''
     description:
       nl: "In 2002 wordt het toenmalige Zon en Zee overgenomen. Er wordt meteen werk gemaakt van een renovatieplan voor de komende jaren."
+      fr: ''
+      de: ''
+      en: ''
     images:
       - /img/tijdslijn/2002/overnameZZ.jpg
 
@@ -102,8 +145,14 @@ items:
     label: 2002
     title:
       nl: "Jubileumfeest"
+      fr: ''
+      de: ''
+      en: ''
     description:
       nl: "Het seizoen wordt afgesloten met een feest ter gelegenheid van 35 jaar Veld & Duin. Op dit feest neemt Brigitte Pyra afscheid van haar kampeerders van Zon en Zee."
+      fr: ''
+      de: ''
+      en: ''
     images:
       - /img/tijdslijn/2002/jubileum2002-01.jpg
       - /img/tijdslijn/2002/jubileum2002-02.jpg
@@ -115,8 +164,14 @@ items:
     label: 2003
     title:
       nl: "Plaatsing airtrampoline"
+      fr: ''
+      de: ''
+      en: ''
     description:
       nl: "De eerste airtrampoline van België wordt bij ons geïnstalleerd. Vanaf 2006 krijgt de airtrampoline een plaatsje vooraan op de camping."
+      fr: ''
+      de: ''
+      en: ''
     images:
       - /img/tijdslijn/2003/airtr-01.jpg
       - /img/tijdslijn/2003/airtr-02.jpg
@@ -127,8 +182,14 @@ items:
     label: 2004 - 2005
     title:
       nl: "Start renovatiewerken"
+      fr: ''
+      de: ''
+      en: ''
     description:
       nl: "Op het voormalige Zon en Zee worden 23 grote en nieuwe percelen aangelegd."
+      fr: ''
+      de: ''
+      en: ''
     images:
       - /img/tijdslijn/2004-2005/werken-01.jpg
       - /img/tijdslijn/2004-2005/werken-02.jpg
@@ -141,8 +202,14 @@ items:
     label: 2005 - 2006
     title:
       nl: "Verplaatsing speelplein"
+      fr: ''
+      de: ''
+      en: ''
     description:
       nl: "Het speelplein wordt verplaatst en uitgebreid, 12 percelen worden aangelegd en er komt wifi voor onze kampeerders."
+      fr: ''
+      de: ''
+      en: ''
     images:
       - /img/tijdslijn/2005-2006/speelpl.jpg
 
@@ -151,8 +218,14 @@ items:
     label: 2006 - 2007
     title:
       nl: "Complete vernieuwing ingang"
+      fr: ''
+      de: ''
+      en: ''
     description:
       nl: "De ingang krijgt een complete facelift met een grote canvastent, een mooi aangelegd wandelpad, een grafitti-wall en een nieuwe toegangscontrole. Tenslotte komen er nog eens 12 nieuwe percelen."
+      fr: ''
+      de: ''
+      en: ''
     images:
       - /img/tijdslijn/2006-2007/tent-01.jpg
       - /img/tijdslijn/2006-2007/tent-02.jpg
@@ -165,8 +238,14 @@ items:
     label: 2006
     title:
       nl: "Grijze walvis in Spuikom"
+      fr: ''
+      de: ''
+      en: ''
     description:
       nl: "In de Spuikom (waterplas aan de grens van Oostende) wordt een grijze walvis gespot. Deze vreemde verschijning lokt heel wat extra bezoekers naar de Spuikom en onze camping."
+      fr: ''
+      de: ''
+      en: ''
     images:
       - /img/tijdslijn/2006/walvis-01.jpg
 
@@ -175,8 +254,14 @@ items:
     label: 2007
     title:
       nl: "40-jarig jubileum"
+      fr: ''
+      de: ''
+      en: ''
     description:
       nl: "Het 40-jarig jubileum wordt groots gevierd met een dag vol animatie en een sfeervol avondfeest."
+      fr: ''
+      de: ''
+      en: ''
     images:
       - /img/tijdslijn/2007/jubileum2007-01.jpg
       - /img/tijdslijn/2007/jubileum2007-02.jpg
@@ -189,8 +274,14 @@ items:
     label: 2008 - 2010
     title:
       nl: "Vernieuwing receptie"
+      fr: ''
+      de: ''
+      en: ''
     description:
       nl: "Het receptiegebouw wordt grondig gerenoveerd: het onthaal wordt volledig vernieuwd en er komt een extra verdieping. Op de eerste en tweede verdieping komen 2 luxe-appartementen voor verhuur."
+      fr: ''
+      de: ''
+      en: ''
     images:
       - /img/tijdslijn/2008-2010/receptievoorna.jpg
 
@@ -199,8 +290,14 @@ items:
     label: 2011
     title:
       nl: "Opening recreatiedomein Grasduinen"
+      fr: ''
+      de: ''
+      en: ''
     description:
       nl: "Grasduinen is een 9 ha groot recreatiedomein op wandelafstand van de camping. Op het domein is er een vijver en vindt u verschillende sportvelden, speeltoestellen, wandel-en fietspaden. Er worden ook geregeld evenementen georganiseerd."
+      fr: ''
+      de: ''
+      en: ''
     images:
       - /img/tijdslijn/2011/grasduinen.jpg
 
@@ -209,8 +306,14 @@ items:
     label: 2013
     title:
       nl: "Toegang Veld & Duin in een nieuw jasje"
+      fr: ''
+      de: ''
+      en: ''
     description:
       nl: "Er komt een check-in zone en 3 stijlvolle bannieren zodat u ons nog makkelijker kan vinden."
+      fr: ''
+      de: ''
+      en: ''
     images:
       - /img/tijdslijn/2013/ingang.jpg
 
@@ -219,8 +322,14 @@ items:
     label: 2013
     title:
       nl: "Start heraanleg park Paelsteenveld"
+      fr: ''
+      de: ''
+      en: ''
     description:
       nl: "Het Paelsteenveld tegenover de camping wordt heraangelegd. De werken worden in verschillende fases uitgevoerd. Het gedeelte tussen de Astridbrug en het Staf Versluyscentrum is ondertussen volledig klaar."
+      fr: ''
+      de: ''
+      en: ''
     images:
       - /img/tijdslijn/2013-2015/Paelsteenveld-01.jpg
       - /img/tijdslijn/2013-2015/Paelsteenveld-02.jpg
@@ -230,6 +339,11 @@ items:
     label: 2014 - 2015
     title:
       nl: "Nieuw sanitair en start werken fase IV"
+      fr: ''
+      de: ''
+      en: ''
     description:
       nl: "Op Veld & Duin II wordt het moderne en nieuwe sanitairgebouw afgewerkt.<br> Het renovatieproject gaat van start met de aanleg van 10 nieuwe percelen."
-
+      fr: ''
+      de: ''
+      en: ''

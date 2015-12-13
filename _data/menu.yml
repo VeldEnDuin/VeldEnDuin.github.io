@@ -1,6 +1,9 @@
 - linkcode: onze_troeven
   menutekst:
-     nl: Goed om weten
+    nl: Goed om weten
+    fr: ''
+    de: ''
+    en: ''
   submenu:
     - linkcode: onze_troeven
 
@@ -83,6 +86,10 @@
 - linkcode: voorzieningen
   menutekst:
     nl:  Voorzieningen
+    fr: ''
+    de: ''
+    en: ''
+
   submenu:
     - submenu:
         - linkcode: voorzieningen
@@ -99,8 +106,14 @@
 - linkcode: doen
   menutekst:
     nl:  Doen
+    fr: ''
+    de: ''
+    en: ''
 
 
 - linkcode: fotos
   menutekst:
     nl:  Foto's
+    fr: ''
+    de: ''
+    en: ''
