@@ -2,7 +2,7 @@
 title: "Update werken fase IV"
 layout: post
 description: aanleg 7 betonplaten 
-permalink: /nl/2015-11-04-werken-faze-iv.html
+permalink: /nl/2015-11-04-werken-fase-iv.html
 images: 
     - /img/nieuws/20151104-werken-01.jpg
     - /img/nieuws/20151104-werken-02.jpg
