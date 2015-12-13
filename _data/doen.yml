@@ -934,7 +934,7 @@ items:
   images:
   - "/img/doen/ost-dijk.jpg"
   link:
-    nl: "/"
+    nl: ''
     fr: ''
     de: ''
     en: ''
