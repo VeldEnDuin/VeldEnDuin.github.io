@@ -19,7 +19,7 @@ images:
 ##Doe mee aan de wedstrijd en win mooie prijzen
 
 Op de nieuwe site hebben we – heel bewust –  3 maal serieus geblunderd...<br> 
-Ga snel op zoek naar de 3 frapante onwaarheden die we verscholen hebben tussen de andere informatie en geef dit aan ons door.
+Ga snel op zoek naar de 3 frappante onwaarheden die we verscholen hebben tussen de andere informatie en geef dit aan ons door.
 
 
 ###Prijzen
