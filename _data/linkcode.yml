@@ -163,7 +163,7 @@ pop_up_bib:
 # [4] menu doen
 doen:
     nl: /nl/doen.html
-    fr: /fr/a-faire-en-region.html
+    fr: /fr/a-faire.html
     en: /en/activities.html
     de: /de/zu-tun.html
 # [5] menu fotos
