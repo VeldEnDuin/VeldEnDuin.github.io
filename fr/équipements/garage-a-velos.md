@@ -1,0 +1,39 @@
+---
+layout: page
+title: Garage à vélos
+picto: /img/svg/voorzieningen/fietsberging.svg
+
+images:
+    - /img/voorzieningen/fietsberging/fietsberg-01.jpg
+    - /img/voorzieningen/fietsberging/fietsberg-02.jpg
+    - /img/voorzieningen/fietsberging/fietsberg-03.jpg
+    - /img/voorzieningen/fietsberging/fietsberg-04.jpg
+    
+    
+insert:
+    - page-images-bottom
+
+remove:
+    - imgstrip
+    
+
+---
+
+{% include links.md %}
+
+#Garage à vélos
+
+De retour d’une agréable balade, vous pourrez ranger votre vélo dans notre garage comptant un total de 116 emplacements réservés aux cyclistes.
+
+Ceux qui ont une caravane résidentielle peuvent louer un emplacement pour une année complète. Un emplacement pour la durée de leur séjour est également mis à la disposition des locataires ou campeurs.
+Réservation possible à la réception.
+
+| Formule                 | Tarif |
+|-------------------------|:-----:|
+| emplacement annuel      |€ 45 / vélo   |
+| emplacement locataires / campeurs | 1 € / nuit – garantie pour la clé 25 € |
+
+
+La réception et le terrain de jeux sont également équipés d’un râtelier à vélos très pratique pour vos déplacements dans le camping. 
+
+Le point nodal du [réseau de randonnées cyclistes] [fietsnet.fr] le plus proche de Veld & Duin est situé à 1,4 km. Des cartes de ce réseau sont disponibles à la réception.

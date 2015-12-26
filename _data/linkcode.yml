@@ -141,24 +141,34 @@ c_16:
 # [3] menu - voorzieningen
 voorzieningen:
     nl: /nl/voorzieningen-overzicht.html
+    fr: /fr/apercu-des-équipements.html
 speel:
     nl: /nl/voorzieningen/speelplein.html
+    fr: /fr/équipements/terrain-de-jeu.html
 animatie:
     nl: /nl/voorzieningen/animatie.html
+    fr: /fr/équipements/animations.html
 internet:
     nl: /nl/voorzieningen/internet.html
+    fr: /fr/équipements/internet.html
 sanitair:
     nl: /nl/voorzieningen/sanitair.html
+    fr: /fr/équipements/sanitaires.html
 toeristische_info:
     nl: /nl/voorzieningen/info.html
+    fr: /fr/équipements/info.html
 wassalon:
     nl: /nl/voorzieningen/wassalon.html
+    fr: /fr/équipements/laverie-automatique.html
 sauna:
     nl: /nl/voorzieningen/sauna.html
+    fr: /fr/équipements/sauna.html
 fietsberging:
     nl: /nl/voorzieningen/fietsberging.html
+    fr: /fr/équipements/garage-a-velos.html
 pop_up_bib:
     nl: /nl/voorzieningen/pop-up-bib.html
+    fr: /fr/équipements/bibliotheque-ephemere.html
 
 # [4] menu doen
 doen:

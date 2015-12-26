@@ -5,5 +5,5 @@ data: doen
 
 
     
-callout: "In Bredene en omgeving valt er steeds iets te beleven. Gaat u mee op ontdekkingsreis?"
+callout: "A Bredene et sa région il y a toujours quelque chose à faire."
 ---
