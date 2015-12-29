@@ -1,31 +1,30 @@
 ---
 layout: page
-title: Type 4
+title: Type 3
 preview: 
-    title: Type 4
+    title: Type 3
     button:
-        price: 2510
+        price: 1870
         for: per jaar
     list:
-        - "gemiddelde opp: 190 m²"
-        - "luxeplaatsen"
+        - "gemiddelde opp: 120 m²"
+        - "vernieuwde plaatsen"
         - "hele jaar toegankelijk"
-        
+       
         
 images:
-    - /img/overnachten/residentieel-type1/restyp1-01.jpg
+    - /img/overnachten/residentieel-type2/restyp2-01.jpg
     
 ---
 
 {% include links.md %}
 
-#Type 4 - CARAVAN
+#TYPE 3 - CARAVAN OF CHALET
+Een vaste stek aan de kust om steeds opnieuw naar terug te keren, wie droomt daar niet van? Maak uw droom waar met een eigen caravan of chalet om heel vaak van te genieten.
 
-Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Ga dan voor één van onze luxueuze plaatsen en geniet van de extra ruimte.
 
 ##Goed om weten
-- alle type 1 percelen liggen rond de wadi
-- betonplaat van 12x4 m - geschikt voor grote caravans
+- vernieuwde plaatsen
 - aparte tellers voor gas - water - elektriciteit
 - ondergronds gasnetwerk - geen gasflessen
 - wintervaste wateraansluiting
@@ -33,12 +32,12 @@ Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Ga 
 
 ##Prijzen
 
-TYPE 4                |PRIJS           |
+TYPE 3                |PRIJS           |
 :--------------------:|:--------------:|
-standplaatsvergoeding |€ 2510               
+standplaatsvergoeding |€ 1870               
 gemeentetaks          |€ 333,90 (2015) 
 huisvuilbijdrage<br>incl 25 zakken<br> | € 65    
-[brandverzekering][pdf_brandverzekering.nl]     |afhankelijk van <br>waarde caravan
+[brandverzekering][pdf_brandverzekering.nl]      |afhankelijk van <br>waarde caravan
 
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
@@ -55,3 +54,4 @@ tellervergoeding      | € 18 / teller
 
 [invoegen plan][plan.nl]
 aanduiden met kleur op plan welke percelen - Joke?
+

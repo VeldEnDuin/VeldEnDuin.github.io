@@ -23,25 +23,35 @@ news:
 # [1] menu - goed om weten
 onze_troeven:
     nl:  /nl/goed-om-weten/onze-troeven.html
+    fr:  /fr/bon-a-savoir/nos-atouts.html
 hier_staan_we_voor:
     nl:  /nl/goed-om-weten/hier-staan-we-voor.html
+    fr:  /fr/bon-a-savoir/nos-regles-et-valeurs.html
 fietsvriendelijk:
     nl:  /nl/goed-om-weten/hier-staan-we-voor/fietsvriendelijk.html
+    fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/cyclisme.html
 groen:
     nl:  /nl/goed-om-weten/hier-staan-we-voor/groen.html
+    fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/respect-de-la-nature.html
 kwaliteit:
     nl:  /nl/goed-om-weten/hier-staan-we-voor/kwaliteit.html
+    fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/qualite.html
 hondvriendelijk:
     nl:  /nl/goed-om-weten/hier-staan-we-voor/hondvriendelijk.html
+    fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/chiens-bienvenus.html
 rust:
     nl:  /nl/goed-om-weten/hier-staan-we-voor/rust.html
+    fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/repos.html
 iedereen_welkom:
     nl:  /nl/goed-om-weten/hier-staan-we-voor/iedereen-welkom.html
+    fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/bienvenue-a-tous.html
 
 tijdslijn:
     nl:  /nl/goed-om-weten/tijdslijn.html
+    fr:  /fr/bon-a-savoir/ligne-du-temps.html
 praktisch:
     nl:  /nl/goed-om-weten/praktisch.html
+    fr:  /fr/bon-a-savoir/pratique.html
 
 
 # [2] menu - overnachten
@@ -99,14 +109,17 @@ trekkers_info:
 # [2.3] submenu overnachten -> residentieel
 residentieel_info:
     nl: /nl/overnachten/residentieel-verblijf/praktische-info.html
+    fr: /fr/hebergement/sejour-residentiel/infos-pratiques.html
 type_1:
     nl: /nl/overnachten/residentieel-verblijf/type-1.html
+    fr: /fr/hebergement/sejour-residentiel/type-1.html
 type_2:
     nl: /nl/overnachten/residentieel-verblijf/type-2.html
 type_3:
     nl: /nl/overnachten/residentieel-verblijf/type-3.html
 type_4:
     nl: /nl/overnachten/residentieel-verblijf/type-4.html
+    fr: /fr/hebergement/sejour-residentiel/type-4.html
 
 
 # [2.4] submenu overnachten -> arrangementen
@@ -141,34 +154,34 @@ c_16:
 # [3] menu - voorzieningen
 voorzieningen:
     nl: /nl/voorzieningen-overzicht.html
-    fr: /fr/apercu-des-équipements.html
+    fr: /fr/apercu-des-equipements.html
 speel:
     nl: /nl/voorzieningen/speelplein.html
-    fr: /fr/équipements/terrain-de-jeu.html
+    fr: /fr/equipements/terrain-de-jeu.html
 animatie:
     nl: /nl/voorzieningen/animatie.html
-    fr: /fr/équipements/animations.html
+    fr: /fr/equipements/animations.html
 internet:
     nl: /nl/voorzieningen/internet.html
-    fr: /fr/équipements/internet.html
+    fr: /fr/equipements/internet.html
 sanitair:
     nl: /nl/voorzieningen/sanitair.html
-    fr: /fr/équipements/sanitaires.html
+    fr: /fr/equipements/sanitaires.html
 toeristische_info:
     nl: /nl/voorzieningen/info.html
-    fr: /fr/équipements/info.html
+    fr: /fr/equipements/info.html
 wassalon:
     nl: /nl/voorzieningen/wassalon.html
-    fr: /fr/équipements/laverie-automatique.html
+    fr: /fr/equipements/laverie-automatique.html
 sauna:
     nl: /nl/voorzieningen/sauna.html
-    fr: /fr/équipements/sauna.html
+    fr: /fr/equipements/sauna.html
 fietsberging:
     nl: /nl/voorzieningen/fietsberging.html
-    fr: /fr/équipements/garage-a-velos.html
+    fr: /fr/equipements/garage-a-velos.html
 pop_up_bib:
     nl: /nl/voorzieningen/pop-up-bib.html
-    fr: /fr/équipements/bibliotheque-ephemere.html
+    fr: /fr/equipements/bibliotheque-ephemere.html
 
 # [4] menu doen
 doen:
