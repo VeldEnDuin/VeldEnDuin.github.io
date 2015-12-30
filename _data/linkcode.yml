@@ -68,6 +68,7 @@ arrangementen:
 # [2.*] extra's overnachten buiten menu
 nieuw_project:
     nl: /nl/overnachten/nieuw-project.html
+    fr: /fr/hebergement/nouveau-projet.html
 wedstrijd:
     nl: /nl/overnachten/wedstrijd.html
 
@@ -77,20 +78,26 @@ verhuur_appartement:
     nl:  /nl/overnachten/verhuur/appartement.html
 verhuur_comfort2_caravan:
     nl:  /nl/overnachten/verhuur/comfort2-caravan.html
+    fr:  /fr/hebergement/location/caravane-confort2.html
 verhuur_comfort2_chalet:
     nl:  /nl/overnachten/verhuur/comfort2-chalet.html
+    fr:  /fr/hebergement/location/chalet-confort2.html
 verhuur_comfort4_caravan:
     nl:  /nl/overnachten/verhuur/comfort4-caravan.html
 verhuur_comfort4_chalet:
     nl:  /nl/overnachten/verhuur/comfort4-chalet.html
 verhuur_comfort4plus_chalet:
     nl:  /nl/overnachten/verhuur/comfort4plus-chalet.html
+    fr:  /fr/hebergement/location/chalet-confort4plus.html
 verhuur_luxe_appartementen:
     nl:  /nl/overnachten/verhuur/luxe-appartementen.html
+    fr:  /fr/hebergement/location/appartements-de-luxe.html
 verhuur_standaard_chalet:
     nl:  /nl/overnachten/verhuur/standaard-chalet.html
+    fr:  /fr/hebergement/location/chalet-standard.html
 verhuur_info:
     nl:  /nl/overnachten/verhuur/praktische-info.html
+    fr:  /fr/hebergement/location/infos-pratiques.html
 
 # [2.2] submenu overnachten -> trekkers
 trekkers_arrangement:
@@ -115,8 +122,10 @@ type_1:
     fr: /fr/hebergement/sejour-residentiel/type-1.html
 type_2:
     nl: /nl/overnachten/residentieel-verblijf/type-2.html
+    fr: /fr/hebergement/sejour-residentiel/type-2.html
 type_3:
     nl: /nl/overnachten/residentieel-verblijf/type-3.html
+    fr: /fr/hebergement/sejour-residentiel/type-3.html
 type_4:
     nl: /nl/overnachten/residentieel-verblijf/type-4.html
     fr: /fr/hebergement/sejour-residentiel/type-4.html
@@ -137,18 +146,25 @@ kadobon:
 # [2.5] submenu overnachten -> te koop
 te_koop:
     nl: /nl/overnachten/te-koop.html
+    fr: /fr/hebergement/a-vendre.html
 a_15:
     nl: /nl/overnachten/te-koop/a-15.html
+    fr: /fr/hebergement/a-vendre/a-15.html
 b_21:
     nl: /nl/overnachten/te-koop/b-21.html
+    fr: /fr/hebergement/a-vendre/b-21.html
 b_47:
     nl: /nl/overnachten/te-koop/b-47.html
+    fr: /fr/hebergement/a-vendre/b-47.html
 b_54:
     nl: /nl/overnachten/te-koop/b-54.html
+    fr: /fr/hebergement/a-vendre/b-54.html
 b_65:
     nl: /nl/overnachten/te-koop/b-65.html
+    fr: /fr/hebergement/a-vendre/b-65.html
 c_16:
     nl: /nl/overnachten/te-koop/c-16.html
+    fr: /fr/hebergement/a-vendre/c-16.html
 
 
 # [3] menu - voorzieningen

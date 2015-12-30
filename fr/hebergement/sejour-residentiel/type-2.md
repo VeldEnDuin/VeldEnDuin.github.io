@@ -5,11 +5,11 @@ preview:
     title: Type 2
     button:
         price: 1820
-        for: per jaar
+        for: par an
     list:
-        - "gemiddelde opp: 100 m²"
-        - "te vernieuwen plaatsen"
-        - "8 maanden toegankelijk"
+        - "surface moyenne : 100 m²"
+        - "emplacements à rénover"
+        - "accessible 8 mois"
         
         
 images:
@@ -19,39 +19,40 @@ images:
 
 {% include links.md %}
 
-#TYPE 2 - CARAVAN 
-Kom na een drukke werkweek onthaasten in uw caravan. Zo kunt u er nadien weer helemaal tegenaan!
+#TYPE 2 - CARAVANE 
+Venez-vous détendre dans votre caravane après une semaine de travail éreintante et rechargez vos batteries!
 
 
-##Goed om weten
-- deze plaatsen worden in de nabije toekomst vernieuwd - zie [nieuw project][nieuw_project.nl]
-- teller voor elektriciteit - forfait water
-- gasflessen
-- geen wintervaste wateraansluiting - sanitairgebouw blijft open
+##Bon à savoir
+- ces emplacements seront prochainement rénovés - voir [nouveau projet][nieuw_project.fr]
+- compteur électrique - forfait pour l’eau
+- bonbonnes de gaz
+- pas de raccordement à l’eau en hiver – le bâtiment sanitaire reste accessible
 
 
-##Prijzen
+##Prix
 
-TYPE 2                |PRIJS           |
+TYPE 2                |PRIX            |
 :--------------------:|:--------------:|
-standplaatsvergoeding |€ 1820               
-gemeentetaks          |€ 333,90 (2015) 
-huisvuilbijdrage<br>incl 25 zakken<br> | € 65    
-[brandverzekering][pdf_brandverzekering.nl]|afhankelijk van <br>waarde caravan
+indemnité de résidence par an |€ 1820               
+taxe communale                |€ 333,90 (2015) 
+déchets ménagers<br>incl 25 sacs poubelles<br> | € 65    
+[assurance incendie][pdf_brandverzekering.fr]     |selon la<br>valeur de la caravane
 
 
-VERBRUIK ⑴           |PRIJS          |
+CONSOMMATION ⑴         |PRIX         |
 :--------------------:|:-------------:|
-electriciteit         | € 0,35 / kw        
-forfait water         | € 68 
-tellervergoeding      | € 18 / teller
+électricité           | € 0,35 / kw        
+eau                   | € 6,50 / m³
+gaz                   | € 6,50 / m³       
+compteur              | € 18 / compteur  
 
-⑴ prijs onder voorbehoud van wijzigende energietarieven
+⑴ prix sous réserve de modifications des prix de l’énergie
 
 
 
-##Plan camping
+##Plan du camping
 
-[invoegen plan][plan.nl]
+[invoegen plan][plan.fr]
 aanduiden met kleur op plan welke percelen - Joke?
 

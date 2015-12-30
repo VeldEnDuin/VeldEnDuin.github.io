@@ -33,7 +33,7 @@ Vous cherchez un grand emplacement avec vue sur la pièce d’eau au centre du c
 
 ##Prix
 
-TYPE 4                |Prix            |
+TYPE 4                |PRIX           |
 :--------------------:|:--------------:|
 indemnité de résidence par an |€ 2510               
 taxe communale                |€ 333,90 (2015) 
@@ -52,7 +52,7 @@ compteur              | € 18 / compteur
 
 
 
-##Plan camping
+##Plan du camping
 
 [invoegen plan][plan.fr]
 aanduiden met kleur op plan welke percelen - Joke?
