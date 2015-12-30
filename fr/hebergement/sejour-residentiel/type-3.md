@@ -30,7 +30,7 @@ Qui n’a jamais rêvé d’un pied-à-terre à la mer pour s’y rendre dès qu
 - raccordement à l’eau pendant l’hiver
 
 
-##Prijzen
+##Prix
 
 TYPE 3                |PRIX           |
 :--------------------:|:--------------:|
