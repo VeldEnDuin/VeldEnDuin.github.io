@@ -80,7 +80,7 @@ nuitée supplémentaire > 7n |€ 45          |€ 69          |
 
 MI-SAISON      |    HAUTE SAISON|
 :--------------------:|:-----------------:|:-------------:|
- avril à juin, <br>septembre à octobre, <br>vacances scolaires, <br>week-ends prolongés  | juillet et août
+ avril à juin, <br>septembre et octobre, <br>vacances scolaires, <br>week-ends prolongés  | juillet et août
 
 ##Caution
 - 50 € – à payer en liquide à l’arrivée
