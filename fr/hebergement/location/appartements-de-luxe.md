@@ -86,7 +86,7 @@ nuitée supplémentaire > 7n |€ 51  |€ 62           | € 95
 
 BASSE SAISON          |MI-SAISON          |    HAUTE SAISON|
 :--------------------:|:-----------------:|:-------------:|
-novembre à mars<br>à l'exception des vacances scolaires <br>et weekend prolongé | avril à juin, <br>septembre et octobre, <br>vacances scolaires, <br>week-ends prolongés   | juillet et août
+novembre à mars<br>à l'exception des vacances scolaires <br>et weekends prolongés | avril à juin, <br>septembre et octobre, <br>vacances scolaires, <br>week-ends prolongés   | juillet et août
 
 ##Caution
 - 50 € – à payer en liquide à l’arrivée
