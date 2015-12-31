@@ -103,7 +103,7 @@ parking voiture supplémentaire  | € 4 / jour entamé
 [emplacement vélo][fietsberging.fr]| € 1 / vélo / nuit
 [sauna][sauna.fr]   | € 30
 [internet][internet.fr]| prix en fonction de la durée de connexion
-[service Veld & Duin][veld_duin_service.fr]| € 50
+[service Veld & Duin][veld_duin_service.fr]| € 60
 
 
 ##Plan du camping
