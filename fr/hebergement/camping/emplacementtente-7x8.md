@@ -65,4 +65,4 @@ NOMBRE DE PERSONNES | PRIX / NUIT
 
 ##Plan camping
 
-[invoegen plan][plan.nl]
+[invoegen plan][plan.fr]
