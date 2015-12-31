@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Appartement Comfort 4 Plus
+title: Appartement Confort 4 Plus
 preview: 
     title: Appartement
     button:
         price: 155
-        for: 2 nachten
+        for: 2 nuits
     list:
-        - "4-5 personen"
+        - "4-5 personnes"
         - "65 m²"
-        - "zicht op duinen"
-        - "lift"
+        - "vue sur les dunes"
+        - "ascenseur"
        
 images:
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-01.jpg
@@ -44,66 +44,66 @@ insert:
 
 # Appartement
 
-De appartementen liggen net naast de camping. Zo geniet u van de ruimte van een appartement en kunt u tegelijk vrij gebruik maken van de voorzieningen op onze camping.
+Les appartements sont situés à deux pas du camping. Tout en profitant de l’espace d’un appartement, vous disposez également des équipements de notre camping.
 
-##Inrichting appartement
-- ruime woonkamer met flatscreen en digibox
-- ingerichte keuken met microgolf
-- badkamer met douche, wastafel en toilet
-- slaapkamers appartement:
-    - 1 kamer met dubbelbed (140x200)
-    - 1 kamer met stapelbed 2x (90x200) + zetelbed 1 persoon
-- balkon vooraan (zicht op duinen) en achteraan (zicht op speelplein)
+##Aménagement de l’appartement
+- grand salon avec écran plat et digibox
+- cuisine équipée avec four à micro-ondes
+- salle de bains avec douche, lavabo et toilettes
+- chambres à coucher de l’appartement:
+    - 1 chambre avec lit double (140x200)
+    - 1 chambre avec lits superposés 2x (90x200) + fauteuil convertible 1 personne
+- balcon à l’avant (vue sur les dunes) et à l’arrière (vue sur le terrain de jeux)
     
-##Goed om weten
-- appartement voorzien voor 4-5 personen
-- huisdieren niet toegelaten - wel mogelijk in de chalets of caravans
-- lift voorzien
-- gemeenschappelijke ruimte voor fietsen
-- het hele jaar door boekbaar
+##Bon à savoir
+- appartement d’une capacité de 4 à 5 personnes
+- animaux de compagnie non admis – ils sont admis dans les chalets ou caravanes
+- ascenseur
+- espace commun pour vélos
+- disponible à la réservation toute l’année
 
-##Prijzen
+##Prix
 
-PERIODE             | LAAGSEIZOEN | TUSSENSEIZOEN | HOOGSEIZOEN |
+PÉRIODE             |BASSE SAISON | MI-SAISON     | HAUTE SAISON|
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 nachten           |€ 155        |€ 170          |       
-extra nacht         |€ 52         |€ 58           |           
-midweek (ma-vrij)   |€ 215        |€ 240          |
-verlengd weekend (3 n)   |             |€ 240          |
-7 nachten           |€ 370        |€ 410          | € 595
-extra nacht > 7 n    |€ 45         |€ 55           | € 84
-14 nachten          |€ 650        |€ 755          | € 1125
+2 nuits                |€ 155     |€ 170          |    
+nuitée supplémentaire  |€ 52      |€ 58            |
+mid-week (lun-ven)     |€ 215     |€ 240          |
+week-end prolongé (3 n)|          |€ 240          |
+7 nuitées              |€ 370       |€ 410          | € 595
+nuitée supplémentaire > 7n |€ 45  |€ 55           | € 84
+14 nuitées             |€ 650     |€ 755          | € 1125
 
 
-##Periodes
+##Périodes
 
-LAAGSEIZOEN           |TUSSENSEIZOEN      |    HOOGSEIZOEN|
+BASSE SAISON          |MI-SAISON          |    HAUTE SAISON|
 :--------------------:|:-----------------:|:-------------:|
-november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni, <br>september en oktober, <br>schoolvakanties, <br>verlengde weekends  | juli en augustus
+novembre à mars<br>à l'exception des vacances scolaires <br>et weekends prolongés | avril à juin, <br>septembre et octobre, <br>vacances scolaires, <br>week-ends prolongés   | juillet et août
 
-##Waarborg
-- € 50 - contant te betalen bij aankomst
-- terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
+##Caution
+- 50 € – à payer en liquide à l’arrivée
+- la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état. 
 
-##Inbegrepen
-- parking 1 auto
-- verbruik water en elektriciteit 
-- **uitzondering**: verbruik elektriciteit is exclusief bij huur vanaf 4 nachten van 1/11 - 31/3
+##Inclus
+- parking 1 voiture
+- consommation eau - électricité 
+- **exception**: consommation d'électricité est exclusive à partir de 4 nuits de 1/11 - 31/3
 
-##Extra's
-EXTRA               | PRIJS 
+##Suppléments
+SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
-schoonmaak          | € 40 - zelf schoonmaken kan
-annulatieverzekering| 3,5 % van de totale reissom - [Allianz][pdf_allianz.nl] 
-lakenpakket         | € 8 / bed
-kinderbed           | € 1 / nacht
-kinderstoel         | € 1 / nacht
-parking extra auto  | € 4 / begonnen dag
-[sauna][sauna.nl]   | € 30
-[internet][internet.nl]| afhankelijk van tijd online
-[Veld & Duin service][veld_duin_service.nl]| € 60
+nettoyage           | € 40 - le locataire est autorisé à faire le nettoyage lui-même
+assurance annulation| 3,5% du montant total du séjour - [Allianz][pdf_allianz.fr] 
+draps               | € 8 / lit
+lit d'enfant        | € 1 / nuit
+chaise haute        | € 1 / nuit
+parking voiture supplémentaire  | € 4 / jour entamé
+[sauna][sauna.fr]   | € 30
+[internet][internet.fr]| prix en fonction de la durée de connexion
+[service Veld & Duin][veld_duin_service.fr]| € 60
 
 
-##Plan camping
+##Plan du camping
 
-[invoegen plan][plan.nl]
+[invoegen plan][plan.fr]

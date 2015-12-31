@@ -69,7 +69,7 @@ Situés au-dessus de la réception, ces nouveaux appartements luxueux offrent un
 - pas d’ascenseur
 - disponible à la réservation toute l’année
 
-##Prijzen
+##Prix
 
 PÉRIODE             |BASSE SAISON | MI-SAISON     | HAUTE SAISON|
 :------------------:|:-----------:|:-------------:|:-----------:|
@@ -109,7 +109,7 @@ parking voiture supplémentaire  | € 4 / jour entamé
 [emplacement vélo][fietsberging.fr]| € 1 / vélo / nuit
 [sauna][sauna.fr]   | € 30
 [internet][internet.fr]| prix en fonction de la durée de connexion
-[service Veld & Duin][veld_duin_service.fr]| € 50
+[service Veld & Duin][veld_duin_service.fr]| € 75
 
 
 ##Plan du camping

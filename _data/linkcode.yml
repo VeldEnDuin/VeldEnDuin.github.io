@@ -76,6 +76,7 @@ wedstrijd:
 # [2.1] submenu overnachten -> verhuur
 verhuur_appartement:
     nl:  /nl/overnachten/verhuur/appartement.html
+    fr:  /fr/overnachten/verhuur/appartement.html
 verhuur_comfort2_caravan:
     nl:  /nl/overnachten/verhuur/comfort2-caravan.html
     fr:  /fr/hebergement/location/caravane-confort2.html
@@ -84,8 +85,10 @@ verhuur_comfort2_chalet:
     fr:  /fr/hebergement/location/chalet-confort2.html
 verhuur_comfort4_caravan:
     nl:  /nl/overnachten/verhuur/comfort4-caravan.html
+    fr:  /fr/hebergement/location/caravane-confort4.html
 verhuur_comfort4_chalet:
     nl:  /nl/overnachten/verhuur/comfort4-chalet.html
+    fr:  /fr/hebergement/location/chalet-confort4.html
 verhuur_comfort4plus_chalet:
     nl:  /nl/overnachten/verhuur/comfort4plus-chalet.html
     fr:  /fr/hebergement/location/chalet-confort4plus.html
@@ -94,6 +97,7 @@ verhuur_luxe_appartementen:
     fr:  /fr/hebergement/location/appartements-de-luxe.html
 verhuur_standaard_chalet:
     nl:  /nl/overnachten/verhuur/standaard-chalet.html
+    fr:  /fr/hebergement/location/chalet-standard.html
 verhuur_info:
     nl:  /nl/overnachten/verhuur/praktische-info.html
     fr:  /fr/hebergement/location/infos-pratiques.html
@@ -105,6 +109,7 @@ trekkers_lang:
     nl:  /nl/overnachten/trekkers/lang-verblijf.html
 trekkers_tent7x8:
     nl:  /nl/overnachten/trekkers/tentplaats-7x8.html
+    fr:  /fr/hebergement/camping/emplacementtente-7x8.html
 trekkers_tent10x8:
     nl:  /nl/overnachten/trekkers/tentplaats-10x8.html
 trekkers_trekker10x8:
