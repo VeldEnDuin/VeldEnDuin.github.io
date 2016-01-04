@@ -32,7 +32,7 @@ Ces emplacements sont un peu plus petits mais vous vous y sentirez immédiatemen
 TYPE 1                                         |PRIX                               |
 :---------------------------------------------:|:----------------------------------:|
 indemnité de résidence par an                         | € 1685         
-taxe communale                                 | € 333,90 (2015) 
+taxe communale                                 | € 340,79 
 déchets ménagers<br>incl 25 sacs poubelles<br>         | € 65    
  [assurance incendie][pdf_brandverzekering.fr]    | selon la<br>valeur de la caravane
 

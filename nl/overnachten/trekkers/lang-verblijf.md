@@ -52,8 +52,8 @@ Uw trekcaravan met alle basisvoorzieningen blijft het hele jaar staan. Zo kunt u
 ##Prijzen
 PERIODE               | STANDPLAATSVERGOEDING  | GEMEENTETAKS       
 :--------------------:|:----------------------:|--------------|
-6 maanden             |€ 1500                  |€ 127,20 (2015)            
-1 jaar<br>(1/1-31/12) |€ 1605                  |€ 333,90 (2015)                 
+6 maanden             |€ 1500                  |€ 129,85            
+1 jaar<br>(1/1-31/12) |€ 1605                  |€ 340,79                 
  
 ##Inbegrepen
 - parking 1 auto

@@ -36,7 +36,7 @@ Vous cherchez un grand emplacement avec vue sur la pièce d’eau au centre du c
 TYPE 4                |PRIX           |
 :--------------------:|:--------------:|
 indemnité de résidence par an |€ 2510               
-taxe communale                |€ 333,90 (2015) 
+taxe communale                |€ 340,79 
 déchets ménagers<br>incl 25 sacs poubelles<br> | € 65    
 [assurance incendie][pdf_brandverzekering.fr]     |selon la<br>valeur de la caravane
 
