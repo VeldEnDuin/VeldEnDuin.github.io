@@ -5,7 +5,7 @@ preview:
     title: "Veld & Duin service"
     button:
         price: 50
-        for: arrangement
+        for: 
     list:
         - "eindschoonmaak"
         - "lakenpakket alle bedden"

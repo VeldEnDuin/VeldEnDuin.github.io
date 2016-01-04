@@ -4,8 +4,8 @@ title: Type 3
 preview: 
     title: Type 3
     button:
-        price: par an
-        for: per jaar
+        price: 1870
+        for: per an
     list:
         - "surface moyenne : 120 m²"
         - "emplacements rénovés"

@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Trekkersplaats 10x8
+title: Emplacement Campeur 10x8
 preview: 
-    title: Trekkersplaats 10x8
+    title: Emplacement Campeur 10x8
     button:
         price: 20
-        for: per nacht
+        for: par nuit
     list:
-        - "afmetingen: 10x8 meter"
-        - "voor trekcaravan of mobilhome"
-        - "gras- of betonplaats"
-        - "dichtbij sanitair"
+        - "dimensions : 10x8 mètres"
+        - "pour caravane ou mobile home"
+        - "emplacement recouvert de gazon ou revêtement en béton"
+        - "à proximité des sanitaires"
 images:
     - /img/overnachten/trekkers-tre-10x8/tre10x8-01.jpg
     - /img/overnachten/trekkers-tre-10x8/tre10x8-02.jpg
@@ -40,29 +40,26 @@ insert:
 ---
 {% include links.md %}
 
-# TREKKERSPLAATS 10x8
-Combineer de vrijheid van het reizen met een trekcaravan of mobilhome met het comfort van onze camping.
+# EMPLACEMENT CAMPEUR 10x8
+Combinez la liberté de vacances en caravane ou mobile home au confort offert par notre camping.
 
-##Goed om weten
-- max 6 personen / plaats
-- honden toegelaten: max 2 - geen gevaarlijke rassen
+##Bon à savoir
+- max. 4 personnes / emplacement
+- chiens admis – max. 2 – pas de races dangereuses
 
-##Prijzen
+##Prix
+NOMBRE DE PERSONNES | PRIX / NUIT     
+:------------------:|:-----------:|
+1 personne          |€ 20              
+2 personnes         |€ 23                   
+3 personnes         |€ 26      
+4 personnes         |€ 29
+5/6 personnes       |€ 33
 
-AANTAL PERSONEN | PRIJS / NACHT      
-:-------------:|:-----------:|
-1 persoon      |€ 20               
-2 personen     |€ 23                   
-3 personen     |€ 26       
-4 personen     |€ 29             
-5/6 personen   |€ 33       
+15/7 - 15/8: réservation à partir de 7 nuits
 
-15/7 - 15/8: reservatie vanaf 7 nachten
-
-
-{% include nl/trekker-reuse.md %}
-
+{% include fr/camping-reuse.md %}
 
 ##Plan camping
 
-[invoegen plan][plan.nl]
+[invoegen plan][plan.fr]

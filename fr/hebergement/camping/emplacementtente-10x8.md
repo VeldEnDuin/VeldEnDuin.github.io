@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Tentplaats 10x8
+title: Emplacement Tente 10x8
 preview: 
-    title: Tentplaats 10x8
+    title: Emplacement Tente 10x8
     button:
         price: 20
-        for: per nacht
+        for: par nuit
     list:
-        - "afmetingen: 10x8 meter"
-        - "geschikt voor familietenten"
-        - "grasplaatsen"
-        - "dichtbij sanitair"
+        - "dimensions : 10x8 mètres"
+        - "adaptés aux tentes familiales"
+        - "emplacements dans l’herbe"
+        - "à proximité des sanitaires"
        
 images:
     - /img/overnachten/trekkers-tent-10x8/tent10x8-01.jpg
@@ -42,28 +42,27 @@ insert:
 
 {% include links.md %}
 
-# TENTPLAATS 10x8
-Ga voor de echte kampeerbeleving en trek er met het hele gezin op uit met de tent. Op onze trekkersweide vindt u zeker gelijkgestemden om ervaringen uit te wisselen. 
+# EMPLACEMENT TENTE 10x8
+Optez pour une véritable expérience de camping et passez des vacances sous tente avec toute la famille. Vos voisins campeurs seront certainement ravis de partager avec vous ces instants de convivialité. 
 
-##Goed om weten
-- max 6 personen / plaats
-- honden toegelaten: max 2 - geen gevaarlijke rassen
+##Bon à savoir
+- max. 6 personnes / emplacement
+- chiens admis : max. 2 – pas de races dangereuses
 
-##Prijzen
-AANTAL PERSONEN | PRIJS / NACHT     
-:-------------:|:-----------:|
-1 persoon      |€ 20               
-2 personen     |€ 23                   
-3 personen     |€ 26       
-4 personen     |€ 29             
-5/6 personen   |€ 33       
+##Prix
+NOMBRE DE PERSONNES | PRIX / NUIT     
+:------------------:|:-----------:|
+1 personne          |€ 20              
+2 personnes         |€ 23                   
+3 personnes         |€ 26      
+4 personnes         |€ 29
+5/6 personnes       |€ 33
+      
 
-15/7 - 15/8: reservatie vanaf 7 nachten
+15/7 - 15/8: réservation à partir de 7 nuits
 
-
-{% include nl/trekker-reuse.md %}
-
+{% include fr/camping-reuse.md %}
 
 ##Plan camping
 
-[invoegen plan][plan.nl]
+[invoegen plan][plan.fr]

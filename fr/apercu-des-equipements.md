@@ -1,5 +1,5 @@
 ---
-title: Voorzieningen
+title: Aperçu des équipements
 
 layout: default
 class:

@@ -61,7 +61,7 @@ NOMBRE DE PERSONNES | PRIX / NUIT
 
 15/7 - 15/8: réservation à partir de 7 nuits
 
-{% include nl/trekker-reuse.md %}
+{% include fr/camping-reuse.md %}
 
 ##Plan camping
 

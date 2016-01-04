@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Residentiële trekkers
+title: Séjour résidentiel
 preview: 
-    title: Residentiële trekkers
+    title: Séjour résidentiel
     button:
         price: 1500
-        for: per jaar
+        for: par an
     list:
-        - "80 m² plaatsen"
-        - "beton- of grindplaatsen"
-        - "het hele jaar door genieten"
-        - "sanitairvoorzieningen dichtbij"
+        - "emplacements de 80 m²"
+        - "emplacements en béton ou graviers"
+        - "convivialité assurée toute l’année"
+        - "à proximité des sanitaires"
         
 images:
     - /img/overnachten/trekkers-res/restr-01.jpg
@@ -42,30 +42,30 @@ insert:
 
 {% include links.md %}
 
-#RESIDENTIËLE TREKKERS
-Uw trekcaravan met alle basisvoorzieningen blijft het hele jaar staan. Zo kunt u optimaal genieten van alle vrije momenten. Enkel nog wat extra spullen inladen en  u bent meteen in vakantiestemming. 
+#SÉJOUR RÉSIDENTIEL
+Votre caravane équipée de tout le confort reste sur son emplacement toute l’année. Vous pouvez ainsi y séjourner dès que vous le souhaitez. Emportez quelques affaires et vous voilà déjà en vacances. 
 
-##Goed om weten
-- max 6 personen / plaats
-- honden toegelaten: max 2 - geen gevaarlijke rassen
+##Bon à savoir
+- max. 6 personnes / emplacement
+- chiens admis : max. 2 – pas de chiens dangereux
 
-##Prijzen
-PERIODE               | STANDPLAATSVERGOEDING  | GEMEENTETAKS       
+##Prix
+PÉRIODE               | INDEMNITÉ DE RÉSIDENCE | TAXE COMMUNALE      
 :--------------------:|:----------------------:|--------------|
-6 maanden             |€ 1500                  |€ 127,20 (2015)            
-1 jaar<br>(1/1-31/12) |€ 1605                  |€ 333,90 (2015)                 
+6 maanden             |€ 1500                  |€ 129,85             
+1 jaar<br>(1/1-31/12) |€ 1605                  |€ 340,79                 
  
-##Inbegrepen
-- parking 1 auto
+##Inclus
+- parking 1 voiture
 
-##Extra's
-EXTRA             | PRIJS 
+##Suppléments
+SUPPLÉMENT         | PRIX 
 :------------------|:-----------|
-elektriciteit      |volgens verbruik 
-forfait water      |€ 65
-tellervergoeding   |€ 18
-huisvuilbijdrage   |€ 60 (incl 20 zakken restafval + 5 PMD)
-slagboomkaart      |€ 100 (waarborg € 75)
-voortent winter    |€ 100
-[brandverzekering][pdf_brandverzekering.nl]|verplicht - aansluiting groepsverzekering mogelijk
+électricité        |selon la consommation
+forfait eau        |€ 65
+compteur           |€ 18
+déchets ménagers   |€ 60 (incl 25 sacs poubelles)
+carte barrière     |€ 100 (caution € 75)
+auvent hiver       |€ 100
+[assurance incendie][pdf_brandverzekering.fr]|obligatoire - affiliation à notre assurance de groupe possible
 
