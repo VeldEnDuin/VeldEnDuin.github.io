@@ -11,8 +11,8 @@ items:
     label: 1920 - 1965
     title:
       nl: "Start (kampeer)toerisme in Bredene"
-      fr: ''
-      de: ''
+      fr: "Début du tourisme (en camping) à Bredene"
+      de: "Anfänge des (Camping-)Tourismus in Bredene"
       en: ''
     description:
       nl: >
@@ -23,8 +23,22 @@ items:
             <li>Het kamperen raakt meer en meer georganiseerd en de eerste echte campings zijn een feit. Tot de eerste generatie campinguitbaters behoren o.a. Arthur Claeys, Robert Ryckx, Oscar Devos, Verkempinck en weduwe Geldhof.</li>
           </ol>
           <i><small>Bron: '100 jaar Bredene aan zee in beeld' door Erwin Mahieu en Frank Huygebaert.</small></i>
-      fr: ''
-      de: ''
+      fr: >
+          <ol>
+            <li>epuis le début du siècle dernier, la plage et les dunes de Bredene attirent de nombreuses personnes.</li>
+            <li>Au milieu des années 1920, les premiers aventuriers plantent leur tente au hasard dans les dunes.</li>
+            <li>Le camping sauvage dans les dunes est ensuite interdit à partir de 1932. Les campeurs sont alors accueillis dans le Paelsteenveld actuel et dans les champs d’agriculteurs locaux. </li>
+            <li>Petit à petit, l’activité de camping est de mieux en mieux organisée et les premiers véritables campings voient le jour. Arthur Claeys, Robert Ryckx, Oscar Devos, Verkempinck et la veuve Geldhof, entre autres, appartiennent à la première génération d’exploitants de camping.</li>
+          </ol>
+          <i><small>Source: '100 jaar Bredene aan zee in beeld' par Erwin Mahieu et Frank Huygebaert.</small></i>
+      de: >
+          <ol>
+            <li>Der Strand und die Dünen von Bredene üben bereits seit Anfang des vorigen Jahrhunderts eine große Anziehungskraft aus.</li>
+            <li>Mitte der 1920er Jahre stellen die ersten Abenteurer ihre Zelte auf gut Glück in den Dünen auf.</li>
+            <li>Das wilde Campen in den Dünen ist ab 1932 verboten. Seitdem können Camper auf dem heutigen Paelsteenveld und auf den Feldern einiger örtlicher Bauern zelten. </li>
+            <li>Das Zelten wird immer besser organisiert und die ersten echten Campingplätze entstehen. Zur ersten Generation der Platzbetreiber gehören Arthur Claeys, Robert Ryckx, Oscar Devos, Verkempinck und die Witwe Geldhof.</li>
+          </ol>
+          <i><small>Quelle: '100 jaar Bredene aan zee in beeld' von Erwin Mahieu und Frank Huygebaert.</small></i>
       en: ''
 
     images:
@@ -38,8 +52,8 @@ items:
     label: 1962 - 1967
     title:
       nl: "Start campings Prins Filip - Zon en Zee - Veld & Duin"
-      fr: ''
-      de: ''
+      fr: "Ouverture des campings Prins Filip - Zon en Zee - Veld & Duin"
+      de: "Gründung der Campingplätze Prins Filip, Zon en Zee und Veld & Duin"
       en: ''
     description:
       nl: >
@@ -49,8 +63,20 @@ items:
             <li>Een stuk korenveld wordt vanaf 1967 vrijgemaakt voor de eerste kampeerders op Veld & Duin.</li>
           </ol>
           <i><small>Bron: '100 jaar Bredene aan zee in beeld' door Erwin Mahieu en Frank Huygebaert.</small></i>
-      fr: ''
-      de: ''
+      fr: >
+          <ol>
+            <li>Le camping Prins Filip est créé en 1962 par Albert Claeys avant d’être exploité par la suite par la famille Eerebout. Il devient Veld & Duin II en 1996.</li>
+            <li>En 1966, Remi Pyra ouvre le camping Zon en Zee.</li>
+            <li>En 1967, une partie d’un champ de blé est transformée en terrain pour les premiers campeurs de Veld & Duin.</li>
+          </ol>
+          <i><small>Source: '100 jaar Bredene aan zee in beeld' par Erwin Mahieu et Frank Huygebaert.</small></i>
+      de: >
+          <ol>
+            <li>Der Campingplatz Prins Filip wird 1962 von Albert Claeys ins Leben gerufen und später von der Familie Eerebout betrieben. Ab 1996 wird er zu Veld & Duin II.</li>
+            <li>1966 beginnt Remi Pyra mit dem Campingplatz Zon en Zee.</li>
+            <li>Ein Stück Kornfeld wird ab 1967 für die ersten Camper auf dem Platz Veld & Duin freigemacht.</li>
+          </ol>
+          <i><small>Quelle: '100 jaar Bredene aan zee in beeld' von Erwin Mahieu und Frank Huygebaert.</small></i>
       en: ''
     images:
       - /img/tijdslijn/1962-1967/prinsfilip.jpg
