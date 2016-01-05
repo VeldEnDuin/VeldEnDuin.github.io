@@ -193,37 +193,46 @@ voorzieningen:
 speel:
     nl: /nl/voorzieningen/speelplein.html
     fr: /fr/equipements/terrain-de-jeu.html
+    de: /de/annehmlichkeiten/spielplatz.html
 animatie:
     nl: /nl/voorzieningen/animatie.html
     fr: /fr/equipements/animations.html
+    de: /de/annehmlichkeiten/animation.html
 internet:
     nl: /nl/voorzieningen/internet.html
     fr: /fr/equipements/internet.html
+    de: /de/annehmlichkeiten/internet.html
 sanitair:
     nl: /nl/voorzieningen/sanitair.html
     fr: /fr/equipements/sanitaires.html
+    de: /de/annehmlichkeiten/sanitaer.html
 toeristische_info:
     nl: /nl/voorzieningen/info.html
     fr: /fr/equipements/info.html
+    de: /de/annehmlichkeiten/info.html
 wassalon:
     nl: /nl/voorzieningen/wassalon.html
     fr: /fr/equipements/laverie-automatique.html
+    de: /de/annehmlichkeiten/waschsalon.html
 sauna:
     nl: /nl/voorzieningen/sauna.html
     fr: /fr/equipements/sauna.html
+    de: /de/annehmlichkeiten/sauna.html
 fietsberging:
     nl: /nl/voorzieningen/fietsberging.html
     fr: /fr/equipements/garage-a-velos.html
+    de: /de/annehmlichkeiten/fahrradunterstand.html
 pop_up_bib:
     nl: /nl/voorzieningen/pop-up-bib.html
     fr: /fr/equipements/bibliotheque-ephemere.html
+    de: /de/annehmlichkeiten/pop-up-bibliothek.html
 
 # [4] menu doen
 doen:
     nl: /nl/doen.html
     fr: /fr/a-faire.html
     en: /en/activities.html
-    de: /de/zu-tun.html
+    de: /de/aktivitaeten.html
 # [5] menu fotos
 fotos:
     nl: /nl/fotos.html
