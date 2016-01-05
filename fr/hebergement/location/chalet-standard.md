@@ -96,7 +96,7 @@ SUPPLÉMENTS               | PRIX
 jeton douche        | € 1  
 nettoyage           | € 40 - le locataire est autorisé à faire le nettoyage lui-même
 assurance annulation| 3,5% du montant total du séjour - [Allianz][pdf_allianz.fr] 
-chien               | € 4 / chien - max 2
+chien               | € 4 / nuit - max 2
 draps               | € 8 / lit
 lit d'enfant        | € 1 / nuit
 chaise haute        | € 1 / nuit

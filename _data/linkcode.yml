@@ -77,6 +77,7 @@ residentieel:
 arrangementen:
     nl:  /nl/overnachten/arrangement.html
     fr:  /fr/hebergement/forfait.html
+    de:  /de/uebernachten/arrangement.html
 
 
 # [2.*] extra's overnachten buiten menu
@@ -93,30 +94,39 @@ wedstrijd:
 verhuur_appartement:
     nl:  /nl/overnachten/verhuur/appartement.html
     fr:  /fr/hebergement/location/appartement.html
+    de:  /de/uebernachten/vermietung/appartement.html
 verhuur_comfort2_caravan:
     nl:  /nl/overnachten/verhuur/comfort2-caravan.html
     fr:  /fr/hebergement/location/caravane-confort2.html
+    de:  /de/uebernachten/vermietung/comfort2-caravan.html
 verhuur_comfort2_chalet:
     nl:  /nl/overnachten/verhuur/comfort2-chalet.html
     fr:  /fr/hebergement/location/chalet-confort2.html
+    de:  /de/uebernachten/vermietung/comfort2-chalet.html
 verhuur_comfort4_caravan:
     nl:  /nl/overnachten/verhuur/comfort4-caravan.html
     fr:  /fr/hebergement/location/caravane-confort4.html
+    de:  /de/uebernachten/vermietung/comfort4-caravan.html
 verhuur_comfort4_chalet:
     nl:  /nl/overnachten/verhuur/comfort4-chalet.html
     fr:  /fr/hebergement/location/chalet-confort4.html
+    de:  /de/uebernachten/vermietung/comfort4-chalet.html
 verhuur_comfort4plus_chalet:
     nl:  /nl/overnachten/verhuur/comfort4plus-chalet.html
     fr:  /fr/hebergement/location/chalet-confort4plus.html
+    de:  /de/uebernachten/vermietung/comfort4plus-chalet.html
 verhuur_luxe_appartementen:
     nl:  /nl/overnachten/verhuur/luxe-appartementen.html
     fr:  /fr/hebergement/location/appartements-de-luxe.html
+    de:  /de/uebernachten/vermietung/luxusappartemente.html
 verhuur_standaard_chalet:
     nl:  /nl/overnachten/verhuur/standaard-chalet.html
     fr:  /fr/hebergement/location/chalet-standard.html
+    de:  /de/uebernachten/vermietung/standard-chalet.html
 verhuur_info:
     nl:  /nl/overnachten/verhuur/praktische-info.html
     fr:  /fr/hebergement/location/infos-pratiques.html
+    de:  /de/uebernachten/vermietung/praktische-infos.html
 
 # [2.2] submenu overnachten -> trekkers
 trekkers_arrangement:
