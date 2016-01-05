@@ -141,18 +141,23 @@ trekkers_info:
 residentieel_info:
     nl: /nl/overnachten/residentieel-verblijf/praktische-info.html
     fr: /fr/hebergement/sejour-residentiel/infos-pratiques.html
+    de: /de/uebernachten/daueraufenthalt/praktische-infos.html
 type_1:
     nl: /nl/overnachten/residentieel-verblijf/type-1.html
     fr: /fr/hebergement/sejour-residentiel/type-1.html
+    de: /de/uebernachten/daueraufenthalt/typ-1.html
 type_2:
     nl: /nl/overnachten/residentieel-verblijf/type-2.html
     fr: /fr/hebergement/sejour-residentiel/type-2.html
+    de: /de/uebernachten/daueraufenthalt/typ-2.html
 type_3:
     nl: /nl/overnachten/residentieel-verblijf/type-3.html
     fr: /fr/hebergement/sejour-residentiel/type-3.html
+    de: /de/uebernachten/daueraufenthalt/typ-3.html
 type_4:
     nl: /nl/overnachten/residentieel-verblijf/type-4.html
     fr: /fr/hebergement/sejour-residentiel/type-4.html
+    de: /de/uebernachten/daueraufenthalt/typ-4.html
 
 
 # [2.4] submenu overnachten -> arrangementen
