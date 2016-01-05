@@ -181,24 +181,31 @@ kadobon:
 te_koop:
     nl: /nl/overnachten/te-koop.html
     fr: /fr/hebergement/a-vendre.html
+    fr: /de/uebernachten/zu-kaufen.html
 a_15:
     nl: /nl/overnachten/te-koop/a-15.html
     fr: /fr/hebergement/a-vendre/a-15.html
+    de: /de/uebernachten/zu-kaufen/a-15.html
 b_21:
     nl: /nl/overnachten/te-koop/b-21.html
     fr: /fr/hebergement/a-vendre/b-21.html
+    de: /de/uebernachten/zu-kaufen/b-21.html
 b_47:
     nl: /nl/overnachten/te-koop/b-47.html
     fr: /fr/hebergement/a-vendre/b-47.html
+    de: /de/uebernachten/zu-kaufen/b-47.html
 b_54:
     nl: /nl/overnachten/te-koop/b-54.html
     fr: /fr/hebergement/a-vendre/b-54.html
+    de: /de/uebernachten/zu-kaufen/b-54.html
 b_65:
     nl: /nl/overnachten/te-koop/b-65.html
     fr: /fr/hebergement/a-vendre/b-65.html
+    de: /de/uebernachten/zu-kaufen/b-65.html
 c_16:
     nl: /nl/overnachten/te-koop/c-16.html
     fr: /fr/hebergement/a-vendre/c-16.html
+    de: /de/uebernachten/zu-kaufen/c-16.html
 
 
 # [3] menu - voorzieningen
