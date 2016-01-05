@@ -24,34 +24,44 @@ news:
 onze_troeven:
     nl:  /nl/goed-om-weten/onze-troeven.html
     fr:  /fr/bon-a-savoir/nos-atouts.html
+    de:  /de/gut-zu-wissen/unsere-staerken.html
 hier_staan_we_voor:
     nl:  /nl/goed-om-weten/hier-staan-we-voor.html
     fr:  /fr/bon-a-savoir/nos-regles-et-valeurs.html
+    de:  /de/gut-zu-wissen/hierfuer-stehen-wir.html
 fietsvriendelijk:
     nl:  /nl/goed-om-weten/hier-staan-we-voor/fietsvriendelijk.html
     fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/cyclisme.html
+    de:  /de/gut-zu-wissen/hierfuer-stehen-wir/fahrradfreundlich.html
 groen:
     nl:  /nl/goed-om-weten/hier-staan-we-voor/groen.html
     fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/respect-de-la-nature.html
+    de:  /de/gut-zu-wissen/hierfuer-stehen-wir/gruen.html
 kwaliteit:
     nl:  /nl/goed-om-weten/hier-staan-we-voor/kwaliteit.html
     fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/qualite.html
+    de:  /de/gut-zu-wissen/hierfuer-stehen-wir/qualitaet.html
 hondvriendelijk:
     nl:  /nl/goed-om-weten/hier-staan-we-voor/hondvriendelijk.html
     fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/chiens-bienvenus.html
+    de:  /de/gut-zu-wissen/hierfuer-stehen-wir/hundefreundlich.html
 rust:
     nl:  /nl/goed-om-weten/hier-staan-we-voor/rust.html
     fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/repos.html
+    de:  /de/gut-zu-wissen/hierfuer-stehen-wir/ruhe.html
 iedereen_welkom:
     nl:  /nl/goed-om-weten/hier-staan-we-voor/iedereen-welkom.html
     fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/bienvenue-a-tous.html
+    de:  /de/gut-zu-wissen/hierfuer-stehen-wir/alle-willkommen.html
 
 tijdslijn:
     nl:  /nl/goed-om-weten/tijdslijn.html
     fr:  /fr/bon-a-savoir/ligne-du-temps.html
+    de:  /de/gut-zu-wissen/zeitstrahl.html
 praktisch:
     nl:  /nl/goed-om-weten/praktisch.html
     fr:  /fr/bon-a-savoir/pratique.html
+    de:  /de/gut-zu-wissen/praktisch.html
 
 
 # [2] menu - overnachten
