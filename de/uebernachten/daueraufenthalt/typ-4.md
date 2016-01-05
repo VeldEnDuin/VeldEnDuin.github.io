@@ -42,7 +42,7 @@ Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 65
 
 VERBRAUCH ⑴           |PREIS          |
 :--------------------:|:-------------:|
-Strom          | € 0,35 / Kw        
+Strom                 | € 0,35 / Kw        
 Wasser                | € 6,50 / m³
 Gas                   | € 6,50 / m³
 Zähler                | € 18 / Zähler
