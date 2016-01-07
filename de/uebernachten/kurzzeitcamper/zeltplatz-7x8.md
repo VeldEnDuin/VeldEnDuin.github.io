@@ -61,7 +61,7 @@ ANZAHL PERSONEN | PREIS / NACHT
 
 15.7. bis 15.8.: Reservierung ab 7 Nächten
 
-{% include nl/trekker-reuse.md %}
+{% include de/kurzzeitcamper-reuse.md %}
 
 ## Plan Campingplatz
 

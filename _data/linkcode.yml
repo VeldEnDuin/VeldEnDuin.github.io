@@ -293,12 +293,15 @@ fotos:
 pdf_allianz:
     nl: /nl/pdf/allianz-algemene-voorwaarden.pdf
     fr: /fr/pdf/allianz-conditions.pdf
+    de: /de/pdf/allianz-algemene-voorwaarden.pdf
 pdf_mvo:
     nl: /nl/pdf/mvo-rapport.pdf
     fr: /fr/pdf/mvo-rapport.pdf
+    de: /de/pdf/mvo-rapport.pdf
 pdf_brandverzekering:
     nl: /nl/pdf/brandverzekering-polisvwen.pdf
     fr: /fr/pdf/assuranceincendie-conditions.pdf
+    de: /de/pdf/brandversicherung-voraussetzungen.pdf
 
 # [7] externe links
 kusttram:

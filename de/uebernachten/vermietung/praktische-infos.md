@@ -10,7 +10,7 @@ icon: info-sign
 
 # Praktische Infos
 
-{% include nl/betaling-cxd-reuse.md %}
+{% include de/bezahlung-cxd-reuse.md %}
 
 ## An- und Abreiseregelung
 - Anreise ab 14 Uhr 
@@ -18,7 +18,7 @@ icon: info-sign
 
 Möchten Sie außerhalb der Öffnungszeiten der Rezeption anreisen? Das ist möglich, aber teilen Sie es uns bitte vorher mit, damit wir eine Uhrzeit vereinbaren können.
 
-{% include nl/openingsuren-reuse.md %}
+{% include de/oeffnungszeiten-reuse.md %}
 
 ## Inventar
 

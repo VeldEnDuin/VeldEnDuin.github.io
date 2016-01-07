@@ -24,5 +24,5 @@ images:
 
 Bei Reservierung von 14 Übernachtungen oder mehr erhalten Sie 2 Nächte gratis. So haben Sie mehr Zeit, die Schönheit unserer Küste und ihres Hinterlandes nach eigenem Gutdünken zu entdecken.
 
-{% include nl/arr-goedomweten.md %}
+{% include de/arr-gutzuwissen.md %}
 

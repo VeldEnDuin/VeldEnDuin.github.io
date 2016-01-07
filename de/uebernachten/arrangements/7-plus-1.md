@@ -23,5 +23,5 @@ images:
 
 Buchen Sie dieses Arrangement und Sie erhalten eine zusätzliche Nacht gratis bei Reservierung von 7 Nächten oder mehr. Also: Noch mehr genießen für dasselbe Geld!  
     
-{% include nl/arr-goedomweten.md %}
+{% include de/arr-gutzuwissen.md %}
 
