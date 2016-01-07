@@ -8,7 +8,7 @@ preview:
         for: pro Nacht
     list:
         - "Abmessungen: 10 x 8 Meter"
-        - "Für Wohnwagen oder Wohnmobil unterweg"
+        - "Für Wohnwagen oder Wohnmobil"
         - "Gras- oder Betonplatz"
         - "Nahe bei Sanitäranlagen"
 images:
