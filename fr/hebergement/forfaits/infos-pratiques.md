@@ -24,7 +24,7 @@ La réservation n’est définitive qu’après paiement de l’acompte
 
 prix: 3,5 % du montant total du séjour
 
-conditions d'annulation: [Allianz][pdf.fr]
+conditions d'annulation: [Allianz][pdf_allianz.fr]
 
 
 ## Heures de départ et d’arrivée

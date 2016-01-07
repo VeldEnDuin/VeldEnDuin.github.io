@@ -24,7 +24,7 @@ Die Reservierung ist erst definitiv, wenn die Anzahlung bezahlt ist.
 
 Preis: 3,5 % der gesamten Reisesumme
 
-Rücktritt Voraussetzungen: [Allianz][pdf.de]
+Rücktritt Voraussetzungen: [Allianz][pdf_allianz.de]
 
 
 ## An- und Abreiseregelung

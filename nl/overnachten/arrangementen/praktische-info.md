@@ -24,7 +24,7 @@ De reservatie is pas definitief na ontvangst van het voorschot.
 
 prijs: 3,5 % van de totale reissom
 
-annulatievoorwaarden: [Allianz][pdf.nl]
+annulatievoorwaarden: [Allianz][pdf_allianz.nl]
 
 
 ##Aankomst-en vertrekregeling
