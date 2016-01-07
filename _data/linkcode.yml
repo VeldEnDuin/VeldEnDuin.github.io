@@ -132,21 +132,27 @@ verhuur_info:
 trekkers_arrangement:
     nl:  /nl/overnachten/trekkers/kampeerarrangement.html
     fr:  /fr/hebergement/camping/forfait-camping.html
+    de:  /de/uebernachten/kurzzeitcamper/campingarrangement.html
 trekkers_lang:
     nl:  /nl/overnachten/trekkers/lang-verblijf.html
     fr:  /fr/hebergement/camping/longs-sejours.html
+    de:  /de/uebernachten/kurzzeitcamper/laengerer-aufenthalt.html
 trekkers_tent7x8:
     nl:  /nl/overnachten/trekkers/tentplaats-7x8.html
     fr:  /fr/hebergement/camping/emplacementtente-7x8.html
+    de:  /de/uebernachten/kurzzeitcamper/zeltplatz-7x8.html
 trekkers_tent10x8:
     nl:  /nl/overnachten/trekkers/tentplaats-10x8.html
     fr:  /fr/hebergement/camping/emplacementtente-10x8.html
+    de:  /de/uebernachten/kurzzeitcamper/zeltplatz-10x8.html
 trekkers_trekker10x8:
     nl:  /nl/overnachten/trekkers/trekkersplaats-10x8.html
     fr:  /fr/hebergement/camping/emplacementcampeur-10x8.html
+    de:  /de/uebernachten/kurzzeitcamper/kurzzeitplatz-10x8.html
 trekkers_info:
     nl:  /nl/overnachten/trekkers/praktische-info.html
     fr:  /fr/hebergement/camping/infos-pratiques.html
+    de:  /de/uebernachten/kurzzeitcamper/praktische-infos.html
 
 # [2.3] submenu overnachten -> residentieel
 residentieel_info:
