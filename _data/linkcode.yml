@@ -185,24 +185,29 @@ type_4:
 7_plus_1:
     nl: /nl/overnachten/arrangementen/7-plus-1.html
     fr: /fr/hebergement/forfaits/7-plus-1.html
+    de: /de/uebernachten/arrangements/7-plus-1.html
 14_plus_2:
     nl: /nl/overnachten/arrangementen/14-plus-2.html
     fr: /fr/hebergement/forfaits/14-plus-2.html
+    de: /de/uebernachten/arrangements/14-plus-2.html
 veld_duin_service:
     nl: /nl/overnachten/arrangementen/veld-en-duin-service.html
     fr: /fr/hebergement/forfaits/service-veld-en-duin.html
+    de: /de/uebernachten/arrangements/veld-en-duin-service.html
 romantiek_aan_zee:
     nl: /nl/overnachten/arrangementen/romantiek-aan-zee.html
     fr: /fr/hebergement/forfaits/romantique-a-la-mer.html
+    de: /de/uebernachten/arrangements/romantik-am-meer.html
 kadobon:
     nl: /nl/overnachten/arrangementen/kadobon.html
     fr: /fr/hebergement/forfaits/cheque-cadeau.html
+    de: /de/uebernachten/arrangements/geschenkgutschein.html
 
 # [2.5] submenu overnachten -> te koop
 te_koop:
     nl: /nl/overnachten/te-koop.html
     fr: /fr/hebergement/a-vendre.html
-    fr: /de/uebernachten/zu-kaufen.html
+    de: /de/uebernachten/zu-kaufen.html
 a_15:
     nl: /nl/overnachten/te-koop/a-15.html
     fr: /fr/hebergement/a-vendre/a-15.html
