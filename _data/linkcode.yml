@@ -68,12 +68,15 @@ praktisch:
 verhuur:
     nl:  /nl/overnachten/verhuur.html
     fr:  /fr/hebergement/location.html
+    de:  /de/uebernachten/vermietung.html
 trekkers:
     nl:  /nl/overnachten/trekkers.html
     fr:  /fr/hebergement/camping.html
+    de:  /de/uebernachten/kurzzeitcamper.html
 residentieel:
     nl:  /nl/overnachten/residentieel-verblijf.html
     fr:  /fr/hebergement/sejour-residentiel.html
+    de:  /de/uebernachten/daueraufenthalt.html
 arrangementen:
     nl:  /nl/overnachten/arrangement.html
     fr:  /fr/hebergement/forfait.html
@@ -88,6 +91,7 @@ nieuw_project:
 wedstrijd:
     nl: /nl/overnachten/wedstrijd.html
     fr: /fr/hebergement/concours.html
+    de: /de/uebernachten/preisausschreiben.html
 
 
 # [2.1] submenu overnachten -> verhuur
