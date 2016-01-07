@@ -44,7 +44,7 @@ CONSOMMATION ⑴           |PRIX          |
 :--------------------:|:-------------:|
 électricité           | € 0,35 / kw        
 eau                   | € 6,50 / m³
-gaz                   | € 6,50 / m³       
+gaz                   | € 6,15 / m³       
 compteur              | € 18 / compteur      
 
 

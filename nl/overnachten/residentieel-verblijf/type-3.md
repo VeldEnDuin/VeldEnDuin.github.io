@@ -43,7 +43,7 @@ VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
 electriciteit         | € 0,35 / kw        
 water                 | € 6,50 / m³  
-gas                   | € 6,50 / m³       
+gas                   | € 6,15 / m³       
 tellervergoeding      | € 18 / teller
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven
