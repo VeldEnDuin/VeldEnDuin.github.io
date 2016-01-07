@@ -3,7 +3,7 @@ search:
     nl:  /nl/zoeken.html
     fr:  /fr/chercher.html
     en:  /en/search.html
-    de:  /de/suche.html
+    de:  /de/suchen.html
 contact:
     nl:  /contact.html
     fr:  /contact.html
@@ -238,6 +238,7 @@ c_16:
 voorzieningen:
     nl: /nl/voorzieningen-overzicht.html
     fr: /fr/apercu-des-equipements.html
+    de: /de/annehmlichkeiten-uebersicht.html
 speel:
     nl: /nl/voorzieningen/speelplein.html
     fr: /fr/equipements/terrain-de-jeu.html
