@@ -2,102 +2,284 @@ class:
   item: "vd-group-tag-item col-lg-2 col-md-3 col-sm-4 col-xs-6"
   list: "vd-group-tagcloud row"
 items:
-    - title:
-        nl: "hele jaar open"
-    - title:
-        nl: "tegenover strand en duinen"
-    - title:
-        nl: "centraal aan de kust"
-    - title:
-        nl: "fietsroutenetwerk"
-    - title:
-        nl: "bij winkels en restaurants"
-    - title:
-        nl: "overdekte fietsberging"
-    - title:
-        nl: "ruim logiesaanbod"
-    - title:
-        nl: "persoonlijk onthaal"
-    - title:
-        nl: "familiale sfeer"
-    - title:
-        nl: "speelplein"
-    - title:
-        nl: "pop-up bibliotheek"
-    - title:
-        nl: "animatie"
-    - title:
-        nl: "wifi"
-    - title:
-        nl: "ruime plaatsen"
-    - title:
-        nl: "eigen groenonderhoud"
-    - title:
-        nl: "ondergrondse gastanks"
-    - title:
-        nl: "aparte tellers"
-    - title:
-        nl: "wintervaste wateraansluiting"
-    - title:
-        nl: "technische know-how"
-    - title:
-        nl: "met zicht op de Mont Blanc"
-    - title:
-        nl: "petanqueplein"
-    - title:
-        nl: "viertalig onthaal"
-    - title:
-        nl: "infomappen"
-    - title:
-        nl: "infodisplay"
-    - title:
-        nl: "duurzaam ondernemen"
-    - title:
-        nl: "zonneboilers"
-    - title:
-        nl: "streekeigen beplanting"
-    - title:
-        nl: "rust"
-    - title:
-        nl: "honden welkom"
-    - title:
-        nl: "49 jaar kampeerervaring"
-    - title:
-        nl: "familiebedrijf"
-    - title:
-        nl: "bloemenpracht"
-    - title:
-        nl: "facebookpagina"
-    - title:
-        nl: "MVO-rapport"
-    - title:
-        nl: "iedereen welkom"
-    - title:
-        nl: "constant vernieuwen"
-    - title:
-        nl: "eigentijds"
-    - title:
-        nl: "tentplaatsen"
-    - title:
-        nl: "trekkersplaatsen"
-    - title:
-        nl: "sauna"
-    - title:
-        nl: "wassalon"
-    - title:
-        nl: "verzorgd sanitair"
-    - title:
-        nl: "Q-label"
-    - title:
-        nl: "nabij tramhalte"
-    - title:
-        nl: "ACSI"
-    - title:
-        nl: "tegenover Paelsteenveld"
-    - title:
-        nl: "op wandelafstand van Grasduinen"
+  - title:
+      nl: "hele jaar open"
+      fr: "ouvert toute l’année"
+      de: "das ganze Jahr geöffnet"
+      en: ''
 
+  - title:
+      nl: "tegenover strand en duinen"
+      fr: "face à la plage et aux dunes"
+      de: "gegenüber von Strand und Dünen"
+      en: ''
 
+  - title:
+      nl: "centraal aan de kust"
+      fr: "situation centrale sur la côte"
+      de: "zentral an der Küste"
+      en: ''
 
+  - title:
+      nl: "fietsroutenetwerk"
+      fr: "réseau de randonnées cyclistes"
+      de: "Radwegenetz"
+      en: ''
 
+  - title:
+      nl: "bij winkels en restaurants"
+      fr: "magasins et restaurants"
+      de: "bei Geschäften und Restaurants"
+      en: ''
 
+  - title:
+      nl: "overdekte fietsberging"
+      fr: "garage à vélos"
+      de: "überdachter Fahrradunterstand"
+      en: ''
+
+  - title:
+      nl: "ruim logiesaanbod"
+      fr: "offre de logements variée"
+      de: "großes Angebot an Unterkünften"
+      en: ''
+
+  - title:
+      nl: "persoonlijk onthaal"
+      fr: "accueil personnel"
+      de: "individueller Empfang"
+      en: ''
+
+  - title:
+      nl: "familiale sfeer"
+      fr: "ambiance familiale"
+      de: "familiäre Atmosphäre"
+      en: ''
+
+  - title:
+      nl: "speelplein"
+      fr: "terrain de jeu"
+      de: "Spielplatz"
+      en: ''
+
+  - title:
+      nl: "pop-up bibliotheek"
+      fr: "bibliothèque éphémère"
+      de: "Pop-up-Bibiothek"
+      en: ''
+
+  - title:
+      nl: "animatie"
+      fr: "animations"
+      de: "Animation"
+      en: ''
+
+  - title:
+      nl: "wifi"
+      fr: "wi-fi"
+      de: "Wifi"
+      en: ''
+
+  - title:
+      nl: "ruime plaatsen"
+      fr: "grands emplacements"
+      de: "große Plätze"
+      en: ''
+
+  - title:
+      nl: "eigen groenonderhoud"
+      fr: "entretien des espaces verts réalisé par nos soins"
+      de: "eigene Pflege von Grünanlagen"
+      en: ''
+
+  - title:
+      nl: "ondergrondse gastanks"
+      fr: "réservoirs de gaz souterrains"
+      de: "unterirdische Gastanks"
+      en: ''
+
+  - title:
+      nl: "aparte tellers"
+      fr: "compteurs séparés"
+      de: "getrennte Zähler"
+      en: ''
+
+  - title:
+      nl: "wintervaste wateraansluiting"
+      fr: "raccordement à l’eau pendant l’hiver"
+      de: "winterfester Wasseranschluss"
+      en: ''
+
+  - title:
+      nl: "technische know-how"
+      fr: "expertise technique"
+      de: "technisches Know-how"
+      en: ''
+
+  - title:
+      nl: "met zicht op de Mont Blanc"
+      fr: "vue sur le mont Blanc"
+      de: "mit Blick auf den Mont Blanc"
+      en: ''
+
+  - title:
+      nl: "petanqueplein"
+      fr: "terrain de pétanque"
+      de: "Petanqueplatz"
+      en: ''
+
+  - title:
+      nl: "viertalig onthaal"
+      fr: "accueil en quatre langues"
+      de: "viersprachiger Empfang"
+      en: ''
+
+  - title:
+      nl: "infomappen"
+      fr: "classeurs d’information"
+      de: "Infomappen"
+      en: ''
+
+  - title:
+      nl: "infodisplay"
+      fr: "écran d’information"
+      de: "Infodisplay"
+      en: ''
+
+  - title:
+      nl: "duurzaam ondernemen"
+      fr: "entrepreneuriat durable"
+      de: "Nachhaltiges Unternehmen"
+      en: ''
+
+  - title:
+      nl: "zonneboilers"
+      fr: "chauffe-eau solaires"
+      de: "Solarboiler"
+      en: ''
+
+  - title:
+      nl: "streekeigen beplanting"
+      fr: "végétation locale"
+      de: "Regionaltypische Bepflanzung"
+      en: ''
+
+  - title:
+      nl: "rust"
+      fr: "repos"
+      de: "Ruhe"
+      en: ''
+
+  - title:
+      nl: "honden welkom"
+      fr: "chiens admis"
+      de: "Hunde willkommen"
+      en: ''
+
+  - title:
+      nl: "49 jaar kampeerervaring"
+      fr: "49 ans d’expérience dans le camping"
+      de: "49 Jahre Campingerfahrung"
+      en: ''
+
+  - title:
+      nl: "familiebedrijf"
+      fr: "entreprise familiale"
+      de: "Familienunternehmen"
+      en: ''
+
+  - title:
+      nl: "bloemenpracht"
+      fr: "magnifiques parterres de fleurs"
+      de: "Blumenpracht"
+      en: ''
+
+  - title:
+      nl: "facebookpagina"
+      fr: "page Facebook"
+      de: "Facebook-Seite"
+      en: ''
+
+  - title:
+      nl: "MVO-rapport"
+      fr: "rapport RSE"
+      de: "SVU-Bericht"
+      en: ''
+
+  - title:
+      nl: "iedereen welkom"
+      fr: "bienvenue à tous"
+      de: "jeder willkommen"
+      en: ''
+
+  - title:
+      nl: "constant vernieuwen"
+      fr: "rénovations permanentes"
+      de: "ständige Innovation"
+      en: ''
+
+  - title:
+      nl: "eigentijds"
+      fr: "moderne"
+      de: "modern"
+      en: ''
+
+  - title:
+      nl: "tentplaatsen"
+      fr: "emplacements pour tentes"
+      de: "Zeltplätze"
+      en: ''
+
+  - title:
+      nl: "trekkersplaatsen"
+      fr: "emplacements de camping"
+      de: "Kurzzeitplätze"
+      en: ''
+
+  - title:
+      nl: "sauna"
+      fr: "sauna"
+      de: "sauna"
+      en: ''
+
+  - title:
+      nl: "wassalon"
+      fr: "laverie automatique"
+      de: "Waschsalon"
+      en: ''
+
+  - title:
+      nl: "verzorgd sanitair"
+      fr: "sanitaires impeccables"
+      de: "gepflegte Sanitäranlagen"
+      en: ''
+
+  - title:
+      nl: "Q-label"
+      fr: "label Q"
+      de: "Q-zeichen"
+      en: ''
+
+  - title:
+      nl: "nabij tramhalte"
+      fr: "arrêt de tram à proximité"
+      de: "Straßenbahnhaltestelle in der Nähe"
+      en: ''
+
+  - title:
+      nl: "ACSI"
+      fr: "ACSI"
+      de: "ACSI"
+      en: "ACSI"
+
+  - title:
+      nl: "tegenover Paelsteenveld"
+      fr: "face au Paelsteenveld"
+      de: "gegenüber Paelsteenveld"
+      en: ''
+
+  - title:
+      nl: "op wandelafstand van Grasduinen"
+      fr: "à quelques pas du domaine Grasduinen"
+      de: "in Laufentfernung von Grasduinen"
+      en: ''

@@ -1,25 +1,12 @@
 TODO
 ====
-- mailchimp styling 
-    - tuning en testing    
-    - fixes (input van Els en Joke nodig)
-      4/ sig.png --> handtekening met transp back ipv patroon 
-    - probleem met de dubbele titel boven/onder logo --> qwerken met 2 rijen in tabel?
-    
 - Fix -1 : tijdslijn
-  - resize timing + masonery --> fail met images!! timing? img loaded?
-    >> https://github.com/desandro/imagesloaded
-    >> http://stackoverflow.com/questions/910727/jquery-event-for-images-loaded
-  - indien beschikbaar link naar /pics album
+  - zodra beschikbaar link naar /pics album
   - eventueel custom scroll-bar styling voor imgstrip
 - Fix -2 : fotos (nog zonder pics)
   - strip - hoofdalbum - cacheerror
 
 - vormgeving foto's in nieuwsartikel anders -->  groter en bladerbaar!
-
-- tekst uitsplitsen naar include-secties
-  
-- vertaal ondersteuning met Els
 
 - later accordeon hernemen
     - vertikale tekst
@@ -29,11 +16,9 @@ TODO
         insert:
             - level3-accordeon
     
-
 - imgstrip size calculator ==> nu 200%, zou moeten gereduceerd worden door script zodat de scrollbar niet eindeloos blijft lopen (dus start 1000%, check height as parent, grab width --> set width)
   * op de tijdlijn --> scroll beter afgemeten
   * op de detail-pages --> geen overblijvende balk
-
 
 - responsive style voor de submenu ==> sneller onder elkaar zetten --> dan opletten voor tussenlijntjes horizontaal ipv verticaal!
 
@@ -45,11 +30,7 @@ TODO
 
 - faq sectie op de search
 
-
 - joke: plan varianten met highlights
-
-- uitleg: hoe beelden inlassen?
-
 
 - fotoalbum(s)
   - include one album

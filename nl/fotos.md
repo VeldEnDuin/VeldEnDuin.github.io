@@ -5,7 +5,7 @@ insert:
     - play-album
 remove:
     - socialshare
-      - imgstrip
+    - imgstrip
 play-album:
     - "site-hoofdalbum"
     

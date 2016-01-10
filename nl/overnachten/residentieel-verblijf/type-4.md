@@ -19,7 +19,7 @@ images:
 
 {% include links.md %}
 
-#Type 4 - caravan
+#Type 4 - CARAVAN
 
 Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Ga dan voor één van onze luxueuze plaatsen en geniet van de extra ruimte.
 
@@ -36,7 +36,7 @@ Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Ga 
 TYPE 4                |PRIJS           |
 :--------------------:|:--------------:|
 standplaatsvergoeding |€ 2510               
-gemeentetaks          |€ 333,90 (2015) 
+gemeentetaks          |€ 340,79 
 huisvuilbijdrage<br>incl 25 zakken<br> | € 65    
 [brandverzekering][pdf_brandverzekering.nl]     |afhankelijk van <br>waarde caravan
 
@@ -44,7 +44,7 @@ VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
 electriciteit         | € 0,35 / kw        
 water                 | € 6,50 / m³  
-gas                   | € 6,50 / m³       
+gas                   | € 6,15 / m³       
 tellervergoeding      | € 18 / teller
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven

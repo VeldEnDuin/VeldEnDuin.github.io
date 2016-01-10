@@ -1,0 +1,71 @@
+---
+layout: page
+title: Längerer Aufenthalt
+preview: 
+    title: Längerer Aufenthalt
+    button:
+        price: 1500
+        for: pro Jahr
+    list:
+        - "Plätze 80 m²"
+        - "Beton- oder Kiesplätze"
+        - "Ganzjährig genießen"
+        - "Sanitäranlagen in der Nähe"
+        
+images:
+    - /img/overnachten/trekkers-res/restr-01.jpg
+    - /img/overnachten/trekkers-res/restr-02.jpg
+    - /img/overnachten/trekkers-res/restr-03.jpg
+    - /img/overnachten/trekkers-res/restr-04.jpg
+    - /img/overnachten/trekkers-res/restr-05.jpg
+    - /img/overnachten/trekkers-res/restr-06.jpg
+    - /img/overnachten/trekkers-res/restr-07.jpg
+    - /img/overnachten/trekkers-res/restr-08.jpg
+    - /img/overnachten/trekkers-res/restr-09.jpg
+    - /img/overnachten/trekkers-res/restr-10.jpg
+    - /img/overnachten/trekkers-res/restr-01.jpg
+    - /img/overnachten/trekkers-res/restr-02.jpg
+    - /img/overnachten/trekkers-res/restr-03.jpg
+    - /img/overnachten/trekkers-res/restr-04.jpg
+    - /img/overnachten/trekkers-res/restr-05.jpg
+    - /img/overnachten/trekkers-res/restr-06.jpg
+    - /img/overnachten/trekkers-res/restr-07.jpg
+    - /img/overnachten/trekkers-res/restr-08.jpg
+    - /img/overnachten/trekkers-res/restr-09.jpg
+    - /img/overnachten/trekkers-res/restr-10.jpg
+    
+    
+insert:
+    - page-images-top
+
+---
+
+{% include links.md %}
+
+# LÄNGERER AUFENTHALT
+Ihr Wohnwagen mit allen Grundannehmlichkeiten bleibt das ganze Jahr über stehen. So können Sie Ihre Freizeit optimal genießen. Nur noch ein paar Sachen einladen – schon sind Sie in Urlaubsstimmung 
+
+## Gut zu wissen
+- Höchstens 6 Personen/Platz
+- Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
+
+## Preise
+ZEITRAUM              | STELLPLATZKOSTEN       | GEMEINDESTEUER      
+:--------------------:|:----------------------:|--------------|
+6 Monate              |€ 1500                  |€ 129,85            
+1 Jahr<br>(1.1.-31.12.) |€ 1605                  |€ 340,79                 
+ 
+## Inbegriffen
+- Parkplatz für 1 Auto
+
+##Extra's
+EXTRA             | PREIS 
+:------------------|:-----------|
+Strom              |nach Verbrauch
+Pauschal Wasser    |€ 65
+Zähler             |€ 18
+Hausmüllgebühr     |€ 60 (inkl. 25 Müllsäcke)
+Karte für Schranke |€ 100 (Kaution € 75)
+Wintervorzelt      |€ 100
+[Brandversicherung][pdf_brandverzekering.de]|verpflichtet - Möglichkeit eines Abschlusses über unsere Gruppenversicherung
+
