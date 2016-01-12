@@ -3,7 +3,7 @@ title: Cyclisme
 layout: page
 
 preview:
-    title: Fietsvriendelijk
+    title: Cyclisme
     
 images:
     - /img/hierstaanwevoor/fietsvriendelijk/fietsvr-01.jpg
