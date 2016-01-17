@@ -1,3 +1,6 @@
+/*global
+    console
+*/
 /*
 This is free and unencumbered software released into the public domain.
 
@@ -34,6 +37,18 @@ For more information, please refer to <http://unlicense.org/>
  * on your site. Uses HTML5 cache to speed up things and avoid load.
  */
 
+
+/*
+picasaweb:
+https://picasaweb.google.com/111743051856683336205/
+
+api:
+-json
+http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&access=visible&alt=json-in-script&thumbsize=100c
+
+-jsonp
+http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&access=visible&alt=json-in-script&thumbsize=100c&callback=jQuery21305630106835160404_1453046572105&_=1453046572106
+*/
 
 (function ($) {
     "use strict";
@@ -123,11 +138,14 @@ For more information, please refer to <http://unlicense.org/>
     JSONCache decorates a simple cache to automatically store json-serialized versions.
     Also enhances the signature to allow for production-function to be passed in.
     */
-    function JSONCache(original) {
-        //TODO !IMPORTANT -- there is need for some cache invalidation mechanism!
-        // --> passing in external validatefn seems most flexible
-
+    function JSONCache(original, validateFn) {
         this.original = original;
+        this.isValid = validateFn || function (obj) {
+            var now = moment().valueOf();
+            if (isEmpty(obj)) {return false; }
+            if (isEmpty(obj.lastmodified)) {return false; }
+            return ((now - obj.lastmodified) < JSONCache.THIRTYMINUTES);
+        };
         if (this.original === undefined || this.original === null) {
             if (!hasLocalStorage) {
                 this.original = new SimpleCache();
@@ -135,6 +153,7 @@ For more information, please refer to <http://unlicense.org/>
             this.original = window.localStorage;
         }
     }
+    JSONCache.THIRTHYMINUTES = 30 * 60 * 1000; //in millis
     JSONCache.prototype.getItem = function (key, cb, producer) {
         var result, json, me = this;
         json = this.original.getItem(key);
@@ -142,6 +161,9 @@ For more information, please refer to <http://unlicense.org/>
             try {
                 result = JSON.parse(json);
             } catch (e) {} // just ignore objects that can't be parsed
+        }
+        if (!this.isValid(result)) { //ignore if cache should be invalidated
+            result = undefined;
         }
         if (!isEmpty(result)) {
             return cb(result);
@@ -223,7 +245,7 @@ For more information, please refer to <http://unlicense.org/>
     };
 
     //https://developers.google.com/picasa-web/docs/2.0/developers_guide_protocol
-    GPGallery.getAPIUri = function (type, albid) {
+    GPGallery.prototype.getAPIUri = function (type, albid) {
         var uri = String(this.base);
         if (type) {
             uri += '/user/' + this.owner;
@@ -390,10 +412,9 @@ For more information, please refer to <http://unlicense.org/>
         this.gallery = new CachedGallery(new GPGallery(this.config));
         this.albListFull = {};
         this.matchingAlbumIds = [];
-        this.picList = {};
+        //this.picList = {};
 
         this.albMatchFn = makeMatchFn(this.config.albumspec);
-        this.viewState = new ViewState(); // none --> full list!
 
         this.$album = $elm.css("overflow", "hidden");
         jqEnableEvent($elm, 'heightUpdated');
@@ -406,15 +427,18 @@ For more information, please refer to <http://unlicense.org/>
         $elm.data('gpAlbumViewer', this);
 
         // load data, and when it is there --> render
-        this.init(function () {
-            me.showAlbList();
-        });
+        this.init();
     }
 
 
-    GpAlbumViewer.prototype.init = function (cb) {
+    GpAlbumViewer.prototype.init = function () {
 
-        var me = this, albid;
+        var me = this, albid, picid;
+
+        //configure renderer
+        this.getRenderer();
+
+        //load data
         this.gallery.getAlbumList(function (alblist) {
             me.albListFull = alblist;
 
@@ -430,33 +454,36 @@ For more information, please refer to <http://unlicense.org/>
 
             // todo: check initial hash to decide what to do now
             /*
+            if (location.hash && location.hash.length > 1) {
+                this.viewState = ViewState.fromHash(location.hash.slice(1));
+            } else {
+                this.viewState = new ViewState(); // none --> full list!
+            }
 
-                    //read the fragment-identifier and call the toggleActive(grp)
-                    function followHash() {
-                        if (location.hash && location.hash.length > 1) {
-                            toggleActive(location.hash.slice(1));
-                        } else {
-                            toggleActive();
-                        }
+            albid = this.viewState.albid;
+            picid = this.viewState.picid;
+
+            if (albid) {
+                me.loadAlbum(albid, function () {
+                    if (picid) {
+                        meShowPicture(albid, picid);
+                    } else {
+                        me.showAlbum(albid);
                     }
-                    $(window).on('hashchange', followHash);
-                    followHash();
-
-
+                });
+            } else
             */
-
             // else go into "normal" mode
             if (me.matchingAlbumIds.length === 1) {
                 // if the filtered list has length 1
                 // then go load that album --> go into view-single album --> and finally render that
                 albid = me.matchingAlbumIds[0];
-                me.loadAlbum(albid, function() {
+                me.loadAlbum(albid, function () {
                     me.showAlbum(albid);
                 });
-
             } else {
                 // do whatever the top level expected
-                cb();
+                me.showAlbList();
             }
         });
     };
@@ -464,28 +491,35 @@ For more information, please refer to <http://unlicense.org/>
     GpAlbumViewer.prototype.loadAlbum = function (albid, cb) {
         var me = this, alb = this.albListFull.albumSet[albid];
         if (isEmpty(alb)) {
-            throw "unexpected album loaded should have metadata available already"
+            throw "unexpected album loaded should have metadata available already";
         }
         if (isEmpty(alb.photoList)) {
-            this.gallery.getPictureList(albid, function(piclist) {
+            this.gallery.getPictureList(albid, function (piclist) {
                 alb.photoList = piclist.photoList;
                 cb();
-            })
+            });
         } else {
             cb();
         }
     };
 
     GpAlbumViewer.prototype.showAlbList = function () {
-        //set view state
-        //update hash --> window.location.hash = !albid,picid
-        //render
+        var content = this.albListFull.albumSet;
+
+        this.viewState = new ViewState();
+        window.location.hash = this.viewState.asHash();
+
+        this.renderer.drawAlbumList(content);
     };
 
     GpAlbumViewer.prototype.showAlbum = function (albid) {
-        //set view state
-        //update hash --> window.location.hash = !albid,
-        //render
+        var alb = this.albListFull.albumSet[albid],
+            content = alb.photoList;
+
+        this.viewState = new ViewState(albid);
+        window.location.hash = this.viewState.asHash();
+
+        this.renderer.drawPhotoList(content);
     };
 
     GpAlbumViewer.prototype.showPicture = function (albid, picid) {
@@ -851,19 +885,19 @@ For more information, please refer to <http://unlicense.org/>
         return this.renderer;
     };
 
-    GpAlbumViewer.prototype.render = function (updateId) {
-        var me = this,
-            albumId = this.matchingAlbumIds[0],
-            render = me.getRenderer(),
-            content = me.getContent(albumId);
-console.log("RENDER // updateId = %s, albumId = %s, content ==>", updateId, albumId, content);
-        // TODO support rendering more then only configured first album
-        if (albumId === updateId && !isEmpty(content)) {
-            if (isEmpty(albumId)) {
-                render.drawAlbumList(content);
-            } else {
-                render.drawPhotoList(content.photoList);
-            }
+    GpAlbumViewer.prototype.render = function () {
+        var renderer = this.getRenderer(),
+            vws = this.viewState;
+
+        // check viewstate, based on that : pull correct data and decide on correct method
+        if (!vws.isAlbumSelected()) {
+            // get list of albums
+            renderer.drawAlbumList(this.getViewContent(vws));
+        } else if (!vws.isPictureSelected()) {
+            // get list of pictures in album
+            renderer.drawPhotoList(this.getViewContent(vws));
+        } else {
+            // todo show one pic!
         }
     };
 
