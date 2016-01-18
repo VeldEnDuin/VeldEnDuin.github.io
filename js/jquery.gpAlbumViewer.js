@@ -193,6 +193,8 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
         this.picid = picid;
     }
     ViewState.parts2hash = function (a, p) {
+        if (!a && !p) { return ""; }
+        //else
         return "#!" + [a, p].join(',');
     };
     ViewState.hash2parts = function (hash) {
@@ -412,6 +414,7 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
         this.gallery = new CachedGallery(new GPGallery(this.config));
         this.albListFull = {};
         this.matchingAlbumIds = [];
+        this.matchingAlbumIdsByName = {};
         //this.picList = {};
 
         this.albMatchFn = makeMatchFn(this.config.albumspec);
@@ -440,6 +443,8 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
 
         //load data
         this.gallery.getAlbumList(function (alblist) {
+            var initViewState;
+
             me.albListFull = alblist;
 
             if (!isEmpty(alblist.albumSet)) {
@@ -448,33 +453,30 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
                     var albname = alblist.albumSet[albid].title;
                     if (me.albMatchFn(albid, albname)) {
                         me.matchingAlbumIds.push(albid);
+                        me.matchingAlbumIdsByName[albname] = albid;
                     }
                 });
             }
 
-            // todo: check initial hash to decide what to do now
-            /*
-            if (location.hash && location.hash.length > 1) {
-                this.viewState = ViewState.fromHash(location.hash.slice(1));
+            // if the renderer requires it, and there is some location
+            if (me.renderer.hashNavigable && location.hash && location.hash.length > 1) {
+                initViewState = ViewState.fromHash(location.hash.slice(1));
             } else {
-                this.viewState = new ViewState(); // none --> full list!
+                initViewState = new ViewState(); // none --> full list!
             }
 
-            albid = this.viewState.albid;
-            picid = this.viewState.picid;
+            albid = initViewState.albid;
+            picid = initViewState.picid;
 
             if (albid) {
                 me.loadAlbum(albid, function () {
                     if (picid) {
-                        meShowPicture(albid, picid);
+                        me.showPicture(albid, picid);
                     } else {
                         me.showAlbum(albid);
                     }
                 });
-            } else
-            */
-            // else go into "normal" mode
-            if (me.matchingAlbumIds.length === 1) {
+            } else if (me.matchingAlbumIds.length === 1) { // else go into "normal" mode
                 // if the filtered list has length 1
                 // then go load that album --> go into view-single album --> and finally render that
                 albid = me.matchingAlbumIds[0];
@@ -503,28 +505,26 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
         }
     };
 
+    GpAlbumViewer.prototype.setViewState = function (vs) {
+        this.viewState = vs;
+        // update the hash if the renderer needs it
+        if (this.renderer && this.renderer.hashNavigable) {
+            window.location.hash = this.viewState.asHash();
+        }
+    };
+
     GpAlbumViewer.prototype.showAlbList = function () {
-        var content = this.albListFull.albumSet;
-
-        this.viewState = new ViewState();
-        window.location.hash = this.viewState.asHash();
-
-        this.renderer.drawAlbumList(content);
+        this.setViewState(new ViewState());
+        this.renderer.drawAlbumList(this.albListFull.albumSet, this.matchingAlbumIds, this.matchingAlbumIdsByName);
     };
 
     GpAlbumViewer.prototype.showAlbum = function (albid) {
-        var alb = this.albListFull.albumSet[albid],
-            content = alb.photoList;
-
-        this.viewState = new ViewState(albid);
-        window.location.hash = this.viewState.asHash();
-
-        this.renderer.drawPhotoList(content);
+        this.setViewState(new ViewState(albid));
+        this.renderer.drawPhotoList(this.albListFull.albumSet[albid].photoList);
     };
 
     GpAlbumViewer.prototype.showPicture = function (albid, picid) {
         //setview state
-        //update hash --> window.location.hash = !albid,picid
         //render
     };
 
@@ -858,8 +858,28 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
         function BrowserRenderStrategy(gpAlbum) {
             this.$elm = gpAlbum.$album;
         }
-        BrowserRenderStrategy.prototype.drawAlbumList = function (aListData) {
-            this.$elm.html('<pre>albs ==> \n' + JSON.stringify(aListData) + '</pre>');
+        BrowserRenderStrategy.prototype.drawAlbumList = function (albSet, matchIds, matchIdsByName) {
+            var me = this, currentSectionTtl;
+            this.$elm.html('<pre>albs ==> \n' + JSON.stringify(albSet) + '\n' + JSON.stringify(matchIdsByName) + '</pre>');
+
+            Object.keys(matchIdsByName).sort().forEach(function (albname) {
+                var albid = matchIdsByName[albname],
+                    alb = albSet[albid],
+                    sectionTtl = Number(albname.slice(4)),
+                    $albView;
+
+                if (isNaN(sectionTtl)) {
+                    sectionTtl = "***"; //TODO - translate?
+                }
+
+                if (sectionTtl !== currentSectionTtl) {
+                    me.$elm.append('<div class="clearfix">' + sectionTtl + '</div>');
+                    currentSectionTtl = sectionTtl;
+                }
+
+                $albView = $('<div class="vd-alb">' + JSON.stringify(alb) + '<div>');
+                me.$elm.append($albView);
+            });
         };
         BrowserRenderStrategy.prototype.drawPhotoList = function (pListData) {
             var html = "";
@@ -874,6 +894,7 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
 
             this.$elm.html(html);
         };
+        BrowserRenderStrategy.prototype.hashNavigable = true;
         GpAlbumViewer.RenderStrategy.browser = BrowserRenderStrategy;
     }());
 
@@ -883,22 +904,6 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
             this.renderer = new GpAlbumViewer.RenderStrategy[this.config.render](this);
         }
         return this.renderer;
-    };
-
-    GpAlbumViewer.prototype.render = function () {
-        var renderer = this.getRenderer(),
-            vws = this.viewState;
-
-        // check viewstate, based on that : pull correct data and decide on correct method
-        if (!vws.isAlbumSelected()) {
-            // get list of albums
-            renderer.drawAlbumList(this.getViewContent(vws));
-        } else if (!vws.isPictureSelected()) {
-            // get list of pictures in album
-            renderer.drawPhotoList(this.getViewContent(vws));
-        } else {
-            // todo show one pic!
-        }
     };
 
     GpAlbumViewer.config = {
