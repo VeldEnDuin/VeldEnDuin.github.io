@@ -19,7 +19,7 @@ images:
 ## Machen Sie mit beim Preisausschreiben und gewinnen Sie schöne Preise
 
 Auf der neuen Webseite haben wir ganz bewusst drei schwere Fehler eingebaut...<br> 
-Suchen Sie schnell die drei offensichtlichen Fehler, die wir zwischen den anderen Informationen versteckt haben, und melden Sie sie uns.
+Suchen Sie schnell die drei sonnenklare Unwahrheiten, die wir zwischen den anderen Informationen versteckt haben, und melden Sie sie uns.
 
 
 ### Preise
@@ -30,6 +30,6 @@ Suchen Sie schnell die drei offensichtlichen Fehler, die wir zwischen den andere
 
 ### Wie können Sie teilnehmen?
 
-Füllen Sie hier Ihr Teilnahmeformular aus und erwähnen Sie die drei Fehler sowie die Antwort auf die Stichfrage. Die Teilnahme ist bis zum **15. Februar 2016** möglich.
+Füllen Sie [hier][wedstrijd.de] Ihr Teilnahmeformular aus und erwähnen Sie die drei Fehler sowie die Antwort auf die Stichfrage. Die Teilnahme ist bis zum **15. Februar 2016** möglich.
 
 Die Gewinner werden persönlich informiert und die Namen werden auf Facebook und in unserer [Rubrik “Aktuelles”][news.de] veröffentlicht.

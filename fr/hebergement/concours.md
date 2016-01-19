@@ -30,6 +30,6 @@ Cherchez sans plus tarder les 3 mensonges flagrants qui se sont glissés parmi l
 
 ###Comment participer ?
 
-Complétez ici votre formulaire de participation, indiquez-nous les 3 erreurs et répondez à la question subsidiaire. Vous pouvez participer jusqu’au **15 février 2016**.
+Complétez [ici][wedstrijd.fr] votre formulaire de participation, indiquez-nous les 3 erreurs et répondez à la question subsidiaire. Vous pouvez participer jusqu’au **15 février 2016**.
 
 Les gagnants seront prévenus personnellement et les noms seront annoncés sur Facebook et dans la [rubrique actualités][news.fr].
