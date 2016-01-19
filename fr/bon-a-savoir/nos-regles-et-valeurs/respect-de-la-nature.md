@@ -9,7 +9,7 @@ images:
     - /img/hierstaanwevoor/groen/groen-04.jpg
 
 insert:
-    - page-images-bottom
+    - page-images-top
 
 remove:
     - imgstrip
