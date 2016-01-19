@@ -14,6 +14,9 @@ preview:
 images:
     - /img/overnachten/arrangementen-cado/arrcado-01.jpg
     
+insert:
+    - page-images-top
+    
 ---
 
 {% include links.md %}

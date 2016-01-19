@@ -14,6 +14,9 @@ preview:
 images:
     - /img/overnachten/arrangementen-vdserv/arrvdserv-01.jpg
     
+insert:
+    - page-images-top
+    
     
     
 ---
