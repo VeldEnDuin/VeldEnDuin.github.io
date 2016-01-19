@@ -7,6 +7,7 @@ images:
     - /img/goedomweten/praktisch/prakt-02.jpg
     - /img/goedomweten/praktisch/prakt-03.jpg
     - /img/goedomweten/praktisch/prakt-04.jpg
+    - /img/goedomweten/praktisch/prakt-05.jpg
 
 insert:
     - page-images-top
