@@ -144,7 +144,7 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
             var now = moment().valueOf();
             if (isEmpty(obj)) {return false; }
             if (isEmpty(obj.lastmodified)) {return false; }
-            return ((now - obj.lastmodified) < JSONCache.THIRTYMINUTES);
+            return ((now - obj.lastmodified) < JSONCache.THIRTHYHOURS);
         };
         if (this.original === undefined || this.original === null) {
             if (!hasLocalStorage) {
@@ -153,6 +153,8 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
             this.original = window.localStorage;
         }
     }
+    JSONCache.THIRTHYDAYS = 30 * 24 * 60 * 60 * 1000; //in millis
+    JSONCache.THIRTHYHOURS = 30 * 60 * 60 * 1000; //in millis
     JSONCache.THIRTHYMINUTES = 30 * 60 * 1000; //in millis
     JSONCache.prototype.getItem = function (key, cb, producer) {
         var result, json, me = this;
@@ -239,7 +241,7 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
         }
     }
     GPGallery.prototype.cacheKey = function (albid) {
-        var keyparts = [this.cacheKeyPrefix, this.owner];
+        var keyparts = [this.cacheKeyPrefix, this.owner, this.thumbsize];
         if (albid !== undefined && albid !== null) {
             keyparts.push(albid);
         }
@@ -856,28 +858,51 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
      */
     (function () {
         function BrowserRenderStrategy(gpAlbum) {
+            this.gpAlbum = gpAlbum;
             this.$elm = gpAlbum.$album;
+            this.$elm.addClass("vd-group-list vd-group-grid");
+            this.$elm.css("overflow", "auto");
         }
-        BrowserRenderStrategy.prototype.drawAlbumList = function (albSet, matchIds, matchIdsByName) {
-            var me = this, currentSectionTtl;
-            this.$elm.html('<pre>albs ==> \n' + JSON.stringify(albSet) + '\n' + JSON.stringify(matchIdsByName) + '</pre>');
 
-            Object.keys(matchIdsByName).sort().forEach(function (albname) {
+        BrowserRenderStrategy.prototype.drawAlbumList = function (albSet, matchIds, matchIdsByName) {
+            var me = this, currentYear;
+            this.$elm.html(''); // clear all
+            //this.$elm.html('<pre>albs ==> \n' + JSON.stringify(albSet) + '\n' + JSON.stringify(matchIdsByName) + '</pre>');
+
+            Object.keys(matchIdsByName).sort().reverse().forEach(function (albname) {
                 var albid = matchIdsByName[albname],
                     alb = albSet[albid],
-                    sectionTtl = Number(albname.slice(4)),
+                    albyear = Number(albname.slice(0, 4)),
+                    albdate = albname.slice(0, 10),
+                    albtext = albname.slice(11),
+                    albsize = alb.numpics,
+                    albpic  = alb.thumbnail,
+                    html,
                     $albView;
 
-                if (isNaN(sectionTtl)) {
-                    sectionTtl = "***"; //TODO - translate?
+                if (isNaN(albyear)) {
+                    albyear = "****"; //TODO - translate?
                 }
 
-                if (sectionTtl !== currentSectionTtl) {
-                    me.$elm.append('<div class="clearfix">' + sectionTtl + '</div>');
-                    currentSectionTtl = sectionTtl;
+                if (albyear !== currentYear) {
+                    me.$elm.append('<div class="col-lg-12 clearfix vd-group-section-head">' + albyear + '</div>');
+                    currentYear = albyear;
                 }
 
-                $albView = $('<div class="vd-alb">' + JSON.stringify(alb) + '<div>');
+                //$albView = $('<div class="vd-alb col-lg-3 col-md-4 col-sm-6 col-xs-12">' + JSON.stringify(alb) + '<div>');
+
+                html = '<div class="vd-group-item vd-group-pics-item col-lg-3 col-md-4 col-sm-6 col-xs-12">'
+                     + '  <div class="vd-group-item-inner" style="background-image: url(\'' + albpic  + '\');">'
+                     + '    <div class="vd-group-content"><div class="vd-group-content-inner">'
+                     + '      <div class="vd-group-title">' + albtext + '</div>'
+                     + '      <div class="vd-group-caption"><span class="glyphicon glyphicon-map-calendar"></span>' + albdate + '</div>'
+                     + '      <div class="vd-group-info">(' + albsize  + ')</div>'
+                     + '    </div></div>'
+                     + '  </div>'
+                     + '</div>';
+                $albView = $(html).click(function () {
+                    this.gpAlbum.showAlbum(albid);
+                });
                 me.$elm.append($albView);
             });
         };

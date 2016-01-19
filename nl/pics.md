@@ -9,6 +9,6 @@ remove:
     - imgstrip
 play-album:
     - "\\d{4}-\\d{2}-\\d{2}.*"
-play-render:
-    - browser
+play-thumbsize: 350
+play-render: browser
 ---

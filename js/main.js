@@ -408,8 +408,8 @@
             $grid.on('layoutComplete', postlayout);
             postlayout();
         }
-        $(window).on("load", function(){
-            setTimeout(startMasonry,0);
+        $(window).on("load", function () {
+            setTimeout(startMasonry, 0);
         });
     });
 
@@ -542,7 +542,7 @@
     $(function () {
 
         $('.vd-album').each(function () {
-            var data, gpid, albumspec, render, vwr, dims,
+            var data, gpid, albumspec, render, vwr, dims, thumbsize,
                 $album = $(this);
 
             data = $album.data('album');
@@ -550,8 +550,15 @@
             albumspec = data['album-spec'];
             render = data.render || "play";
             dims = data.dimensions;
+            thumbsize = data.thumbsize || 100;
 
-            vwr = $album.gpAlbumViewer({"account": gpid, "albumspec": albumspec, "render": render, "dimensions": dims})[0];
+            vwr = $album.gpAlbumViewer({
+                "account": gpid,
+                "albumspec": albumspec,
+                "render": render,
+                "dimensions": dims,
+                "thumbsize": thumbsize
+            })[0];
         });
     });
 }(window.jQuery));
