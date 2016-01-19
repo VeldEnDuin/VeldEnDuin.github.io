@@ -1,6 +1,16 @@
 ---
 title: Praktisch
 layout: page
+
+images:
+    - /img/goedomweten/praktisch/prakt-01.jpg
+    - /img/goedomweten/praktisch/prakt-02.jpg
+    - /img/goedomweten/praktisch/prakt-03.jpg
+    - /img/goedomweten/praktisch/prakt-04.jpg
+
+insert:
+    - page-images-top
+    
 ---
 
 {% include links.md %}
