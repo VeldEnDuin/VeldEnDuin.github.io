@@ -30,6 +30,6 @@ Suchen Sie schnell die drei sonnenklare Unwahrheiten, die wir zwischen den ander
 
 ### Wie können Sie teilnehmen?
 
-Füllen Sie [hier][wedstrijd.de] Ihr Teilnahmeformular aus und erwähnen Sie die drei Fehler sowie die Antwort auf die Stichfrage. Die Teilnahme ist bis zum **15. Februar 2016** möglich.
+Füllen Sie [hier][wedstrijdform.de] Ihr Teilnahmeformular aus und erwähnen Sie die drei Fehler sowie die Antwort auf die Stichfrage. Die Teilnahme ist bis zum **15. Februar 2016** möglich.
 
 Die Gewinner werden persönlich informiert und die Namen werden auf Facebook und in unserer [Rubrik “Aktuelles”][news.de] veröffentlicht.

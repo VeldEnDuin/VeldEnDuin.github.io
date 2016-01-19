@@ -30,6 +30,6 @@ Ga snel op zoek naar de 3 frappante onwaarheden die we verscholen hebben tussen 
 
 ###Hoe deelnemen?
 
-Vul [hier][wedstrijd.nl] uw deelnameformulier in met vermelding van de 3 blunders en het antwoord op de schiftingsvraag. Deelnemen kan tot **15 februari 2016**.
+Vul [hier][wedstrijdform.nl] uw deelnameformulier in met vermelding van de 3 blunders en het antwoord op de schiftingsvraag. Deelnemen kan tot **15 februari 2016**.
 
 De winnaars worden persoonlijk verwittigd en de namen worden bekend gemaakt via facebook en de [nieuwsrubriek][news.nl].
