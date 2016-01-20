@@ -200,10 +200,10 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
         return "#!" + [a, p].join(',');
     };
     ViewState.hash2parts = function (hash) {
-        if (hash.indexOf("#!") !== 0) {
-            throw "bad hash format";
+        if (hash.indexOf("!") !== 0) {
+            throw "bad hash format " + hash;
         }
-        hash = hash.slice(2);
+        hash = hash.slice(1);
         return hash.split(',');
     };
     ViewState.fromHash = function (hash) {
@@ -482,9 +482,7 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
                 // if the filtered list has length 1
                 // then go load that album --> go into view-single album --> and finally render that
                 albid = me.matchingAlbumIds[0];
-                me.loadAlbum(albid, function () {
-                    me.showAlbum(albid);
-                });
+                me.loadAlbum(albid);
             } else {
                 // do whatever the top level expected
                 me.showAlbList();
@@ -494,6 +492,11 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
 
     GpAlbumViewer.prototype.loadAlbum = function (albid, cb) {
         var me = this, alb = this.albListFull.albumSet[albid];
+
+        cb = cb || function () {
+            me.showAlbum(albid);
+        };
+
         if (isEmpty(alb)) {
             throw "unexpected album loaded should have metadata available already";
         }
@@ -570,18 +573,21 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
      *   ------------------------------------------------------------------
      */
     (function () {
-        function PlayControl($container, time, fnPrev, fnNext) {
+        function PlayControl($container, time, fnPrev, fnNext, fnUp) {
             var $grp, me = this;
 
-            this.fn = {"prev": fnPrev, "next": fnNext};
+            this.fn = {"prev": fnPrev, "next": fnNext, "up": fnUp};
             this.time = time;
             this.playhandle = null;
             this.index = -1;
             this.$prev = $(PlayControl.BTN).html(PlayControl.BACKGLYPH).click(function () {me.prev(); });
             this.$play = $(PlayControl.BTN).html(PlayControl.PWSEGLYPH).click(function () {me.playtoggle(); });
             this.$next = $(PlayControl.BTN).html(PlayControl.FRWDGLYPH).click(function () {me.next(); });
+            this.$up   = $(PlayControl.BTN).html(PlayControl.PICTGLYPH).click(function () {me.up(); });
+            $grp = $(PlayControl.BTNGRP)
+                .append(this.$prev).append(this.$up)
+                .append(this.$play).append(this.$next);
 
-            $grp = $(PlayControl.BTNGRP).append(this.$prev).append(this.$play).append(this.$next);
 
             $container.append($grp);
         }
@@ -592,6 +598,7 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
         PlayControl.FRWDGLYPH = '<span class="glyphicon glyphicon-step-forward"></span>';
         PlayControl.PLAYGLYPH = '<span class="glyphicon glyphicon-play"></span>';
         PlayControl.PWSEGLYPH = '<span class="glyphicon glyphicon-pause"></span>';
+        PlayControl.PICTGLYPH = '<span class="glyphicon glyphicon-camera"></span>';
 
         PlayControl.prototype.playtoggle = function () {
             if (isEmpty(this.playhandle)) {
@@ -622,6 +629,7 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
         };
         PlayControl.prototype.prev = function () { this.fn.prev(); };
         PlayControl.prototype.next = function () { this.fn.next(); };
+        PlayControl.prototype.up   = function () { this.fn.up();   };
 
         function div(cfg) {
             cfg = cfg || {};
@@ -687,11 +695,27 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
         }
 
         function PlayRenderStrategy(gpAlbum) {
-            var $vwWrap, $ctrlWrap, $lblWrap, me = this;
+            var me = this;
+
+            this.toHome = function () {
+                if (gpAlbum.matchingAlbumIds.length > 1) {
+                    gpAlbum.showAlbList();
+                } else {
+                    window.location = "pics.html";
+                }
+            };
+
+            this.toAlbum = function (albid) {
+                gpAlbum.loadAlbum(albid);
+            };
+            this.toPic = function (albid, picid) {
+                gpAlbum.showPicture(albid, picid);
+            };
 
             this.$album = gpAlbum.$album;
-            this.$viewTrans = div({"clearfix": true, "fill": false, "center": false, "border": false, "clip": true});
+
             this.$view = $();
+            this.$viewTrans = $();
             this.$album.heightUpdated(function () {
                 var h = (me.$album.height() - 10), w = (me.$album.width() - 10);
                 me.viewHeight = h;
@@ -704,10 +728,86 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
 
             this.content = null;
             this.index = -1;
+        }
+
+        PlayRenderStrategy.prototype.newView = function (imgurl) {
+            var $vw = div({"for" : "view"});
+            $vw.width(this.viewWidth).height(this.viewHeight);
+            if (!isEmpty(imgurl)) {
+                $vw.css("background-image", "url('" + imgurl + "')");
+            }
+            return $vw;
+        };
+
+
+        PlayRenderStrategy.prototype.drawAlbumList = function (albSet, matchIds, matchIdsByName) {
+            var me = this, currentYear;
+            this.$album.html(''); // clear all
+            this.$album.addClass("vd-group-list vd-group-grid");
+            this.$album.css("overflow", "auto");
+
+            this.hashNavigable = true; // from now on let the hash ripple through
+
+            Object.keys(matchIdsByName).sort().reverse().forEach(function (albname) {
+                var albid = matchIdsByName[albname],
+                    alb = albSet[albid],
+                    albyear = Number(albname.slice(0, 4)),
+                    albdate = albname.slice(0, 10),
+                    albtext = albname.slice(11),
+                    albsize = alb.numpics,
+                    albpic  = alb.thumbnail,
+                    html,
+                    $albView;
+
+                if (isNaN(albyear)) {
+                    albyear = "****"; //TODO - translate?
+                }
+
+                if (albdate.slice(4, 7) === '-00' || albdate.slice(7) === '-00') {
+                    albdate = "";
+                } else {
+                    albdate = '<span class="glyphicon glyphicon-calendar"></span> ' + albdate;
+                }
+
+                if (albyear !== currentYear) {
+                    me.$album.append('<div class="vd-group-date col-lg-12 clearfix vd-group-section-head"><span class="year">' + albyear + '</span></div>');
+                    currentYear = albyear;
+                }
+
+                //$albView = $('<div class="vd-alb col-lg-3 col-md-4 col-sm-6 col-xs-12">' + JSON.stringify(alb) + '<div>');
+
+                html = '<div class="vd-group-item vd-group-pics-item col-lg-3 col-md-4 col-sm-6 col-xs-12">'
+                     + '  <div class="vd-group-item-inner" style="background-image: url(\'' + albpic  + '\');">'
+                     + '    <div class="vd-group-content"><div class="vd-group-content-inner">'
+                     + '      <div class="vd-group-title">' + albtext + '</div>'
+                     + '      <div class="vd-group-caption">' + albdate + '</div>'
+                     + '      <div class="vd-group-info">(' + albsize  + ')</div>'
+                     + '    </div></div>'
+                     + '  </div>'
+                     + '</div>';
+                $albView = $(html).click(function () {
+                    me.toAlbum(albid);
+                });
+                me.$album.append($albView);
+            });
+        };
+
+
+        PlayRenderStrategy.prototype.drawPhotoList = function (pListData) {
+            var $vwWrap, $ctrlWrap, $lblWrap, me = this;
+
+            if (isEmpty(pListData)) {
+                return;
+            }
+
+            this.$album.html('');
+            this.$viewTrans = div({"clearfix": true, "fill": false, "center": false, "border": false, "clip": true});
             $ctrlWrap = div({"for": "control"});
             this.ctrl = new PlayControl($ctrlWrap, this.interval,
                                         function () {me.prev(); },
-                                        function () {me.next(); });
+                                        function () {me.next(); },
+                                        function () {me.toHome(); }
+                                       );
 
             $vwWrap = div({"center": false});
             this.$view = this.newView();
@@ -721,28 +821,13 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
             $lblWrap.append(this.$lbl);
 
             this.$album.html('').append($vwWrap).append($ctrlWrap).append($lblWrap);
-        }
-        PlayRenderStrategy.prototype.newView = function (imgurl) {
-            var $vw = div({"for" : "view"});
-            $vw.width(this.viewWidth).height(this.viewHeight);
-            if (!isEmpty(imgurl)) {
-                $vw.css("background-image", "url('" + imgurl + "')");
-            }
-            return $vw;
-        };
-        PlayRenderStrategy.prototype.drawAlbumList = function (aListData) {
-            this.$view.html('todo support albumlist drawing in play control...');
-        };
-        PlayRenderStrategy.prototype.drawPhotoList = function (pListData) {
-            if (isEmpty(pListData)) {
-                return;
-            }
 
             this.$view.html('');
             this.content = pListData;
             this.size = pListData.length;
             this.ctrl.restart();
         };
+
         PlayRenderStrategy.prototype.show = function () {
             if (isEmpty(this.content)) {return; }
             var img = this.content[this.index],
@@ -858,53 +943,11 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
      */
     (function () {
         function BrowserRenderStrategy(gpAlbum) {
-            this.gpAlbum = gpAlbum;
             this.$elm = gpAlbum.$album;
-            this.$elm.addClass("vd-group-list vd-group-grid");
             this.$elm.css("overflow", "auto");
         }
-
-        BrowserRenderStrategy.prototype.drawAlbumList = function (albSet, matchIds, matchIdsByName) {
-            var me = this, currentYear;
-            this.$elm.html(''); // clear all
-            //this.$elm.html('<pre>albs ==> \n' + JSON.stringify(albSet) + '\n' + JSON.stringify(matchIdsByName) + '</pre>');
-
-            Object.keys(matchIdsByName).sort().reverse().forEach(function (albname) {
-                var albid = matchIdsByName[albname],
-                    alb = albSet[albid],
-                    albyear = Number(albname.slice(0, 4)),
-                    albdate = albname.slice(0, 10),
-                    albtext = albname.slice(11),
-                    albsize = alb.numpics,
-                    albpic  = alb.thumbnail,
-                    html,
-                    $albView;
-
-                if (isNaN(albyear)) {
-                    albyear = "****"; //TODO - translate?
-                }
-
-                if (albyear !== currentYear) {
-                    me.$elm.append('<div class="col-lg-12 clearfix vd-group-section-head">' + albyear + '</div>');
-                    currentYear = albyear;
-                }
-
-                //$albView = $('<div class="vd-alb col-lg-3 col-md-4 col-sm-6 col-xs-12">' + JSON.stringify(alb) + '<div>');
-
-                html = '<div class="vd-group-item vd-group-pics-item col-lg-3 col-md-4 col-sm-6 col-xs-12">'
-                     + '  <div class="vd-group-item-inner" style="background-image: url(\'' + albpic  + '\');">'
-                     + '    <div class="vd-group-content"><div class="vd-group-content-inner">'
-                     + '      <div class="vd-group-title">' + albtext + '</div>'
-                     + '      <div class="vd-group-caption"><span class="glyphicon glyphicon-map-calendar"></span>' + albdate + '</div>'
-                     + '      <div class="vd-group-info">(' + albsize  + ')</div>'
-                     + '    </div></div>'
-                     + '  </div>'
-                     + '</div>';
-                $albView = $(html).click(function () {
-                    this.gpAlbum.showAlbum(albid);
-                });
-                me.$elm.append($albView);
-            });
+        BrowserRenderStrategy.prototype.drawAlbumList = function (aListData) {
+            this.$elm.html('<pre>albs ==> \n' + JSON.stringify(aListData) + '</pre>');
         };
         BrowserRenderStrategy.prototype.drawPhotoList = function (pListData) {
             var html = "";
