@@ -1,6 +1,18 @@
 TODO
 ====
 
+/pics todo
+
+- timing autoplay loopt fout --> stop player/controller/interval wanneer de tohome wordt gekozem!
+- icoontje kalender bij witte overlay mag weg
+- af en toe ontbreekt er een stuk hoofd als de foto's te hoog komen en/of staat de 'foto-afspeler' in de weg. Kan foto-afspeler boven de foto's gezet worden? 
+- knop foto-archief mettekst (vertaald) zoals op landingspagina (is wellicht toch nog duidelijker dan het kodakicoontje)?
+- herinner scroll-positie als je terugkomt --> msch best door playlist-div en player-div niet de hele tijd weg te gooien, maar te behouden en te disable/enablen?
+- titels van albums moeten nog vertaalbaar worden via description blok!
+- vanuit tijdslijn 1967-1985 klikken naar het betreffende album
+
+
+
 - vormgeving foto's in nieuwsartikel anders -->  groter en bladerbaar!
 
 - later accordeon hernemen
