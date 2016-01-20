@@ -565,6 +565,7 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
 
             this.$elm.html(html);
         };
+        EchoRenderStrategy.prototype.hashNavigable = true;
         GpAlbumViewer.RenderStrategy.echo = EchoRenderStrategy;
     }());
 
@@ -629,7 +630,7 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
         };
         PlayControl.prototype.prev = function () { this.fn.prev(); };
         PlayControl.prototype.next = function () { this.fn.next(); };
-        PlayControl.prototype.up   = function () { this.fn.up();   };
+        PlayControl.prototype.up   = function () { this.stop(); this.fn.up();   };
 
         function div(cfg) {
             cfg = cfg || {};
@@ -697,6 +698,9 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
         function PlayRenderStrategy(gpAlbum) {
             var me = this;
 
+            this.lang = $('html').attr('lang');
+
+
             this.toHome = function () {
                 if (gpAlbum.matchingAlbumIds.length > 1) {
                     gpAlbum.showAlbList();
@@ -739,6 +743,15 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
             return $vw;
         };
 
+        function parseLangDescription(multilang) {
+            return multilang.split('\n').reduce(function (res, line) {
+                var parts = line.split(':'), lang, txt;
+                if (parts.length === 2) {
+                    res[parts[0].trim().toLowerCase()] = parts[1].trim();
+                }
+                return res;
+            }, {});
+        }
 
         PlayRenderStrategy.prototype.drawAlbumList = function (albSet, matchIds, matchIdsByName) {
             var me = this, currentYear;
@@ -754,6 +767,7 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
                     albyear = Number(albname.slice(0, 4)),
                     albdate = albname.slice(0, 10),
                     albtext = albname.slice(11),
+                    albtransl = parseLangDescription(alb.description),
                     albsize = alb.numpics,
                     albpic  = alb.thumbnail,
                     html,
@@ -765,8 +779,10 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
 
                 if (albdate.slice(4, 7) === '-00' || albdate.slice(7) === '-00') {
                     albdate = "";
-                } else {
-                    albdate = '<span class="glyphicon glyphicon-calendar"></span> ' + albdate;
+                }
+
+                if (!isEmpty(albtransl[me.lang])) {
+                    albtext = albtransl[me.lang];
                 }
 
                 if (albyear !== currentYear) {
@@ -933,37 +949,6 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
             }
         };
         GpAlbumViewer.RenderStrategy.strip = StripRenderStrategy;
-    }());
-
-
-
-    /*
-     *   render strategy 'browser' : for debugging
-     *   ------------------------------------------------------------------
-     */
-    (function () {
-        function BrowserRenderStrategy(gpAlbum) {
-            this.$elm = gpAlbum.$album;
-            this.$elm.css("overflow", "auto");
-        }
-        BrowserRenderStrategy.prototype.drawAlbumList = function (aListData) {
-            this.$elm.html('<pre>albs ==> \n' + JSON.stringify(aListData) + '</pre>');
-        };
-        BrowserRenderStrategy.prototype.drawPhotoList = function (pListData) {
-            var html = "";
-            html += '<pre>imgs ==> \n';
-            html += '\turl\t\t\t\t\t\t\t\t\t\t\t\t==>\tlbl\n';
-            pListData.forEach(function (item, ndx) {
-                var imgurl = item.content,
-                    imglbl = (isEmpty(item.caption)) ? "" : item.caption;
-                html += '\t' + imgurl + '"\t==>\t"' + imglbl + '"\n';
-            });
-            html += '</pre>';
-
-            this.$elm.html(html);
-        };
-        BrowserRenderStrategy.prototype.hashNavigable = true;
-        GpAlbumViewer.RenderStrategy.browser = BrowserRenderStrategy;
     }());
 
 

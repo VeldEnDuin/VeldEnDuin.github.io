@@ -15,6 +15,8 @@ TODO
 
 - vormgeving foto's in nieuwsartikel anders -->  groter en bladerbaar!
 
+- vormgeving foto's in nieuws-archive overzicht rechterkant --> forceer hoogte zodat ze gelijk lopen!
+
 - later accordeon hernemen
     - vertikale tekst
     - variabel aantal slides

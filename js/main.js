@@ -557,7 +557,8 @@
                 "albumspec": albumspec,
                 "render": render,
                 "dimensions": dims,
-                "thumbsize": thumbsize
+                "thumbsize": thumbsize,
+                "labels": TRANSL
             })[0];
         });
     });
