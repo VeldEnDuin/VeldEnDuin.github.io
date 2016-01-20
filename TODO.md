@@ -1,10 +1,5 @@
 TODO
 ====
-- Fix -1 : tijdslijn
-  - zodra beschikbaar link naar /pics album
-  - eventueel custom scroll-bar styling voor imgstrip
-- Fix -2 : fotos (nog zonder pics)
-  - strip - hoofdalbum - cacheerror
 
 - vormgeving foto's in nieuwsartikel anders -->  groter en bladerbaar!
 
@@ -15,6 +10,14 @@ TODO
     - terug activeren met prelude: 
         insert:
             - level3-accordeon
+            
+    ik heb gevonden hoe ik tekst kan laten draaien
+    https://css-tricks.com/snippets/css/text-rotation/
+
+    mogelijks kan ik dat makkelijk combineren met een groenig-transparante achtergrond die samen over de foto gaat liggen in 'dichtgeklapte'  toestand
+    en die dan ook kantelt naar horizontaal als je over de accordeon komt...
+
+
     
 - imgstrip size calculator ==> nu 200%, zou moeten gereduceerd worden door script zodat de scrollbar niet eindeloos blijft lopen (dus start 1000%, check height as parent, grab width --> set width)
   * op de tijdlijn --> scroll beter afgemeten
@@ -62,11 +65,70 @@ TODO
             -ms-hyphens: auto;
             hyphens: auto;
         }
-  
+
+
+
+
+LIJSTJE ELS
+
+•inlassen plan: hoe? Kunnen wij dat zelf of te programmeren?
+    • plan Brecht (pdf – mogelijk?) bij doorklik nieuw project
+    • plan Joke bij verschillende verhuurtypes overnachtenpagina
+    • bij praktisch
+
+• onze troeven herwerken volgens voorstel Joke (accordeon met filter over voor meer samenhang)
+
+• links site:
+    ◦ vanuit 'doen' opent er een nieuw tabblad
+    ◦ externe links openen in zelfde tabblad – minder goed, kan daar iets aan gedaan worden  --> vb deelnameformulier wedstrijd, NMBS
+
+• facebook melding rechts die meeloopt
+
+• kolommen uitlijnen thv stippen (niet zo ver laten inspringen)
+
+• kolommen: bij inventaris hoofdding weg
+
+• uitlijnen (prioriteit laag)
+
+• herhaling foto's van imagestrips
+
+• foto's oude doos: zijn opgeladen. Hoe zichtbaar: bezoekers gaan via 'klik hier' naar een onderdeel van de google pics?
+
+• icoon google-plus: zinvol? Huidige googlepluspagina niet echt een meerwaarde / niet actueel.
+
+• Landingspagina 'schrijf in op onze nieuwsbrief': moet daar nog iets voor gebeuren of werkt dit zodra de site live staat?
+
+• Voorzieningen: achtergrondbeeld er meer laten doorkomen – nu teveel witgrijze vlakte
+
+• Voorzieningen: icoontjes mogelijk / beter in lichtste kleur groen?
+
+• Smartphone: foto's voorzieningen bovenaan gezet – idd visueler maar veel (sub)menu's vooraleer je tekst ziet.  Andere oplossingen / mogelijkheden?
+
+• Pics: hoe integreren in site:
+    ◦ link vanop animatie (meeste foto's gaan daarover)
+    ◦ aparte tab?
+    ◦ Andere oplossing dan link?
+
+• Posts: mogelijk om foto's hiervan bovenaan te zetten?
+
+• Imagestrips:
+    • posts: subtiele slider voorzien
+    • tijdslijn: slider laten stoppen aan laaste foto (idem posts – geen wit meer na laaste foto)
+    • imgstrip rest pagina's inkorten tot laatste foto (geen witte band meer zichtbaar)
+
+• Mobiele telefoon
+    • als er kolommen zijn, worden die volledig getoond maar blijft de tekst smaller aangeduid (vb overnachten – appartementen)
+    • tijdslijn: sliden is mogelijk maar er is geen aanduiding dat die mogelijkheid ook bestaat
+    • 'onze troeven': er wordt maar een selectie van de troeven weergegeven wat niet ok is voor de wedstrijd (Mont Blanc wordt niet steeds getoond)
+    • 'onze troeven': bij refresh pagina (wissel van afbeelding troeven) ga je automatisch terug naar boven met vermelding van de submenu's
+    • menu en submenu komen telkens bovenaan te staan – zinvol maar het betekent ook veel scrollen voor je iets van de site te zien krijgt – mogelijk via dropbox of melding onderaan (cfr Centerparcs)
+
+
 - infomuur ?!
   - weerbericht
   - prentjes van recente albums
   - info-slides
+
 
 
 - print.css elementen! (doet bootstrap al iets?)
