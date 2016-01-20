@@ -15,6 +15,9 @@ preview:
 images:
     - /img/overnachten/residentieel-type2/restyp2-01.jpg
     
+insert:
+    - page-images-top
+    
 ---
 
 {% include links.md %}

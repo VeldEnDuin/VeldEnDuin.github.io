@@ -10,7 +10,7 @@ images:
     - /img/voorzieningen/internet/internet-04.jpg
 
 insert:
-    - page-images-bottom
+    - page-images-top
     
 remove:
     - imgstrip

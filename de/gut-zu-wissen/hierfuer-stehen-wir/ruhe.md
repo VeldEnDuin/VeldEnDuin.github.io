@@ -9,7 +9,7 @@ images:
     - /img/hierstaanwevoor/rust/rust-04.jpg
 
 insert:
-    - page-images-bottom
+    - page-images-top
 
 remove:
     - imgstrip

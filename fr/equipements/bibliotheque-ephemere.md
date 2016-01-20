@@ -10,8 +10,7 @@ images:
     - /img/voorzieningen/popupbib/bib-04.jpg
 
 insert:
-    - page-images-bottom
-
+    - page-images-top
 remove:
     - imgstrip
     

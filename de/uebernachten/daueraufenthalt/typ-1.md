@@ -13,6 +13,10 @@ preview:
                
 images:
     - /img/overnachten/residentieel-type4/restyp4-01.jpg
+    
+insert:
+    - page-images-top
+
 ---
 
 {% include links.md %}

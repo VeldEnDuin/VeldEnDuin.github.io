@@ -14,6 +14,9 @@ preview:
 images:
     - /img/overnachten/arrangementen-7plus1/arr7plus1-01.jpg
     
+insert:
+    - page-images-top
+    
 ---
 
 {% include links.md %}
