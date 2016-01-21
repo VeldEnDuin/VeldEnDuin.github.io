@@ -12,7 +12,7 @@ images:
     - /img/hierstaanwevoor/fietsvriendelijk/fietsvr-04.jpg
 
 insert:
-    - page-images-bottom
+    - page-images-top
     
 remove:
     - imgstrip

@@ -5,7 +5,7 @@ tcs: [1,2,3,5,6,9]
 {% include layout-prelude.html %}
 
 
-<html>
+<html lang="{{ pgLang }}">
   <head>
     <meta charset="utf-8">
 
@@ -171,7 +171,7 @@ tcs: [1,2,3,5,6,9]
     <!-- using version 2.2.2 retrieved from cdn -->
     <script type="text/javascript" src="/js/isotope.pkgd.min.js"></script>
 
-    <script type="text/javascript" src="/js/jquery.gpAlbum.js"></script>
+    <script type="text/javascript" src="/js/jquery.gpAlbumViewer.js"></script>
     <script type="text/javascript" src="/js/main.js"></script>
 
     {% for jscript in page.extrajs %}

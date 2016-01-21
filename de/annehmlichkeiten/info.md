@@ -11,7 +11,7 @@ images:
     
 
 insert:
-    - page-images-bottom
+    - page-images-top
     
 remove:
     - imgstrip

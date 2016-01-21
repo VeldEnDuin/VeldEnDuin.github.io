@@ -19,6 +19,11 @@ news:
     fr:  /fr/actualite.html
     en:  /en/news.html
     de:  /de/aktuelles.html
+pics:
+    nl:  /nl/pics.html
+    fr:  /fr/pics.html
+    en:  /en/pics.html
+    de:  /de/pics.html
 
 # [1] menu - goed om weten
 onze_troeven:
