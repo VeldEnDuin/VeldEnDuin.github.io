@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Foto Selectie
-
+title: Sélection de Photos
+insert:
+    - play-album
 remove:
     - socialshare
     - imgstrip
-
-insert:
-    - play-album
 ---
