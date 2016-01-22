@@ -27,6 +27,7 @@ An Freitagen in der Hochsaison gibt es ein abwechslungsreiches Animationsprogram
 
 Jedes Jahr schließen wir mit einem gemütlichen Glühweinabend ab. Bei warmen Getränken und einem Snack erinnern wir uns ans abgelaufene Jahr und wagen einen Ausblick in die nächste Saison.
 
+[Fotoarchiv Animation Veld & Duin][fotos.de]
 
 ## Kalender Veld & Duin
 
