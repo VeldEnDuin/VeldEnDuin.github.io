@@ -47,7 +47,7 @@ fr:
         all: tout
         latestnews: Actualité récente
         newsarchive: Archives
-        picsarchive: "Photo d' Archive"
+        picsarchive: Archive Photographique
         mapxl: Agrandir le plan
         virttour:
             - Balade
@@ -58,7 +58,7 @@ fr:
         share: Partager cette info
         close: fermer
         search: Chercher
-        callout: Si vous souhaitez réserver un séjour ou obtenir un complètement d'information, veuillez complétez le formulaire de réservation.
+        callout: Si vous souhaitez réserver un séjour ou obtenir un complètement d❜information, veuillez complétez le formulaire de réservation.
         resa_action: Reservatie Aanvraag
         resa_formwait: Formulaire de réservation en cours de chargement ... (veuillez patienter)
         mailchimp: Abonnez-vous à notre bulletin d’information
