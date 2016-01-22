@@ -574,7 +574,8 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
      *   ------------------------------------------------------------------
      */
     (function () {
-        function PlayControl($container, time, fnPrev, fnNext, fnUp) {
+        function PlayControl($container, time, labels, fnPrev, fnNext, fnUp) {
+            labels = labels || {};
             var $grp, me = this;
 
             this.fn = {"prev": fnPrev, "next": fnNext, "up": fnUp};
@@ -585,6 +586,9 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
             this.$play = $(PlayControl.BTN).html(PlayControl.PWSEGLYPH).click(function () {me.playtoggle(); });
             this.$next = $(PlayControl.BTN).html(PlayControl.FRWDGLYPH).click(function () {me.next(); });
             this.$up   = $(PlayControl.BTN).html(PlayControl.PICTGLYPH).click(function () {me.up(); });
+            if (labels.dict.picsarchive) {
+                this.$up.append(' ' + labels.dict.picsarchive);
+            }
             $grp = $(PlayControl.BTNGRP)
                 .append(this.$prev).append(this.$up)
                 .append(this.$play).append(this.$next);
@@ -696,16 +700,16 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
         }
 
         function PlayRenderStrategy(gpAlbum) {
-            var me = this;
+            var me = this, uplink = gpAlbum.config.uplink || "/pics/";
 
             this.lang = $('html').attr('lang');
-
+            this.labels = gpAlbum.config.labels;
 
             this.toHome = function () {
                 if (gpAlbum.matchingAlbumIds.length > 1) {
                     gpAlbum.showAlbList();
                 } else {
-                    window.location = "pics.html";
+                    window.location = uplink;
                 }
             };
 
@@ -786,7 +790,7 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
                 }
 
                 if (albyear !== currentYear) {
-                    me.$album.append('<div class="vd-group-date col-lg-12 clearfix vd-group-section-head"><span class="year">' + albyear + '</span></div>');
+                    me.$album.append('<div class="vd-group-date col-xs-12 clearfix vd-group-section-head"><span class="year">' + albyear + '</span></div>');
                     currentYear = albyear;
                 }
 
@@ -819,7 +823,7 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
             this.$album.html('');
             this.$viewTrans = div({"clearfix": true, "fill": false, "center": false, "border": false, "clip": true});
             $ctrlWrap = div({"for": "control"});
-            this.ctrl = new PlayControl($ctrlWrap, this.interval,
+            this.ctrl = new PlayControl($ctrlWrap, this.interval, this.labels,
                                         function () {me.prev(); },
                                         function () {me.next(); },
                                         function () {me.toHome(); }
