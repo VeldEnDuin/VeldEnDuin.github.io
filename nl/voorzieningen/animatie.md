@@ -27,7 +27,7 @@ Op vrijdagen in het hoogseizoen voorzien we een gevarieerd animatieprogramma. We
 
 Het jaar wordt afgesloten met een gezellige glühweinavond. Onder het genot van een glaasje en versnapering halen we herinneringen op en kijk we al uit naar het volgend seizoen.
 
-[Fotoarchief animatie Veld & Duin][fotos.nl]
+[Fotoarchief animatie Veld & Duin][pics.nl]
 
 
 ##Kalender Veld & Duin

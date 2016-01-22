@@ -27,7 +27,7 @@ Chaque vendredi en haute saison, nous vous proposons un programme d’animations
 
 Pour clôturer l’année en beauté, nous organisons une soirée vin chaud. Réunis autour d’un bon verre et de quelques gourmandises, nous évoquons les souvenirs de l’année écoulée et dressons un aperçu de la saison prochaine.
 
-[Archive photographique animations Veld & Duin][fotos.fr]
+[Archive photographique animations Veld & Duin][pics.fr]
 
 ##Calendrier Veld & Duin
 
