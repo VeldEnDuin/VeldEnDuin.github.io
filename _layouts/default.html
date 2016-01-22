@@ -26,7 +26,7 @@ tcs: [1,2,3,5,6,9]
     <link rel="icon" type="image/png" href="/img/style/veldenduin-ico-48.png">
 
   </head>
-  <body data-translations='{{site.data.langs[pgLang] | jsonify}}'>
+  <body data-translations='{{ site.data.langs[pgLang] | jsonify }}'>
     <header {%unless page.insert contains 'banner'%}class="spaced"{%endunless%}>
       <nav class="navbar navbar-default navbar-inverse">
         <div class="vd-menu"><div class="container-fluid">
