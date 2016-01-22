@@ -17,8 +17,6 @@
 {% endif %}
 
 <div id="album" class="vd-album"
-     data-album='{"gp-id": {{site["gp-id"] | jsonify }}, "album-spec": {{albid | jsonify}}, "render": {{albrender | jsonify}}, "thumbsize": {{albthumbsize | jsonify}}, "uplink": {{ site.data.linkcode.pics[pgLang] }} }'>
-    album-player loading...
-    !HANDLE UP-LINK TO ARCHIVE (in this language)
-    !HANDLE INSERTED LANGUAGE LABELS
+     data-album='{"gp-id": {{site["gp-id"] | jsonify }}, "album-spec": {{albid | jsonify}}, "render": {{albrender | jsonify}}, "thumbsize": {{albthumbsize | jsonify}}, "uplink": {{ site.data.linkcode.pics[pgLang]| jsonify }} }'>
+    album(s) loading...
 </div>
