@@ -542,7 +542,7 @@
     $(function () {
 
         $('.vd-album').each(function () {
-            var data, gpid, albumspec, render, vwr, dims, thumbsize,
+            var data, gpid, albumspec, render, vwr, dims, thumbsize, uplink,
                 $album = $(this);
 
             data = $album.data('album');
@@ -551,6 +551,7 @@
             render = data.render || "play";
             dims = data.dimensions;
             thumbsize = data.thumbsize || 100;
+            uplink = data.uplink || "/pics";
 
             vwr = $album.gpAlbumViewer({
                 "account": gpid,
@@ -558,6 +559,7 @@
                 "render": render,
                 "dimensions": dims,
                 "thumbsize": thumbsize,
+                "uplink": uplink,
                 "labels": TRANSL
             })[0];
         });

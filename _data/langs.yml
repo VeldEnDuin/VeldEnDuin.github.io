@@ -9,7 +9,7 @@ nl:
         all: alle
         latestnews: Laatste Nieuws
         newsarchive: Archief
-        picsarchive: Foto-Archief
+        picsarchive: Foto Archief
         mapxl: Grotere kaart weergeven
         virttour:
             - Virtuele
@@ -47,6 +47,7 @@ fr:
         all: tout
         latestnews: Actualité récente
         newsarchive: Archives
+        picsarchive: "Photo d' Archive"
         mapxl: Agrandir le plan
         virttour:
             - Balade
@@ -84,6 +85,7 @@ de:
         all: alle
         latestnews: Aktuelle Nachrichten
         newsarchive: Archiv
+        picsarchive: "Fotoarchiv"
         mapxl: Karte größer anzeigen
         virttour:
             - Virtueller
@@ -120,6 +122,7 @@ en:
     dict:
         all: All
         news: News
+        picsarchive: "Photo Archive"
         mapxl: View Larger Map
         virttour:
             - Virtual

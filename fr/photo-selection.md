@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fotos
+title: Sélection de Photos
 insert:
     - play-album
 remove:

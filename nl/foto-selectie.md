@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Foto's
+title: Foto Selectie
 
 remove:
     - socialshare
