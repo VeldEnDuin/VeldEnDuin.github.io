@@ -464,6 +464,10 @@ table.table>tbody>tr>td:first-child
     color: #8fb742;
 }
 
+.vd-group-pics-item:hover {
+    cursor: pointer;
+}
+
 
 .vd-group-timeline-item .vd-group-item-inner {
     padding: 2em;
