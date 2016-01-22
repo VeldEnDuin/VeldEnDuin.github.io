@@ -194,10 +194,10 @@ items:
     de: Afro C Festival
     en: Afro C Festival
   caption:
-    nl: gratis wereldmuziekfestival - Bredene - 7+8/8
-    fr: Festival gratuit de musique du monde – Bredene – 7+8/8
-    de: Weltmusikfestival mit kostenlosem Eintritt – Bredene – 7. und 8.8.
-    en: ''
+    nl: gratis wereldmuziekfestival - Bredene - 12-13/8
+    fr: Festival gratuit de musique du monde – Bredene – 12-13/8
+    de: Weltmusikfestival mit kostenlosem Eintritt – Bredene – 12. und 13.8.
+    en: Free World Music Festival - Bredene - 12-13/8
 - ranking: 170
   location: 51.252213, 2.974759
   subgroups:
@@ -205,20 +205,16 @@ items:
   images:
   - "/img/doen/bre-gardens.jpg"
   link:
-    nl: ''
-    fr: ''
-    de: ''
-    en: ''
   title:
     nl: Gardens of Bredene
     fr: Gardens of Bredene
     de: Gardens of Bredene
     en: Gardens of Bredene
   caption:
-    nl: parkfeest 't Paelsteenveld - Bredene - 29/8
-    fr: fête dans le parc ‘t Paelsteenveld – Bredene – 29/8
-    de: Parkfest 't Paelsteenveld – Bredene – 29.8.
-    en: ''
+    nl: parkfeest 't Paelsteenveld - Bredene - 27/8
+    fr: fête dans le parc ‘t Paelsteenveld – Bredene – 27/8
+    de: Parkfest 't Paelsteenveld – Bredene – 27.8.
+    en: Festival in the park - 't Paelsteenveld - Bredene - 27/8
 - ranking: 230
   location: 51.231234, 2.913555
   subgroups:
@@ -236,10 +232,10 @@ items:
     de: Theater aan Zee
     en: Theater aan Zee
   caption:
-    nl: theaterfestival - Oostende - 30/7-8/8
-    fr: festival de théâtre – Ostende – 30/7-8/8
-    de: Theaterfestival – Ostende – 30.7. bis 8.8.
-    en: ''
+    nl: theaterfestival - Oostende - 28/7-6/8
+    fr: festival de théâtre – Ostende – 28/7-6/8
+    de: Theaterfestival – Ostende – 28.7. bis 6.8.
+    en: Theater festival - Ostend - 28/7-6/8
 - ranking: 100
   location: 51.278736, 3.034791
   subgroups:
@@ -257,9 +253,9 @@ items:
     de: Trammelant
     en: Trammelant
   caption:
-    nl: Belle Epoquefeest - De Haan
-    fr: fête sous le thème de la Belle Époque – Le Coq
-    de: Belle-Epoque-Fest – De Haan
+    nl: Belle Epoquefeest - De Haan - 6/8
+    fr: fête sous le thème de la Belle Époque – Le Coq - 6/8
+    de: Belle-Epoque-Fest – De Haan 6/8
     en: ''
 - ranking: 290
   location: 51.315091, 3.131080
@@ -278,10 +274,10 @@ items:
     de: Blumenkorso
     en: ''
   caption:
-    nl: bloemenstoet - Blankenberge - 30/8/2015
-    fr: cortège de chars fleuris – Blankenberge – 30/8/2015
-    de: Blumenumzug – Blankenberge – 30.9.2015
-    en: ''
+    nl: bloemenstoet - Blankenberge - 28/8
+    fr: cortège de chars fleuris – Blankenberge – 28/8
+    de: Blumenumzug – Blankenberge – 28.9.
+    en: Flower Parade - Blankenberge - 28/9
 - ranking: 240
   location: 51.318481, 3.146007
   subgroups:
@@ -437,10 +433,6 @@ items:
   images:
   - "/img/doen/bre-strand.jpg"
   link:
-    nl: ''
-    fr: ''
-    de: ''
-    en: ''
   title:
     nl: Strand en Zee
     fr: Plage et mer
@@ -479,10 +471,6 @@ items:
   images:
   - "/img/doen/bre-duinen.jpg"
   link:
-    nl: ''
-    fr: ''
-    de: ''
-    en: ''
   title:
     nl: duinengordel Bredene
     fr: ceinture de dune de Bredene
@@ -582,10 +570,6 @@ items:
   images:
   - "/img/doen/blan-pier.jpeg"
   link:
-    nl: ''
-    fr: ''
-    de: ''
-    en: ''
   title:
     nl: pier Blankenberge
     fr: jetée de Blankenberge
@@ -934,10 +918,6 @@ items:
   images:
   - "/img/doen/ost-dijk.jpg"
   link:
-    nl: "/"
-    fr: ''
-    de: ''
-    en: ''
   title:
     nl: zeedijk Oostende
     fr: digue d’Ostende
@@ -1121,10 +1101,6 @@ items:
   images:
   - "/img/doen/bungee.jpg"
   link:
-    nl:
-    fr:
-    de:
-    en:
   title:
     nl: Bungee jumpen
     fr: Saut à l’élastique
