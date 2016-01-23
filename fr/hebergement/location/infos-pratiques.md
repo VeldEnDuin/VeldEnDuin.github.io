@@ -22,7 +22,7 @@ Si vous souhaitez arriver en dehors des heures d’ouverture de la réception, v
 
 ## Inventaire
 
-Inventaire séjour      |             |               |              |
+         |             |               |              |
 :---------------------:|:-----------:|:-------------:|:------------:
 Verres à bière/vin/eau |couverts pour enfants | casseroles     | brosse                              
 assiettes              |économe            | poêles            |ouvre-bouteille
