@@ -92,9 +92,12 @@ items:
       de: "Die Anfangsjahre von Veld & Duin"
       en: ''
     description:
-      nl: "Klik hier voor een hele reeks sfeerfoto's uit de jaren '70 en '80."
-      fr: "Cliquez ici pour découvrir des photos vous plongeant dans l'ambiance des années 70 et 80"
-      de: "Klicken Sie hier für eine lange Reihe von Stimmungsfotos aus den 70er und 80er Jahren"
+      nl: >
+          Klik hier voor een hele reeks <a href='/nl/foto-archief.html#!1967-00-00 Periode 1967 - 1985'>sfeerfoto's uit de jaren '70 en '80.</a>
+      fr: >
+          Cliquez ici pour découvrir des <a href='/fr/archive-photographique.html#!1967-00-00 Periode 1967 - 1985'>photos vous plongeant dans l'ambiance des années 70 et 80.</a>
+      de: >
+          Klicken Sie hier für eine lange Reihe von <a href='/de/fotoarchiv.html#!1967-00-00 Periode 1967 - 1985'>Stimmungsfotos aus den 70er und 80er Jahren.</a>
       en: ''
     images:
       - /img/tijdslijn/1967-1985/tussenjaren.jpg
