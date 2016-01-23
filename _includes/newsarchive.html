@@ -43,8 +43,8 @@
     {% assign ln = parts[1] %}
     {% if ln == pgLang %}
         {% if pst.images.size > 0 %}
-  <a href="{{pst.url}}"><div class="col-lg-6 col-md-12">
-    <img src="{{pst.images[0]}}" class="img-thumbnail img-responsive"></div></a>
+  <a href="{{pst.url}}"><div class="col-lg-6 col-md-12 vd-bottom-space">
+    <img src="{{pst.images[0]}}" class="img-thumbnail img-responsive img-crop"></div></a>
         {% endif %}
     {% endif %}
 {% endfor %}
