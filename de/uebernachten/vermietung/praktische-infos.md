@@ -22,7 +22,7 @@ Möchten Sie außerhalb der Öffnungszeiten der Rezeption anreisen? Das ist mög
 
 ## Inventar
 
-Inventar Unterkunft    |             |               |            |  
+                       |             |               |            |  
 :---------------------:|:-----------:|:-------------:|:------------:
 Bier-, Wein-, Wassergläser  |Kinderbesteck |Kochtöpfe|Bürste                              
 Teller                 |Gemüsemesser |Pfannen        |Bodenabzieher
