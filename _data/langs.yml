@@ -42,7 +42,7 @@ fr:
     months: ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"]
     id:
         cx: 012964731216503545400:onwjrjqskq8
-        resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
+        resa-form: 1bwXpxs1BfAA0-fvCFty2bFR5rYWdNkq_8BkGERuDyiQ
     dict:
         all: tout
         latestnews: Actualité récente
@@ -80,7 +80,7 @@ de:
     months: ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"]
     id:
         cx: 012964731216503545400:onwjrjqskq8
-        resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
+        resa-form: 1yOaMwa-1NtjfF-YkaYJLWCBXmAiqRC2pQ9-rtAw1gJc
     dict:
         all: alle
         latestnews: Aktuelle Nachrichten
@@ -118,7 +118,7 @@ en:
     months: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
     id:
         cx: 012964731216503545400:7thummrhqau
-        resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
+        resa-form: 1pvMPrqvG0DcFYuBKokIJ9_gKitbaJN6GWbOn9S4EJVA
     dict:
         all: All
         news: News
