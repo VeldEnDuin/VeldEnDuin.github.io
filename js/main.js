@@ -124,6 +124,13 @@
         });
 
         /*
+         * Make external links go _blank
+         * =======================================================================
+         */
+        $content.find("a[href^='http']").attr('target', '_blank');
+
+
+        /*
          * make first header in the content stand out
          * =======================================================================
          */
@@ -151,7 +158,24 @@
                 $btnOff.click(hideForm);
             }
         }());
+
+
+        /*
+         * make 404 adapt to language
+         * =======================================================================
+         */
+        (function () {
+            var lang = "nl", paths = window.location.pathname.split('/');
+            if (document.title.indexOf("404") === 0) {
+                if (paths.length > 2 && paths[1].length === 2) {
+                    lang = paths[1];
+                }
+                $("a.navbar-brand").attr("href", "/" + lang + "/");
+                $content.append("todo specific content for lang = " + lang);
+            }
+        }());
     });
+
 
     /*
      * Build up the group page 'doen'
@@ -533,6 +557,14 @@
             $tbls = $content.find('table');
 
         $tbls.addClass('table table-hovered');
+        $tbls.each(function () {
+            var $tbl = $(this),
+                $thd = $('thead', $tbl);
+
+            if ($thd.text().trim() === "") {
+                $thd.remove();
+            }
+        });
     });
 
     /*
