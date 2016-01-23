@@ -3,6 +3,12 @@ class:
   list: "vd-group-tagcloud row"
 items:
   - title:
+      nl: "met zicht op de Mont Blanc"
+      fr: "vue sur le mont Blanc"
+      de: "mit Blick auf den Mont Blanc"
+      en: ''
+
+  - title:
       nl: "hele jaar open"
       fr: "ouvert toute l’année"
       de: "das ganze Jahr geöffnet"
@@ -114,12 +120,6 @@ items:
       nl: "technische know-how"
       fr: "expertise technique"
       de: "technisches Know-how"
-      en: ''
-
-  - title:
-      nl: "met zicht op de Mont Blanc"
-      fr: "vue sur le mont Blanc"
-      de: "mit Blick auf den Mont Blanc"
       en: ''
 
   - title:
