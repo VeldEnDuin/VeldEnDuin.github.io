@@ -292,13 +292,18 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
         $.getJSON(this.getAPIUri('photo', albid), function (response) {
             var data = {};
             data.photoList = [];
+            data.photoSet = {};
 
             response.feed.entry.forEach(function (pItem) {
-                data.photoList.push({
+                var pic = {
+                    "id"       : pItem.gphoto$id.$t,
                     "content"  : pItem.media$group.media$content[0].url,
                     "thumbnail": pItem.media$group.media$thumbnail[0].url,
-                    "caption"  : pItem.media$group.media$description.$t
-                });
+                    "caption"  : pItem.media$group.media$description.$t,
+                    "index"    : data.photoList.length
+                };
+                data.photoList.push(pic);
+                data.photoSet[pic.id] = pic;
             });
 
             data.lastmodified = moment().valueOf();
@@ -471,6 +476,9 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
             picid = initViewState.picid;
 
             if (albid) {
+                if (me.matchingAlbumIdsByName.hasOwnProperty(albid)) {
+                    albid = me.matchingAlbumIdsByName[albid];
+                }
                 me.loadAlbum(albid, function () {
                     if (picid) {
                         me.showPicture(albid, picid);
@@ -503,6 +511,8 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
         if (isEmpty(alb.photoList)) {
             this.gallery.getPictureList(albid, function (piclist) {
                 alb.photoList = piclist.photoList;
+                alb.photoSet = piclist.photoSet;
+                alb.photoSet = piclist.photoSet;
                 cb();
             });
         } else {
@@ -525,12 +535,14 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
 
     GpAlbumViewer.prototype.showAlbum = function (albid) {
         this.setViewState(new ViewState(albid));
-        this.renderer.drawPhotoList(this.albListFull.albumSet[albid].photoList);
+        this.renderer.drawPhotoList(albid, this.albListFull.albumSet[albid].photoList);
     };
 
     GpAlbumViewer.prototype.showPicture = function (albid, picid) {
-        //setview state
-        //render
+        this.setViewState(new ViewState(albid, picid));
+        // find photoIndex
+        var index = this.albListFull.albumSet[albid].photoSet[picid].index;
+        this.renderer.drawPhotoList(albid, this.albListFull.albumSet[albid].photoList, index);
     };
 
 
@@ -552,7 +564,7 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
         EchoRenderStrategy.prototype.drawAlbumList = function (aListData) {
             this.$elm.html('<pre>albs ==> \n' + JSON.stringify(aListData) + '</pre>');
         };
-        EchoRenderStrategy.prototype.drawPhotoList = function (pListData) {
+        EchoRenderStrategy.prototype.drawPhotoList = function (albid, pListData) {
             var html = "";
             html += '<pre>imgs ==> \n';
             html += '\turl\t\t\t\t\t\t\t\t\t\t\t\t==>\tlbl\n';
@@ -719,6 +731,9 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
             this.toPic = function (albid, picid) {
                 gpAlbum.showPicture(albid, picid);
             };
+            this.updateViewState = function (albid, picid) {
+                gpAlbum.setViewState(new ViewState(albid, picid));
+            };
 
             this.$album = gpAlbum.$album;
 
@@ -757,13 +772,13 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
             }, {});
         }
 
+        PlayRenderStrategy.prototype.hashNavigable = true;
+
         PlayRenderStrategy.prototype.drawAlbumList = function (albSet, matchIds, matchIdsByName) {
             var me = this, currentYear;
             this.$album.html(''); // clear all
             this.$album.addClass("vd-group-list vd-group-grid");
             this.$album.css("overflow", "auto");
-
-            this.hashNavigable = true; // from now on let the hash ripple through
 
             Object.keys(matchIdsByName).sort().reverse().forEach(function (albname) {
                 var albid = matchIdsByName[albname],
@@ -796,7 +811,8 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
 
                 //$albView = $('<div class="vd-alb col-lg-3 col-md-4 col-sm-6 col-xs-12">' + JSON.stringify(alb) + '<div>');
 
-                html = '<div class="vd-group-item vd-group-pics-item col-lg-3 col-md-4 col-sm-6 col-xs-12">'
+                html = '<div id="' + albid + '"'
+                     + '     class="vd-group-item vd-group-pics-item col-lg-3 col-md-4 col-sm-6 col-xs-12">'
                      + '  <div class="vd-group-item-inner" style="background-image: url(\'' + albpic  + '\');">'
                      + '    <div class="vd-group-content"><div class="vd-group-content-inner">'
                      + '      <div class="vd-group-title">' + albtext + '</div>'
@@ -810,11 +826,16 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
                 });
                 me.$album.append($albView);
             });
+
+            if (this.albid !== undefined) { // scroll to where we were looking at earlier
+                this.$album.find("#" + this.albid)[0].scrollIntoView(true);
+                this.albid = undefined;
+            }
         };
 
 
-        PlayRenderStrategy.prototype.drawPhotoList = function (pListData) {
-            var $vwWrap, $ctrlWrap, $lblWrap, me = this;
+        PlayRenderStrategy.prototype.drawPhotoList = function (albid, pListData, index) {
+            var $vwWrap, $ctrlWrap, $lblWrap, me = this, playing = false;
 
             if (isEmpty(pListData)) {
                 return;
@@ -844,18 +865,29 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
 
             this.$view.html('');
             this.content = pListData;
+            this.albid = albid;
             this.size = pListData.length;
-            this.ctrl.restart();
+
+            if (index === undefined || index === null || index > this.size) {
+                this.index = 0;
+                this.ctrl.restart();
+            } else {
+                this.index = index;
+                this.show();
+                this.ctrl.stop();
+            }
         };
 
         PlayRenderStrategy.prototype.show = function () {
             if (isEmpty(this.content)) {return; }
             var img = this.content[this.index],
+                picid = img.id,
                 imgurl = img.content,
                 imglbl = isEmpty(img.caption) ? "&nbsp;" : img.caption,
                 me = this,
                 $old = this.$view;
             this.$view = this.newView(imgurl);
+            this.updateViewState(this.albid, picid);
             this.$view.insertBefore($old);
             $old.animate({"opacity": 0}, Math.floor(this.interval / 5) + 1, function () {
             //$old.animate({"margin-left": "-100%"}, Math.floor(this.interval / 5) + 1, function () {
@@ -898,7 +930,7 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
         CarouselRenderStrategy.prototype.drawAlbumList = function (aListData) {
             this.$album.html('<pre>albs ==> \n' + JSON.stringify(aListData) + '</pre>');
         };
-        CarouselRenderStrategy.prototype.drawPhotoList = function (pListData) {
+        CarouselRenderStrategy.prototype.drawPhotoList = function (albid, pListData) {
             var $carousel, html = "",
                 id = "album-carousel-" + Math.floor(Math.random() * 100000);
             html += '<div style="width: 100%" class="carousel slide" data-ride="carsousel" id="' + id + '">';
@@ -936,7 +968,7 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
         StripRenderStrategy.prototype.drawAlbumList = function (aListData) {
             this.$album.html('<pre>albs ==> \n' + JSON.stringify(aListData) + '</pre>');
         };
-        StripRenderStrategy.prototype.drawPhotoList = function (pListData) {
+        StripRenderStrategy.prototype.drawPhotoList = function (albid, pListData) {
             var item, imgurl, imglbl, ndx = 0, h = this.$album.height(),
                 neededImgs = Math.ceil(window.screen.width * 2 / h), html = '';
 
