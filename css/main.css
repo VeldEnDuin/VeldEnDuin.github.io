@@ -9,6 +9,15 @@
  */
 
 
+a {
+    text-decoration: underline;
+}
+
+.navbar a,
+.nav-pills a,
+a.notd {
+    text-decoration: none;
+}
 /* ===================================================================================
  * Page Backdrop
  *   -------------------------------------------------------------------------------
@@ -421,7 +430,7 @@ table.table>tbody>tr>td:first-child
     left: 7px;
 }
 
-.vd-group-timeline-item .img-thumbnail {
+.vd-group-timeline-item .img-rounded {
     padding: 0;
     background-color: transparent;
     border: 0;
@@ -670,7 +679,8 @@ a:hover .vd-button .vd-button-tag-invert .vd-button-inner,
 .vd-button a:hover {
     text-decoration: none;
 }
-a:hover .vd-select-item-inner {
+a:hover .vd-select-item-inner,
+a.notd:hover button {
     transform: scale(1.01, 1.01);
 }
 
@@ -981,7 +991,7 @@ a:hover .vd-select-item-inner {
 .img-crop {
   object-fit: cover;/* Do not scale the image */
   object-position: center;/* Center the image within the element */
-  height: 8.8em;
+  height: 10em;
   width: 100%;
 }
 
@@ -1233,6 +1243,17 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
 @media (min-width: 992px) and (max-width: 1199px) {   /*  'md' -- medium      */
 
 }
+
+/*
+ *     ~~~~~~~~~  responsive tables ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ */
+@media (max-width: 767px) {                           /*  'xs' -- extra small */
+	table {
+		overflow-x: auto;
+		display: block;
+	}
+}
+
 
 /* ===================================================================================
  * callout form effects
