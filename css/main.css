@@ -680,7 +680,8 @@ a:hover .vd-button .vd-button-tag-invert .vd-button-inner,
     text-decoration: none;
 }
 a:hover .vd-select-item-inner,
-a.notd:hover button {
+a.notd:hover button,
+button.vd-callout-btn:hover {
     transform: scale(1.01, 1.01);
 }
 
