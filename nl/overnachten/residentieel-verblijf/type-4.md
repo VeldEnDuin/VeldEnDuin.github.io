@@ -57,5 +57,4 @@ tellervergoeding      | € 18 / teller
 
 ##Plan camping
 
-[invoegen plan][plan.nl]
-aanduiden met kleur op plan welke percelen - Joke?
+![Plan van de camping][plan.nl]

@@ -109,4 +109,4 @@ parking extra auto  | € 4 / begonnen dag
 
 ##Plan camping
 
-[invoegen plan][plan.nl]
+![Plan van de camping][plan.nl]
