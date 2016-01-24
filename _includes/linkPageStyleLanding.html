@@ -6,10 +6,14 @@
   <a href="{{pg.url}}">
     <div class="vd-select-item vd-select-landing {{page.class.select.item}}">
       <div class="vd-select-item-inner">
+    {% if page.class.select.noimage %}
+        <div class="col-lg-12 col-md-12 col-sm-12 hidden-xs">
+    {% else %}
         <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
-          <img class="vd-select-item-img img-responsive img-thumbnail" src="{{pg.images[0]}}">
+          <img class="vd-select-item-img img-responsive img-rounded" src="{{pg.images[0]}}">
         </div>
         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+    {% endif %}
           <h2 class="vd-select-title">{{ previewTitle }}</h2>
             {% if linkPage.preview %}
           <div class="vd-select-content">
