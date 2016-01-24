@@ -129,6 +129,12 @@
          */
         $content.find("a[href^='http']").attr('target', '_blank');
 
+        /*
+         * give unstyled content-images a basic style
+         * =======================================================================
+         */
+        $content.find("img:not([class])").addClass("img-responsive img-rounded");
+
 
         /*
          * make first header in the content stand out

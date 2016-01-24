@@ -279,7 +279,7 @@ For more information, please refer to <http://unlicense.org/>
                                 $img.hide();
                             } else {
                                 tmb = item.pagemap.cse_thumbnail[0];
-                                $img.html('<img class="img-responsive img-thumbnail" src="' +
+                                $img.html('<img class="img-responsive img-rounded" src="' +
                                     tmb.src + '" height="' + tmb.height + '" width="' + tmb.width + '" >');
                             }
 
