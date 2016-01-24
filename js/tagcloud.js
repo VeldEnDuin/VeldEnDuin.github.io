@@ -30,15 +30,21 @@
         });
 
         function regen() {
+
             if (redoHandle !== undefined) {
                 clearTimeout(redoHandle);
                 redoHandle = undefined;
             }
             $("svg.tagcloud").remove();
 
-            var cw = Math.min(1600, $container.width() * 0.9),
-                ch = Math.min(800, $w.height() * 0.8); //- $container.offset().top);
+            var set,
+                cw = Math.min(1600, $container.width() * 0.95),
+                ch = Math.min(800, $w.height() - 250),
+                fs = 60 * Math.sqrt(Math.max(cw, ch) / 1600);
 
+            set = troeven.slice(0, Math.ceil((cw * ch / 5000)));
+
+console.log("ch = " + ch + " | cw = " + " | fs = " + fs);
             function draw(words) {
                 d3.select($container.get(0)).append("svg")
                     .attr("class", "tagcloud")
@@ -57,13 +63,16 @@
                         return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
                     })
                     .text(function (d) { return d.text; });
+
+                //$("svg.tagcloud")[0].scrollIntoView(true);
             }
 
             d3.layout.cloud().size([cw, ch])
-                .words(troeven.map(function (d) {
-                    return {text: d, size: 10 + Math.random() * 50};
+                .words(set.map(function (d) {
+                    return {text: d, size: fs * (0.3 + Math.random() * 0.7)};
                 }))
                 .rotate(function () { return Math.floor((Math.random() - 0.5) * num_angles) * (180 / num_angles); })
+                .spiral("rectangular")
                 .font("Impact")
                 .fontSize(function (d) { return d.size; })
                 .on("end", draw)
