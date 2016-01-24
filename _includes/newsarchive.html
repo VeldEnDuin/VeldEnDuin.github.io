@@ -44,15 +44,13 @@
     {% if ln == pgLang %}
         {% if pst.images.size > 0 %}
   <a href="{{pst.url}}"><div class="col-lg-6 col-md-12 vd-bottom-space">
-    <img src="{{pst.images[0]}}" class="img-thumbnail img-responsive img-crop"></div></a>
+    <img src="{{pst.images[0]}}" class="img-rounded img-responsive img-crop"></div></a>
         {% endif %}
     {% endif %}
 {% endfor %}
-  <div class="col-lg-12 col-md-12">
-    <a href="{{site.data.linkcode.pics[pgLang]}}">
-      <button class="btn btn-lg btn-success"><span class="glyphicon glyphicon-camera"></span>
-      {{site.data.langs[pgLang].dict.picsarchive}}</button>
-    </a>
+
+  <div class="col-lg-12 col-md-12 cols-sm-12 col-xs-12">
+  {% include link-foto-archive.html %}
   </div>
 </div>
 </div>
