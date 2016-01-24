@@ -30,7 +30,7 @@ nl:
         starting: vanaf
         practical_info: Praktische Informatie
         other_rental_types: Andere Types Logement
-        submenu: Kies sectie
+        mostwanted: Meest gezocht
 
     gcse:
         use: Geef een zoekterm in!
@@ -69,7 +69,7 @@ fr:
         starting: À partir de
         practical_info: Informations pratiques
         other_rental_types: Autres types de logement
-        submenu: Choisissez la section
+        mostwanted: Le plus recherché
 
     gcse:
         use: Veuillez introduire un mot clé!
@@ -108,7 +108,7 @@ de:
         starting: ab
         practical_info: Praktische Informationen
         other_rental_types: Andere Arten von Unterkünften
-        submenu: Wählen Schnitt
+        mostwanted: Meistgesucht
 
     gcse:
         use: Geben Sie einen Suchbegriff ein!
@@ -144,7 +144,7 @@ en:
         mailchimp: (TODO EN) tekst mailchimp inschrijving
         sociallinks: (TODO EN) tekst VD op social media
         readmore: (TODO EN) knop lees meer
-        submenu: Choose Section
+        mostwanted: Most wanted
 
     gcse:
         use: (TODO EN) usage search - no search term
