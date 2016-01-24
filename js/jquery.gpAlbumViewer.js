@@ -653,7 +653,7 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
             // default true even if missing
             if (!cfg.hasOwnProperty("fill")) { cfg.fill   = true; }
             if (!cfg.hasOwnProperty("center")) { cfg.center   = true; }
-            if (!cfg.hasOwnProperty("border")) { cfg.border   = true; }
+            //if (!cfg.hasOwnProperty("border")) { cfg.border   = true; }
 
             var $div = $('<div></div>'),
                 csses = cfg.csses || {},
@@ -676,7 +676,7 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
                 cfg.border = false;
 //                csses.float = "left";
                 csses.position = "absolute";
-                csses["background-color"] = "rgb(255,255,255)";
+                csses["background-color"] = "rgb(255,255,255,0.1)";
                 csses["background-repeat"] = "no-repeat";
                 csses["background-attachment"] = "fixed";
                 csses["background-position"] = "center center";
@@ -886,13 +886,15 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
                 imglbl = isEmpty(img.caption) ? "&nbsp;" : img.caption,
                 me = this,
                 $old = this.$view;
-            this.$view = this.newView(imgurl);
-            this.updateViewState(this.albid, picid);
-            this.$view.insertBefore($old);
+
+            me.$view = this.newView(imgurl);
+            me.$view.insertBefore($old);
+            me.$view.css("background-attachment", "local");
             $old.animate({"opacity": 0}, Math.floor(this.interval / 5) + 1, function () {
             //$old.animate({"margin-left": "-100%"}, Math.floor(this.interval / 5) + 1, function () {
+                me.updateViewState(this.albid, picid);
                 $old.remove();
-                me.$lbl.html(imglbl);
+                //me.$lbl.html(imglbl);
             });
         };
 
