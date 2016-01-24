@@ -18,5 +18,5 @@
 
 <div id="album" class="vd-album"
      data-album='{"gp-id": {{site["gp-id"] | jsonify }}, "album-spec": {{albid | jsonify}}, "render": {{albrender | jsonify}}, "thumbsize": {{albthumbsize | jsonify}}, "uplink": {{ site.data.linkcode.pics[pgLang]| jsonify }} }'>
-    album(s) loading...
+    {{ site.data.langs[pgLang].dict.imgloading}}
 </div>

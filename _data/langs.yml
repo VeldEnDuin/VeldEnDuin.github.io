@@ -31,6 +31,7 @@ nl:
         practical_info: Praktische Informatie
         other_rental_types: Andere Types Logement
         mostwanted: Meest gezocht
+        imgloading: Beelden worden geladen...
 
     gcse:
         use: Geef een zoekterm in!
@@ -70,6 +71,7 @@ fr:
         practical_info: Informations pratiques
         other_rental_types: Autres types de logement
         mostwanted: Le plus recherché
+        imgloading: Chargement des images en cours...
 
     gcse:
         use: Veuillez introduire un mot clé!
@@ -109,6 +111,7 @@ de:
         practical_info: Praktische Informationen
         other_rental_types: Andere Arten von Unterkünften
         mostwanted: Meistgesucht
+        imgloading: Bilder werden geladen...
 
     gcse:
         use: Geben Sie einen Suchbegriff ein!
@@ -145,6 +148,7 @@ en:
         sociallinks: (TODO EN) tekst VD op social media
         readmore: (TODO EN) knop lees meer
         mostwanted: Most wanted
+        imgloading: Loading images...
 
     gcse:
         use: (TODO EN) usage search - no search term
