@@ -3,9 +3,9 @@ class:
   list: "vd-group-tagcloud row"
 items:
   - title:
-      nl: "met zicht op de Mont Blanc"
-      fr: "vue sur le mont Blanc"
-      de: "mit Blick auf den Mont Blanc"
+      nl: "zicht op Mont Blanc"
+      fr: "vue sur mont Blanc"
+      de: "Blick auf den Mont Blanc"
       en: ''
 
   - title:
