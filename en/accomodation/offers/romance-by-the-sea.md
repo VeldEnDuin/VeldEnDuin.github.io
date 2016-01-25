@@ -61,7 +61,7 @@ November until March<br> except for holidays<br>& long weekends | April until Ju
 - € 50 – to be paid in cash upon arrival
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
 
-## included
+## Included
 - parking 1 car
 - consumption gas - water - electricity
 - **Exception**: costs of electricity and gas are excluded from 4 nights from 1/11 - 31/3
