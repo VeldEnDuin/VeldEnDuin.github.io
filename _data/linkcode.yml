@@ -94,6 +94,7 @@ verhuur:
     nl:  /nl/overnachten/verhuur.html
     fr:  /fr/hebergement/location.html
     de:  /de/uebernachten/vermietung.html
+    en:  /en/accomodation/rent.html
 trekkers:
     nl:  /nl/overnachten/trekkers.html
     fr:  /fr/hebergement/camping.html
@@ -121,6 +122,7 @@ wedstrijd:
     nl: /nl/overnachten/wedstrijd.html
     fr: /fr/hebergement/concours.html
     de: /de/uebernachten/preisausschreiben.html
+    en: /en/accomodation/competition.html
 
 
 # [2.1] submenu overnachten -> verhuur
