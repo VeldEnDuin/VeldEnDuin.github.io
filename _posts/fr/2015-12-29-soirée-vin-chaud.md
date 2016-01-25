@@ -14,9 +14,9 @@ images:
     
 ---
 
-Nous garderons un merveilleux souvenir de cette soirée vin chaud : une ambiance conviviale, de délicieux en-cas et boissons et la présence de nombreux fidèles campeurs.
+Nous garderons un merveilleux souvenir de cette soirée vin chaud: une ambiance conviviale, de délicieux en-cas et boissons et la présence de nombreux fidèles campeurs.
 
-Merci à tous les participants ! Voici quelques photos pour vous remémorer cette superbe soirée.
+Merci à tous les participants! Voici quelques photos pour vous remémorer cette superbe soirée.
 
 
 

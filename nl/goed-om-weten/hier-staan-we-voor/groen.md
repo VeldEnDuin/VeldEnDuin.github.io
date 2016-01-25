@@ -20,7 +20,7 @@ remove:
 
 #Groen
 
-##Beplanting
+## Beplanting
 Meteen bij het binnenrijden wordt duidelijk dat we een verzorgde en gevarieerde beplanting ontzettend belangrijk vinden. De streekeigen bloemen en planten worden zorgvuldig uitgekozen en dagdagelijks onderhouden zodat iedereen er volop kan van genieten.<br>
 
 

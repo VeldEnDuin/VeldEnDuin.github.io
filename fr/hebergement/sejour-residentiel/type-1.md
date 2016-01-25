@@ -12,7 +12,7 @@ preview:
         - "accessible durant 8 mois"
                
 images:
-    - /img/overnachten/residentieel-type4/restyp4-01.jpg
+    - /img/overnachten/residentieel-type1/restyp1-01.jpg
     
 insert:
     - page-images-top

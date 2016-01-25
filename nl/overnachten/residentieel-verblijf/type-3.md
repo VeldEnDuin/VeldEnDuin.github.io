@@ -13,7 +13,7 @@ preview:
        
         
 images:
-    - /img/overnachten/residentieel-type2/restyp2-01.jpg
+    - /img/overnachten/residentieel-type3/restyp3-01.jpg
     
 insert:
     - page-images-top
@@ -41,7 +41,7 @@ TYPE 3                |PRIJS           |
 standplaatsvergoeding |€ 1870               
 gemeentetaks          |€ 340,79 
 huisvuilbijdrage<br>incl 25 zakken<br> | € 65    
-[brandverzekering][pdf_brandverzekering.nl]      |afhankelijk van <br>waarde caravan
+[brandverzekering][pdf_brandverzekering.nl]      |afhankelijk van <br>waarde caravan / chalet
 
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|

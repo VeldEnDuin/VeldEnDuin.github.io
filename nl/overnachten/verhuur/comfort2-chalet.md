@@ -49,7 +49,7 @@ insert:
 Even alleen komen uitwaaien of met z'n tweetjes? In deze chalet is het heerlijk thuiskomen na een dagje genieten aan onze kust.
 
 ##Inrichting chalet
-- ruime woonkamer met flatscreen en digibox
+- woonkamer met flatscreen en digibox
 - ingerichte keuken met microgolf
 - badkamer met douche, wastafel en toilet
 - slaapkamer chalet:
