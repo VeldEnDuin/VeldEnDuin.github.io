@@ -258,38 +258,47 @@ speel:
     nl: /nl/voorzieningen/speelplein.html
     fr: /fr/equipements/terrain-de-jeu.html
     de: /de/annehmlichkeiten/spielplatz.html
+    en: /en/amenities/playground.html
 animatie:
     nl: /nl/voorzieningen/animatie.html
     fr: /fr/equipements/animations.html
     de: /de/annehmlichkeiten/animation.html
+    en: /en/amenities/entertainment.html
 internet:
     nl: /nl/voorzieningen/internet.html
     fr: /fr/equipements/internet.html
     de: /de/annehmlichkeiten/internet.html
+    en: /en/amenities/internet.html
 sanitair:
     nl: /nl/voorzieningen/sanitair.html
     fr: /fr/equipements/sanitaires.html
     de: /de/annehmlichkeiten/sanitaer.html
+    en: /en/amenities/sanitary-facilities.html
 toeristische_info:
     nl: /nl/voorzieningen/info.html
     fr: /fr/equipements/info.html
     de: /de/annehmlichkeiten/info.html
+    en: /en/amenities/info.html
 wassalon:
     nl: /nl/voorzieningen/wassalon.html
     fr: /fr/equipements/laverie-automatique.html
     de: /de/annehmlichkeiten/waschsalon.html
+    en: /en/amenities/laundrette.html
 sauna:
     nl: /nl/voorzieningen/sauna.html
     fr: /fr/equipements/sauna.html
     de: /de/annehmlichkeiten/sauna.html
+    en: /en/amenities/sauna.html
 fietsberging:
     nl: /nl/voorzieningen/fietsberging.html
     fr: /fr/equipements/garage-a-velos.html
     de: /de/annehmlichkeiten/fahrradunterstand.html
+    en: /en/amenities/bicycle-shed.html
 pop_up_bib:
     nl: /nl/voorzieningen/pop-up-bib.html
     fr: /fr/equipements/bibliotheque-ephemere.html
     de: /de/annehmlichkeiten/pop-up-bibliothek.html
+    en: /en/amenities/pop-up-library.html
 
 # [4] menu doen
 doen:
