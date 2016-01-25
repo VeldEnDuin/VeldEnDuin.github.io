@@ -120,37 +120,40 @@ de:
 
 en:
     label: EN
-    directions: ["N", "NE", "E", "SE", "S", "SW", "W", "NW"]
+    directions: ["N", "NO", "O", "ZO", "Z", "ZW", "W", "NW"]
     months: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
     id:
-        cx: 012964731216503545400:7thummrhqau
-        resa-form: 1pvMPrqvG0DcFYuBKokIJ9_gKitbaJN6GWbOn9S4EJVA
+        cx: 012964731216503545400:onwjrjqskq8
+        resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
     dict:
-        all: All
-        news: News
+        all: all
+        latestnews: Latest News
+        newsarchive: Archives
         picsarchive: "Photo Archive"
-        mapxl: View Larger Map
+        mapxl: Bigger map
         virttour:
             - Virtual
             - Tour
         prev: previous
         next: next
         overview: overview
-        share: Share this content via
-        othernews: (TODO EN) ander nieuws
-        publication: (TODO EN) publication
+        share: Share this message now
         close: close
-        search: Search
-        callout: (TODO EN) tekst in de banner-callout
-        resa_action: (TODO EN) knop resa
-        resa_formwait: (TODO EN) Reservatie Aanvraag wordt geladen... (even geduld)
-        mailchimp: (TODO EN) tekst mailchimp inschrijving
-        sociallinks: (TODO EN) tekst VD op social media
-        readmore: (TODO EN) knop lees meer
-        mostwanted: Most wanted
-        imgloading: Loading images...
+        search: search
+        callout: Would you like to make a reservation or do you have a question?  Please fill in the form.
+        resa_action: Reservation request
+        resa_formwait: Loading... (one moment please)
+        mailchimp: Add me to your mailing list
+        sociallinks: Social media
+        readmore: Read more
+        moreinfo: More information
+        starting: from
+        practical_info: Practical information
+        other_rental_types: More rental possibilities
+        mostwanted: Most visited
+        imgloading: Images are being loaded...
 
     gcse:
-        use: (TODO EN) usage search - no search term
-        wait: (TODO EN) wait - results loading
-        empty: (TODO EN) no results for term, followed by (term)
+        use: Keyword!
+        wait: Search request...
+        empty: Unfortunately, no results found...
