@@ -27,5 +27,5 @@ insert:
 
 Book a fortnight or more and get 2 nights extra. This gives you the opportunity to discover the beauty of our coast and the peace and quiet of the hinterland at your own pace.
 
-{% include nl/arr-goedomweten.md %}
+{% include en/off-worthknowing.md %}
 

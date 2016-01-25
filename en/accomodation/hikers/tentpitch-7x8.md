@@ -61,7 +61,7 @@ NUMBER OF PERSONS | PRICE / NIGHT
 
 15/7 - 15/8: upon reservation as from 7 nights
 
-{% include nl/trekker-reuse.md %}
+{% include en/hiker-reuse.md %}
 
 ##Plan campsite
 

@@ -26,5 +26,5 @@ insert:
 
 Book this package and get one night for free upon a reservation of 7 nights and more. Extra value for money! 
     
-{% include nl/arr-goedomweten.md %}
+{% include en/off-worthknowing.md %}
 

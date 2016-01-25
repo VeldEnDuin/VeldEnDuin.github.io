@@ -10,7 +10,7 @@ icon: info-sign
 
 # USEFUL INFO
 
-{% include nl/betaling-cxd-reuse.md %}
+{% include en/payment-cxd-reuse.md %}
 
 ## Arrival and departure
 - arrival:  as from 14 hrs
@@ -18,4 +18,4 @@ icon: info-sign
 
 Do you want to check in after opening hours? No problem, but give us a call before you leave.
 
-{% include nl/openingsuren-reuse.md %}
+{% include en/openinghours-reuse.md %}
