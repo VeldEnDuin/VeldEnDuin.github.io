@@ -1,5 +1,5 @@
 ---
-title: Arrangementen
+title: Offers
 layout: default
 callout: TODO - trigger tekst vanop ARRANGEMENTEN page
     
