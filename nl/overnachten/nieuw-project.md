@@ -13,6 +13,7 @@ images:
 
 ---
 
+{% include links.md %}
 
 #Nieuw project
 
@@ -25,3 +26,5 @@ In 2014-2015 werden de eerste 10 plaatsen aangelegd, deze winter komen er nog ee
 Van deze luxeplaatsen zijn er momenteel nog een aantal vrij. Hebt u zelf interesse of kent u iemand die een mooie plaats zoekt, aarzel dan niet om contact op te nemen.
 
 Uiteraard bent u steeds welkom om ter plaatse een kijkje te komen nemen.
+
+![3D plan nieuw project][plan3d.nl]

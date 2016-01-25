@@ -1,9 +1,22 @@
 {% assign albattr = "play-album" %}
+{% assign rndattr = "play-render" %}
+{% assign tszattr = "play-thumbsize" %}
+
 {% assign albid = site[albattr] %}
+{% assign albrender = site[rndattr] %}
+{% assign albthumbsize = 100 %}
+
 {% if page[albattr] %}
     {% assign albid = page[albattr] %}
 {% endif %}
+{% if page[rndattr] %}
+    {% assign albrender = page[rndattr] %}
+{% endif %}
+{% if page[tszattr] %}
+    {% assign albthumbsize = page[tszattr] %}
+{% endif %}
+
 <div id="album" class="vd-album"
-     data-album='{"gp-id": {{site["gp-id"] | jsonify }}, "album-spec": {{albid | jsonify}} }'>
-    album-player loading...
+     data-album='{"gp-id": {{site["gp-id"] | jsonify }}, "album-spec": {{albid | jsonify}}, "render": {{albrender | jsonify}}, "thumbsize": {{albthumbsize | jsonify}}, "uplink": {{ site.data.linkcode.pics[pgLang]| jsonify }} }'>
+    {{ site.data.langs[pgLang].dict.imgloading}}
 </div>

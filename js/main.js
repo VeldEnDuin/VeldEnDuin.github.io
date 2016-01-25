@@ -124,6 +124,19 @@
         });
 
         /*
+         * Make external links go _blank
+         * =======================================================================
+         */
+        $content.find("a[href^='http']").attr('target', '_blank');
+
+        /*
+         * give unstyled content-images a basic style
+         * =======================================================================
+         */
+        $content.find("img:not([class])").addClass("img-responsive img-rounded");
+
+
+        /*
          * make first header in the content stand out
          * =======================================================================
          */
@@ -151,7 +164,24 @@
                 $btnOff.click(hideForm);
             }
         }());
+
+
+        /*
+         * make 404 adapt to language
+         * =======================================================================
+         */
+        (function () {
+            var lang = "nl", paths = window.location.pathname.split('/');
+            if (document.title.indexOf("404") === 0) {
+                if (paths.length > 2 && paths[1].length === 2) {
+                    lang = paths[1];
+                }
+                $("a.navbar-brand").attr("href", "/" + lang + "/");
+                $content.append("todo specific content for lang = " + lang);
+            }
+        }());
     });
+
 
     /*
      * Build up the group page 'doen'
@@ -408,8 +438,8 @@
             $grid.on('layoutComplete', postlayout);
             postlayout();
         }
-        $(window).on("load", function(){
-            setTimeout(startMasonry,0);
+        $(window).on("load", function () {
+            setTimeout(startMasonry, 0);
         });
     });
 
@@ -533,6 +563,14 @@
             $tbls = $content.find('table');
 
         $tbls.addClass('table table-hovered');
+        $tbls.each(function () {
+            var $tbl = $(this),
+                $thd = $('thead', $tbl);
+
+            if ($thd.text().trim() === "") {
+                $thd.remove();
+            }
+        });
     });
 
     /*
@@ -542,7 +580,7 @@
     $(function () {
 
         $('.vd-album').each(function () {
-            var data, gpid, albumspec, render, vwr, dims,
+            var data, gpid, albumspec, render, vwr, dims, thumbsize, uplink,
                 $album = $(this);
 
             data = $album.data('album');
@@ -550,8 +588,18 @@
             albumspec = data['album-spec'];
             render = data.render || "play";
             dims = data.dimensions;
+            thumbsize = data.thumbsize || 100;
+            uplink = data.uplink || "/pics";
 
-            vwr = $album.gpAlbum({"account": gpid, "albumspec": albumspec, "render": render, "dimensions": dims})[0];
+            vwr = $album.gpAlbumViewer({
+                "account": gpid,
+                "albumspec": albumspec,
+                "render": render,
+                "dimensions": dims,
+                "thumbsize": thumbsize,
+                "uplink": uplink,
+                "labels": TRANSL
+            })[0];
         });
     });
 }(window.jQuery));

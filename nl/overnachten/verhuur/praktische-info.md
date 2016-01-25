@@ -22,7 +22,7 @@ Wenst u buiten de openingsuren van de receptie aan te komen? Dat kan, maar geef 
 
 ## Inventaris
 
-inventaris verblijf    |             |               |              |
+                       |             |               |              |
 :---------------------:|:-----------:|:-------------:|:------------:
 bier/wijn/waterglazen  |kinderbestek |kookpotten     |borstel                              
 borden                 |aardappelmes |pannen         |aftrekker

@@ -9,6 +9,7 @@ nl:
         all: alle
         latestnews: Laatste Nieuws
         newsarchive: Archief
+        picsarchive: Foto Archief
         mapxl: Grotere kaart weergeven
         virttour:
             - Virtuele
@@ -29,6 +30,8 @@ nl:
         starting: vanaf
         practical_info: Praktische Informatie
         other_rental_types: Andere Types Logement
+        mostwanted: Meest gezocht
+        imgloading: Beelden worden geladen...
 
     gcse:
         use: Geef een zoekterm in!
@@ -37,100 +40,120 @@ nl:
 
 fr:
     label: FR
-    directions: ["N", "NE", "E", "SE", "S", "SO", "O", "NO"]
-    months: ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"]
+    directions: ["N", "NO", "O", "ZO", "Z", "ZW", "W", "NW"]
+    months: ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"]
     id:
-        cx: 012964731216503545400:qlxwawrgx9q
-        resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
+        cx: 012964731216503545400:onwjrjqskq8
+        resa-form: 1bwXpxs1BfAA0-fvCFty2bFR5rYWdNkq_8BkGERuDyiQ
     dict:
-        all: tous
-        news: Nouvelles
+        all: tout
+        latestnews: Actualité récente
+        newsarchive: Archives
+        picsarchive: Archive Photographique
         mapxl: Agrandir le plan
         virttour:
-            - Visite
+            - Balade
             - virtuelle
         prev: précédent
         next: suivant
-        overview: résumé
-        share: Partager cet article sur
-        othernews: (TODO FR) ander nieuws
-        publication: (TODO FR) Publicatie
+        overview: aperçu
+        share: Partager cette info
         close: fermer
-        search: Recherche
-        callout: (TODO FR) tekst in de banner-callout
-        resa_action: (TODO FR) knop resa
-        resa_formwait: (TODO FR) Reservatie Aanvraag wordt geladen... (even geduld)
-        mailchimp: (TODO FR) tekst mailchimp inschrijving
-        sociallinks: (TODO FR) tekst VD op social media
-        readmore: (TODO FR) knop lees meer
+        search: Chercher
+        callout: Si vous souhaitez réserver un séjour ou obtenir un complètement d❜information, veuillez complétez le formulaire de réservation.
+        resa_action: Reservatie Aanvraag
+        resa_formwait: Formulaire de réservation en cours de chargement ... (veuillez patienter)
+        mailchimp: Abonnez-vous à notre bulletin d’information
+        sociallinks: Veld & Duin sur les réseaux sociaux
+        readmore: Lire plus...
+        moreinfo: Plus d’infos
+        starting: À partir de
+        practical_info: Informations pratiques
+        other_rental_types: Autres types de logement
+        mostwanted: Le plus recherché
+        imgloading: Chargement des images en cours...
 
     gcse:
-        use: (TODO FR) usage search - no search term
-        wait: (TODO FR) wait - results loading
-        empty: (TODO FR) no results for term, followed by (term)
+        use: Veuillez introduire un mot clé!
+        wait: Recherche en cours ...
+        empty: Nous n’avons malheureusement pas trouvé de résultat correspondant à votre mot clé.
 
 de:
     label: DE
-    directions: ["N", "NO", "O", "SO", "S", "SW", "W", "NW"]
-    months: [ "Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"]
+    directions: ["N", "NO", "O", "ZO", "Z", "ZW", "W", "NW"]
+    months: ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"]
     id:
-        cx: 012964731216503545400:yf3vj8omajg
-        resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
+        cx: 012964731216503545400:onwjrjqskq8
+        resa-form: 1yOaMwa-1NtjfF-YkaYJLWCBXmAiqRC2pQ9-rtAw1gJc
     dict:
-        all: (todo DE) Alle
-        news: Nachrichten
-        mapxl: Größere Kartenansicht
+        all: alle
+        latestnews: Aktuelle Nachrichten
+        newsarchive: Archiv
+        picsarchive: "Fotoarchiv"
+        mapxl: Karte größer anzeigen
         virttour:
-            - Virtuellen
+            - Virtueller
             - Rundgang
-        prev: früher
-        next: als nächstes
-        overview: Zusammenfassung
-        share: Dieses Thema teilen auf
-        othernews: (TODO DE) ander nieuws
-        publication: (TODO DE) Publicatie
-        search: Suche
-        close: (TODO DE) sluiten
-        callout: (TODO DE) tekst in de banner-callout
-        resa_action: (TODO DE) knop resa
-        resa_formwait: (TODO DE) Reservatie Aanvraag wordt geladen... (even geduld)
-        mailchimp: (TODO DE) tekst mailchimp inschrijving
-        sociallinks: (TODO DE) tekst VD op social media
-        readmore: (TODO DE) knop lees meer
+        prev: Zurück
+        next: Weiter
+        overview: Übersicht
+        share: Diese Mitteilung jetzt teilen
+        close: Schließen
+        search: Suchen
+        callout: Möchten Sie jetzt gern einen Aufenthalt buchen oder haben Sie noch eine Frage an uns? Füllen Sie dann gleich die Reservierungsanfrage aus.
+        resa_action: Reservierungsanfrage
+        resa_formwait: Reservierungsanfrage wird geladen ... (das kann einen Moment dauern – vielen Dank für Ihre Geduld)
+        mailchimp: Melden Sie sich für unseren Newsletter an
+        sociallinks: Veld & Duin in den sozialen Medien
+        readmore: Lesen Sie mehr...
+        moreinfo: Mehr Informationen
+        starting: ab
+        practical_info: Praktische Informationen
+        other_rental_types: Andere Arten von Unterkünften
+        mostwanted: Meistgesucht
+        imgloading: Bilder werden geladen...
+
     gcse:
-        use: (TODO DE) usage search - no search term
-        wait: (TODO DE) wait - results loading
-        empty: (TODO DE) no results for term, followed by (term)
+        use: Geben Sie einen Suchbegriff ein!
+        wait: Suchauftrag läuft...
+        empty: Leider kein Ergebnis für diesen Suchbegriff gefunden.
 
 en:
     label: EN
-    directions: ["N", "NE", "E", "SE", "S", "SW", "W", "NW"]
+    directions: ["N", "NO", "O", "ZO", "Z", "ZW", "W", "NW"]
     months: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
     id:
-        cx: 012964731216503545400:7thummrhqau
+        cx: 012964731216503545400:onwjrjqskq8
         resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
     dict:
-        all: All
-        news: News
-        mapxl: View Larger Map
+        all: all
+        latestnews: Latest News
+        newsarchive: Archives
+        picsarchive: "Photo Archive"
+        mapxl: Bigger map
         virttour:
             - Virtual
             - Tour
         prev: previous
         next: next
         overview: overview
-        share: Share this content via
-        othernews: (TODO EN) ander nieuws
-        publication: (TODO EN) publication
+        share: Share this message now
         close: close
-        search: Search
-        callout: (TODO EN) tekst in de banner-callout
-        resa_action: (TODO EN) knop resa
-        resa_formwait: (TODO EN) Reservatie Aanvraag wordt geladen... (even geduld)
-        mailchimp: (TODO EN) tekst mailchimp inschrijving
-        sociallinks: (TODO EN) tekst VD op social media
-        readmore: (TODO EN) knop lees meer
+        search: search
+        callout: Would you like to make a reservation or do you have a question?  Please fill in the form.
+        resa_action: Reservation request
+        resa_formwait: Loading... (one moment please)
+        mailchimp: Add me to your mailing list
+        sociallinks: Social media
+        readmore: Read more
+        moreinfo: More information
+        starting: from
+        practical_info: Practical information
+        other_rental_types: More rental possibilities
+        mostwanted: Most visited
+        imgloading: Images are being loaded...
+
     gcse:
-        use: (TODO EN) usage search - no search term
-        wait: (TODO EN) wait - results loading
-        empty: (TODO EN) no results for term, followed by (term)
+        use: Keyword!
+        wait: Search request...
+        empty: Unfortunately, no results found...

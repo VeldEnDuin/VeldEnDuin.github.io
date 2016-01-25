@@ -14,6 +14,9 @@ preview:
 images:
     - /img/overnachten/arrangementen-romzee/arrromzee-01.jpg
     
+insert:
+    - page-images-top
+    
     
 ---
 

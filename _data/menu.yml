@@ -1,9 +1,9 @@
 - linkcode: onze_troeven
   menutekst:
     nl: Goed om weten
-    fr: ''
-    de: ''
-    en: ''
+    fr: Bon à savoir
+    de: Gut zu wissen
+    en: Worth knowing
   submenu:
     - linkcode: onze_troeven
 
@@ -24,10 +24,10 @@
 
 - linkcode: verhuur
   menutekst:
-    nl: Overnachten
-    fr: Passer la nuit
-    en: Staying overnight
-    de: Übernachten
+    nl:  Overnachten
+    fr:  Hébergement
+    en:  Accomodation
+    de:  Übernachtung
   submenu:
     - linkcode: verhuur
       submenu:
@@ -86,9 +86,9 @@
 - linkcode: voorzieningen
   menutekst:
     nl:  Voorzieningen
-    fr: ''
-    de: ''
-    en: ''
+    fr:  Équipements
+    de:  Annehmlichkeiten
+    en:  Amenities
 
   submenu:
     - submenu:
@@ -105,15 +105,15 @@
 
 - linkcode: doen
   menutekst:
-    nl:  Doen
-    fr: ''
-    de: ''
-    en: ''
+    nl: Doen
+    fr: Activités
+    de: Aktivitäten
+    en: Do
 
 
 - linkcode: fotos
   menutekst:
-    nl:  Foto's
-    fr: ''
-    de: ''
-    en: ''
+    nl: Foto's
+    fr: Photos
+    de: Fotos
+    en: Pictures

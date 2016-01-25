@@ -2,284 +2,279 @@ class:
   item: "vd-group-tag-item col-lg-2 col-md-3 col-sm-4 col-xs-6"
   list: "vd-group-tagcloud row"
 items:
+
   - title:
       nl: "hele jaar open"
-      fr: ''
-      de: ''
+      fr: "ouvert toute l’année"
+      de: "das ganze Jahr geöffnet"
       en: ''
 
   - title:
       nl: "tegenover strand en duinen"
-      fr: ''
-      de: ''
+      fr: "face à la plage et aux dunes"
+      de: "gegenüber von Strand und Dünen"
       en: ''
 
   - title:
       nl: "centraal aan de kust"
-      fr: ''
-      de: ''
+      fr: "situation centrale sur la côte"
+      de: "zentral an der Küste"
       en: ''
 
   - title:
       nl: "fietsroutenetwerk"
-      fr: ''
-      de: ''
+      fr: "réseau de randonnées cyclistes"
+      de: "Radwegenetz"
       en: ''
 
   - title:
       nl: "bij winkels en restaurants"
-      fr: ''
-      de: ''
+      fr: "magasins et restaurants"
+      de: "bei Geschäften und Restaurants"
       en: ''
 
   - title:
       nl: "overdekte fietsberging"
-      fr: ''
-      de: ''
+      fr: "garage à vélos"
+      de: "überdachter Fahrradunterstand"
       en: ''
 
   - title:
       nl: "ruim logiesaanbod"
-      fr: ''
-      de: ''
+      fr: "offre de logements variée"
+      de: "großes Angebot an Unterkünften"
       en: ''
 
   - title:
       nl: "persoonlijk onthaal"
-      fr: ''
-      de: ''
+      fr: "accueil personnel"
+      de: "individueller Empfang"
       en: ''
 
   - title:
       nl: "familiale sfeer"
-      fr: ''
-      de: ''
+      fr: "ambiance familiale"
+      de: "familiäre Atmosphäre"
       en: ''
 
   - title:
       nl: "speelplein"
-      fr: ''
-      de: ''
+      fr: "terrain de jeu"
+      de: "Spielplatz"
       en: ''
 
   - title:
       nl: "pop-up bibliotheek"
-      fr: ''
-      de: ''
+      fr: "bibliothèque éphémère"
+      de: "Pop-up-Bibiothek"
       en: ''
 
   - title:
       nl: "animatie"
-      fr: ''
-      de: ''
+      fr: "animations"
+      de: "Animation"
       en: ''
 
   - title:
       nl: "wifi"
-      fr: ''
-      de: ''
+      fr: "wi-fi"
+      de: "Wifi"
       en: ''
 
   - title:
       nl: "ruime plaatsen"
-      fr: ''
-      de: ''
+      fr: "grands emplacements"
+      de: "große Plätze"
       en: ''
 
   - title:
       nl: "eigen groenonderhoud"
-      fr: ''
-      de: ''
+      fr: "entretien des espaces verts réalisé par nos soins"
+      de: "eigene Pflege von Grünanlagen"
       en: ''
 
   - title:
       nl: "ondergrondse gastanks"
-      fr: ''
-      de: ''
+      fr: "réservoirs de gaz souterrains"
+      de: "unterirdische Gastanks"
       en: ''
 
   - title:
       nl: "aparte tellers"
-      fr: ''
-      de: ''
+      fr: "compteurs séparés"
+      de: "getrennte Zähler"
       en: ''
 
   - title:
       nl: "wintervaste wateraansluiting"
-      fr: ''
-      de: ''
+      fr: "raccordement à l’eau pendant l’hiver"
+      de: "winterfester Wasseranschluss"
       en: ''
 
   - title:
       nl: "technische know-how"
-      fr: ''
-      de: ''
-      en: ''
-
-  - title:
-      nl: "met zicht op de Mont Blanc"
-      fr: ''
-      de: ''
+      fr: "expertise technique"
+      de: "technisches Know-how"
       en: ''
 
   - title:
       nl: "petanqueplein"
-      fr: ''
-      de: ''
+      fr: "terrain de pétanque"
+      de: "Petanqueplatz"
       en: ''
 
   - title:
       nl: "viertalig onthaal"
-      fr: ''
-      de: ''
+      fr: "accueil en quatre langues"
+      de: "viersprachiger Empfang"
       en: ''
 
   - title:
       nl: "infomappen"
-      fr: ''
-      de: ''
+      fr: "classeurs d’information"
+      de: "Infomappen"
       en: ''
 
   - title:
       nl: "infodisplay"
-      fr: ''
-      de: ''
+      fr: "écran d’information"
+      de: "Infodisplay"
       en: ''
 
   - title:
       nl: "duurzaam ondernemen"
-      fr: ''
-      de: ''
+      fr: "entrepreneuriat durable"
+      de: "Nachhaltiges Unternehmen"
       en: ''
 
   - title:
       nl: "zonneboilers"
-      fr: ''
-      de: ''
+      fr: "chauffe-eau solaires"
+      de: "Solarboiler"
       en: ''
 
   - title:
       nl: "streekeigen beplanting"
-      fr: ''
-      de: ''
+      fr: "végétation locale"
+      de: "Regionaltypische Bepflanzung"
       en: ''
 
   - title:
       nl: "rust"
-      fr: ''
-      de: ''
+      fr: "repos"
+      de: "Ruhe"
       en: ''
 
   - title:
       nl: "honden welkom"
-      fr: ''
-      de: ''
+      fr: "chiens admis"
+      de: "Hunde willkommen"
       en: ''
 
   - title:
       nl: "49 jaar kampeerervaring"
-      fr: ''
-      de: ''
+      fr: "49 ans d’expérience dans le camping"
+      de: "49 Jahre Campingerfahrung"
       en: ''
 
   - title:
       nl: "familiebedrijf"
-      fr: ''
-      de: ''
+      fr: "entreprise familiale"
+      de: "Familienunternehmen"
       en: ''
 
   - title:
       nl: "bloemenpracht"
-      fr: ''
-      de: ''
+      fr: "magnifiques parterres de fleurs"
+      de: "Blumenpracht"
       en: ''
 
   - title:
       nl: "facebookpagina"
-      fr: ''
-      de: ''
+      fr: "page Facebook"
+      de: "Facebook-Seite"
       en: ''
 
   - title:
       nl: "MVO-rapport"
-      fr: ''
-      de: ''
+      fr: "rapport RSE"
+      de: "SVU-Bericht"
       en: ''
 
   - title:
       nl: "iedereen welkom"
-      fr: ''
-      de: ''
+      fr: "bienvenue à tous"
+      de: "jeder willkommen"
       en: ''
 
   - title:
       nl: "constant vernieuwen"
-      fr: ''
-      de: ''
+      fr: "rénovations permanentes"
+      de: "ständige Innovation"
       en: ''
 
   - title:
       nl: "eigentijds"
-      fr: ''
-      de: ''
+      fr: "moderne"
+      de: "modern"
       en: ''
 
   - title:
       nl: "tentplaatsen"
-      fr: ''
-      de: ''
+      fr: "emplacements pour tentes"
+      de: "Zeltplätze"
       en: ''
 
   - title:
       nl: "trekkersplaatsen"
-      fr: ''
-      de: ''
+      fr: "emplacements de camping"
+      de: "Kurzzeitplätze"
       en: ''
 
   - title:
       nl: "sauna"
-      fr: ''
-      de: ''
+      fr: "sauna"
+      de: "sauna"
       en: ''
 
   - title:
       nl: "wassalon"
-      fr: ''
-      de: ''
+      fr: "laverie automatique"
+      de: "Waschsalon"
       en: ''
 
   - title:
       nl: "verzorgd sanitair"
-      fr: ''
-      de: ''
+      fr: "sanitaires impeccables"
+      de: "gepflegte Sanitäranlagen"
       en: ''
 
   - title:
       nl: "Q-label"
-      fr: ''
-      de: ''
+      fr: "label Q"
+      de: "Q-zeichen"
       en: ''
 
   - title:
       nl: "nabij tramhalte"
-      fr: ''
-      de: ''
+      fr: "arrêt de tram à proximité"
+      de: "Straßenbahnhaltestelle in der Nähe"
       en: ''
 
   - title:
       nl: "ACSI"
-      fr: ''
-      de: ''
-      en: ''
+      fr: "ACSI"
+      de: "ACSI"
+      en: "ACSI"
 
   - title:
       nl: "tegenover Paelsteenveld"
-      fr: ''
-      de: ''
+      fr: "face au Paelsteenveld"
+      de: "gegenüber Paelsteenveld"
       en: ''
 
   - title:
       nl: "op wandelafstand van Grasduinen"
-      fr: ''
-      de: ''
+      fr: "à quelques pas du domaine Grasduinen"
+      de: "in Laufentfernung von Grasduinen"
       en: ''

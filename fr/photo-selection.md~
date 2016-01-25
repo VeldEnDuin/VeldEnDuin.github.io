@@ -1,0 +1,9 @@
+---
+layout: default
+title: Sélection de Photos
+insert:
+    - play-album
+remove:
+    - socialshare
+    - imgstrip
+---

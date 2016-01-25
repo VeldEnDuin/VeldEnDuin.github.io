@@ -9,6 +9,15 @@
  */
 
 
+a {
+    text-decoration: underline;
+}
+
+.navbar a,
+.nav-pills a,
+a.notd {
+    text-decoration: none;
+}
 /* ===================================================================================
  * Page Backdrop
  *   -------------------------------------------------------------------------------
@@ -160,9 +169,8 @@ table.table {
     width: auto;
     /*min-width: 80%;*/
     background-color: rgba(255,255,255,0.8);
-    margin-left: 5em;
+    margin-left: 1em;
     border: 1px solid #4f5137;
-    margin-left: 5em;
     vertical-align: middle;
 }
 
@@ -178,8 +186,8 @@ table.table>tbody>tr>td {
 
 table.table>thead>tr>th {
     background-color: #4f5137;
-    padding-top: 2em;
-    padding-bottom: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
     color: #fff;
     border-left-color: #fff;
     font-size: 1.1em;
@@ -422,7 +430,7 @@ table.table>tbody>tr>td:first-child
     left: 7px;
 }
 
-.vd-group-timeline-item .img-thumbnail {
+.vd-group-timeline-item .img-rounded {
     padding: 0;
     background-color: transparent;
     border: 0;
@@ -444,17 +452,28 @@ table.table>tbody>tr>td:first-child
     position:relative;
 }
 
-.vd-group-timeline-item .vd-group-date {
+.vd-group-date {
     font-size: 2em;
     text-transform: uppercase;
+}
+
+.vd-group-section-head {
+    padding-top: 0.5em;
+    padding-bottom: 0.1em;
+    margin-bottom: 0.4em;
+    border-bottom: 1px solid #8fb742;
 }
 
 .vd-group-timeline-item .vd-group-date .month {
     color: #4f5137;
 }
 
-.vd-group-timeline-item .vd-group-date .year {
+.vd-group-date .year {
     color: #8fb742;
+}
+
+.vd-group-pics-item:hover {
+    cursor: pointer;
 }
 
 
@@ -586,7 +605,7 @@ svg.tagcloud {
 }
 .vd-select-submenu .vd-select-item-dimmer {
     padding: 1.5em 0.5em 0.5em 0.5em;
-    background-color: rgba(255,255,255,0.7);
+    background-color: rgba(255,255,255,0.4);
     border: 1px solid rgba(0,0,0,0.3);
     border-radius:  5px;
 }
@@ -660,7 +679,9 @@ a:hover .vd-button .vd-button-tag-invert .vd-button-inner,
 .vd-button a:hover {
     text-decoration: none;
 }
-a:hover .vd-select-item-inner {
+a:hover .vd-select-item-inner,
+a.notd:hover button,
+button.vd-callout-btn:hover {
     transform: scale(1.01, 1.01);
 }
 
@@ -965,7 +986,19 @@ a:hover .vd-select-item-inner {
     border-top: 1px solid #eee;
 }
 
+/**
+ * CSS image crop. Forces image to 4:3 aspect ratio cropping at the middle.
+ */
+.img-crop {
+  object-fit: cover;/* Do not scale the image */
+  object-position: center;/* Center the image within the element */
+  height: 10em;
+  width: 100%;
+}
 
+.vd-bottom-space {
+    padding-bottom: 1em;
+}
 
 /* ===================================================================================
  * styling vd-archive sections
@@ -1142,29 +1175,32 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
  *   -------------------------------------------------------------------------------
  */
 .vd-footer {
-    margin-top: 4em;
+    /* margin-top: 4em; */
 }
 .vd-img-strip {
-    background-color: rgba(255, 255, 255, 0.5);
+    /* background-color: rgba(255, 255, 255, 0.5); */
     margin: 1em 0 0 0;
     height: 160px;
     overflow: hidden;
 }
 .vd-group-item-inner .vd-img-strip {
-    overflow-x: scroll;
+    overflow-x: auto;
     overflow-y: hidden;
 }
 
 .vd-img-strip>div {
-    width: 200%;
+    /* width: 200%; */
     height: 160px;
+    white-space: nowrap;
 }
 
 .vd-img-strip>div>img {
-    float: left;
+    /* float: left; */
     max-height: 100%;
     max-width: 100%;
     margin-right: 2px;
+    white-space: normal;
+    display: inline-block;
 }
 .vd-footer .vd-img-strip {
     height: 105px;
@@ -1208,6 +1244,17 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
 @media (min-width: 992px) and (max-width: 1199px) {   /*  'md' -- medium      */
 
 }
+
+/*
+ *     ~~~~~~~~~  responsive tables ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ */
+@media (max-width: 767px) {                           /*  'xs' -- extra small */
+	table {
+		overflow-x: auto;
+		display: block;
+	}
+}
+
 
 /* ===================================================================================
  * callout form effects

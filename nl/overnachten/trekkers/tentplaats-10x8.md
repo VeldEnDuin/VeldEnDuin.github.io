@@ -66,4 +66,4 @@ AANTAL PERSONEN | PRIJS / NACHT
 
 ##Plan camping
 
-[invoegen plan][plan.nl]
+![Plan van de camping][plan.nl]

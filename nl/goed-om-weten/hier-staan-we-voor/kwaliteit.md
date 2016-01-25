@@ -3,7 +3,10 @@ title: Kwaliteit
 layout: page
 images: 
     - /img/labels/qfactor-label-2014-2016.jpg
-    
+
+insert:
+    - page-images-top
+
 remove:
     - imgstrip
     

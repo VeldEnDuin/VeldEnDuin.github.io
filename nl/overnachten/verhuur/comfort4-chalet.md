@@ -93,7 +93,7 @@ EXTRA               | PRIJS
 :-------------------|:-----------|
 schoonmaak          | € 40 - zelf schoonmaken kan
 annulatieverzekering| 3,5 % van de totale reissom - [Allianz][pdf_allianz.nl] 
-hond                | € 4 / hond - max 2
+hond                | € 4 / nacht - max 2
 lakenpakket         | € 8 / bed
 kinderbed           | € 1 / nacht
 kinderstoel         | € 1 / nacht
@@ -106,4 +106,4 @@ parking extra auto  | € 4 / begonnen dag
 
 ##Plan camping
 
-[invoegen plan][plan.nl]
+![Plan van de camping][plan.nl]

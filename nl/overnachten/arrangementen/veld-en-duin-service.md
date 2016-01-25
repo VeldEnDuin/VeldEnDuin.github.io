@@ -5,7 +5,7 @@ preview:
     title: "Veld & Duin service"
     button:
         price: 50
-        for: arrangement
+        for: 
     list:
         - "eindschoonmaak"
         - "lakenpakket alle bedden"
@@ -13,6 +13,9 @@ preview:
         
 images:
     - /img/overnachten/arrangementen-vdserv/arrvdserv-01.jpg
+    
+insert:
+    - page-images-top
     
     
     

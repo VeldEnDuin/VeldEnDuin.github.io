@@ -11,8 +11,8 @@ items:
     label: 1920 - 1965
     title:
       nl: "Start (kampeer)toerisme in Bredene"
-      fr: ''
-      de: ''
+      fr: "Début du tourisme (en camping) à Bredene"
+      de: "Anfänge des (Camping-)Tourismus in Bredene"
       en: ''
     description:
       nl: >
@@ -23,8 +23,22 @@ items:
             <li>Het kamperen raakt meer en meer georganiseerd en de eerste echte campings zijn een feit. Tot de eerste generatie campinguitbaters behoren o.a. Arthur Claeys, Robert Ryckx, Oscar Devos, Verkempinck en weduwe Geldhof.</li>
           </ol>
           <i><small>Bron: '100 jaar Bredene aan zee in beeld' door Erwin Mahieu en Frank Huygebaert.</small></i>
-      fr: ''
-      de: ''
+      fr: >
+          <ol>
+            <li>Depuis le début du siècle dernier, la plage et les dunes de Bredene attirent de nombreuses personnes.</li>
+            <li>Au milieu des années 1920, les premiers aventuriers plantent leur tente au hasard dans les dunes.</li>
+            <li>Le camping sauvage dans les dunes est ensuite interdit à partir de 1932. Les campeurs sont alors accueillis dans le Paelsteenveld actuel et dans les champs d’agriculteurs locaux. </li>
+            <li>Petit à petit, l’activité de camping est de mieux en mieux organisée et les premiers véritables campings voient le jour. Arthur Claeys, Robert Ryckx, Oscar Devos, Verkempinck et la veuve Geldhof, entre autres, appartiennent à la première génération d’exploitants de camping.</li>
+          </ol>
+          <i><small>Source: '100 jaar Bredene aan zee in beeld' par Erwin Mahieu et Frank Huygebaert.</small></i>
+      de: >
+          <ol>
+            <li>Der Strand und die Dünen von Bredene üben bereits seit Anfang des vorigen Jahrhunderts eine große Anziehungskraft aus.</li>
+            <li>Mitte der 1920er Jahre stellen die ersten Abenteurer ihre Zelte auf gut Glück in den Dünen auf.</li>
+            <li>Das wilde Campen in den Dünen ist ab 1932 verboten. Seitdem können Camper auf dem heutigen Paelsteenveld und auf den Feldern einiger örtlicher Bauern zelten. </li>
+            <li>Das Zelten wird immer besser organisiert und die ersten echten Campingplätze entstehen. Zur ersten Generation der Platzbetreiber gehören Arthur Claeys, Robert Ryckx, Oscar Devos, Verkempinck und die Witwe Geldhof.</li>
+          </ol>
+          <i><small>Quelle: '100 jaar Bredene aan zee in beeld' von Erwin Mahieu und Frank Huygebaert.</small></i>
       en: ''
 
     images:
@@ -38,8 +52,8 @@ items:
     label: 1962 - 1967
     title:
       nl: "Start campings Prins Filip - Zon en Zee - Veld & Duin"
-      fr: ''
-      de: ''
+      fr: "Ouverture des campings Prins Filip - Zon en Zee - Veld & Duin"
+      de: "Gründung der Campingplätze Prins Filip, Zon en Zee und Veld & Duin"
       en: ''
     description:
       nl: >
@@ -49,8 +63,20 @@ items:
             <li>Een stuk korenveld wordt vanaf 1967 vrijgemaakt voor de eerste kampeerders op Veld & Duin.</li>
           </ol>
           <i><small>Bron: '100 jaar Bredene aan zee in beeld' door Erwin Mahieu en Frank Huygebaert.</small></i>
-      fr: ''
-      de: ''
+      fr: >
+          <ol>
+            <li>Le camping Prins Filip est créé en 1962 par Albert Claeys avant d’être exploité par la suite par la famille Eerebout. Il devient Veld & Duin II en 1996.</li>
+            <li>En 1966, Remi Pyra ouvre le camping Zon en Zee.</li>
+            <li>En 1967, une partie d’un champ de blé est transformée en terrain pour les premiers campeurs de Veld & Duin.</li>
+          </ol>
+          <i><small>Source: '100 jaar Bredene aan zee in beeld' par Erwin Mahieu et Frank Huygebaert.</small></i>
+      de: >
+          <ol>
+            <li>Der Campingplatz Prins Filip wird 1962 von Albert Claeys ins Leben gerufen und später von der Familie Eerebout betrieben. Ab 1996 wird er zu Veld & Duin II.</li>
+            <li>1966 beginnt Remi Pyra mit dem Campingplatz Zon en Zee.</li>
+            <li>Ein Stück Kornfeld wird ab 1967 für die ersten Camper auf dem Platz Veld & Duin freigemacht.</li>
+          </ol>
+          <i><small>Quelle: '100 jaar Bredene aan zee in beeld' von Erwin Mahieu und Frank Huygebaert.</small></i>
       en: ''
     images:
       - /img/tijdslijn/1962-1967/prinsfilip.jpg
@@ -62,13 +88,16 @@ items:
     label: 1967 - 1985
     title:
       nl: "De beginjaren van Veld & Duin"
-      fr: ''
-      de: ''
+      fr: "Les premières années de Veld & Duin"
+      de: "Die Anfangsjahre von Veld & Duin"
       en: ''
     description:
-      nl: "Klik hier voor een hele reeks sfeerfoto's uit de jaren '70 en '80."
-      fr: ''
-      de: ''
+      nl: >
+          Klik hier voor een hele reeks <a href='/nl/foto-archief.html#!1967-00-00 Periode 1967 - 1985'>sfeerfoto's uit de jaren '70 en '80.</a>
+      fr: >
+          Cliquez ici pour découvrir des <a href='/fr/archive-photographique.html#!1967-00-00 Periode 1967 - 1985'>photos vous plongeant dans l'ambiance des années 70 et 80.</a>
+      de: >
+          Klicken Sie hier für eine lange Reihe von <a href='/de/fotoarchiv.html#!1967-00-00 Periode 1967 - 1985'>Stimmungsfotos aus den 70er und 80er Jahren.</a>
       en: ''
     images:
       - /img/tijdslijn/1967-1985/tussenjaren.jpg
@@ -77,13 +106,13 @@ items:
   - date: 1987-08-08
     title:
       nl: "20-jarig jubileum Veld & Duin"
-      fr: ''
-      de: ''
+      fr: "Les 20 ans de Veld & Duin"
+      de: "20-jähriges Jubiläum Veld & Duin"
       en: ''
     description:
       nl: "Groot feest ter gelegenheid van het 20-jarig bestaan van Veld & Duin en het 25-jarige jubileum van camping Prins Filip. Dit werd uitbundig gevierd met een Oberbayernavond, barbecue en kinderanimatie."
-      fr: ''
-      de: ''
+      fr: "Une grande fête a été organisée pour le 20e anniversaire de Veld & Duin et les 25 ans du camping Prins Filip. Au programme: une soirée bavaroise, un barbecue et des animations pour enfants."
+      de: "Großes Fest anlässlich des 20-jährigen Bestehens von Veld & Duin und des 25-jährigen Jubiläums von Campingplatz Prins Filip. Das wurde ausgiebig mit einem Oberbayernfest, einem Grillfest und Kinderanimation gefeiert."
       en: ''
     images:
       - /img/tijdslijn/1987/jubileum87-01.jpg
@@ -95,13 +124,13 @@ items:
     label: 1996
     title:
       nl: "Eerste editie Afro Caribbean Festival"
-      fr: ''
-      de: ''
+      fr: "Première édition de l’Afro Caribbean Festival"
+      de: "Erste Ausgabe des Afro Caribbean Festival"
       en: ''
     description:
       nl: "Het huidige Afro C Festival ontstond uit het Afro Caribbean Festival dat in 1996 voor het eerst werd georganiseerd als parkfeest. De eerste editie telde drie groepen, door de jaren heen werd het festival aanzienlijk uitgebreid. Vanaf 2009 werd dit een tweedaags festival."
-      fr: ''
-      de: ''
+      fr: "À sa première édition en 1996, alors sous le nom d’Afro Caribbean Festival, l’Afro C Festival était une simple fête dans le parc réunissant 3 groupes. Depuis lors, le festival s’est considérablement développé et se déroule durant deux jours depuis 2009."
+      de: "Das heutige Afro C Festival entstand aus dem Afro Caribbean Festival, das 1996 erstmals als Parkfest organisiert wurde. Beim ersten Mal traten drei Gruppen auf. Im Laufe der Jahre wurde das Festival beträchtlich erweitert. Seit 1996 erstreckt es sich über zwei Tage."
       en: ''
     images:
       - /img/tijdslijn/1996/Afrocarribean.jpg
@@ -110,13 +139,13 @@ items:
   - date: 1998-07-25
     title:
       nl: "Feest Veld & Duin"
-      fr: ''
-      de: ''
+      fr: "Fête au camping Veld & Duin"
+      de: "Ein Fest bei Veld & Duin"
       en: ''
     description:
       nl: "Opnieuw reden voor een feestje: Veld & Duin bestaat 31 jaar en Stefaan Casier verwelkomt zijn kampeerders voor het tweede seizoen op Veld & Duin II (het vroegere Prins Filip)."
-      fr: ''
-      de: ''
+      fr: "Une nouvelle raison de faire la fête : Veld & Duin fête ses 31 ans et Stefaan Casier accueille pour la deuxième saison ses campeurs sur le terrain Veld & Duin II (anciennement Prins Filip)"
+      de: "Wieder ein Grund zum Feiern: Veld & Duin besteht 31 Jahre und Stefaan Casier begrüßt seine Campinggäste zur zweiten Saison auf Veld & Duin II (dem früheren Prins Filip)."
       en: ''
     images:
       - /img/tijdslijn/1998/jubileum98-01.jpg
@@ -130,13 +159,13 @@ items:
     label: 2002
     title:
       nl: "Overname Zon en Zee"
-      fr: ''
-      de: ''
+      fr: "Rachat de Zon en Zee"
+      de: "Übernahme Zon en Zee"
       en: ''
     description:
       nl: "In 2002 wordt het toenmalige Zon en Zee overgenomen. Er wordt meteen werk gemaakt van een renovatieplan voor de komende jaren."
-      fr: ''
-      de: ''
+      fr: "Zon en Zee est racheté en 2002. Un plan de rénovation pour les prochaines années est immédiatement lancé."
+      de: "2002 wird der ehemalige Platz Zon en Zee übernommen. Sofort wird ein Renovierungsplan für die kommenden Jahre aufgestellt."
       en: ''
     images:
       - /img/tijdslijn/2002/overnameZZ.jpg
@@ -145,13 +174,13 @@ items:
     label: 2002
     title:
       nl: "Jubileumfeest"
-      fr: ''
-      de: ''
+      fr: "35 ans d'existence"
+      de: "Jubiläumsfeierlichkeiten"
       en: ''
     description:
       nl: "Het seizoen wordt afgesloten met een feest ter gelegenheid van 35 jaar Veld & Duin. Op dit feest neemt Brigitte Pyra afscheid van haar kampeerders van Zon en Zee."
-      fr: ''
-      de: ''
+      fr: "La saison se clôture par une fête organisée dans le cadre des 35 ans de Veld & Duin. Lors de cette fête, Brigitte Pyra dit adieu à ses campeurs de Zon en Zee."
+      de: "Die Saison endet mit einem Fest anlässlich des 35. Geburtstags von Veld & Duin, in dessen Verlauf sich Brigitte Pyra von ihren Zon-en-Zee-Campinggästen verabschiedet."
       en: ''
     images:
       - /img/tijdslijn/2002/jubileum2002-01.jpg
@@ -164,13 +193,13 @@ items:
     label: 2003
     title:
       nl: "Plaatsing airtrampoline"
-      fr: ''
-      de: ''
+      fr: "Installation du trampoline d’air"
+      de: "Aufstellen Air Trampolin"
       en: ''
     description:
       nl: "De eerste airtrampoline van België wordt bij ons geïnstalleerd. Vanaf 2006 krijgt de airtrampoline een plaatsje vooraan op de camping."
-      fr: ''
-      de: ''
+      fr: "Le premier trampoline d’air de Belgique est installé chez nous. En 2006, une place à l’avant du camping lui est attribuée."
+      de: "Das erste Air Trampolin in Belgien wird bei uns aufgestellt. Ab 2006 erhält das Air Trampolin einen Platz vorn auf dem Campingplatz."
       en: ''
     images:
       - /img/tijdslijn/2003/airtr-01.jpg
@@ -182,13 +211,13 @@ items:
     label: 2004 - 2005
     title:
       nl: "Start renovatiewerken"
-      fr: ''
-      de: ''
+      fr: "Lancement des travaux de rénovation"
+      de: "Beginn Renovierungsarbeiten"
       en: ''
     description:
       nl: "Op het voormalige Zon en Zee worden 23 grote en nieuwe percelen aangelegd."
-      fr: ''
-      de: ''
+      fr: "23 grandes parcelles sont construites sur l’ancien terrain de Zon en Zee."
+      de: "Auf dem ehemaligen Platz Zon en Zee werden 23 große und neue Parzellen angelegt."
       en: ''
     images:
       - /img/tijdslijn/2004-2005/werken-01.jpg
@@ -202,13 +231,13 @@ items:
     label: 2005 - 2006
     title:
       nl: "Verplaatsing speelplein"
-      fr: ''
-      de: ''
+      fr: "Déplacement du terrain de jeu"
+      de: "Verlegung Spielplatz"
       en: ''
     description:
       nl: "Het speelplein wordt verplaatst en uitgebreid, 12 percelen worden aangelegd en er komt wifi voor onze kampeerders."
-      fr: ''
-      de: ''
+      fr: "Le terrain de jeu est déplacé et agrandi, 12 nouvelles parcelles sont aménagées et le wi-fi est installé pour nos campeurs."
+      de: "Der Spielplatz wird verlegt und erweitert. Wir legen 12 Parzellen an und führen Wifi für unsere Camper ein."
       en: ''
     images:
       - /img/tijdslijn/2005-2006/speelpl.jpg
@@ -218,13 +247,13 @@ items:
     label: 2006 - 2007
     title:
       nl: "Complete vernieuwing ingang"
-      fr: ''
-      de: ''
+      fr: "Rénovation intégrale de l’entrée"
+      de: "Vollständige Erneuerung Eingangsbereich"
       en: ''
     description:
       nl: "De ingang krijgt een complete facelift met een grote canvastent, een mooi aangelegd wandelpad, een grafitti-wall en een nieuwe toegangscontrole. Tenslotte komen er nog eens 12 nieuwe percelen."
-      fr: ''
-      de: ''
+      fr: "L’entrée est entièrement rénovée. Une grande tente est installée, un joli chemin est aménagé, une fresque murale est peinte et un nouveau système de contrôle d’accès est installé. De plus, 12 nouvelles parcelles sont aménagées."
+      de: "Der Eingangsbereich erhält einen vollständigen Facelift mit einem großen Canvaszelt, einem schön angelegten Spazierweg, einer Grafiti-Wand und einer neuen Zugangskontrolle. Und dann kommen noch einmal 12 neue Parzellen dazu."
       en: ''
     images:
       - /img/tijdslijn/2006-2007/tent-01.jpg
@@ -238,13 +267,13 @@ items:
     label: 2006
     title:
       nl: "Grijze walvis in Spuikom"
-      fr: ''
-      de: ''
+      fr: "Une baleine grise au Spuikom"
+      de: "Grauer Wal in der Spuikom"
       en: ''
     description:
       nl: "In de Spuikom (waterplas aan de grens van Oostende) wordt een grijze walvis gespot. Deze vreemde verschijning lokt heel wat extra bezoekers naar de Spuikom en onze camping."
-      fr: ''
-      de: ''
+      fr: "Une baleine grise est repérée au Spuikom (bassin d’eau à la limite d’Ostende). L’étrange phénomène attire de nombreux visiteurs au Spuikom et dans notre camping"
+      de: "In der Spuikom (Wasserfläche am Rande von Ostende) wird ein grauer Wal gesichtet. Diese seltsame Erscheinung lockt etliche zusätzliche Besucher an die Spuikom und in unseren Campingplatz."
       en: ''
     images:
       - /img/tijdslijn/2006/walvis-01.jpg
@@ -254,13 +283,13 @@ items:
     label: 2007
     title:
       nl: "40-jarig jubileum"
-      fr: ''
-      de: ''
+      fr: "40 ans"
+      de: "40-jähriges Jubiläum"
       en: ''
     description:
       nl: "Het 40-jarig jubileum wordt groots gevierd met een dag vol animatie en een sfeervol avondfeest."
-      fr: ''
-      de: ''
+      fr: "Le 40e anniversaire du camping est fêté dignement durant une journée remplie d’activités et une soirée animée."
+      de: "Das 40-jährige Jubiläum wird groß mit einem Tag voller Animationen und einem stimmungsvollen abendlichen Fest gefeiert."
       en: ''
     images:
       - /img/tijdslijn/2007/jubileum2007-01.jpg
@@ -274,13 +303,13 @@ items:
     label: 2008 - 2010
     title:
       nl: "Vernieuwing receptie"
-      fr: ''
-      de: ''
+      fr: "Rénovation de la réception"
+      de: "Renovierung Empfang"
       en: ''
     description:
       nl: "Het receptiegebouw wordt grondig gerenoveerd: het onthaal wordt volledig vernieuwd en er komt een extra verdieping. Op de eerste en tweede verdieping komen 2 luxe-appartementen voor verhuur."
-      fr: ''
-      de: ''
+      fr: "Le bâtiment de la réception est entièrement rénové : un nouvel accueil est aménagé et un étage supplémentaire est construit. Deux appartements de luxe disponibles à la location sont aménagés au premier et au deuxième étage"
+      de: "Das Empfangsgebäude wird gründlich renoviert und um ein Stockwerk erhöht. Im ersten und zweiten Stock werden 2 Luxusappartements zum Vermieten eingerichtet Der Empfangstresen wird komplett erneuert."
       en: ''
     images:
       - /img/tijdslijn/2008-2010/receptievoorna.jpg
@@ -290,13 +319,13 @@ items:
     label: 2011
     title:
       nl: "Opening recreatiedomein Grasduinen"
-      fr: ''
-      de: ''
+      fr: "Inauguration du domaine récréatif Grasduinen"
+      de: "Eröffnung Erholungsgebiet Grasduinen"
       en: ''
     description:
       nl: "Grasduinen is een 9 ha groot recreatiedomein op wandelafstand van de camping. Op het domein is er een vijver en vindt u verschillende sportvelden, speeltoestellen, wandel-en fietspaden. Er worden ook geregeld evenementen georganiseerd."
-      fr: ''
-      de: ''
+      fr: "Grasduinen est un domaine récréatif de 9 hectares situé à proximité du camping. Il compte un étang et plusieurs terrains de sport, des jeux et des chemins de randonnées pédestres et cyclistes."
+      de: "Grasduinen ist ein 9 ha großes Erholungsgebiet in Laufentfernung vom Campingplatz. Auf dem Gelände gibt es einen Weiher und verschiedene Sportplätze, Spielgeräte, Wander- und Radwege. Es werden auch regelmäßig Veranstaltungen organisiert."
       en: ''
     images:
       - /img/tijdslijn/2011/grasduinen.jpg
@@ -306,13 +335,13 @@ items:
     label: 2013
     title:
       nl: "Toegang Veld & Duin in een nieuw jasje"
-      fr: ''
-      de: ''
+      fr: "Rénovation de l’entrée de Veld & Duin."
+      de: "Eingangsbereich von Veld & Duin in einem neuen Gewand"
       en: ''
     description:
       nl: "Er komt een check-in zone en 3 stijlvolle bannieren zodat u ons nog makkelijker kan vinden."
-      fr: ''
-      de: ''
+      fr: "Installation d’une zone de check-in et de 3 élégantes bannières pour que nos campeurs nous trouvent plus rapidement."
+      de: "Wir richten einen Check-in-Bereich ein und stellen 3 stilvolle Banner auf, sodass Sie uns noch einfacher finden können."
       en: ''
     images:
       - /img/tijdslijn/2013/ingang.jpg
@@ -322,13 +351,13 @@ items:
     label: 2013
     title:
       nl: "Start heraanleg park Paelsteenveld"
-      fr: ''
-      de: ''
+      fr: "Lancement des travaux de réaménagement du parc Paelsteenveld"
+      de: "Beginn Neuanlage Paelsteenveld-Park"
       en: ''
     description:
       nl: "Het Paelsteenveld tegenover de camping wordt heraangelegd. De werken worden in verschillende fases uitgevoerd. Het gedeelte tussen de Astridbrug en het Staf Versluyscentrum is ondertussen volledig klaar."
-      fr: ''
-      de: ''
+      fr: "Réaménagement du Paelsteenveld situé face au camping. Les travaux sont effectués en plusieurs phases. La partie entre le pont Astrid et le centre Staf Versluys est terminée."
+      de: "Das Paelsteenveld gegenüber dem Campingplatz wird neu angelegt. Die Arbeiten erfolgen in mehreren Phasen. Der Teil zwischen Astrid-Brücke und Staf Versluyscentrum ist inzwischen vollkommen fertig."
       en: ''
     images:
       - /img/tijdslijn/2013-2015/Paelsteenveld-01.jpg
@@ -339,11 +368,11 @@ items:
     label: 2014 - 2015
     title:
       nl: "Nieuw sanitair en start werken fase IV"
-      fr: ''
-      de: ''
+      fr: "Installation de nouveaux sanitaires et lancement de la phase IV des travaux"
+      de: "Neue Sanitäranlagen und Beginn der Arbeiten von Phase IV"
       en: ''
     description:
       nl: "Op Veld & Duin II wordt het moderne en nieuwe sanitairgebouw afgewerkt.<br> Het renovatieproject gaat van start met de aanleg van 10 nieuwe percelen."
-      fr: ''
-      de: ''
+      fr: "Achèvement du nouveau bâtiment des sanitaires de Veld & Duin II.<br> Lancement du projet de rénovation dans le cadre duquel 10 nouvelles parcelles sont aménagées."
+      de: "Auf dem Platz Veld & Duin II wird das moderne und neue Sanitärgebäude fertiggestellt.<br> Das Renovierungsprojekt beginnt mit der Anlage von 10 neuen Parzellen."
       en: ''

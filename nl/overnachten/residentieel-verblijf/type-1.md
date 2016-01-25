@@ -12,7 +12,11 @@ preview:
         - "8 maanden toegankelijk"
                
 images:
-    - /img/overnachten/residentieel-type4/restyp4-01.jpg
+    - /img/overnachten/residentieel-type1/restyp1-01.jpg
+    
+insert:
+    - page-images-top
+    
 ---
 
 {% include links.md %}
@@ -32,9 +36,9 @@ Deze plaatsen zijn iets kleiner qua oppervlakte maar bieden evengoed een instant
 TYPE 1                                         |PRIJS                               |
 :---------------------------------------------:|:----------------------------------:|
 standplaatsvergoeding                          | € 1685         
-gemeentetaks                                   | € 333,90 (2015) 
+gemeentetaks                                   | € 340,79 
 huisvuilbijdrage<br>incl 25 zakken<br>         | € 65    
- [brandverzekering][pdf_brandverzekering.nl]    | afhankelijk van <br>waarde caravan
+ [brandverzekering][pdf_brandverzekering.nl]   | afhankelijk van <br>waarde caravan
 
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
@@ -48,6 +52,4 @@ tellervergoeding      | € 18 / teller
 
 ##Plan camping
 
-[invoegen plan][plan.nl]
-aanduiden met kleur op plan welke percelen - Joke?
-
+![Plan van de camping][plan.nl]

@@ -13,7 +13,11 @@ preview:
        
         
 images:
-    - /img/overnachten/residentieel-type2/restyp2-01.jpg
+    - /img/overnachten/residentieel-type3/restyp3-01.jpg
+    
+insert:
+    - page-images-top
+    
     
 ---
 
@@ -35,15 +39,15 @@ Een vaste stek aan de kust om steeds opnieuw naar terug te keren, wie droomt daa
 TYPE 3                |PRIJS           |
 :--------------------:|:--------------:|
 standplaatsvergoeding |€ 1870               
-gemeentetaks          |€ 333,90 (2015) 
+gemeentetaks          |€ 340,79 
 huisvuilbijdrage<br>incl 25 zakken<br> | € 65    
-[brandverzekering][pdf_brandverzekering.nl]      |afhankelijk van <br>waarde caravan
+[brandverzekering][pdf_brandverzekering.nl]      |afhankelijk van <br>waarde caravan / chalet
 
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
 electriciteit         | € 0,35 / kw        
 water                 | € 6,50 / m³  
-gas                   | € 6,50 / m³       
+gas                   | € 6,15 / m³       
 tellervergoeding      | € 18 / teller
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven
@@ -52,6 +56,4 @@ tellervergoeding      | € 18 / teller
 
 ##Plan camping
 
-[invoegen plan][plan.nl]
-aanduiden met kleur op plan welke percelen - Joke?
-
+![Plan van de camping][plan.nl]

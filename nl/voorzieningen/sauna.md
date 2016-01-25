@@ -10,7 +10,7 @@ images:
     - /img/voorzieningen/sauna/sauna-04.jpg
 
 insert:
-    - page-images-bottom
+    - page-images-top
 
 remove:
     - imgstrip

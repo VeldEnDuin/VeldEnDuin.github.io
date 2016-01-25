@@ -10,7 +10,7 @@ images:
     - /img/voorzieningen/animatie/anim-04.jpg
 
 insert:
-    - page-images-bottom
+    - page-images-top
 
 remove:
     - imgstrip
@@ -26,6 +26,8 @@ In de paasvakantie organiseren we 2 activiteiten waaronder een grote paaseierenz
 Op vrijdagen in het hoogseizoen voorzien we een gevarieerd animatieprogramma. We proberen hierbij de platgetreden paden te verlaten en gaan telkens op zoek naar een leuk en vernieuwend aanbod. Houd onze kalender in de gaten voor een volledig overzicht.
 
 Het jaar wordt afgesloten met een gezellige glühweinavond. Onder het genot van een glaasje en versnapering halen we herinneringen op en kijk we al uit naar het volgend seizoen.
+
+[Fotoarchief animatie Veld & Duin][pics.nl]
 
 
 ##Kalender Veld & Duin

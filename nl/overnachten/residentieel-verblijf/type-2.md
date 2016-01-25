@@ -13,7 +13,10 @@ preview:
         
         
 images:
-    - /img/overnachten/residentieel-type3/restyp3-01.jpg
+    - /img/overnachten/residentieel-type2/restyp2-01.jpg
+    
+insert:
+    - page-images-top
     
 ---
 
@@ -35,7 +38,7 @@ Kom na een drukke werkweek onthaasten in uw caravan. Zo kunt u er nadien weer he
 TYPE 2                |PRIJS           |
 :--------------------:|:--------------:|
 standplaatsvergoeding |€ 1820               
-gemeentetaks          |€ 333,90 (2015) 
+gemeentetaks          |€ 340,79 
 huisvuilbijdrage<br>incl 25 zakken<br> | € 65    
 [brandverzekering][pdf_brandverzekering.nl]|afhankelijk van <br>waarde caravan
 
@@ -52,6 +55,4 @@ tellervergoeding      | € 18 / teller
 
 ##Plan camping
 
-[invoegen plan][plan.nl]
-aanduiden met kleur op plan welke percelen - Joke?
-
+![Plan van de camping][plan.nl]

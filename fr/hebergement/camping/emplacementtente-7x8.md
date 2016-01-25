@@ -1,0 +1,68 @@
+---
+layout: page
+title: Emplacement Tente 7x8
+preview: 
+    title: Emplacement Tente 7x8
+    button:
+        price: 18
+        for: par nuit
+        
+    list:
+        - "dimensions : 7x8 mètres"
+        - "idéal pour une tente de 2 personnes"
+        - "emplacements dans l’herbe"
+        - "à proximité des sanitaires"
+                
+images:
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-01.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-02.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-03.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-04.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-05.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-06.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-07.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-08.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-09.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-10.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-01.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-02.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-03.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-04.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-05.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-06.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-07.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-08.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-09.jpg
+    - /img/overnachten/trekkers-tent-7x8/tent7x8-10.jpg
+    
+    
+    
+insert:
+    - page-images-top
+---
+{% include links.md %}
+
+# EMPLACEMENT TENTE 7x8
+Ces emplacements de 7x8 mètres conviennent parfaitement aux petites tentes (à montage rapide).  
+
+
+##Bon à savoir
+- max. 4 personnes / emplacement
+- chiens admis – max. 2 – pas de races dangereuses
+
+##Prix
+NOMBRE DE PERSONNES | PRIX / NUIT     
+:------------------:|:-----------:|
+1 personne          |€ 18              
+2 personnes         |€ 21                   
+3 personnes         |€ 24      
+4 personnes         |€ 27            
+      
+
+15/7 - 15/8: réservation à partir de 7 nuits
+
+{% include fr/camping-reuse.md %}
+
+##Plan camping
+
+[invoegen plan][plan.fr]
