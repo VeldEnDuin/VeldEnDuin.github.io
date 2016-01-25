@@ -1,5 +1,5 @@
 ---
-title: Trekkers
+title: Hikers
 layout: default
 
 class:
