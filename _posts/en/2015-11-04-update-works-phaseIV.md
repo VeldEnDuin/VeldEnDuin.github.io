@@ -13,9 +13,9 @@ images:
 {% include links.md %}
 
 
-As part of our [renovation project] [nieuw_project.en] 7 luxurious pitches are being constructed
+As part of our [renovation project] [nieuw_project.en] 7 luxurious pitches are being constructed.
 
 Meanwhile all concrete slabs are cast and we are convinced that the new pitches will meet your demands.
 
 
-You are welcome to come and have a look
+You are welcome to come and have a look.
