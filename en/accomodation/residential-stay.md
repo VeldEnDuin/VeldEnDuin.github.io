@@ -1,5 +1,5 @@
 ---
-title: Residental
+title: Residential
 layout: default
 callout: TODO - trigger tekst vanop RESIDENTIEEL page
     
