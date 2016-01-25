@@ -3,7 +3,7 @@
     nl: Goed om weten
     fr: Bon à savoir
     de: Gut zu wissen
-    en: ''
+    en: Worth knowing
   submenu:
     - linkcode: onze_troeven
 
@@ -26,7 +26,7 @@
   menutekst:
     nl:  Overnachten
     fr:  Hébergement
-    en:  Staying overnight
+    en:  Accomodation
     de:  Übernachtung
   submenu:
     - linkcode: verhuur
@@ -88,7 +88,7 @@
     nl:  Voorzieningen
     fr:  Équipements
     de:  Annehmlichkeiten
-    en: ''
+    en:  Amenities
 
   submenu:
     - submenu:
@@ -108,7 +108,7 @@
     nl: Doen
     fr: Activités
     de: Aktivitäten
-    en: ''
+    en: Do
 
 
 - linkcode: fotos
@@ -116,4 +116,4 @@
     nl: Foto's
     fr: Photos
     de: Fotos
-    en: ''
+    en: Pictures
