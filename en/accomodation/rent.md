@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Verhuur
+title: Rent
 callout: "Laat u verrassen door ons diverse logiesaanbod en kies de formule die het best bij u past."
 
 class:
@@ -8,10 +8,11 @@ class:
         list: "properties-grid"
 
 preview:
-    title: Zin om er even uit te zijn?
+    title: Need a break?
     text: 
-        - Boek een chalet, caravan of (luxe)appartement en geniet volop van een zorgeloos en comfortabel verblijf. 
-        - Ook kampeerders met eigen caravan of tent zijn bij ons van harte welkom.     
+        - Book a chalet, caravan or(luxurious)apartment and enjoy a careless and comfortable stay
+        - We also welcome campers who have a caravan or a tent of their own
+        
 images:
     - /img/prevverhuur.jpg
     
