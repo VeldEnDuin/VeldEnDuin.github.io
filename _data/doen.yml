@@ -18,13 +18,13 @@ items:
     en: http://www.stafversluys-centrum.be/en/
   title:
     nl: Staf Versluyscentrum
-    fr: ''
-    de: ''
+    fr: Centre Staf Versluys
+    de: Staf Versluyscentrum
     en: ''
   caption:
     nl: meeting en eventcentrum - Bredene
-    fr: ''
-    de: ''
+    fr: centre de séminaires et d’événements - Bredene
+    de: Konferenz- und Veranstaltungszentrum – Bredene
     en: ''
 - ranking: 220
   location: 51.230606, 2.915692
@@ -39,13 +39,13 @@ items:
     en: http://www.degrotepost.be/
   title:
     nl: De Grote Post
-    fr: ''
-    de: ''
-    en: ''
+    fr: De Grote Post
+    de: De Grote Post
+    en: De Grote Post
   caption:
     nl: cultuurhuis - Oostende
-    fr: ''
-    de: ''
+    fr: Centre culturel - Ostende
+    de: Kulturhaus – Ostende
     en: ''
 - ranking: 500
   subgroups:
@@ -59,13 +59,13 @@ items:
     en: http://www.flandersfields.be/en
   title:
     nl: 100 jaar Groote Oorlog
-    fr: ''
-    de: ''
+    fr: Le centenaire de la Grande Guerre
+    de: 100 Jahre Erster Weltkrieg
     en: ''
   caption:
     nl: herdenking WO I
-    fr: ''
-    de: ''
+    fr: commémoration de la Première Guerre mondiale
+    de: Gedenken an den Ersten Weltkrieg
     en: ''
 - ranking: 280
   location: 51.239829, 2.934340
@@ -77,17 +77,17 @@ items:
   link:
     nl: http://www.fortnapoleon.be/nl/
     fr: http://www.fortnapoleon.be/fr/
-    de: http://www.fortnapoleon.be/fr/
-    en: http://www.fortnapoleon.be/fr/
+    de: http://www.fortnapoleon.be/nl/
+    en: http://www.fortnapoleon.be/nl/
   title:
     nl: Fort Napoleon
-    fr: ''
-    de: ''
-    en: ''
+    fr: Fort Napoléon
+    de: Fort Napoleon
+    en: Fort Napoleon
   caption:
     nl: militair fort - Oostende
-    fr: ''
-    de: ''
+    fr: Fort militaire - Ostende
+    de: Militärische Festung – Ostende
     en: ''
 - ranking: 90
   location: 51.226366, 2.914577
@@ -103,13 +103,13 @@ items:
     en: http://www.muzee.be/?null&lang=en
   title:
     nl: MuZee
-    fr: ''
-    de: ''
-    en: ''
+    fr: MuZee
+    de: MuZee
+    en: MuZee
   caption:
     nl: kunstmuseum voor Belgische kunst - Oostende
-    fr: ''
-    de: ''
+    fr: Musée d’art belge - Ostende
+    de: Kunstmuseum für belgische Kunst – Ostende
     en: ''
 - ranking: 350
   location: 51.199366, 2.848961
@@ -125,13 +125,13 @@ items:
     en: http://www.raversyde.be/en/atlantikwall-0
   title:
     nl: Provinciedomein Raversyde
-    fr: ''
-    de: ''
+    fr: Domaine provincial de Raversijde
+    de: Provinzdomäne Raversyde
     en: ''
   caption:
     nl: Atlanticwall - Oostende
-    fr: ''
-    de: ''
+    fr: Le Mur de l’Atlantique - Ostende
+    de: Atlantikwall – Ostende
     en: ''
 - ranking: 30
   location: 51.226279, 3.224892
@@ -147,13 +147,13 @@ items:
     en: https://bezoekers.brugge.be/en
   title:
     nl: Historisch Brugge
-    fr: ''
-    de: ''
+    fr: Centre historique de Bruges
+    de: Historisches Brügge
     en: ''
   caption:
     nl: Unesco Werelderfgoedstad
-    fr: ''
-    de: ''
+    fr: Ville classée au patrimoine mondial de l’Unesco
+    de: Unesco-Weltkulturerbestätte
     en: ''
 - ranking: 480
   location: 51.136871, 2.755682
@@ -169,13 +169,13 @@ items:
     en: http://www.nieuwpoort.be/nieuwpoort/view/en/nieuwpoort/the_great_war/westfront_nieuwpoort
   title:
     nl: Westfront
-    fr: ''
-    de: ''
+    fr: Front occidental
+    de: Westfront
     en: ''
   caption:
     nl: slag om de Ijzer - Nieuwpoort
-    fr: ''
-    de: ''
+    fr: La bataille de l’Yser - Nieuport
+    de: Schlacht um die Yser - Nieuwpoort
     en: ''
 - ranking: 40
   location: 51.252213, 2.974759
@@ -190,14 +190,14 @@ items:
     en: http://www.afrocaribbean.be/
   title:
     nl: Afro C Festival
-    fr: ''
-    de: ''
-    en: ''
+    fr: Afro C Festival
+    de: Afro C Festival
+    en: Afro C Festival
   caption:
-    nl: gratis wereldmuziekfestival - Bredene - 7+8/8
-    fr: ''
-    de: ''
-    en: ''
+    nl: gratis wereldmuziekfestival - Bredene - 12-13/8
+    fr: Festival gratuit de musique du monde – Bredene – 12-13/8
+    de: Weltmusikfestival mit kostenlosem Eintritt – Bredene – 12. und 13.8.
+    en: Free World Music Festival - Bredene - 12-13/8
 - ranking: 170
   location: 51.252213, 2.974759
   subgroups:
@@ -205,20 +205,16 @@ items:
   images:
   - "/img/doen/bre-gardens.jpg"
   link:
-    nl: ''
-    fr: ''
-    de: ''
-    en: ''
   title:
     nl: Gardens of Bredene
-    fr: ''
-    de: ''
-    en: ''
+    fr: Gardens of Bredene
+    de: Gardens of Bredene
+    en: Gardens of Bredene
   caption:
-    nl: parkfeest 't Paelsteenveld - Bredene - 29/8
-    fr: ''
-    de: ''
-    en: ''
+    nl: parkfeest 't Paelsteenveld - Bredene - 27/8
+    fr: fête dans le parc ‘t Paelsteenveld – Bredene – 27/8
+    de: Parkfest 't Paelsteenveld – Bredene – 27.8.
+    en: Festival in the park - 't Paelsteenveld - Bredene - 27/8
 - ranking: 230
   location: 51.231234, 2.913555
   subgroups:
@@ -228,18 +224,18 @@ items:
   link:
     nl: http://theateraanzee.be/nl/
     fr: http://theateraanzee.be/fr/
-    de: ''
+    de: http://theateraanzee.be/nl
     en: http://theateraanzee.be/en/
   title:
     nl: Theater aan Zee
-    fr: ''
-    de: ''
-    en: ''
+    fr: Theater aan Zee
+    de: Theater aan Zee
+    en: Theater aan Zee
   caption:
-    nl: theaterfestival - Oostende - 30/7-8/8
-    fr: ''
-    de: ''
-    en: ''
+    nl: theaterfestival - Oostende - 28/7-6/8
+    fr: festival de théâtre – Ostende – 28/7-6/8
+    de: Theaterfestival – Ostende – 28.7. bis 6.8.
+    en: Theater festival - Ostend - 28/7-6/8
 - ranking: 100
   location: 51.278736, 3.034791
   subgroups:
@@ -253,13 +249,13 @@ items:
     en: http://www.visitdehaan.be/en/experience/events/trammelant/1487/
   title:
     nl: Trammelant
-    fr: ''
-    de: ''
-    en: ''
+    fr: Trammelant
+    de: Trammelant
+    en: Trammelant
   caption:
-    nl: Belle Epoquefeest - De Haan
-    fr: ''
-    de: ''
+    nl: Belle Epoquefeest - De Haan - 6/8
+    fr: fête sous le thème de la Belle Époque – Le Coq - 6/8
+    de: Belle-Epoque-Fest – De Haan 6/8
     en: ''
 - ranking: 290
   location: 51.315091, 3.131080
@@ -274,14 +270,14 @@ items:
     en: http://www.bloemencorso-blankenberge.be/#!/page_SPLASH
   title:
     nl: Bloemencorso
-    fr: ''
-    de: ''
+    fr: Corso fleuri
+    de: Blumenkorso
     en: ''
   caption:
-    nl: bloemenstoet - Blankenberge - 30/8/2015
-    fr: ''
-    de: ''
-    en: ''
+    nl: bloemenstoet - Blankenberge - 28/8
+    fr: cortège de chars fleuris – Blankenberge – 28/8
+    de: Blumenumzug – Blankenberge – 28.9.
+    en: Flower Parade - Blankenberge - 28/9
 - ranking: 240
   location: 51.318481, 3.146007
   subgroups:
@@ -295,13 +291,13 @@ items:
     en: https://www.visitsealife.com/blankenberge/en/
   title:
     nl: Sealife Blankenberge
-    fr: ''
-    de: ''
-    en: ''
+    fr: Sealife Blankenberge
+    de: Sealife Blankenberge
+    en: Sealife Blankenberge
   caption:
     nl: ontdek de boeiende onderwaterwereld
-    fr: ''
-    de: ''
+    fr: découvrez les merveilles du monde sous-marin
+    de: Entdecken Sie die fesselnde Unterwasserwelt
     en: ''
 - ranking: 110
   location: 51.255308, 3.007239
@@ -316,13 +312,13 @@ items:
     en: http://www.desierk.be/nl/index.html
   title:
     nl: De Sierk
-    fr: ''
-    de: ''
-    en: ''
+    fr: De Sierk
+    de: De Sierk
+    en: De Sierk
   caption:
     nl: circusspeelterrein- De Haan
-    fr: ''
-    de: ''
+    fr: terrain de jeux de cirque – Le Coq
+    de: Zirkusspielplatz – De Haan
     en: ''
 - ranking: 370
   location: 51.181855, 3.214026
@@ -333,17 +329,17 @@ items:
   link:
     nl: http://www.boudewijnseapark.be/
     fr: http://www.boudewijnseapark.be/fr/
-    de: ''
-    en: ''
+    de: http://www.boudewijnseapark.be
+    en: http://www.boudewijnseapark.be
   title:
     nl: Bouwewijn Seapark
-    fr: ''
-    de: ''
-    en: ''
+    fr: Boudewijn Seapark
+    de: Boudewijn Seapark
+    en: Boudewijn Seapark
   caption:
     nl: dolfinarium en attractiepark - Brugge
-    fr: ''
-    de: ''
+    fr: delphinarium et parc d’attractions - Bruges
+    de: Delfinarium und Freizeitpark – Brügge
     en: ''
 - ranking: 180
   location: 51.238518, 2.939241
@@ -358,13 +354,13 @@ items:
     en: http://www.explorado-oostende.be/?lang=en
   title:
     nl: Explorado
-    fr: ''
-    de: ''
-    en: ''
+    fr: Explorado
+    de: Explorado
+    en: Explorado
   caption:
     nl: wetenschapspark - Oostende
-    fr: ''
-    de: ''
+    fr: parc scientifique - Ostende
+    de: Wissenschaftspark – Ostende
     en: ''
 - ranking: 300
   location: 51.206802, 2.907028
@@ -379,13 +375,13 @@ items:
     en: http://bowlingpaleis.be/oostende/speelpaleis/
   title:
     nl: Speelpaleis
-    fr: ''
-    de: ''
-    en: ''
+    fr: Speelpaleis
+    de: Speelpaleis
+    en: Speelpaleis
   caption:
     nl: binnenspeeltuin - Oostende
-    fr: ''
-    de: ''
+    fr: plaine de jeux intérieure - Ostende
+    de: Innenspielplatz – Ostende
     en: ''
 - ranking: 50
   location: 51.080998, 2.598774
@@ -400,13 +396,13 @@ items:
     en: http://www.plopsa.be/plopsaland-de-panne/en
   title:
     nl: Plopsaland
-    fr: ''
-    de: ''
-    en: ''
+    fr: Plopsaland
+    de: Plopsaland
+    en: Plopsaland
   caption:
     nl: pretpark - De Panne
-    fr: ''
-    de: ''
+    fr: parc d’attractions – La Panne
+    de: Freizeitpark – De Panne
     en: ''
 - ranking: 450
   location: 50.845818, 2.950622
@@ -421,13 +417,13 @@ items:
     en: http://www.bellewaerde.be/en
   title:
     nl: Bellewaerde
-    fr: ''
-    de: ''
-    en: ''
+    fr: Bellewaerde
+    de: Bellewaerde
+    en: Bellewaerde
   caption:
     nl: pretpark - Ieper
-    fr: ''
-    de: ''
+    fr: parc d’attractions – Ypres
+    de: Freizeitpark – Ypern
     en: ''
 - ranking: 10
   location: 51.256371, 2.975413
@@ -437,14 +433,10 @@ items:
   images:
   - "/img/doen/bre-strand.jpg"
   link:
-    nl: ''
-    fr: ''
-    de: ''
-    en: ''
   title:
     nl: Strand en Zee
-    fr: ''
-    de: ''
+    fr: Plage et mer
+    de: Strand und See
     en: ''
   caption:
     nl: ''
@@ -464,13 +456,13 @@ items:
     en: http://www.visitoostende.be/en/overzetboot-visserskaai-oosteroever
   title:
     nl: veerverbinding Oostende
-    fr: ''
-    de: ''
+    fr: Bac Ostende
+    de: Fährverbindung Ostende
     en: ''
   caption:
     nl: gratis overzetboot tussen wester-oosteroever
-    fr: ''
-    de: ''
+    fr: traversée gratuite en bac entre la rive occidentale et orientale
+    de: Gratis Fährboot zwischen West- und Ostufer
     en: ''
 - ranking: 130
   location: 51.255187, 2.975755
@@ -479,14 +471,10 @@ items:
   images:
   - "/img/doen/bre-duinen.jpg"
   link:
-    nl: ''
-    fr: ''
-    de: ''
-    en: ''
   title:
     nl: duinengordel Bredene
-    fr: ''
-    de: ''
+    fr: ceinture de dune de Bredene
+    de: Dünengürtel Bredene
     en: ''
   caption:
     nl: ''
@@ -506,8 +494,8 @@ items:
     en: http://uitinbredene.be/index.asp?pid=19
   title:
     nl: naaktstrand Bredene
-    fr: ''
-    de: ''
+    fr: plage pour nudistes de Bredene
+    de: Nacktbadestrand Bredene
     en: ''
   caption:
     nl: ''
@@ -526,8 +514,8 @@ items:
     en: http://www.belgiancoast.co.uk/experience/ostend-sea-excursions-%E2%80%93-franlis-iii-boat-trip
   title:
     nl: boottochten
-    fr: ''
-    de: ''
+    fr: balades en bateau
+    de: Bootstouren
     en: ''
   caption:
     nl: ''
@@ -546,8 +534,8 @@ items:
     en: http://www.franlis.be/seafishing/concept
   title:
     nl: vissen op zee
-    fr: ''
-    de: ''
+    fr: pêche en mer
+    de: Hochseeangeln
     en: ''
   caption:
     nl: ''
@@ -562,13 +550,13 @@ items:
   - "/img/doen/nieuw-stak.jpg"
   link:
     nl: http://www.nieuwpoort.be/nieuwpoort/view/nl/nieuwpoort/toerisme/bezoeken/bezienswaardigheden/staketsel
-    fr: ''
-    de: ''
-    en: ''
+    fr: http://www.nieuwpoort.be/nieuwpoort/view/nl/nieuwpoort/toerisme/bezoeken/bezienswaardigheden/staketsel
+    de: http://www.nieuwpoort.be/nieuwpoort/view/nl/nieuwpoort/toerisme/bezoeken/bezienswaardigheden/staketsel
+    en: http://www.nieuwpoort.be/nieuwpoort/view/nl/nieuwpoort/toerisme/bezoeken/bezienswaardigheden/staketsel
   title:
     nl: staketsel Nieuwpoort
-    fr: ''
-    de: ''
+    fr: estacade de Nieuport
+    de: Staketsel Nieuwpoort
     en: ''
   caption:
     nl: ''
@@ -582,19 +570,15 @@ items:
   images:
   - "/img/doen/blan-pier.jpeg"
   link:
-    nl: ''
-    fr: ''
-    de: ''
-    en: ''
   title:
     nl: pier Blankenberge
-    fr: ''
-    de: ''
+    fr: jetée de Blankenberge
+    de: Pier Blankenberge
     en: ''
   caption:
     nl: met tentoonstelling Storms en brasserie
-    fr: ''
-    de: ''
+    fr: Storms Expo et brasserie
+    de: mit Ausstellung “Storms” und Brasserie
     en: ''
 - ranking: 80
   subgroups:
@@ -608,13 +592,13 @@ items:
     en: https://www.delijn.be/en/kusttram/index.html?vertaling=true
   title:
     nl: kusttram
-    fr: ''
-    de: ''
+    fr: tram du littoral
+    de: Küstenstraßenbahn
     en: ''
   caption:
     nl: het ideale vervoersmiddel aan de kust
-    fr: ''
-    de: ''
+    fr: le moyen de transport idéal pour sillonner la côte
+    de: das ideale Verkehrsmittel an der Küste
     en: ''
 - ranking: 210
   location: 51.233715, 2.922228
@@ -630,13 +614,13 @@ items:
     en: http://www.visitoostende.be/en/vistrap
   title:
     nl: visserskaai en vistrap Oostende
-    fr: ''
-    de: ''
+    fr: le quai des pêcheurs et le marché aux poissons d'Ostende
+    de: Fischerkai und Fischtreppe Ostende
     en: ''
   caption:
     nl: koop hier uw verse vis
-    fr: ''
-    de: ''
+    fr: achetez-y votre poisson frais
+    de: Kaufen Sie hier Ihren frischen Fisch
     en: ''
 - ranking: 105
   subgroups:
@@ -650,8 +634,8 @@ items:
     en: http://www.belgiancoast.co.uk/coastalwalkingpath
   title:
     nl: wandelnetwerk
-    fr: ''
-    de: ''
+    fr: réseau de randonnées pédestres
+    de: Wandernetz
     en: ''
   caption:
     nl: ''
@@ -670,13 +654,13 @@ items:
     en: http://www.fietsnet.be/routeplanner/default.aspx
   title:
     nl: fietsroutenetwerk
-    fr: ''
-    de: ''
+    fr: réseau de randonnées cyclistes
+    de: Radwegenetz
     en: ''
   caption:
     nl: stel zelf uw fietsroute samen
-    fr: ''
-    de: ''
+    fr: établissez votre propre parcours
+    de: Stellen Sie Ihre eigene Fahrradroute zusammen
     en: ''
 - ranking: 490
   location: 51.247020, 2.952719
@@ -691,8 +675,8 @@ items:
     en: http://www.twinsclub.be/
   title:
     nl: surfen
-    fr: ''
-    de: ''
+    fr: surf
+    de: Surfen
     en: ''
   caption:
     nl: ''
@@ -710,9 +694,9 @@ items:
     de: http://www.belgischekueste.be/Markte
     en: http://www.belgiancoast.co.uk/markets
   title:
-    nl: "(avond)markten"
-    fr: ''
-    de: ''
+    nl: (avond)markten
+    fr: marchés (nocturnes)
+    de: (Abend-)Märkte
     en: ''
   caption:
     nl: ''
@@ -731,8 +715,8 @@ items:
     en: http://www.uitinbredene.be/index.asp?pid=33&lang=NL
   title:
     nl: minigolf Bredene
-    fr: ''
-    de: ''
+    fr: minigolf de Bredene
+    de: Minigolf Bredene
     en: ''
   caption:
     nl: ''
@@ -751,8 +735,8 @@ items:
     en: http://www.uitinbredene.be/index.asp?pid=33
   title:
     nl: paardrijden
-    fr: ''
-    de: ''
+    fr: équitation
+    de: Reiten
     en: ''
   caption:
     nl: ''
@@ -772,13 +756,13 @@ items:
     en: http://www.dekust.be/mindergoedweer/zwembaden-en-wellness
   title:
     nl: zwemmen
-    fr: ''
-    de: ''
+    fr: natation
+    de: Schwimmen
     en: ''
   caption:
     nl: zwembaden aan de Kust
-    fr: ''
-    de: ''
+    fr: piscines à la côte
+    de: Schwimmbäder an der Küste
     en: ''
 - ranking: 320
   location: 51.244098, 2.974537
@@ -790,16 +774,16 @@ items:
     nl: http://www.uitinbredene.be/index.asp?pid=62&lang=NL
     fr: http://www.uitinbredene.be/index.asp?pid=62&lang=FR
     de: http://www.uitinbredene.be/index.asp?pid=62&lang=DE
-    en: ''
+    en: http://www.uitinbredene.be/index.asp?pid=62&lang=NL
   title:
     nl: Grasduinen Bredene
-    fr: ''
-    de: ''
+    fr: Grasduinen Bredene
+    de: Grasduinen Bredene
     en: ''
   caption:
     nl: recreatiedomein
-    fr: ''
-    de: ''
+    fr: domaine récréatif
+    de: Erholungsgebiet
     en: ''
 - ranking: 250
   location: 51.246573, 2.992032
@@ -814,13 +798,13 @@ items:
     en: http://www.uitinbredene.be/index.asp?pid=26&lang=NL
   title:
     nl: D'Heye
-    fr: ''
-    de: ''
-    en: ''
+    fr: D’Heye
+    de: D’Heye
+    en: D’Heye
   caption:
     nl: natuurreservaat - Bredene
-    fr: ''
-    de: ''
+    fr: réserve naturelle - Bredene
+    de: Naturreservat – Bredene
     en: ''
 - ranking: 485
   location: 51.255872, 2.982859
@@ -835,13 +819,13 @@ items:
     en: http://www.uitinbredene.be/index.asp?pid=27&lang=NL
   title:
     nl: Paelsteenpanne
-    fr: ''
-    de: ''
-    en: ''
+    fr: Paelsteenpanne
+    de: Paelsteenpanne
+    en: Paelsteenpanne
   caption:
     nl: natuurreservaat - Bredene
-    fr: ''
-    de: ''
+    fr: réserve naturelle - Bredene
+    de: Naturreservat – Bredene
     en: ''
 - ranking: 560
   location: 51.363853, 3.363277
@@ -856,13 +840,13 @@ items:
     en: http://www.zwin.be/en
   title:
     nl: Zwinvlakte
-    fr: ''
-    de: ''
+    fr: La plaine du Zwin
+    de: Flachland des Zwin
     en: ''
   caption:
     nl: natuur- en vogelreservaat - Knokke
-    fr: ''
-    de: ''
+    fr: réserve naturelle et ornithologique - Knokke
+    de: Natur- und Vogelreservat – Knokke
     en: ''
 - ranking: 385
   location: 51.283618, 3.053152
@@ -877,13 +861,13 @@ items:
     en: http://www.visitdehaan.be/en/experience/sights/duinbossen-the-wooded-dunes/1573/?from=
   title:
     nl: Duinbossen
-    fr: ''
-    de: ''
+    fr: Duinbossen
+    de: Dünenwälder
     en: ''
   caption:
     nl: bosstrook tussen De Haan en Wenduine
-    fr: ''
-    de: ''
+    fr: zone boisée entre Le Coq et Wenduine
+    de: Waldstreifen zwischen De Haan und Wenduine
     en: ''
 - ranking: 550
   location: 51.291442, 3.135372
@@ -898,13 +882,13 @@ items:
     en: http://www.uitkerkse-polder.be/tekst_engelsnieuw.html
   title:
     nl: Uitkerkse polder
-    fr: ''
-    de: ''
-    en: ''
+    fr: Uitkerkse polder
+    de: Uitkerkse polder
+    en: Uitkerkse polder
   caption:
     nl: 1400 ha authentieke kustpolder
-    fr: ''
-    de: ''
+    fr: authentique polder de 1400 ha
+    de: 1400 ha authentischer Küstenpolder
     en: ''
 - ranking: 70
   subgroups:
@@ -918,8 +902,8 @@ items:
     en: http://www.belgiancoast.co.uk/shopping
   title:
     nl: Shoppen aan de Kust
-    fr: ''
-    de: ''
+    fr: Shopping à la côte
+    de: Shoppen an der Küste
     en: ''
   caption:
     nl: ''
@@ -934,14 +918,10 @@ items:
   images:
   - "/img/doen/ost-dijk.jpg"
   link:
-    nl: ''
-    fr: ''
-    de: ''
-    en: ''
   title:
     nl: zeedijk Oostende
-    fr: ''
-    de: ''
+    fr: digue d’Ostende
+    de: Seedeich Ostende
     en: ''
   caption:
     nl: ''
@@ -962,13 +942,13 @@ items:
     en: http://www.visitgent.be/en/home
   title:
     nl: Gent
-    fr: ''
-    de: ''
-    en: ''
+    fr: Gand
+    de: Gent
+    en: Ghent
   caption:
     nl: historisch centrum
-    fr: ''
-    de: ''
+    fr: centre historique
+    de: Historischer Stadtkern
     en: ''
 - ranking: 400
   location: 51.225649, 2.906060
@@ -984,13 +964,13 @@ items:
     en: http://oostendekoerse.be/
   title:
     nl: Wellington Hippodroom
-    fr: ''
-    de: ''
+    fr: Hippodrome Wellington
+    de: Wellington Hippodroom
     en: ''
   caption:
     nl: paardenrennen - Oostende
-    fr: ''
-    de: ''
+    fr: course de chevaux - Ostende
+    de: Pferderennbahn – Ostende
     en: ''
 - ranking: 330
   subgroups:
@@ -1004,8 +984,8 @@ items:
     en: http://www.uitinbredene.be/index.asp?pid=13&lang=NL
   title:
     nl: bistro's en restaurants
-    fr: ''
-    de: ''
+    fr: cafés et restaurants
+    de: Bistros und Restaurants
     en: ''
   caption:
     nl: ''
@@ -1024,13 +1004,13 @@ items:
     en: http://www.uitinbredene.be/index.asp?pid=14&lang=NL
   title:
     nl: frituren
-    fr: ''
-    de: ''
+    fr: friteries
+    de: Frittenstände
     en: ''
   caption:
     nl: proef de échte Belgische friet
-    fr: ''
-    de: ''
+    fr: dégustez les véritables frites belges
+    de: Kosten Sie die echten belgischen Pommes frites
     en: ''
 - ranking: 260
   subgroups:
@@ -1045,8 +1025,8 @@ items:
     en: http://www.uitinbredene.be/index.asp?pid=15&lang=NL
   title:
     nl: tea-rooms en ijssalons
-    fr: ''
-    de: ''
+    fr: salons de thé et glaciers
+    de: Tea-Rooms und Eisdielen
     en: ''
   caption:
     nl: ''
@@ -1065,8 +1045,8 @@ items:
     en: http://www.belgiancoast.co.uk/beachbars-and-beachclubs
   title:
     nl: strandbars
-    fr: ''
-    de: ''
+    fr: bars de plage
+    de: Strandbars
     en: ''
   caption:
     nl: ''
@@ -1085,8 +1065,8 @@ items:
     en: http://www.belgiancoast.co.uk/search/content/cinema
   title:
     nl: Bioscopen aan de Kust
-    fr: ''
-    de: ''
+    fr: Cinémas à la côte
+    de: Kinos an der Küste
     en: ''
   caption:
     nl: ''
@@ -1106,9 +1086,9 @@ items:
     en: http://www.belgiancoast.co.uk/search/content/bowling
   title:
     nl: bowling
-    fr: ''
-    de: ''
-    en: ''
+    fr: bowling
+    de: Bowling
+    en: bowling
   caption:
     nl: ''
     fr: ''
@@ -1121,19 +1101,15 @@ items:
   images:
   - "/img/doen/bungee.jpg"
   link:
-    nl:
-    fr:
-    de:
-    en:
   title:
     nl: Bungee jumpen
-    fr: ''
-    de: ''
+    fr: Saut à l’élastique
+    de: Bungee Jumping
     en: ''
   caption:
     nl: waag een sprong van de watertoren
-    fr: ''
-    de: ''
+    fr: oserez-vous sauter dans le vide depuis le sommet du château d’eau?
+    de: Wagen Sie einen Sprung vom Wasserturm
     en: ''
 subgroups:
   nl:
@@ -1145,21 +1121,21 @@ subgroups:
     recrea: recreatie
     event: evenement
   fr:
-    coast: ''
-    city: ''
-    cult: ''
-    kids: ''
-    shopout: ''
-    recrea: ''
-    event: ''
+    coast: explorez la côte
+    city: visite de ville
+    cult: culture
+    kids: enfants
+    shopout: sorties
+    recrea: récréatif
+    event: événements
   de:
-    coast: ''
-    city: ''
-    cult: ''
-    kids: ''
-    shopout: ''
-    recrea: ''
-    event: ''
+    coast: Küstenerlebnis
+    city: Stadtbesuch
+    cult: Kultur
+    kids: Kinder
+    shopout: Ausgehen
+    recrea: Erholen
+    event: Veranstaltungen
   en:
     coast: ''
     city: ''
