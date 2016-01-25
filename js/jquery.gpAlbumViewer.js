@@ -882,20 +882,26 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
             if (isEmpty(this.content)) {return; }
             var img = this.content[this.index],
                 picid = img.id,
+                loader = new Image(),
                 imgurl = img.content,
                 imglbl = isEmpty(img.caption) ? "&nbsp;" : img.caption,
                 me = this,
                 $old = this.$view;
 
-            me.$view = this.newView(imgurl);
-            me.$view.insertBefore($old);
-            me.$view.css("background-attachment", "local");
-            $old.animate({"opacity": 0}, Math.floor(this.interval / 5) + 1, function () {
-            //$old.animate({"margin-left": "-100%"}, Math.floor(this.interval / 5) + 1, function () {
-                me.updateViewState(this.albid, picid);
-                $old.remove();
-                //me.$lbl.html(imglbl);
-            });
+            function doshow() {
+                me.$view = me.newView(imgurl);
+                me.$view.insertBefore($old);
+                me.$view.css("background-attachment", "local");
+                $old.animate({"opacity": 0}, Math.floor(me.interval / 5) + 1, function () {
+                //$old.animate({"margin-left": "-100%"}, Math.floor(this.interval / 5) + 1, function () {
+                    me.updateViewState(me.albid, picid);
+                    $old.remove();
+                    //me.$lbl.html(imglbl);
+                });
+            }
+
+            loader.onload = doshow;
+            loader.src = imgurl;
         };
 
         PlayRenderStrategy.prototype.next = function () {
