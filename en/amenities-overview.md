@@ -1,5 +1,5 @@
 ---
-title: Voorzieningen
+title: Amenities
 
 layout: default
 class:
