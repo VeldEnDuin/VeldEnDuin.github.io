@@ -12,7 +12,7 @@ icon: info-sign
 
 {% include nl/betaling-cxd-reuse.md %}
 
-## Aankomst- en vertrekregeling
+## Arrival and departure
 - arrival:  as from 14 hrs
 - departure: before 11 hrs
 
