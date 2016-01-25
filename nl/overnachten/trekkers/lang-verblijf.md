@@ -52,8 +52,8 @@ Uw trekcaravan met alle basisvoorzieningen blijft het hele jaar staan. Zo kunt u
 ##Prijzen
 PERIODE               | STANDPLAATSVERGOEDING  | GEMEENTETAKS       
 :--------------------:|:----------------------:|--------------|
-6 maanden             |€ 1500                  |€ 129,85            
-1 jaar<br>(1/1-31/12) |€ 1605                  |€ 340,79                 
+6 maanden             |€ 1580                  |€ 129,85            
+1 jaar<br>(1/1-31/12) |€ 1685                  |€ 340,79                 
  
 ##Inbegrepen
 - parking 1 auto
@@ -62,9 +62,9 @@ PERIODE               | STANDPLAATSVERGOEDING  | GEMEENTETAKS
 EXTRA             | PRIJS 
 :------------------|:-----------|
 elektriciteit      |volgens verbruik 
-forfait water      |€ 65
+forfait water      |€ 68
 tellervergoeding   |€ 18
-huisvuilbijdrage   |€ 60 (incl 20 zakken restafval + 5 PMD)
+huisvuilbijdrage   |€ 65 (incl 20 zakken restafval + 5 PMD)
 slagboomkaart      |€ 100 (waarborg € 75)
 voortent winter    |€ 100
 [brandverzekering][pdf_brandverzekering.nl]|verplicht - aansluiting groepsverzekering mogelijk

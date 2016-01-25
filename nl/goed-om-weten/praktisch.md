@@ -45,7 +45,7 @@ Daarna slaat u direct linksaf en zo'n 200 m verder op uw rechterkant ziet u Veld
 Voor treinreizigers bestaan vanuit verschillende steden in België rechtstreekse verbindingen met het station van Oostende. Op de site van de [NMBS][nmbs.nl] vindt u gedetailleerde info over uren en tarieven.
 
 ###Kusttram
-De vlotste manier om vanuit Oostende in Bredene te geraken (zo'n 8 km) is de [kusttram][kusttram.nl]. In het hoogseizoen vertrekt er elke 10 minuten een tram richting Bredene, buiten het seizoen is dit elk half uur.<br>
+De vlotste manier om vanuit Oostende in Bredene te geraken (zo'n 8 km) is de [kusttram][kusttram.nl]. In het hoogseizoen vertrekt er elke 10 minuten een tram richting Bredene, buiten het seizoen is dit elke 15 minuten.<br>
 
 Aan de tramhalte 'Renbaan' stapt u af en neemt u de trappen naar beneden tot u in de voetgangerstunnel komt. Daar gaat u naar links (rechts gaat u naar het strand) en buiten de tunnel onmiddellijk naar rechts. U vervolgt dit pad tot u op het einde van een doodlopende straat uitkomt, daar gaat u naar links de weg naar beneden tot bij de Visserskapel. Hier gaat u rechts de Kapelstraat in, de eerste straat aan uw linkerkant is de Koningin Astridlaan. Veld & Duin is de eerste camping aan uw linkerkant.
 

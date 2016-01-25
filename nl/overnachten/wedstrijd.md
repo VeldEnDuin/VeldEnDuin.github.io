@@ -24,9 +24,9 @@ Ga snel op zoek naar de 3 frappante onwaarheden die we verscholen hebben tussen 
 
 ###Prijzen
 
-- **eerste prijs**: bon ter waarde van 75 € in restaurant [La Différence][ladifference.nl]
-- **tweede prijs**: bon ter waarde van 50 € in tea-room [Mdue][mdue.nl]
-- **derde prijs**: bon ter waarde van 25 € in de winkel van [Anthony Lams][anthonylams.nl] (ambachtelijke chocolade en marsepein)
+- **eerste prijs**: bon ter waarde van € 75 in restaurant [La Différence][ladifference.nl]
+- **tweede prijs**: bon ter waarde van € 50 in tea-room [Mdue][mdue.nl]
+- **derde prijs**: bon ter waarde van € 25 in de winkel van [Anthony Lams][anthonylams.nl] (ambachtelijke chocolade en marsepein)
 
 ###Hoe deelnemen?
 

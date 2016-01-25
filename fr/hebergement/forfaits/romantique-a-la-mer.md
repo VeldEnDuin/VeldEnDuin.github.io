@@ -28,7 +28,7 @@ insert:
 Notre forfait séjour romantique à la mer est la formule idéale pour ceux et celles qui désirent surprendre leur partenaire. Ce forfait comprend un agréable séjour, un accès au sauna et quelques attentions supplémentaires.
 
 ##Ce forfait comprend
-- 2 dans un hébergement de votre choix
+- 2 nuits dans un hébergement de votre choix
 - l'utilisation du saune et de l'espace détente (douche, sièges de relaxation, tonneau d'eau froide)
 - les extras au choix parmi les propositions suivantes:
     - produits sains: fruit, noix, bouteille de jus de fruit bio
@@ -59,7 +59,7 @@ novembre à mars<br>à l'exception des vacances scolaires <br>et weekends prolon
 
 ## Caution
 - 50 € – à payer en liquide à l’arrivée
-- la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état.
+- la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état
 
 ## Inclus
 - parking 1 voiture
