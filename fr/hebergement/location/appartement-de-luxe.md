@@ -63,8 +63,8 @@ Situés au-dessus de la réception, ces nouveaux appartements luxueux offrent un
 
     
 ##Bon à savoir
-- appartement premier étage : max. 5 personnes
-- appartement deuxième étage : max. 6 personnes
+- appartement premier étage: max. 5 personnes
+- appartement deuxième étage: max. 6 personnes
 - animaux de compagnie non admis – admis dans les chalets ou caravanes
 - pas d’ascenseur
 - disponible à la réservation toute l’année
@@ -89,8 +89,8 @@ BASSE SAISON          |MI-SAISON          |    HAUTE SAISON|
 novembre à mars<br>à l'exception des vacances scolaires <br>et weekends prolongés | avril à juin, <br>septembre et octobre, <br>vacances scolaires, <br>week-ends prolongés   | juillet et août
 
 ##Caution
-- 50 € – à payer en liquide à l’arrivée
-- la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état. 
+- € 50 – à payer en liquide à l’arrivée
+- la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état
 
 ##Inclus
 - parking 1 voiture

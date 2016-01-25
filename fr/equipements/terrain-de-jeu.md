@@ -23,7 +23,7 @@ remove:
 
 Le terrain de jeu est l’endroit idéal pour s’amuser pendant des heures.
 
-Le trampoline d’air (14h - 22h) est très populaire tant auprès des petits que des grands : les plus jeunes rient aux éclats à chaque saut avec leurs parents et les ados s’apprennent de nouvelles figures.
+Le trampoline d’air (14h - 22h) est très populaire tant auprès des petits que des grands: les plus jeunes rient aux éclats à chaque saut avec leurs parents et les ados s’apprennent de nouvelles figures.
 
 Ne manquez pas non plus les jeux sur ressort, la cage à poules et son toboggan, la marelle et la zone verte.
 Les (grands-)parents pourront surveiller les enfants tranquillement installés sur un banc.

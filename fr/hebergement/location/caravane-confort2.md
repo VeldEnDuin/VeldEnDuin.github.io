@@ -83,8 +83,8 @@ MI-SAISON      |    HAUTE SAISON|
  avril à juin, <br>septembre et octobre, <br>vacances scolaires, <br>week-ends prolongés  | juillet et août
 
 ##Caution
-- 50 € – à payer en liquide à l’arrivée
-- la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état.
+- € 50 – à payer en liquide à l’arrivée
+- la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état
 
 ##Inclus
 - parking 1 voiture

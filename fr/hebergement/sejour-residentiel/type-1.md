@@ -44,7 +44,7 @@ CONSOMMATION ⑴           |PRIX          |
 :--------------------:|:-------------:|
 électricité           | € 0,35 / kw        
 forfait eau           | € 68 
-compteur              | € 18 / compteur
+compteur              | € 18 
 
 ⑴ prix sous réserve de modifications des prix de l’énergie
 

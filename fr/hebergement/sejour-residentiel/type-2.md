@@ -9,7 +9,7 @@ preview:
     list:
         - "surface moyenne : 100 m²"
         - "emplacements à rénover"
-        - "accessible 8 mois"
+        - "accessible durant 8 mois"
         
         
 images:
@@ -48,7 +48,7 @@ CONSOMMATION ⑴         |PRIX         |
 :--------------------:|:-------------:|
 électricité           | € 0,35 / kw        
 forfait eau           | € 6,50 / m³      
-compteur              | € 18 / compteur  
+compteur              | € 18   
 
 ⑴ prix sous réserve de modifications des prix de l’énergie
 

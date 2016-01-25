@@ -4,7 +4,7 @@ title: Residentiële trekkers
 preview: 
     title: Residentiële trekkers
     button:
-        price: 1500
+        price: 1580
         for: per jaar
     list:
         - "80 m² plaatsen"

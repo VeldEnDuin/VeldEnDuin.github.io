@@ -58,7 +58,7 @@ BASSE SAISON          |MI-SAISON          |
 novembre à mars<br>à l'exception des vacances scolaires <br>et weekends prolongés | avril à juin, <br>septembre et octobre, <br>sauf pendant les vacances scolaires, <br>et week-ends prolongés
 
 ## Caution
-- 50 € – à payer en liquide à l’arrivée
+- € 50 – à payer en liquide à l’arrivée
 - la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état
 
 ## Inclus

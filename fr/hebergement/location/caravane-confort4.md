@@ -53,7 +53,7 @@ Tout en offrant le confort d’un foyer ordinaire, une caravane présente tous l
 - grande salle de séjour avec télévision et digibox
 - cuisine équipée avec four à micro-ondes
 - salle de bains avec douche, lavabo et toilettes
-- chambres à coucher de la caravane :
+- chambres à coucher de la caravane:
     - 1 chambre avec lit double (140x200)
     - 2 chambres avec lit simple 2x (80x200) 
 - mobilier de jardin
@@ -84,8 +84,8 @@ MI-SAISON      |    HAUTE SAISON|
  avril à juin, <br>septembre et octobre, <br>vacances scolaires, <br>week-ends prolongés  | juillet et août
 
 ##Caution
-- 50 € – à payer en liquide à l’arrivée
-- la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état. 
+- € 50 – à payer en liquide à l’arrivée
+- la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état
 
 ##Inclus
 - parking 1 voiture

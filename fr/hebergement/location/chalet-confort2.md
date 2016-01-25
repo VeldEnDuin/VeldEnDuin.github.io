@@ -46,7 +46,7 @@ insert:
 
 # Chalet confort 2 
 
-Envie de vous ressourcer seul ou à deux ? Vous vous sentirez comme à la maison dans ce confortable chalet après une agréable journée à la côte.
+Envie de vous ressourcer seul ou à deux? Vous vous sentirez comme à la maison dans ce confortable chalet après une agréable journée à la côte.
 
 ##Aménagement du chalet
 - grande salle de séjour avec écran plat et digibox
@@ -81,8 +81,8 @@ MI-SAISON      |    HAUTE SAISON|
  avril à juin, <br>septembre et octobre, <br>vacances scolaires, <br>week-ends prolongés  | juillet et août
 
 ##Caution
-- 50 € – à payer en liquide à l’arrivée
-- la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état.
+- € 50 – à payer en liquide à l’arrivée
+- la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état
 
 ##Inclus
 - parking 1 voiture

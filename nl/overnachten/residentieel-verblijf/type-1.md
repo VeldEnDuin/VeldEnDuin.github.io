@@ -44,7 +44,7 @@ VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
 electriciteit         | € 0,35 / kw        
 forfait water         | € 68 
-tellervergoeding      | € 18 / teller
+tellervergoeding      | € 18 
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven
 

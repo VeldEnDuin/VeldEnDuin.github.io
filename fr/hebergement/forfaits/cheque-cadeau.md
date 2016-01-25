@@ -31,7 +31,7 @@ Vous êtes à la recherche d’un chouette cadeau ? Grâce au chèque-cadeau de 
 - valable pour tout type de location ou pour un emplacement de camping
 - peut être utilisé toute l’année selon les disponibilités
 - valeur illimitée
-- vous choisissez le montant (minimum 20 €)
+- vous choisissez le montant (minimum € 20)
 
 
 
