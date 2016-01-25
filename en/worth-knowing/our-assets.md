@@ -1,5 +1,5 @@
 ---
-title: Onze troeven
+title: Our assets
 layout: group
 data: troeven
 extrajs: 
