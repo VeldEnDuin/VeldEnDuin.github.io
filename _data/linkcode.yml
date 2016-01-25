@@ -44,30 +44,37 @@ hier_staan_we_voor:
     nl:  /nl/goed-om-weten/hier-staan-we-voor.html
     fr:  /fr/bon-a-savoir/nos-regles-et-valeurs.html
     de:  /de/gut-zu-wissen/hierfuer-stehen-wir.html
+    en:  /en/worth-knowing/our-philosophy.html
 fietsvriendelijk:
     nl:  /nl/goed-om-weten/hier-staan-we-voor/fietsvriendelijk.html
     fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/cyclisme.html
     de:  /de/gut-zu-wissen/hierfuer-stehen-wir/fahrradfreundlich.html
+    en:  /en/worth-knowing/our-philosophy/bike-friendly.html
 groen:
     nl:  /nl/goed-om-weten/hier-staan-we-voor/groen.html
     fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/respect-de-la-nature.html
     de:  /de/gut-zu-wissen/hierfuer-stehen-wir/gruen.html
+    en:  /en/worth-knowing/our-philosophy/green-space.html
 kwaliteit:
     nl:  /nl/goed-om-weten/hier-staan-we-voor/kwaliteit.html
     fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/qualite.html
     de:  /de/gut-zu-wissen/hierfuer-stehen-wir/qualitaet.html
+    en:  /en/worth-knowing/our-philosophy/quality.html
 hondvriendelijk:
     nl:  /nl/goed-om-weten/hier-staan-we-voor/hondvriendelijk.html
     fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/chiens-bienvenus.html
     de:  /de/gut-zu-wissen/hierfuer-stehen-wir/hundefreundlich.html
+    en:  /en/worth-knowing/our-philosophy/pet-friendly.html
 rust:
     nl:  /nl/goed-om-weten/hier-staan-we-voor/rust.html
     fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/repos.html
     de:  /de/gut-zu-wissen/hierfuer-stehen-wir/ruhe.html
+    en:  /en/worth-knowing/our-philosophy/peace-and-quiet.html
 iedereen_welkom:
     nl:  /nl/goed-om-weten/hier-staan-we-voor/iedereen-welkom.html
     fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/bienvenue-a-tous.html
     de:  /de/gut-zu-wissen/hierfuer-stehen-wir/alle-willkommen.html
+    en:  /en/worth-knowing/our-philosophy/everybody-welcome.html
 
 tijdslijn:
     nl:  /nl/goed-om-weten/tijdslijn.html
@@ -77,6 +84,7 @@ praktisch:
     nl:  /nl/goed-om-weten/praktisch.html
     fr:  /fr/bon-a-savoir/pratique.html
     de:  /de/gut-zu-wissen/praktisch.html
+    en:  /en/worth-knowing/practical.html
 
 
 # [2] menu - overnachten
@@ -322,6 +330,7 @@ pdf_mvo:
     nl: /nl/pdf/mvo-rapport.pdf
     fr: /fr/pdf/mvo-rapport.pdf
     de: /de/pdf/mvo-rapport.pdf
+    en: /en/pdf/mvo-rapport.pdf
 pdf_brandverzekering:
     nl: /nl/pdf/brandverzekering-polisvwen.pdf
     fr: /fr/pdf/assuranceincendie-conditions.pdf
