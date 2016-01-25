@@ -40,7 +40,7 @@ TYPE 3                |PRIX           |
 indemnité de résidence par an |€ 1870               
 taxe communale                |€ 340,79 
 déchets ménagers<br>incl 25 sacs poubelles<br> | € 65    
-[assurance incendie][pdf_brandverzekering.fr]     |selon la<br>valeur de la caravane
+[assurance incendie][pdf_brandverzekering.fr]     |selon la<br>valeur de la caravane / chalet
 
 CONSOMMATION ⑴        |PRIX        |
 :--------------------:|:-------------:|

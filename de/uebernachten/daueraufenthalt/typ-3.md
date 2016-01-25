@@ -41,7 +41,7 @@ TYP 3                                         |PREIS                            
 Stellplatzkosten                         | € 1870         
 Gemeindesteuer                                   | € 340,79 
 Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 65    
- [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens
+ [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens / Chalets
 
 VERBRAUCH ⑴           |PREIS          |
 :--------------------:|:-------------:|

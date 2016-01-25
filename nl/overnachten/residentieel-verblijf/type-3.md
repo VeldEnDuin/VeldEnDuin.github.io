@@ -41,7 +41,7 @@ TYPE 3                |PRIJS           |
 standplaatsvergoeding |€ 1870               
 gemeentetaks          |€ 340,79 
 huisvuilbijdrage<br>incl 25 zakken<br> | € 65    
-[brandverzekering][pdf_brandverzekering.nl]      |afhankelijk van <br>waarde caravan
+[brandverzekering][pdf_brandverzekering.nl]      |afhankelijk van <br>waarde caravan / chalet
 
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
