@@ -29,7 +29,7 @@ Ons romantiek-aan-zee-arrangement is de gedroomde kans om uw geliefde in de watt
 
 ##Arrangement omvat
 - 2 nachten in een verblijf naar keuze
-- gebruik sauna + ontspanningsruimte (douche, relaxzetels, dompelton)
+- gebruik [sauna][sauna.nl] + ontspanningsruimte (douche, relaxzetels, dompelton)
 - extraatjes - keuze uit:
     - gezond: fruit, noten, fles biologisch fruitsap
     - hartig: fles wijn + 3 tapas

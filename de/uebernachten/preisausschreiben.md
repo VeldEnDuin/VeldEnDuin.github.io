@@ -24,12 +24,12 @@ Suchen Sie schnell die drei sonnenklare Unwahrheiten, die wir zwischen den ander
 
 ### Preise
 
-- **Erster Preis**: Gutschein im Wert von 75 € für das Restaurant [La Différence][ladifference.de]
-- **Zweiter Preis**: Gutschein im Wert von 50 € für den Tea-Room [Mdue][mdue.de]
-- **Dritter Preis**: Gutschein im Wert von 25 € für das Geschäft von [Anthony Lams][anthonylams.de] (handgemachte Schokoladen- und Marzipanartikel)
+- **Erster Preis**: Gutschein im Wert von € 75 für das Restaurant [La Différence][ladifference.de]
+- **Zweiter Preis**: Gutschein im Wert von € 50 für den Tea-Room [Mdue][mdue.de]
+- **Dritter Preis**: Gutschein im Wert von € 25 für das Geschäft von [Anthony Lams][anthonylams.de] (handgemachte Schokoladen- und Marzipanartikel)
 
 ### Wie können Sie teilnehmen?
 
-Füllen Sie [hier][wedstrijdform.de] Ihr Teilnahmeformular aus und erwähnen Sie die drei Fehler sowie die Antwort auf die Stichfrage. Die Teilnahme ist bis zum **15. Februar 2016** möglich.
+Füllen Sie [Ihr Teilnahmeformular][wedstrijdform.de] aus und erwähnen Sie die drei Fehler sowie die Antwort auf die Stichfrage. Die Teilnahme ist bis zum **15. Februar 2016** möglich.
 
 Die Gewinner werden persönlich informiert am 16. Februar und die Namen werden auf Facebook und in unserer [Rubrik “Aktuelles”][news.de] veröffentlicht.

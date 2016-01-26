@@ -29,7 +29,7 @@ Unser Romantik-am-Meer-Arrangement ist die ideale Gelegenheit, Ihrer/Ihrem gelie
 
 ## Arrangement umfasst
 - 2 Nächte in einer Unterkunft nach Ihrer Wahl
-- Benutzung Sauna + Entspannungsraum (Dusche, Entspannungssessel, Tauchbad)
+- Benutzung [Sauna][sauna.de] + Entspannungsraum (Dusche, Entspannungssessel, Tauchbad)
 - Extras: Auswahl aus
     - Gesundem: Obst, Nüsse oder Flasche Biofruchtsaft
     - Herzhaftem: Flasche Wein + dreierlei Tapas

@@ -29,7 +29,7 @@ Our romance-by-the-sea offer is the ideal opportunity to spoil your beloved. Bes
 
 ## Offer includes
 - 2 nights in an accomodation of your choice
-- use of the sauna and the relaxation room (shower, longchairs, plunge barrel)
+- use of the [sauna][sauna.en] and the relaxation room (shower, longchairs, plunge barrel)
 - extras - choice between following options:
     - healthy option: fruit, nuts, bottle of biological fruit juice
     - hearty option: bottle of wine and three savoury snacks

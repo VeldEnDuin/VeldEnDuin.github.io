@@ -14,7 +14,7 @@ icon: info-sign
 - ouvert toute l’année – durée de séjour illimitée
 - espaces verts entretenus par Veld & Duin
 - savoir-faire technique pour les réparations
-- [assurance incendie][pdf_assurance_incendie.fr]: possibilité d’y souscrire par le biais de notre assurance groupe
+- [assurance incendie][pdf_assuranceincendie.fr]: possibilité d’y souscrire par le biais de notre assurance groupe
 
 
 ##Prix des suppléments
