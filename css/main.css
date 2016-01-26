@@ -8,16 +8,6 @@
  * http://www.colorzilla.com/gradient-editor/
  */
 
-
-a {
-    text-decoration: underline;
-}
-
-.navbar a,
-.nav-pills a,
-a.notd {
-    text-decoration: none;
-}
 /* ===================================================================================
  * Page Backdrop
  *   -------------------------------------------------------------------------------
@@ -736,14 +726,17 @@ button.vd-callout-btn:hover {
 
     z-index: 100;
     -webkit-appearance: none;
-    -moz-appearance: none;
-    appearance: none;
+       /*
+       -moz-appearance: none;
+    */
+            appearance: none;
 }
 
 .vd-horacc input:checked{
     width: 0px;
     left: auto;
     right: 0px;
+    height: 0px;
 }
 
 .vd-horacc input:checked ~ figure {
@@ -1087,6 +1080,7 @@ button.vd-callout-btn:hover {
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%;
+    text-decoration: none;
 }
 
 .vd-archive-item  .vd-archive-icon .fa {
@@ -1102,7 +1096,7 @@ button.vd-callout-btn:hover {
 }
 
 .vd-archive-section {
-    padding-top: 1.5em;
+    padding-top: .85em;
     padding-bottom: 0.5em;
     color: #8fb742;
     font-size: 2em;
@@ -1393,4 +1387,25 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
 
 .vd-gcse-footer {
     margin-top: 1em;
+}
+
+
+a,
+a div,
+a span {
+    text-decoration: underline;
+}
+
+.navbar a,
+.nav-pills a,
+a div.vd-news-teaser,
+a.notd,
+.notd,
+span.fa,
+span.glyphicon {
+    text-decoration: none;
+}
+
+.page-header {
+    margin-bottom: 2px;
 }

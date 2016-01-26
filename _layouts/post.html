@@ -5,6 +5,9 @@ layout: default
 
 <div class="vd-news">
 
+    {% assign imgs = page.images %}
+    {% include imgs_as_strip.html %}
+
   <div class="vd-news-content col-lg-8 col-md-8 col-sm-12 col-xs-12" >
     <div class="col-lg-10 col-md-9 col-sm-12 col-xs-12" >
       <h1 class="vd-news-title">{{ page.title }}</h1>
@@ -13,10 +16,8 @@ layout: default
       <span class="vd-news-item-date pull-right">{{ page.date | date: "%d-%m-%y" }}</span>
     </div>
     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" >
-    {{ content }}
 
-    {% assign imgs = page.images %}
-    {% include imgs_as_strip.html %}
+    {{ content }}
     </div>
   </div>
 
