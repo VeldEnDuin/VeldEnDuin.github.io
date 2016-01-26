@@ -37,8 +37,17 @@ At the end of the year we are going to organize a cosy mulled wine evening. A go
 | Date | Activity|
 |-------|------------|
 | Sunday 27th March | Easter eggs hunt and game|
-| Friday 1st April | More information in due course|
+| Friday 1st April | more information in due course|
+
+
+
+**Summer holidays 2016**
+
+| Date | Activity|
+|-------|------------|
+|every Friday     | more information in due course|
 
 
 ## Entertainment Bredene and surroundings
-There is always something to see and do at the coast. We will gladly keep you informed with up to date information on the information panel at the entrance of the campsite, in the information files in the chalets and on our to do-page][doen.en]. 
+There is always something to see and do at the coast. We will gladly keep you informed with up to date information on the information panel at the entrance of the campsite, in the information files in the chalets and on our [do-page][doen.en]. 
+

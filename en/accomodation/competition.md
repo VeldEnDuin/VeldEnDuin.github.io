@@ -26,9 +26,10 @@ Try and find the 3 striking untruths hidden amongst all other information and pa
 
 - **first prize**: a voucher with a value of € 75 in restaurant [La Différence][ladifference.en]
 - **second prize**: a voucher with a value of € 50 in tea-room [Mdue][mdue.en]
-- **thirs prize**: a voucher with a value of € 25 in the chocolaterie of [Anthony Lams][anthonylams.en] (artisanal chocolate and marzipan)
+- **third prize**: a voucher with a value of € 25 in the chocolaterie of [Anthony Lams][anthonylams.en] (artisanal chocolate and marzipan)
 
 ### How to participate?
+
 
 Fill out your [entry form][wedstrijdform.en] stating the three mistakes and solve the bonus question. You can participate until **10 February 2016**.
 
