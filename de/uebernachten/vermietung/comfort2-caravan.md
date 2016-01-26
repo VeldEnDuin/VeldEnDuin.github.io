@@ -59,8 +59,8 @@ Dieser Miniwohnwagen mit Privatgärtchen ist ideal für Menschen, die sich gern 
 - Privatgärtchen mit Gartenmöbeln
     
 ## Gut zu wissen
-- Angesichts der geringen Fläche wird der Wohnwagen für höchstens 2 Personen vermietet, obwohl er 2 Schlafkammern hat.
-- Ein kleiner Hund ist zulässig. Bitte beachten Sie jedoch, dass der Wohnraum nicht groß ist.
+- Angesichts der geringen Fläche wird der Wohnwagen für höchstens 2 Personen vermietet, obwohl er 2 Schlafkammern hat
+- Ein kleiner Hund ist zulässig. Bitte beachten Sie jedoch, dass der Wohnraum nicht groß ist
 - Nicht buchbar zwischen 15.11. und 15.3.
 
 ## Preise

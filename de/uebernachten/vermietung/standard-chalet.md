@@ -58,7 +58,7 @@ Möchten Sie gern preisbewusst Urlaub machen, aber ist zelten nichts für Sie? D
     
 ## Gut zu wissen
 - Chalet vorgesehen für 4 Personen
-- Im Chalet sind keine Dusche und kein Waschbecken vorgesehen. Sie können die Sanitäranlagen des Campingplatzes nutzen.
+- Im Chalet sind keine Dusche und kein Waschbecken vorgesehen. Sie können die Sanitäranlagen des Campingplatzes nutzen
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 - Nicht buchbar zwischen 15.11. und 15.3.
 
