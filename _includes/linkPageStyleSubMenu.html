@@ -6,7 +6,7 @@
     {% assign previewTitle = linkPage.preview.title %}
 {% endif %}
 
-<a href="{{pg.url}}">
+<a href="{{pg.url}}" class="notd">
   <div class="{{itemcls}} vd-select-item {{page.class.select.item}} vd-select-submenu">
     <div class="vd-select-item-inner"
     {% if linkPage.images.size > 0 %}{%assign backimg = linkPage.images[0] %}{%endif%}

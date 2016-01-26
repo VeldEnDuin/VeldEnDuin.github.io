@@ -8,6 +8,14 @@
  * http://www.colorzilla.com/gradient-editor/
  */
 
+
+
+a,
+a div,
+a span {
+    text-decoration: underline;
+}
+
 /* ===================================================================================
  * Page Backdrop
  *   -------------------------------------------------------------------------------
@@ -1390,20 +1398,16 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
 }
 
 
-a,
-a div,
-a span {
-    text-decoration: underline;
-}
-
 .navbar a,
+.nav a,
 .nav-pills a,
+a div,
 a div.vd-news-teaser,
 a.notd,
 .notd,
 span.fa,
 span.glyphicon {
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 .page-header {
