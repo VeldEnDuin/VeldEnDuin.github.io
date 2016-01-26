@@ -34,8 +34,6 @@ There are washing machines and tumble driers at your disposal in each of our 3 s
 | tumble drier 8 kilo         | € 4,50 |
 
 
-Betaling met munten van € 0,50, € 1 of € 2.
-
 To be paid with coins € 0,50, € 1 of € 2.
 
 Washing powder (€ 1,70) and fabric softener (€ 0,60) available at the reception.

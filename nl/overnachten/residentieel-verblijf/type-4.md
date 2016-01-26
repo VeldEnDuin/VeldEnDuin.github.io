@@ -28,7 +28,7 @@ insert:
 Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Ga dan voor één van onze luxueuze plaatsen en geniet van de extra ruimte.
 
 ##Goed om weten
-- alle type 1 percelen liggen rond de wadi
+- alle type 4 percelen liggen rond de wadi
 - betonplaat van 12x4 m - geschikt voor grote caravans
 - aparte tellers voor gas - water - elektriciteit
 - ondergronds gasnetwerk - geen gasflessen

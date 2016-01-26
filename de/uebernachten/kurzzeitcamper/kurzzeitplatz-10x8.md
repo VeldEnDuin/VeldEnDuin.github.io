@@ -7,7 +7,7 @@ preview:
         price: 20
         for: pro Nacht
     list:
-        - "Abmessungen: 10 x 8 Meter"
+        - "Abmessungen: 10x8 Meter"
         - "Für Wohnwagen oder Wohnmobil"
         - "Gras- oder Betonplatz"
         - "Nahe bei Sanitäranlagen"

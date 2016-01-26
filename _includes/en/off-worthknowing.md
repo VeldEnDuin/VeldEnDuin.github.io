@@ -3,7 +3,7 @@
 - valid for all rental types
 - not applicable on extras
 - offer possible depending on availability
-- available the whole year through except forholidays and long weekends
+- available the whole year through except for holidays and long weekends
 <br>
 <br>
 

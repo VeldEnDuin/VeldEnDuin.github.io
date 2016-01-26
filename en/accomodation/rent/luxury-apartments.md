@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Luxury Apartments
+title: Luxury Apartment
 preview: 
     title: Luxury Apartments
     button:
@@ -44,7 +44,7 @@ insert:
 
 {% include links.md %}
 
-# Luxury Apartments
+# Luxury Apartment
 
 Located above the reception these new and luxurious apartments overlook the floral beauty at the entrance of the campsite.
 
@@ -95,7 +95,7 @@ November until March<br>except for holidays <br>& long weekends | April until Ju
 ## included
 - parking 1 car
 - consumption water & electricity
-- **Exception**: costs of electricity are excluded from 4 nights from 1/11 - 31/3
+- **exception**: costs of electricity are excluded from 4 nights from 1/11 - 31/3
 
 ## Extra Services
 EXTRA SERVICE             | PRICE

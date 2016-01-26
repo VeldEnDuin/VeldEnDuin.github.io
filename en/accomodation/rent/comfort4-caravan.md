@@ -54,7 +54,7 @@ Staying in a caravan raises memories of authentic camping even more. The mix of 
 - equipped kitchen with microwave
 - bathroom with shower, washbasin and toilet 
 – bedrooms caravan:
-    - 1 room with double bed(140x200)
+    - 1 room with double bed (140x200)
     - 1 room with bunk beds 2x (80x200) 
 - garden furniture
     
@@ -76,7 +76,7 @@ extra night > 7 n    |€ 49           | € 77
 14 nights          |€ 685          | € 1025
 
 
-## Periodes
+## Periods
 
 MID SEASON      |    HIGH SEASON|
 :--------------------:|:-----------------:|:-------------:|

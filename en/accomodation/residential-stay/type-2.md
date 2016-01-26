@@ -47,7 +47,7 @@ CONSUMPTION ⑴           |PRICE         |
 :--------------------:|:-------------:|
 electricity         | € 0,35 / kw        
 fixed price for water        | € 68 
-counter    | € 18 / counter
+counter    | € 18 
 
 ⑴ price subject to changing energy charges
 

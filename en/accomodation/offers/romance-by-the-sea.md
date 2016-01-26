@@ -64,7 +64,7 @@ November until March<br> except for holidays<br>& long weekends | April until Ju
 ## Included
 - parking 1 car
 - consumption gas - water - electricity
-- **Exception**: costs of electricity and gas are excluded from 4 nights from 1/11 - 31/3
+- **exception**: costs of electricity and gas are excluded from 4 nights from 1/11 - 31/3
 
 ## Extra Services
 EXTRA SERVICE               | PRICE

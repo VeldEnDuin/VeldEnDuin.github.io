@@ -27,10 +27,10 @@ Gleich beim Betreten des Geländes wird deutlich, dass wir eine gepflegte vielse
 ## Ökologie
 Grün bedeutet auch, dass wir nach einem möglichst umweltfreundlichen Betrieb streben. Wir versuchen unter anderem mit folgenden Maßnahmen, einen Beitrag für unsere Umwelt zu leisten:
 
-- Bei den Luxusappartements und den erneuerten Sanitäranlagen verwenden wir Solarboiler.
-- Wir setzen auf Abfalltrennung.
-- Bei der Anlage neuer Parzellen sehen wir eine Abwassertrennung vor.
-- Wir haben Sparduschköpfe installiert.
+- bei den Luxusappartements und den erneuerten Sanitäranlagen verwenden wir Solarboiler
+- wir setzen auf Abfalltrennung
+- bei der Anlage neuer Parzellen sehen wir eine Abwassertrennung vor
+- wir haben Sparduschköpfe installiert
 
 Jeder Dauercampingplatz verfügt darüber hinaus über getrennte Wasser-, Strom- und Gaszähler, sodass unsere Gäste angespornt werden, ihren ökologischen Fußabdruck zu verkleinern. Auch bei den Mietunterkünften werben wir dafür, nicht unnötig Energie zu verschwenden.
 

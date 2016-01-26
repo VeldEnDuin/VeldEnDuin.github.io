@@ -36,7 +36,6 @@ Unser Romantik-am-Meer-Arrangement ist die ideale Gelegenheit, Ihrer/Ihrem gelie
 
 
 ## Gut zu wissen
-##Gut zu wissen:
 - Gültig für jede Art der Vermietung
 - Mit Ausnahme der Schulferien und langer Wochenende das ganze Jahr über buchbar
 

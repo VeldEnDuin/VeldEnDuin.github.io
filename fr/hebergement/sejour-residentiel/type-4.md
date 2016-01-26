@@ -27,7 +27,7 @@ insert:
 Vous cherchez un grand emplacement avec vue sur la pièce d’eau au centre du camping? Optez pour l’un de nos emplacements de luxe plus spacieux.
 
 ##Bon à savoir
-- toutes les parcelles de type 1 sont situées autour de la pièce d’eau
+- toutes les parcelles de type 4 sont situées autour de la pièce d’eau
 - dalle de béton de 12x4 m – adaptée aux grandes caravanes
 - compteurs séparés pour le gaz – l’eau – l’électricité
 - réseau de gaz souterrain – pas de bonbonnes de gaz

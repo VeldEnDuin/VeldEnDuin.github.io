@@ -31,7 +31,7 @@ Suchen Sie ein attraktives Geschenk? Ein schöner Geschenkgutschein von Veld & D
 - Gültig für jede Art der Vermietung oder für einen Kurzzeitplatz
 - Verfügbarkeit vorausgesetzt das ganze Jahr über nutzbar
 - Unbeschränkt gültig
-- Wählen Sie selbst Ihren Betrag (mindestens 20 €)
+- Wählen Sie selbst Ihren Betrag (mindestens € 20)
 
 
 

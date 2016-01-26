@@ -29,7 +29,7 @@ Our sauna room consists of:
 - 4 reclining chairs
 - an ice-cold plunge bath
 - a shower
-- wellness products(salt scrub and body lotion)
+- wellness products (salt scrub and body lotion)
 
 **Private hire**: € 30 for 3 hours.
 

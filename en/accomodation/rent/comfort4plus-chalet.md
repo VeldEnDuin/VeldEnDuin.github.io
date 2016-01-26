@@ -48,12 +48,12 @@ insert:
 
 Sit down and relax. Have a glass of wine on the terrace of your chalet after a long day at the beach or an excursion in the neighbourhood. Think about your plans for tomorrow...
 
-## Facilities chalet:
+## Facilities chalet
 - spacious living room with flat screen and set top box
 - fully equipped kitchen and microwave
 - bathroom with shower, washbasin and toilet 
 – bedrooms chalet:
-    - 1 room with double bed(140x200)
+    - 1 room with double bed (140x200)
     - 1 room with bunk beds 2x (90x200) 
 - covered and fenced terrace with garden furniture
     
@@ -88,7 +88,7 @@ November until March<br>except for holidays <br>& long weekends | April until Ju
 ## included
 - parking 1 car
 - consumption gas - water - electricity
-- **Exception**: costs of electricity and gas are excluded from 4 nights from 1/11 - 31/3
+- **exception**: costs of electricity and gas are excluded from 4 nights from 1/11 - 31/3
 
 ## Extra Services
 EXTRA SERVICE               | PRICE

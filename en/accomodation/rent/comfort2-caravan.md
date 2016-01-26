@@ -55,7 +55,7 @@ This mini-caravan with private garden is suitable for those who love being outdo
 - separate toilet
 - bedrooms caravan:
     - 1 room with a double bed (140x200)
-    - 1 room met 2 separate beds (80x200)
+    - 1 room with 2 separate beds (80x200)
 - private garden with garden furniture
     
 ## Worth knowing
