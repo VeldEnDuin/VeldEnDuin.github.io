@@ -9,7 +9,7 @@ preview:
     list:
         - "10x8 m"
         - "suitable for family tents"
-        - “grass pitches"
+        - "grass pitches"
         - "close to the sanitary block"
        
 images:
@@ -42,7 +42,7 @@ insert:
 
 {% include links.md %}
 
-# TENTPLAATS 10x8
+# TENT PITCH 10x8
 Go for the real camping experience with the whole family and stay in a tent. You will certainly find like-minded people on our backpackers’green area to share your experiences with.  
 
 ## Worth knowing

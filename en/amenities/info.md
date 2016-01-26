@@ -24,17 +24,17 @@ remove:
 
 We will inform you about what’s going on in Bredene and surroundings on a regular basis. You can find this information on the following spots:
 
-## Information wall with
+## Information wall
 - an up-to-date survey of all activities in Bredene and surroundings on the screen
 - an information panel with practical information such as prices, emergency numbers, ground plan,...
 - a letter box for your letters and newspapers
 - a chalk board showing the most recent information
 
-## Reception with
+## Reception 
 - a range of flyers and brochures
 - a file with flyers, admission prices and opening hours of attractions and events
 
-## [To do page on our website][doen.en] with
+## [To do page on our website][doen.en] 
 - a handy survey of all kinds of activities divided into sections
 
 ## Tourist office

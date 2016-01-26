@@ -9,7 +9,7 @@ preview:
     list:
         - "gemiddelde opp: 100 m²"
         - "te vernieuwen plaatsen"
-        - "8 maanden toegankelijk"
+        - "winter: watertoevoer afgesloten"
         
         
 images:

@@ -24,7 +24,7 @@ insert:
 
 #Arrangement 7 + 1
 
-Buchen Sie dieses Arrangement und Sie erhalten eine zusätzliche Nacht gratis bei Reservierung von 7 Nächten oder mehr. Also: Noch mehr genießen für dasselbe Geld!  
+Buchen Sie dieses Arrangement und Sie erhalten eine zusätzliche Nacht gratis bei Reservierung von 7 Nächten oder mehr. Also: noch mehr genießen für dasselbe Geld!  
     
 {% include de/arr-gutzuwissen.md %}
 

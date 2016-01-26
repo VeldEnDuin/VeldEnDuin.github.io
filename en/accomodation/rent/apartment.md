@@ -51,8 +51,8 @@ The apartments are situated next to the campsite. This means that you can enjoy 
 - equipped kitchen with microwave
 - bathroom with shower, washbasin and toilet 
 – bedrooms caravan:
-    - 1 room with double bed(140x200)
-    - 1 room with bunk beds 2x (90x200)+ sofa bed
+    - 1 room with double bed (140x200)
+    - 1 room with bunk beds 2x (90x200) + sofa bed
 - balcony in front overlooking the dunes and with a view of the playground at the back
     
 ## Worth knowing
@@ -62,7 +62,7 @@ The apartments are situated next to the campsite. This means that you can enjoy 
 - shared bike storage
 - bookable throughout the year
 
-## prices
+## Prices
 
 PERIOD             | OFF-SEASON | MID SEASON | HIGH SEASON |
 :------------------:|:-----------:|:-------------:|:-----------:|
@@ -88,7 +88,7 @@ November until March<br>except for holidays <br>& long weekends | April until Ju
 ## included
 - parking 1 car
 - consumption water & electricity
-- **Exception**: costs of electricity are excluded from 4 nights from 1/11 - 31/3
+- **exception**: costs of electricity are excluded from 4 nights from 1/11 - 31/3
 
 ## Extra Services
 EXTRA SERVICE               | PRICE

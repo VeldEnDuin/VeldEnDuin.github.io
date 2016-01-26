@@ -4,7 +4,7 @@ title: Residential campers
 preview: 
     title: Residential campers
     button:
-        price: 1500
+        price: 1580
         for: per year
     list:
         - "80 m² pitches"
@@ -52,8 +52,8 @@ Your caravan stays on the campsite all year round. This means you can enjoy ever
 ##Prices 
 PERIOD              | STAND PRICE  | MUNICIPAL TAXES       
 :--------------------:|:----------------------:|--------------|
-6 months             |€ 1500                  |€ 129,85            
-1 year<br>(1/1-31/12) |€ 1605                  |€ 340,79                 
+6 months             |€ 1580                  |€ 129,85            
+1 year<br>(1/1-31/12) |€ 1685                  |€ 340,79                 
  
 ## Included
 - parking place 1 car
@@ -62,9 +62,9 @@ PERIOD              | STAND PRICE  | MUNICIPAL TAXES
 EXTRA              | PRICE 
 :------------------|:-----------|
 electricity        |according to consumption
-fixed price water      |€ 65
+fixed price water      |€ 68
 counter    |€ 18
-contribution for household refuge   |€ 60 (incl. 25 bags)
+contribution for household refuge   |€ 65 (incl. 25 bags)
 barier entrance card     |€ 100 (warranty € 75)
 awning winter    |€ 100
 [fire insurance][pdf_brandverzekering.en]|compulsory - possibility to join our group insurance

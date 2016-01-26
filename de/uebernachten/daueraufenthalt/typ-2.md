@@ -47,7 +47,7 @@ VERBRAUCH ⑴           |PREIS          |
 :--------------------:|:-------------:|
 Strom                 | € 0,35 / Kw        
 Pauschal Wasser       | € 68 
-Zähler                | € 18 / Zähler
+Zähler                | € 18 
 
 ⑴ Preis vorbehaltlich Änderungen der Energiepreise
 

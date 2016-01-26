@@ -44,7 +44,7 @@ insert:
 
 # Chalet Comfort 4 
 
-Diese Chalets liegen vorn auf dem Campingplatz in der Nähe des Spielplatzes Ideal also für Kinder, die so ihre Freunde immer in der Nähe haben.
+Diese Chalets liegen vorn auf dem Campingplatz in der Nähe des Spielplatzes. Ideal also für Kinder, die so ihre Freunde immer in der Nähe haben.
 
 ## Einrichtung Chalet
 - Großes Wohnzimmer mit Flachbildschirm-TV und Digibox

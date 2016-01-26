@@ -224,7 +224,7 @@ items:
   link:
     nl: http://theateraanzee.be/nl/
     fr: http://theateraanzee.be/fr/
-    de: http://theateraanzee.be/nl
+    de: http://theateraanzee.be/nl/
     en: http://theateraanzee.be/en/
   title:
     nl: Theater aan Zee
@@ -550,9 +550,9 @@ items:
   - "/img/doen/nieuw-stak.jpg"
   link:
     nl: http://www.nieuwpoort.be/nieuwpoort/view/nl/nieuwpoort/toerisme/bezoeken/bezienswaardigheden/staketsel
-    fr: http://www.nieuwpoort.be/nieuwpoort/view/nl/nieuwpoort/toerisme/bezoeken/bezienswaardigheden/staketsel
-    de: http://www.nieuwpoort.be/nieuwpoort/view/nl/nieuwpoort/toerisme/bezoeken/bezienswaardigheden/staketsel
-    en: http://www.nieuwpoort.be/nieuwpoort/view/nl/nieuwpoort/toerisme/bezoeken/bezienswaardigheden/staketsel
+    fr: http://www.nieuwpoort.be/nieuwpoort/view/fr/nieuwpoort/tourisme/visites/curiosites/estacade
+    de: http://www.nieuwpoort.be/nieuwpoort/view/de/nieuwpoort/tourismus/besuche/sehenswurdigkeiten/mole
+    en: http://www.nieuwpoort.be/nieuwpoort/view/en/nieuwpoort/tourism/visits/sights_of_interest/mole
   title:
     nl: staketsel Nieuwpoort
     fr: estacade de Nieuport
@@ -570,6 +570,10 @@ items:
   images:
   - "/img/doen/blan-pier.jpeg"
   link:
+    nl: http://www.storms.eu/nl/home
+    fr: http://www.storms.eu/fr/home
+    de: http://www.storms.eu/nl/home
+    en: http://www.storms.eu/en/home
   title:
     nl: pier Blankenberge
     fr: jetée de Blankenberge
@@ -751,9 +755,9 @@ items:
   - "/img/doen/bre-zwem.jpg"
   link:
     nl: http://www.dekust.be/mindergoedweer/zwembaden-en-wellness
-    fr: http://www.dekust.be/mindergoedweer/zwembaden-en-wellness
-    de: http://www.dekust.be/mindergoedweer/zwembaden-en-wellness
-    en: http://www.dekust.be/mindergoedweer/zwembaden-en-wellness
+    fr: http://www.lelittoral.be/search/content/piscine
+    de: http://www.belgischekueste.be/search/content/hallenbad
+    en: http://www.belgiancoast.co.uk/search/content/swimming%20pool
   title:
     nl: zwemmen
     fr: natation
@@ -1041,7 +1045,7 @@ items:
   link:
     nl: http://www.dekust.be/strandbarsenbeachclubs
     fr: http://www.lelittoral.be/9-haltes-d%C3%A9tente-bar-club-de-plage
-    de: http://www.belgischekueste.be/strandbars-und-beachclubs
+    de: hhttp://www.belgischekueste.be/search/content/beachclub
     en: http://www.belgiancoast.co.uk/beachbars-and-beachclubs
   title:
     nl: strandbars

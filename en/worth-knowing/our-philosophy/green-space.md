@@ -28,9 +28,9 @@ We appreciate a variation of plants and flowers, which are nicely kept and colou
 Going green is synonym with respecting ecology. We are contributing as follows:
 
 - the use of sun boilers for the luxury apartments and for the new sanitary blocks
-- Separate waste collection
-- Separate waste water to be provided when new plots are being constructed
-- Energy-saving shower heads
+- separate waste collection
+- separate waste water to be provided when new plots are being constructed
+- energy-saving shower heads
 
 Each resident disposes of separate water, electricity and gas meters. In this way you are being encouraged to reduce your ecological foot print. We also do a warm appeal to our tenants not to waste any energy.
 

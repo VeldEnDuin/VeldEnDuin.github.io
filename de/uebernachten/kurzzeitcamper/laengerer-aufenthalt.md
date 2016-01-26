@@ -4,7 +4,7 @@ title: Längerer Aufenthalt
 preview: 
     title: Längerer Aufenthalt
     button:
-        price: 1500
+        price: 1580
         for: pro Jahr
     list:
         - "Plätze 80 m²"
@@ -52,8 +52,8 @@ Ihr Wohnwagen mit allen Grundannehmlichkeiten bleibt das ganze Jahr über stehen
 ## Preise
 ZEITRAUM              | STELLPLATZKOSTEN       | GEMEINDESTEUER      
 :--------------------:|:----------------------:|--------------|
-6 Monate              |€ 1500                  |€ 129,85            
-1 Jahr<br>(1.1.-31.12.) |€ 1605                  |€ 340,79                 
+6 Monate              |€ 1580                  |€ 129,85            
+1 Jahr<br>(1.1.-31.12.) |€ 1685                  |€ 340,79                 
  
 ## Inbegriffen
 - Parkplatz für 1 Auto
@@ -62,9 +62,9 @@ ZEITRAUM              | STELLPLATZKOSTEN       | GEMEINDESTEUER
 EXTRA             | PREIS 
 :------------------|:-----------|
 Strom              |nach Verbrauch
-Pauschal Wasser    |€ 65
+Pauschal Wasser    |€ 68
 Zähler             |€ 18
-Hausmüllgebühr     |€ 60 (inkl. 25 Müllsäcke)
+Hausmüllgebühr     |€ 65 (inkl. 25 Müllsäcke)
 Karte für Schranke |€ 100 (Kaution € 75)
 Wintervorzelt      |€ 100
 [Brandversicherung][pdf_brandverzekering.de]|verpflichtet - Möglichkeit eines Abschlusses über unsere Gruppenversicherung

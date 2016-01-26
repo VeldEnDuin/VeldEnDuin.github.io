@@ -24,11 +24,11 @@ Unfortunately we cannot allow pets in the (luxury) apartments.<br>
 ## House rules
 You are responsible for your dog. Please read the following very carefully:
 
-- Dogs are admitted if kept on a lead on the camping site
-- Droppings must be removed immediately
-- Pets must be kept on your private plot
-- Maximum 2 dogs per plot
-- Dangerous breeds are not allowed
+- dogs are admitted if kept on a lead on the camping site
+- droppings must be removed immediately
+- pets must be kept on your private plot
+- maximum 2 dogs per plot
+- dangerous breeds are not allowed
  
 ## Letting the dog out
 

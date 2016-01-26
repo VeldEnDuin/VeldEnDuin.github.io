@@ -9,7 +9,7 @@ preview:
     list:
         - "gemiddelde opp: 80 m²"
         - "rustige ligging"
-        - "8 maanden toegankelijk"
+        - "winter: watertoevoer afgesloten"
                
 images:
     - /img/overnachten/residentieel-type1/restyp1-01.jpg

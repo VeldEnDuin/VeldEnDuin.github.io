@@ -8,7 +8,7 @@ preview:
         for: pro Nacht
         
     list:
-        - "Abmessungen: 7 x 8 Meter"
+        - "Abmessungen: 7x8 Meter"
         - "Ideal für 2-Personenzelte"
         - "Rasenplätze"
         - "Nahe bei Sanitäranlagen"
@@ -43,7 +43,7 @@ insert:
 {% include links.md %}
 
 # ZELTPLATZ 7x8
-Diese Plätze von 7 x 8 Metern sind ideal für Ihr kleines (Wurf-)Zelt.   
+Diese Plätze von 7x8 Metern sind ideal für Ihr kleines (Wurf-)Zelt.   
 
 
 ## Gut zu wissen
