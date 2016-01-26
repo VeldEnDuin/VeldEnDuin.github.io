@@ -45,7 +45,7 @@ Danach nehmen Sie gleich die nächste links. Etwa 200 m weiter auf der rechten S
 Für Bahnreisende gibt es von diversen belgischen Städten Direktverbindungen zum Bahnhof Ostende. Auf der Webseite der [NMBS][nmbs.de] finden Sie ausführliche Angaben zu Fahrplan und Preisen.
 
 ### Küstenstraßenbahn
-Die schnellste Art und Weise, vom Ostender Bahnhof nach Bredene zu gelangen (ca. 8 km) ist die [Küstenstraßenbahn][kusttram.de]. In der Hochsaison fährt alle 10 Minuten eine Straßenbahn Richtung Bredene, außerhalb der Saison alle 30 Minuten.<br>
+Die schnellste Art und Weise, vom Ostender Bahnhof nach Bredene zu gelangen (ca. 8 km) ist die [Küstenstraßenbahn][kusttram.de]. In der Hochsaison fährt alle 10 Minuten eine Straßenbahn Richtung Bredene, außerhalb der Saison alle 15 Minuten.<br>
 
 An der Straßenbahnhaltestelle “Renbaan” steigen Sie aus und nehmen die Treppe hinunter zum Fußgängertunnel. Dort gehen Sie nach links (rechts geht es zum Strand) und nach dem Tunnel gleich nach rechts. Sie folgen diesem Weg bis zum Ende einer Sackgasse. Dort gehen Sie nach links den Weg bis zur Fischerkapelle (Visserskapel). Hier biegen Sie nach rechts in die Kapelstraat ein. Die erste Straße links ist die Koningin Astridlaan. Veld & Duin ist der erste Campingplatz auf der linken Seite.
 

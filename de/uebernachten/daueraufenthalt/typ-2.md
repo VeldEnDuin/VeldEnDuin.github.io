@@ -28,7 +28,7 @@ Entschleunigen Sie nach einer hektischen Arbeitswoche in Ihrem Wohnwagen. So kö
 
 
 ## Gut zu wissen:
-- diese Plätze werden in naher Zukunft erneuert – siehe [neues Projekt][nieuw-project.de]
+- diese Plätze werden in naher Zukunft erneuert – siehe [neues Projekt][nieuw_project.de]
 - Stromzähler – Pauschale Wasser
 - Gasflaschen
 - Kein winterfester Wasseranschluss – Sanitärgebäude bleibt geöffnet

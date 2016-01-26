@@ -29,7 +29,7 @@ Notre forfait séjour romantique à la mer est la formule idéale pour ceux et c
 
 ##Ce forfait comprend
 - 2 nuits dans un hébergement de votre choix
-- l'utilisation du saune et de l'espace détente (douche, sièges de relaxation, tonneau d'eau froide)
+- l'utilisation du [sauna][sauna.fr] et de l'espace détente (douche, sièges de relaxation, tonneau d'eau froide)
 - les extras au choix parmi les propositions suivantes:
     - produits sains: fruit, noix, bouteille de jus de fruit bio
     - produits savoureux: bouteile de vin + 3 tapas
