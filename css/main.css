@@ -1162,8 +1162,8 @@ button.vd-callout-btn:hover {
  *   -------------------------------------------------------------------------------
  */
 .vd-landing-footer {
-    height: 5em;
-    overflow: hidden;
+    /* height: 5em; */
+    /* overflow: hidden; */
     margin: 2em 0 1em 0;
 }
 .vd-virtualtour-link {
