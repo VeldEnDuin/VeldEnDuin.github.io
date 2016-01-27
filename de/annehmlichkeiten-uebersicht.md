@@ -17,6 +17,6 @@ preview: no
 icon: sunglasses
 
 images: 
-    - /img/ingang.jpg
+    - /img/overnachten/trekkers-res/restr-04.jpg
 ---
 {% include links.md %}

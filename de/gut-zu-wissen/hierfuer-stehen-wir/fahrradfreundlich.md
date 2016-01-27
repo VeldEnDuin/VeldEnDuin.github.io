@@ -45,6 +45,6 @@ Unter anderem können Sie folgende Einrichtungen nutzen:
 
 
 ## Radtipp
-Wussten Sie übrigens, dass Ihr Rad gratis auf dem Fährboot zwischen Bredene und Ostende mitfahren darf?
+Wussten Sie übrigens, dass Ihr Rad gratis auf dem [Fährboot][overzetboot.de] zwischen Bredene und Ostende mitfahren darf?
 
 

@@ -45,6 +45,6 @@ Facilities at your disposal:
 
 
 ## Suggestion
-Take your bike on the passage-boat from Bredene to Oostende. Regular service and free of charge!
+Take your bike on the [passage-boat][overzetboot.en] from Bredene to Oostende. Regular service and free of charge!
 
 

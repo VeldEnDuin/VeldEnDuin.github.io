@@ -20,12 +20,12 @@ items:
     nl: Staf Versluyscentrum
     fr: Centre Staf Versluys
     de: Staf Versluyscentrum
-    en: ''
+    en: Staf Versluys Centre
   caption:
     nl: meeting en eventcentrum - Bredene
     fr: centre de séminaires et d’événements - Bredene
     de: Konferenz- und Veranstaltungszentrum – Bredene
-    en: ''
+    en: meeting and event center - Bredene
 - ranking: 220
   location: 51.230606, 2.915692
   subgroups:
@@ -46,7 +46,7 @@ items:
     nl: cultuurhuis - Oostende
     fr: Centre culturel - Ostende
     de: Kulturhaus – Ostende
-    en: ''
+    en: cultural center - Ostend
 - ranking: 500
   subgroups:
   - cult
@@ -61,12 +61,12 @@ items:
     nl: 100 jaar Groote Oorlog
     fr: Le centenaire de la Grande Guerre
     de: 100 Jahre Erster Weltkrieg
-    en: ''
+    en: The Great War Centenary
   caption:
     nl: herdenking WO I
     fr: commémoration de la Première Guerre mondiale
     de: Gedenken an den Ersten Weltkrieg
-    en: ''
+    en: commemoration World War I
 - ranking: 280
   location: 51.239829, 2.934340
   subgroups:
@@ -88,7 +88,7 @@ items:
     nl: militair fort - Oostende
     fr: Fort militaire - Ostende
     de: Militärische Festung – Ostende
-    en: ''
+    en: military fort - Ostend
 - ranking: 90
   location: 51.226366, 2.914577
   subgroups:
@@ -110,7 +110,7 @@ items:
     nl: kunstmuseum voor Belgische kunst - Oostende
     fr: Musée d’art belge - Ostende
     de: Kunstmuseum für belgische Kunst – Ostende
-    en: ''
+    en: museum of Belgian Art - Ostend
 - ranking: 350
   location: 51.199366, 2.848961
   subgroups:
@@ -127,12 +127,12 @@ items:
     nl: Provinciedomein Raversyde
     fr: Domaine provincial de Raversijde
     de: Provinzdomäne Raversyde
-    en: ''
+    en: Provinciedomein Raversyde
   caption:
     nl: Atlanticwall - Oostende
     fr: Le Mur de l’Atlantique - Ostende
     de: Atlantikwall – Ostende
-    en: ''
+    en: Atlantic Wall - Ostend
 - ranking: 30
   location: 51.226279, 3.224892
   subgroups:
@@ -149,12 +149,12 @@ items:
     nl: Historisch Brugge
     fr: Centre historique de Bruges
     de: Historisches Brügge
-    en: ''
+    en: Historic Bruges
   caption:
     nl: Unesco Werelderfgoedstad
     fr: Ville classée au patrimoine mondial de l’Unesco
     de: Unesco-Weltkulturerbestätte
-    en: ''
+    en: Unesco World Heritage
 - ranking: 480
   location: 51.136871, 2.755682
   subgroups:
@@ -171,12 +171,12 @@ items:
     nl: Westfront
     fr: Front occidental
     de: Westfront
-    en: ''
+    en: Westfront
   caption:
     nl: slag om de Ijzer - Nieuwpoort
     fr: La bataille de l’Yser - Nieuport
     de: Schlacht um die Yser - Nieuwpoort
-    en: ''
+    en: the battle for the Yser - Nieuwpoort
 - ranking: 40
   location: 51.252213, 2.974759
   subgroups:
@@ -196,8 +196,8 @@ items:
   caption:
     nl: gratis wereldmuziekfestival - Bredene - 12-13/8
     fr: Festival gratuit de musique du monde – Bredene – 12-13/8
-    de: Weltmusikfestival mit kostenlosem Eintritt – Bredene – 12. und 13.8.
-    en: Free World Music Festival - Bredene - 12-13/8
+    de: Weltmusikfestival mit kostenlosem Eintritt – Bredene – 12-13.8
+    en: free world music festival - Bredene - 12-13/8
 - ranking: 170
   location: 51.252213, 2.974759
   subgroups:
@@ -214,7 +214,7 @@ items:
     nl: parkfeest 't Paelsteenveld - Bredene - 27/8
     fr: fête dans le parc ‘t Paelsteenveld – Bredene – 27/8
     de: Parkfest 't Paelsteenveld – Bredene – 27.8.
-    en: Festival in the park - 't Paelsteenveld - Bredene - 27/8
+    en: festival in Paelsteenveld park - 't Paelsteenveld - Bredene - 27/8
 - ranking: 230
   location: 51.231234, 2.913555
   subgroups:
@@ -235,7 +235,7 @@ items:
     nl: theaterfestival - Oostende - 28/7-6/8
     fr: festival de théâtre – Ostende – 28/7-6/8
     de: Theaterfestival – Ostende – 28.7. bis 6.8.
-    en: Theater festival - Ostend - 28/7-6/8
+    en: theater festival - Ostend - 28/7-6/8
 - ranking: 100
   location: 51.278736, 3.034791
   subgroups:
@@ -256,7 +256,7 @@ items:
     nl: Belle Epoquefeest - De Haan - 6/8
     fr: fête sous le thème de la Belle Époque – Le Coq - 6/8
     de: Belle-Epoque-Fest – De Haan 6/8
-    en: ''
+    en: Belle Epoque event - De Haan
 - ranking: 290
   location: 51.315091, 3.131080
   subgroups:
@@ -272,12 +272,12 @@ items:
     nl: Bloemencorso
     fr: Corso fleuri
     de: Blumenkorso
-    en: ''
+    en: Bloemencorso
   caption:
     nl: bloemenstoet - Blankenberge - 28/8
     fr: cortège de chars fleuris – Blankenberge – 28/8
     de: Blumenumzug – Blankenberge – 28.9.
-    en: Flower Parade - Blankenberge - 28/9
+    en: flower Parade - Blankenberge - 28/9
 - ranking: 240
   location: 51.318481, 3.146007
   subgroups:
@@ -298,7 +298,7 @@ items:
     nl: ontdek de boeiende onderwaterwereld
     fr: découvrez les merveilles du monde sous-marin
     de: Entdecken Sie die fesselnde Unterwasserwelt
-    en: ''
+    en: discover the fascinating under water world
 - ranking: 110
   location: 51.255308, 3.007239
   subgroups:
@@ -319,7 +319,7 @@ items:
     nl: circusspeelterrein- De Haan
     fr: terrain de jeux de cirque – Le Coq
     de: Zirkusspielplatz – De Haan
-    en: ''
+    en: circus playground - De Haan
 - ranking: 370
   location: 51.181855, 3.214026
   subgroups:
@@ -340,7 +340,7 @@ items:
     nl: dolfinarium en attractiepark - Brugge
     fr: delphinarium et parc d’attractions - Bruges
     de: Delfinarium und Freizeitpark – Brügge
-    en: ''
+    en: dolphinarium and theme park - Bruges
 - ranking: 180
   location: 51.238518, 2.939241
   subgroups:
@@ -361,7 +361,7 @@ items:
     nl: wetenschapspark - Oostende
     fr: parc scientifique - Ostende
     de: Wissenschaftspark – Ostende
-    en: ''
+    en: adventure and science park - Ostend
 - ranking: 300
   location: 51.206802, 2.907028
   subgroups:
@@ -382,7 +382,7 @@ items:
     nl: binnenspeeltuin - Oostende
     fr: plaine de jeux intérieure - Ostende
     de: Innenspielplatz – Ostende
-    en: ''
+    en: indoor playground - Ostend
 - ranking: 50
   location: 51.080998, 2.598774
   subgroups:
@@ -403,7 +403,7 @@ items:
     nl: pretpark - De Panne
     fr: parc d’attractions – La Panne
     de: Freizeitpark – De Panne
-    en: ''
+    en: theme park - De Panne
 - ranking: 450
   location: 50.845818, 2.950622
   subgroups:
@@ -424,7 +424,7 @@ items:
     nl: pretpark - Ieper
     fr: parc d’attractions – Ypres
     de: Freizeitpark – Ypern
-    en: ''
+    en: theme park - Ypres
 - ranking: 10
   location: 51.256371, 2.975413
   subgroups:
@@ -437,7 +437,7 @@ items:
     nl: Strand en Zee
     fr: Plage et mer
     de: Strand und See
-    en: ''
+    en: Beach and Sea
   caption:
     nl: ''
     fr: ''
@@ -458,12 +458,12 @@ items:
     nl: veerverbinding Oostende
     fr: Bac Ostende
     de: Fährverbindung Ostende
-    en: ''
+    en: ferry service Ostend
   caption:
     nl: gratis overzetboot tussen wester-oosteroever
     fr: traversée gratuite en bac entre la rive occidentale et orientale
     de: Gratis Fährboot zwischen West- und Ostufer
-    en: ''
+    en: free ferry service between the western and eastern bank
 - ranking: 130
   location: 51.255187, 2.975755
   subgroups:
@@ -475,7 +475,7 @@ items:
     nl: duinengordel Bredene
     fr: ceinture de dune de Bredene
     de: Dünengürtel Bredene
-    en: ''
+    en: dunes Bredene
   caption:
     nl: ''
     fr: ''
@@ -496,7 +496,7 @@ items:
     nl: naaktstrand Bredene
     fr: plage pour nudistes de Bredene
     de: Nacktbadestrand Bredene
-    en: ''
+    en: nudist beach Bredene
   caption:
     nl: ''
     fr: ''
@@ -516,7 +516,7 @@ items:
     nl: boottochten
     fr: balades en bateau
     de: Bootstouren
-    en: ''
+    en: boat trips
   caption:
     nl: ''
     fr: ''
@@ -536,7 +536,7 @@ items:
     nl: vissen op zee
     fr: pêche en mer
     de: Hochseeangeln
-    en: ''
+    en: fishing at sea
   caption:
     nl: ''
     fr: ''
@@ -557,7 +557,7 @@ items:
     nl: staketsel Nieuwpoort
     fr: estacade de Nieuport
     de: Staketsel Nieuwpoort
-    en: ''
+    en: pier Nieuwpoort
   caption:
     nl: ''
     fr: ''
@@ -578,12 +578,12 @@ items:
     nl: pier Blankenberge
     fr: jetée de Blankenberge
     de: Pier Blankenberge
-    en: ''
+    en: pier Blankenberge
   caption:
     nl: met tentoonstelling Storms en brasserie
     fr: Storms Expo et brasserie
     de: mit Ausstellung “Storms” und Brasserie
-    en: ''
+    en: with exhibition “Storms” and brasserie
 - ranking: 80
   subgroups:
   - coast
@@ -598,12 +598,12 @@ items:
     nl: kusttram
     fr: tram du littoral
     de: Küstenstraßenbahn
-    en: ''
+    en: coast tram
   caption:
     nl: het ideale vervoersmiddel aan de kust
     fr: le moyen de transport idéal pour sillonner la côte
     de: das ideale Verkehrsmittel an der Küste
-    en: ''
+    en: by far the best means of transport along the coast
 - ranking: 210
   location: 51.233715, 2.922228
   subgroups:
@@ -620,12 +620,12 @@ items:
     nl: visserskaai en vistrap Oostende
     fr: le quai des pêcheurs et le marché aux poissons d'Ostende
     de: Fischerkai und Fischtreppe Ostende
-    en: ''
+    en: Fisherman quay and fish stalls
   caption:
     nl: koop hier uw verse vis
     fr: achetez-y votre poisson frais
     de: Kaufen Sie hier Ihren frischen Fisch
-    en: ''
+    en: buy your fresh fish here
 - ranking: 105
   subgroups:
   - recrea
@@ -640,7 +640,7 @@ items:
     nl: wandelnetwerk
     fr: réseau de randonnées pédestres
     de: Wandernetz
-    en: ''
+    en: walking trail network
   caption:
     nl: ''
     fr: ''
@@ -660,12 +660,12 @@ items:
     nl: fietsroutenetwerk
     fr: réseau de randonnées cyclistes
     de: Radwegenetz
-    en: ''
+    en: cycle route network
   caption:
     nl: stel zelf uw fietsroute samen
     fr: établissez votre propre parcours
     de: Stellen Sie Ihre eigene Fahrradroute zusammen
-    en: ''
+    en: compose your own cycling tour
 - ranking: 490
   location: 51.247020, 2.952719
   subgroups:
@@ -681,7 +681,7 @@ items:
     nl: surfen
     fr: surf
     de: Surfen
-    en: ''
+    en: surfing
   caption:
     nl: ''
     fr: ''
@@ -701,7 +701,7 @@ items:
     nl: (avond)markten
     fr: marchés (nocturnes)
     de: (Abend-)Märkte
-    en: ''
+    en: (evening)markets
   caption:
     nl: ''
     fr: ''
@@ -721,7 +721,7 @@ items:
     nl: minigolf Bredene
     fr: minigolf de Bredene
     de: Minigolf Bredene
-    en: ''
+    en: midget golf Bredene
   caption:
     nl: ''
     fr: ''
@@ -741,7 +741,7 @@ items:
     nl: paardrijden
     fr: équitation
     de: Reiten
-    en: ''
+    en: horseriding
   caption:
     nl: ''
     fr: ''
@@ -762,12 +762,12 @@ items:
     nl: zwemmen
     fr: natation
     de: Schwimmen
-    en: ''
+    en: swimming
   caption:
     nl: zwembaden aan de Kust
     fr: piscines à la côte
     de: Schwimmbäder an der Küste
-    en: ''
+    en: swimming pools at the coast
 - ranking: 320
   location: 51.244098, 2.974537
   subgroups:
@@ -783,12 +783,12 @@ items:
     nl: Grasduinen Bredene
     fr: Grasduinen Bredene
     de: Grasduinen Bredene
-    en: ''
+    en: Grasduinen Bredene
   caption:
     nl: recreatiedomein
     fr: domaine récréatif
     de: Erholungsgebiet
-    en: ''
+    en: recreation area
 - ranking: 250
   location: 51.246573, 2.992032
   subgroups:
@@ -801,7 +801,7 @@ items:
     de: http://www.uitinbredene.be/index.asp?pid=26&lang=DE
     en: http://www.uitinbredene.be/index.asp?pid=26&lang=NL
   title:
-    nl: D'Heye
+    nl: D’Heye
     fr: D’Heye
     de: D’Heye
     en: D’Heye
@@ -809,7 +809,7 @@ items:
     nl: natuurreservaat - Bredene
     fr: réserve naturelle - Bredene
     de: Naturreservat – Bredene
-    en: ''
+    en: nature reserve - Bredene
 - ranking: 485
   location: 51.255872, 2.982859
   subgroups:
@@ -830,7 +830,7 @@ items:
     nl: natuurreservaat - Bredene
     fr: réserve naturelle - Bredene
     de: Naturreservat – Bredene
-    en: ''
+    en: nature reserve - Bredene
 - ranking: 560
   location: 51.363853, 3.363277
   subgroups:
@@ -846,12 +846,12 @@ items:
     nl: Zwinvlakte
     fr: La plaine du Zwin
     de: Flachland des Zwin
-    en: ''
+    en: Zwinvlakte
   caption:
     nl: natuur- en vogelreservaat - Knokke
     fr: réserve naturelle et ornithologique - Knokke
     de: Natur- und Vogelreservat – Knokke
-    en: ''
+    en: nature and bird reserve - Knokke
 - ranking: 385
   location: 51.283618, 3.053152
   subgroups:
@@ -867,12 +867,12 @@ items:
     nl: Duinbossen
     fr: Duinbossen
     de: Dünenwälder
-    en: ''
+    en: Dune woods
   caption:
     nl: bosstrook tussen De Haan en Wenduine
     fr: zone boisée entre Le Coq et Wenduine
     de: Waldstreifen zwischen De Haan und Wenduine
-    en: ''
+    en: strip of woods between De Haan and Wenduine
 - ranking: 550
   location: 51.291442, 3.135372
   subgroups:
@@ -893,7 +893,7 @@ items:
     nl: 1400 ha authentieke kustpolder
     fr: authentique polder de 1400 ha
     de: 1400 ha authentischer Küstenpolder
-    en: ''
+    en: 1400 ha authentic coastal polder
 - ranking: 70
   subgroups:
   - shopout
@@ -908,7 +908,7 @@ items:
     nl: Shoppen aan de Kust
     fr: Shopping à la côte
     de: Shoppen an der Küste
-    en: ''
+    en: Shopping on the coast
   caption:
     nl: ''
     fr: ''
@@ -926,7 +926,7 @@ items:
     nl: zeedijk Oostende
     fr: digue d’Ostende
     de: Seedeich Ostende
-    en: ''
+    en: promenade Ostend
   caption:
     nl: ''
     fr: ''
@@ -953,7 +953,7 @@ items:
     nl: historisch centrum
     fr: centre historique
     de: Historischer Stadtkern
-    en: ''
+    en: historic centre
 - ranking: 400
   location: 51.225649, 2.906060
   subgroups:
@@ -970,12 +970,12 @@ items:
     nl: Wellington Hippodroom
     fr: Hippodrome Wellington
     de: Wellington Hippodroom
-    en: ''
+    en: Wellington Hippodrome
   caption:
     nl: paardenrennen - Oostende
     fr: course de chevaux - Ostende
     de: Pferderennbahn – Ostende
-    en: ''
+    en: horseracing - Ostend
 - ranking: 330
   subgroups:
   - shopout
@@ -990,7 +990,7 @@ items:
     nl: bistro's en restaurants
     fr: cafés et restaurants
     de: Bistros und Restaurants
-    en: ''
+    en: bistros and restaurants
   caption:
     nl: ''
     fr: ''
@@ -1010,12 +1010,12 @@ items:
     nl: frituren
     fr: friteries
     de: Frittenstände
-    en: ''
+    en: fries
   caption:
     nl: proef de échte Belgische friet
     fr: dégustez les véritables frites belges
     de: Kosten Sie die echten belgischen Pommes frites
-    en: ''
+    en: taste the real Belgian fries
 - ranking: 260
   subgroups:
   - shopout
@@ -1031,7 +1031,7 @@ items:
     nl: tea-rooms en ijssalons
     fr: salons de thé et glaciers
     de: Tea-Rooms und Eisdielen
-    en: ''
+    en: tea rooms and ice cream parlours
   caption:
     nl: ''
     fr: ''
@@ -1051,7 +1051,7 @@ items:
     nl: strandbars
     fr: bars de plage
     de: Strandbars
-    en: ''
+    en: beach bars
   caption:
     nl: ''
     fr: ''
@@ -1071,7 +1071,7 @@ items:
     nl: Bioscopen aan de Kust
     fr: Cinémas à la côte
     de: Kinos an der Küste
-    en: ''
+    en: Cinema on the coast
   caption:
     nl: ''
     fr: ''
@@ -1109,12 +1109,12 @@ items:
     nl: Bungee jumpen
     fr: Saut à l’élastique
     de: Bungee Jumping
-    en: ''
+    en: Bungee jumping
   caption:
     nl: waag een sprong van de watertoren
     fr: oserez-vous sauter dans le vide depuis le sommet du château d’eau?
     de: Wagen Sie einen Sprung vom Wasserturm
-    en: ''
+    en: venture a leap from the water tower
 subgroups:
   nl:
     coast: kustbeleving
@@ -1141,10 +1141,10 @@ subgroups:
     recrea: Erholen
     event: Veranstaltungen
   en:
-    coast: ''
-    city: ''
-    cult: ''
-    kids: ''
-    shopout: ''
-    recrea: ''
-    event: ''
+    coast: coast
+    city: city visit
+    cult: culture
+    kids: kids
+    shopout: out
+    recrea: recreation
+    event: event

@@ -27,5 +27,5 @@ Um dieses Etikett zu erhalten, musste wir die folgenden Schritte erfolgreich dur
 
 - Durchführung eines Qualitätsprojekts bestehend aus Ausbildung, Begleitung und Kontrollbesuchen
 - Anhand einer Qualitätsakte belegen, dass das erworbene Wissen auch effektiv genutzt werden kann
-- Positiver Bericht eines “Mystery Visitor”, der unter anderem die (Gast-)Freundlichkeit und die Sauberkeit der teilnehmenden Betriebe kontrollier
+- Positiver Bericht eines “Mystery Visitor”, der unter anderem die (Gast-)Freundlichkeit und die Sauberkeit der teilnehmenden Betriebe kontrolliert.
 
