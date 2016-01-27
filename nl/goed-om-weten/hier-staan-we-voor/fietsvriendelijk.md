@@ -45,6 +45,6 @@ U kunt onder meer gebruik maken van:
 
 
 ##Fietstip
-Wist u trouwens dat uw fiets gratis meekan op het overzetbootje tussen Bredene en Oostende?
+Wist u trouwens dat uw fiets gratis meekan op het [overzetbootje][overzetboot.nl] tussen Bredene en Oostende?
 
 

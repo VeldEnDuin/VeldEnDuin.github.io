@@ -45,6 +45,6 @@ Nous mettons notamment à votre disposition:
 
 
 ##Info pratique
-Saviez-vous que vous pouviez emmener gratuitement votre vélo à bord du bac entre Bredene et Ostende?
+Saviez-vous que vous pouviez emmener gratuitement votre vélo à bord du [bac][overzetboot.fr] entre Bredene et Ostende?
 
 

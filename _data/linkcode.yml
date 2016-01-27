@@ -355,6 +355,7 @@ doen:
     fr: /fr/a-faire.html
     en: /en/do.html
     de: /de/aktivitaeten.html
+
 # [5] menu fotos
 fotos:
     nl: /nl/foto-selectie.html
@@ -384,7 +385,7 @@ kusttram:
     nl: http://www.delijn.be/nl/kusttram/index.html
     fr: http://www.delijn.be/fr/kusttram%2Findex.html?vertaling=true
     de: http://www.delijn.be/de/kusttram%252Findex.html%3Fvertaling%3Dtrue
-    en: http://www.delijn.be/en/kusttram%25252Findex.html%253Fvertaling%253Dtrue?vertaling=true
+    en:
 nmbs:
     nl: http://www.belgianrail.be/nl
     fr: http://www.belgianrail.be/fr/home.aspx
@@ -420,3 +421,9 @@ wedstrijdform:
     fr: http://goo.gl/forms/Bnh11wE5Wv
     de: http://goo.gl/forms/L3c2x0M2Cb
     en: /todo
+overzetboot:
+    nl: http://www.visitoostende.be/nl/overzetboot-visserskaai-oosteroever
+    fr: http://www.visitoostende.be/fr/overzetboot-visserskaai-oosteroever
+    de: http://www.visitoostende.be/de/overzetboot-visserskaai-oosteroever
+    en: http://www.visitoostende.be/en/overzetboot-visserskaai-oosteroever
+
