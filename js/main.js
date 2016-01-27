@@ -130,6 +130,23 @@
         $content.find("a[href^='http']").attr('target', '_blank');
 
         /*
+         * Apply template-styled links to matching uri
+         * =======================================================================
+         */
+        $(".template.link-style > a").each(function () {
+            var $lnk = $(this), tgt;
+
+            if ($lnk.length === 1) {
+                tgt = $lnk.attr('href');
+                $content.find("a[href='" + tgt + "']").each(function () {
+                    var $a = $(this);
+                    $lnk.clone().insertBefore($a);
+                    $a.remove();
+                });
+            }
+        });
+
+        /*
          * give unstyled content-images a basic style
          * =======================================================================
          */
