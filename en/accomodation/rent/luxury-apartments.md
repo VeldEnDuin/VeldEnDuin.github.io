@@ -2,7 +2,7 @@
 layout: page
 title: Luxury Apartment
 preview: 
-    title: Luxury Apartments
+    title: Luxury Apartment
     button:
         price: 175
         for: 2 nights
