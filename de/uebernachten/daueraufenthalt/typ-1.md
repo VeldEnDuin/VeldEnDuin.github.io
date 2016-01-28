@@ -9,7 +9,7 @@ preview:
     list:
         - "Durchschnittl. Fläche: 80 m²"
         - "ruhige Lage"
-        - "8 Monate zugänglich"
+        - "Winter: Wasserzufuhr abgestellt"
                
 images:
     - /img/overnachten/residentieel-type1/restyp1-01.jpg

@@ -9,7 +9,7 @@ preview:
     list:
         - "surface moyenne : 100 m²"
         - "emplacements à rénover"
-        - "accessible durant 8 mois"
+        - "hiver: arrivée d'eau coupée"
         
         
 images:

@@ -9,7 +9,7 @@ preview:
     list:
         - "Durchschnittl. Fläche: 100 m²"
         - noch zu renovierende Plätze
-        - "8 Monate zugänglich"
+        - "Winter: Wasserzufuhr abgestellt"
         
         
 images:

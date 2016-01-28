@@ -9,7 +9,7 @@ preview:
     list:
         - "average surface: 100 m²"
         - "pitches to be renewed"
-        - "accessible for 8 months"
+        - "winter: water supply shut off"
         
         
 images:
