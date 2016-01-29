@@ -1,8 +1,12 @@
 <div class="vd-select-list {{page.class.select.list}}" id="vd-select-list">
 {% for select in page.select %}
+    {% for pg in site.pages %}
+        {% if pg.url == site.data.linkcode[select][pgLang] %}
 
-    {% assign linkPage = linkPages[select] %}
-    {% include linkPageStyleLanding.html %}
+            {% assign linkPage = pg %}
+            {% include linkPageStyleLanding.html %}
 
+        {% endif %}
+    {% endfor %}
 {% endfor %}
 </div>

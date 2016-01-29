@@ -7,4 +7,6 @@ class:
 remove:
     - socialshare
 ---
+{% include layout-prelude.html %}
+
 {% include newsarchive.html %}

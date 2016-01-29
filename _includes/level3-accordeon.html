@@ -12,14 +12,17 @@
     {% assign figcount = 0 %}
     {% for link in lvl2.submenu %}
         {% assign select = link.linkcode %}
-        {% assign linkPage = linkPages[select] %}
-        {% unless linkPage.preview == false %}
-            {% assign figcount = figcount |plus: 1 %}
+        {% for pg in site.pages %}
+            {% if pg.url == site.data.linkcode[select][pgLang] %}
+                {% unless pg.preview == false %}
+                    {% assign figcount = figcount |plus: 1 %}
       <figure>
         <div class="slide" style="background-image: url('{{pg.images[0]}}')"></div>
         <input type="radio" name="acc-set" {% if figcount == 1 %}checked="checked"{% endif %}/>
-        <figcaption><a href="{{pg.url}}"><span>{{linkPage.title}}</span></a></figcaption>
-        {% endunless %}
+        <figcaption><a href="{{pg.url}}"><span>{{pg.title}}</span></a></figcaption>
+                {% endunless %}
+            {% endif %}
+        {% endfor %}
     {% endfor %}
 
     {% for i in (1..figcount) %}
