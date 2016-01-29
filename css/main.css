@@ -10,7 +10,9 @@
 
 
 
-a {
+a,
+a div,
+a span {
     text-decoration: underline;
 }
 
@@ -1400,7 +1402,7 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
 .nav a,
 .nav-pills a,
 a div,
-a span,
+a div.vd-news-teaser,
 a.notd,
 .notd,
 span.fa,
