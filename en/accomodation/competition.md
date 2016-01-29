@@ -8,7 +8,7 @@ preview:
          Take part in the competition on the occasion of our new site and win a nice prize!
         
 images:
-      - /img/overnachten/wedstrijd.jpg
+      - /img/overnachten/wedstrijd-vergrootglas-en.jpg
       
 ---
 

@@ -8,7 +8,7 @@ preview:
         - Participez au concours organisé dans le cadre de la mise en ligne de notre nouveau site Internet et tentez de remporter de magnifiques cadeaux!
         
 images:
-      - /img/overnachten/wedstrijd.jpg
+      - /img/overnachten/wedstrijd-vergrootglas-fr.jpg
       
 ---
 
