@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-{% include layout-prelude.html %}
-
 <div>
   <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
     <div class="vd-layout-page">
@@ -21,20 +19,17 @@ layout: default
         <li class="{%if linklangurl == page.url %}active{% endif %}">
           <a href="{{linklangurl}}" >
 
-        {% for pg in site.pages %}
-            {% if pg.url == linklangurl %}
-                {% assign title = pg.title %}
-                {% if pg.preview.title %}
-                    {% assign title = pg.preview.title %}
-                {% endif %}
-                {% if pg.icon %}
+        {% assign linkPage = linkPages[m3.linkcode] %}
+        {% assign title = linkPage.title %}
+        {% if linkPage.preview.title %}
+            {% assign title = linkPage.preview.title %}
+        {% endif %}
+        {% if linkPage.icon %}
             <span class="glyphicon glyphicon-{{pg.icon}}"></span>&nbsp;
-                {% else %}
-                    {%if pg.picto %}<img class="img-icon" src="{{pg.picto}}">{% endif %}
-                {% endif%}
-                {{ title }}
-            {% endif %}
-        {% endfor %}
+        {% else %}
+            {%if linkPage.picto %}<img class="img-icon" src="{{pg.picto}}">{% endif %}
+        {% endif%}
+        {{ title }}
           </a>
         </li>
     {%endfor %}

@@ -1,0 +1,37 @@
+<!-- menuinfo data -->
+{% for m1 in site.data.menu %}
+    {% if pgLink == site.data.linkcode[m1.linkcode][pgLang] %}{% assign lvl1 = m1 %}{% endif %}
+    {% for m2 in m1.submenu %}
+        {% if pgLink == site.data.linkcode[m2.linkcode][pgLang] %}{% assign lvl1 = m1 %}{% assign lvl2 = m2 %}{% endif %}
+        {% for m3 in m2.submenu %}
+            {% if pgLink == site.data.linkcode[m3.linkcode][pgLang] %}{% assign lvl1 = m1 %}{% assign lvl2 = m2 %}{% assign lvl3 = m3 %}{% endif %}
+{% endfor %}{% endfor %}{% endfor %}
+
+<!-- metadata on dependencies -->
+{% assign linkPages = {} %}{% for pg in site.pages %}
+    {% if lvl1 and lvl1.submenu %}{% for m2 in lvl1.submenu %}
+        {% if pg.url == site.data.linkcode[m2.linkcode][pgLang] %}
+            {% assign linkPages[m2.linkcode] = pg %}
+            {% unless m2.menutekst[pgLang] %}{% assign m2.menutekst[pgLang] = pg.title %}{% endunless %}
+    {% endif %}{% endfor %}{% endif %}
+    {% if lvl2 and lvl2.submenu %}{% for m3 in lvl2.submenu %}
+        {% if pg.url == site.data.linkcode[m3.linkcode][pgLang] %}
+            {% assign linkPages[m3.linkcode] = pg %}
+            {% unless m3.menutekst[pgLang] %}{% assign m3.menutekst[pgLang] = pg.title %}{% endunless %}
+    {% endif %}{% endfor %}{% endif %}
+    {% if page.select %}{% for select in page.select %}
+        {% if pg.url == site.data.linkcode[m3.linkcode][pgLang] %}
+            {% assign linkPages[select] = pg %}
+    {% endif %}
+    {% endfor %}{% endif %}
+{% endfor %}
+
+<!-- default settings for site -->
+{% assign ogTitle  = site.name %}{% assign ogType   = 'website' %}{% assign ogImgUrl = site.imgurl %}{% assign ogUrl    = '' %}{% assign ogDescr  = site.description %}
+
+<!-- specific settings for page -->
+{%if page.title            %}{%assign ogTitle  = page.title       %}{%endif%}
+{%if page.ogType           %}{%assign ogType   = page.ogType      %}{%endif%}
+{%if page.images |size > 0 %}{%assign ogImgUrl = page.images[0]   %}{%endif%}
+{%if page.url              %}{%assign ogUrl    = page.url         %}{%endif%}
+{%if page.description      %}{%assign ogDescr  = page.description %}{%endif%}

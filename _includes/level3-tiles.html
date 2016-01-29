@@ -9,21 +9,11 @@
     {% endif %}
     >
     {% assign testsize = lvl2.submenu.size |minus: 1%}
-    {% if page.tcs contains testsize  %}
-        {% assign itemcls = 'col-lg-4 col-md-4 col-sm-6 col-xs-12' %}
-    {% else %}
-        {% assign itemcls = 'col-lg-3 col-md-3 col-sm-6 col-xs-12' %}
-    {% endif %}
+    {% if page.tcs contains testsize  %}{% assign itemcls = 'col-lg-4 col-md-4 col-sm-6 col-xs-12' %}
+    {% else %}{% assign itemcls = 'col-lg-3 col-md-3 col-sm-6 col-xs-12' %}{% endif %}
     {% for link in lvl2.submenu %}
-        {% assign select = link.linkcode %}
-        {% for pg in site.pages %}
-            {% if pg.url == site.data.linkcode[select][pgLang] %}
-                {% unless pg.preview == false %}
-                    {% assign linkPage = pg %}
-                    {% include linkPageStyleSubMenu.html %}
-                {% endunless %}
-            {% endif %}
-        {% endfor %}
+        {% assign select = link.linkcode %}{% assign linkPage = linkPages[select] %}
+        {% unless linkPage.preview == false %}{% include linkPageStyleSubMenu.html %}{% endunless %}
     {% endfor %}
     </div>
   </div>
