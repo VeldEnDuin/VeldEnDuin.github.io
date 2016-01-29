@@ -10,6 +10,9 @@ preview:
 images:
       - /img/overnachten/wedstrijd-vergrootglas-de.jpg
       
+insert:
+    - page-images-top
+      
 ---
 
 {% include links.md %}

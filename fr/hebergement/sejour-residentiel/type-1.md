@@ -52,6 +52,5 @@ compteur              | € 18
 
 ##Plan du camping
 
-[invoegen plan][plan.fr]
-aanduiden met kleur op plan welke percelen - Joke?
+
 

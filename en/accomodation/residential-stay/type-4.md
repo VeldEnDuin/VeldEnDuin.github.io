@@ -57,4 +57,3 @@ counter               | € 18 / counter
 
 ## Plan campsite
 
-![Plan van de camping][plan.en]
