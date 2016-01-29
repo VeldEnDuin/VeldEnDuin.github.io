@@ -65,4 +65,4 @@ ANZAHL PERSONEN | PREIS / NACHT
 
 ## Plan Campingplatz
 
-[invoegen plan][plan.de]
+
