@@ -5,6 +5,11 @@ nl:
     id:
         cx: 012964731216503545400:onwjrjqskq8
         resa-form: 1Etxdk95a-hbqT4j0fXxXRn4U2lWTi6GWDExfWIgj4dg
+    lost:
+        nl: Verdwaald? We komen je graag redden!
+        fr: Perdu(e)? Nous venons à votre secours!
+        de: Verirrt? Wir retten Sie gern!
+        en: Lost? We’ll gladly come to your rescue!
     dict:
         all: alle
         latestnews: Laatste Nieuws

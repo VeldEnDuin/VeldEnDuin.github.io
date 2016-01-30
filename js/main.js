@@ -188,13 +188,15 @@
          * =======================================================================
          */
         (function () {
-            var lang = "nl", paths = window.location.pathname.split('/');
+            var lang = "nl", paths = window.location.pathname.split('/'), text = document.title;
             if (document.title.indexOf("404") === 0) {
                 if (paths.length > 2 && paths[1].length === 2) {
                     lang = paths[1];
                 }
                 $("a.navbar-brand").attr("href", "/" + lang + "/");
-                $content.append("todo specific content for lang = " + lang);
+                text = "404 - " + TRANSL.lost[lang];
+                $("h1").html(text);
+                document.title = text;
             }
         }());
     });
