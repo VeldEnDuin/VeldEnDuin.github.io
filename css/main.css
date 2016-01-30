@@ -1368,10 +1368,11 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
 .navbar a,
 .nav a,
 .nav-pills a,
-a div,
 a div.vd-news-teaser,
 a.notd,
 .notd,
+a.notd div,
+a.notd span,
 span.fa,
 span.glyphicon {
     text-decoration: none !important;
