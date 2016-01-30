@@ -30,4 +30,3 @@ TODO
 - GOING LIVE 
   - enable ga in _includes/ga.html
   - search versus oude site --> index-request at google!
-  - dns settings

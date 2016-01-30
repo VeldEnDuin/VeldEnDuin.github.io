@@ -109,4 +109,4 @@ parking tweede auto | € 4 / begonnen dag
 
 ##Plan camping
 
-![Plan van de camping][plan.nl]
+![Plan van de camping][plan_verhuur.nl]

@@ -106,5 +106,4 @@ Parkplatz extra Auto  | € 4 / angefangenem Tag
 
 ## Plan Campingplatz
 
-[invoegen plan][plan.de]
-aanduiden met kleur op plan welke percelen - Joke?
+![Plan Campingplatz][plan_verhuur.de]
