@@ -56,3 +56,4 @@ tellervergoeding      | € 18 / teller
 
 ##Plan camping
 
+![Plan van de camping][plan.nl]

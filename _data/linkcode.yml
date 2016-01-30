@@ -24,6 +24,11 @@ pics:
     fr:  /fr/archive-photographique.html
     en:  /en/photo-archive.html
     de:  /de/fotoarchiv.html
+plan:
+    nl:  /img/plan-camping.jpg
+    de:  /img/plan-camping.jpg
+    fr:  /img/plan-camping.jpg
+    en:  /img/plan-camping.jpg
 plan_verhuur:
     nl:  /img/plan-verhuur-nl.jpg
     de:  /img/plan-verhuur-de.jpg

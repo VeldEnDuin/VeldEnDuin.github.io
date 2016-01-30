@@ -57,3 +57,4 @@ Zähler                | € 18 / Zähler
 
 ## Plan Campingplatz
 
+![Plan Campingplatz][plan.de]

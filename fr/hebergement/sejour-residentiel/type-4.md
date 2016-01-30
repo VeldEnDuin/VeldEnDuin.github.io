@@ -57,4 +57,4 @@ compteur              | € 18 / compteur
 
 ##Plan du camping
 
-
+![Plan du camping][plan.fr]
