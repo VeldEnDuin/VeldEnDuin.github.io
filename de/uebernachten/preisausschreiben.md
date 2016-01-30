@@ -8,7 +8,10 @@ preview:
         - Nehmen Sie an dem Preisausschreiben anlässlich unserer neuen Webseite teil und nutzen Sie Ihre Chance, schöne Preise zu gewinnen!
         
 images:
-      - /img/overnachten/wedstrijd.jpg
+      - /img/overnachten/wedstrijd-vergrootglas-de.jpg
+      
+insert:
+    - page-images-top
       
 ---
 

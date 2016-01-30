@@ -8,7 +8,11 @@ preview:
         - Neem deel aan de wedstrijd ter gelegenheid van onze nieuwe site en maak kans op mooie prijzen!
         
 images:
-      - /img/overnachten/wedstrijd.jpg
+      - /img/overnachten/wedstrijd-vergrootglas-nl.jpg
+      
+insert:
+    - page-images-top
+
       
 ---
 

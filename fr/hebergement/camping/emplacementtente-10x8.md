@@ -64,5 +64,3 @@ NOMBRE DE PERSONNES | PRIX / NUIT
 {% include fr/camping-reuse.md %}
 
 ##Plan camping
-
-[invoegen plan][plan.fr]

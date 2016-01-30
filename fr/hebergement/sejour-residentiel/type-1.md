@@ -9,7 +9,7 @@ preview:
     list:
         - "surface moyenne : 80 m²"
         - "emplacement au calme"
-        - "accessible durant 8 mois"
+        - "hiver: arrivée d'eau coupée"
                
 images:
     - /img/overnachten/residentieel-type1/restyp1-01.jpg
@@ -52,6 +52,5 @@ compteur              | € 18
 
 ##Plan du camping
 
-[invoegen plan][plan.fr]
-aanduiden met kleur op plan welke percelen - Joke?
+
 

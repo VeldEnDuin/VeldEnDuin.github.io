@@ -56,6 +56,4 @@ Zähler                | € 18 / Zähler
 
 ## Plan Campingplatz
 
-[invoegen plan][plan.de]
-aanduiden met kleur op plan welke percelen - Joke?
 

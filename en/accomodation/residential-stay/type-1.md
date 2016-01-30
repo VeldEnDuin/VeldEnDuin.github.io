@@ -9,7 +9,7 @@ preview:
     list:
         - "average surface: 80 m²"
         - "quiet and peaceful location"
-        - "accessible for 8 months"
+        - "winter: water supply shut off"
                
 images:
     - /img/overnachten/residentieel-type1/restyp1-01.jpg
@@ -52,4 +52,4 @@ counter               | € 18
 
 ##Plan campsite
 
-![Plan van de camping][plan.en]
+

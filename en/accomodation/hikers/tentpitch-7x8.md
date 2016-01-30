@@ -65,4 +65,3 @@ NUMBER OF PERSONS | PRICE / NIGHT
 
 ##Plan campsite
 
-![Plan van de camping][plan.en]

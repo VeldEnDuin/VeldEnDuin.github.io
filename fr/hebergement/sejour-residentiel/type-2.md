@@ -9,7 +9,7 @@ preview:
     list:
         - "surface moyenne : 100 m²"
         - "emplacements à rénover"
-        - "accessible durant 8 mois"
+        - "hiver: arrivée d'eau coupée"
         
         
 images:
@@ -56,6 +56,5 @@ compteur              | € 18
 
 ##Plan du camping
 
-[invoegen plan][plan.fr]
-aanduiden met kleur op plan welke percelen - Joke?
+
 

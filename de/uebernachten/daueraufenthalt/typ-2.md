@@ -9,7 +9,7 @@ preview:
     list:
         - "Durchschnittl. Fläche: 100 m²"
         - noch zu renovierende Plätze
-        - "8 Monate zugänglich"
+        - "Winter: Wasserzufuhr abgestellt"
         
         
 images:
@@ -55,6 +55,4 @@ Zähler                | € 18
 
 ## Plan Campingplatz
 
-[invoegen plan][plan.de]
-aanduiden met kleur op plan welke percelen - Joke?
 

@@ -17,7 +17,7 @@ nl:
         prev: vorige
         next: volgende
         overview: overzicht
-        share: Deel dit bericht nu
+        share: Deel dit bericht
         close: sluiten
         search: Zoek
         callout: Wenst u graag een verblijf vast te leggen of hebt u nog een vraag voor ons? Vul dan nu meteen de reservatie aanvraag in.
@@ -49,7 +49,7 @@ fr:
         all: tout
         latestnews: Actualité récente
         newsarchive: Archives
-        picsarchive: Archive Photographique
+        picsarchive: Archives Photo
         mapxl: Agrandir le plan
         virttour:
             - Balade
@@ -57,11 +57,11 @@ fr:
         prev: précédent
         next: suivant
         overview: aperçu
-        share: Partager cette info
+        share: Partager ce message
         close: fermer
         search: Chercher
         callout: Si vous souhaitez réserver un séjour ou obtenir un complètement d❜information, veuillez complétez le formulaire de réservation.
-        resa_action: Reservatie Aanvraag
+        resa_action: Demande de réservation
         resa_formwait: Formulaire de réservation en cours de chargement ... (veuillez patienter)
         mailchimp: Abonnez-vous à notre bulletin d’information
         sociallinks: Veld & Duin sur les réseaux sociaux
@@ -70,8 +70,8 @@ fr:
         starting: à partir de
         practical_info: Informations pratiques
         other_rental_types: Autres types de logement
-        mostwanted: Le plus recherché
-        imgloading: Chargement des images en cours...
+        mostwanted: Recherches les plus fréquentes
+        imgloading: images en cours de chargement...
 
     gcse:
         use: Veuillez introduire un mot clé!
@@ -97,7 +97,7 @@ de:
         prev: Zurück
         next: Weiter
         overview: Übersicht
-        share: Diese Mitteilung jetzt teilen
+        share: Diesen Beitrag teilen
         close: Schließen
         search: Suchen
         callout: Möchten Sie jetzt gern einen Aufenthalt buchen oder haben Sie noch eine Frage an uns? Füllen Sie dann gleich die Reservierungsanfrage aus.
@@ -110,7 +110,7 @@ de:
         starting: ab
         practical_info: Praktische Informationen
         other_rental_types: Andere Arten von Unterkünften
-        mostwanted: Meistgesucht
+        mostwanted: Meist gesucht
         imgloading: Bilder werden geladen...
 
     gcse:
@@ -128,7 +128,7 @@ en:
     dict:
         all: all
         latestnews: Latest News
-        newsarchive: Archives
+        newsarchive: Archive
         picsarchive: "Photo Archive"
         mapxl: Bigger map
         virttour:
@@ -137,12 +137,12 @@ en:
         prev: previous
         next: next
         overview: overview
-        share: Share this message now
+        share: Share this message
         close: close
         search: search
         callout: Would you like to make a reservation or do you have a question?  Please fill in the form.
-        resa_action: Reservation request
-        resa_formwait: Loading... (one moment please)
+        resa_action: Booking request
+        resa_formwait: Loading pictures...
         mailchimp: Add me to your mailing list
         sociallinks: Social media
         readmore: Read more
@@ -150,7 +150,7 @@ en:
         starting: from
         practical_info: Practical information
         other_rental_types: More rental possibilities
-        mostwanted: Most visited
+        mostwanted: Most searched
         imgloading: Images are being loaded...
 
     gcse:
