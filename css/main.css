@@ -1154,7 +1154,7 @@ button.vd-callout-btn:hover {
     background-repeat: no-repeat;
 }
 
-a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:visited {
+a.vd-barelink, a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:visited {
     text-decoration: none;
 }
 
@@ -1375,10 +1375,14 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
 .nav a,
 .nav-pills a,
 a div.vd-news-teaser,
-a.notd,
 .notd,
+a.notd,
 a.notd div,
 a.notd span,
+.vd-barelink,
+a.vd-barelink,
+a.vd-barelink div,
+a.vd-barelink span,
 span.fa,
 span.glyphicon {
     text-decoration: none !important;
