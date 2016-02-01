@@ -1,6 +1,11 @@
 TODO
 ====
 
+- 404 pagina voorzien met extra links zoals op de "search" page --> probleem is wel taal-afhankelijkheid! 
+  (de vertalingen van de labels doe ik nu met een truuk / niet evident om dat open te trekken naar dit) 
+
+
+
 - default style ==> responsiveness
   1. menu smaller font or faster collapse variant
   2. padding when banner is gone --> sowieso marge wat ruimer nemen!
