@@ -5,9 +5,9 @@
 {% endfor %}
 
 <li id="lang-menu">
-    <a href=""
-        data-toggle="dropdown" role="button" aria-expanded="false" class="dropdown-toggle"
-       ><span>{{ pgLang }}</span>
+    <a href="#"
+        data-toggle="dropdown" role="button" aria-expanded="false" class="dropdown-toggle notd"
+       ><span>{{ pgLang }}</span> <span class="caret"></span>
     </a>
     <ul class="dropdown-menu dropdown-menu-narrow" role="menu">
 {% for lang in site.data.langs %}
