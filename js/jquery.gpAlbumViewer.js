@@ -1,6 +1,3 @@
-/*global
-    console
-*/
 /*
 This is free and unencumbered software released into the public domain.
 
@@ -594,10 +591,10 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
             this.time = time;
             this.playhandle = null;
             this.index = -1;
-            this.$prev = $(PlayControl.BTN).html(PlayControl.BACKGLYPH).click(function () {me.prev(); });
+            this.$prev = $(PlayControl.BTN).html(PlayControl.BACKGLYPH).click(function () {me.stop(); me.prev(); });
             this.$play = $(PlayControl.BTN).html(PlayControl.PWSEGLYPH).click(function () {me.playtoggle(); });
-            this.$next = $(PlayControl.BTN).html(PlayControl.FRWDGLYPH).click(function () {me.next(); });
-            this.$up   = $(PlayControl.BTN).html(PlayControl.PICTGLYPH).click(function () {me.up(); });
+            this.$next = $(PlayControl.BTN).html(PlayControl.FRWDGLYPH).click(function () {me.stop(); me.next(); });
+            this.$up   = $(PlayControl.BTN).html(PlayControl.PICTGLYPH).click(function () {me.stop(); me.up(); });
             if (labels.dict.picsarchive) {
                 this.$up.append(' ' + labels.dict.picsarchive);
             }
@@ -646,7 +643,7 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
         };
         PlayControl.prototype.prev = function () { this.fn.prev(); };
         PlayControl.prototype.next = function () { this.fn.next(); };
-        PlayControl.prototype.up   = function () { this.stop(); this.fn.up();   };
+        PlayControl.prototype.up   = function () { this.fn.up();   };
 
         function div(cfg) {
             cfg = cfg || {};
@@ -896,6 +893,7 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
                 //$old.animate({"margin-left": "-100%"}, Math.floor(this.interval / 5) + 1, function () {
                     me.updateViewState(me.albid, picid);
                     $old.remove();
+                    me.$view.siblings().remove(); //be sure to remove all lingering old stuff
                     //me.$lbl.html(imglbl);
                 });
             }
