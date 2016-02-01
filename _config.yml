@@ -44,6 +44,7 @@ fb-app-id: "357843984399164"
 gp-id: "111743051856683336205"
 gcse:
     apikey: "AIzaSyCMGfdDaSfjqv5zYoS0mTJnOT3e9MURWkU"
+    striplink: (www\\.)?veldenduin\\.be/?
 
 strip-album: "www-footer-imgstrip"
 play-album: "www-foto-album"
