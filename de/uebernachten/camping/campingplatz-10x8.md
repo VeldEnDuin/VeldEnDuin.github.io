@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Kurzzeitplatz 10x8
+title: Campingplatz 10x8
 preview: 
-    title: Kurzzeitplatz 10x8
+    title: Campingplatz 10x8
     button:
         price: 20
         for: pro Nacht

@@ -1,5 +1,5 @@
 ---
-title: Hikers
+title: Kamperen
 layout: default
 
 class:

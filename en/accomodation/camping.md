@@ -1,5 +1,5 @@
 ---
-title: Trekkers
+title: Camping
 layout: default
 
 class:

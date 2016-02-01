@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Residentiële trekkers
+title: Jahresplatz
 preview: 
-    title: Residentiële trekkers
+    title: Jahresplatz
     button:
         price: 1580
-        for: per jaar
+        for: pro Jahr
     list:
-        - "80 m² plaatsen"
-        - "beton- of grindplaatsen"
-        - "het hele jaar door genieten"
-        - "sanitairvoorzieningen dichtbij"
+        - "Plätze 80 m²"
+        - "Beton- oder Kiesplätze"
+        - "Ganzjährig genießen"
+        - "Sanitäranlagen in der Nähe"
         
 images:
     - /img/overnachten/trekkers-res/restr-01.jpg
@@ -42,30 +42,30 @@ insert:
 
 {% include links.md %}
 
-#RESIDENTIËLE TREKKERS
-Uw trekcaravan met alle basisvoorzieningen blijft het hele jaar staan. Zo kunt u optimaal genieten van alle vrije momenten. Enkel nog wat extra spullen inladen en  u bent meteen in vakantiestemming. 
+# JAHRESPLATZ
+Ihr Wohnwagen mit allen Grundannehmlichkeiten bleibt das ganze Jahr über stehen. So können Sie Ihre Freizeit optimal genießen. Nur noch ein paar Sachen einladen – schon sind Sie in Urlaubsstimmung 
 
-##Goed om weten
-- max 6 personen / plaats
-- honden toegelaten: max 2 - geen gevaarlijke rassen
+## Gut zu wissen
+- Höchstens 6 Personen/Platz
+- Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 
-##Prijzen
-PERIODE               | STANDPLAATSVERGOEDING  | GEMEENTETAKS       
+## Preise
+ZEITRAUM              | STELLPLATZKOSTEN       | GEMEINDESTEUER      
 :--------------------:|:----------------------:|--------------|
-6 maanden             |€ 1580                  |€ 129,85            
-1 jaar<br>(1/1-31/12) |€ 1685                  |€ 340,79                 
+6 Monate              |€ 1580                  |€ 129,85            
+1 Jahr<br>(1.1.-31.12.) |€ 1685                  |€ 340,79                 
  
-##Inbegrepen
-- parking 1 auto
+## Inbegriffen
+- Parkplatz für 1 Auto
 
 ##Extra's
-EXTRA             | PRIJS 
+EXTRA             | PREIS 
 :------------------|:-----------|
-elektriciteit      |volgens verbruik 
-forfait water      |€ 68
-tellervergoeding   |€ 18
-huisvuilbijdrage   |€ 65 (incl 20 zakken restafval + 5 PMD)
-slagboomkaart      |€ 100 (waarborg € 75)
-voortent winter    |€ 100
-[brandverzekering][pdf_brandverzekering.nl]|verplicht - aansluiting groepsverzekering mogelijk
+Strom              |nach Verbrauch
+Pauschal Wasser    |€ 68
+Zähler             |€ 18
+Hausmüllgebühr     |€ 65 (inkl. 25 Müllsäcke)
+Karte für Schranke |€ 100 (Kaution € 75)
+Wintervorzelt      |€ 100
+[Brandversicherung][pdf_brandverzekering.de]|verpflichtet - Möglichkeit eines Abschlusses über unsere Gruppenversicherung
 

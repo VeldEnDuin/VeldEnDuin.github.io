@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Trekkersplaats 10x8
+title: Kampeerplaats 10x8
 preview: 
-    title: Trekkersplaats 10x8
+    title: Kampeerplaats 10x8
     button:
         price: 20
         for: per nacht
@@ -40,7 +40,7 @@ insert:
 ---
 {% include links.md %}
 
-# TREKKERSPLAATS 10x8
+# KAMPEERPLAATS 10x8
 Combineer de vrijheid van het reizen met een trekcaravan of mobilhome met het comfort van onze camping.
 
 ##Goed om weten

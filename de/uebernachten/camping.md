@@ -1,5 +1,5 @@
 ---
-title: Kurzzeitcamper
+title: Camping
 layout: default
 
 class:

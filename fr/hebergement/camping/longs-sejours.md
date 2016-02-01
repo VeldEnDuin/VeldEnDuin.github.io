@@ -42,10 +42,10 @@ insert:
 
 {% include links.md %}
 
-#SÉJOUR RÉSIDENTIEL
+# SÉJOUR RÉSIDENTIEL
 Votre caravane équipée de tout le confort reste sur son emplacement toute l’année. Vous pouvez ainsi y séjourner dès que vous le souhaitez. Emportez quelques affaires et vous voilà déjà en vacances. 
 
-##Bon à savoir
+## Bon à savoir
 - max. 6 personnes / emplacement
 - chiens admis : max. 2 – pas de chiens dangereux
 
@@ -55,10 +55,10 @@ PÉRIODE               | INDEMNITÉ DE RÉSIDENCE | TAXE COMMUNALE
 6 maanden             |€ 1580                  |€ 129,85             
 1 jaar<br>(1/1-31/12) |€ 1685                  |€ 340,79                 
  
-##Inclus
+## Inclus
 - parking 1 voiture
 
-##Suppléments
+## Suppléments
 SUPPLÉMENT         | PRIX 
 :------------------|:-----------|
 électricité        |selon la consommation
