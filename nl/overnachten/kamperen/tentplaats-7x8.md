@@ -63,6 +63,6 @@ AANTAL PERSONEN | PRIJS / NACHT
 
 {% include nl/trekker-reuse.md %}
 
-##Plan camping
+## Plan camping
 
 ![Plan van de camping][plan_trekkers.nl]

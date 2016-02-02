@@ -64,5 +64,6 @@ NUMBER OF PERSONS | PRICE / NIGHT
 {% include en/hiker-reuse.md %}
 
 
-##Plan campsite
+## Plan campsite
 
+![Plan campsite][plan_trekkers.en]

@@ -65,3 +65,4 @@ NUMBER OF PERSONS | PRICE / NIGHT
 
 ##Plan campsite
 
+![Plan campsite][plan_trekkers.en]

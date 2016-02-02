@@ -64,3 +64,4 @@ ANZAHL PERSONEN | PREIS / NACHT
 
 ## Plan Campingplatz
 
+![Plan Campingplatz][plan_trekkers.de]
