@@ -79,4 +79,4 @@ parking 2ème voiture  |€ 4 / jour entamé
 [internet][internet.fr]   |prix en fonction de la durée de connexion
 
 ##Plan du camping
-
+![Plan du camping][plan_trekkers.fr]
