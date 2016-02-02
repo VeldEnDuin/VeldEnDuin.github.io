@@ -49,6 +49,7 @@ Do you want to stay for a month or even more? Have a look at the different packa
 - dogs allowed - max 2 – no dangerous breeds
 
 ## Prices
+
 PERIOD        | PRICE       
 :-------------:|:-----------:|
 April          |€ 320               
@@ -63,6 +64,7 @@ April-May-June |€ 695
 September-October-November|€ 695
 
 ## Included
+
 - municipal and residence taxes
 - parking place for 1 car
 

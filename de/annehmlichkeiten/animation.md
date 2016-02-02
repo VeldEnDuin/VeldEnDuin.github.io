@@ -47,4 +47,5 @@ Jedes Jahr schließen wir mit einem gemütlichen Glühweinabend ab. Bei warmen G
 
 
 ## Animation Bredene und Umgebung
+
 An der Küste gibt es immer etwas zu erleben. Über den Informationsbildschirm am Eingang, die Infomappen in den Mieteinheiten oder auf unserer [Aktivitätenseite][doen.de] halten wir Sie gern über die Aktivitäten in der Umgebung auf dem Laufenden. 

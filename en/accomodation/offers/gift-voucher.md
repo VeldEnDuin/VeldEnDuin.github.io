@@ -28,17 +28,8 @@ Looking for an original present? Why not offer a gift voucher for our campsite?
 
     
 ## Worth knowing
+
 - valid for all types of rental and backpackers’ pitches
 - valid throughout the year and according to availibility
 - valid indefinitely
 - choose the amount you want to give (minimum € 20)
-
-
-
-
-
-
-
-
-
-

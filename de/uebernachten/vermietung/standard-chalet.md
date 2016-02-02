@@ -48,6 +48,7 @@ insert:
 Möchten Sie gern preisbewusst Urlaub machen, aber ist zelten nichts für Sie? Dann sind vielleicht diese einfachen Chalets das, was Sie suchen.  
 
 ## Einrichtung Chalet
+
 - Wohnzimmer mit TV und Digibox
 - Eingerichtete Küche mit Mikrowelle
 - Toilette
@@ -57,6 +58,7 @@ Möchten Sie gern preisbewusst Urlaub machen, aber ist zelten nichts für Sie? D
 - Gartenmöbel
     
 ## Gut zu wissen
+
 - Chalet vorgesehen für 4 Personen
 - Im Chalet sind keine Dusche und kein Waschbecken vorgesehen. Sie können die Sanitäranlagen des Campingplatzes nutzen
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
@@ -82,15 +84,18 @@ NEBENSAISON      |    HOCHSAISON|
  April bis Juni, <br>September und Oktober, <br>Schulferien, <br>verlängerte Wochenenden  | Juli und August
 
 ## Kaution
+
 - € 50, bar zu bezahlen bei der Anreise
 - Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
 
 ## Inbegriffen
+
 - Parkplatz für 1 Auto
 - Verbrauch von Gas, Wasser und Strom 
 
 
 ## Extras
+
 EXTRA               | PREIS 
 :-------------------|:-----------|
 Dusche             | € 1 / Jeton

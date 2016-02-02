@@ -46,7 +46,8 @@ insert:
 
 Les appartements sont situés à deux pas du camping. Tout en profitant de l’espace d’un appartement, vous disposez également des équipements de notre camping.
 
-##Aménagement de l’appartement
+## Aménagement de l’appartement
+
 - grand salon avec écran plat et digibox
 - cuisine équipée avec four à micro-ondes
 - salle de bains avec douche, lavabo et toilettes
@@ -55,14 +56,15 @@ Les appartements sont situés à deux pas du camping. Tout en profitant de l’e
     - 1 chambre avec lits superposés 2x (90x200) + fauteuil convertible 1 personne
 - balcon à l’avant (vue sur les dunes) et à l’arrière (vue sur le terrain de jeux)
     
-##Bon à savoir
+## Bon à savoir
+
 - appartement d’une capacité de 4 à 5 personnes
 - animaux de compagnie non admis – ils sont admis dans les chalets ou caravanes
 - ascenseur
 - espace commun pour vélos
 - disponible à la réservation toute l’année
 
-##Prix
+## Prix
 
 PÉRIODE             |BASSE SAISON | MI-SAISON     | HAUTE SAISON|
 :------------------:|:-----------:|:-------------:|:-----------:|
@@ -75,22 +77,25 @@ nuitée supplémentaire > 7n |€ 45  |€ 55           | € 84
 14 nuitées             |€ 650     |€ 755          | € 1125
 
 
-##Périodes
+## Périodes
 
 BASSE SAISON          |MI-SAISON          |    HAUTE SAISON|
 :--------------------:|:-----------------:|:-------------:|
 novembre à mars<br>à l'exception des vacances scolaires <br>et weekends prolongés | avril à juin, <br>septembre et octobre, <br>vacances scolaires, <br>week-ends prolongés   | juillet et août
 
-##Caution
+## Caution
+
 - € 50 – à payer en liquide à l’arrivée
 - la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état
 
-##Inclus
+## Inclus
+
 - parking 1 voiture
 - consommation eau - électricité 
 - **exception**: consommation d'électricité est exclusive à partir de 4 nuits de 1/11 - 31/3
 
-##Suppléments
+## Suppléments
+
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
 nettoyage           | € 40 - le locataire est autorisé à faire le nettoyage lui-même
@@ -104,6 +109,6 @@ parking voiture supplémentaire  | € 4 / jour entamé
 [service Veld & Duin][veld_duin_service.fr]| € 60
 
 
-##Plan du camping
+## Plan du camping
 
 ![Plan du camping][plan_verhuur.fr]

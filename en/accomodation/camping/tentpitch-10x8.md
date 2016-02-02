@@ -43,13 +43,16 @@ insert:
 {% include links.md %}
 
 # TENT PITCH 10x8
+
 Go for the real camping experience with the whole family and stay in a tent. You will certainly find like-minded people on our backpackers’green area to share your experiences with.  
 
 ## Worth knowing
+
 - max 6 persons / pitch
 - dogs allowed - max 2 – no dangerous breeds
 
 ## Prices
+
 NUMBER OF PERSONS | PRICE / NIGHT     
 :-------------:|:-----------:|
 1 person      |€ 20               

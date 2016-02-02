@@ -13,11 +13,13 @@ Number of nights | Discounts
 
 
 ## Included
+
 - municipal and tourist taxes
 - parking place 1 car
 - electricity
 
 ## Extras
+
 EXTRA             | PRICE 
 :------------------|:-----------|
 cancellation insurance | 3,5 % of total amount - [Allianz][pdf_allianz.en] 

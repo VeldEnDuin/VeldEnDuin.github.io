@@ -21,7 +21,7 @@ remove:
 
 {% include links.md %}
 
-#Garage à vélos
+# Garage à vélos
 
 De retour d’une agréable balade, vous pourrez ranger votre vélo dans notre garage comptant un total de 116 emplacements réservés aux cyclistes.
 

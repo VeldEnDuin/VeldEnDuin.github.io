@@ -21,11 +21,13 @@ insert:
 
 {% include links.md %}
 
-# TYPE 1 - CARAVAN  
+# TYPE 1 - CARAVAN
+
 These pitches are smaller but give you an instant holiday feeling, regardless of the surface. 
 
 
 ## Worth knowing
+
 - electricity meter – fixed rate for water consumption
 - bottled gas
 - no winter proof water connection – sanitary building remains open
@@ -50,6 +52,6 @@ counter               | € 18
 
 
 
-##Plan campsite
+## Plan campsite
 
 ![Plan campsite][plan.en]

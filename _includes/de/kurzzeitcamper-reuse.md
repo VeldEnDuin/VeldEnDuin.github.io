@@ -13,11 +13,13 @@ Anzahl Nächte  | Rabatt
 
 
 ## Inbegriffen
+
 - Gemeinde- und Aufenthaltssteuern
 - Parkplatz für 1 Auto
 - Strom
 
 ## Extras
+
 EXTRA             | PREIS 
 :------------------|:-----------|
 Rücktrittsversicherung| 3,5 % der gesamten Reisesumme - [Allianz][pdf_allianz.de] 

@@ -49,6 +49,7 @@ insert:
 Sie wollen sich ein wenig allein oder zu zweit den Wind um die Nase wehen lassen? In dieses Chalet kehren Sie gern zurück, nachdem Sie den Tag über unsere Küste genossen haben.
 
 ## Einrichtung Chalet
+
 - Großes Wohnzimmer mit Flachbildschirm-TV und Digibox
 - Eingerichtete Küche mit Mikrowelle
 - Badezimmer mit Dusche, Waschbecken und Toilette
@@ -57,6 +58,7 @@ Sie wollen sich ein wenig allein oder zu zweit den Wind um die Nase wehen lassen
 - Gartenmöbel
     
 ## Gut zu wissen
+
 - Chalet vorgesehen für 2 Personen
 - 1 Hund zulässig – keine gefährliche Rassen
 - Nicht buchbar zwischen 15.11. und 15.3.
@@ -81,15 +83,18 @@ NEBENSAISON      |    HOCHSAISON|
  April bis Juni, <br>September und Oktober, <br>Schulferien, <br>verlängerte Wochenenden  | Juli und August
 
 ## Kaution
+
 - € 50, bar zu bezahlen bei der Anreise
 - Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
 
 ## Inbegriffen
+
 - Parkplatz für 1 Auto
 - Verbrauch von Gas, Wasser und Strom 
 
 
 ## Extras
+
 EXTRA               | PREIS 
 :-------------------|:-----------|
 Reinigung          | € 40 - selbst reinigen ist gestattet

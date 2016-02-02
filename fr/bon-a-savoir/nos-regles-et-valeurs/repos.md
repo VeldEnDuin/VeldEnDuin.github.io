@@ -18,7 +18,7 @@ remove:
 ---
 
 
-#Repos
+# Repos
 
 
 Un séjour à Veld & Duin est synonyme de repos loin de l’agitation quotidienne afin de recharger ses batteries.<br>

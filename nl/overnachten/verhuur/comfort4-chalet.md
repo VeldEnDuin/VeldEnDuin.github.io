@@ -46,7 +46,8 @@ insert:
 
 Deze chalets liggen vooraan op de camping en dicht bij het speelplein. Ideaal dus voor de kinderen om hun vriendjes steeds in de buurt te hebben.
 
-##Inrichting chalet
+## Inrichting chalet
+
 - ruime woonkamer met flatscreen en digibox
 - ingerichte keuken met microgolf
 - badkamer met douche, wastafel en toilet
@@ -55,12 +56,13 @@ Deze chalets liggen vooraan op de camping en dicht bij het speelplein. Ideaal du
     - 1 kamer met stapelbed 2x (90x200) 
 - tuinmeubilair
     
-##Goed om weten
+## Goed om weten
+
 - chalet voorzien voor 4 personen
 - honden toegelaten - max 2 - geen gevaarlijke rassen
 - het hele jaar door boekbaar
 
-##Prijzen
+## Prijzen
 
 PERIODE             | LAAGSEIZOEN | TUSSENSEIZOEN | HOOGSEIZOEN |
 :------------------:|:-----------:|:-------------:|:-----------:|
@@ -73,22 +75,25 @@ extra nacht > 7 n    |€ 41         |€ 49           | € 77
 14 nachten          |€ 590        |€ 685          | € 1025
 
 
-##Periodes
+## Periodes
 
 LAAGSEIZOEN           |TUSSENSEIZOEN      |    HOOGSEIZOEN|
 :--------------------:|:-----------------:|:-------------:|
 november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni, <br>september en oktober, <br>schoolvakanties, <br>verlengde weekends | juli en augustus
 
-##Waarborg
+## Waarborg
+
 - € 50 - contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
 
-##Inbegrepen
+## Inbegrepen
+
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
 - **uitzondering**: verbruik gas en elektriciteit is exclusief bij huur vanaf 4 nachten van 1/11 - 31/3
 
-##Extra's
+## Extra's
+
 EXTRA               | PRIJS 
 :-------------------|:-----------|
 schoonmaak          | € 40 - zelf schoonmaken kan
@@ -104,6 +109,6 @@ parking extra auto  | € 4 / begonnen dag
 [Veld & Duin service][veld_duin_service.nl]| € 60
 
 
-##Plan camping
+## Plan camping
 
 ![Plan van de camping][plan_verhuur.nl]

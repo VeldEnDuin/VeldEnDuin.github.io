@@ -13,6 +13,7 @@ icon: info-sign
 {% include fr/paiement-cxd-reuse.md %}
 
 ## Heures de départ et d’arrivée
+
 - arrivée: dès 14 h 
 - départ: avant 11 h
 

@@ -49,5 +49,6 @@ At the end of the year we are going to organize a cosy mulled wine evening. A go
 
 
 ## Entertainment Bredene and surroundings
+
 There is always something to see and do at the coast. We will gladly keep you informed with up to date information on the information panel at the entrance of the campsite, in the information files in the chalets and on our [do-page][doen.en]. 
 

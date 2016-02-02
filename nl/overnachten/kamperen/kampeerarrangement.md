@@ -42,13 +42,16 @@ insert:
 {% include links.md %}
 
 # Kampeerarrangement
+
 U hebt een maand of langer te spenderen? Bekijk dan de verschillende kampeerarrangementen, er zit vast een geschikte formule voor u bij.
 
-##Goed om weten
+## Goed om weten
+
 - max 6 personen / plaats
 - honden toegelaten: max 2 - geen gevaarlijke rassen
 
-##Prijzen
+## Prijzen
+
 PERIODE        | PRIJS       
 :-------------:|:-----------:|
 april          |€ 320               
@@ -62,11 +65,12 @@ november       |€ 290
 april-mei-juni |€ 695
 september-oktober-november|€ 695
 
-##Inbegrepen
+## Inbegrepen
+
 - gemeente- en verblijfstaksen
 - parking 1 auto
 
-##Niet inbegrepen
+## Niet inbegrepen
 
 EXTRA              | PRIJS 
 :------------------|:-----------|

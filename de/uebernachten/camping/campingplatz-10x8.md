@@ -41,9 +41,11 @@ insert:
 {% include links.md %}
 
 # KURZZEITPLATZ 10x8
+
 Kombinieren Sie die Freiheit des Reisens mit einem Wohnwagen oder Wohnmobil mit dem Komfort unseres Campingplatzes.
 
 ## Gut zu wissen
+
 - Höchstens 6 Personen/Platz
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 
@@ -64,4 +66,5 @@ ANZAHL PERSONEN | PREIS / NACHT
 
 
 ## Plan Campingplatz
+
 ![Plan Campingplatz][plan_trekkers.de]

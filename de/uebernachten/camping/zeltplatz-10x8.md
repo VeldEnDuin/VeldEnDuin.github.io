@@ -43,13 +43,16 @@ insert:
 {% include links.md %}
 
 # ZELTPLATZ 10x8
+
 Holen Sie sich das echte Campingerlebnis und machen Sie sich mit der ganzen Familie und dem Zelt auf den Weg. Auf unserer Campingwiese finden Sie sicher Gleichgesinnte, mit denen Sie Erfahrungen austauschen können.  
 
 ## Gut zu wissen
+
 - Höchstens 6 Personen/Platz
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 
 ## Preise
+
 ANZAHL PERSONEN | PREIS / NACHT     
 :-------------:|:-----------:|
 1 Person       |€ 20               

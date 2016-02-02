@@ -1,5 +1,6 @@
 
 ## Worth knowing
+
 - valid for all rental types
 - not applicable on extras
 - offer possible depending on availability

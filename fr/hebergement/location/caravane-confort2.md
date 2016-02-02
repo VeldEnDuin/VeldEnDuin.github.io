@@ -48,7 +48,8 @@ insert:
 
 Cette mini-caravane et son jardinet privé sont parfaitement adaptés amoureux du grand air mais qui désirent tout de même cuisiner de bons petits plats et prendre une douche revigorante.
 
-##Aménagement de la caravane
+## Aménagement de la caravane
+
 - coin salon avec télévision et digibox
 - cuisine avec cuisinière à deux plaques et petit four à micro-ondes
 - salle de bains avec douche et lavabo
@@ -58,12 +59,13 @@ Cette mini-caravane et son jardinet privé sont parfaitement adaptés amoureux d
     - 1 chambre équipée de deux lits séparés (80x200)
 - un jardinet privé avec mobilier de jardin
     
-##Bon à savoir
+## Bon à savoir
+
 - en raison de la surface réduite, la caravane est louée pour max. deux personnes, malgré les deux chambres
 - petit chien admis mais veuillez tenir compte de l’espace réduit
 - pas de réservation possible entre le 15/11 et le 15/03
 
-##Prix
+## Prix
 
 PÉRIODE                |MI-SAISON     | HAUTE SAISON |
 :---------------------:|:------------:|:------------:|
@@ -76,22 +78,25 @@ nuitée supplémentaire > 7n |€ 45          |€ 69          |
 14 nuitées             |€ 610         |€ 915         | 
 
 
-##Périodes
+## Périodes
 
 MI-SAISON      |    HAUTE SAISON|
 :--------------------:|:-----------------:|:-------------:|
  avril à juin, <br>septembre et octobre, <br>vacances scolaires, <br>week-ends prolongés  | juillet et août
 
-##Caution
+## Caution
+
 - € 50 – à payer en liquide à l’arrivée
 - la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état
 
-##Inclus
+## Inclus
+
 - parking 1 voiture
 - consommation gaz - eau - électricité 
 
 
-##Suppléments
+## Suppléments
+
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
 nettoyage           | € 40 - le locataire est autorisé à faire le nettoyage lui-même
@@ -107,6 +112,6 @@ parking voiture supplémentaire  | € 4 / jour entamé
 [service Veld & Duin][veld_duin_service.fr]| € 50
 
 
-##Plan du camping
+## Plan du camping
 
 ![Plan du camping][plan_verhuur.fr]

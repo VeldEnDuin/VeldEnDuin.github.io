@@ -50,6 +50,7 @@ Need a break, just for the two of you? Make yourself at home in this cosy chalet
 
 
 ## Facilities chalet
+
 - spacious living room with flat screen and set top box
 - fully equipped kitchen and microwave
 - bathroom with shower, washbasin and toilet
@@ -58,6 +59,7 @@ Need a break, just for the two of you? Make yourself at home in this cosy chalet
 - garden furniture
     
 ## Worth knowing
+
 - chalet for 2 people
 - 1 dog allowed – no dangerous breeds
 - not available between 15/11 and 15/3
@@ -82,15 +84,18 @@ MID SEASON      |    HIGH SEASON|
  April until June, <br>September & October, <br>holidays, <br>long weekends  | July & August
 
 ## Warranty
+
 - € 50 – to be paid in cash upon arrival
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
 
 ## Included
+
 - parking 1 car
 - consumption gas-water-electricity 
 
 
 ## Extra Services
+
 EXTRA SERVICE            | PRICE 
 :-------------------|:-----------|
 cleaning          | € 40 - final cleaning by tenants is allowed

@@ -23,11 +23,12 @@ insert:
 {% include links.md %}
 
 
-#Romantiek aan zee
+# Romantiek aan zee
 
 Ons romantiek-aan-zee-arrangement is de gedroomde kans om uw geliefde in de watten te leggen. Naast een heerlijk verblijf wacht u een verkwikkende saunabeurt met extraatjes.
 
-##Arrangement omvat
+## Arrangement omvat
+
 - 2 nachten in een verblijf naar keuze
 - gebruik [sauna][sauna.nl] + ontspanningsruimte (douche, relaxzetels, dompelton)
 - extraatjes - keuze uit:
@@ -35,11 +36,12 @@ Ons romantiek-aan-zee-arrangement is de gedroomde kans om uw geliefde in de watt
     - hartig: fles wijn + 3 tapas
 
 
-##Goed om weten
+## Goed om weten
+
 - geldig voor elk verhuurtype
 - het hele jaar door boekbaar met uitzondering van schoolvakanties en verlengde weekends
 
-##Prijzen
+## Prijzen
 
 VERHUURTYPE         | LAAGSEIZOEN | TUSSENSEIZOEN  |
 :------------------:|:-----------:|:-------------:
@@ -51,22 +53,25 @@ luxe appartement    |€ 215        |€ 235
         
 
 
-##Periodes
+## Periodes
 
 LAAGSEIZOEN           |TUSSENSEIZOEN      |   
 :--------------------:|:-----------------:|:-------------:|
 november tot maart<br> uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni,<br>september en oktober <br>uitgezonderd schoolvakanties <br>en verlengde weekends
 
-##Waarborg
+## Waarborg
+
 - € 50 - contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien goed schoongemaakt
 
-##Inbegrepen
+## Inbegrepen
+
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
 - **uitzondering**: verbruik gas en elektriciteit is exclusief bij huur vanaf 4 nachten tussen 1/11 - 31/3
 
-##Extra's
+## Extra's
+
 EXTRA               | PRIJS 
 :-------------------|:-----------|
 schoonmaak          | € 40 (luxe appartement € 50) - zelf schoonmaken kan

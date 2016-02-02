@@ -13,6 +13,7 @@ icon: info-sign
 {% include nl/betaling-cxd-reuse.md %}
 
 ## Aankomst- en vertrekregeling
+
 - aankomst: vanaf 14u 
 - vertrek: voor 10u
 
@@ -22,8 +23,6 @@ Wenst u buiten de openingsuren van de receptie aan te komen? Dat kan, maar geef 
 
 ## Inventaris
 
-                       |             |               |              |
-:---------------------:|:-----------:|:-------------:|:------------:
 bier/wijn/waterglazen  |kinderbestek |kookpotten     |borstel                              
 borden                 |aardappelmes |pannen         |aftrekker
 tassen                 |slacouvert   |slazwierder    |ruitenaftrekker

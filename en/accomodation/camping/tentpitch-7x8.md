@@ -43,14 +43,17 @@ insert:
 {% include links.md %}
 
 # TENT PITCH 7x8
+
 These pitches of 7x8 m are convenient for small (self-constructing) tents.   
 
 
 ## Worth knowing
+
 - max 4 persons/ pitch
 - dogs allowed - max 2 – no dangerous breeds
 
 ## Prices
+
 NUMBER OF PERSONS | PRICE / NIGHT     
 :-------------:|:-----------:|
 1 person      |€ 18              

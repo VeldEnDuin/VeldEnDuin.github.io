@@ -43,13 +43,16 @@ insert:
 {% include links.md %}
 
 # TENTPLAATS 10x8
+
 Ga voor de echte kampeerbeleving en trek er met het hele gezin op uit met de tent. Op onze trekkersweide vindt u zeker gelijkgestemden om ervaringen uit te wisselen. 
 
-##Goed om weten
+## Goed om weten
+
 - max 6 personen / plaats
 - honden toegelaten: max 2 - geen gevaarlijke rassen
 
-##Prijzen
+## Prijzen
+
 AANTAL PERSONEN | PRIJS / NACHT     
 :-------------:|:-----------:|
 1 persoon      |€ 20               
@@ -62,7 +65,6 @@ AANTAL PERSONEN | PRIJS / NACHT
 
 
 {% include nl/trekker-reuse.md %}
-
 
 ## Plan camping
 

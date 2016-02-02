@@ -15,7 +15,7 @@ images:
 
 {% include links.md %}
 
-#Nieuw project
+# Nieuw project
 
 In dit ambitieuze project wordt het aantal plaatsen gereduceerd van 83 naar 53. Hierdoor kunnen we onze kampeerders nog meer ruimte en comfort bieden.
 

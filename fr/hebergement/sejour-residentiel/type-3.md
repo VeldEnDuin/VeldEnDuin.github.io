@@ -22,18 +22,20 @@ insert:
 
 {% include links.md %}
 
-#TYPE 3 - CARAVANE OU CHALET
+# TYPE 3 - CARAVANE OU CHALET
+
 Qui n’a jamais rêvé d’un pied-à-terre à la mer pour s’y rendre dès que l’envie vous prend? Réalisez votre rêve en ayant votre propre caravane ou chalet.
 
 
-##Bon à savoir
+## Bon à savoir
+
 - emplacements rénovés
 - compteurs séparés pour le gaz – l’eau – l’électricité
 - réseau de gaz souterrain – pas de bonbonnes de gaz
 - raccordement à l’eau pendant l’hiver
 
 
-##Prix
+## Prix
 
 TYPE 3                |PRIX           |
 :--------------------:|:--------------:|
@@ -53,6 +55,6 @@ compteur              | € 18 / compteur
 
 
 
-##Plan du camping
+## Plan du camping
 
 ![Plan du camping][plan.fr]

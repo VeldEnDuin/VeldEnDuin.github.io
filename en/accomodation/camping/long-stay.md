@@ -43,9 +43,11 @@ insert:
 {% include links.md %}
 
 # RESIDENTIAL CAMPERS
+
 Your caravan stays on the campsite all year round. This means you can enjoy every free moment at its fullest. All you need to do is to take some extra items with you and your holiday can start.
 
 ## Worth knowing
+
 - max 6 persons / pitch
 - dags allowed: max 2 – no dangerous breeds
 
@@ -56,9 +58,11 @@ PERIOD              | STAND PRICE  | MUNICIPAL TAXES
 1 year<br>(1/1-31/12) |€ 1685                  |€ 340,79                 
  
 ## Included
+
 - parking place 1 car
 
 ## Extras
+
 EXTRA              | PRICE 
 :------------------|:-----------|
 electricity        |according to consumption

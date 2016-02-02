@@ -41,13 +41,15 @@ insert:
 {% include links.md %}
 
 # KAMPEERPLAATS 10x8
+
 Combineer de vrijheid van het reizen met een trekcaravan of mobilhome met het comfort van onze camping.
 
-##Goed om weten
+## Goed om weten
+
 - max 6 personen / plaats
 - honden toegelaten: max 2 - geen gevaarlijke rassen
 
-##Prijzen
+## Prijzen
 
 AANTAL PERSONEN | PRIJS / NACHT      
 :-------------:|:-----------:|

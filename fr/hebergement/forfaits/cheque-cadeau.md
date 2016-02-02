@@ -22,24 +22,14 @@ insert:
 {% include links.md %}
 
 
-#Chèque-cadeau
+# Chèque-cadeau
 
 Vous êtes à la recherche d’un chouette cadeau ? Grâce au chèque-cadeau de Veld & Duin d’une valeur au choix, vous serez toujours certain de faire plaisir.  
 
     
-##Bon à savoir
+## Bon à savoir
+
 - valable pour tout type de location ou pour un emplacement de camping
 - peut être utilisé toute l’année selon les disponibilités
 - valeur illimitée
 - vous choisissez le montant (minimum € 20)
-
-
-
-
-
-
-
-
-
-
-

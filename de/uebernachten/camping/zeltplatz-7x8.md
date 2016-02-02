@@ -43,14 +43,17 @@ insert:
 {% include links.md %}
 
 # ZELTPLATZ 7x8
+
 Diese Plätze von 7x8 Metern sind ideal für Ihr kleines (Wurf-)Zelt.   
 
 
 ## Gut zu wissen
+
 - Höchstens 4 Personen/Platz
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 
 ## Preise
+
 ANZAHL PERSONEN | PREIS / NACHT     
 :-------------:|:-----------:|
 1 Person       |€ 18              

@@ -24,17 +24,19 @@ insert:
 {% include links.md %}
 
 
-#Veld & Duin Service
+# Veld & Duin Service
 
 Damit Sie Ihren Aufenthalt optimal genießen können, bieten wir Ihnen dieses Servicepaket an. Das lässt Ihnen den nötigen Spielraum, um das Maximum aus Ihrem Urlaub zu holen.
 
 ## Arrangement umfasst
+
 - Endreinigung
 - Bettwäschepaket für alle Betten (liegt bei der Ankunft an der Rezeption bereit)
 - Internetanschluss für maximal 2 Geräte
 
 
 ## Gut zu wissen
+
 - Gültig für jede Art der Vermietung
 - Ganzjährig buchbar
 

@@ -11,6 +11,7 @@ icon: info-sign
 # PRAKTISCHE INFOS
 
 ## Vorteile des Dauercampings bei Veld & Duin
+
 - Ganzjährig geöffnet –  Sie können sooft kommen, wie Sie wollen
 - Pflege der Grünanlagen durch Veld & Duin
 - Technisches Know-how für Reparaturen

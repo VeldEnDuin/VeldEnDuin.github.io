@@ -18,13 +18,15 @@ remove:
 
 {% include links.md %}
 
-#Groen
+# Groen
 
 ## Beplanting
+
 Meteen bij het binnenrijden wordt duidelijk dat we een verzorgde en gevarieerde beplanting ontzettend belangrijk vinden. De streekeigen bloemen en planten worden zorgvuldig uitgekozen en dagdagelijks onderhouden zodat iedereen er volop kan van genieten.<br>
 
 
-##Ecologie
+## Ecologie
+
 Groen betekent ook streven naar een zo ecologisch mogelijke werking. Hier proberen we ons steentje bij te dragen door onder meer:
 
 - gebruik te maken van zonneboilers voor de luxe-appartementen en het vernieuwde sanitair

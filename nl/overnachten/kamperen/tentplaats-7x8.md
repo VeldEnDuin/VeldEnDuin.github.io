@@ -43,14 +43,17 @@ insert:
 {% include links.md %}
 
 # TENTPLAATS 7x8
+
 Deze plaatsen van 7x8 meter zijn ideaal voor uw kleine (werp)tentje.  
 
 
-##Goed om weten
+## Goed om weten
+
 - max 4 personen / plaats
 - honden toegelaten - max 2 - geen gevaarlijke rassen
 
-##Prijzen
+## Prijzen
+
 AANTAL PERSONEN | PRIJS / NACHT     
 :-------------:|:-----------:|
 1 persoon      |€ 18              

@@ -17,7 +17,8 @@ remove:
 
 ---
 
-#Iedereen welkom
+# Iedereen welkom
+
 Kinderen, jongeren, families, senioren,...we heten iedereen graag van harte welkom op Veld & Duin!<br>
 Het sleutelwoord om samen een aangename vakantie door te brengen is wederzijds respect en dat is voor ons dan ook cruciaal. 
 

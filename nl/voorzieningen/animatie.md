@@ -19,7 +19,7 @@ remove:
 ---
 {% include links.md %}
 
-#Animatie Veld & Duin
+# Animatie Veld & Duin
 
 In de paasvakantie organiseren we 2 activiteiten waaronder een grote paaseierenzoektocht en spel.
 
@@ -30,7 +30,7 @@ Het jaar wordt afgesloten met een gezellige glühweinavond. Onder het genot van 
 [Fotoarchief animatie Veld & Duin][pics.nl]
 
 
-##Kalender Veld & Duin
+## Kalender Veld & Duin
 
 **Paasvakantie 2016**
 
@@ -47,5 +47,6 @@ Het jaar wordt afgesloten met een gezellige glühweinavond. Onder het genot van 
 | vrijdagen in juli en augustus| meer info volgt
 
 
-##Animatie Bredene en omgeving
+## Animatie Bredene en omgeving
+
 Aan de kust valt er altijd wel iets te beleven. We houden u graag op de hoogte van de activiteiten in de buurt via het infoscherm aan de ingang, de infomappen in de verhuureenheden of neem een kijkje op onze [doen-pagina][doen.nl]. 

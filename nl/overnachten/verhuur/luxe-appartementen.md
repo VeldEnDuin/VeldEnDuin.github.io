@@ -48,7 +48,8 @@ insert:
 
 Gelegen boven de receptie bieden deze nieuwe en luxueuze appartementen een mooi zicht op de bloemenpracht aan de ingang van de camping. 
 
-##Inrichting luxe appartement
+## Inrichting luxe appartement
+
 - ruime woonkamer met flatscreen en digibox
 - ingerichte keuken met vaatwasmachine en microgolf
 - badkamer met douche, wastafel en toilet
@@ -62,14 +63,15 @@ Gelegen boven de receptie bieden deze nieuwe en luxueuze appartementen een mooi 
 - appartement tweede verdieping: balkon
 
     
-##Goed om weten
+## Goed om weten
+
 - appartement eerste verdieping: max 5 personen
 - appartement tweede verdieping: max 6 personen
 - huisdieren niet toegelaten - wel mogelijk in de chalets of caravans
 - geen lift
 - het hele jaar door boekbaar
 
-##Prijzen
+## Prijzen
 
 PERIODE             | LAAGSEIZOEN | TUSSENSEIZOEN | HOOGSEIZOEN |
 :------------------:|:-----------:|:-------------:|:-----------:|
@@ -82,22 +84,25 @@ extra nacht > 7 n    |€ 51         |€ 62           | € 95
 14 nachten          |€ 735        |€ 850          | € 1270
 
 
-##Periodes
+## Periodes
 
 LAAGSEIZOEN           |TUSSENSEIZOEN      |    HOOGSEIZOEN|
 :--------------------:|:-----------------:|:-------------:|
 november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni, <br>september en oktober, <br>schoolvakanties, <br>verlengde weekends   | juli en augustus
 
-##Waarborg
+## Waarborg
+
 - € 50 - contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is 
 
-##Inbegrepen
+## Inbegrepen
+
 - parking 1 auto
 - verbruik water en elektriciteit 
 - **uitzondering**: verbruik elektriciteit is exclusief bij huur vanaf 4 nachten van 1/11 - 31/3
 
-##Extra's
+## Extra's
+
 EXTRA               | PRIJS 
 :-------------------|:-----------|
 schoonmaak          | € 50 - zelf schoonmaken kan
@@ -112,6 +117,6 @@ parking extra auto      | € 4 / begonnen dag
 [Veld & Duin service][veld_duin_service.nl]| € 75 
 
 
-##Plan camping
+## Plan camping
 
 ![Plan van de camping][plan_verhuur.nl]

@@ -43,11 +43,13 @@ insert:
 # EMPLACEMENT CAMPEUR 10x8
 Combinez la liberté de vacances en caravane ou mobile home au confort offert par notre camping.
 
-##Bon à savoir
+## Bon à savoir
+
 - max. 4 personnes / emplacement
 - chiens admis – max. 2 – pas de races dangereuses
 
-##Prix
+## Prix
+
 NOMBRE DE PERSONNES | PRIX / NUIT     
 :------------------:|:-----------:|
 1 personne          |€ 20              

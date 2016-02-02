@@ -48,6 +48,7 @@ insert:
 Are you price-conscious but sleeping in a tent is not your cup of tea? Then a standard chalet might be what you are looking for.
 
 # Facilities chalet
+
 - living room with tv and set top box
 - equipped kitchen with microwave
 - toilet
@@ -57,6 +58,7 @@ Are you price-conscious but sleeping in a tent is not your cup of tea? Then a st
 - garden furniture
     
 ## Worth knowing
+
 - chalet for 4 persons
 - no shower nor washbasin available in the chalet – you can make use of the sanitary block on the campsite
 - dogs allowed - max 2 – no dangerous breeds
@@ -82,15 +84,18 @@ MID SEASON      |    HIGH SEASON|
  April until June, <br>September & October, <br>holidays, <br>long weekends  | July & August
 
 ## Warranty
+
 - € 50 – to be paid in cash upon arrival
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
 
 ## Included
+
 - parking 1 car
 - consumption gas-water-electricity 
 
 
 ## Extra Services
+
 EXTRA SERVICE            | PRICE 
 :-------------------|:-----------|
 shower coin        | € 1

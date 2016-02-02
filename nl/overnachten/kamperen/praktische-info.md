@@ -13,6 +13,7 @@ icon: info-sign
 {% include nl/betaling-cxd-reuse.md %}
 
 ## Aankomst- en vertrekregeling
+
 - aankomst: vanaf 14u 
 - vertrek: voor 11u
 

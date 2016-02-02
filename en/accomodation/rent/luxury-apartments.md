@@ -49,6 +49,7 @@ insert:
 Located above the reception these new and luxurious apartments overlook the floral beauty at the entrance of the campsite.
 
 ## Facilities luxury apartment
+
 - spacious living room with flat screen and set top box
 - equipped kitchen with dishwasher and microwave 
 - bathroom with shower, washbasin and toilet
@@ -63,6 +64,7 @@ Located above the reception these new and luxurious apartments overlook the flor
 
     
 ## Worth knowing
+
 - apartment first floor: max 5 persons
 - apartment second floor: max 6 persons
 - pets not allowed in the apartments
@@ -89,15 +91,18 @@ OFF-SEASON          |MID SEASON     |    HIGH SEASON|
 November until March<br>except for holidays <br>& long weekends | April until June, <br>September & October, <br>holidays, <br>long weekends  | July & August
 
 ## Warranty
+
 - € 50 – to be paid in cash upon arrival
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
 
 ## included
+
 - parking 1 car
 - consumption water & electricity
 - **exception**: costs of electricity are excluded from 4 nights from 1/11 - 31/3
 
 ## Extra Services
+
 EXTRA SERVICE             | PRICE
 :-------------------|:-----------|
 cleaning          | € 50 - final cleaning by tenants is allowed

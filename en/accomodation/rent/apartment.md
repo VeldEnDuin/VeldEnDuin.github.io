@@ -47,6 +47,7 @@ insert:
 The apartments are situated next to the campsite. This means that you can enjoy the space of an apartment and use the facilities of our campsite at the same time.
 
 ## Facilities apartment
+
 - spacious living room with flat screen and set top box
 - equipped kitchen with microwave
 - bathroom with shower, washbasin and toilet 
@@ -56,6 +57,7 @@ The apartments are situated next to the campsite. This means that you can enjoy 
 - balcony in front overlooking the dunes and with a view of the playground at the back
     
 ## Worth knowing
+
 - apartment for 4-5 persons
 - pets not allowed – possible in chalets or caravans
 - lift 
@@ -82,15 +84,18 @@ OFF-SEASON          |MID SEASON     |    HIGH SEASON|
 November until March<br>except for holidays <br>& long weekends | April until June, <br>September & October, <br>holidays, <br>long weekends  | July & August
 
 ## Warranty
+
 - € 50 – to be paid in cash upon arrival
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
 
 ## included
+
 - parking 1 car
 - consumption water & electricity
 - **exception**: costs of electricity are excluded from 4 nights from 1/11 - 31/3
 
 ## Extra Services
+
 EXTRA SERVICE               | PRICE
 :-------------------|:-----------|
 cleaning          | € 40 - final cleaning by tenants is allowed

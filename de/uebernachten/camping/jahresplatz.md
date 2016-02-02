@@ -43,22 +43,27 @@ insert:
 {% include links.md %}
 
 # JAHRESPLATZ
+
 Ihr Wohnwagen mit allen Grundannehmlichkeiten bleibt das ganze Jahr über stehen. So können Sie Ihre Freizeit optimal genießen. Nur noch ein paar Sachen einladen – schon sind Sie in Urlaubsstimmung 
 
 ## Gut zu wissen
+
 - Höchstens 6 Personen/Platz
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 
 ## Preise
+
 ZEITRAUM              | STELLPLATZKOSTEN       | GEMEINDESTEUER      
 :--------------------:|:----------------------:|--------------|
 6 Monate              |€ 1580                  |€ 129,85            
 1 Jahr<br>(1.1.-31.12.) |€ 1685                  |€ 340,79                 
  
 ## Inbegriffen
+
 - Parkplatz für 1 Auto
 
-##Extra's
+## Extra's
+
 EXTRA             | PREIS 
 :------------------|:-----------|
 Strom              |nach Verbrauch

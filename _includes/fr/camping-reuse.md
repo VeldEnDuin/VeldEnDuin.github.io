@@ -1,5 +1,5 @@
 
-##Réductions
+## Réductions
 
 Nombre de nuits | Réduction       
 :-------------:|:-----------:|
@@ -12,12 +12,13 @@ Nombre de nuits | Réduction
 - durée de validité: toute l’année à l’exception de juillet et août
 
 
-##Inclus
+## Inclus
 - taxes communales et de séjour
 - parking pour 1 voiture
 - électricité
 
-##Suppléments
+## Suppléments
+
 SUPPLÉMENTS           | PRIX 
 :------------------|:-----------|
 assurance annulation | 3,5 % du montant total du séjour - [Allianz][pdf_allianz.fr] 

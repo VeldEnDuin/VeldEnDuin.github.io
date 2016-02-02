@@ -24,10 +24,12 @@ insert:
 {% include links.md %}
 
 # TYPE 3 - CARAVAN OR CHALET
+
 Do you secretly dream about a place to settle along the coast? Make your dream come true, buy your own caravan or chalet and come as often as you like. 
 
 
 ## Worth knowing
+
 - renewed pitches
 - separate meters for gas – water – electricity consumption
 - underground gas network – no bottled gas
@@ -54,6 +56,6 @@ counter     | € 18 / counter
 
 
 
-##Plan campsite
+## Plan campsite
 
 ![Plan campsite][plan.en]

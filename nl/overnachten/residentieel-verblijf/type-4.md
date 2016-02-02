@@ -23,11 +23,12 @@ insert:
 
 {% include links.md %}
 
-#Type 4 - CARAVAN
+# Type 4 - CARAVAN
 
 Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Ga dan voor één van onze luxueuze plaatsen en geniet van de extra ruimte.
 
-##Goed om weten
+## Goed om weten
+
 - alle type 4 percelen liggen rond de wadi
 - betonplaat van 12x4 m - geschikt voor grote caravans
 - aparte tellers voor gas - water - elektriciteit
@@ -35,7 +36,7 @@ Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Ga 
 - wintervaste wateraansluiting
 
 
-##Prijzen
+## Prijzen
 
 TYPE 4                |PRIJS           |
 :--------------------:|:--------------:|
@@ -55,6 +56,6 @@ tellervergoeding      | € 18 / teller
 
 
 
-##Plan camping
+## Plan camping
 
 ![Plan van de camping][plan.nl]

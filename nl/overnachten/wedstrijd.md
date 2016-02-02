@@ -18,21 +18,21 @@ insert:
 
 {% include links.md %}
 
-#Welkom op onze nieuwe site!
+# Welkom op onze nieuwe site!
 
-##Doe mee aan de wedstrijd en win mooie prijzen
+## Doe mee aan de wedstrijd en win mooie prijzen
 
 Op de nieuwe site hebben we – heel bewust –  3 maal serieus geblunderd...<br> 
 Ga snel op zoek naar de 3 frappante onwaarheden die we verscholen hebben tussen de andere informatie en geef dit aan ons door.
 
 
-###Prijzen
+### Prijzen
 
 - **eerste prijs**: bon ter waarde van € 75 in restaurant [La Différence][ladifference.nl]
 - **tweede prijs**: bon ter waarde van € 50 in tea-room [Mdue][mdue.nl]
 - **derde prijs**: bon ter waarde van € 25 in de winkel van [Anthony Lams][anthonylams.nl] (ambachtelijke chocolade en marsepein)
 
-###Hoe deelnemen?
+### Hoe deelnemen?
 
 Vul [uw deelnameformulier][wedstrijdform.nl] in met vermelding van de 3 blunders en het antwoord op de schiftingsvraag. Deelnemen kan tot **15 februari 2016**.
 

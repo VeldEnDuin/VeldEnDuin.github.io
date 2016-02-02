@@ -13,6 +13,7 @@ icon: info-sign
 {% include en/payment-cxd-reuse.md %}
 
 ## Arrival and departure
+
 - arrival:  as from 14 hrs
 - departure: before 11 hrs
 

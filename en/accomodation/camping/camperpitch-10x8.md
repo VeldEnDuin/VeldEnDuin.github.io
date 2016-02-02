@@ -41,9 +41,11 @@ insert:
 {% include links.md %}
 
 # CAMPER PITCH 10x8
+
 Combine the freedom of travelling with a caravan or mobile home with the comfort of our  campsite
 
 ## Worth knowing
+
 - max 6 persons / pitch
 - dogs allowed - max 2 – no dangerous breeds
 
@@ -63,6 +65,6 @@ NUMBER OF PERSONS | PRICE / NIGHT
 {% include en/hiker-reuse.md %}
 
 
-##Plan campsite
+## Plan campsite
 
 ![Plan campsite][plan_trekkers.en]

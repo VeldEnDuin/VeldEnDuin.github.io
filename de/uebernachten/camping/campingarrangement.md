@@ -42,9 +42,11 @@ insert:
 {% include links.md %}
 
 # Campingarrangement
+
 Sie haben einen Monat oder länger Zeit? Dann sehen Sie sich doch die verschiedenen Campingarrangements an. Sicher ist auch für Sie ein geeignetes Konzept dabei.
 
 ## Gut zu wissen
+
 - Höchstens 6 Personen/Platz
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 
@@ -63,6 +65,7 @@ April-Mai-Juni |€ 695
 September-Oktober-November|€ 695
 
 ## Inbegriffen
+
 - Gemeinde- und Aufenthaltssteuern
 - Parkplatz für 1 Auto
 

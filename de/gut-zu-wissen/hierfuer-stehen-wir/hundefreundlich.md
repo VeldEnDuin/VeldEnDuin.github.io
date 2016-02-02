@@ -17,11 +17,13 @@ remove:
 ---
 
 # Hundefreundlich
+
 Ihr Hund ist auf dem Campingplatz recht herzlich willkommen.<br>
 Auch in den Mietchalets und Wohnwagen sind Hunde willkommen, nicht jedoch in den (Luxus-)Appartements.<br>
 
 
 ## Spielregeln 
+
 Hundebesitzer sind immer für ihren Hund haftbar. Hier ein paar Spielregeln, die streng befolgt werden müssen, sodass andere Gäste nicht belästigt werden:
 
 - Haustiere auf dem Campingplatz gehören an die Leine.

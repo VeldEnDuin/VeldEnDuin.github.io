@@ -43,22 +43,27 @@ insert:
 {% include links.md %}
 
 # VASTE KAMPEERPLAATS
+
 Uw trekcaravan met alle basisvoorzieningen blijft het hele jaar staan. Zo kunt u optimaal genieten van alle vrije momenten. Enkel nog wat extra spullen inladen en  u bent meteen in vakantiestemming. 
 
 ## Goed om weten
+
 - max 6 personen / plaats
 - honden toegelaten: max 2 - geen gevaarlijke rassen
 
 ## Prijzen
+
 PERIODE               | STANDPLAATSVERGOEDING  | GEMEENTETAKS       
 :--------------------:|:----------------------:|--------------|
 6 maanden             |€ 1580                  |€ 129,85            
 1 jaar<br>(1/1-31/12) |€ 1685                  |€ 340,79                 
  
 ## Inbegrepen
+
 - parking 1 auto
 
 ## Extra's
+
 EXTRA             | PRIJS 
 :------------------|:-----------|
 elektriciteit      |volgens verbruik 

@@ -13,6 +13,7 @@ icon: info-sign
 {% include de/bezahlung-cxd-reuse.md %}
 
 ## An- und Abreiseregelung
+
 - Anreise ab 14 Uhr 
 - Abreise bis 10 Uhr
 
@@ -22,8 +23,6 @@ Möchten Sie außerhalb der Öffnungszeiten der Rezeption anreisen? Das ist mög
 
 ## Inventar
 
-                       |             |               |            |  
-:---------------------:|:-----------:|:-------------:|:------------:
 Bier-, Wein-, Wassergläser  |Kinderbesteck |Kochtöpfe|Bürste                              
 Teller                 |Gemüsemesser |Pfannen        |Bodenabzieher
 Tassen                 |Salatbesteck |Salatschleuder |Fensterabzieher

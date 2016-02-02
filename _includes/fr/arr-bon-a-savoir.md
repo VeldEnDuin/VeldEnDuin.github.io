@@ -1,5 +1,6 @@
 
 ## Bon à savoir
+
 - valable pour tout type de location
 - pas valable pour les suppléments
 - forfait possible selon disponibilité

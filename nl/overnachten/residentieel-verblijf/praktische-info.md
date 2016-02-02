@@ -8,16 +8,17 @@ icon: info-sign
 
 {% include links.md %}
 
-#PRAKTISCHE INFO
+# PRAKTISCHE INFO
 
-##Troeven residentieel verblijf Veld & Duin
+## Troeven residentieel verblijf Veld & Duin
+
 - het hele jaar open - u kunt zo vaak komen als u wenst
 - groenonderhoud door Veld & Duin
 - technische know-how voor herstellingen
 - [brandverzekering][pdf_brandverzekering.nl]: mogelijkheid om aan te sluiten via onze groepsverzekering
 
 
-##Prijzen extra's
+## Prijzen extra's
 
 ALLERLEI              |PRIJS           
 :--------------------:|:--------------:
