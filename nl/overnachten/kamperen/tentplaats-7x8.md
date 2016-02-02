@@ -65,3 +65,4 @@ AANTAL PERSONEN | PRIJS / NACHT
 
 ##Plan camping
 
+![Plan van de camping][plan_trekkers.nl]

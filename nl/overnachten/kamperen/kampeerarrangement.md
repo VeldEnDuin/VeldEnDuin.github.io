@@ -78,4 +78,4 @@ parking extra auto |€ 4 / begonnen dag
 [internet][internet.nl]           |afhankelijk van tijd online
 
 ##Plan camping
-
+![Plan van de camping][plan_trekkers.nl]
