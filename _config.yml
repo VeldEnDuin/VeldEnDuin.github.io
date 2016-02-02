@@ -3,7 +3,7 @@ name: Veld & Duin
 markdown: kramdown
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-highlighter: pygments
+highlighter: rouge
 
 description: Veld & Duin, Camping Bredene
 url: http://veldenduin.be
