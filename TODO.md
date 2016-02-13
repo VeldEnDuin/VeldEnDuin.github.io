@@ -1,5 +1,7 @@
 TODO
 ====
+-- http://jekyllrb.com/docs/upgrading/2-to-3/
+
 
 - 404 pagina voorzien met extra links zoals op de "search" page --> probleem is wel taal-afhankelijkheid! 
   (de vertalingen van de labels doe ik nu met een truuk / niet evident om dat open te trekken naar dit) 
