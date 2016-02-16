@@ -17,22 +17,6 @@ insert:
 
 {% include links.md %}
 
-# Bienvenue sur notre nouveau site Internet!
+# Malheureusement, ce concours est déjà terminé...
 
-## Participez au concours et remportez de magnifiques cadeaux
-
-Nous avons volontairement inséré 3 grosses erreurs sur notre nouveau site...<br> 
-Cherchez sans plus tarder les 3 mensonges flagrants qui se sont glissés parmi les informations et signalez-les-nous.
-
-
-### Cadeaux
-
-- **premier prix**: un bon d’une valeur de 75 € au restaurant [La Différence][ladifference.fr]
-- **deuxième prix**: un bon d’une valeur de 50 € au salon de thé [Mdue][mdue.fr]
-- **troisième prix**: un bon d’une valeur de 25 € dans la boutique d’[Anthony Lams][anthonylams.fr] (chocolat et massepain artisanaux)
-
-### Comment participer ?
-
-Complétez votre [formulaire de participation][wedstrijdform.fr], indiquez-nous les 3 erreurs et répondez à la question subsidiaire. Vous pouvez participer jusqu’au **15 février 2016**.
-
-Les gagnants seront prévenus personnellement le 16 février et les noms seront annoncés sur Facebook et dans la [rubrique actualités][news.fr].
+Les résultats sont annoncés dans notre [rubrique actualités][wedstrijduitslag.fr].

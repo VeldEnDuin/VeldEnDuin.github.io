@@ -1098,23 +1098,6 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 115
-  location: 51.233696, 2.972101
-  subgroups:
-  - recrea
-  images:
-  - "/img/doen/bungee.jpg"
-  link:
-  title:
-    nl: Bungee jumpen
-    fr: Saut à l’élastique
-    de: Bungee Jumping
-    en: Bungee jumping
-  caption:
-    nl: waag een sprong van de watertoren
-    fr: oserez-vous sauter dans le vide depuis le sommet du château d’eau?
-    de: Wagen Sie einen Sprung vom Wasserturm
-    en: venture a leap from the water tower
 subgroups:
   nl:
     coast: kustbeleving
