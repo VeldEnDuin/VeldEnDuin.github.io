@@ -1098,6 +1098,27 @@ items:
     fr: ''
     de: ''
     en: ''
+- ranking: 95
+  subgroups:
+  - coast
+  - city
+  images:
+  - "/img/doen/coastgreeters.jpg"
+  link:
+    nl: http://www.dekust.be/belgiancoastgreeters/ontmoet-onze-belgian-coast-greeters
+    fr: http://www.lelittoral.be/belgiancoastgreeters/rencontrez-et-réservez-un-greeter
+    de: http://www.belgischekueste.be/node/94300
+    en: http://www.belgiancoast.co.uk/belgiancoastgreeters/book-and-meet-greeter
+  title:
+    nl: Belgian Coast Greeters
+    fr: Belgian Coast Greeters
+    de: Belgian Coast Greeters
+    en: Belgian Coast Greeters
+  caption:
+    nl: gratis gidsbeurten
+    fr: tours guidés gratuits
+    de: kostenlose geführte Tours
+    en: free guided tour
 subgroups:
   nl:
     coast: kustbeleving
