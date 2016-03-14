@@ -38,9 +38,8 @@ Vous pouvez promener votre chien dans le parc Paelsteenveld en face du camping o
 
 ### Plage
 
-- 01/09 - 30/06: les chiens sont admis toute la journée sur la plage et dans les dunes
-- 01/07 - 31/08: les chiens ne sont **pas admis** sur la plage et dans les dunes (sauf sur les chemins en dur) **entre 10 h 30 et 18 h 30**. Exceptions à cette règle:    
+- 15/10 - 15/03: les chiens peuvent courir en toute liberté sur la plage et dans l'eau
+- 15/03 - 30/06 & 01/09 - 15/10: les chiens sont permis mais doivent être tenus en laisse
+- 01/07 - 31/08: les chiens ne sont **pas admis** sur la plage **entre 10 h 30 et 18 h 30**. Exceptions à cette règle:    
     - les zones de plage au-delà du poste de plage 1 (Twinsclub) jusqu’à la limite d’Ostende
     - la zone entre le poste de plage 6 et la plage pour nudistes 
-
-Dans les dunes et sur la plage, les chiens doivent également être tenus en laisse.

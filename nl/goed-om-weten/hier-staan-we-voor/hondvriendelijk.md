@@ -38,9 +38,9 @@ De hond uitlaten kan in het tegenoverliggende park Paelsteenveld of op het stran
 
 ### Strand
 
-- 1/9 - 30/6: honden zijn de hele dag toegelaten op het strand en in de duinen
-- 1/7 - 31/8: honden zijn **niet toegelaten** op het strand en in de duinen (behalve de verharde paden) **tussen 10u30 en 18u30**. Uitzonderingen hierop:    
+- 15/10 - 15/03: honden mogen vrij rondlopen op het strand en in het water
+- 15/03 - 30/06 & 01/09 - 15/10: honden toegelaten maar ze moeten aangelijnd zijn
+- 1/7 - 31/8: honden zijn **niet toegelaten** op het strand **tussen 10u30 en 18u30**. Uitzonderingen hierop:    
     - de strandzones voorbij strandpost 1 (Twinsclub) tot aan de grens van Oostende
     - de zone tussen strandpost 6 en het naaktstrand 
 
-Honden moeten ook op het strand en in de duinen aan de leiband worden gehouden.
