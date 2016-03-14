@@ -22,18 +22,20 @@ insert:
 
 {% include links.md %}
 
-#TYPE 2 - CARAVAN 
+# TYPE 2 - CARAVAN 
+
 Kom na een drukke werkweek onthaasten in uw caravan. Zo kunt u er nadien weer helemaal tegenaan!
 
 
-##Goed om weten
+## Goed om weten
+
 - deze plaatsen worden in de nabije toekomst vernieuwd - zie [nieuw project][nieuw_project.nl]
 - teller voor elektriciteit - forfait water
 - gasflessen
 - geen wintervaste wateraansluiting - sanitairgebouw blijft open
 
 
-##Prijzen
+## Prijzen
 
 TYPE 2                |PRIJS           |
 :--------------------:|:--------------:|
@@ -53,6 +55,6 @@ tellervergoeding      | € 18
 
 
 
-##Plan camping
+## Plan camping
 
 ![Plan van de camping][plan.nl]

@@ -47,7 +47,8 @@ insert:
 
 Vous souhaitez partir en vacances sans vous ruiner mais vous détestez dormir sous tente? Ces chalets simples sont probablement la solution idéale.  
 
-##Aménagement du chalet
+## Aménagement du chalet
+
 - salle de séjour avec télévision et digibox
 - cuisine équipée avec four à micro-ondes
 - toilettes
@@ -56,13 +57,14 @@ Vous souhaitez partir en vacances sans vous ruiner mais vous détestez dormir so
     - 1 chambre avec lits superposés (2x(90x200)) ou lit double (140x200)
 - mobilier de jardin
     
-##Bon à savoir
+## Bon à savoir
+
 - chalet d’une capacité de 4 personnes
 - pas de douche ni de lavabo dans le chalet – les sanitaires du camping sont à votre disposition
 - chiens admis – max. 2 – pas de races dangereuses
 - non disponible à la réservation entre le 15/11 et le 15/03
 
-##Prix
+## Prix
 
 PÉRIODE                |MI-SAISON     | HAUTE SAISON |
 :---------------------:|:------------:|:------------:|
@@ -75,22 +77,25 @@ nuitée supplémentaire > 7n |€ 35          |€ 53          |
 14 nuitées             |€ 480         |€ 715         |           
 
 
-##Périodes
+## Périodes
 
 MI-SAISON      |    HAUTE SAISON|
 :--------------------:|:-----------------:|:-------------:|
  avril à juin, <br>septembre et octobre, <br>vacances scolaires, <br>week-ends prolongés  | juillet et août
 
-##Caution
+## Caution
+
 - € 50 – à payer en liquide à l’arrivée
 - la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état
 
-##Inclus
+## Inclus
+
 - parking 1 voiture
 - consommation gaz - eau - électricité 
 
 
-##Suppléments
+## Suppléments
+
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
 jeton douche        | € 1  
@@ -107,6 +112,6 @@ parking voiture supplémentaire  | € 4 / jour entamé
 [service Veld & Duin][veld_duin_service.fr]| € 60
 
 
-##Plan du camping
+## Plan du camping
 
-[invoegen plan][plan.fr]
+![Plan du camping][plan_verhuur.fr]

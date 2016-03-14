@@ -23,18 +23,20 @@ insert:
 
 {% include links.md %}
 
-#TYPE 3 - CARAVAN OF CHALET
+# TYPE 3 - CARAVAN OF CHALET
+
 Een vaste stek aan de kust om steeds opnieuw naar terug te keren, wie droomt daar niet van? Maak uw droom waar met een eigen caravan of chalet om heel vaak van te genieten.
 
 
-##Goed om weten
+## Goed om weten
+
 - vernieuwde plaatsen
 - aparte tellers voor gas - water - elektriciteit
 - ondergronds gasnetwerk - geen gasflessen
 - wintervaste wateraansluiting
 
 
-##Prijzen
+## Prijzen
 
 TYPE 3                |PRIJS           |
 :--------------------:|:--------------:|
@@ -54,6 +56,6 @@ tellervergoeding      | € 18 / teller
 
 
 
-##Plan camping
+## Plan camping
 
 ![Plan van de camping][plan.nl]

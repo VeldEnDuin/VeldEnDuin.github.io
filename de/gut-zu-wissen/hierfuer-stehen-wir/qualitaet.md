@@ -19,6 +19,7 @@ remove:
 # Qualität
 
 ## Q-Zeichen
+
 Das [Q-Zeichen][q-label.de] steht für Quality Service bei den Tourismusunternehmen an der flämischen Küste. Das Qualitätsprojekt besteht aus einer Ausbildung und einer individuellen Begleitung. Das Zeichen ist drei Jahre gültig.
 
  Ab 2011 konnten sich auch Campingplätze beteiligen. Wir haben diese Chance sofort ergriffen, weil wir gern dauerhaft in unsere Qualität investieren. Im Juni 2011 durfte Veld & Duin das Zeichen in Empfang nehmen und 2014 erhielten wir – nach einer erneuten Überprüfung – eine Verlängerung des Q-Zeichens.  

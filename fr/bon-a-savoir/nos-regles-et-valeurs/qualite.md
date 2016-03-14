@@ -16,9 +16,9 @@ remove:
 
 {% include links.md %}
 
-#Qualité
+# Qualité
 
-##Label Q
+## Label Q
 Le [label Q][q-label.fr] est synonyme de service de qualité dans le secteur touristique à la côte belge. Les étapes liées à l’obtention de ce label, valable 3 ans, prévoient une formation et un accompagnement individuel.
 
 Les campings peuvent y prétendre également depuis 2011. Nous avons immédiatement saisi cette opportunité car nous souhaitons améliorer en permanence la qualité de notre service. Le label Q a été décerné à Veld & Duin en juin 2011 et a été prolongé en 2014 à la suite d'un nouvel examen.  

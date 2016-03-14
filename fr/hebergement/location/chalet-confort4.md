@@ -46,7 +46,8 @@ insert:
 
 Ces chalets sont situés à l’entrée du camping, à proximité du terrain de jeu. Les enfants ne sont ainsi jamais loin de leurs petits camarades.
 
-##Aménagement du chalet
+## Aménagement du chalet
+
 - grande salle de séjour avec écran plat et digibox
 - cuisine équipée avec four à micro-ondes
 - salle de bains avec douche, lavabo et toilettes
@@ -55,12 +56,13 @@ Ces chalets sont situés à l’entrée du camping, à proximité du terrain de 
     - 1 chambre avec lits superposés 2x (90x200) 
 - mobilier de jardin
     
-##Bon à savoir
+## Bon à savoir
+
 - chalet d’une capacité de 4 personnes
 - chiens admis – max. 2 – pas de races dangereuses
 - disponible à la réservation toute l’année
 
-##Prix
+## Prix
 
 PÉRIODE             |BASSE SAISON | MI-SAISON     | HAUTE SAISON|
 :------------------:|:-----------:|:-------------:|:-----------:|
@@ -73,22 +75,25 @@ nuitée supplémentaire > 7n |€ 41  |€ 49          | € 77
 14 nuitées             |€ 590     |€ 685          | € 1025
 
 
-##Périodes
+## Périodes
 
 BASSE SAISON          |MI-SAISON          |    HAUTE SAISON|
 :--------------------:|:-----------------:|:-------------:|
 novembre à mars<br>à l'exception des vacances scolaires <br>et weekends prolongés | avril à juin, <br>septembre et octobre, <br>vacances scolaires, <br>week-ends prolongés   | juillet et août
 
-##Caution
+## Caution
+
 - € 50 – à payer en liquide à l’arrivée
 - la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état
 
-##Inclus
+## Inclus
+
 - parking 1 voiture
 - consommation gaz - eau - électricité 
 - **exception**: consommation de gaz et d'électricité est exclusive à partir de 4 nuits de 1/11 - 31/3
 
-##Suppléments
+## Suppléments
+
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
 nettoyage           | € 40 - le locataire est autorisé à faire le nettoyage lui-même
@@ -104,6 +109,6 @@ parking voiture supplémentaire  | € 4 / jour entamé
 [service Veld & Duin][veld_duin_service.fr]| € 60
 
 
-##Plan du camping
+## Plan du camping
 
-[invoegen plan][plan.fr]
+![Plan du camping][plan_verhuur.fr]

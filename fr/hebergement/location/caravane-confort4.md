@@ -45,11 +45,12 @@ insert:
 
 {% include links.md %}
 
-#Caravane confort 4 
+# Caravane confort 4 
 
 Tout en offrant le confort d’un foyer ordinaire, une caravane présente tous les avantages du véritable camping pour un séjour inoubliable.
 
-##Aménagement de la caravane
+## Aménagement de la caravane
+
 - grande salle de séjour avec télévision et digibox
 - cuisine équipée avec four à micro-ondes
 - salle de bains avec douche, lavabo et toilettes
@@ -58,12 +59,13 @@ Tout en offrant le confort d’un foyer ordinaire, une caravane présente tous l
     - 2 chambres avec lit simple 2x (80x200) 
 - mobilier de jardin
     
-##Bon à savoir
+## Bon à savoir
+
 - caravane d’une capacité de 4 personnes
 - chiens admis – max. 2 – pas de races dangereuses 
 - non disponible à la réservation entre le 15/11 et le 15/03
 
-##Prix
+## Prix
 
 PÉRIODE                |MI-SAISON     | HAUTE SAISON |
 :---------------------:|:------------:|:------------:|
@@ -77,22 +79,25 @@ nuitée supplémentaire > 7n |€ 49  |€ 77          |
 
 
 
-##Périodes
+## Périodes
 
 MI-SAISON      |    HAUTE SAISON|
 :--------------------:|:-----------------:|:-------------:|
  avril à juin, <br>septembre et octobre, <br>vacances scolaires, <br>week-ends prolongés  | juillet et août
 
-##Caution
+## Caution
+
 - € 50 – à payer en liquide à l’arrivée
 - la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état
 
-##Inclus
+## Inclus
+
 - parking 1 voiture
 - consommation gaz - eau - électricité 
 
 
-##Suppléments
+## Suppléments
+
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
 nettoyage           | € 40 - le locataire est autorisé à faire le nettoyage lui-même
@@ -108,6 +113,6 @@ parking voiture supplémentaire  | € 4 / jour entamé
 [service Veld & Duin][veld_duin_service.fr]| € 60
 
 
-##Plan du camping
+## Plan du camping
 
-[invoegen plan][plan.fr]
+![Plan du camping][plan_verhuur.fr]

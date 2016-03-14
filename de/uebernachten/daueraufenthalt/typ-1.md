@@ -22,10 +22,12 @@ insert:
 {% include links.md %}
 
 # TYP 1 - WOHNWAGEN 
+
 Diese Plätze haben eine etwas kleinere Fläche, bieten aber ebenso gut im Handumdrehen ein Urlaubsgefühl.  
 
 
 ## Gut zu wissen:
+
 - Stromzähler – Pauschale Wasser
 - Gasflaschen
 - Kein winterfester Wasseranschluss – Sanitärgebäude bleibt geöffnet
@@ -52,6 +54,4 @@ Zähler                | € 18
 
 ## Plan Campingplatz
 
-[invoegen plan][plan.de]
-aanduiden met kleur op plan welke percelen - Joke?
-
+![Plan Campingplatz][plan.de]

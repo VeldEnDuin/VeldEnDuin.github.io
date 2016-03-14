@@ -47,6 +47,7 @@ insert:
 These chalets are situated in front, close to the playground. Well situated for families with children.
 
 ## Facilities chalet
+
 - spacious living room with flat screen and set top box
 - equipped kitchen with microwave
 - bathroom with shower, washbasin and toilet 
@@ -56,6 +57,7 @@ These chalets are situated in front, close to the playground. Well situated for 
 - garden furniture
     
 ## Worth knowing
+
 - chalet for 4 persons
 - dogs allowed - max 2 – no dangerous breeds
 - bookable throughout the year
@@ -80,15 +82,18 @@ OFF-SEASON          |MID SEASON     |    HIGH SEASON|
 November until March<br>except for holidays <br>& long weekends | April until June, <br>September & October, <br>holidays, <br>long weekends  | July & August
 
 ## Warranty
+
 - € 50 – to be paid in cash upon arrival
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
 
 ## included
+
 - parking 1 car
 - consumption gas - water - electricity
 - **exception**: costs of electricity and gas are excluded from 4 nights from 1/11 - 31/3
 
 ## Extra Services
+
 EXTRA SERVICE               | PRICE
 :-------------------|:-----------|
 cleaning          | € 40 - final cleaning by tenants is allowed
@@ -106,4 +111,4 @@ parking place extra car  | € 4 / started day
 
 ## Plan campsite
 
-![Plan van de camping][plan.en]
+![Plan campsite][plan_verhuur.en]

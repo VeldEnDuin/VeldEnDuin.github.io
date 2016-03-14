@@ -26,10 +26,12 @@ De nieuwe site www.veldenduin.be wordt beheerd in Github - Brackets.
 ## Achtergrond en begrippen
 
 ### Git / Github
+
 Git is een lokaal versiebeheersysteem. Het wordt gebruikt om alle code (techniek / stijl / teksten) van de site te beheren. Om die versies publiek te maken, wordt github gebruikt. 
 Git en github worden aangestuurd vanuit brackets.
 
-### Brackets 
+### Brackets
+
 - wordt gebruikt voor het tekstbeheer en de opmaak maw hier worden de teksten van de site ingevoerd.
 - in brackets wordt gebruik gemaakt van:
     - md: om teksten te schrijven met een minimale formatering (= vereenvoudigde html). Via de markdown (= icoontje rechts met M + pijl naar beneden) krijg je een ingebouwde preview van de tekst zodat je meteen kunt checken hoe ingegeven tekst er ongeveer zal uitzien.
@@ -45,6 +47,7 @@ In brackets worden door de receptie enkel aan volgende bestanden en folders aanp
     
 
 #### iconen (extenties) in brackets
+
 rechts bovenaan (van boven naar onder):
 - platte bliksemschicht (live voorbeeld): niet gebruiken. 
 - legosteentje (extensiebeheer): als er updates zijn die nog niet geïnstalleerd werden, wordt dit legosteentje groen. Updaten kan dan door te klikken op de betreffende knop + sluiten.
@@ -55,6 +58,7 @@ rechts bovenaan (van boven naar onder):
 
 
 ## Aanmaken nieuwe webpagina
+
 Bij aanmaak van een nieuwe webpagina moeten steeds een aantal stappen gerespecteerd worden. 
 
 **Belangrijk**:
@@ -63,6 +67,7 @@ gebruik geen spaties, in plaats daarvan:
 - in linkcodes: gebruik underscore '_' 
 
 ### Stap 1: nieuwe webpagina maken
+
 - Maak nieuwe *md-file aan (info over lay-out volgt verder).
 - Van zodra je een nieuwe *md-file bewaart, wordt er - achter de schermen - automatisch meteen ook een html webpagina aangemaakt.
 
@@ -73,6 +78,7 @@ Voorbeeld:
 ! *md-files worden in brackets alfabetisch getoond. De volgorde die je op je site wil, wordt vastgelegd in de _data menu.yml.
 
 ### Stap 2: aanmaken linkcodes
+
 Linkcodes worden aangemaakt in _data --> linkcode.yml. 
 Hierin vind je het overzicht van alle mogelijke linkbare webpagina's waarnaar je kunt linken.
 
@@ -93,6 +99,7 @@ verhuur_appartement: (= taalonafhankelijke code)
 - De volgorde van de linkcodes is vrij maar best groeperen per submenu. 
 
 ### Stap 3: navigatie bepalen
+
 Met navigatie bedoelen we die set van links die op verschillende pagina's (en verschillende niveaus) terugkomen.
 De verschillende niveaus van het menu (hoofdmenu - submenu - subsubmenu...) worden beheerd via _data --> menu.yml.
 
@@ -116,6 +123,7 @@ De vermelde ```{link-code}``` code is een verwijzing naar de oplijsting van alle
 Het niveau van 'inspringen' in deze bestanden is cruciaal voor het gewenste effect. Inspringen kan met tab of spatie.
 
 ##### Tips & tricks
+
 - CTRL SHFT pijltje omhoog: geselecteerde tekst naar boven verschuiven
 - CTRL SHFT pijltje omlaag: geselecteerde tekst naar beneden verschuiven
 - CTRL D: dupliceren van huidige lijn of selectie
@@ -123,6 +131,7 @@ Het niveau van 'inspringen' in deze bestanden is cruciaal voor het gewenste effe
 - CTRL Z: undo
 
 ## Md-file maken
+
 Om nieuw bestand te maken in een bepaalde taalfolder:
 op taal staan - rechtermuisklik - nieuw bestand.
 
@@ -140,6 +149,7 @@ Deze pagina's worden best per taal georganiseerd. Deze site bevat reeds specifie
 Om een taal toe te voegen kun je een nieuwe folder beginnen, en ze uitwerken in het [langs.yml] bestand.
 
 ### Opmaak
+
 Opmaak kan door de zogenaamde [Markdown notatie](https://help.github.com/articles/github-flavored-markdown/) te gebruiken. Hieronder een opsomming van de meest nuttige mogelijkheden:
 
 **bold:** 
@@ -172,7 +182,9 @@ Zonder de lege tussenlijn worden teksten aan dezelfde paragraaf toegevoegd.
 **titels:** Door een aantal ```#``` tekens aan het begin van de lijn te hanteren (een lege lijn vooraf is nodig!) bouw je een hoofding van een bepaald niveau (het aantal ```#``` bepaalt het niveau)
 
 # titel 1
+
 ## titel 2
+
 ### titel 3 (enz.)
 
 **tabellen:** kun je aanmaken door de kolommen met ```|``` tekens te scheiden en (belangrijk) ook de eerste rij van de volgende te scheiden met ```---|---``` lijnen.
@@ -273,7 +285,9 @@ De link via [klikbaar woord](http://anderewebsite.be) naar de andere site.
 ```
 
 ## Banner - callout - imagestrip
+
 ### Banner
+
 - standaard staat de banner uit (uitgezonderd bij de landingspagina, daar staat banner automatisch aan)
 - banner toevoegen kan in de prelude:
 
@@ -292,6 +306,7 @@ Let er wel op dat dit beeld breed genoeg is, en ook centraal-onderaan het meest 
 
 
 ### Callout
+
 - standaard bevat de banner een callout (= witte balk met reservatie aanvraag knop). 
 - de callout kun je verbergen:
 
@@ -309,6 +324,7 @@ callout: "dit is de andere tekst"
 
 
 ### Imagestrip
+
 Staat standaard aan. Indien je wil dat die op een bepaalde pagina uit staat, pas je dit aan in de prelude:
 
 ```yml
@@ -433,7 +449,9 @@ images:
 ### Andere 
 
 ## Banner - callout - imagestrip
+
 ### Banner
+
 - standaard staat de banner uit (uitgezonderd bij de landingspagina, daar staat banner automatisch aan)
 - banner toevoegen kan in de prelude:
 
@@ -442,6 +460,7 @@ insert:
   - banner
 ```
 ### Callout
+
 - standaard bevat de banner een callout (= witte balk met reservatie aanvraag knop). 
 - de callout kun je verbergen:
 
@@ -459,6 +478,7 @@ callout: "dit is de andere tekst"
 
 
 ### Imagestrip
+
 Staat standaard aan. Indien je wil dat die op een bepaalde pagina uit staat, pas je dit aan in de prelude:
 
 ```yml
@@ -621,9 +641,11 @@ data/{name}.yml
             
 ```
 ## Commit / Push / Pull
+
 Als je aanpassingen gedaan hebt, moet dit ook doorgevoerd worden zodat het 'definitief' wordt. Dit gebeurt in 3 stappen:
 
 ### Commit
+
 = aangeven dat iets afgewerkt is, bevestigen dat je klaar bent met een bepaalde wijziging.
 
 Hoe?
@@ -635,7 +657,8 @@ Als je het item dat gewijzigd werd aanvinkt, kun je ofwel committen ofwel 'disca
 
 Om te committen is er geen internetverbinding nodig.
 
-## push / pull
+### push / pull
+
 = synchroniseren van de gecommitte elementen met de server. 
 
 Pull: binnentrekken van de wijzingen die anderen hebben aangebracht.

@@ -43,14 +43,17 @@ insert:
 {% include links.md %}
 
 # EMPLACEMENT TENTE 7x8
+
 Ces emplacements de 7x8 mètres conviennent parfaitement aux petites tentes (à montage rapide).  
 
 
-##Bon à savoir
+## Bon à savoir
+
 - max. 4 personnes / emplacement
 - chiens admis – max. 2 – pas de races dangereuses
 
-##Prix
+## Prix
+
 NOMBRE DE PERSONNES | PRIX / NUIT     
 :------------------:|:-----------:|
 1 personne          |€ 18              
@@ -63,6 +66,6 @@ NOMBRE DE PERSONNES | PRIX / NUIT
 
 {% include fr/camping-reuse.md %}
 
-##Plan camping
+## Plan camping
 
-[invoegen plan][plan.fr]
+![Plan du camping][plan_trekkers.fr]

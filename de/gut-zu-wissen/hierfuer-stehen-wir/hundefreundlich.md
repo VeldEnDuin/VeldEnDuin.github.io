@@ -17,11 +17,13 @@ remove:
 ---
 
 # Hundefreundlich
+
 Ihr Hund ist auf dem Campingplatz recht herzlich willkommen.<br>
 Auch in den Mietchalets und Wohnwagen sind Hunde willkommen, nicht jedoch in den (Luxus-)Appartements.<br>
 
 
 ## Spielregeln 
+
 Hundebesitzer sind immer für ihren Hund haftbar. Hier ein paar Spielregeln, die streng befolgt werden müssen, sodass andere Gäste nicht belästigt werden:
 
 - Haustiere auf dem Campingplatz gehören an die Leine.
@@ -36,9 +38,9 @@ Ein Hund kann im gegenüberliegenden Paelsteenveld-Park oder am Strand ausgefüh
 
 ### Strand
 
-- 1.9. bis 30.6.: Hunde sind den ganzen Tag über am Strand und in den Dünen zugelassen.
-- 1.7. bis 31.8.: Abgesehen von den befestigten Wegen sind Hunde **zwischen 10:30 und 18:30 Uhr** am Strand und in den Dünen **nicht zugelassen**. Ausnahmen:    
+- 15.10. bis 15.03.: Hunde dürfen am Strand und im Wasser frei herumtollen.
+- 15.03. bis 30.06. & 01.09. bis 15.10.: Hunde sind erlaubt aber müssen angeleint sein.
+- 1.7. bis 31.8.: Hunde sind **zwischen 10:30 und 18:30 Uhr** am Strand **nicht zugelassen**. Ausnahmen:    
     - Strandbereiche nach Strandposten 1 (Twinsclub) bis zur Grenze von Ostende
     - Bereich zwischen Strandposten 6 und dem Nacktbadestrand 
 
-Hunde müssen auch am Strand und in den Dünen an der Leine geführt werden.

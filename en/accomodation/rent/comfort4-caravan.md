@@ -50,6 +50,7 @@ insert:
 Staying in a caravan raises memories of authentic camping even more. The mix of camping and the comforts of home therefore guarantee a charming stay.
 
 ## Facilities caravan
+
 - spacious living room with flat screen and set top box
 - equipped kitchen with microwave
 - bathroom with shower, washbasin and toilet 
@@ -59,6 +60,7 @@ Staying in a caravan raises memories of authentic camping even more. The mix of 
 - garden furniture
     
 ## Worth knowing
+
 - caravan for 4 persons
 - dogs allowed - max 2 – no dangerous breeds
 - not available between 15/11 and 15/3
@@ -83,15 +85,18 @@ MID SEASON      |    HIGH SEASON|
  April until June, <br>September & October, <br>holidays, <br>long weekends  | July & August
 
 ## Warranty
+
 - € 50 – to be paid in cash upon arrival
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
 
 ## Included
+
 - parking 1 car
 - consumption gas-water-electricity
 
 
 ## Extra Services
+
 EXTRA SERVICE               | PRICE
 :-------------------|:-----------|
 cleaning          | € 40 - final cleaning by tenants is allowed
@@ -109,4 +114,4 @@ parking place extra car  | € 4 / started day
 
 ## Plan campsite
 
-![Plan van de camping][plan.en]
+![Plan campsite][plan_verhuur.en]

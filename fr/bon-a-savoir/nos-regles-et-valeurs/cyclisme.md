@@ -22,11 +22,13 @@ remove:
 
 {% include links.md %}
 
-#Cyclisme
+# Cyclisme
+
 Partez en vélo à la découverte des autres stations balnéaires ou des polders de l’arrière-pays. Les amateurs de culture et de sport peuvent longer le canal jusqu’au cœur historique de Bruges.
 
 
-##Réseau de pistes cyclables
+## Réseau de pistes cyclables
+
 La côte et les polders sont intégralement parcourus par le [réseau de pistes cyclables] [fietsnet.fr] vous permettant de tracer aisément votre propre parcours.<br>
 Veld & Duin se situe à environ 1400 mètres du point nodal le plus proche (réseau de pistes cyclables du littoral – point nodal numéro 96).
 
@@ -44,7 +46,8 @@ Nous mettons notamment à votre disposition:
 - des râteliers à vélo à la réception et sur le terrain de jeu
 
 
-##Info pratique
+## Info pratique
+
 Saviez-vous que vous pouviez emmener gratuitement votre vélo à bord du [bac][overzetboot.fr] entre Bredene et Ostende?
 
 

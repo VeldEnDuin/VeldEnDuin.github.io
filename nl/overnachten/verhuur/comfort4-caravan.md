@@ -45,11 +45,12 @@ insert:
 
 {% include links.md %}
 
-#Caravan comfort 4 
+# Caravan comfort 4 
 
 Een caravan roept nog meer de herinnering op aan het authentieke kamperen. De mix met het comfort van thuis staat dan ook garant voor een sfeervol verblijf.
 
-##Inrichting caravan
+## Inrichting caravan
+
 - ruime woonkamer met tv en digibox
 - ingerichte keuken met microgolf
 - badkamer met douche, wastafel en toilet
@@ -58,12 +59,13 @@ Een caravan roept nog meer de herinnering op aan het authentieke kamperen. De mi
     - 2 kamers met enkelbed 2x (80x200) 
 - tuinmeubilair
     
-##Goed om weten
+## Goed om weten
+
 - caravan voorzien voor 4 personen
 - honden toegelaten - max 2 - geen gevaarlijke rassen 
 - niet boekbaar tussen 15/11 en 15/3
 
-##Prijzen
+## Prijzen
 
 PERIODE             | TUSSENSEIZOEN | HOOGSEIZOEN |
 :------------------:|:-------------:|:-----------:|
@@ -76,22 +78,25 @@ extra nacht > 7 n    |€ 49           | € 77
 14 nachten          |€ 685          | € 1025
 
 
-##Periodes
+## Periodes
 
 TUSSENSEIZOEN      |    HOOGSEIZOEN|
 :--------------------:|:-----------------:|:-------------:|
  april tot juni, <br>september en oktober, <br>schoolvakanties, <br>verlengde weekends  | juli en augustus
 
-##Waarborg
+## Waarborg
+
 - € 50 - contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
 
-##Inbegrepen
+## Inbegrepen
+
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
 
 
-###Extra's
+## Extra's
+
 EXTRA               | PRIJS 
 :-------------------|:-----------|
 schoonmaak          | € 40 - zelf schoonmaken kan
@@ -107,6 +112,6 @@ parking extra auto  | € 4 / begonnen dag
 [Veld & Duin service][veld_duin_service.nl]| € 60
 
 
-##Plan camping
+## Plan camping
 
-![Plan van de camping][plan.nl]
+![Plan van de camping][plan_verhuur.nl]

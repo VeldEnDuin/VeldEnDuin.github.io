@@ -43,13 +43,16 @@ insert:
 {% include links.md %}
 
 # EMPLACEMENT TENTE 10x8
+
 Optez pour une véritable expérience de camping et passez des vacances sous tente avec toute la famille. Vos voisins campeurs seront certainement ravis de partager avec vous ces instants de convivialité. 
 
-##Bon à savoir
+## Bon à savoir
+
 - max. 6 personnes / emplacement
 - chiens admis : max. 2 – pas de races dangereuses
 
-##Prix
+## Prix
+
 NOMBRE DE PERSONNES | PRIX / NUIT     
 :------------------:|:-----------:|
 1 personne          |€ 20              
@@ -63,6 +66,6 @@ NOMBRE DE PERSONNES | PRIX / NUIT
 
 {% include fr/camping-reuse.md %}
 
-##Plan camping
+## Plan camping
 
-[invoegen plan][plan.fr]
+![Plan du camping][plan_trekkers.fr]

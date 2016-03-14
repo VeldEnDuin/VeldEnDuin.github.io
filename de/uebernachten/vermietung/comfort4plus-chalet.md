@@ -49,6 +49,7 @@ insert:
 Nach einem herrlichen Tag am Strand oder einem Ausflug in die Umgebung lockt die überdachte Terrasse (und der Aperitif), um den Tag noch einmal Revue passieren zu lassen oder schon Pläne für die nächsten Tage zu schmieden.  
 
 ## Einrichtung Chalet:
+
 - Großes Wohnzimmer mit Flachbildschirm-TV und Digibox
 - Eingerichtete Küche mit Mikrowelle
 - Badezimmer mit Dusche, Waschbecken und Toilette
@@ -58,6 +59,7 @@ Nach einem herrlichen Tag am Strand oder einem Ausflug in die Umgebung lockt die
 - Überdachte und abgeschlossene Terrasse mit Gartenmöbeln
     
 ## Gut zu wissen:
+
 - Chalet vorgesehen für 4 Personen
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 - Ganzjährig buchbar
@@ -82,15 +84,18 @@ NACHSAISON           |NEBENSAISON      |    HOCHSAISON|
 November bis März<br>ausgenommen Schulferien <br>und verlängerte Wochenenden | April bis Juni, <br>September und Oktober, <br>Schulferien, <br>verlängerte Wochenenden   | Juli und August
 
 ## Kaution
+
 - € 50, bar zu bezahlen bei der Anreise
 - Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
 
 ## Inbegriffen
+
 - Parkplatz für 1 Auto
 - Verbrauch von Gas, Wasser und Strom
 - **Ausnahme**: Verbrauch Strom und Gas ist exklusive ab 4 Nächte von 1/11. - 31/3.  
 
 ## Extras
+
 EXTRA               | PREIS 
 :-------------------|:-----------|
 Reinigung          | € 40 - selbst reinigen ist gestattet
@@ -108,5 +113,4 @@ Parkplatz extra Auto  | € 4 / angefangenem Tag
 
 ## Plan Campingplatz
 
-[invoegen plan][plan.de]
-aanduiden met kleur op plan welke percelen - Joke?
+![Plan Campingplatz][plan_verhuur.de]

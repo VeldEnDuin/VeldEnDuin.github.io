@@ -58,12 +58,12 @@ Deze mini-caravan met privé-tuintje is ideaal voor wie houdt van het buitenleve
     - 1 kamer met 2 aparte bedden (80x200)
 - privé-tuintje met tuinmeubilair
     
-##Goed om weten
+## Goed om weten
 - gezien de beperkte oppervlakte wordt de caravan - ondanks de 2 slaapkamers - voor max 2 personen verhuurd
 - kleine hond toegelaten maar houd er rekening mee dat de woonruimte beperkt is
 - niet boekbaar tussen 15/11 en 15/3
 
-##Prijzen
+## Prijzen
 
 PERIODE                |TUSSENSEIZOEN | HOOGSEIZOEN  |
 :---------------------:|:------------:|:------------:|
@@ -76,22 +76,23 @@ extra nacht > 7 n       |€ 45          |€ 69          |
 14 nachten             |€ 610         |€ 915         | 
 
 
-##Periodes
+## Periodes
 
 TUSSENSEIZOEN      |    HOOGSEIZOEN|
 :--------------------:|:-----------------:|:-------------:|
  april tot juni, <br>september en oktober, <br>schoolvakanties, <br>verlengde weekends  | juli en augustus
 
-##Waarborg
+## Waarborg
 - € 50 - contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
 
-##Inbegrepen
+## Inbegrepen
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
 
 
-##Extra's
+## Extra's
+
 EXTRA               | PRIJS 
 :-------------------|:-----------|
 schoonmaak          | € 40 - zelf schoonmaken kan
@@ -107,6 +108,6 @@ parking extra auto  | € 4 / begonnen dag
 [Veld & Duin service][veld_duin_service.nl]| € 50
 
 
-##Plan camping
+## Plan camping
 
-![Plan van de camping][plan.nl]
+![Plan van de camping][plan_verhuur.nl]

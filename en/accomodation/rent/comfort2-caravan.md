@@ -49,6 +49,7 @@ insert:
 This mini-caravan with private garden is suitable for those who love being outdoors but still love to cook their own meals or have a refreshing shower.
 
 ## Facilities caravan
+
 - small living room with TV and set top box
 - kitchen with cooker (2 hot plates) and small microwave
 - bathroom with shower and washbasin
@@ -59,6 +60,7 @@ This mini-caravan with private garden is suitable for those who love being outdo
 - private garden with garden furniture
     
 ## Worth knowing
+
 - the caravan is suitable for 2 people because the space is limited
 - a small pet is allowed but keep in mind that the space is limited
 - not available betweem 15/11 and 15/3
@@ -83,15 +85,18 @@ MID SEASON      |    HIGH SEASON|
  April until June, <br>September & October, <br>holidays, <br>long weekends  | July & August
 
 ## Warranty
+
 - € 50 – to be paid in cash upon arrival
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
 
 ## Included
+
 - parking 1 car
 - consumption gas-water-electricity
 
 
 ## Extra Services
+
 EXTRA SERVICE            | PRICE 
 :-------------------|:-----------|
 cleaning          | € 40 - final cleaning by tenants is allowed
@@ -107,6 +112,6 @@ parking place extra car  | € 4 / started day
 [Veld & Duin service][veld_duin_service.en]| € 50
 
 
-##Plan campsite
+## Plan campsite
 
-![Plan van de camping][plan.en]
+![Plan campsite][plan_verhuur.en]

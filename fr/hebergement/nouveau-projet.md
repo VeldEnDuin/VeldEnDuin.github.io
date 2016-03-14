@@ -14,7 +14,7 @@ images:
 ---
 
 
-#Nouveau projet
+# Nouveau projet
 
 Cet ambitieux projet prévoit la réduction du nombre d’emplacements de 83 à 53 de sorte à offrir plus d’espace et de confort à nos campeurs.
 
@@ -25,3 +25,5 @@ Les 10 premiers emplacements ont été aménagés en 2014-2015. Cet hiver, 7 au
 Plusieurs emplacements de luxe sont encore disponibles. Si vous êtes intéressé(e) ou si vous connaissez une personne à la recherche d’un bel emplacement, n’hésitez pas à nous contacter.
 
 Nous serons toujours ravis de vous accueillir pour une visite sur place.
+
+![3D plan nouveau projet][plan3d.fr]

@@ -25,3 +25,5 @@ Die Arbeiten erfolgen jeweils im Winter und in Phasen.
 Derzeit sind noch einige dieser Luxusplätze frei. Haben Sie selbst Interesse oder kennen Sie jemanden, der einen schönen Platz sucht, dann zögern Sie nicht, mit uns Kontakt aufzunehmen.
 
 Selbstverständlich sind Sie jederzeit willkommen, um sich alles einmal vor Ort anzusehen.
+
+![3D plan neues projekt][plan3d.de]

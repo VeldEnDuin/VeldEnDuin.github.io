@@ -1,12 +1,12 @@
 name: Veld & Duin
 
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-highlighter: pygments
+highlighter: rouge
 
 description: Veld & Duin, Camping Bredene
-url: http://veldenduin.be
+url: http://www.veldenduin.be
 
 keywords:
   - camping
@@ -44,6 +44,7 @@ fb-app-id: "357843984399164"
 gp-id: "111743051856683336205"
 gcse:
     apikey: "AIzaSyCMGfdDaSfjqv5zYoS0mTJnOT3e9MURWkU"
+    striplink: (www\\.)?veldenduin\\.be/?
 
 strip-album: "www-footer-imgstrip"
 play-album: "www-foto-album"

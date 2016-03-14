@@ -49,6 +49,7 @@ insert:
 Diese neuen Luxusappartements liegen über der Rezeption und bieten einen herrlichen Ausblick auf die Blumenpracht an der Zufahrt zum Campingplatz.
 
 ## Einrichtung Luxusappartement
+
 - Großes Wohnzimmer mit Flachbildschirm-TV und Digibox
 - Eingerichtete Küche mit Geschirrspülmaschine und Mikrowelle
 - Badezimmer mit Dusche, Waschbecken und Toilette
@@ -63,6 +64,7 @@ Diese neuen Luxusappartements liegen über der Rezeption und bieten einen herrli
 
     
 ## Gut zu wissen:
+
 - Appartement 1. Stock: höchstens 5 Personen
 - Appartement 2. Stock: höchstens 6 Personen
 - Haustiere nicht zugelassen, jedoch möglich in Chalets oder Caravans
@@ -89,15 +91,18 @@ NACHSAISON           |NEBENSAISON      |    HOCHSAISON|
 November bis März<br>ausgenommen Schulferien <br>und verlängerte Wochenenden | April bis Juni, <br>September und Oktober, <br>Schulferien, <br>verlängerte Wochenenden   | Juli und August
 
 ## Kaution
+
 - € 50, bar zu bezahlen bei der Anreise
 - Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
 
 ## Inbegriffen
+
 - Parkplatz für 1 Auto
 - Verbrauch von Wasser und Strom
 - **Ausnahme**: Verbrauch Strom ist exklusive ab 4 Nächte von 1/11. - 31/3.  
 
 ## Extras
+
 EXTRA               | PREIS 
 :-------------------|:-----------|
 Reinigung          | € 50 - selbst reinigen ist gestattet
@@ -114,5 +119,4 @@ Parkplatz extra Auto  | € 4 / angefangenem Tag
 
 ## Plan Campingplatz
 
-[invoegen plan][plan.de]
-aanduiden met kleur op plan welke percelen - Joke?
+![Plan Campingplatz][plan_verhuur.de]

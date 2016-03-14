@@ -29,12 +29,14 @@ insert:
 To enjoy your stay even more, we offer you the following service package. Make the most of your holiday and book this extra service.
 
 ## Offer includes
+
 - final cleaning
 - bed linen for all beds (will be ready at the reception)
 - internet for 2 appliances
 
 
 ## Worth knowing
+
 - valid for all rental accomodations
 - the whole year through available
 
@@ -49,7 +51,3 @@ comfort 4           |€ 60
 comfort 4 plus      |€ 60  
 luxury apartment    |€ 75         
         
-
-
-
-

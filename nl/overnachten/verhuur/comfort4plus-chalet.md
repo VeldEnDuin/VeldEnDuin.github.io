@@ -57,12 +57,13 @@ Na een heerlijk dagje strand of een uitstapje in de buurt lonkt het overdekte te
     - 1 kamer met stapelbed 2x (90x200) 
 - overdekt en afgesloten terras met tuinmeubilair
     
-##Goed om weten
+## Goed om weten
+
 - chalet voorzien voor 4 personen
 - honden toegelaten - max 2 - geen gevaarlijke rassen
 - het hele jaar door boekbaar
 
-##Prijzen
+## Prijzen
 
 PERIODE             | LAAGSEIZOEN | TUSSENSEIZOEN | HOOGSEIZOEN |
 :------------------:|:-----------:|:-------------:|:-----------:|
@@ -75,22 +76,25 @@ extra nacht > 7 n    |€ 45         |€ 55           | € 84
 14 nachten          |€ 650        |€ 755          | € 1125
 
 
-##Periodes
+## Periodes
 
 LAAGSEIZOEN           |TUSSENSEIZOEN      |    HOOGSEIZOEN|
 :--------------------:|:-----------------:|:-------------:|
 november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni, <br>september en oktober, <br>schoolvakanties, <br>verlengde weekends  | juli en augustus
 
-##Waarborg
+## Waarborg
+
 - € 50 - contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
 
-##Inbegrepen
+## Inbegrepen
+
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
 - **uitzondering**: verbruik gas en elektriciteit is exclusief bij huur vanaf 4 nachten van 1/11 - 31/3
 
-##Extra's
+## Extra's
+
 EXTRA               | PRIJS 
 :-------------------|:-----------|
 schoonmaak          | € 40 - zelf schoonmaken kan
@@ -106,6 +110,6 @@ parking extra auto      | € 4 / begonnen dag
 [Veld & Duin service][veld_duin_service.nl]| € 60
 
 
-##Plan camping
+## Plan camping
 
-![Plan van de camping][plan.nl]
+![Plan van de camping][plan_verhuur.nl]

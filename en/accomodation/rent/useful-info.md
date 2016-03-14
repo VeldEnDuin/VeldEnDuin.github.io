@@ -13,6 +13,7 @@ icon: info-sign
 {% include en/payment-cxd-reuse.md %}
 
 ## Arrival and departure
+
 - arrival:  as from 14 hrs
 - departure: before 10 hrs
 
@@ -22,8 +23,6 @@ Do you want to check in after opening hours? No problem, but give us a call befo
 
 ## Inventory
 
-                         |                    |                      |               |
-:-----------------------:|:------------------:|:--------------------:|:--------------:
 beer/wine/water glasses  |chlidren’s cutlery  |cooking pots          |brush                              
 plates                   |potatoe knife       |pans                  |squeegee
 cups                     |lettuce cutlery     |salad spinner         |window wiper

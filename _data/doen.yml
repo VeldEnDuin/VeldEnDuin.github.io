@@ -332,7 +332,7 @@ items:
     de: http://www.boudewijnseapark.be
     en: http://www.boudewijnseapark.be
   title:
-    nl: Bouwewijn Seapark
+    nl: Boudewijn Seapark
     fr: Boudewijn Seapark
     de: Boudewijn Seapark
     en: Boudewijn Seapark
@@ -1098,23 +1098,27 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 115
-  location: 51.233696, 2.972101
+- ranking: 95
   subgroups:
-  - recrea
+  - coast
+  - city
   images:
-  - "/img/doen/bungee.jpg"
+  - "/img/doen/coastgreeters.jpg"
   link:
+    nl: http://www.dekust.be/belgiancoastgreeters/ontmoet-onze-belgian-coast-greeters
+    fr: http://www.lelittoral.be/belgiancoastgreeters/rencontrez-et-réservez-un-greeter
+    de: http://www.belgischekueste.be/node/94300
+    en: http://www.belgiancoast.co.uk/belgiancoastgreeters/book-and-meet-greeter
   title:
-    nl: Bungee jumpen
-    fr: Saut à l’élastique
-    de: Bungee Jumping
-    en: Bungee jumping
+    nl: Belgian Coast Greeters
+    fr: Belgian Coast Greeters
+    de: Belgian Coast Greeters
+    en: Belgian Coast Greeters
   caption:
-    nl: waag een sprong van de watertoren
-    fr: oserez-vous sauter dans le vide depuis le sommet du château d’eau?
-    de: Wagen Sie einen Sprung vom Wasserturm
-    en: venture a leap from the water tower
+    nl: gratis gidsbeurten
+    fr: tours guidés gratuits
+    de: kostenlose geführte Tours
+    en: free guided tour
 subgroups:
   nl:
     coast: kustbeleving

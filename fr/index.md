@@ -4,7 +4,6 @@ title: Camping Veld & Duin
 
     
 select:
-    - wedstrijd
     - verhuur
     - nieuw_project
     
@@ -17,7 +16,7 @@ callout: Curieux(-se) de découvrir les offres de Veld & Duin ? Consultez notre 
 ---
 {% include links.md %}
 
-##Bienvenue!
+## Bienvenue!
 
 Depuis plusieurs années, l’entreprise familiale **Veld & Duin** est ravie de vous accueillir dans son camping vert, soigné et moderne.
 Nous sommes ouverts toute l’année, ce qui vous permet de venir recharger vos batteries à la côte en toute saison.

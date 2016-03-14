@@ -50,6 +50,7 @@ insert:
 Ein Wohnwagen erinnert noch stärker an das echte Campen. In Kombination mit dem von Zuhause gewöhnten Komfort garantiert er daher einen Aufenthalt mit Flair.
 
 ## Einrichtung Caravan
+
 - Großes Wohnzimmer mit TV und Digibox
 - Eingerichtete Küche mit Mikrowelle
 - Badezimmer mit Dusche, Waschbecken und Toilette
@@ -59,6 +60,7 @@ Ein Wohnwagen erinnert noch stärker an das echte Campen. In Kombination mit dem
 - Gartenmöbel
     
 ## Gut zu wissen
+
 - Caravan vorgesehen für 4 Personen
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen 
 - Nicht buchbar zwischen 15.11. und 15.3.
@@ -83,15 +85,18 @@ NEBENSAISON      |    HOCHSAISON|
  April bis Juni, <br>September und Oktober, <br>Schulferien, <br>verlängerte Wochenenden  | Juli und August
 
 ## Kaution
+
 - € 50, bar zu bezahlen bei der Anreise
 - Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
 
 ## Inbegriffen
+
 - Parkplatz für 1 Auto
 - Verbrauch von Gas, Wasser und Strom 
 
 
 ## Extras
+
 EXTRA               | PREIS 
 :-------------------|:-----------|
 Reinigung          | € 40 - selbst reinigen ist gestattet
@@ -109,5 +114,4 @@ Parkplatz extra Auto  | € 4 / angefangenem Tag
 
 ## Plan Campingplatz
 
-[invoegen plan][plan.de]
-aanduiden met kleur op plan welke percelen - Joke?
+![Plan Campingplatz][plan_verhuur.de]

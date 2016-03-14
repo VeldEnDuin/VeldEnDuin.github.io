@@ -19,7 +19,7 @@ remove:
 ---
 {% include links.md %}
 
-#Animations Veld & Duin
+# Animations Veld & Duin
 
 Durant les vacances de Pâques, nous organisons 2 activités, dont une chasse aux œufs géante suivie d'un grand jeu.
 
@@ -29,7 +29,7 @@ Pour clôturer l’année en beauté, nous organisons une soirée vin chaud. Ré
 
 [Archive photographique animations Veld & Duin][pics.fr]
 
-##Calendrier Veld & Duin
+## Calendrier Veld & Duin
 
 **Vacances de Pâques 2016**
 
@@ -46,5 +46,6 @@ Pour clôturer l’année en beauté, nous organisons une soirée vin chaud. Ré
 | tous les vendredis de juillet et août| plus d’infos prochainement|
 
 
-##Animations à Bredene et dans les environs
+## Animations à Bredene et dans les environs
+
 De nombreuses animations sont organisées à la côte pour toute la famille. Nous vous informons sur les activités dans la région sur notre écran d’informations à l’entrée, sur les panneaux d’informations dans les unités de location ou sur notre [page-activités][doen.fr]. 

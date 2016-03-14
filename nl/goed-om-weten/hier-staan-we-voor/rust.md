@@ -18,7 +18,7 @@ remove:
 ---
 
 
-#Rust
+# Rust
 
 
 Vakantie bij Veld & Duin is even ontsnappen aan de dagelijkse sleur om zo terug de batterijen te kunnen opladen.<br>

@@ -23,18 +23,20 @@ insert:
 
 {% include links.md %}
 
-#TYPE 2 - CARAVANE 
+# TYPE 2 - CARAVANE 
+
 Venez-vous détendre dans votre caravane après une semaine de travail éreintante et rechargez vos batteries!
 
 
-##Bon à savoir
+## Bon à savoir
+
 - ces emplacements seront prochainement rénovés - voir [nouveau projet][nieuw_project.fr]
 - compteur électrique - forfait pour l’eau
 - bonbonnes de gaz
 - pas de raccordement à l’eau en hiver – le bâtiment sanitaire reste accessible
 
 
-##Prix
+## Prix
 
 TYPE 2                |PRIX            |
 :--------------------:|:--------------:|
@@ -54,8 +56,6 @@ compteur              | € 18
 
 
 
-##Plan du camping
+## Plan du camping
 
-[invoegen plan][plan.fr]
-aanduiden met kleur op plan welke percelen - Joke?
-
+![Plan du camping][plan.fr]

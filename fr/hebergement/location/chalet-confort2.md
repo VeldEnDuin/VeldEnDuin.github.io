@@ -48,7 +48,8 @@ insert:
 
 Envie de vous ressourcer seul ou à deux? Vous vous sentirez comme à la maison dans ce confortable chalet après une agréable journée à la côte.
 
-##Aménagement du chalet
+## Aménagement du chalet
+
 - grande salle de séjour avec écran plat et digibox
 - cuisine équipée avec four à micro-ondes
 - salle de bains avec douche, lavabo et toilettes
@@ -56,12 +57,13 @@ Envie de vous ressourcer seul ou à deux? Vous vous sentirez comme à la maison 
     - 1 chambre avec lit double (140x200)
 - mobilier de jardin
     
-##Bon à savoir
+## Bon à savoir
+
 - chalet d’une capacité de 2 personnes
 - 1 chien admis – pas de races dangereuses
 - non disponible à la réservation du 15/11 au 15/03
 
-##Prix
+## Prix
 
 PÉRIODE                |MI-SAISON     | HAUTE SAISON |
 :---------------------:|:------------:|:------------:|
@@ -74,22 +76,25 @@ nuitée supplémentaire > 7n |€ 45          |€ 69          |
 14 nuitées             |€ 610         |€ 915         | 
 
 
-##Périodes
+## Périodes
 
 MI-SAISON      |    HAUTE SAISON|
 :--------------------:|:-----------------:|:-------------:|
  avril à juin, <br>septembre et octobre, <br>vacances scolaires, <br>week-ends prolongés  | juillet et août
 
-##Caution
+## Caution
+
 - € 50 – à payer en liquide à l’arrivée
 - la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état
 
-##Inclus
+## Inclus
+
 - parking 1 voiture
 - consommation gaz - eau - électricité 
 
 
-##Suppléments
+## Suppléments
+
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
 nettoyage           | € 40 - le locataire est autorisé à faire le nettoyage lui-même
@@ -105,6 +110,6 @@ parking voiture supplémentaire  | € 4 / jour entamé
 [service Veld & Duin][veld_duin_service.fr]| € 50
 
 
-##Plan du camping
+## Plan du camping
 
-[invoegen plan][plan.fr]
+![Plan du camping][plan_verhuur.fr]

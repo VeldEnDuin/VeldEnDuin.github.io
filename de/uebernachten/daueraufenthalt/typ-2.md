@@ -24,10 +24,12 @@ insert:
 {% include links.md %}
 
 # TYPE 2 - WOHNWAGEN 
+
 Entschleunigen Sie nach einer hektischen Arbeitswoche in Ihrem Wohnwagen. So können Sie danach wieder frisch ans Werk gehen!
 
 
 ## Gut zu wissen:
+
 - diese Plätze werden in naher Zukunft erneuert – siehe [neues Projekt][nieuw_project.de]
 - Stromzähler – Pauschale Wasser
 - Gasflaschen
@@ -55,6 +57,4 @@ Zähler                | € 18
 
 ## Plan Campingplatz
 
-[invoegen plan][plan.de]
-aanduiden met kleur op plan welke percelen - Joke?
-
+![Plan Campingplatz][plan.de]

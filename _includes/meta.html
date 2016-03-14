@@ -9,6 +9,11 @@
 
 <meta name="author" content="Veld &amp; Duin" />
 <meta name="copyright" content="Veld &amp; Duin" />
+
+<!-- international targetting -->
+{% for codelink in site.data.linkcode %}{% if pgLink == codelink[1][pgLang] %}{% assign hrefLangVariants = codelink[1] %}{% endif %}{% endfor %}{% for lang in site.data.langs %}{% assign ln = lang[0] %}{% if hrefLangVariants[ln] %}
+<link rel="alternate" hreflang="{{ ln }}" href="{{ hrefLangVariants[ln] }}">{% endif %}{% endfor %}
+
 <!-- google+ direct link -->
 <link href="https://plus.google.com/+VeldenduinBe" rel="author" />
 <link href="https://plus.google.com/+VeldenduinBe" rel="publisher" />

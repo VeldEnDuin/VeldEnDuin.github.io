@@ -1,5 +1,5 @@
 
-##Goed om weten
+## Goed om weten
 - geldig voor elk verhuurtype
 - niet geldig voor de extra's
 - arrangement mogelijk volgens beschikbaarheid

@@ -23,7 +23,7 @@ insert:
 {% include links.md %}
 
 
-#Forfait 14 + 2
+# Forfait 14 + 2
 
 Pour toute réservation de 14 nuits ou plus, nous vous offrons 2 nuits gratuites. Vous pourrez ainsi profiter de ce temps supplémentaire pour découvrir à votre rythme les plus beaux coins de notre littoral et de l’arrière-pays.
 

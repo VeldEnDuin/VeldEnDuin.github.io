@@ -22,7 +22,7 @@ insert:
 {% include links.md %}
 
 
-#Forfait 7 + 1
+# Forfait 7 + 1
 
 Pour toute réservation de 7 nuits ou plus dans le cadre de ce forfait, nous vous offrons une nuit supplémentaire gratuite. Prolongez le plaisir pour pas un euro de plus! 
     

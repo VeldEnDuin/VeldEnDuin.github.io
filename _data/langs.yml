@@ -4,7 +4,12 @@ nl:
     months: ["januari", "februari", "maart", "april", "mei", "juni", "juli", "augustus", "september", "oktober", "november", "december"]
     id:
         cx: 012964731216503545400:onwjrjqskq8
-        resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
+        resa-form: 1Etxdk95a-hbqT4j0fXxXRn4U2lWTi6GWDExfWIgj4dg
+    lost:
+        nl: Verdwaald? We komen je graag redden!
+        fr: Perdu(e)? Nous venons à votre secours!
+        de: Verirrt? Wir retten Sie gern!
+        en: Lost? We’ll gladly come to your rescue!
     dict:
         all: alle
         latestnews: Laatste Nieuws
@@ -44,7 +49,7 @@ fr:
     months: ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"]
     id:
         cx: 012964731216503545400:onwjrjqskq8
-        resa-form: 1bwXpxs1BfAA0-fvCFty2bFR5rYWdNkq_8BkGERuDyiQ
+        resa-form: 1V_Y22o99fku-SzPJ2ixqMzWnwzrOpSDwYaiUYNEiFLM
     dict:
         all: tout
         latestnews: Actualité récente
@@ -84,7 +89,7 @@ de:
     months: ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"]
     id:
         cx: 012964731216503545400:onwjrjqskq8
-        resa-form: 1yOaMwa-1NtjfF-YkaYJLWCBXmAiqRC2pQ9-rtAw1gJc
+        resa-form: 1uRvmDG0GgujVV4jGti4bexsE5rC2idDKtxscnat-lP8
     dict:
         all: alle
         latestnews: Aktuelle Nachrichten
@@ -124,7 +129,7 @@ en:
     months: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
     id:
         cx: 012964731216503545400:onwjrjqskq8
-        resa-form: 1Tyx4Tpv3paNlIm80fpIfO80PaSXRd8XjICpmD1M0yfg
+        resa-form: 1Z9DTYbLmATS-CeLZFQSdyEnA1-_XjPQAOgWzXoiYoQg
     dict:
         all: all
         latestnews: Latest News

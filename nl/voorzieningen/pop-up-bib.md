@@ -19,7 +19,7 @@ remove:
 ---
 {% include links.md %}
 
-#Pop-up bibliotheek
+# Pop-up bibliotheek
 
 Vakantie... eindelijk tijd om u te verdiepen in een boek! 
 

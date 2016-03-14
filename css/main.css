@@ -603,7 +603,7 @@ svg.tagcloud {
 }
 .vd-select-submenu .vd-select-item-dimmer {
     padding: 1.5em 0.5em 0.5em 0.5em;
-    background-color: rgba(255,255,255,0.4);
+    background-color: rgba(255,255,255,0.6);
     border: 1px solid rgba(0,0,0,0.3);
     border-radius:  5px;
 }
@@ -689,107 +689,74 @@ button.vd-callout-btn:hover {
  *   -------------------------------------------------------------------------------
  */
 .vd-horacc {
-	width: 900px;  /* num items -1 * visible part + image width */
+	width: 900px !important;/* num items -1 * visible part + image width */
 	margin: 20px auto;
 	overflow: hidden;
-	box-shadow: 1px 1px 4px rgba(0,0,0,0.08);
-	border: 7px solid rgba(255,255,255,0.6);
+	border-radius:10px;
+    cursor: pointer;
 }
 
-.vd-horacc figure {
-    position: absolute;
-    top: 0;
-    left: 90px; /* width of visible piece */
-    width: 450px;
-    box-shadow: 0 0 0 1px rgba(255,255,255,0.6);
-    -webkit-transition: all 0.3s ease-in-out;
-    -moz-transition: all 0.3s ease-in-out;
-    -o-transition: all 0.3s ease-in-out;
-    -ms-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;
-}
-
-.vd-horacc > figure {
-    position: relative;
-    left: 0 !important;
-}
-
-
-.vd-horacc div.slide {
-    width: 450px;
+.vd-horacc .vd-horacc-section .vd-horacc-slide,
+.vd-horacc .vd-horacc-section .vd-horacc-cover {
     height: 600px;
+}
+
+.vd-horacc .vd-horacc-section {
+    float: left;
+    overflow: hidden;
+    position: relative;
+    width: 90px;
+
+    -webkit-transition: all 0.7s ease-in-out;
+       -moz-transition: all 0.7s ease-in-out;
+         -o-transition: all 0.7s ease-in-out;
+        -ms-transition: all 0.7s ease-in-out;
+            transition: all 0.7s ease-in-out;
+}
+
+.vd-horacc .vd-horacc-section.on,
+.vd-horacc .vd-horacc-section .vd-horacc-slide,
+.vd-horacc .vd-horacc-section .vd-horacc-cover {
+    width: 450px;
+}
+
+.vd-horacc .vd-horacc-section .vd-horacc-slide {
     background-size: cover;
     background-position: center center;
 }
 
-.vd-horacc input {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 90px;/* just cover visible part */
-    height: 100%;
-    cursor: pointer;
-    border: 0;
-    padding: 0;
-
-    z-index: 100;
-    -webkit-appearance: none;
-       /*
-       -moz-appearance: none;
-    */
-            appearance: none;
-}
-
-.vd-horacc input:checked{
-    width: 0px;
-    left: auto;
-    right: 0px;
-    height: 0px;
-}
-
-.vd-horacc input:checked ~ figure {
-    -webkit-transition: all 0.7s ease-in-out;
-    -moz-transition: all 0.7s ease-in-out;
-    -o-transition: all 0.7s ease-in-out;
-    -ms-transition: all 0.7s ease-in-out;
-    transition: all 0.7s ease-in-out;
-    left: 450px; /* width of image */
-}
-
-.vd-horacc figcaption {
-    width: 100%;
-    height: 100%;
-
-    background: rgba(184, 186, 138, 0.75);
-
+.vd-horacc .vd-horacc-section .vd-horacc-cover {
     position: absolute;
     top: 0px;
+    background: rgba(184, 186, 138, 0.75);
 
-    -webkit-transition: all 0.2s linear;
-    -moz-transition: all 0.2s linear;
-    -o-transition: all 0.2s linear;
-    -ms-transition: all 0.2s linear;
-    transition: all 0.2s linear;
+    -webkit-transition: all 0.7s ease-in-out;
+       -moz-transition: all 0.7s ease-in-out;
+         -o-transition: all 0.7s ease-in-out;
+        -ms-transition: all 0.7s ease-in-out;
+            transition: all 0.7s ease-in-out;
 }
 
-.vd-horacc figcaption span {
+.vd-horacc .vd-horacc-section.on .vd-horacc-cover,
+.vd-horacc .vd-horacc-section:hover .vd-horacc-cover {
+    background: rgba(184, 186, 138, 0);
+
+}
+
+.vd-horacc .vd-horacc-section .vd-horacc-caption {
+    position: absolute;
     left: 40px;
+    bottom: 20px;
+    white-space: nowrap;
+
     line-height: 20px;
     font-size: 18px;
     padding: 20px;
 
-    position: absolute;
-    top: 80%;
     overflow: hidden;
     text-align: center;
     background: rgba(79, 81, 55, 0.1);
     border-radius: 4px;
-
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    font-weight: 700;
-    color: #fff;
-    text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
 
     -webkit-transform: rotate(-90deg);
     -webkit-transform-origin: center left;
@@ -803,132 +770,138 @@ button.vd-callout-btn:hover {
     transform: rotate(-90deg);
     transform-origin: center left;
 
-    -webkit-transition: all 0.2s ease-in-out 0.3s;
-    -moz-transition: all 0.2s ease-in-out 0.3s;
-    -o-transition: all 0.2s ease-in-out 0.3s;
-    -ms-transition: all 0.2s ease-in-out 0.3s;
-    transition: all 0.2s ease-in-out 0.3s;
+    -webkit-transition: all 0.7s ease-in-out;
+       -moz-transition: all 0.7s ease-in-out;
+         -o-transition: all 0.7s ease-in-out;
+        -ms-transition: all 0.7s ease-in-out;
+            transition: all 0.7s ease-in-out;
 }
 
-.vd-horacc input:checked + figcaption,
-.vd-horacc input:checked:hover + figcaption {
-    background: rgba(184, 186, 138, 0);
+.vd-horacc .vd-horacc-section .vd-horacc-caption a span {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: 700;
+    color: #fff;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
 }
 
-.vd-horacc input:checked + figcaption span {
+.vd-horacc .vd-horacc-section.on .vd-horacc-caption,
+.vd-horacc .vd-horacc-section:hover .vd-horacc-caption {
     background: rgba(79, 81, 55, 0.65);
-    text-decoration: underline;
+    background: rgba(79, 81, 55, 0.65);
+}
 
+.vd-horacc .vd-horacc-section.on .vd-horacc-caption {
     -webkit-transform: rotate(0deg);
     -moz-transform: rotate(0deg);
     -ms-transform: rotate(0deg);
     filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
     -o-transform: rotate(0deg);
     transform: rotate(0deg);
-
-    -webkit-transition: all 0.4s ease-in-out 0.5s;
-    -moz-transition: all 0.4s ease-in-out 0.5s;
-    -o-transition: all 0.4s ease-in-out 0.5s;
-    -ms-transition: all 0.4s ease-in-out 0.5s;
-    transition: all 0.4s ease-in-out 0.5s;
-}
-
-.vd-horacc input:hover + figcaption {
-    background: rgba(79, 81, 55, 0);
-}
-
-.vd-horacc input:hover + figcaption span{
-    background: rgba(79, 81, 55, 0.65);
-}
-
-.vd-horacc input:checked ~ figure input{
-    z-index: 1;
 }
 
 @media screen and (max-width: 991px) {
     .vd-horacc {
-	    width: 700px;
+        width: 700px !important;/* num items -1 * visible part + image width */
     }
 
-    .vd-horacc figure {
-        left: 60px;
+    .vd-horacc .vd-horacc-section .vd-horacc-slide,
+    .vd-horacc .vd-horacc-section .vd-horacc-cover {
+        height: 600px;
+    }
+
+    .vd-horacc .vd-horacc-section {
+        float: left;
+        overflow: hidden;
+        position: relative;
+        width: 60px;
+    }
+
+    .vd-horacc .vd-horacc-section.on,
+    .vd-horacc .vd-horacc-section .vd-horacc-slide,
+    .vd-horacc .vd-horacc-section .vd-horacc-cover {
         width: 400px;
     }
 
-    .vd-horacc input {
-	    width: 60px;
-	}
-
-    .vd-horacc input:checked ~ figure {
-        left: 400px;
-    }
-
-    .vd-horacc figcaption span {
+    .vd-horacc .vd-horacc-section .vd-horacc-caption {
         left: 30px;
         line-height: 15px;
         font-size: 12px;
         padding: 15px;
     }
+
+    .vd-horacc .vd-horacc-section .vd-horacc-caption a span {
+        letter-spacing: 4px;
+    }
+
 }
 
 @media screen and (max-width: 767px) {
     .vd-horacc {
-	    width: 500px;
+        width: 500px !important;/* num items -1 * visible part + image width */
     }
 
-    .vd-horacc div.slide {
+    .vd-horacc .vd-horacc-section .vd-horacc-slide,
+    .vd-horacc .vd-horacc-section .vd-horacc-cover {
         height: 500px;
     }
 
-    .vd-horacc figure {
-        left: 40px;
+    .vd-horacc .vd-horacc-section {
+        float: left;
+        overflow: hidden;
+        position: relative;
+        width: 40px;
+    }
+
+    .vd-horacc .vd-horacc-section.on,
+    .vd-horacc .vd-horacc-section .vd-horacc-slide,
+    .vd-horacc .vd-horacc-section .vd-horacc-cover {
         width: 300px;
     }
 
-    .vd-horacc input {
-	    width: 40px;
-    }
-
-    .vd-horacc input:checked ~ figure {
-        left: 300px;
-    }
-
-    .vd-horacc figcaption span {
+    .vd-horacc .vd-horacc-section .vd-horacc-caption {
         left: 20px;
         line-height: 10px;
         font-size: 11px;
         padding: 10px;
+    }
+
+    .vd-horacc .vd-horacc-section .vd-horacc-caption a span {
         letter-spacing: 3px;
     }
 }
 
 @media screen and (max-width: 520px) {
     .vd-horacc {
-	    width: 300px;
+        width: 300px !important;/* num items -1 * visible part + image width */
     }
 
-    .vd-horacc div.slide {
+    .vd-horacc .vd-horacc-section .vd-horacc-slide,
+    .vd-horacc .vd-horacc-section .vd-horacc-cover {
         height: 350px;
     }
 
-    .vd-horacc figure {
-        left: 20px;
+    .vd-horacc .vd-horacc-section {
+        float: left;
+        overflow: hidden;
+        position: relative;
+        width: 20px;
+    }
+
+    .vd-horacc .vd-horacc-section.on,
+    .vd-horacc .vd-horacc-section .vd-horacc-slide,
+    .vd-horacc .vd-horacc-section .vd-horacc-cover {
         width: 200px;
     }
 
-    .vd-horacc input {
-	    width: 20px;
-    }
-
-    .vd-horacc input:checked ~ figure {
-	    left: 200px;
-    }
-
-    .vd-horacc figcaption span {
+    .vd-horacc .vd-horacc-section .vd-horacc-caption {
         left: 10px;
         line-height: 5px;
         font-size: 9px;
         padding: 5px;
+    }
+
+    .vd-horacc .vd-horacc-section .vd-horacc-caption a span {
         letter-spacing: 2px;
     }
 }
@@ -1181,7 +1154,7 @@ button.vd-callout-btn:hover {
     background-repeat: no-repeat;
 }
 
-a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:visited {
+a.vd-barelink, a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:visited {
     text-decoration: none;
 }
 
@@ -1401,10 +1374,15 @@ a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:vis
 .navbar a,
 .nav a,
 .nav-pills a,
-a div,
 a div.vd-news-teaser,
-a.notd,
 .notd,
+a.notd,
+a.notd div,
+a.notd span,
+.vd-barelink,
+a.vd-barelink,
+a.vd-barelink div,
+a.vd-barelink span,
 span.fa,
 span.glyphicon {
     text-decoration: none !important;

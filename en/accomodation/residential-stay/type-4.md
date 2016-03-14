@@ -28,6 +28,7 @@ insert:
 Would you like a big plot overlooking the wadi? Choose one of our luxurious places and enjoy the extra space.
 
 ## Worth knowing
+
 - all type 4 plots are situated around the wadi
 - concrete slab of 12x4 m – suitable for big caravans
 - separate meters for gas – water – electricity consumption
@@ -57,4 +58,4 @@ counter               | € 18 / counter
 
 ## Plan campsite
 
-![Plan van de camping][plan.en]
+![Plan campsite][plan.en]

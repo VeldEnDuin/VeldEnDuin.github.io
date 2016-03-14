@@ -13,6 +13,7 @@ icon: info-sign
 {% include fr/paiement-cxd-reuse.md %}
 
 ## Heures de départ et d’arrivée
+
 - arrivée: dès 14 h 
 - départ: avant 10 h
 
@@ -22,8 +23,6 @@ Si vous souhaitez arriver en dehors des heures d’ouverture de la réception, v
 
 ## Inventaire
 
-         |             |               |              |
-:---------------------:|:-----------:|:-------------:|:------------:
 Verres à bière/vin/eau |couverts pour enfants | casseroles     | brosse                              
 assiettes              |économe            | poêles            |ouvre-bouteille
 tasses                 |couverts à salade  |essoreuse à salade |raclette

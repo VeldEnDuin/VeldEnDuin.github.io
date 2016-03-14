@@ -16,17 +16,14 @@
             {% if pg.url == site.data.linkcode[select][pgLang] %}
                 {% unless pg.preview == false %}
                     {% assign figcount = figcount |plus: 1 %}
-      <figure>
-        <div class="slide" style="background-image: url('{{pg.images[0]}}')"></div>
-        <input type="radio" name="acc-set" {% if figcount == 1 %}checked="checked"{% endif %}/>
-        <figcaption><a href="{{pg.url}}"><span>{{pg.title}}</span></a></figcaption>
+      <div class="vd-horacc-section {% if figcount == 1 %}on{% endif %}">
+        <div class="vd-horacc-slide" style="background-image: url('{{pg.images[0]}}')"></div>
+        <div class="vd-horacc-cover"></div>
+        <div class="vd-horacc-caption"><a href="{{pg.url}}"><span>{{pg.title}}</span></a></div>
+      </div>
                 {% endunless %}
             {% endif %}
         {% endfor %}
-    {% endfor %}
-
-    {% for i in (1..figcount) %}
-      </figure>
     {% endfor %}
     </div>
   </div>

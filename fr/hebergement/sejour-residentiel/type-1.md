@@ -21,17 +21,19 @@ insert:
 
 {% include links.md %}
 
-#TYPE 1 - CARAVANE 
+# TYPE 1 - CARAVANE 
+
 Ces emplacements sont un peu plus petits mais vous vous y sentirez immédiatement en vacances. 
 
 
-##Bon à savoir
+## Bon à savoir
+
 - compteur électrique - forfait eau
 - bonbonne de gaz
 - pas de raccordement à l’eau en hiver – le bâtiment sanitaire reste accessible
 
 
-##Prix
+## Prix
 
 TYPE 1                                         |PRIX                               |
 :---------------------------------------------:|:----------------------------------:|
@@ -50,8 +52,6 @@ compteur              | € 18
 
 
 
-##Plan du camping
+## Plan du camping
 
-[invoegen plan][plan.fr]
-aanduiden met kleur op plan welke percelen - Joke?
-
+![Plan du camping][plan.fr]

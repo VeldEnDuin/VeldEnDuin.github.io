@@ -42,14 +42,17 @@ insert:
 {% include links.md %}
 
 # Forfait camping
+
 Vous souhaitez prendre de longues vacances d’un mois ou plus ? Découvrez nos différents forfaits. Vous trouverez certainement la formule adaptée à vos besoins.
 
-##Bon à savoir
+## Bon à savoir
+
 - max. 6 personnes / emplacement
 - chiens admis : max. 2 – pas de races dangereuses
 
 
-##Prix
+## Prix
+
 PÉRIODE        | PRIX       
 :-------------:|:-----------:|
 avril          |€ 320               
@@ -63,11 +66,12 @@ novembre       |€ 290
 avril-mai-juin |€ 695
 septembre-octobre-novembre |€ 695
 
-##Inclus
+## Inclus
+
 - taxes communales et de séjour
 - parking pour 1 voiture
 
-##Non inclus
+## Non inclus
 
 SUPPLÉMENT         | PRIJS 
 :------------------|:-----------|
@@ -78,6 +82,6 @@ parking 2ème voiture  |€ 4 / jour entamé
 [sauna][sauna.fr]         |€ 30
 [internet][internet.fr]   |prix en fonction de la durée de connexion
 
-##Plan du camping
+## Plan du camping
 
-[invoegen plan][plan.fr]
+![Plan du camping][plan_trekkers.fr]

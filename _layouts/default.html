@@ -4,7 +4,6 @@ tcs: [1,2,3,5,6,9]
 <!DOCTYPE html>
 {% include layout-prelude.html %}
 
-
 <html lang="{{ pgLang }}">
   <head>
     <meta charset="utf-8">
@@ -117,7 +116,7 @@ tcs: [1,2,3,5,6,9]
 <!--
           <span id="route-link" class="item"><a itemprop="map" title="route" href="/{{ pgLang }}/route.html"><span class="glyphicon glyphicon-map-marker"></span></a></span>
 -->
-          <span itemprop="geo" itemscope itemtype="http://schema.org/GeoCordinates">
+          <span itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
             <meta itemprop="latitude" content="{{ site.geolocation.lat }}" />
             <meta itemprop="longitude" content="{{ site.geolocation.lon }}" />
           </span>

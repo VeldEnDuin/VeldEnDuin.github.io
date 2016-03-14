@@ -1,5 +1,6 @@
 
 ## Gut zu wissen
+
 - Gültig für jede Art der Vermietung
 - nicht gültig für Extras
 - Arrangement möglich nach Verfügbarkeit

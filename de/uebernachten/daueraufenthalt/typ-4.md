@@ -28,6 +28,7 @@ insert:
 Wünschen Sie eine besonders große Parzelle mit Blick auf das zentral gelegene Wadi? Dann sollten Sie einen unserer Luxusplätze wählen und den zusätzlichen Platz genießen.
 
 ## Gut zu wissen:
+
 - Alle Parzellen vom Typ 4 liegen rund um das Wadi
 - Betonplatte von 12 x 4 m – geeignet für große Wohnwagen
 - Getrennte Zähler für Gas, Wasser und Strom
@@ -57,5 +58,4 @@ Zähler                | € 18 / Zähler
 
 ## Plan Campingplatz
 
-[invoegen plan][plan.de]
-aanduiden met kleur op plan welke percelen - Joke?
+![Plan Campingplatz][plan.de]

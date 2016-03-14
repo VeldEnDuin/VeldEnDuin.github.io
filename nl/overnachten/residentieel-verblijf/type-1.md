@@ -21,17 +21,19 @@ insert:
 
 {% include links.md %}
 
-#TYPE 1 - CARAVAN 
+# TYPE 1 - CARAVAN 
+
 Deze plaatsen zijn iets kleiner qua oppervlakte maar bieden evengoed een instant vakantiegevoel. 
 
 
-##Goed om weten
+## Goed om weten
+
 - teller voor elektriciteit - forfait water
 - gasflessen
 - geen wintervaste wateraansluiting - sanitairgebouw blijft open
 
 
-##Prijzen
+## Prijzen
 
 TYPE 1                                         |PRIJS                               |
 :---------------------------------------------:|:----------------------------------:|
@@ -50,6 +52,7 @@ tellervergoeding      | € 18
 
 
 
-##Plan camping
+## Plan camping
 
 ![Plan van de camping][plan.nl]
+

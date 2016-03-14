@@ -8,16 +8,17 @@ icon: info-sign
 
 {% include links.md %}
 
-#INFOS PRATIQUES
+# INFOS PRATIQUES
 
-##Les avantages d’un séjour résidentiel au camping Veld & Duin
+## Les avantages d’un séjour résidentiel au camping Veld & Duin
+
 - ouvert toute l’année – durée de séjour illimitée
 - espaces verts entretenus par Veld & Duin
 - savoir-faire technique pour les réparations
 - [assurance incendie][pdf_brandverzekering.fr]: possibilité d’y souscrire par le biais de notre assurance groupe
 
 
-##Prix des suppléments
+## Prix des suppléments
 
 DIVERS                |PRIX         
 :--------------------:|:--------------:

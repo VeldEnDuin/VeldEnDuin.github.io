@@ -21,10 +21,12 @@ remove:
 # Green area
 
 ## Plants and flowers
+
 We appreciate a variation of plants and flowers, which are nicely kept and colourful. A philosophy which becomes clear as soon as you enter our campsite. Therefore we have carefully chosen local flowers and plants which we maintain daily. Enjoy! <br>
 
 
 ## Ecology
+
 Going green is synonym with respecting ecology. We are contributing as follows:
 
 - the use of sun boilers for the luxury apartments and for the new sanitary blocks

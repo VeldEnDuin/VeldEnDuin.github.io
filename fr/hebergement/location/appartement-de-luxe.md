@@ -48,7 +48,8 @@ insert:
 
 Situés au-dessus de la réception, ces nouveaux appartements luxueux offrent une vue imprenable sur les magnifiques parterres de fleur de l’entrée du camping.  
 
-##Aménagement de l’appartement de luxe
+## Aménagement de l’appartement de luxe
+
 - grande salle de séjour avec écran plat et digibox
 - cuisine équipée avec four à micro-ondes
 - salle de bains avec douche, lavabo et toilettes
@@ -62,14 +63,15 @@ Situés au-dessus de la réception, ces nouveaux appartements luxueux offrent un
 - appartement deuxième étage: balcon
 
     
-##Bon à savoir
+## Bon à savoir
+
 - appartement premier étage: max. 5 personnes
 - appartement deuxième étage: max. 6 personnes
 - animaux de compagnie non admis – admis dans les chalets ou caravanes
 - pas d’ascenseur
 - disponible à la réservation toute l’année
 
-##Prix
+## Prix
 
 PÉRIODE             |BASSE SAISON | MI-SAISON     | HAUTE SAISON|
 :------------------:|:-----------:|:-------------:|:-----------:|
@@ -82,22 +84,25 @@ nuitée supplémentaire > 7n |€ 51  |€ 62           | € 95
 14 nuitées             |€ 735     |€ 850          | € 1270
 
 
-##Périodes
+## Périodes
 
 BASSE SAISON          |MI-SAISON          |    HAUTE SAISON|
 :--------------------:|:-----------------:|:-------------:|
 novembre à mars<br>à l'exception des vacances scolaires <br>et weekends prolongés | avril à juin, <br>septembre et octobre, <br>vacances scolaires, <br>week-ends prolongés   | juillet et août
 
-##Caution
+## Caution
+
 - € 50 – à payer en liquide à l’arrivée
 - la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état
 
-##Inclus
+## Inclus
+
 - parking 1 voiture
 - consommation eau - électricité 
 - **exception**: consommation d'électricité est exclusive à partir de 4 nuits de 1/11 - 31/3
 
-##Suppléments
+## Suppléments
+
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
 nettoyage           | € 50 - le locataire est autorisé à faire le nettoyage lui-même
@@ -112,6 +117,6 @@ parking voiture supplémentaire  | € 4 / jour entamé
 [service Veld & Duin][veld_duin_service.fr]| € 75
 
 
-##Plan du camping
+## Plan du camping
 
-[invoegen plan][plan.fr]
+![Plan du camping][plan_verhuur.fr]

@@ -21,10 +21,12 @@ remove:
 # Grün
 
 ## Bepflanzung
+
 Gleich beim Betreten des Geländes wird deutlich, dass wir eine gepflegte vielseitige Bepflanzung enorm wichtig finden. Die für unsere Region typischen Bäume und Pflanzen werden sorgfältig ausgewählt und täglich gepflegt, damit jeder viel Freude an ihnen hat.<br>
 
 
 ## Ökologie
+
 Grün bedeutet auch, dass wir nach einem möglichst umweltfreundlichen Betrieb streben. Wir versuchen unter anderem mit folgenden Maßnahmen, einen Beitrag für unsere Umwelt zu leisten:
 
 - bei den Luxusappartements und den erneuerten Sanitäranlagen verwenden wir Solarboiler

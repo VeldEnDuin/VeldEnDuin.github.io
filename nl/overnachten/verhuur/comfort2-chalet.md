@@ -48,7 +48,8 @@ insert:
 
 Even alleen komen uitwaaien of met z'n tweetjes? In deze chalet is het heerlijk thuiskomen na een dagje genieten aan onze kust.
 
-##Inrichting chalet
+## Inrichting chalet
+
 - woonkamer met flatscreen en digibox
 - ingerichte keuken met microgolf
 - badkamer met douche, wastafel en toilet
@@ -56,12 +57,13 @@ Even alleen komen uitwaaien of met z'n tweetjes? In deze chalet is het heerlijk 
     - 1 kamer met dubbelbed (140x200)
 - tuinmeubilair
     
-##Goed om weten
+## Goed om weten
+
 - chalet voorzien voor 2 personen
 - 1 hond toegelaten - geen gevaarlijke rassen
 - niet boekbaar tussen 15/11 en 15/3
 
-##Prijzen
+## Prijzen
 
 PERIODE                |TUSSENSEIZOEN | HOOGSEIZOEN  |
 :---------------------:|:------------:|:------------:|
@@ -74,7 +76,7 @@ extra nacht > 7 n       |€ 45          |€ 69          |
 14 nachten             |€ 610         |€ 915         | 
 
 
-##Periodes
+## Periodes
 
 TUSSENSEIZOEN      |    HOOGSEIZOEN|
 :--------------------:|:-----------------:|:-------------:|
@@ -89,7 +91,8 @@ TUSSENSEIZOEN      |    HOOGSEIZOEN|
 - verbruik gas-water-elektriciteit 
 
 
-##Extra's
+## Extra's
+
 EXTRA               | PRIJS 
 :-------------------|:-----------|
 schoonmaak          | € 40 - zelf schoonmaken kan
@@ -105,6 +108,6 @@ parking extra auto  | € 4 / begonnen dag
 [Veld & Duin service][veld_duin_service.nl]| € 50
 
 
-##Plan camping
+## Plan camping
 
-![Plan van de camping][plan.nl]
+![Plan van de camping][plan_verhuur.nl]

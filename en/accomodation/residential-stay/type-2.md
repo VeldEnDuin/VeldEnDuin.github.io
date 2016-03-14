@@ -23,10 +23,12 @@ insert:
 {% include links.md %}
 
 # TYPE 2 - CARAVAN 
+
 Need a break? Come and unwind in your caravan!
 
 
 ## Worth knowing
+
 - these pitches are being renewed in the future - see [new project][nieuw_project.en]
 - electricity meter – fixed price for water consumption
 - bottled gas
@@ -53,6 +55,6 @@ counter    | € 18
 
 
 
-##Plan campsite
+## Plan campsite
 
-![Plan van de camping][plan.en]
+![Plan campsite][plan.en]

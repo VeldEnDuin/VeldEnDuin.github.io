@@ -22,7 +22,7 @@ insert:
 {% include links.md %}
 
 
-#Arrangement 7 + 1
+# Arrangement 7 + 1
 
 Boek dit arrangement en krijg een extra nacht gratis bij een reservatie van 7 nachten of meer. Extra genieten dus voor hetzelfde geld! 
     

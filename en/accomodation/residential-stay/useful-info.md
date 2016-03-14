@@ -11,6 +11,7 @@ icon: info-sign
 # USEFUL INFORMATION
 
 ## Assets residential stay Veld & Duin
+
 - open throughout the year – come as much as you like
 - green space maintenance by Veld & Duin
 - technical know-how for maintenance and repair

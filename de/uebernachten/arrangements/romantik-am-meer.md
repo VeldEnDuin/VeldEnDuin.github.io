@@ -28,6 +28,7 @@ insert:
 Unser Romantik-am-Meer-Arrangement ist die ideale Gelegenheit, Ihrer/Ihrem geliebten Partner/in eine besondere Freude zu bereiten. Neben einem wunderbaren Aufenthalt erwartet Sie ein entspannender Saunabesuch mit Extras.
 
 ## Arrangement umfasst
+
 - 2 Nächte in einer Unterkunft nach Ihrer Wahl
 - Benutzung [Sauna][sauna.de] + Entspannungsraum (Dusche, Entspannungssessel, Tauchbad)
 - Extras: Auswahl aus
@@ -36,6 +37,7 @@ Unser Romantik-am-Meer-Arrangement ist die ideale Gelegenheit, Ihrer/Ihrem gelie
 
 
 ## Gut zu wissen
+
 - Gültig für jede Art der Vermietung
 - Mit Ausnahme der Schulferien und langer Wochenende das ganze Jahr über buchbar
 
@@ -58,15 +60,18 @@ NACHSAISON           |NEBENSAISON      |
 November bis März<br> ausgenommen Schulferien <br>und verlängerte Wochenenden | April bis Juni,<br>September und Oktober <br>ausgenommen Schulferien <br>und verlängerte Wochenenden
 
 ## Kaution
+
 - € 50, bar zu bezahlen bei der Anreise
 - Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
 
 ## Inbegriffen
+
 - Parkplatz für 1 Auto
 - Verbrauch von Gas, Wasser und Strom
 - **Ausnahme**: Verbrauch Strom und Gas ist exklusive ab 4 Nächte von 1/11. - 31/3.
 
 ## Extras
+
 EXTRA               | PREIS 
 :-------------------|:-----------|
 Reinigung          | € 40 (Luxusappartement € 50) - selbst reinigen ist gestattet

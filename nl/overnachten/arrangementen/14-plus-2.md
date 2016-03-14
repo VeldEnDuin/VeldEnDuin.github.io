@@ -23,7 +23,7 @@ insert:
 {% include links.md %}
 
 
-#Arrangement 14 + 2
+# Arrangement 14 + 2
 
 Bij reservatie van 14 nachten of meer krijgt u 2 gratis nachten. Deze zee van tijd biedt u de kans om al het moois van onze kust en achterland in uw eigen tempo te ontdekken.
 
