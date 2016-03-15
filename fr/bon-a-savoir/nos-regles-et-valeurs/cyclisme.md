@@ -35,7 +35,7 @@ Veld & Duin se situe à environ 1400 mètres du point nodal le plus proche (rés
 Vous pourrez emprunter à la réception les cartes du réseau de pistes cyclables (caution: 5 €). Elles sont également vendues à l’office du tourisme.
 
 
-##Label "Fietsvriendelijk logies"
+## Label "Fietsvriendelijk logies"
 Toerisme Vlaanderen octroie le label "Fietsvriendelijk Logies" aux établissements qui prévoient des installations spéciales pour l’accueil des cyclotouristes.
 Nous avons obtenu ce label pour la première fois en 2004. Nous continuons à mettre tout en œuvre pour offrir le meilleur accueil à nos clients sportifs.
 
