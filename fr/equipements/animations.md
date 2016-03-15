@@ -35,8 +35,9 @@ Pour clôturer l’année en beauté, nous organisons une soirée vin chaud. Ré
 
 | Date | Activité |
 |-------|------------|
-| dimanche 27 mars| chasse aux œufs et jeu|
-| vendredi 1er avril| plus d’infos prochainement|
+| dimanche 27 mars| chasse aux œufs et jeu (10h30)|
+| vendredi 1er avril| Animations de Pâques (10h-12h)|
+| vendredi 8ième avril| Matinée de jeux (10h-12h)|
 
 
 **Vacances d’été 2016**

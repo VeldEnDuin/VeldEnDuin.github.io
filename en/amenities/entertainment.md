@@ -36,8 +36,9 @@ At the end of the year we are going to organize a cosy mulled wine evening. A go
 
 | Date | Activity|
 |-------|------------|
-| Sunday 27th March | Easter eggs hunt and game|
-| Friday 1st April | more information in due course|
+| Sunday 27th March | Easter eggs hunt and game (10:30)|
+| Friday 1st April | Easter animation (10:00-12:00)|
+| Friday 8th April | party games (10:00-12:00) |
 
 
 

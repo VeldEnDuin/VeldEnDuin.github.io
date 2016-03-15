@@ -36,8 +36,9 @@ Het jaar wordt afgesloten met een gezellige glühweinavond. Onder het genot van 
 
 | Datum | Activiteit |
 |-------|------------|
-| zondag 27 maart| paaseierenzoektocht en spel|
-| vrijdag 1 april| meer info volgt |
+| zondag 27 maart| paaseierenraap en spel (10u30)|
+| vrijdag 1 april| paasactiviteiten (10-12u) |
+| vrijdag 8 april| gezelschapsspelletjes (10-12u) |
 
 
 **Zomervakantie 2016**

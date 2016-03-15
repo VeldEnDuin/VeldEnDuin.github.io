@@ -35,8 +35,9 @@ Jedes Jahr schließen wir mit einem gemütlichen Glühweinabend ab. Bei warmen G
 
 | Datum | Aktivität |
 |-------|------------|
-| Sonntag, 27. März| Ostereiersuche und Spiel|
-| Freitag, 1. April| Mehr Infos folgen |
+| Sonntag, 27. März| Ostereiersuche und Spiel (10:30) |
+| Freitag, 1. April| Osterspass (10:00 - 12:00) |
+| Freitag, 8. April| Spielevormittag (10:00 - 12:00) |
 
 
 **Sommerferien 2016**
