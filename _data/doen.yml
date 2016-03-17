@@ -1120,6 +1120,7 @@ items:
     de: kostenlose geführte Tours
     en: free guided tour
 - ranking: 255
+  location: 51.229126, 2.925613
   subgroups:
   - event
   images:
@@ -1135,11 +1136,12 @@ items:
     de: Oostende voor Anker
     en: Oostende voor Anker
   caption:
-    nl: maritiem festival
-    fr: festival maritime
-    de: maritimes Festival
-    en: maritime festival
+    nl: maritiem festival - Oostende
+    fr: festival maritime - Ostende
+    de: maritimes Festival - Oostende
+    en: maritime festival - Ostend
 - ranking: 345
+  location: 51.340946, 3.240212
   subgroups:
   - event
   images:
@@ -1155,10 +1157,10 @@ items:
     de: Kneistival
     en: Kneistival
   caption:
-    nl: gratis pop & rock festival
-    fr: festival pop & rock gratuit
-    de: kostenloses Pop & Rock Festival
-    en: free pop & rock festival
+    nl: gratis pop & rock festival - Knokke-Heist
+    fr: festival pop & rock gratuit - Knokke-Heist
+    de: kostenloses Pop & Rock Festival - Knokke-Heist
+    en: free pop & rock festival - Knokke-Heist
 subgroups:
   nl:
     coast: kustbeleving
