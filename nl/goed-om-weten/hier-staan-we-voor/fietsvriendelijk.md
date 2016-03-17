@@ -32,7 +32,7 @@ Ontdek de andere badplaatsen of de achterliggende polders met de fiets. Voor een
 De kust en polders worden volledig ontsloten door het wijdvertakte [fietsroutenetwerk][fietsnet.nl] waarbij u makkelijk zelf uw tocht kunt uitstippelen.<br>
 Veld & Duin ligt op zo'n 1400 meter van het dichtstbijzijnde fietsknooppunt (fietsnetwerk De Kust - knooppunt nummer 96).
 
-Aan de receptie beschikken we over de fietsroutenetwerken van de omgeving. U kunt deze uitlenen aan de receptie (waarborg: € 5) of kopen bij de Dienst voor Toerisme.
+Aan de receptie beschikken we over de fietsroutenetwerken van de omgeving. U kunt deze uitlenen aan de receptie (waarborg: € 10) of kopen bij de Dienst voor Toerisme.
 
 
 ## Fietsvriendelijk logies

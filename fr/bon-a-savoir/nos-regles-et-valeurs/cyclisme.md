@@ -32,7 +32,7 @@ Partez en vélo à la découverte des autres stations balnéaires ou des polders
 La côte et les polders sont intégralement parcourus par le [réseau de pistes cyclables] [fietsnet.fr] vous permettant de tracer aisément votre propre parcours.<br>
 Veld & Duin se situe à environ 1400 mètres du point nodal le plus proche (réseau de pistes cyclables du littoral – point nodal numéro 96).
 
-Vous pourrez emprunter à la réception les cartes du réseau de pistes cyclables (caution: 5 €). Elles sont également vendues à l’office du tourisme.
+Vous pourrez emprunter à la réception les cartes du réseau de pistes cyclables (caution: 10 €). Elles sont également vendues à l’office du tourisme.
 
 
 ## Label "Fietsvriendelijk logies"
