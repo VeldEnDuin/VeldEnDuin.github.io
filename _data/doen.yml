@@ -508,8 +508,8 @@ items:
   images:
   - "/img/doen/ost-boot.jpg"
   link:
-    nl: http://www.dekust.be/actief-beleven/zee-excursies-oostende-boottocht-franlis-iii
-    fr: http://www.lelittoral.be/action/promenades-en-bateau-franlis-iii
+    nl: http://www.dekust.be/nl/doen/zee-excursies-oostende-boottocht-franlis-iii
+    fr: http://www.franlis.be/fr/home
     de: http://www.belgischekueste.be/node/88697
     en: http://www.belgiancoast.co.uk/experience/ostend-sea-excursions-%E2%80%93-franlis-iii-boat-trip
   title:
@@ -633,7 +633,7 @@ items:
   - "/img/doen/wt-wandelen.jpg"
   link:
     nl: http://www.wandelknooppunt.be/wandelnetwerk.aspx?kaart=kustwandelroute
-    fr: http://www.lelittoral.be/randonneedulittoral
+    fr: http://www.lelittoral.be/fr/a-faire/itineraires-randonnee
     de: http://www.belgischekueste.be/Kuestenwanderweg
     en: http://www.belgiancoast.co.uk/coastalwalkingpath
   title:
@@ -693,8 +693,8 @@ items:
   images:
   - "/img/doen/kust-markt2.jpg"
   link:
-    nl: http://www.dekust.be/proeven/markten
-    fr: http://www.lelittoral.be/se-regaler/savourez-le-littoral/march%C3%A9s
+    nl: http://www.kustmarkten.be/
+    fr: http://www.kustmarkten.be/
     de: http://www.belgischekueste.be/Markte
     en: http://www.belgiancoast.co.uk/markets
   title:
@@ -754,8 +754,8 @@ items:
   images:
   - "/img/doen/bre-zwem.jpg"
   link:
-    nl: http://www.dekust.be/mindergoedweer/zwembaden-en-wellness
-    fr: http://www.lelittoral.be/search/content/piscine
+    nl: http://www.dekust.be/nl/do/sport-entertainment/field_tax_poi_type/swim-248
+    fr: http://www.dekust.be/fr/do/sport-entertainment/field_tax_poi_type/swim-248
     de: http://www.belgischekueste.be/search/content/hallenbad
     en: http://www.belgiancoast.co.uk/search/content/swimming%20pool
   title:
@@ -900,8 +900,8 @@ items:
   images:
   - "/img/doen/shop.jpg"
   link:
-    nl: http://www.dekust.be/shoppen
-    fr: http://www.lelittoral.be/le-shopping
+    nl: http://www.dekust.be/nl/do/sport-entertainment/field_tax_poi_type/shop-260
+    fr: http://www.dekust.be/fr/do/sport-entertainment/field_tax_poi_type/shop-260
     de: http://www.belgischekueste.be/shoppen
     en: http://www.belgiancoast.co.uk/shopping
   title:
@@ -1043,10 +1043,10 @@ items:
   images:
   - "/img/doen/strandbar.jpg"
   link:
-    nl: http://www.dekust.be/strandbarsenbeachclubs
-    fr: http://www.lelittoral.be/9-haltes-d%C3%A9tente-bar-club-de-plage
-    de: http://www.belgischekueste.be/node/94137
-    en: http://www.dekust.be/strandbarsenbeachclubs
+    nl: http://www.twinsclub.be/
+    fr: http://www.twinsclub.be/
+    de: http://www.twinsclub.be/
+    en: http://www.twinsclub.be/
   title:
     nl: strandbars
     fr: bars de plage
@@ -1063,8 +1063,8 @@ items:
   images:
   - "/img/doen/cinema.jpg"
   link:
-    nl: http://www.dekust.be/search/content/cinema
-    fr: http://www.lelittoral.be/search/content/cinema
+    nl: http://www.dekust.be/nl/do/sport-entertainment/field_tax_poi_type/cinema-256
+    fr: http://www.dekust.be/fr/do/sport-entertainment/field_tax_poi_type/cinema-256
     de: http://www.belgischekueste.be/search/content/cinema
     en: http://www.belgiancoast.co.uk/search/content/cinema
   title:
@@ -1084,8 +1084,8 @@ items:
   images:
   - "/img/doen/bowling.jpg"
   link:
-    nl: http://www.dekust.be/search/content/bowling
-    fr: http://www.lelittoral.be/search/content/bowling
+    nl: http://www.dekust.be/nl/search/bowling
+    fr: http://www.dekust.be/fr/search/bowling
     de: http://www.belgischekueste.be/search/content/bowling
     en: http://www.belgiancoast.co.uk/search/content/bowling
   title:
@@ -1105,8 +1105,8 @@ items:
   images:
   - "/img/doen/coastgreeters.jpg"
   link:
-    nl: http://www.dekust.be/belgiancoastgreeters/ontmoet-onze-belgian-coast-greeters
-    fr: http://www.lelittoral.be/belgiancoastgreeters/rencontrez-et-réservez-un-greeter
+    nl: http://www.dekust.be/nl/belgian-coast-greeters/home
+    fr: http://www.lelittoral.be/fr/rencontrez-et-r%C3%A9servez-un-greeter
     de: http://www.belgischekueste.be/node/94300
     en: http://www.belgiancoast.co.uk/belgiancoastgreeters/book-and-meet-greeter
   title:
