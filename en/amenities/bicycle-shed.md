@@ -36,5 +36,5 @@ For any of the above, contact the reception.
 
 You can also put your bike in the bicycle rack at the reception or at the playground. 
 
-Veld & Duin lies at about 1,4 km from the nearest junction of the [Cycle route network][fietsnet.en]. Maps can be borrowed from the reception.
+Veld & Duin lies at 200 m from the nearest junction of the [Cycle route network][fietsnet.en]. Maps can be borrowed from the reception.
 

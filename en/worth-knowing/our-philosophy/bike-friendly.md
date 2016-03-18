@@ -30,7 +30,7 @@ Discover the other seaside resorts or the polder landscape by bike. For culture 
 ## Cycling route network
 
 The coast and polder landscape are very much accessible thanks to [the cycle route network][fietsnet.en] which enables you to map out your own route.<br>
-Veld & Duin lies at about 1,4 km from the nearest junction of the cycle route network (junction number 96).
+Veld & Duin lies at 200 m from the nearest junction of the cycle route network (junction number 56).
 
 You can borrow these maps from the reception (warranty: € 10) or buy them at the tourist office.
 

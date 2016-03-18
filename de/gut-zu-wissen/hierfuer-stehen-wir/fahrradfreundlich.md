@@ -30,7 +30,7 @@ Entdecken Sie die anderen Badeorte oder die Polder hinter ihnen mit dem Rad. Fü
 ## Radwegenetz
 
 Die Küste und die Polder werden durch das weitverzweigte [Radwegenetz][fietsnet.de] erschlossen, bei dem Sie Ihre Tour ganz einfach selbst gestalten können.<br>
-Veld & Duin liegt etwa 1400 Meter vom nächsten Radknotenpunkt (Radwegenetz Küste – Knotenpunkt Nummer 96).
+Veld & Duin liegt etwa 200 Meter vom nächsten Radknotenpunkt (Radwegenetz Küste – Knotenpunkt Nummer 56).
 
 An der Rezeption verfügen wir über Karten der Radwegenetze in der Umgebung. Sie können Sie an der Rezeption ausleihen (Pfand: € 10) oder beim Tourismusamt kaufen.
 

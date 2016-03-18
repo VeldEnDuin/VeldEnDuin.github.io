@@ -36,5 +36,5 @@ Reservieren Sie bitte an der Rezeption.
 
 An der Rezeption und am Spielplatz befinden sich Fahrradständer, sodass Sie Ihr Fahrrad auch dort einfach abstellen können. 
 
-Veld & Duin liegt 1,4 km vom nächsten Knotenpunkt des [Radwegenetzes][fietsnet.de] entfernt. Karten des Radnetzes können Sie an der Rezeption ausleihen.
+Veld & Duin liegt 200 m vom nächsten Knotenpunkt des [Radwegenetzes][fietsnet.de] entfernt. Karten des Radnetzes können Sie an der Rezeption ausleihen.
 

@@ -36,5 +36,5 @@ Reservatie mogelijk via de receptie.
 
 Aan de receptie en het speelplein is er een fietsenrek zodat u ook daar makkelijk met uw fiets terecht kan. 
 
-Veld & Duin ligt op 1,4 km van het dichtstbijzijnde knooppunt van het [fietsroutenetwerk][fietsnet.nl]. Kaarten van dit netwerk kunt u uitlenen aan de receptie.
+Veld & Duin ligt op 200 meter van het dichtstbijzijnde knooppunt van het [fietsroutenetwerk][fietsnet.nl]. Kaarten van dit netwerk kunt u uitlenen aan de receptie.
 

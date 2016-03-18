@@ -36,4 +36,4 @@ Réservation possible à la réception.
 
 La réception et le terrain de jeux sont également équipés d’un râtelier à vélos très pratique pour vos déplacements dans le camping. 
 
-Le point nodal du [réseau de randonnées cyclistes] [fietsnet.fr] le plus proche de Veld & Duin est situé à 1,4 km. Des cartes de ce réseau sont disponibles à la réception.
+Le point nodal du [réseau de randonnées cyclistes] [fietsnet.fr] le plus proche de Veld & Duin est situé à 200 m. Des cartes de ce réseau sont disponibles à la réception.
