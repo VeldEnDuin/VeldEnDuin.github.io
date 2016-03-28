@@ -18,7 +18,7 @@ images:
 
 Die jährliche Ostereiersuche bei Veld & Duin war wieder erfolgreich! Dieses Jahr war es das gelbe Team, das die meiste Eier gefunden hat. Nochmals vielen Dank an alle Kinder und Ihre Eltern um mit uns einen supertollen Morgen davon zu machen!
 
-Alle Fotos der Ostereisersuche finden Sie zurück in unserem [Fotoarchiv][pics.de].
+Alle Fotos der Ostereisersuche finden Sie zurück in unserem [Fotoarchiv][pics.de]
 
 
 

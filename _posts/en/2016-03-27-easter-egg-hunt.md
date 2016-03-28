@@ -18,7 +18,7 @@ images:
 
 Our yearly easter egg hunt at Veld & Duin was again a true success! This year it was the yellow team that found most eggs. Many thanks to all the kids and their parents for making this a fun-tastic morning with us!
 
-All photos of the easter egg hunt can be found in our [photo archive][pics.en].  
+All photos of the easter egg hunt can be found in our [photo archive][pics.en] 
 
 
 
