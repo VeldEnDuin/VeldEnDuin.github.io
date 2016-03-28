@@ -16,7 +16,7 @@ images:
 
 {% include links.md %}
 
-De jaarlijkse paaseierenraap op Veld & Duin was weer een succes! Dit jaar was het het gele team dat de meeste eitjes heeft verzameld. Nogmaals bedankt aan alle kinderen en hun ouders om er weer samen met ons een spetterend spel van te maken! 
+De jaarlijkse paaseierenraap op Veld & Duin was weer een succes! Dit jaar verzamelde het gele team de meeste eitjes. Nogmaals bedankt aan alle kinderen en hun ouders om er weer samen met ons een spetterend spel van te maken! 
 
 U vindt alle foto's van de paaseierenraap terug in ons [fotoarchief][pics.nl]
 
