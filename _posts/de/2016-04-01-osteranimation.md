@@ -17,7 +17,7 @@ images:
 
 {% include links.md %}
 
-Die Kinder haben Ihre Kreativität gezeigt beim Basteln und unter Begleitung der Animatoren haben sie köstliche Kuchen gebacken, die bein den Gesellschaftsspielen genießen wurden. 
+Die Kinder haben Ihre Kreativität gezeigt beim Basteln und unter Begleitung der Animatoren haben sie köstliche Kuchen gebacken, die bei den Gesellschaftsspielen genießen wurden. 
 
 Alle Fotos der Osteranimation finden Sie zurück in unserem [Fotoarchiv][pics.de]
 
