@@ -18,7 +18,7 @@ images:
 
 {% include links.md %}
 
-De kinderen hebben hun creatieve aanleg getoond bij het knutselen en onder begeleiding van onze animatoren bakten ze overheerlijke cakejes die ze konden opsmullen tijdens de gezelschapsspelen. 
+De kinderen hebben hun creativiteit getoond bij het knutselen en onder begeleiding van onze animatoren bakten ze overheerlijke cakejes die ze konden opsmullen tijdens de gezelschapsspelen. 
 
 U vindt alle foto's van de paasanimatie terug in ons [fotoarchief][pics.nl]
 
