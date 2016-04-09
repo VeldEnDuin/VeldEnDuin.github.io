@@ -24,22 +24,22 @@ insert:
 {% include links.md %}
 
 
-#Veld & Duin service
+# Veld & Duin service
 
 Om optimaal te kunnen genieten van uw verblijf, bieden wij dit servicepakket aan. Dit geeft u de ruimte om het maximum uit uw vakantie te halen.
 
-##Arrangement omvat
+## Arrangement omvat
 - eindschoonmaak
 - lakenpakket voor alle bedden (ligt klaar aan de receptie bij aankomst)
 - internetaansluiting voor maximum 2 toestellen
 
 
-##Goed om weten
+## Goed om weten
 - geldig voor elk verhuurtype
 - het hele jaar door boekbaar
 
 
-##Prijzen
+## Prijzen
 
 VERHUURTYPE         | PRIJS
 :------------------:|:-----------
