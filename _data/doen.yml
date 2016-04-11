@@ -1161,6 +1161,28 @@ items:
     fr: festival pop & rock gratuit - Knokke-Heist
     de: kostenloses Pop & Rock Festival - Knokke-Heist
     en: free pop & rock festival - Knokke-Heist
+- ranking: 55
+  location: 51.230025, 2.919333
+  subgroups:
+  - cult
+  - city
+  images:
+  - "/img/doen/crystalship.jpg"
+  link:
+    nl: http://www.thecrystalship.org/web
+    fr: http://www.thecrystalship.org/web
+    de: http://www.thecrystalship.org/web
+    en: http://www.thecrystalship.org/web
+  title:
+    nl: The Crystal Ship
+    fr: The Crystal Ship
+    de: The Crystal Ship
+    en: The Crystal Ship
+  caption:
+    nl: Kunstenfestival in de stad
+    fr: Street Art à Ostende
+    de: Street Art in Oostende
+    en: Street art in Ostend
 subgroups:
   nl:
     coast: kustbeleving
