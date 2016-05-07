@@ -1183,6 +1183,28 @@ items:
     fr: Street Art à Ostende
     de: Street Art in Oostende
     en: Street art in Ostend
+- ranking: 265
+  location: 51.235579, 2.918323
+  subgroups:
+  - cult
+  - coast
+  images:
+  - "/img/doen/zandsculptuur.jpg"
+  link:
+    nl: http://www.zandsculpturen.be
+    fr: http://www.zandsculpturen.be
+    de: http://www.zandsculpturen.be
+    en: http://www.zandsculpturen.be
+  title:
+    nl: Zandsculpturenfestival
+    fr: Festival de sculptures de sable
+    de: Sandskulpturenfestival
+    en: Sand sculpture festival
+  caption:
+    nl: Oostende
+    fr: Ostende
+    de: Oostende
+    en: Ostend
 subgroups:
   nl:
     coast: kustbeleving
