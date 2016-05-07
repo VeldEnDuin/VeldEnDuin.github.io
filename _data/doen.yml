@@ -1226,6 +1226,27 @@ items:
     fr: Fête culturel - Gand
     de: Kulturellen Fest - Gent
     en: Cultural festival - Ghent
+- ranking: 115
+  location: 51.229485, 2.921105
+  subgroups:
+  - event
+  images:
+  - "/img/doen/paulusfeesten.jpg"
+  link:
+    nl: http://www.paulusfeesten.be
+    fr: http://www.paulusfeesten.be
+    de: http://www.paulusfeesten.be
+    en: http://www.paulusfeesten.be
+  title:
+    nl: Paulusfeesten
+    fr: Paulusfeesten
+    de: Paulusfeesten
+    en: Paulusfeesten
+  caption:
+    nl: Cultuurfestival - Oostende
+    fr: Fête culturel - Ostende
+    de: Kulturellen Fest - Oostende
+    en: Cultural festival - Ostend
 subgroups:
   nl:
     coast: kustbeleving
