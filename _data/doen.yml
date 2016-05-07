@@ -1205,6 +1205,27 @@ items:
     fr: Ostende
     de: Oostende
     en: Ostend
+- ranking: 125
+  location: 51.055099, 3.720985
+  subgroups:
+  - event
+  images:
+  - "/img/doen/gentsefeesten.jpg"
+  link:
+    nl: https://gentsefeesten.stad.gent
+    fr: https://gentsefeesten.stad.gent
+    de: https://gentsefeesten.stad.gent
+    en: https://gentsefeesten.stad.gent
+  title:
+    nl: Gentse feesten
+    fr: Gentse feesten
+    de: Gentse feesten
+    en: Gentse feesten
+  caption:
+    nl: Cultuurfestival
+    fr: Fête culturel
+    de: Kulturellen Fest
+    en: Cultural festival
 subgroups:
   nl:
     coast: kustbeleving
