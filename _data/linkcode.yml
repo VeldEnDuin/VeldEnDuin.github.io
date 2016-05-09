@@ -275,6 +275,11 @@ te_koop:
     fr: /fr/hebergement/a-vendre.html
     de: /de/uebernachten/zu-kaufen.html
     en: /en/accomodation/for-sale.html
+a_17:
+    nl: /nl/overnachten/te-koop/a-17.html
+    fr: /fr/hebergement/a-vendre/a-17.html
+    de: /de/uebernachten/zu-kaufen/a-17.html
+    en: /en/accomodation/for-sale/a-17.html
 b_06:
     nl: /nl/overnachten/te-koop/b-06.html
     fr: /fr/hebergement/a-vendre/b-06.html
