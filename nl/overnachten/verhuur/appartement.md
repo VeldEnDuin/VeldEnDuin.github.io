@@ -46,7 +46,7 @@ insert:
 
 De appartementen liggen net naast de camping. Zo geniet u van de ruimte van een appartement en kunt u tegelijk vrij gebruik maken van de voorzieningen op onze camping.
 
-##Inrichting appartement
+## Inrichting appartement
 - ruime woonkamer met flatscreen en digibox
 - ingerichte keuken met microgolf
 - badkamer met douche, wastafel en toilet
