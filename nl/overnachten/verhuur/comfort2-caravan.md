@@ -48,7 +48,7 @@ insert:
 
 Deze mini-caravan met privé-tuintje is ideaal voor wie houdt van het buitenleven maar 's avonds toch graag z'n eigen potje kookt of een verkwikkende douche neemt.
 
-##Inrichting caravan
+## Inrichting caravan
 - kleine woonruimte met tv en digibox
 - keuken met 2-pits kookvuur en kleine microgolf
 - badkamer met douche en wastafel 
