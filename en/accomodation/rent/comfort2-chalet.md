@@ -49,6 +49,7 @@ insert:
 Need a break, just for the two of you? Make yourself at home in this cosy chalet.
 
 
+
 ## Facilities chalet
 
 - spacious living room with flat screen and set top box
