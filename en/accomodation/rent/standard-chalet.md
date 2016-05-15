@@ -47,7 +47,7 @@ insert:
 
 Are you price-conscious but sleeping in a tent is not your cup of tea? Then a standard chalet might be what you are looking for.
 
-# Facilities chalet
+## Facilities chalet
 
 - living room with tv and set top box
 - equipped kitchen with microwave
