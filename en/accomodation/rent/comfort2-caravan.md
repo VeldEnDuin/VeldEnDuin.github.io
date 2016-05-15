@@ -63,7 +63,7 @@ This mini-caravan with private garden is suitable for those who love being outdo
 
 - the caravan is suitable for 2 people because the space is limited
 - a small pet is allowed but keep in mind that the space is limited
-- not available betweem 15/11 and 15/3
+- not available between 15/11 and 15/3
 
 ## Prices
 
