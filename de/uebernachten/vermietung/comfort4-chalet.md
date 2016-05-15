@@ -56,7 +56,7 @@ Diese Chalets liegen vorn auf dem Campingplatz in der Nähe des Spielplatzes. Id
     - 1 Zimmer mit zwei Etagenbetten (90 x 200) 
 - Gartenmöbel
     
-## Gut zu wissen:
+## Gut zu wissen
 
 - Chalet vorgesehen für 4 Personen
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
