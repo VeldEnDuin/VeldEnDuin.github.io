@@ -48,7 +48,7 @@ insert:
 
 Nach einem herrlichen Tag am Strand oder einem Ausflug in die Umgebung lockt die überdachte Terrasse (und der Aperitif), um den Tag noch einmal Revue passieren zu lassen oder schon Pläne für die nächsten Tage zu schmieden.  
 
-## Einrichtung Chalet:
+## Einrichtung Chalet
 
 - Großes Wohnzimmer mit Flachbildschirm-TV und Digibox
 - Eingerichtete Küche mit Mikrowelle
@@ -58,7 +58,7 @@ Nach einem herrlichen Tag am Strand oder einem Ausflug in die Umgebung lockt die
     - 1 Zimmer mit zwei Etagenbetten (90 x 200) 
 - Überdachte und abgeschlossene Terrasse mit Gartenmöbeln
     
-## Gut zu wissen:
+## Gut zu wissen
 
 - Chalet vorgesehen für 4 Personen
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
