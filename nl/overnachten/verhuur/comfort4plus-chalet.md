@@ -48,7 +48,7 @@ insert:
 
 Na een heerlijk dagje strand of een uitstapje in de buurt lonkt het overdekte terras (en de aperitief) om nog even terug te blikken of al plannen te maken voor de komende dagen. 
 
-##Inrichting chalet:
+## Inrichting chalet:
 - ruime woonkamer met flatscreen en digibox
 - ingerichte keuken met microgolf
 - badkamer met douche, wastafel en toilet
