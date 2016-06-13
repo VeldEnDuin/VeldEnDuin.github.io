@@ -45,6 +45,8 @@ Het jaar wordt afgesloten met een gezellige glühweinavond. Onder het genot van 
 | vrijdag 19/08 | knutselen (10u-12u)|
 
 
+
+
 ## Animatie Bredene en omgeving
 
 Aan de kust valt er altijd wel iets te beleven. We houden u graag op de hoogte van de activiteiten in de buurt via het infoscherm aan de ingang, de infomappen in de verhuureenheden of neem een kijkje op onze [doen-pagina][doen.nl]. 
