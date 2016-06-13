@@ -389,6 +389,11 @@ pdf_brandverzekering:
     fr: /fr/pdf/assuranceincendie-conditions.pdf
     de: /de/pdf/brandversicherung-voraussetzungen.pdf
     en: /en/pdf/fireinsurance-conditions.pdf
+pdf_zomeranimatie:
+    nl: /nl/pdf/animatie2016.pdf
+    fr: /fr/pdf/animations2016.pdf
+    de: /de/pdf/animation2016.pdf
+
 
 # [7] externe links
 kusttram:

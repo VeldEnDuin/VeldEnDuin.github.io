@@ -32,20 +32,17 @@ Het jaar wordt afgesloten met een gezellige glühweinavond. Onder het genot van 
 
 ## Kalender Veld & Duin
 
-**Paasvakantie 2016**
-
-| Datum | Activiteit |
-|-------|------------|
-| zondag 27 maart| paaseierenraap en spel (10u30)|
-| vrijdag 1 april| paasactiviteiten (10-12u) |
-| vrijdag 8 april| gezelschapsspelletjes (10-12u) |
-
-
 **Zomervakantie 2016**
 
 | Datum | Activiteit |
 |-------|------------|
-| vrijdagen in juli en augustus| meer info volgt
+| vrijdag 08/07| gidsbeurt vismijn en haven (10u)|
+| vrijdag 15/07 | Marbel de Luxe (10u)|
+| vrijdag 22/07 | Cirque du Lapin (19u)|
+| vrijdag 29/07 | auberge espagnole + Saddle for Sale (19u)|
+| vrijdag 05/08 | avondfeest met coverband Tomcat (20u-24u)|
+| vrijdag 12/08 | waterglijbaan (10u-19u)|
+| vrijdag 19/08 | knutselen (10u-12u)|
 
 
 ## Animatie Bredene en omgeving

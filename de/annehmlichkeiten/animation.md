@@ -31,20 +31,17 @@ Jedes Jahr schließen wir mit einem gemütlichen Glühweinabend ab. Bei warmen G
 
 ## Kalender Veld & Duin
 
-**Osterferien 2016**
-
-| Datum | Aktivität |
-|-------|------------|
-| Sonntag, 27. März| Ostereiersuche und Spiel (10:30) |
-| Freitag, 1. April| Osterspass (10:00 - 12:00) |
-| Freitag, 8. April| Spielevormittag (10:00 - 12:00) |
-
-
 **Sommerferien 2016**
 
 | Datum | Aktivität |
 |-------|------------|
-| Freitage im Juli und August| Mehr Infos folgen
+| Freitag 08/07 | Führung Fischversteigerung und Hafen (10 Uhr)|
+| Freitag 15/07 | Marbel de Luxe (10 Uhr)|
+| Freitag 22/07 | Curque du Lapin (19 Uhr)|
+| Freitag 29/07 | Auberge espagnole + Saddle for Sale (19 Uhr)|
+| Freitag 05/08 | Abendfest mit Coverband Tomcat  (20-24 Uhr)|
+| Freitag 12/08 | Wasserrutschbahn (10-19 Uhr)|
+| Freitag 19/08 | Basteln (10-12 Uhr)|
 
 
 ## Animation Bredene und Umgebung
