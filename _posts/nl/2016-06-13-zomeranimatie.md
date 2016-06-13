@@ -13,7 +13,6 @@ images:
     - /img/nieuws/20160613-animatie-05.jpg
     - /img/nieuws/20160613-animatie-06.jpg
     - /img/nieuws/20160613-animatie-07.jpg
-    - /img/nieuws/20160613-animatie-08.jpg
 
     
     
