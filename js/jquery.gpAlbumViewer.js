@@ -268,19 +268,23 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
         $.getJSON(this.getAPIUri('album'), function (response) {
             var data = {};
             data.albumSet = {};
-
-            response.feed.entry.forEach(function (aItem) {
-                var id = aItem.gphoto$id.$t,
-                    name = aItem.title.$t;
-                data.albumSet[id] = {
-                    "updated"  : moment(aItem.updated.$t).valueOf(),
-                    "title"    : name,
-                    "numpics"  : aItem.gphoto$numphotos.$t,
-                    "thumbnail": aItem.media$group.media$thumbnail[0].url,
-                    "description": aItem.media$group.media$description.$t
-                };
-            });
-            data.lastmodified = moment().valueOf();
+            
+            if (!response || !response.feed || !response.feed.entry) {
+                console.log("no entry data in album list");
+            } else {
+                response.feed.entry.forEach(function (aItem) {
+                    var id = aItem.gphoto$id.$t,
+                        name = aItem.title.$t;
+                    data.albumSet[id] = {
+                        "updated"  : moment(aItem.updated.$t).valueOf(),
+                        "title"    : name,
+                        "numpics"  : aItem.gphoto$numphotos.$t,
+                        "thumbnail": aItem.media$group.media$thumbnail[0].url,
+                        "description": aItem.media$group.media$description.$t
+                    };
+                });
+                data.lastmodified = moment().valueOf();
+            }
             cb(data);
         });
     };
@@ -291,19 +295,23 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
             data.photoList = [];
             data.photoSet = {};
 
-            response.feed.entry.forEach(function (pItem) {
-                var pic = {
-                    "id"       : pItem.gphoto$id.$t,
-                    "content"  : pItem.media$group.media$content[0].url,
-                    "thumbnail": pItem.media$group.media$thumbnail[0].url,
-                    "caption"  : pItem.media$group.media$description.$t,
-                    "index"    : data.photoList.length
-                };
-                data.photoList.push(pic);
-                data.photoSet[pic.id] = pic;
-            });
+            if (!response || !response.feed || !response.feed.entry) {
+                console.log("no entry data in picturelist for alubum %s.", albid);
+            } else {
+                response.feed.entry.forEach(function (pItem) {
+                    var pic = {
+                        "id"       : pItem.gphoto$id.$t,
+                        "content"  : pItem.media$group.media$content[0].url,
+                        "thumbnail": pItem.media$group.media$thumbnail[0].url,
+                        "caption"  : pItem.media$group.media$description.$t,
+                        "index"    : data.photoList.length
+                    };
+                    data.photoList.push(pic);
+                    data.photoSet[pic.id] = pic;
+                });
 
-            data.lastmodified = moment().valueOf();
+                data.lastmodified = moment().valueOf();
+            }
             cb(data);
         });
     };

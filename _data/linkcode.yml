@@ -368,10 +368,15 @@ doen:
 
 # [5] menu fotos
 fotos:
-    nl: /nl/foto-selectie.html
-    fr: /fr/photo-selection.html
-    en: /en/photo-selection.html
-    de: /de/foto-auswahl.html
+#    nl: /nl/foto-selectie.html
+#    fr: /fr/photo-selection.html
+#    en: /en/photo-selection.html
+#    de: /de/foto-auswahl.html
+    nl:  /nl/foto-archief.html
+    fr:  /fr/archive-photographique.html
+    en:  /en/photo-archive.html
+    de:  /de/fotoarchiv.html
+
 
 # [6] menu pdf
 pdf_allianz:
