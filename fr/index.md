@@ -2,7 +2,9 @@
 layout: landing
 title: Camping Veld & Duin
 
-    
+insert:
+    - banner
+ 
 select:
     - verhuur
     - nieuw_project
