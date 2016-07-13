@@ -20,7 +20,7 @@ images:
 
 {% include links.md %}
 
-De eerste zomeranimatie van Veld & Duin was alvast een succes: de gidsbeurt naar de Oostendse haven en vismijn was bijzonder interessant.
+De eerste zomeranimatie van Veld & Duin was alvast een succes: de gidsbeurt naar de Oostendse haven en vismijn was bijzonder interessant!
 
 
 
