@@ -17,7 +17,7 @@ images:
 
 {% include links.md %}
 
-At Camping Veld & Duin you can enjoy a summer full of [animation][animatie.en]. There is something for everyone!
+The first summer animation at Veld & Duin was already a success: the guided tour to the Ostend “vismijn” and port was very interesting! 
 
 
 
