@@ -17,7 +17,7 @@ images:
 
 {% include links.md %}
 
-Chez Veld & Duin vous pouvez jouir d'un été plein d'[animations][animatie.fr]. Vous trouvez la programmation [ici][pdf_zomeranimatie.fr], dans laquelle chacun peut trouver son bonheur!
+La première animation d’été de Veld & Duin était déjà un succès: la visite guidée vers la minque et le port d’Ostende était vraiment intéressant!
 
 
 
