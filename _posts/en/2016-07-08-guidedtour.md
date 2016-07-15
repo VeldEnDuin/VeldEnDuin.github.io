@@ -1,7 +1,7 @@
 ---
 title: Guided tour
 layout: post
-description: "vismijn" & port of Ostend
+description: '"vismijn" & port of Ostend'
 permalink: /en/2016-07-08-guidedtour.html
 
     
