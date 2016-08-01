@@ -19,5 +19,7 @@ images:
 
 Een ware konijneninvasie bij Veld & Duin met een spetterend optreden van Cirque du Lapin!
 
+U vindt alle foto's terug in ons [fotoarchief][pics.nl]
+
 
 

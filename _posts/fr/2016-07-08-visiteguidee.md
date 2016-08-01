@@ -19,5 +19,5 @@ images:
 
 La première animation d’été de Veld & Duin était déjà un succès: la visite guidée vers la minque et le port d’Ostende était vraiment intéressant!
 
-
+Vous trouvez tous les photos dans nos [archives photo][pics.fr]
 

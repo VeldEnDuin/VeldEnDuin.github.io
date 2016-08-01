@@ -19,5 +19,5 @@ images:
 
 Die erste Sommeranimation bei Veld & Duin war schon ein Erfolg: die geführte Tour zur Fischversteigerung und Hafen von Oostende war ganz interessant!
 
-
+Alle Fotos finden Sie zurück in unserem [Fotoarchiv][pics.de]
 

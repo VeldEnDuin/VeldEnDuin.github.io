@@ -19,4 +19,4 @@ images:
 
 Une vrai invasion de lapins chez Veld & Duin avec un show spectaculaire de Cirque du Lapin!
 
-
+Vous trouvez tous les photos dans nos [archives photo][pics.fr]

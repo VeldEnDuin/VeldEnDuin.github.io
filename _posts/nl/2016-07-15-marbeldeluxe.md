@@ -18,5 +18,6 @@ images:
 
 Zowel jong als oud hebben zich creatief uitgeleefd met Marbel De Luxe! Bedankt Olapaloma!
 
+U vindt alle foto's terug in ons [fotoarchief][pics.nl]
 
 

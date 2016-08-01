@@ -18,5 +18,5 @@ images:
 
 Young and old had lots of fun with Marbel De Luxe, thanks Olapaloma!
 
-
+All photos can be found in our [photo archive][pics.en] 
 

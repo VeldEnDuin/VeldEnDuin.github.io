@@ -19,5 +19,5 @@ images:
 
 The first summer animation at Veld & Duin was already a success: the guided tour to the Ostend “vismijn” and port was very interesting! 
 
-
+All photos can be found in our [photo archive][pics.en] 
 

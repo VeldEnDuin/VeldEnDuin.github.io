@@ -18,5 +18,5 @@ images:
 
 Sowohl die Kinder als die Erwachsene haben sich köstlich amüsiert mit Marbel De Luxe! Vielen Dank an Olapaloma!
 
-
+Alle Fotos finden Sie zurück in unserem [Fotoarchiv][pics.de]
 

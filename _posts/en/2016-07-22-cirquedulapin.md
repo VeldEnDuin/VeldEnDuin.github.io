@@ -19,5 +19,5 @@ images:
 
 A true rabbit invasion at Veld & Duin, with a brilliant show by Cirque du Lapin!
 
-
+All photos can be found in our [photo archive][pics.en] 
 
