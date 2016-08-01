@@ -1,7 +1,7 @@
 ---
-title: Geführte Tour
+title: Geführte Tour Fischversteigerung & Hafen Oostende
 layout: post
-description: Fischversteigerung & Hafen Oostende
+description: Sommeranimation
 permalink: /de/2016-07-08-gefuhrtetour.html
 
     

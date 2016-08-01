@@ -1,7 +1,7 @@
 ---
-title: Visite guidée
+title: Visite guidée minque et port d'Ostende
 layout: post
-description: minque et port d'Ostende
+description: animations d'été
 permalink: /fr/2016-07-08-visiteguidee.html
 
     

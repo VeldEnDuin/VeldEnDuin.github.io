@@ -1,7 +1,7 @@
 ---
-title: Gidsbeurt
+title: Gidsbeurt vismijn & haven Oostende
 layout: post
-description: vismijn & haven Oostende
+description: zomeranimatie
 permalink: /nl/2016-07-08-gidsbeurt.html
 
     

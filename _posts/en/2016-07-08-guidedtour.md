@@ -1,7 +1,7 @@
 ---
-title: Guided tour
+title: Guided tour vismijn & port of Ostend
 layout: post
-description: '"vismijn" & port of Ostend'
+description: summer animation
 permalink: /en/2016-07-08-guidedtour.html
 
     
