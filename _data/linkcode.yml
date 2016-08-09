@@ -275,11 +275,6 @@ te_koop:
     fr: /fr/hebergement/a-vendre.html
     de: /de/uebernachten/zu-kaufen.html
     en: /en/accomodation/for-sale.html
-a_17:
-    nl: /nl/overnachten/te-koop/a-17.html
-    fr: /fr/hebergement/a-vendre/a-17.html
-    de: /de/uebernachten/zu-kaufen/a-17.html
-    en: /en/accomodation/for-sale/a-17.html
 b_21:
     nl: /nl/overnachten/te-koop/b-21.html
     fr: /fr/hebergement/a-vendre/b-21.html
@@ -295,16 +290,16 @@ b_48:
     fr: /fr/hebergement/a-vendre/b-48.html
     de: /de/uebernachten/zu-kaufen/b-48.html
     en: /en/accomodation/for-sale/b-48.html
-c_16:
-    nl: /nl/overnachten/te-koop/c-16.html
-    fr: /fr/hebergement/a-vendre/c-16.html
-    de: /de/uebernachten/zu-kaufen/c-16.html
-    en: /en/accomodation/for-sale/c-16.html
 d_37:
     nl: /nl/overnachten/te-koop/d-37.html
     fr: /fr/hebergement/a-vendre/d-37.html
     de: /de/uebernachten/zu-kaufen/d-37.html
     en: /en/accomodation/for-sale/d-37.html
+h_05:
+    nl: /nl/overnachten/te-koop/h-05.html
+    fr: /fr/hebergement/a-vendre/h-05.html
+    de: /de/uebernachten/zu-kaufen/h-05.html
+    en: /en/accomodation/for-sale/h-05.html
 
 
 # [3] menu - voorzieningen
@@ -368,10 +363,15 @@ doen:
 
 # [5] menu fotos
 fotos:
-    nl: /nl/foto-selectie.html
-    fr: /fr/photo-selection.html
-    en: /en/photo-selection.html
-    de: /de/foto-auswahl.html
+#    nl: /nl/foto-selectie.html
+#    fr: /fr/photo-selection.html
+#    en: /en/photo-selection.html
+#    de: /de/foto-auswahl.html
+    nl:  /nl/foto-archief.html
+    fr:  /fr/archive-photographique.html
+    en:  /en/photo-archive.html
+    de:  /de/fotoarchiv.html
+
 
 # [6] menu pdf
 pdf_allianz:
@@ -389,6 +389,11 @@ pdf_brandverzekering:
     fr: /fr/pdf/assuranceincendie-conditions.pdf
     de: /de/pdf/brandversicherung-voraussetzungen.pdf
     en: /en/pdf/fireinsurance-conditions.pdf
+pdf_zomeranimatie:
+    nl: /nl/pdf/animatie2016.pdf
+    fr: /fr/pdf/animations2016.pdf
+    de: /de/pdf/animation2016.pdf
+
 
 # [7] externe links
 kusttram:

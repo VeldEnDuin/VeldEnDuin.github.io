@@ -31,20 +31,17 @@ Pour clôturer l’année en beauté, nous organisons une soirée vin chaud. Ré
 
 ## Calendrier Veld & Duin
 
-**Vacances de Pâques 2016**
-
-| Date | Activité |
-|-------|------------|
-| dimanche 27 mars| chasse aux œufs et jeu (10h30)|
-| vendredi 1er avril| animations de Pâques (10h-12h)|
-| vendredi 8ième avril| matinée de jeux (10h-12h)|
-
-
 **Vacances d’été 2016**
 
 | Date | Activité |
 |-------|------------|
-| tous les vendredis de juillet et août| plus d’infos prochainement|
+| vendredi 08/07 | visite guidée de la minque et du port (10h)|
+| vendredi 15/07 | cirquit de luxe (10h)|
+| vendredi 22/07 | Cirque du Lapin (19h)|
+| vendredi 29/07 | auberge espagnole + Saddle for Sale (19h)|
+| vendredi 05/08 | soirée avec le groupe de reprises Tomcat (20h-24h)|
+| vendredi 12/08 | toboggan aquatique (10h-19h)|
+| vendredi 19/08 | bricolage (10h-12h)|
 
 
 ## Animations à Bredene et dans les environs
