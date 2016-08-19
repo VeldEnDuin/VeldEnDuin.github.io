@@ -24,4 +24,4 @@ images:
 
 Ce matin nous avons conclus l’animation d’été chez Veld & Duin créativement avec une matinée de bricolage!
 
-
+Vous trouvez tous les photos dans nos [archives photo][pics.fr]

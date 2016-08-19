@@ -26,5 +26,5 @@ images:
 
 Deze morgen sloten we de zomeranimatie bij Veld & Duin creatief af met een leuk ochtendje knutselen!
 
-
+U vindt alle foto's terug in ons [fotoarchief][pics.nl]
 

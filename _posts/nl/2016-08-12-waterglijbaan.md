@@ -20,5 +20,5 @@ images:
 
 Een zonnig weertje op Veld & Duin dus de waterglijbaan was ook dit jaar een groot succes!
 
-
+U vindt alle foto's terug in ons [fotoarchief][pics.nl]
 
