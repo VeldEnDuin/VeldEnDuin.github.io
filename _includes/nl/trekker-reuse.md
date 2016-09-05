@@ -1,5 +1,5 @@
 
-##Kortingen
+## Kortingen
 
 Aantal nachten | Korting       
 :-------------:|:-----------:|
@@ -12,12 +12,12 @@ Aantal nachten | Korting
 - geldigheidsduur: het hele jaar door met uitzondering van juli en augustus
 
 
-##Inbegrepen
+## Inbegrepen
 - gemeente- en verblijfstaksen
 - parking 1 auto
 - elektriciteit
 
-##Extra's
+## Extra's
 EXTRA             | PRIJS 
 :------------------|:-----------|
 annulatieverzekering| 3,5 % van de totale reissom - [Allianz][pdf_allianz.nl] 
