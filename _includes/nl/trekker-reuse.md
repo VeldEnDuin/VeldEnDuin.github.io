@@ -18,6 +18,7 @@ Aantal nachten | Korting
 - elektriciteit
 
 ## Extra's
+
 EXTRA             | PRIJS 
 :------------------|:-----------|
 annulatieverzekering| 3,5 % van de totale reissom - [Allianz][pdf_allianz.nl] 
