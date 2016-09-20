@@ -22,8 +22,5 @@ Les travaux sont toujours effectués en hiver et sont répartis en plusieurs pha
 
 Les 10 premiers emplacements ont été aménagés en 2014-2015. Cet hiver, 7 autres emplacements de luxe seront construits. Ils sont adaptés à de grandes caravanes et privilégient espace et proximité avec la nature. 
 
-Plusieurs emplacements de luxe sont encore disponibles. Si vous êtes intéressé(e) ou si vous connaissez une personne à la recherche d’un bel emplacement, n’hésitez pas à nous contacter.
-
-Nous serons toujours ravis de vous accueillir pour une visite sur place.
 
 ![3D plan nouveau projet][plan3d.fr]
