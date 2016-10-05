@@ -16,7 +16,9 @@
     {% assign albthumbsize = page[tszattr] %}
 {% endif %}
 
-<div id="album" class="vd-album"
-     data-album='{"gp-id": {{site["gp-id"] | jsonify }}, "album-spec": {{albid | jsonify}}, "render": {{albrender | jsonify}}, "thumbsize": {{albthumbsize | jsonify}}, "uplink": {{ site.data.linkcode.pics[pgLang]| jsonify }} }'>
+<div id="album"
+    class="vd-album"
+    data-album='{"gp-id": {{site["gp-id"] | jsonify }}, "album-spec": {{albid | jsonify}}, "render": {{albrender | jsonify}}, "thumbsize": {{albthumbsize | jsonify}}, "uplink": {{ site.data.linkcode.pics[pgLang]| jsonify }},
+    "titles" : {{ site.data.albums.albums | jsonify }} }' >
     {{ site.data.langs[pgLang].dict.imgloading}}
 </div>
