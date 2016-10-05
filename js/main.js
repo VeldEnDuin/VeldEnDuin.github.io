@@ -592,6 +592,7 @@
             dims = data.dimensions;
             thumbsize = data.thumbsize || 100;
             uplink = data.uplink || "/pics";
+            titles = data.titles || [];
 
             vwr = $album.gpAlbumViewer({
                 "account": gpid,
@@ -600,6 +601,7 @@
                 "dimensions": dims,
                 "thumbsize": thumbsize,
                 "uplink": uplink,
+                "titles": titles,
                 "labels": TRANSL
             })[0];
         });
