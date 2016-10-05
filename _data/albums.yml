@@ -1,0 +1,16 @@
+albums:
+- id: 6320541579940326097
+  date: 2016-08-19
+  name:
+    nl: Knuteselen
+    fr: (todo fr) knutselen
+    de: (todo de) knutselen
+    en: (todo en) knutselen
+- id: 6318284175425917073
+  date: 2016-08-12
+  name:
+    nl: Waterglijbaan
+- id: 6316478440001687649
+  date: 2016-08-05
+  name:
+    nl: TOMCAT
