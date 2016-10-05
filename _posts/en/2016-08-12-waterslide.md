@@ -20,5 +20,5 @@ images:
 
 The weather was good at Veld & Duin so the water slide was again a success this year!
 
-
+All photos can be found in our [photo archive][pics.en] 
 

@@ -20,4 +20,4 @@ images:
 
 Un beau temps chez Veld & Duin donc le toboggan aquatique était de nouveau un succès!
 
-
+Vous trouvez tous les photos dans nos [archives photo][pics.fr]
