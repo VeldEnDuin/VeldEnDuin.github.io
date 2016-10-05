@@ -582,7 +582,8 @@
     $(function () {
 
         $('.vd-album').each(function () {
-            var data, gpid, albumspec, render, vwr, dims, thumbsize, uplink,
+            var data, gpid, albumspec, render, vwr, dims, thumbsize,
+                uplink, titles,
                 $album = $(this);
 
             data = $album.data('album');
