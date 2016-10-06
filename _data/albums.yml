@@ -2,18 +2,63 @@ albums:
 - id: 6320541579940326097
   date: 2016-08-19
   name:
-    nl: Knutselen
-    fr: Bricolage
-    de: Basteln
-    en: Crafting
+    nl: knutselen
+    fr: bricolage
+    de: basteln
+    en: crafting
 - id: 6318284175425917073
   date: 2016-08-12
   name:
-    nl: Waterglijbaan
-    fr: Toboggan aquatique
+    nl: waterglijbaan
+    fr: toboggan aquatique
     de: Wasserrutschbahn
-    en: Water slide
+    en: water slide
 - id: 6316478440001687649
   date: 2016-08-05
   name:
     nl: TOMCAT
+    fr: TOMCAT
+    de: TOMCAT
+    en: TOMCAT
+- id: 6313775088604606641
+  date: 2016-07-29
+  name:
+    nl: Auberge Espagnole & Saddle for Sale
+    fr: Auberge Espagnole & Saddle for Sale
+    de: Auberge Espagnole & Saddle for Sale
+    en: Auberge Espagnole & Saddle for Sale
+- id: 6311921681279709601
+  date: 2016-07-22
+  name:
+    nl: Cirque du Lapin
+    fr: Cirque du Lapin
+    de: Cirque du Lapin
+    en: Cirque du Lapin
+- id: 6310488256513684625
+  date: 2016-07-15
+  name:
+    nl: Marbel de luxe
+    fr: Marbel de luxe
+    de: Marbel de luxe
+    en: Marbel de luxe
+- id: 6310500348390397617
+  date: 2016-07-08
+  name:
+    nl: gidsbeurt
+    fr: tour guidé
+    de: geführte Tour
+    en: guided tour
+- id: 6269237568599464321
+  date: 2016-04-01
+  name:
+    nl: paasanimatie
+    fr: animation de pâques
+    de: Osteranimation
+    en: easter animation
+- id: 6266676812336662273
+  date: 2016-03-27
+  name:
+    nl: paaseierenraap
+    fr: chasse d'oeufs
+    de: Ostereiersuche
+    en: easter egg hunt
