@@ -18,7 +18,7 @@ images:
 
 {% include links.md %}
 
-##50 ans Veld & Duin
+## 50 ans Veld & Duin
 C’est en 1967 que les premiers épis de blé ont cédé la place aux tentes... En 2017, nous fêtons cet anniversaire!
 
 Envoyez-nous votre photo de vacances, votre film ou votre souvenir de Veld & Duin préféré ; nous le mettrons en avant à l’occasion de cette année anniversaire. Nous privilégions les photos de famille envoyées avant le 1er novembre.<br>

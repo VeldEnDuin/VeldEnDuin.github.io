@@ -18,7 +18,7 @@ images:
 
 {% include links.md %}
 
-##50 years Veld & Duin
+## 50 years Veld & Duin
 In 1967 the first corn was cleared to make place for tents... in 2017 we will celebrate!
 
 Please send us your favourite Veld & Duin holiday picture, movie or souvenir and we'll give it an honorable place in our anniversary year. We prefer pictures/movies of you and your family. Please send us these before the 11th of November.<br>
