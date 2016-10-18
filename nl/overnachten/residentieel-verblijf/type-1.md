@@ -33,7 +33,7 @@ Deze plaatsen zijn iets kleiner qua oppervlakte maar bieden evengoed een instant
 - geen wintervaste wateraansluiting - sanitairgebouw blijft open
 
 
-## Prijzen
+## Prijzen 2016
 
 TYPE 1                                         |PRIJS                               |
 :---------------------------------------------:|:----------------------------------:|
@@ -50,7 +50,7 @@ tellervergoeding      | € 18
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven
 
-
+**De prijzen voor 2017 vindt u [hier][pdf_prijzenresidentieel2017.nl].**
 
 ## Plan camping
 

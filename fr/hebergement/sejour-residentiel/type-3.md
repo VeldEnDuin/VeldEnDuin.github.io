@@ -35,7 +35,7 @@ Qui n’a jamais rêvé d’un pied-à-terre à la mer pour s’y rendre dès qu
 - raccordement à l’eau pendant l’hiver
 
 
-## Prix
+## Prix 2016
 
 TYPE 3                |PRIX           |
 :--------------------:|:--------------:|
@@ -53,7 +53,7 @@ compteur              | € 18 / compteur
 
 ⑴ prix sous réserve de modifications des prix de l’énergie
 
-
+**Vous trouvez les prix pour 2017 [ici][pdf_prijzenresidentieel2017.fr].**
 
 ## Plan du camping
 

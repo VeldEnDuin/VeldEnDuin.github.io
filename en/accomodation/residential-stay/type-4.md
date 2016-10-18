@@ -36,7 +36,7 @@ Would you like a big plot overlooking the wadi? Choose one of our luxurious plac
 - winter proof gas connection
 
 
-## Prices
+## Prices 2016
 
 TYPE 4                |PRICE           |
 :--------------------:|:--------------:|
@@ -54,7 +54,7 @@ counter               | € 18 / counter
 
 ⑴ price subject to changing energy charges
 
-
+**You can find our prices for 2017 [here][pdf_prijzenresidentieel2017.en].**
 
 ## Plan campsite
 

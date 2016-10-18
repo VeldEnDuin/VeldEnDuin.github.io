@@ -383,6 +383,11 @@ pdf_zomeranimatie:
     nl: /nl/pdf/animatie2016.pdf
     fr: /fr/pdf/animations2016.pdf
     de: /de/pdf/animation2016.pdf
+pdf_prijzenresidentieel2017:
+    nl: /nl/pdf/prijzenresidentieel2017.pdf
+    fr: /fr/pdf/prixresidentiel2017.pdf
+    de: /de/pdf/preisedaueraufenthalt2017.pdf
+    en: /en/pdf/pricesresidential2017.pdf
 
 
 # [7] externe links

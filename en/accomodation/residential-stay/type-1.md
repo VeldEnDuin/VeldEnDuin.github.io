@@ -33,7 +33,7 @@ These pitches are smaller but give you an instant holiday feeling, regardless of
 - no winter proof water connection – sanitary building remains open
 
 
-## Prices
+## Prices 2016
 
 TYPE 1                                         |PRICE                               |
 :---------------------------------------------:|:----------------------------------:|
@@ -50,7 +50,7 @@ counter               | € 18
 
 ⑴ price subject to changing energy charges
 
-
+**You can find our prices for 2017 [here][pdf_prijzenresidentieel2017.en].**
 
 ## Plan campsite
 

@@ -36,7 +36,7 @@ Een vaste stek aan de kust om steeds opnieuw naar terug te keren, wie droomt daa
 - wintervaste wateraansluiting
 
 
-## Prijzen
+## Prijzen 2016
 
 TYPE 3                |PRIJS           |
 :--------------------:|:--------------:|
@@ -54,7 +54,7 @@ tellervergoeding      | € 18 / teller
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven
 
-
+**De prijzen voor 2017 vindt u [hier][pdf_prijzenresidentieel2017.nl].**
 
 ## Plan camping
 
