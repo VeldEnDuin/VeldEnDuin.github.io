@@ -1,573 +1,572 @@
 albums:
-- id: 6320541579940326097
+- id: "6320541579940326097"
   date: 2016-08-19
   name:
     nl: knutselen
     fr: bricolage
     de: basteln
     en: crafting
-- id: 6318284175425917073
+- id: "6318284175425917073"
   date: 2016-08-12
   name:
     nl: waterglijbaan
     fr: toboggan aquatique
     de: Wasserrutschbahn
     en: water slide
-- id: 6316478440001687649
+- id: "6316478440001687649"
   date: 2016-08-05
   name:
     nl: TOMCAT
     fr: TOMCAT
     de: TOMCAT
     en: TOMCAT
-- id: 6313775088604606641
+- id: "6313775088604606641"
   date: 2016-07-29
   name:
     nl: Auberge Espagnole & Saddle for Sale
     fr: Auberge Espagnole & Saddle for Sale
     de: Auberge Espagnole & Saddle for Sale
     en: Auberge Espagnole & Saddle for Sale
-- id: 6311921681279709601
+- id: "6311921681279709601"
   date: 2016-07-22
   name:
     nl: Cirque du Lapin
     fr: Cirque du Lapin
     de: Cirque du Lapin
     en: Cirque du Lapin
-- id: 6310488256513684625
+- id: "6310488256513684625"
   date: 2016-07-15
   name:
     nl: Marbel de luxe
     fr: Marbel de luxe
     de: Marbel de luxe
     en: Marbel de luxe
-- id: 6310500348390397617
+- id: "6310500348390397617"
   date: 2016-07-08
   name:
     nl: gidsbeurt
     fr: tour guidé
     de: geführte Tour
     en: guided tour
-- id: 6269237568599464321
+- id: "6269237568599464321"
   date: 2016-04-01
   name:
     nl: paasanimatie
     fr: animation de pâques
     de: Osteranimation
     en: easter animation
-- id: 6266676812336662273
+- id: "6266676812336662273"
   date: 2016-03-27
   name:
     nl: paaseierenraap
     fr: "chasse d&apos;oeufs"
     de: Ostereiersuche
     en: easter egg hunt
-- id: 6241458221412419457
+- id: "6241458221412419457"
   date: 2015-12-29
   name:
     nl: glühweinavond
     fr: soirée de vin chaud
     de: Glühweinabend
     en: mulled wine evening
-- id: 6241457631407594673
+- id: "6241457631407594673"
   date: 2015-08-21
   name:
     nl: gidsbeurt
     fr: tour guidée
     de: geführte Tour
     en: guided tour
-- id: 6241460225986155377
+- id: "6241460225986155377"
   date: 2015-08-14
   name:
     nl: room 4 a pony
     fr: room 4 a pony
     de: room 4 a pony
     en: room 4 a pony
-- id: 6241457093012169313
+- id: "6241457093012169313"
   date: 2015-08-07
   name:
     nl: waterglijbaan
     fr: toboggan aquatique
     de: Wasserrutschbahn
     en: waterslide
-- id: 6241455939478328001
+- id: "6241455939478328001"
   date: 2015-07-24
   name:
     nl: casino havana
     fr: casino havana
     de: casino havana
     en: casino havana
-- id: 6241454052590589329
+- id: "6241454052590589329"
   date: 2015-07-17
   name:
     nl: ballen van Balltazar
     fr: les boules de Balltazar
     de: die Ballen von Balltazar
     en: the balls of Balltazar
-- id: 6241453676449410225
+- id: "6241453676449410225"
   date: 2015-07-10
   name:
     nl: workshop marsepeinfiguren
     fr: atelier des figurines de marsepain
     de: Workshop Marzipanfiguren
     en: workshop marzipan figurines
-- id: 6241453185914855585
+- id: "6241453185914855585"
   date: 2015-05-02
   name:
     nl: open camping dag
     fr: jour camping ouvert
     de: Tag des offenen Campings
     en: open camping day
-- id: 6241452066659192625
+- id: "6241452066659192625"
   date: 2015-04-05
   name:
     nl: paaseierenraap
     fr: "chasse d&apos;oeufs"
     de: Ostereiersuche
     en: easter egg hunt
-- id: 6241451615569597201
+- id: "6241451615569597201"
   date: 2014-12-26
   name:
     nl: glühweinavond
     fr: soirée de vin chaud
     de: Glühweinabend
     en: mulled wine evening
-- id: 6241451227988506193
+- id: "6241451227988506193"
   date: 2014-08-19
   name:
     nl: Ministers van de noordzee
     fr: Ministers van de noordzee
     de: Ministers van de noordzee
     en: Ministers van de noordzee
-- id: 6241450354398923681
+- id: "6241450354398923681"
   date: 2014-08-08
   name:
     nl: kinderkoken
     fr: cuire pour enfants
     de: Kinderkochen
     en: cooking for children
-- id: 6241450072100659457
+- id: "6241450072100659457"
   date: 2014-08-01
   name:
     nl: reuzebamboe
     fr: bambou géant
     de: Riesenbambus
     en: giant bamboo
-- id: 6241449019350797585
+- id: "6241449019350797585"
   date: 2014-07-25
   name:
     nl: Veld & Duin zingt
     fr: Veld & Duin chante
     de: Veld & Duin singt
     en: Veld & Duin sings
-- id: 6241448388383594273
+- id: "6241448388383594273"
   date: 2014-07-18
   name:
     nl: Red the Cat
     fr: Red the Cat
     de: Red the Cat
     en: Red the Cat
-- id: 6241448098523809873
+- id: "6241448098523809873"
   date: 2014-07-11
   name:
     nl: juwelen maken
     fr: création de bijoux
     de: Schmuck machen
     en: making jewelry
-- id: 6241447675033200625
+- id: "6241447675033200625"
   date: 2014-07-04
   name:
     nl: garnaalkruien
     fr: pêche aux crevettes
     de: Krabben fangen
     en: harvesting shrimps
-- id: 6241446842852826641
+- id: "6241446842852826641"
   date: 2014-04-20
   name:
     nl: paaseierenraap
     fr: "chasse d&apos;oeufs"
     de: Ostereiersuche
     en: easter egg hunt
-- id: 6241446324714916945
+- id: "6241446324714916945"
   date: 2014-04-11
   name:
     nl: paasanimatie knutselen
     fr: bricolage de pâques
     de: Osterbasteln
     en: easter crafting
-- id: 6241446129089066033
+- id: "6241446129089066033"
   date: 2013-12-27
   name:
     nl: glühweinavond
     fr: soirée de vin chaud
     de: Glühweinabend
     en: mulled wine evening
-- id: 6241445045130702689
+- id: "6241445045130702689"
   date: 2013-08-23
   name:
     nl: workshop circus
     fr: atelier de cirque
     de: Zirkusworkshop
     en: circus workshop
-- id: 6241443089495887569
+- id: "6241443089495887569"
   date: 2013-08-16
   name:
     nl: casino
     fr: casino
     de: Casino
     en: casino
-- id: 6241442664487205617
+- id: "6241442664487205617"
   date: 2013-08-09
   name:
     nl: knutselen
     fr: bricolage
     de: basteln
     en: crafting
-- id: 6241442664487205617
+- id: "6241442664487205617"
   date: 2013-08-09
   name:
     nl: knutselen
     fr: bricolage
     de: basteln
     en: crafting
-- id: 6241442147060331489
+- id: "6241442147060331489"
   date: 2013-08-02
   name:
     nl: waterglijbaan
     fr: toboggan aquatique
     de: Wasserrutschbahn
     en: waterslide
-- id: 6241441699498799489
+- id: "6241441699498799489"
   date: 2013-07-26
   name:
     nl: The Cave
     fr: The Cave
     de: The Cave
     en: The Cave
-- id: 6241441039715196737
+- id: "6241441039715196737"
   date: 2013-07-19
   name:
     nl: sneukelfietstocht
     fr: promenade gourmande à vélo
     de: Schnabuliereradtour
     en: snack & bike tour
-- id: 6241440080432110961
+- id: "6241440080432110961"
   date: 2013-07-12
   name:
     nl: kinderkoken
     fr: cuire pour enfants
     de: Kinderkochen
     en: cooking for children
-- id: 6241439435014770625
+- id: "6241439435014770625"
   date: 2013-07-05
   name:
     nl: graffitiworkshop
     fr: atelier graffitis
     de: Graffiti-Workshop
     en: graffiti workshop
-- id: 6241439026660564193
+- id: "6241439026660564193"
   date: 2013-04-11
   name:
     nl: paasanimatie knutselen
     fr: bricolage de pâques
     de: Osterbasteln
     en: easter crafting
-- id: 6241437957812683777
+- id: "6241437957812683777"
   date: 2012-12-28
   name:
     nl: glühweinavond
     fr: soirée de vin chaud
     de: Glühweinabend
     en: mulled wine evening
-- id: 6241437437587713809
+- id: "6241437437587713809"
   date: 2012-08-24
   name:
     nl: spelletjesvoormiddag
     fr: matinée de jeux
     de: Spielevormittag
     en: games
-- id: 6241435916252827441
+- id: "6241435916252827441"
   date: 2012-08-17
   name:
     nl: thé dansant
     fr: thé dansant
     de: Tanztee
     en: tea dance
-- id: 6241435109483685025
+- id: "6241435109483685025"
   date: 2012-08-10
   name:
     nl: Urkie Purkie
     fr: Urkie Purkie
     de: Urkie Purkie
     en: Urkie Purkie
-- id: 6241432940137383585
+- id: "6241432940137383585"
   date: 2012-08-03
   name:
     nl: levend tafelvoetbal
     fr: baby-foot géant
     de: menschliches Tischfußball
     en: human table soccer
-- id: 6241432533314930129
+- id: "6241432533314930129"
   date: 2012-07-27
   name:
     nl: waterglijbaan
     fr: toboggan aquatique
     de: Wasserrutschbahn
     en: waterslide
-- id: 6242154725567558513
+- id: "6242154725567558513"
   date: 2012-07-20
   name:
     nl: casino
     fr: casino
     de: Casino
     en: casino
-- id: 6241428251921547425
+- id: "6241428251921547425"
   date: 2012-07-13
   name:
     nl: knutselen
     fr: bricolage
     de: Basteln
     en: crafting
-- id: 6242272119984206401
+- id: "6242272119984206401"
   date: 2011-08-05
   name:
     nl: knutselen
     fr: bricolage
     de: Basteln
     en: crafting
-- id: 6241427101329707313
+- id: "6241427101329707313"
   date: 2011-07-29
   name:
     nl: Chris Hageland
     fr: Chris Hageland
     de: Chris Hageland
     en: Chris Hageland
-- id: 6242266189828113761
+- id: "6242266189828113761"
   date: 2011-07-22
   name:
     nl: levend tafelvoetbal
     fr: baby-foot géant
     de: menschliches Tischfußball
     en: human table soccer
-- id: 6242265316923285665
+- id: "6242265316923285665"
   date: 2011-07-15
   name:
     nl: circus Knal
     fr: cirque Knal
     de: Zirkus Knal
     en: circus Knal
-- id: 6242264779799040801
+- id: "6242264779799040801"
   date: 2011-07-08
   name:
     nl: sneukelfietstocht
     fr: promenade gourmande à vélo
     de: Schnabuliereradtour
     en: snack & bike tour
-- id: 6241426850710959841
+- id: "6241426850710959841"
   date: 2010-08-20
   name:
     nl: fietstocht
     fr: promenade  à vélo
     de: Radtour
     en: bike tour
-- id: 6241425570106775601
+- id: "6241425570106775601"
   date: 2010-08-13
   name:
     nl: thé dansant
     fr: thé dansant
     de: Tanztee
     en: tea dance
-- id: 6241425089498848929
+- id: "6241425089498848929"
   date: 2010-08-07
   name:
     nl: levend tafelvoetbal
     fr: baby-foot géant
     de: menschliches Tischfußball
     en: human table soccer
-- id: 6241424556717241265
+- id: "6241424556717241265"
   date: 2010-08-06
   name:
     nl: knutselen
     fr: bricolage
     de: Basteln
     en: crafting
-- id: 6241423926692035201
+- id: "6241423926692035201"
   date: 2010-07-30
   name:
     nl: circus Hoetchachov
     fr: cirque Hoetchachov
     de: Zirkus Hoetchachov
     en: circus Hoetchachov
-- id: 6241423671869517953
+- id: "6241423671869517953"
   date: 2010-07-23
   name:
     nl: waterglijbaan
     fr: toboggan aquatique
     de: Wasserrutschbahn
     en: waterslide
-- id: 6241423162908279345
+- id: "6241423162908279345"
   date: 2010-07-16
   name:
     nl: XL-games
     fr: XL-games
     de: XL-games
     en: XL-games
-- id: 6241422622021859569
+- id: "6241422622021859569"
   date: 2010-07-09
   name:
     nl: streekbierenfestival
     fr: bières régionales
     de: regionale Biere
     en: regional beers
-- id: 6241422319574267153
+- id: "6241422319574267153"
   date: 2010-05-14
   name:
     nl: harmonieorkest
     fr: "orchestre d&apos;harmonie"
     de: Harmoniekonzert
     en: harmony orchestra
-- id: 6241422033313780945
+- id: "6241422033313780945"
   date: 2010-04-04
   name:
     nl: paasbedeling
     fr: distribution de pâques
     de: Osterverteilung
     en: easter distribution
-- id: 6241421727535395441
+- id: "6241421727535395441"
   date: 2009-12-26
   name:
     nl: glühweinavond
     fr: soirée de vin chaud
     de: Glühweinabend
     en: mulled wine evening
-- id: 6241421286607835825
+- id: "6241421286607835825"
   date: 2009-08-21
   name:
     nl: garnaalkruien
     fr: pêche aux crevettes
     de: Krabben fangen
     en: harvesting shrimps
-- id: 6241420526913247297
+- id: "6241420526913247297"
   date: 2009-08-13
   name:
     nl: Piv Huvluv
     fr: Piv Huvluv
     de: Piv Huvluv
     en: Piv Huvluv
-- id: 6241419992945650401
+- id: "6241419992945650401"
   date: 2009-08-06
   name:
     nl: vliegeren
     fr: cerf-volants
     de: Drachen
     en: kites
-- id: 6241419530810816993
+- id: "6241419530810816993"
   date: 2009-07-30
   name:
     nl: fietstocht
     fr: promenade à vélo
     de: Radtour
     en: bike tour
-- id: 6241418851158903505
+- id: "6241418851158903505"
   date: 2009-07-25
   name:
     nl: waterglijbaan
     fr: toboggan aquatique
     de: Wasserrutschbahn
     en: waterslide
-- id: 6241417834711631105
+- id: "6241417834711631105"
   date: 2009-07-16
   name:
     nl: Pierewiet
     fr: Pierewiet
     de: Pierewiet
     en: Pierewiet
-- id: 6241417343616622225
+- id: "6241417343616622225"
   date: 2009-07-09
   name:
     nl: garnaalkruien
     fr: pêche aux crevettes
     de: Krabben fangen
     en: harvesting shrimps
-- id: 6241416515852677345
+- id: "6241416515852677345"
   date: 2009-05-22
   name:
     nl: harmonieorkest
     fr: "orchestre d&apos;harmonie"
     de: Harmoniekonzert
     en: harmony orchestra
-- id: 6241415232188980737
+- id: "6241415232188980737"
   date: 2008-12-26
   name:
     nl: glühweinavond
     fr: soirée de vin chaud
     de: Glühweinabend
     en: mulled wine evening
-- id: 6241413505212993665
+- id: "6241413505212993665"
   date: 2008-08-15
   name:
     nl: tapisplein
     fr: tapisplein
     de: Tapisplein
     en: tapisplein
-- id: 6241412320094250769
+- id: "6241412320094250769"
   date: 2008-07-25
   name:
     nl: Less
     fr: Less
     de: Less
     en: Less
-- id: 6241411303367733953
+- id: "6241411303367733953"
   date: 2008-07-21
   name:
     nl: graffiti
     fr: graffitis
     de: Graffiti
     en: graffiti
-- id: 6241409749469467953
+- id: "6241409749469467953"
   date: 2008-05-02
   name:
     nl: harmonieorkest en volksspelen
     fr: "orchestre d&apos;harmonie et jeux populaires"
     de: Harmoniekonzert und Volksspiele
     en: harmony orchestra and popular games
-- id: 6241408481017327137
+- id: "6241408481017327137"
   date: 2008-03-29
   name:
     nl: paasbedeling
     fr: distribution de pâques
     de: Osterverteilung
     en: easter distribution
-- id: 6241407703905494945
+- id: "6241407703905494945"
   date: 2007-12-28
   name:
     nl: glühweinavond
     fr: soirée de vin chaud
     de: Glühweinabend
     en: mulled wine evening
-- id: 6242162924710625825
+- id: "6242162924710625825"
   date: 2007-08-25
   name:
     nl: jubileum misviering
     fr: jubilée messe
     de: Jubiläum Messe
     en: jubilee mass
-- id: 6242164602591911153
+- id: "6242164602591911153"
   date: 2007-08-25
   name:
     nl: jubileum animatie
     fr: jubilée animation
     de: Jubiläum Animation
     en: jubilee animation
-- id: 6242166421097983857
+- id: "6242166421097983857"
   date: 2007-08-25
   name:
     nl: jubileum avondfeest
     fr: jubilée soirée
     de: Jubiläum Abendfest
     en: jubilee evening party
-- id: 6272648351397417073
-  date: 1967-00-00
+- id: "6272648351397417073"
   name:
     nl: periode 1967 - 1985
     fr: période 1967 - 1985
