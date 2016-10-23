@@ -1,3 +1,5 @@
+/*jslint browser: true */
+/*global console*/
 /*
 This is free and unencumbered software released into the public domain.
 
@@ -237,6 +239,7 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
             throw "GPGallery needs base and owner";
         }
     }
+
     GPGallery.prototype.cacheKey = function (albid) {
         var keyparts = [this.cacheKeyPrefix, this.owner, this.thumbsize];
         if (albid !== undefined && albid !== null) {
@@ -324,6 +327,7 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
         this.gallery = gallery;
         this.cache = cache || standardCache();
     }
+
     CachedGallery.prototype.getAlbumList = function (cb) {
         var key = this.gallery.cacheKey(), me = this;
         return this.cache.getItem(key, cb, function (icb) {
@@ -424,6 +428,10 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
         }
 
         this.gallery = new CachedGallery(new GPGallery(this.config));
+        this.titles = config.titles.reduce(function (res, albDescr, ndx) {
+            res[albDescr.id] = albDescr;
+            return res;
+        }, {});
         this.albListFull = {};
         this.matchingAlbumIds = [];
         this.matchingAlbumIdsByName = {};
@@ -719,8 +727,9 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
         function PlayRenderStrategy(gpAlbum) {
             var me = this, uplink = gpAlbum.config.uplink || "/pics/";
 
-            this.lang = $('html').attr('lang');
+            this.lang = $('html').attr('lang') || 'en';
             this.labels = gpAlbum.config.labels;
+            this.titles = gpAlbum.titles;
 
             this.toHome = function () {
                 if (gpAlbum.matchingAlbumIds.length > 1) {
@@ -788,7 +797,7 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
             Object.keys(matchIdsByName).sort().reverse().forEach(function (albname) {
                 var albid = matchIdsByName[albname],
                     alb = albSet[albid],
-                    albyear = Number(albname.slice(0, 4)),
+                    albyear,
                     albdate = albname.slice(0, 10),
                     albtext = albname.slice(11),
                     albtransl = parseLangDescription(alb.description),
@@ -797,6 +806,12 @@ http://picasaweb.google.com/data/feed/api/user/111743051856683336205?kind=album&
                     html,
                     $albView;
 
+                if (!isEmpty(me.titles[albid])) {
+                    albdate = me.titles[albid].date || albdate;
+                    albtransl = me.titles[albid].name || albtransl;
+                }
+
+                albyear = Number(albdate.slice(0, 4));
                 if (isNaN(albyear)) {
                     albyear = "****"; //TODO - translate?
                 }
