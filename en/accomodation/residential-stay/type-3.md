@@ -36,7 +36,7 @@ Do you secretly dream about a place to settle along the coast? Make your dream c
 - winter proof gas connection
 
 
-## Prices
+## Prices 2016
 
 TYPE 3                |PRICE           |
 :--------------------:|:--------------:|
@@ -54,7 +54,7 @@ counter     | € 18 / counter
 
 ⑴ price subject to changing energy charges
 
-
+**You can find our prices for 2017 [here][pdf_prijzenresidentieel2017.en].**
 
 ## Plan campsite
 

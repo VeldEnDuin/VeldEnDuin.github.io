@@ -36,7 +36,7 @@ Ein festes Zuhause an der Küste, in das man immer wieder zurückkehrt, wer trä
 - Winterfester Wasseranschluss
 
 
-## Preise
+## Preise 2016
 
 TYP 3                                         |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
@@ -54,7 +54,7 @@ Zähler                | € 18 / Zähler
 
 ⑴ Preis vorbehaltlich Änderungen der Energiepreise
 
-
+**Die Preise für 2017 finden Sie [hier][pdf_prijzenresidentieel2017.de].**
 
 ## Plan Campingplatz
 

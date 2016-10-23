@@ -35,7 +35,7 @@ Kom na een drukke werkweek onthaasten in uw caravan. Zo kunt u er nadien weer he
 - geen wintervaste wateraansluiting - sanitairgebouw blijft open
 
 
-## Prijzen
+## Prijzen 2016
 
 TYPE 2                |PRIJS           |
 :--------------------:|:--------------:|
@@ -53,7 +53,7 @@ tellervergoeding      | € 18
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven
 
-
+**De prijzen voor 2017 vindt u [hier][pdf_prijzenresidentieel2017.nl].**
 
 ## Plan camping
 

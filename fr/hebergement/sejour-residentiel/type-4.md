@@ -35,7 +35,7 @@ Vous cherchez un grand emplacement avec vue sur la pièce d’eau au centre du c
 - raccordement à l’eau pendant l’hiver
 
 
-## Prix
+## Prix 2016
 
 TYPE 4                |PRIX           |
 :--------------------:|:--------------:|
@@ -54,7 +54,7 @@ compteur              | € 18 / compteur
 
 ⑴ prix sous réserve de modifications des prix de l’énergie
 
-
+**Vous trouvez les prix pour 2017 [ici][pdf_prijzenresidentieel2017.fr].**
 
 ## Plan du camping
 

@@ -36,7 +36,7 @@ Wünschen Sie eine besonders große Parzelle mit Blick auf das zentral gelegene 
 - Winterfester Wasseranschluss
 
 
-## Preise
+## Preise 2016
 
 TYP 4                                         |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
@@ -54,7 +54,7 @@ Zähler                | € 18 / Zähler
 
 ⑴ Preis vorbehaltlich Änderungen der Energiepreise
 
-
+**Die Preise für 2017 finden Sie [hier][pdf_prijzenresidentieel2017.de].**
 
 ## Plan Campingplatz
 

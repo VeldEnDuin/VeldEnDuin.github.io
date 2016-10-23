@@ -35,7 +35,7 @@ Need a break? Come and unwind in your caravan!
 - no winter proof water connection – sanitary building remains open
 
 
-## Prices
+## Prices 2016
 
 TYPE 2                |PRICE           |
 :--------------------:|:--------------:|
@@ -53,7 +53,7 @@ counter    | € 18
 
 ⑴ price subject to changing energy charges
 
-
+**You can find our prices for 2017 [here][pdf_prijzenresidentieel2017.en].**
 
 ## Plan campsite
 

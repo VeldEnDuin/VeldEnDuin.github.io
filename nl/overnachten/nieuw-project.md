@@ -21,7 +21,7 @@ In dit ambitieuze project wordt het aantal plaatsen gereduceerd van 83 naar 53. 
 
 De werken gebeuren telkens in de winter en lopen gefaseerd. 
 
-In 2014-2015 werden de eerste 10 plaatsen aangelegd, deze winter komen er nog eens 7 nieuwe luxeplaatsen. Deze plaatsen zijn geschikt voor grote caravans en leggen het accent op ruimte en extra groenbeleving. 
+In 2014-2015 werden de eerste 10 plaatsen aangelegd, en vorige winter kwamen er nog eens 7 nieuwe luxeplaatsen. Deze plaatsen zijn geschikt voor grote caravans en leggen het accent op ruimte en extra groenbeleving. 
 
 
 ![3D plan nieuw project][plan3d.nl]

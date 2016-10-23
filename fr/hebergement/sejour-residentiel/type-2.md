@@ -36,7 +36,7 @@ Venez-vous détendre dans votre caravane après une semaine de travail éreintan
 - pas de raccordement à l’eau en hiver – le bâtiment sanitaire reste accessible
 
 
-## Prix
+## Prix 2016
 
 TYPE 2                |PRIX            |
 :--------------------:|:--------------:|
@@ -54,7 +54,7 @@ compteur              | € 18
 
 ⑴ prix sous réserve de modifications des prix de l’énergie
 
-
+**Vous trouvez les prix pour 2017 [ici][pdf_prijzenresidentieel2017.fr].**
 
 ## Plan du camping
 

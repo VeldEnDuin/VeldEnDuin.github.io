@@ -36,7 +36,7 @@ Entschleunigen Sie nach einer hektischen Arbeitswoche in Ihrem Wohnwagen. So kö
 - Kein winterfester Wasseranschluss – Sanitärgebäude bleibt geöffnet
 
 
-## Preise
+## Preise 2016
 
 TYP 2                                         |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
@@ -53,7 +53,7 @@ Zähler                | € 18
 
 ⑴ Preis vorbehaltlich Änderungen der Energiepreise
 
-
+**Die Preise für 2017 finden Sie [hier][pdf_prijzenresidentieel2017.de].**
 
 ## Plan Campingplatz
 

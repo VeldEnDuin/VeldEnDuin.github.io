@@ -21,6 +21,6 @@ In this ambitious project the total number of pitches will be reduced from 83 to
 
 The works will be carried out in winter in different phases each.
 
-In 2014-2015 the first 10 pitches were being installed and this winter guests may expect 7 new luxurious pitches. The latter are suitable for big caravans and emphasize extra space and green surroundings. 
+In 2014-2015 the first 10 pitches were being installed and last winter 7 new luxurious pitches were placed. The latter are suitable for big caravans and emphasize extra space and green surroundings. 
 
 ![3D plan nieuw project][plan3d.en]
