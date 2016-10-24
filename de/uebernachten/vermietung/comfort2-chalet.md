@@ -75,6 +75,8 @@ Verl. Wochenende (3 N.) |€ 195         |              |
 Zus. Nacht > 7 N.       |€ 45          |€ 69          | 
 14 Nächte             |€ 610         |€ 915         | 
 
+**Die Preise für 2017 finden Sie [hier][pdf_prijzenverhuur2017.de].** <br>
+! Ab 2017 sind 2 Internettickets im Preis einbegriffen
 
 ## Zeiträume
 

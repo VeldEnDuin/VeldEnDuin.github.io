@@ -388,6 +388,21 @@ pdf_prijzenresidentieel2017:
     fr: /fr/pdf/prixresidentiel2017.pdf
     de: /de/pdf/preisedaueraufenthalt2017.pdf
     en: /en/pdf/pricesresidential2017.pdf
+pdf_prijzenverhuur2017:
+    nl: /nl/pdf/prijzenverhuur2017.pdf
+    fr: /fr/pdf/prixlocation2017.pdf
+    de: /de/pdf/preisevermietung2017.pdf
+    en: /en/pdf/pricesrenting2017.pdf
+pdf_prijzentrekkers2017:
+    nl: /nl/pdf/prijzentrekkers2017.pdf
+    fr: /fr/pdf/prixcamping2017.pdf
+    de: /de/pdf/preisecamping2017.pdf
+    en: /en/pdf/pricescamping2017.pdf
+pdf_arrangementen2017:
+    nl: /nl/pdf/arrangementen2017.pdf
+    fr: /fr/pdf/forfaits2017.pdf
+    de: /de/pdf/arrangements2017.pdf
+    en: /en/pdf/offers2017.pdf
 
 
 # [7] externe links

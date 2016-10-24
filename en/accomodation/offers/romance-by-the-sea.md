@@ -25,6 +25,8 @@ insert:
 
 # Romance by the sea
 
+**You can find our offers for 2017 [here][pdf_arrangementen2017.en].**
+
 Our romance-by-the-sea offer is the ideal opportunity to spoil your beloved. Besides a wonderful stay a refreshing sauna session with extras will be awaiting you
 
 ## Offer includes

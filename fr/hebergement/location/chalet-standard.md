@@ -76,6 +76,8 @@ week-end prolongé (3 n)|€ 155         |              |
 nuitée supplémentaire > 7n |€ 35          |€ 53          | 
 14 nuitées             |€ 480         |€ 715         |           
 
+**Vous trouvez les prix pour 2017 [ici][pdf_prijzenverhuur2017.fr].** <br>
+! A partir de 2017 2 tickets d'internet sont inclus dans le prix
 
 ## Périodes
 

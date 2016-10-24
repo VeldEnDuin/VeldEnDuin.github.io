@@ -25,6 +25,8 @@ insert:
 
 # Romantiek aan zee
 
+**! De arrangementen voor 2017 vindt u [hier][pdf_arrangementen2017.nl].**
+
 Ons romantiek-aan-zee-arrangement is de gedroomde kans om uw geliefde in de watten te leggen. Naast een heerlijk verblijf wacht u een verkwikkende saunabeurt met extraatjes.
 
 ## Arrangement omvat

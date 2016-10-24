@@ -25,6 +25,8 @@ insert:
 
 # Romantik am Meer
 
+**Die Arrangements für 2017 finden Sie [hier][pdf_arrangementen2017.de].**
+
 Unser Romantik-am-Meer-Arrangement ist die ideale Gelegenheit, Ihrer/Ihrem geliebten Partner/in eine besondere Freude zu bereiten. Neben einem wunderbaren Aufenthalt erwartet Sie ein entspannender Saunabesuch mit Extras.
 
 ## Arrangement umfasst

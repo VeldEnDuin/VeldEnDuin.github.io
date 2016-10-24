@@ -26,6 +26,8 @@ insert:
 
 # Veld & Duin service
 
+**! De arrangementen voor 2017 vindt u [hier][pdf_arrangementen2017.nl].**
+
 Om optimaal te kunnen genieten van uw verblijf, bieden wij dit servicepakket aan. Dit geeft u de ruimte om het maximum uit uw vakantie te halen.
 
 ## Arrangement omvat

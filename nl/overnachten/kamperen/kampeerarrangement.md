@@ -52,18 +52,18 @@ U hebt een maand of langer te spenderen? Bekijk dan de verschillende kampeerarra
 
 ## Prijzen
 
-PERIODE        | PRIJS       
+PERIODE        | PRIJS 2017      
 :-------------:|:-----------:|
-april          |€ 320               
-mei            |€ 365                   
-juni           |€ 365       
-juli           |€ 650            
-augustus       |€ 650   
-september      |€ 320
-oktober        |€ 290
-november       |€ 290
-april-mei-juni |€ 695
-september-oktober-november|€ 695
+april          |€ 330               
+mei            |€ 375                   
+juni           |€ 375       
+juli           |€ 670            
+augustus       |€ 670   
+september      |€ 330
+oktober        |€ 300
+november       |€ 300
+april-mei-juni |€ 715
+september-oktober-november|€ 715
 
 ## Inbegrepen
 

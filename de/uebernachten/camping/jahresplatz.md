@@ -53,6 +53,8 @@ Ihr Wohnwagen mit allen Grundannehmlichkeiten bleibt das ganze Jahr über stehen
 
 ## Preise
 
+**Die Preise für 2017 finden Sie [hier][pdf_prijzentrekkers2017.de].**
+
 ZEITRAUM              | STELLPLATZKOSTEN       | GEMEINDESTEUER      
 :--------------------:|:----------------------:|--------------|
 6 Monate              |€ 1580                  |€ 129,85            

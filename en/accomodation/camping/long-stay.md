@@ -51,7 +51,10 @@ Your caravan stays on the campsite all year round. This means you can enjoy ever
 - max 6 persons / pitch
 - dags allowed: max 2 – no dangerous breeds
 
-##Prices 
+## Prices 
+
+**You can find our prices for 2017 [here][pdf_prijzentrekkers2017.en].**
+
 PERIOD              | STAND PRICE  | MUNICIPAL TAXES       
 :--------------------:|:----------------------:|--------------|
 6 months             |€ 1580                  |€ 129,85            

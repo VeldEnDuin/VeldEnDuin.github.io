@@ -25,6 +25,8 @@ insert:
 
 # Séjour romantique à la mer
 
+**Vous trouvez les forfaits pour 2017 [ici][pdf_arrangementen2017.fr].**
+
 Notre forfait séjour romantique à la mer est la formule idéale pour ceux et celles qui désirent surprendre leur partenaire. Ce forfait comprend un agréable séjour, un accès au sauna et quelques attentions supplémentaires.
 
 ## Ce forfait comprend

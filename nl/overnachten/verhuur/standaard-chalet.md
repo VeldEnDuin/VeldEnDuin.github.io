@@ -76,6 +76,7 @@ verlengd WE (3 n)   |€ 155         |
 extra nacht > 7 n    |€ 35          |€ 53            
 14 nachten          |€ 480         |€ 715           
 
+**De prijzen voor 2017 vindt u [hier][pdf_prijzenverhuur2017.nl].** <br>! Vanaf 2017 zijn 2 internettickets in de prijs inbegrepen. 
 
 ## Periodes
 

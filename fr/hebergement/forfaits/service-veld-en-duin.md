@@ -26,6 +26,8 @@ insert:
 
 # Service Veld & Duin
 
+**Vous trouvez les forfaits pour 2017 [ici][pdf_arrangementen2017.fr].**
+
 Nous vous proposons ce service afin de vous permettre de profiter pleinement de votre séjour. Ainsi, vous ne devez penser à rien d'autre qu'à vos vacances.
 
 ## Ce forfait comprend
@@ -51,7 +53,6 @@ confort 4           |€ 60
 confort 4 plus      |€ 60  
 appartement de luxe |€ 75         
         
-
 
 
 

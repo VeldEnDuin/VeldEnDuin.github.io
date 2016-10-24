@@ -26,6 +26,8 @@ insert:
 
 # Veld & Duin Service
 
+**Die Arrangements für 2017 finden Sie [hier][pdf_arrangementen2017.de].**
+
 Damit Sie Ihren Aufenthalt optimal genießen können, bieten wir Ihnen dieses Servicepaket an. Das lässt Ihnen den nötigen Spielraum, um das Maximum aus Ihrem Urlaub zu holen.
 
 ## Arrangement umfasst

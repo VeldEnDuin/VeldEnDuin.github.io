@@ -53,6 +53,8 @@ Ga voor de echte kampeerbeleving en trek er met het hele gezin op uit met de ten
 
 ## Prijzen
 
+**De prijzen voor 2017 vindt u [hier][pdf_prijzentrekkers2017.nl].**
+
 AANTAL PERSONEN | PRIJS / NACHT     
 :-------------:|:-----------:|
 1 persoon      |€ 20               

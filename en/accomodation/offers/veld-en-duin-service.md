@@ -26,6 +26,8 @@ insert:
 
 # Veld & Duin service
 
+**You can find our offers for 2017 [here][pdf_arrangementen2017.en].**
+
 To enjoy your stay even more, we offer you the following service package. Make the most of your holiday and book this extra service.
 
 ## Offer includes
@@ -50,4 +52,3 @@ comfort 2           |€ 50
 comfort 4           |€ 60         
 comfort 4 plus      |€ 60  
 luxury apartment    |€ 75         
-        

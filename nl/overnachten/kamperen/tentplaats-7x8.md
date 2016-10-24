@@ -54,6 +54,8 @@ Deze plaatsen van 7x8 meter zijn ideaal voor uw kleine (werp)tentje.
 
 ## Prijzen
 
+**De prijzen voor 2017 vindt u [hier][pdf_prijzentrekkers2017.nl].**
+
 AANTAL PERSONEN | PRIJS / NACHT     
 :-------------:|:-----------:|
 1 persoon      |€ 18              

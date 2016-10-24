@@ -51,6 +51,8 @@ Kombinieren Sie die Freiheit des Reisens mit einem Wohnwagen oder Wohnmobil mit 
 
 ## Preise
 
+**Die Preise für 2017 finden Sie [hier][pdf_prijzentrekkers2017.de].**
+
 ANZAHL PERSONEN | PREIS / NACHT      
 :-------------:|:-----------:|
 1 Person       |€ 20               

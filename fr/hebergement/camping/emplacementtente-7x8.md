@@ -54,6 +54,8 @@ Ces emplacements de 7x8 mètres conviennent parfaitement aux petites tentes (à 
 
 ## Prix
 
+**Vous trouvez les prix pour 2017 [ici][pdf_prijzentrekkers2017.fr].**
+
 NOMBRE DE PERSONNES | PRIX / NUIT     
 :------------------:|:-----------:|
 1 personne          |€ 18              

@@ -83,6 +83,8 @@ long weekend (3 n)   |             |€ 270          |
 extra night > 7 n    |€ 51         |€ 62           | € 95
 14 nights          |€ 735        |€ 850          | € 1270
 
+**You can find our prices for 2017 [here][pdf_prijzenverhuur2017.en].** <br>
+! From 2017 2 internet tickets are included in the price
 
 ## Periods
 

@@ -53,6 +53,8 @@ Votre caravane équipée de tout le confort reste sur son emplacement toute l’
 
 ## Prix
 
+**Vous trouvez les prix pour 2017 [ici][pdf_prijzentrekkers2017.fr].**
+
 PÉRIODE               | INDEMNITÉ DE RÉSIDENCE | TAXE COMMUNALE      
 :--------------------:|:----------------------:|--------------|
 6 maanden             |€ 1580                  |€ 129,85             
