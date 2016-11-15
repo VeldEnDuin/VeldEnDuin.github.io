@@ -6,12 +6,16 @@ permalink: /fr/2016-10-07-anniversaire.html
 
     
 images: 
-    - /img/nieuws/20161007-jubileum-01.jpg
-    - /img/nieuws/20161007-jubileum-01.jpg
-    - /img/nieuws/20161007-jubileum-01.jpg
-    - /img/nieuws/20161007-jubileum-01.jpg
-    - /img/nieuws/20161007-jubileum-01.jpg
-    - /img/nieuws/20161007-jubileum-01.jpg
+    - /img/nieuws/20161007-jubileum-01.svg
+    - /img/nieuws/20161007-jubileum-02.svg
+    - /img/nieuws/20161007-jubileum-03.svg
+    - /img/nieuws/20161007-jubileum-04.svg
+    - /img/nieuws/20161007-jubileum-05.svg
+    - /img/nieuws/20161007-jubileum-06.svg
+    - /img/nieuws/20161007-jubileum-07.svg
+    - /img/nieuws/20161007-jubileum-08.svg
+    - /img/nieuws/20161007-jubileum-09.svg
+    - /img/nieuws/20161007-jubileum-10.svg
   
     
 ---
