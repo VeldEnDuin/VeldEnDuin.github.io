@@ -1247,7 +1247,7 @@ items:
     fr: Fête culturel - Ostende - 10-16/8/17
     de: Kulturellen Fest - Oostende - 10-16/8/17
     en: Cultural festival - Ostend 10-16/8/17
-- ranking: 5
+- ranking: 1
   location: 51.231531, 2.911153
   subgroups:
   - event
@@ -1268,7 +1268,7 @@ items:
     fr: Ostende - 31/12/16
     de: Ostende - 31/12/16
     en: Ostend - 31/12/16
-- ranking: 45
+- ranking: 2
   location: 51.232079, 2.917726
   subgroups:
   - recrea
@@ -1290,7 +1290,7 @@ items:
     fr: piste de patinage - Ostende - 2/12/16 - 8/1/17
     de: Eisbahn - Ostende - 2/12/16 - 8/1/17
     en: ice skating - Ostend - 2/12/16 - 8/1/17
-- ranking: 52
+- ranking: 3
   location: 51.299385, 3.079408
   subgroups:
   - event
