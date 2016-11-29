@@ -11,7 +11,7 @@ images:
     
 ---
 
-Am Dienstag, 29. Dezember, begrüßen wir Sie gern um 17 Uhr zu unserem alljährlichen Glühweinabend. Die Teilnahme ist gratis, aber melden Sie sich bitte vorher an per Mail auf info@veldenduin.be. Bis dann!
+Am Donnerstag, 29. Dezember, begrüßen wir Sie gern um 17 Uhr zu unserem alljährlichen Glühweinabend. Die Teilnahme ist gratis, aber melden Sie sich bitte vorher an per Mail auf info@veldenduin.be. Bis dann!
 
 
 
