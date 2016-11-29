@@ -11,7 +11,7 @@ images:
     
 ---
 
-Op donderdag 29 december om 17 uur verwelkomen we onze kampeerders graag op onze jaarlijkse glühweinavond. Deelname is gratis maar gelieve vooraf in te schrijven per mail naar info@veldenduin.be. Tot daan!
+Op donderdag 29 december om 17 uur verwelkomen we onze kampeerders graag op onze jaarlijkse glühweinavond. Deelname is gratis maar gelieve vooraf in te schrijven per mail naar info@veldenduin.be. Tot dan!
 
 
 
