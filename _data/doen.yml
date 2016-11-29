@@ -1290,27 +1290,6 @@ items:
     fr: piste de patinage - Ostende - 2/12/16 - 8/1/17
     de: Eisbahn - Ostende - 2/12/16 - 8/1/17
     en: ice skating - Ostend - 2/12/16 - 8/1/17
-- ranking: 3
-  location: 51.299385, 3.079408
-  subgroups:
-  - event
-  images:
-  - "/img/doen/dhn-funrun.jpg"
-  link:
-    nl: http://www.dehaansport.be/activiteiten/christmas-fun-run/
-    fr: http://www.dehaansport.be/activiteiten/christmas-fun-run/
-    de: http://www.dehaansport.be/activiteiten/christmas-fun-run/
-    en: http://www.dehaansport.be/activiteiten/christmas-fun-run/
-  title:
-    nl: Christmas Fun Run
-    fr: Christmas Fun Run
-    de: Christmas Fun Run
-    en: Christmas Fun Run
-  caption:
-    nl: De Haan - 23/12/16
-    fr: De Haan - 23/12/16
-    de: De Haan - 23/12/16
-    en: De Haan - 23/12/16
 subgroups:
   nl:
     coast: kustbeleving
