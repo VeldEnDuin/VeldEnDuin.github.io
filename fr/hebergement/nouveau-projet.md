@@ -13,6 +13,7 @@ images:
 
 ---
 
+{% include links.md %}
 
 # Nouveau projet
 
