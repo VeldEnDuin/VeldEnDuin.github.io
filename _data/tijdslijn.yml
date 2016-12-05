@@ -387,6 +387,8 @@ items:
       fr: "7 nouveaux emplacements résidentiels qui privilégient espace et proximité avec la nature sont construits autour du wadi. Aussi les campeurs peuvent ent profiter grâce aux 4 nouveaux emplacements pour mobilhomes à côté du wadi."
       de: "7 neue residentielle Luxusplätze in grüner Umgebung werden um den Wadi herum angelegt. Auch Campinggänger mit Mobilheime und Caravans können hiervon genießen auf den 4 neuen Stellplätzen nebenan dem Wadi."
       en: "7 new luxury residential pitches are created around the wadi, creating a green surrounding. Also campers with mobilhomes or caravans can enjoy this scenery from the 4 new camper pitches in the same area."
+    images:
+      - /img/prevnieuwpr.jpg
 
   - date: 2017-01-01
     label: 2017
