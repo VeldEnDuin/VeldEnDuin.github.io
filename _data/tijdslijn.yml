@@ -388,7 +388,8 @@ items:
       de: "7 neue residentielle Luxusplätze in grüner Umgebung werden um den Wadi herum angelegt. Auch Campinggänger mit Mobilheime und Caravans können hiervon genießen auf den 4 neuen Stellplätzen nebenan dem Wadi."
       en: "7 new luxury residential pitches are created around the wadi, creating a green surrounding. Also campers with mobilhomes or caravans can enjoy this scenery from the 4 new camper pitches in the same area."
     images:
-      - /img/prevnieuwpr.jpg
+      - /img/tijdslijn/2016/wadi1.jpg
+      - /img/tijdslijn/2016/wadi2.jpg
 
   - date: 2017-01-01
     label: 2017
@@ -403,4 +404,4 @@ items:
       de: "Das Camping wird 50 Jahre alt und das wollen wir mit Ihnen feiern! Mehr Information bezüglich die Festlichkeiten folgt."
       en: "The camping exists 50 years and we would like to celebrate this with you! More information regarding the festivities will follow."
     images:
-      - /img/nieuws/20161007-jubileum-01.svg
+      - /img/nieuws/2017/jubileum50jaar.svg
