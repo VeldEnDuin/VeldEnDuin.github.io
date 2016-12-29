@@ -4,7 +4,7 @@ title: Luxusappartement
 preview: 
     title: Luxusappartement
     button:
-        price: 175
+        price: 180
         for: 2 Nächte
     list:
         - "5-6 Personen"
@@ -71,20 +71,17 @@ Diese neuen Luxusappartements liegen über der Rezeption und bieten einen herrli
 - kein Aufzug
 - Ganzjährig buchbar
 
-## Preise
+## Preise 2017
 
 ZEITRAUM            | NACHSAISON | NEBENSAISON | HOCHSAISON |
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 Nächte           |€ 175        |€ 195          |       
-Zus. Nacht         |€ 59         |€ 65           |           
-Midweek (Mon.-Fr.)   |€ 245        |€ 270          |
-Verl. Wochenende (3 N.)   |             |€ 270          |
-7 Nächte           |€ 415        |€ 460          | € 670
-Zus. Nacht > 7 N.   |€ 51         |€ 62           | € 95
-14 Nächte          |€ 735        |€ 850          | € 1270
-
-**Die Preise für 2017 finden Sie [hier][pdf_prijzenverhuur2017.de].** <br>
-! Ab 2017 sind 2 Internettickets im Preis einbegriffen
+2 Nächte           |€ 180        |€ 200          |       
+Zus. Nacht         |€ 61         |€ 69           |           
+Midweek (Mon.-Fr.)   |€ 250        |€ 285          |
+Verl. Wochenende (3 N.)   |             |€ 285          |
+7 Nächte           |€ 430        |€ 490          | € 695
+Zus. Nacht > 7 N.   |€ 53         |€ 65           | € 99
+14 Nächte          |€ 760       |€ 900          | € 1315
 
 ## Zeiträume
 
@@ -98,7 +95,7 @@ November bis März<br>ausgenommen Schulferien <br>und verlängerte Wochenenden |
 - Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
 
 ## Inbegriffen
-
+- Internet für 2 Geräte
 - Parkplatz für 1 Auto
 - Verbrauch von Wasser und Strom
 - **Ausnahme**: Verbrauch Strom ist exklusive ab 4 Nächte von 1/11. - 31/3.  
@@ -116,7 +113,7 @@ Parkplatz extra Auto  | € 4 / angefangenem Tag
 [Platz im Fahrradunterstand][fietsberging.de]| € 1 / Rad / Nacht
 [Sauna][sauna.de]   | € 30
 [Internet][internet.de]| abhängig von der Zeit online
-[Veld & Duin Service][veld_duin_service.de]| € 75
+[Veld & Duin Service][veld_duin_service.de]| € 70
 
 
 ## Plan Campingplatz

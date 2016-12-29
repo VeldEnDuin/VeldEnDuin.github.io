@@ -4,7 +4,7 @@ title: Chalet Comfort 4 Plus
 preview: 
     title: Chalet comfort 4 +
     button:
-        price: 155
+        price: 160
         for: 2 Nächte
     list:
         - "4 Personen"
@@ -64,20 +64,17 @@ Nach einem herrlichen Tag am Strand oder einem Ausflug in die Umgebung lockt die
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 - Ganzjährig buchbar
 
-## Preise
+## Preise 2017
 
 ZEITRAUM            | NACHSAISON | NEBENSAISON | HOCHSAISON |
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 Nächte           |€ 155        |€ 170          |       
-Zus. Nacht         |€ 52        |€ 58           |           
-Midweek (Mon.-Fr.)   |€ 215        |€ 240          |
-Verl. Wochenende (3 N.)   |             |€ 240          |
-7 Nächte           |€ 370        |€ 410          | € 595
-Zus. Nacht > 7 N.   |€ 45         |€ 55           | € 84
-14 Nächte          |€ 650        |€ 755          | € 1125
-
-**Die Preise für 2017 finden Sie [hier][pdf_prijzenverhuur2017.de].** <br>
-! Ab 2017 sind 2 Internettickets im Preis einbegriffen
+2 Nächte           |€ 160       |€ 180          |       
+Zus. Nacht         |€ 54       |€ 61           |           
+Midweek (Mon.-Fr.)   |€ 225        |€ 250          |
+Verl. Wochenende (3 N.)   |             |€ 250          |
+7 Nächte           |€ 380        |€ 435          | € 615
+Zus. Nacht > 7 N.   |€ 47        |€ 57           | € 88
+14 Nächte          |€ 675        |€ 795          | € 1170
 
 ## Zeiträume
 
@@ -91,7 +88,7 @@ November bis März<br>ausgenommen Schulferien <br>und verlängerte Wochenenden |
 - Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
 
 ## Inbegriffen
-
+- Internet für 2 Geräte
 - Parkplatz für 1 Auto
 - Verbrauch von Gas, Wasser und Strom
 - **Ausnahme**: Verbrauch Strom und Gas ist exklusive ab 4 Nächte von 1/11. - 31/3.  

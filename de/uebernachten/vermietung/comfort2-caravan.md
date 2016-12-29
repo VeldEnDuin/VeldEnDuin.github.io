@@ -4,7 +4,7 @@ title: Caravan Comfort 2
 preview: 
     title: Caravan Comfort 2
     button:
-        price: 140
+        price: 145
         for: 2 Nächte
     list:
         - "2 Personen"
@@ -65,20 +65,17 @@ Dieser Miniwohnwagen mit Privatgärtchen ist ideal für Menschen, die sich gern 
 - Ein kleiner Hund ist zulässig. Bitte beachten Sie jedoch, dass der Wohnraum nicht groß ist
 - Nicht buchbar zwischen 15.11. und 15.3.
 
-## Preise
+## Preise 2017
 
 ZEITRAUM               |NEBENSAISON   | HOCHSAISON   |
 :---------------------:|:------------:|:------------:|
-2 Nächte              |€ 140         |              |    
-Zus. Nacht            |€ 47          |              |
-Midweek (Mo.-Fr.)      |€ 195         |              |
-Verl. Wochenende (3 N.) |€ 195         |              |
-7 Nächte              |€ 330         |€ 480         | 
-Zus. Nacht > 7 N.       |€ 45          |€ 69          | 
-14 Nächte             |€ 610         |€ 915         | 
-
-**Die Preise für 2017 finden Sie [hier][pdf_prijzenverhuur2017.de].** <br>
-! Ab 2017 sind 2 Internettickets im Preis einbegriffen
+2 Nächte              |€ 145         |              |    
+Zus. Nacht            |€ 49         |              |
+Midweek (Mo.-Fr.)      |€ 205        |              |
+Verl. Wochenende (3 N.) |€ 205        |              |
+7 Nächte              |€ 350        |€ 500         | 
+Zus. Nacht > 7 N.       |€ 47          |€ 71         | 
+14 Nächte             |€ 645        |€ 950         | 
 
 ## Zeiträume
 
@@ -92,7 +89,7 @@ NEBENSAISON      |    HOCHSAISON|
 - Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
 
 ## Inbegriffen
-
+- Internet für 2 Geräte
 - Parkplatz für 1 Auto
 - Verbrauch von Gas, Wasser und Strom 
 
@@ -111,7 +108,7 @@ Parkplatz extra Auto  | € 4 / angefangenem Tag
 [Platz im Fahrradunterstand][fietsberging.de]| € 1 / Rad / Nacht
 [Sauna][sauna.de]   | € 30
 [Internet][internet.de]| abhängig von der Zeit online
-[Veld & Duin Service][veld_duin_service.de]| € 50
+[Veld & Duin Service][veld_duin_service.de]| € 45
 
 
 ## Plan Campingplatz
