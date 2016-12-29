@@ -4,7 +4,7 @@ title: Apartment Comfort 4 Plus
 preview: 
     title: Apartment
     button:
-        price: 155
+        price: 160
         for: 2 nights
     list:
         - "4-5 persons"
@@ -64,20 +64,17 @@ The apartments are situated next to the campsite. This means that you can enjoy 
 - shared bike storage
 - bookable throughout the year
 
-## Prices
+## Prices 2017
 
 PERIOD             | OFF-SEASON | MID SEASON | HIGH SEASON |
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 nights           |€ 155        |€ 170          |       
-extra night        |€ 52         |€ 58           |           
-midweek (mon-fri)   |€ 215        |€ 240          |
-long weekend (3 n)   |             |€ 240          |
-7 nights        |€ 370        |€ 410          | € 595
-extra night > 7 n    |€ 45         |€ 55           | € 84
-14 nights         |€ 650        |€ 755          | € 1125
-
-**You can find our prices for 2017 [here][pdf_prijzenverhuur2017.en].** <br>
-! From 2017 2 internet tickets are included in the price
+2 nights           |€ 160        |€ 180          |       
+extra night        |€ 54         |€ 61           |           
+midweek (mon-fri)   |€ 225        |€ 250          |
+long weekend (3 n)   |             |€ 250          |
+7 nights        |€ 380        |€ 435          | € 615
+extra night > 7 n    |€ 47         |€ 57           | € 88
+14 nights         |€ 675        |€ 795          | € 1170
 
 ## Periods
 
@@ -91,7 +88,7 @@ November until March<br>except for holidays <br>& long weekends | April until Ju
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
 
 ## included
-
+- internet for 2 devices
 - parking 1 car
 - consumption water & electricity
 - **exception**: costs of electricity are excluded from 4 nights from 1/11 - 31/3

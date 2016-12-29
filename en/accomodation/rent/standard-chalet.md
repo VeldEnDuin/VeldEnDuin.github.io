@@ -4,7 +4,7 @@ title: Standard chalet
 preview: 
     title: Standard chalet
     button:
-        price: 110
+        price: 115
         for: 2 nights
     list:
         - "4 persons"
@@ -64,20 +64,17 @@ Are you price-conscious but sleeping in a tent is not your cup of tea? Then a st
 - dogs allowed - max 2 – no dangerous breeds
 - not available between 15/11 and 15/3
 
-## Prices
+## Prices 2017
 
 PERIOD             |MID SEASON | HIGH SEASON |
 :------------------:|:------------:|:------------:|
-2 nights           |€ 110         |                      
-extra night        |€ 37          |                          
-midweek (mon-fri)   |€ 155         |               
-long weekend (3 n)   |€ 155         |               
-7 nights           |€ 260         |€ 380           
-extra nights > 7 n    |€ 35          |€ 53            
-14 nights         |€ 480         |€ 715           
-
-**You can find our prices for 2017 [here][pdf_prijzenverhuur2017.en].** <br>
-! From 2017 2 internet tickets are included in the price
+2 nights           |€ 115         |                      
+extra night        |€ 39          |                          
+midweek (mon-fri)   |€ 160         |               
+long weekend (3 n)   |€ 160         |               
+7 nights           |€ 275         |€ 395           
+extra nights > 7 n    |€ 37          |€ 55            
+14 nights         |€ 505        |€ 745          
 
 ## Periods
 
@@ -91,7 +88,7 @@ MID SEASON      |    HIGH SEASON|
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
 
 ## Included
-
+- internet for 2 devices
 - parking 1 car
 - consumption gas-water-electricity 
 
@@ -111,7 +108,7 @@ parking place extra car  | € 4 / started day
 [bicycle shed][fietsberging.en]| € 1 / bike / night
 [sauna][sauna.en]   | € 30
 [internet][internet.en]| depending on time online
-[Veld & Duin service][veld_duin_service.en]| € 50
+[Veld & Duin service][veld_duin_service.en]| € 60
 
 
 ## Plan campsite

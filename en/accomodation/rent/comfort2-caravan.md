@@ -4,7 +4,7 @@ title: Caravan Comfort 2
 preview: 
     title: Caravan Comfort 2
     button:
-        price: 140
+        price: 145
         for: 2 nights
     list:
         - "2 persons"
@@ -65,20 +65,17 @@ This mini-caravan with private garden is suitable for those who love being outdo
 - a small pet is allowed but keep in mind that the space is limited
 - not available between 15/11 and 15/3
 
-## Prices
+## Prices 2017
 
 PERIOD                 |MID SEASON    | HIGH SEASON  |
 :---------------------:|:------------:|:------------:|
-2 nights              |€ 140         |              |    
-extra night            |€ 47          |              |
-midweek (mon-fri)      |€ 195         |              |
-long weekend (3 n) |€ 195         |              |
-7 nights              |€ 330         |€ 480         | 
-extra night > 7 n       |€ 45          |€ 69          | 
-14 nights             |€ 610         |€ 915         | 
-
-**You can find our prices for 2017 [here][pdf_prijzenverhuur2017.en].** <br>
-! From 2017 2 internet tickets are included in the price
+2 nights              |€ 145         |              |    
+extra night            |€ 49          |              |
+midweek (mon-fri)      |€ 205         |              |
+long weekend (3 n) |€ 205        |              |
+7 nights              |€ 350         |€ 500         | 
+extra night > 7 n       |€ 47          |€ 71          | 
+14 nights             |€ 645         |€ 950         | 
 
 ## Periods
 
@@ -92,7 +89,7 @@ MID SEASON      |    HIGH SEASON|
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
 
 ## Included
-
+- internet for 2 devices
 - parking 1 car
 - consumption gas-water-electricity
 
@@ -111,7 +108,7 @@ parking place extra car  | € 4 / started day
 [bicycle shed][fietsberging.en]| € 1 / bike / night
 [sauna][sauna.en]   | € 30
 [internet][internet.en]| depending on time online
-[Veld & Duin service][veld_duin_service.en]| € 50
+[Veld & Duin service][veld_duin_service.en]| € 45
 
 
 ## Plan campsite
