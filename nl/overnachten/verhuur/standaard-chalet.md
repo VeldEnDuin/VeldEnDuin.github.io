@@ -4,7 +4,7 @@ title: Standaard chalet
 preview: 
     title: Standaard chalet
     button:
-        price: 110
+        price: 115
         for: 2 nachten
     list:
         - "4 personen"
@@ -68,15 +68,13 @@ Wenst u prijsbewust op vakantie te gaan maar is het slapen in een tent niet hele
 
 PERIODE             |TUSSENSEIZOEN | HOOGSEIZOEN  |
 :------------------:|:------------:|:------------:|
-2 nachten           |€ 110         |                      
-extra nacht         |€ 37          |                          
-midweek (ma-vrij)   |€ 155         |               
-verlengd WE (3 n)   |€ 155         |               
-7 nachten           |€ 260         |€ 380           
-extra nacht > 7 n    |€ 35          |€ 53            
-14 nachten          |€ 480         |€ 715           
-
-**De prijzen voor 2017 vindt u [hier][pdf_prijzenverhuur2017.nl].** <br>! Vanaf 2017 zijn 2 internettickets in de prijs inbegrepen. 
+2 nachten           |€ 115         |                      
+extra nacht         |€ 39          |                          
+midweek (ma-vrij)   |€ 160         |               
+verlengd WE (3 n)   |€ 160        |               
+7 nachten           |€ 275         |€ 395          
+extra nacht > 7 n    |€ 37          |€ 55           
+14 nachten          |€ 505        |€ 745           
 
 ## Periodes
 

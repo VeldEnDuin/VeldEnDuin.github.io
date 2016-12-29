@@ -4,7 +4,7 @@ title: Chalet Comfort 4 Plus
 preview: 
     title: Chalet comfort 4 +
     button:
-        price: 155
+        price: 160
         for: 2 nachten
     list:
         - "4 personen"
@@ -67,15 +67,13 @@ Na een heerlijk dagje strand of een uitstapje in de buurt lonkt het overdekte te
 
 PERIODE             | LAAGSEIZOEN | TUSSENSEIZOEN | HOOGSEIZOEN |
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 nachten           |€ 155        |€ 170          |       
-extra nacht         |€ 52         |€ 58           |           
-midweek (ma-vrij)   |€ 215        |€ 240          |
-verlengd weekend (3 n)|             |€ 240          |
-7 nachten           |€ 370        |€ 410          | € 595
-extra nacht > 7 n    |€ 45         |€ 55           | € 84
-14 nachten          |€ 650        |€ 755          | € 1125
-
-**De prijzen voor 2017 vindt u [hier][pdf_prijzenverhuur2017.nl].** <br>! Vanaf 2017 zijn 2 internettickets in de prijs inbegrepen. 
+2 nachten           |€ 160       |€ 180          |       
+extra nacht         |€ 54         |€ 61           |           
+midweek (ma-vrij)   |€ 225        |€ 250          |
+verlengd weekend (3 n)|             |€ 250          |
+7 nachten           |€ 380        |€ 435          | € 615
+extra nacht > 7 n    |€ 47         |€ 57           | € 88
+14 nachten          |€ 675        |€ 795          | € 1170
 
 ## Periodes
 

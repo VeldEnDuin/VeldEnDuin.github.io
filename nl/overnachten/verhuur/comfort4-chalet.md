@@ -4,7 +4,7 @@ title: Chalet Comfort 4
 preview: 
     title: Chalet comfort 4 
     button:
-        price: 140
+        price: 145
         for: 2 nachten
     list:
         - "4 personen"
@@ -66,16 +66,13 @@ Deze chalets liggen vooraan op de camping en dicht bij het speelplein. Ideaal du
 
 PERIODE             | LAAGSEIZOEN | TUSSENSEIZOEN | HOOGSEIZOEN |
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 nachten           |€ 140        |€ 155          |       
-extra nacht         |€ 48         |€ 53           |           
-midweek (ma-vrij)   |€ 195        |€ 220          |
-verlengd weekend (3 n)   |             |€ 220          |
-7 nachten           |€ 335        |€ 375          | € 540
-extra nacht > 7 n    |€ 41         |€ 49           | € 77
-14 nachten          |€ 590        |€ 685          | € 1025
-
-**De prijzen voor 2017 vindt u [hier][pdf_prijzenverhuur2017.nl].** <br>! Vanaf 2017 zijn 2 internettickets in de prijs inbegrepen. 
-
+2 nachten           |€ 145        |€ 165          |       
+extra nacht         |€ 49         |€ 55           |           
+midweek (ma-vrij)   |€ 205        |€ 230          |
+verlengd weekend (3 n)   |             |€ 230          |
+7 nachten           |€ 350        |€ 395          | € 560
+extra nacht > 7 n    |€ 42         |€ 52           | € 80
+14 nachten          |€ 615        |€ 725          | € 1065
 
 ## Periodes
 
