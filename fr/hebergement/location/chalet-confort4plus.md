@@ -4,7 +4,7 @@ title: Chalet Confort 4 Plus
 preview: 
     title: Chalet confort 4 +
     button:
-        price: 155
+        price: 160
         for: 2 nuits
     list:
         - "4 personnes"
@@ -64,20 +64,17 @@ De retour d’une agréable journée à la plage ou d’une balade dans les envi
 - chiens admis – max. 2 – pas de races dangereuses
 - disponible à la réservation toute l’année
 
-## Prix
+## Prix 2017
 
 PÉRIODE             |BASSE SAISON | MI-SAISON     | HAUTE SAISON|
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 nuits                |€ 155     |€ 170          |    
-nuitée supplémentaire  |€ 52      |€ 58            |
-mid-week (lun-ven)     |€ 215     |€ 240          |
-week-end prolongé (3 n)|          |€ 240          |
-7 nuitées              |€ 370       |€ 410          | € 595
-nuitée supplémentaire > 7n |€ 45  |€ 55          | € 84
-14 nuitées             |€ 650     |€ 755          | € 1125
-
-**Vous trouvez les prix pour 2017 [ici][pdf_prijzenverhuur2017.fr].** <br>
-! A partir de 2017 2 tickets d'internet sont inclus dans le prix
+2 nuits                |€ 160     |€ 180          |    
+nuitée supplémentaire  |€ 54      |€ 61            |
+mid-week (lun-ven)     |€ 225     |€ 250          |
+week-end prolongé (3 n)|          |€ 250          |
+7 nuitées              |€ 380      |€ 435          | € 615
+nuitée supplémentaire > 7n |€ 47  |€ 57          | € 88
+14 nuitées             |€ 675     |€ 795          | € 1170
 
 ## Périodes
 
@@ -91,7 +88,7 @@ novembre à mars<br>à l'exception des vacances scolaires <br>et weekends prolon
 - la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état
 
 ## Inclus
-
+- internet pour 2 appareils
 - parking 1 voiture
 - consommation gaz - eau - électricité 
 - **exception**: consommation de gaz et d'électricité est exclusive à partir de 4 nuits de 1/11 - 31/3

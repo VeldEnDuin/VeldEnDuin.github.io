@@ -4,7 +4,7 @@ title: Chalet standard
 preview: 
     title: Chalet standard
     button:
-        price: 110
+        price: 115
         for: 2 nuits
     list:
         - "4 personnes"
@@ -64,20 +64,17 @@ Vous souhaitez partir en vacances sans vous ruiner mais vous détestez dormir so
 - chiens admis – max. 2 – pas de races dangereuses
 - non disponible à la réservation entre le 15/11 et le 15/03
 
-## Prix
+## Prix 2017
 
 PÉRIODE                |MI-SAISON     | HAUTE SAISON |
 :---------------------:|:------------:|:------------:|
-2 nuits                |€ 110         |              |    
-nuitée supplémentaire  |€ 37          |              |
-mid-week (lun-ven)     |€ 155         |              |
-week-end prolongé (3 n)|€ 155         |              |
-7 nuitées              |€ 260         |€ 380         | 
-nuitée supplémentaire > 7n |€ 35          |€ 53          | 
-14 nuitées             |€ 480         |€ 715         |           
-
-**Vous trouvez les prix pour 2017 [ici][pdf_prijzenverhuur2017.fr].** <br>
-! A partir de 2017 2 tickets d'internet sont inclus dans le prix
+2 nuits                |€ 115        |              |    
+nuitée supplémentaire  |€ 39          |              |
+mid-week (lun-ven)     |€ 160         |              |
+week-end prolongé (3 n)|€ 160         |              |
+7 nuitées              |€ 275         |€ 395         | 
+nuitée supplémentaire > 7n |€ 37          |€ 55          | 
+14 nuitées             |€ 505         |€ 745         |           
 
 ## Périodes
 
@@ -91,7 +88,7 @@ MI-SAISON      |    HAUTE SAISON|
 - la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état
 
 ## Inclus
-
+- internet pour 2 appareils
 - parking 1 voiture
 - consommation gaz - eau - électricité 
 

@@ -63,7 +63,7 @@ Even alleen komen uitwaaien of met z'n tweetjes? In deze chalet is het heerlijk 
 - 1 hond toegelaten - geen gevaarlijke rassen
 - niet boekbaar tussen 15/11 en 15/3
 
-## Prijzen
+## Prijzen 2017
 
 PERIODE                |TUSSENSEIZOEN | HOOGSEIZOEN  |
 :---------------------:|:------------:|:------------:|
@@ -81,11 +81,12 @@ TUSSENSEIZOEN      |    HOOGSEIZOEN|
 :--------------------:|:-----------------:|:-------------:|
  april tot juni, <br>september en oktober, <br>schoolvakanties, <br>verlengde weekends  | juli en augustus
 
-##Waarborg
+## Waarborg
 - € 50 - contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
 
-##Inbegrepen
+## Inbegrepen
+- internet voor 2 toestellen
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
 

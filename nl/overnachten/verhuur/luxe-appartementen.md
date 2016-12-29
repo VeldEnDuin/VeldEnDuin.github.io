@@ -95,7 +95,7 @@ november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | a
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is 
 
 ## Inbegrepen
-
+- internet voor 2 toestellen
 - parking 1 auto
 - verbruik water en elektriciteit 
 - **uitzondering**: verbruik elektriciteit is exclusief bij huur vanaf 4 nachten van 1/11 - 31/3

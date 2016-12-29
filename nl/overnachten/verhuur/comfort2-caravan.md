@@ -63,7 +63,7 @@ Deze mini-caravan met privé-tuintje is ideaal voor wie houdt van het buitenleve
 - kleine hond toegelaten maar houd er rekening mee dat de woonruimte beperkt is
 - niet boekbaar tussen 15/11 en 15/3
 
-## Prijzen
+## Prijzen 2017
 
 PERIODE                |TUSSENSEIZOEN | HOOGSEIZOEN  |
 :---------------------:|:------------:|:------------:|
@@ -86,6 +86,7 @@ TUSSENSEIZOEN      |    HOOGSEIZOEN|
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
 
 ## Inbegrepen
+- internet voor 2 toestellen
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
 

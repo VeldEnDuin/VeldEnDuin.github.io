@@ -4,7 +4,7 @@ title: Chalet Confort 2
 preview: 
     title: Chalet Confort 2
     button:
-        price: 140
+        price: 145
         for: 2 nuits
     list:
         - "séjour agréable à 2"
@@ -63,20 +63,17 @@ Envie de vous ressourcer seul ou à deux? Vous vous sentirez comme à la maison 
 - 1 chien admis – pas de races dangereuses
 - non disponible à la réservation du 15/11 au 15/03
 
-## Prix
+## Prix 2017
 
 PÉRIODE                |MI-SAISON     | HAUTE SAISON |
 :---------------------:|:------------:|:------------:|
-2 nuits                |€ 140         |              |    
-nuitée supplémentaire  |€ 47          |              |
-mid-week (lun-ven)     |€ 195         |              |
-week-end prolongé (3 n)|€ 195         |              |
-7 nuitées              |€ 330         |€ 480         | 
-nuitée supplémentaire > 7n |€ 45          |€ 69          | 
-14 nuitées             |€ 610         |€ 915         | 
-
-**Vous trouvez les prix pour 2017 [ici][pdf_prijzenverhuur2017.fr].** <br>
-! A partir de 2017 2 tickets d'internet sont inclus dans le prix
+2 nuits                |€ 145         |              |    
+nuitée supplémentaire  |€ 49          |              |
+mid-week (lun-ven)     |€ 205         |              |
+week-end prolongé (3 n)|€ 205         |              |
+7 nuitées              |€ 350         |€ 500         | 
+nuitée supplémentaire > 7n |€ 47          |€ 71          | 
+14 nuitées             |€ 645         |€ 950        | 
 
 ## Périodes
 
@@ -90,7 +87,7 @@ MI-SAISON      |    HAUTE SAISON|
 - la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état
 
 ## Inclus
-
+- internet pour 2 appareils
 - parking 1 voiture
 - consommation gaz - eau - électricité 
 
@@ -109,7 +106,7 @@ parking voiture supplémentaire  | € 4 / jour entamé
 [emplacement vélo][fietsberging.fr]| € 1 / vélo / nuit
 [sauna][sauna.fr]   | € 30
 [internet][internet.fr]| prix en fonction de la durée de connexion
-[service Veld & Duin][veld_duin_service.fr]| € 50
+[service Veld & Duin][veld_duin_service.fr]| € 45
 
 
 ## Plan du camping

@@ -4,7 +4,7 @@ title: Appartement de luxe
 preview: 
     title: Appartement de luxe
     button:
-        price: 175
+        price: 180
         for: 2 nuits
     list:
         - "5-6 personnes"
@@ -71,21 +71,17 @@ Situés au-dessus de la réception, ces nouveaux appartements luxueux offrent un
 - pas d’ascenseur
 - disponible à la réservation toute l’année
 
-## Prix
+## Prix 2017
 
 PÉRIODE             |BASSE SAISON | MI-SAISON     | HAUTE SAISON|
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 nuits                |€ 175     |€ 195          |    
-nuitée supplémentaire  |€ 59      |€ 65            |
-mid-week (lun-ven)     |€ 245     |€ 270          |
-week-end prolongé (3 n)|          |€ 270          |
-7 nuitées              |€ 415       |€ 460          | € 670
-nuitée supplémentaire > 7n |€ 51  |€ 62           | € 95
-14 nuitées             |€ 735     |€ 850          | € 1270
-
-**Vous trouvez les prix pour 2017 [ici][pdf_prijzenverhuur2017.fr].** <br>
-! A partir de 2017 2 tickets d'internet sont inclus dans le prix
-
+2 nuits                |€ 180    |€ 200          |    
+nuitée supplémentaire  |€ 61      |€ 69            |
+mid-week (lun-ven)     |€ 250     |€ 285          |
+week-end prolongé (3 n)|          |€ 285          |
+7 nuitées              |€ 430       |€ 490          | € 695
+nuitée supplémentaire > 7n |€ 53  |€ 65           | € 99
+14 nuitées             |€ 760     |€ 900          | € 1315
 
 ## Périodes
 
@@ -99,7 +95,7 @@ novembre à mars<br>à l'exception des vacances scolaires <br>et weekends prolon
 - la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état
 
 ## Inclus
-
+- internet pour 2 appareils
 - parking 1 voiture
 - consommation eau - électricité 
 - **exception**: consommation d'électricité est exclusive à partir de 4 nuits de 1/11 - 31/3
@@ -117,7 +113,7 @@ parking voiture supplémentaire  | € 4 / jour entamé
 [emplacement vélo][fietsberging.fr]| € 1 / vélo / nuit
 [sauna][sauna.fr]   | € 30
 [internet][internet.fr]| prix en fonction de la durée de connexion
-[service Veld & Duin][veld_duin_service.fr]| € 75
+[service Veld & Duin][veld_duin_service.fr]| € 70
 
 
 ## Plan du camping
