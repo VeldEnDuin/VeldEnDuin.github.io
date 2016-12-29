@@ -4,7 +4,7 @@ title: Séjour résidentiel
 preview: 
     title: Séjour résidentiel
     button:
-        price: 1580
+        price: 1720
         for: par an
     list:
         - "emplacements de 80 m²"
@@ -51,14 +51,12 @@ Votre caravane équipée de tout le confort reste sur son emplacement toute l’
 - max. 6 personnes / emplacement
 - chiens admis : max. 2 – pas de chiens dangereux
 
-## Prix
-
-**Vous trouvez les prix pour 2017 [ici][pdf_prijzentrekkers2017.fr].**
+## Prix 2017
 
 PÉRIODE               | INDEMNITÉ DE RÉSIDENCE | TAXE COMMUNALE      
 :--------------------:|:----------------------:|--------------|
-6 maanden             |€ 1580                  |€ 129,85             
-1 jaar<br>(1/1-31/12) |€ 1685                  |€ 340,79                 
+6 maanden             |€ 1615                  |€ 132,50             
+1 jaar<br>(1/1-31/12) |€ 1720                  |€ 347,68                
  
 ## Inclus
 
@@ -69,9 +67,9 @@ PÉRIODE               | INDEMNITÉ DE RÉSIDENCE | TAXE COMMUNALE
 SUPPLÉMENT         | PRIX 
 :------------------|:-----------|
 électricité        |selon la consommation
-forfait eau        |€ 68
-compteur           |€ 18
-déchets ménagers   |€ 65 (incl 25 sacs poubelles)
+forfait eau        |€ 70
+compteur           |€ 19
+déchets ménagers   |€ 70 (incl 25 sacs poubelles)
 carte barrière     |€ 100 (caution € 75)
 auvent hiver       |€ 100
 [assurance incendie][pdf_brandverzekering.fr]|obligatoire - affiliation à notre assurance de groupe possible

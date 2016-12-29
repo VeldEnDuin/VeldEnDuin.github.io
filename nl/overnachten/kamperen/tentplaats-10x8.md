@@ -4,7 +4,7 @@ title: Tentplaats 10x8
 preview: 
     title: Tentplaats 10x8
     button:
-        price: 20
+        price: 22
         for: per nacht
     list:
         - "afmetingen: 10x8 meter"
@@ -51,17 +51,15 @@ Ga voor de echte kampeerbeleving en trek er met het hele gezin op uit met de ten
 - max 6 personen / plaats
 - honden toegelaten: max 2 - geen gevaarlijke rassen
 
-## Prijzen
-
-**De prijzen voor 2017 vindt u [hier][pdf_prijzentrekkers2017.nl].**
+## Prijzen 2017
 
 AANTAL PERSONEN | PRIJS / NACHT     
 :-------------:|:-----------:|
-1 persoon      |€ 20               
-2 personen     |€ 23                   
-3 personen     |€ 26       
-4 personen     |€ 29             
-5/6 personen   |€ 33       
+1 persoon      |€ 22            
+2 personen     |€ 25                   
+3 personen     |€ 28       
+4 personen     |€ 31             
+5/6 personen   |€ 34       
 
 15/7 - 15/8: reservatie vanaf 7 nachten
 

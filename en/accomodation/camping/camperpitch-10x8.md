@@ -4,7 +4,7 @@ title: Camper pitch 10x8
 preview: 
     title: Camper pitch 10x8
     button:
-        price: 20
+        price: 22
         for: per night
     list:
         - "10x8 m"
@@ -49,17 +49,15 @@ Combine the freedom of travelling with a caravan or mobile home with the comfort
 - max 6 persons / pitch
 - dogs allowed - max 2 – no dangerous breeds
 
-## Prices
-
-**You can find our prices for 2017 [here][pdf_prijzentrekkers2017.en].**
+## Prices 2017
 
 NUMBER OF PERSONS | PRICE / NIGHT     
 :-------------:|:-----------:|
-1 person      |€ 20               
-2 persons     |€ 23                   
-3 persons     |€ 26       
-4 persons     |€ 29             
-5/6 persons   |€ 33       
+1 person      |€ 22               
+2 persons     |€ 25                   
+3 persons     |€ 28       
+4 persons     |€ 31             
+5/6 persons   |€ 34       
 
 15/7 - 15/8: upon reservation as from 7 nights
 

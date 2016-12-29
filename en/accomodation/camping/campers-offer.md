@@ -4,7 +4,7 @@ title: Campers’ offer
 preview: 
     title: Campers’ offer
     button:
-        price: 290
+        price: 330
         for: per month
     list:
         - "80 m² pitches"
@@ -50,7 +50,7 @@ Do you want to stay for a month or even more? Have a look at the different packa
 
 ## Prices
 
-PERIOD        | PRICE       
+PERIOD        | PRICE 2017       
 :-------------:|:-----------:|
 April          |€ 330               
 May            |€ 375                   

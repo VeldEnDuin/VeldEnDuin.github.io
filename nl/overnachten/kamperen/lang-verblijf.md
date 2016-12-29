@@ -4,7 +4,7 @@ title: Vaste kampeerplaats
 preview: 
     title: Vaste kampeerplaats
     button:
-        price: 1580
+        price: 1720
         for: per jaar
     list:
         - "80 m² plaatsen"
@@ -51,14 +51,12 @@ Uw trekcaravan met alle basisvoorzieningen blijft het hele jaar staan. Zo kunt u
 - max 6 personen / plaats
 - honden toegelaten: max 2 - geen gevaarlijke rassen
 
-## Prijzen
-
-**De prijzen voor 2017 vindt u [hier][pdf_prijzentrekkers2017.nl].**
+## Prijzen 2017
 
 PERIODE               | STANDPLAATSVERGOEDING  | GEMEENTETAKS       
 :--------------------:|:----------------------:|--------------|
-6 maanden             |€ 1580                  |€ 129,85            
-1 jaar<br>(1/1-31/12) |€ 1685                  |€ 340,79                 
+6 maanden             |€ 1615                  |€ 132,50            
+1 jaar<br>(1/1-31/12) |€ 1720                  |€ 347,68                 
  
 ## Inbegrepen
 
@@ -69,9 +67,9 @@ PERIODE               | STANDPLAATSVERGOEDING  | GEMEENTETAKS
 EXTRA             | PRIJS 
 :------------------|:-----------|
 elektriciteit      |volgens verbruik 
-forfait water      |€ 68
-tellervergoeding   |€ 18
-huisvuilbijdrage   |€ 65 (incl 20 zakken restafval + 5 PMD)
+forfait water      |€ 70
+tellervergoeding   |€ 19
+huisvuilbijdrage   |€ 70 (incl 20 zakken restafval + 5 PMD)
 slagboomkaart      |€ 100 (waarborg € 75)
 voortent winter    |€ 100
 [brandverzekering][pdf_brandverzekering.nl]|verplicht - aansluiting groepsverzekering mogelijk

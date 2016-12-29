@@ -4,7 +4,7 @@ title: Kampeerarrangement
 preview: 
     title: Kampeerarrangement
     button:
-        price: 290
+        price: 330
         for: per mnd
     list:
         - "80 m² plaatsen"

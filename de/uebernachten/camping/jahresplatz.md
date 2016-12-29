@@ -4,7 +4,7 @@ title: Jahresplatz
 preview: 
     title: Jahresplatz
     button:
-        price: 1580
+        price: 1720
         for: pro Jahr
     list:
         - "Plätze 80 m²"
@@ -51,14 +51,12 @@ Ihr Wohnwagen mit allen Grundannehmlichkeiten bleibt das ganze Jahr über stehen
 - Höchstens 6 Personen/Platz
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 
-## Preise
-
-**Die Preise für 2017 finden Sie [hier][pdf_prijzentrekkers2017.de].**
+## Preise 2017
 
 ZEITRAUM              | STELLPLATZKOSTEN       | GEMEINDESTEUER      
 :--------------------:|:----------------------:|--------------|
-6 Monate              |€ 1580                  |€ 129,85            
-1 Jahr<br>(1.1.-31.12.) |€ 1685                  |€ 340,79                 
+6 Monate              |€ 1615                 |€ 132,50           
+1 Jahr<br>(1.1.-31.12.) |€ 1720                 |€ 347,68                 
  
 ## Inbegriffen
 
@@ -69,9 +67,9 @@ ZEITRAUM              | STELLPLATZKOSTEN       | GEMEINDESTEUER
 EXTRA             | PREIS 
 :------------------|:-----------|
 Strom              |nach Verbrauch
-Pauschal Wasser    |€ 68
-Zähler             |€ 18
-Hausmüllgebühr     |€ 65 (inkl. 25 Müllsäcke)
+Pauschal Wasser    |€ 70
+Zähler             |€ 19
+Hausmüllgebühr     |€ 70 (inkl. 25 Müllsäcke)
 Karte für Schranke |€ 100 (Kaution € 75)
 Wintervorzelt      |€ 100
 [Brandversicherung][pdf_brandverzekering.de]|verpflichtet - Möglichkeit eines Abschlusses über unsere Gruppenversicherung

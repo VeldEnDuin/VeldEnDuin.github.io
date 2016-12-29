@@ -4,7 +4,7 @@ title: Emplacement Tente 7x8
 preview: 
     title: Emplacement Tente 7x8
     button:
-        price: 18
+        price: 19
         for: par nuit
         
     list:
@@ -52,16 +52,14 @@ Ces emplacements de 7x8 mètres conviennent parfaitement aux petites tentes (à 
 - max. 4 personnes / emplacement
 - chiens admis – max. 2 – pas de races dangereuses
 
-## Prix
-
-**Vous trouvez les prix pour 2017 [ici][pdf_prijzentrekkers2017.fr].**
+## Prix 2017
 
 NOMBRE DE PERSONNES | PRIX / NUIT     
 :------------------:|:-----------:|
-1 personne          |€ 18              
-2 personnes         |€ 21                   
-3 personnes         |€ 24      
-4 personnes         |€ 27            
+1 personne          |€ 19              
+2 personnes         |€ 22                   
+3 personnes         |€ 25      
+4 personnes         |€ 28            
       
 
 15/7 - 15/8: réservation à partir de 7 nuits

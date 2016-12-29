@@ -4,7 +4,7 @@ title: Emplacement Campeur 10x8
 preview: 
     title: Emplacement Campeur 10x8
     button:
-        price: 20
+        price: 22
         for: par nuit
     list:
         - "dimensions : 10x8 mètres"
@@ -48,17 +48,15 @@ Combinez la liberté de vacances en caravane ou mobile home au confort offert pa
 - max. 4 personnes / emplacement
 - chiens admis – max. 2 – pas de races dangereuses
 
-## Prix
-
-**Vous trouvez les prix pour 2017 [ici][pdf_prijzentrekkers2017.fr].**
+## Prix 2017
 
 NOMBRE DE PERSONNES | PRIX / NUIT     
 :------------------:|:-----------:|
-1 personne          |€ 20              
-2 personnes         |€ 23                   
-3 personnes         |€ 26      
-4 personnes         |€ 29
-5/6 personnes       |€ 33
+1 personne          |€ 22              
+2 personnes         |€ 25                   
+3 personnes         |€ 28      
+4 personnes         |€ 31
+5/6 personnes       |€ 34
 
 15/7 - 15/8: réservation à partir de 7 nuits
 
