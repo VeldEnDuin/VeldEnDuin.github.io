@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Séjour romantique à la mer
+title: Forfait sauna
 preview: 
-    title: Séjour romantique à la mer
+    title: Forfait sauna
     button:
-        price: 150
+        price: 135
         for: 2 nuits
     list:
         - "2 nuits"
         - "accès au sauna"
-        - "tapas"
+        - "produits de bien-être et musique"
         
 images:
-    - /img/overnachten/arrangementen-romzee/arrromzee-01.jpg
+    - /img/voorzieningen/sauna/sauna-04.jpg
 
 insert:
     - page-images-top
@@ -23,19 +23,15 @@ insert:
 {% include links.md %}
 
 
-# Séjour romantique à la mer
+# Forfait sauna
 
-**Vous trouvez les forfaits pour 2017 [ici][pdf_arrangementen2017.fr].**
-
-Notre forfait séjour romantique à la mer est la formule idéale pour ceux et celles qui désirent surprendre leur partenaire. Ce forfait comprend un agréable séjour, un accès au sauna et quelques attentions supplémentaires.
+Outre un séjour agréable, nous vous proposons ue séance de sauna tonifiante accompagnée des produits de bien-être. 
 
 ## Ce forfait comprend
 
 - 2 nuits dans un hébergement de votre choix
 - l'utilisation du [sauna][sauna.fr] et de l'espace détente (douche, sièges de relaxation, tonneau d'eau froide)
-- les extras au choix parmi les propositions suivantes:
-    - produits sains: fruit, noix, bouteille de jus de fruit bio
-    - produits savoureux: bouteile de vin + 3 tapas
+- produits de bien-être et musique relaxante
 
 
 ## Bon à savoir
@@ -43,15 +39,15 @@ Notre forfait séjour romantique à la mer est la formule idéale pour ceux et c
 - valable pour tout type d’hébergement
 - disponible à la réservation toute l’année à l’exception des vacances scolaires et week-ends prolongés
 
-## Prix
+## Prix 2017
 
 TYPE D'HÉBERGEMENT  | BASSE SAISON| MI-SAISON    |
 :------------------:|:-----------:|:-------------:
-chalet standard     |-            |€ 150                
-confort 2           |-            |€ 180               
-confort 4           |€ 180        |€ 195         
-confort 4 plus      |€ 195        |€ 210  
-appartement de luxe |€ 215        |€ 235         
+chalet standard     |-            |€ 135                
+confort 2           |-            |€ 165               
+confort 4           |€ 165        |€ 185         
+confort 4 plus      |€ 180        |€ 200 
+appartement de luxe |€ 200        |€ 220         
         
 
 

@@ -1,18 +1,18 @@
 ---
 layout: page
-title: romantiek aan zee
+title: sauna-arrangement
 preview: 
-    title: romantiek aan zee
+    title: sauna-arrangement
     button:
-        price: 150
+        price: 135
         for: 2 nachten
     list:
         - "2 nachten"
         - "saunabezoek"
-        - "tapas"
+        - "wellnessproducten & muziek"
         
 images:
-    - /img/overnachten/arrangementen-romzee/arrromzee-01.jpg
+    - /img/voorzieningen/sauna/sauna-04.jpg
     
 insert:
     - page-images-top
@@ -23,19 +23,15 @@ insert:
 {% include links.md %}
 
 
-# Romantiek aan zee
+# Sauna-arrangement
 
-**! De arrangementen voor 2017 vindt u [hier][pdf_arrangementen2017.nl].**
-
-Ons romantiek-aan-zee-arrangement is de gedroomde kans om uw geliefde in de watten te leggen. Naast een heerlijk verblijf wacht u een verkwikkende saunabeurt met extraatjes.
+Naast een heerlijk verblijf wacht u een verkwikkende saunabeurt met wellnessproducten.
 
 ## Arrangement omvat
 
 - 2 nachten in een verblijf naar keuze
 - gebruik [sauna][sauna.nl] + ontspanningsruimte (douche, relaxzetels, dompelton)
-- extraatjes - keuze uit:
-    - gezond: fruit, noten, fles biologisch fruitsap
-    - hartig: fles wijn + 3 tapas
+- wellnessproducten en ontspannende muziek
 
 
 ## Goed om weten
@@ -43,15 +39,15 @@ Ons romantiek-aan-zee-arrangement is de gedroomde kans om uw geliefde in de watt
 - geldig voor elk verhuurtype
 - het hele jaar door boekbaar met uitzondering van schoolvakanties en verlengde weekends
 
-## Prijzen
+## Prijzen 2017
 
 VERHUURTYPE         | LAAGSEIZOEN | TUSSENSEIZOEN  |
 :------------------:|:-----------:|:-------------:
-standaard chalet    |-            |€ 150                
-comfort 2           |-            |€ 180               
-comfort 4           |€ 180        |€ 195         
-comfort 4 plus      |€ 195        |€ 210  
-luxe appartement    |€ 215        |€ 235         
+standaard chalet    |-            |€ 135                
+comfort 2           |-            |€ 165               
+comfort 4           |€ 165        |€ 185         
+comfort 4 plus      |€ 180        |€ 200  
+luxe appartement    |€ 200        |€ 220         
         
 
 

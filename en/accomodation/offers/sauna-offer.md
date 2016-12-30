@@ -1,18 +1,18 @@
 ---
 layout: page
-title: romance by the sea
+title: sauna offer
 preview: 
-    title: romance by the sea
+    title: sauna offer
     button:
-        price: 150
+        price: 135
         for: 2 nights
     list:
         - "2 nights"
         - "sauna"
-        - "savouries"
+        - "wellness products and music"
         
 images:
-    - /img/overnachten/arrangementen-romzee/arrromzee-01.jpg
+    - /img/voorzieningen/sauna/sauna-04.jpg
     
 insert:
     - page-images-top
@@ -23,19 +23,15 @@ insert:
 {% include links.md %}
 
 
-# Romance by the sea
+# Sauna offer
 
-**You can find our offers for 2017 [here][pdf_arrangementen2017.en].**
-
-Our romance-by-the-sea offer is the ideal opportunity to spoil your beloved. Besides a wonderful stay a refreshing sauna session with extras will be awaiting you
+Besides a wonderful stay you can also enjoy an an invigorating sauna session with wellness products. 
 
 ## Offer includes
 
 - 2 nights in an accomodation of your choice
 - use of the [sauna][sauna.en] and the relaxation room (shower, longchairs, plunge barrel)
-- extras - choice between following options:
-    - healthy option: fruit, nuts, bottle of biological fruit juice
-    - hearty option: bottle of wine and three savoury snacks
+- wellness products and relaxing music
 
 
 ## Worth knowing
@@ -43,15 +39,15 @@ Our romance-by-the-sea offer is the ideal opportunity to spoil your beloved. Bes
 - valid in all types of rental
 - bookable throughout the year except for school holidays and long weekends.
 
-## Prices
+## Prices 2017
 
 TYPE OF ACCOMODATION        | OFF-SEASON | MID SEASON  |
 :------------------:|:-----------:|:-------------:
-standard chalet     |-            |€ 150                
-comfort 2           |-            |€ 180               
-comfort 4           |€ 180        |€ 195         
-comfort 4 plus      |€ 195        |€ 210  
-luxury apartment    |€ 215        |€ 235         
+standard chalet     |-            |€ 135               
+comfort 2           |-            |€ 165               
+comfort 4           |€ 165        |€ 185         
+comfort 4 plus      |€ 180        |€ 200  
+luxury apartment    |€ 200        |€ 220         
         
 
 

@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Romantik am Meer
+title: Sauna-Arrangement
 preview: 
-    title: Romantik am Meer
+    title: Sauna-Arrangement
     button:
-        price: 150
+        price: 135
         for: 2 Nächte
     list:
         - "2 Nächte"
         - "Saunabesuch"
-        - "Tapas"
+        - "Wellness-Produkte und Musik"
         
 images:
-    - /img/overnachten/arrangementen-romzee/arrromzee-01.jpg
+    - /img/voorzieningen/sauna/sauna-04.jpg
     
 insert:
     - page-images-top
@@ -23,19 +23,15 @@ insert:
 {% include links.md %}
 
 
-# Romantik am Meer
+# Sauna-Arrangement
 
-**Die Arrangements für 2017 finden Sie [hier][pdf_arrangementen2017.de].**
-
-Unser Romantik-am-Meer-Arrangement ist die ideale Gelegenheit, Ihrer/Ihrem geliebten Partner/in eine besondere Freude zu bereiten. Neben einem wunderbaren Aufenthalt erwartet Sie ein entspannender Saunabesuch mit Extras.
+Neben einem wunderbaren Aufenthalt erwartet Sie ein entspannender Saunabesuch mit Wellnessprodukten. 
 
 ## Arrangement umfasst
 
 - 2 Nächte in einer Unterkunft nach Ihrer Wahl
 - Benutzung [Sauna][sauna.de] + Entspannungsraum (Dusche, Entspannungssessel, Tauchbad)
-- Extras: Auswahl aus
-    - Gesundem: Obst, Nüsse oder Flasche Biofruchtsaft
-    - Herzhaftem: Flasche Wein + dreierlei Tapas
+- Wellness-Produkten und entspannender Musik
 
 
 ## Gut zu wissen
@@ -43,15 +39,15 @@ Unser Romantik-am-Meer-Arrangement ist die ideale Gelegenheit, Ihrer/Ihrem gelie
 - Gültig für jede Art der Vermietung
 - Mit Ausnahme der Schulferien und langer Wochenende das ganze Jahr über buchbar
 
-## Preise
+## Preise 2017
 
 UNTERKUNFTSTYP      | NACHSAISON  | NEBENSAISON  |
 :------------------:|:-----------:|:-------------:
-Standard Chalet     |-            |€ 150                
-Comfort 2           |-            |€ 180               
-Comfort 4           |€ 180        |€ 195         
-Comfort 4 plus      |€ 195        |€ 210  
-Luxusappartement    |€ 215        |€ 235         
+Standard Chalet     |-            |€ 135                
+Comfort 2           |-            |€ 165               
+Comfort 4           |€ 165        |€ 185         
+Comfort 4 plus      |€ 180        |€ 200  
+Luxusappartement    |€ 200        |€ 220         
         
 
 
