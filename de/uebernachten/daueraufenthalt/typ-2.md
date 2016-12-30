@@ -4,7 +4,7 @@ title: Typ 2
 preview: 
     title: Typ 2
     button:
-        price: 1820
+        price: 1860
         for: pro Jahr
     list:
         - "Durchschnittl. Fläche: 100 m²"
@@ -36,24 +36,22 @@ Entschleunigen Sie nach einer hektischen Arbeitswoche in Ihrem Wohnwagen. So kö
 - Kein winterfester Wasseranschluss – Sanitärgebäude bleibt geöffnet
 
 
-## Preise 2016
+## Preise 2017
 
 TYP 2                                         |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
-Stellplatzkosten                         | € 1820         
-Gemeindesteuer                                   | € 340,79 
-Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 65    
+Stellplatzkosten                         | € 1860         
+Gemeindesteuer                                   | € 347,68 
+Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 70   
  [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens
 
 VERBRAUCH ⑴           |PREIS          |
 :--------------------:|:-------------:|
-Strom                 | € 0,35 / Kw        
-Pauschal Wasser       | € 68 
-Zähler                | € 18 
+Strom                 | € 0,37 / Kw        
+Pauschal Wasser       | € 70 
+Zähler                | € 19 
 
 ⑴ Preis vorbehaltlich Änderungen der Energiepreise
-
-**Die Preise für 2017 finden Sie [hier][pdf_prijzenresidentieel2017.de].**
 
 ## Plan Campingplatz
 

@@ -4,7 +4,7 @@ title: Type 1
 preview: 
     title: Type 1
     button:
-        price: 1685
+        price: 1720
         for: per jaar
     list:
         - "gemiddelde opp: 80 m²"
@@ -33,24 +33,22 @@ Deze plaatsen zijn iets kleiner qua oppervlakte maar bieden evengoed een instant
 - geen wintervaste wateraansluiting - sanitairgebouw blijft open
 
 
-## Prijzen 2016
+## Prijzen 2017
 
 TYPE 1                                         |PRIJS                               |
 :---------------------------------------------:|:----------------------------------:|
-standplaatsvergoeding                          | € 1685         
-gemeentetaks                                   | € 340,79 
-huisvuilbijdrage<br>incl 25 zakken<br>         | € 65    
+standplaatsvergoeding                          | € 1720     
+gemeentetaks                                   | € 347,68 
+huisvuilbijdrage<br>incl 25 zakken<br>         | € 70    
  [brandverzekering][pdf_brandverzekering.nl]   | afhankelijk van <br>waarde caravan
 
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
-electriciteit         | € 0,35 / kw        
-forfait water         | € 68 
-tellervergoeding      | € 18 
+electriciteit         | € 0,37 / kw        
+forfait water         | € 70
+tellervergoeding      | € 19 
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven
-
-**De prijzen voor 2017 vindt u [hier][pdf_prijzenresidentieel2017.nl].**
 
 ## Plan camping
 

@@ -4,7 +4,7 @@ title: Type 1
 preview: 
     title: Type 1
     button:
-        price: 1685
+        price: 1720
         for: par an
     list:
         - "surface moyenne : 80 m²"
@@ -33,24 +33,22 @@ Ces emplacements sont un peu plus petits mais vous vous y sentirez immédiatemen
 - pas de raccordement à l’eau en hiver – le bâtiment sanitaire reste accessible
 
 
-## Prix 2016
+## Prix 2017
 
 TYPE 1                                         |PRIX                               |
 :---------------------------------------------:|:----------------------------------:|
-indemnité de résidence par an                         | € 1685         
-taxe communale                                 | € 340,79 
-déchets ménagers<br>incl 25 sacs poubelles<br>         | € 65    
+indemnité de résidence par an                         | € 1720        
+taxe communale                                 | € 347,68 
+déchets ménagers<br>incl 25 sacs poubelles<br>         | € 70    
  [assurance incendie][pdf_brandverzekering.fr]    | selon la<br>valeur de la caravane
 
 CONSOMMATION ⑴           |PRIX          |
 :--------------------:|:-------------:|
-électricité           | € 0,35 / kw        
-forfait eau           | € 68 
-compteur              | € 18 
+électricité           | € 0,37 / kw        
+forfait eau           | € 70 
+compteur              | € 19 
 
 ⑴ prix sous réserve de modifications des prix de l’énergie
-
-**Vous trouvez les prix pour 2017 [ici][pdf_prijzenresidentieel2017.fr].**
 
 ## Plan du camping
 

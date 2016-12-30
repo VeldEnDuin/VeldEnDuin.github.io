@@ -4,7 +4,7 @@ title: Type 2
 preview: 
     title: Type 2
     button:
-        price: 1820
+        price: 1860
         for: per year
     list:
         - "average surface: 100 m²"
@@ -35,25 +35,23 @@ Need a break? Come and unwind in your caravan!
 - no winter proof water connection – sanitary building remains open
 
 
-## Prices 2016
+## Prices 2017
 
 TYPE 2                |PRICE           |
 :--------------------:|:--------------:|
-stand price per year  |€ 1820               
-municipal taxes          |€ 340,79 
-contribution for household refuge<br>incl. 25 bags<br> | € 65    
+stand price per year  |€ 1860               
+municipal taxes          |€ 347,68 
+contribution for household refuge<br>incl. 25 bags<br> | € 70    
 [fire insurance][pdf_brandverzekering.en]|depending on <br>worth of caravan
 
 
 CONSUMPTION ⑴           |PRICE         |
 :--------------------:|:-------------:|
-electricity         | € 0,35 / kw        
-fixed price for water        | € 68 
-counter    | € 18 
+electricity         | € 0,37 / kw        
+fixed price for water        | € 70 
+counter    | € 19 
 
 ⑴ price subject to changing energy charges
-
-**You can find our prices for 2017 [here][pdf_prijzenresidentieel2017.en].**
 
 ## Plan campsite
 

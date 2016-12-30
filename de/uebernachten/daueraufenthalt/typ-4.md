@@ -4,7 +4,7 @@ title: Typ 4
 preview: 
     title: Typ 4
     button:
-        price: 2510
+        price: 2560
         for: pro Jahr
     list:
         - "Durchschnittl. Fläche: 190 m²"
@@ -36,25 +36,23 @@ Wünschen Sie eine besonders große Parzelle mit Blick auf das zentral gelegene 
 - Winterfester Wasseranschluss
 
 
-## Preise 2016
+## Preise 2017
 
 TYP 4                                         |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
-Stellplatzkosten                         | € 2510         
-Gemeindesteuer                                   | € 340,79 
-Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 65    
+Stellplatzkosten                         | € 2560         
+Gemeindesteuer                                   | € 347,68 
+Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 70   
  [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens
 
 VERBRAUCH ⑴           |PREIS          |
 :--------------------:|:-------------:|
-Strom                 | € 0,35 / Kw        
-Wasser                | € 6,50 / m³
+Strom                 | € 0,37 / Kw        
+Wasser                | € 6,75 / m³
 Gas                   | € 6,15 / m³
-Zähler                | € 18 / Zähler
+Zähler                | € 19 / Zähler
 
 ⑴ Preis vorbehaltlich Änderungen der Energiepreise
-
-**Die Preise für 2017 finden Sie [hier][pdf_prijzenresidentieel2017.de].**
 
 ## Plan Campingplatz
 

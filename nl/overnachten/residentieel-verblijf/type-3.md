@@ -4,7 +4,7 @@ title: Type 3
 preview: 
     title: Type 3
     button:
-        price: 1870
+        price: 1910
         for: per jaar
     list:
         - "gemiddelde opp: 120 m²"
@@ -36,25 +36,23 @@ Een vaste stek aan de kust om steeds opnieuw naar terug te keren, wie droomt daa
 - wintervaste wateraansluiting
 
 
-## Prijzen 2016
+## Prijzen 2017
 
 TYPE 3                |PRIJS           |
 :--------------------:|:--------------:|
-standplaatsvergoeding |€ 1870               
-gemeentetaks          |€ 340,79 
-huisvuilbijdrage<br>incl 25 zakken<br> | € 65    
+standplaatsvergoeding |€ 1910               
+gemeentetaks          |€ 347,68
+huisvuilbijdrage<br>incl 25 zakken<br> | € 70    
 [brandverzekering][pdf_brandverzekering.nl]      |afhankelijk van <br>waarde caravan / chalet
 
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
-electriciteit         | € 0,35 / kw        
-water                 | € 6,50 / m³  
+electriciteit         | € 0,37 / kw        
+water                 | € 6,75 / m³  
 gas                   | € 6,15 / m³       
-tellervergoeding      | € 18 / teller
+tellervergoeding      | € 19 / teller
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven
-
-**De prijzen voor 2017 vindt u [hier][pdf_prijzenresidentieel2017.nl].**
 
 ## Plan camping
 

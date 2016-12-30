@@ -4,7 +4,7 @@ title: Typ 3
 preview: 
     title: Typ 3
     button:
-        price: 1870
+        price: 1910
         for: pro Jahr
     list:
         - "Durchschnittl. Fläche: 120 m²"
@@ -36,25 +36,23 @@ Ein festes Zuhause an der Küste, in das man immer wieder zurückkehrt, wer trä
 - Winterfester Wasseranschluss
 
 
-## Preise 2016
+## Preise 2017
 
 TYP 3                                         |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
-Stellplatzkosten                         | € 1870         
-Gemeindesteuer                                   | € 340,79 
-Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 65    
+Stellplatzkosten                         | € 1910         
+Gemeindesteuer                                   | € 347,68 
+Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 70    
  [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens / Chalets
 
 VERBRAUCH ⑴           |PREIS          |
 :--------------------:|:-------------:|
-Strom                 | € 0,35 / Kw        
-Wasser                | € 6,50 / m³
+Strom                 | € 0,37 / Kw        
+Wasser                | € 6,75 / m³
 Gas                   | € 6,15 / m³
-Zähler                | € 18 / Zähler
+Zähler                | € 19 / Zähler
 
 ⑴ Preis vorbehaltlich Änderungen der Energiepreise
-
-**Die Preise für 2017 finden Sie [hier][pdf_prijzenresidentieel2017.de].**
 
 ## Plan Campingplatz
 

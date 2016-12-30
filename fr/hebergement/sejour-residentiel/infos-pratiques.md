@@ -22,7 +22,7 @@ icon: info-sign
 
 DIVERS                |PRIX         
 :--------------------:|:--------------:
-service d'hiver         |€ 40                    
+service d'hiver         |€ 45                   
 carte barrière          |€ 100 (unique)           
 parking 2ème voiture    |€ 4 / jour entamé  
 2ème parking            |€ 125 / jaar       
@@ -32,7 +32,7 @@ TAXE JOURNALIÈRE ⑴          |PRIX PAR NUIT|
 :------------------:|:-------------:|
 1 personne               | € 2,50        
 2 personnes              | € 5  
-famille (jusque 5 pers)  | € 8     
+famille (jusque 5 pers)  | € 9    
 personne supplémentaire  | € 2,50
 
 

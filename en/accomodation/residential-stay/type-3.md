@@ -4,7 +4,7 @@ title: Type 3
 preview: 
     title: Type 3
     button:
-        price: 1870
+        price: 1910
         for: per year
     list:
         - "average surface: 120 m²"
@@ -36,25 +36,23 @@ Do you secretly dream about a place to settle along the coast? Make your dream c
 - winter proof gas connection
 
 
-## Prices 2016
+## Prices 2017
 
 TYPE 3                |PRICE           |
 :--------------------:|:--------------:|
-stand price per year  |€ 1870               
-municipal taxes       |€ 340,79 
-contribution for household refuge<br>incl. 25 bags<br> | € 65    
+stand price per year  |€ 1910              
+municipal taxes       |€ 347,68 
+contribution for household refuge<br>incl. 25 bags<br> | € 70   
 [fire insurance][pdf_brandverzekering.en]      |depending on <br>worth of the caravan / chalet
 
 CONSUMPTION ⑴           |PRICE         |
 :--------------------:|:-------------:|
-electricity         | € 0,35 / kw        
-water                 | € 6,50 / m³  
+electricity         | € 0,37 / kw        
+water                 | € 6,75 / m³  
 gas                   | € 6,15 / m³       
-counter     | € 18 / counter
+counter     | € 19 / counter
 
 ⑴ price subject to changing energy charges
-
-**You can find our prices for 2017 [here][pdf_prijzenresidentieel2017.en].**
 
 ## Plan campsite
 
