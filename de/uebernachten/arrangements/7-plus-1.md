@@ -4,7 +4,7 @@ title: 7+1
 preview: 
     title: 7+1
     button:
-        price: 260
+        price: 275
         for: 8 Nächte
     list:
         - "1 Nacht gratis"

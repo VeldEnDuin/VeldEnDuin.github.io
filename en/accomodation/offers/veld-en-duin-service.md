@@ -4,12 +4,11 @@ title: "Veld & Duin service"
 preview: 
     title: "Veld & Duin service"
     button:
-        price: 50
+        price: 45
         for: 
     list:
         - "final cleaning"
         - "bed linen for all beds"
-        - "internet for 2 appliances"
         
 images:
     - /img/overnachten/arrangementen-vdserv/arrvdserv-01.jpg
@@ -26,15 +25,12 @@ insert:
 
 # Veld & Duin service
 
-**You can find our offers for 2017 [here][pdf_arrangementen2017.en].**
-
 To enjoy your stay even more, we offer you the following service package. Make the most of your holiday and book this extra service.
 
 ## Offer includes
 
 - final cleaning
 - bed linen for all beds (will be ready at the reception)
-- internet for 2 appliances
 
 
 ## Worth knowing
@@ -43,12 +39,12 @@ To enjoy your stay even more, we offer you the following service package. Make t
 - the whole year through available
 
 
-## Prices
+## Prices 2017
 
 TYPE OF RENTAL       | PRICE
 :------------------:|:-----------
 standard chalet    |€ 60                
-comfort 2           |€ 50                
+comfort 2           |€ 45                
 comfort 4           |€ 60         
 comfort 4 plus      |€ 60  
-luxury apartment    |€ 75         
+luxury apartment    |€ 70        

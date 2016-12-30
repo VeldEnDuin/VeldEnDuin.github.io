@@ -4,12 +4,11 @@ title: "Veld & Duin Service"
 preview: 
     title: "Veld & Duin Service"
     button:
-        price: 50
+        price: 45
         for: 
     list:
         - "Endreinigung"
         - "Bettwäschepaket für alle Betten"
-        - "Internet für 2 Geräte"
         
 images:
     - /img/overnachten/arrangementen-vdserv/arrvdserv-01.jpg
@@ -26,15 +25,12 @@ insert:
 
 # Veld & Duin Service
 
-**Die Arrangements für 2017 finden Sie [hier][pdf_arrangementen2017.de].**
-
 Damit Sie Ihren Aufenthalt optimal genießen können, bieten wir Ihnen dieses Servicepaket an. Das lässt Ihnen den nötigen Spielraum, um das Maximum aus Ihrem Urlaub zu holen.
 
 ## Arrangement umfasst
 
 - Endreinigung
 - Bettwäschepaket für alle Betten (liegt bei der Ankunft an der Rezeption bereit)
-- Internetanschluss für maximal 2 Geräte
 
 
 ## Gut zu wissen
@@ -43,15 +39,15 @@ Damit Sie Ihren Aufenthalt optimal genießen können, bieten wir Ihnen dieses Se
 - Ganzjährig buchbar
 
 
-## Preise
+## Preise 2017
 
 UNTERKUNFTSTYP         | PREIS
 :------------------:|:-----------
 Standaard Chalet    |€ 60                
-Comfort 2           |€ 50                
+Comfort 2           |€ 45               
 Comfort 4           |€ 60         
 Comfort 4 plus      |€ 60  
-Luxusappartement    |€ 75         
+Luxusappartement    |€ 70       
         
 
 
