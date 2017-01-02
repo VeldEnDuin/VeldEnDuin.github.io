@@ -1247,27 +1247,6 @@ items:
     fr: Fête culturel - Ostende - 10-16/8/17
     de: Kulturellen Fest - Oostende - 10-16/8/17
     en: Cultural festival - Ostend 10-16/8/17
-- ranking: 1
-  location: 51.231531, 2.911153
-  subgroups:
-  - event
-  images:
-  - "/img/doen/ost-vuurwerk.jpg"
-  link:
-    nl: http://www.visitoostende.be/nl/eindejaarsvuurwerk-0
-    fr: http://www.visitoostende.be/fr/eindejaarsvuurwerk-0
-    de: http://www.visitoostende.be/de/eindejaarsvuurwerk-0
-    en: http://www.visitoostende.be/en/eindejaarsvuurwerk-0
-  title:
-    nl: Eindejaarsvuurwerk
-    fr: Feu d'artifice du nouvel an
-    de: Neujahrfeuerwerk
-    en: New Year's fireworks
-  caption:
-    nl: Oostende - 31/12/16
-    fr: Ostende - 31/12/16
-    de: Ostende - 31/12/16
-    en: Ostend - 31/12/16
 - ranking: 2
   location: 51.232079, 2.917726
   subgroups:
