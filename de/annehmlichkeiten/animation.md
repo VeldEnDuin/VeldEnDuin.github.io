@@ -31,17 +31,10 @@ Jedes Jahr schließen wir mit einem gemütlichen Glühweinabend ab. Bei warmen G
 
 ## Kalender Veld & Duin
 
-**Sommerferien 2016**
-
 | Datum | Aktivität |
 |-------|------------|
-| Freitag 08/07 | Führung Fischversteigerung und Hafen (10 Uhr)|
-| Freitag 15/07 | Marbel de Luxe (10 Uhr)|
-| Freitag 22/07 | Curque du Lapin (19 Uhr)|
-| Freitag 29/07 | Auberge espagnole + Saddle for Sale (19 Uhr)|
-| Freitag 05/08 | Abendfest mit Coverband Tomcat  (20-24 Uhr)|
-| Freitag 12/08 | Wasserrutschbahn (10-19 Uhr)|
-| Freitag 19/08 | Basteln (10-12 Uhr)|
+|       |            |
+
 
 
 ## Animation Bredene und Umgebung

@@ -32,17 +32,10 @@ Het jaar wordt afgesloten met een gezellige glühweinavond. Onder het genot van 
 
 ## Kalender Veld & Duin
 
-**Zomervakantie 2016**
 
 | Datum | Activiteit |
 |-------|------------|
-| vrijdag 08/07| gidsbeurt vismijn en haven (10u)|
-| vrijdag 15/07 | Marbel de Luxe (10u)|
-| vrijdag 22/07 | Cirque du Lapin (19u)|
-| vrijdag 29/07 | auberge espagnole + Saddle for Sale (19u)|
-| vrijdag 05/08 | avondfeest met coverband Tomcat (20u-24u)|
-| vrijdag 12/08 | waterglijbaan (10u-19u)|
-| vrijdag 19/08 | knutselen (10u-12u)|
+|       |            |
 
 
 
