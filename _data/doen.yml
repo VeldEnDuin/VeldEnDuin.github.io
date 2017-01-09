@@ -1247,28 +1247,6 @@ items:
     fr: Fête culturel - Ostende - 10-16/8/17
     de: Kulturellen Fest - Oostende - 10-16/8/17
     en: Cultural festival - Ostend 10-16/8/17
-- ranking: 2
-  location: 51.232079, 2.917726
-  subgroups:
-  - recrea
-  - shopout
-  images:
-  - "/img/doen/ost-winterijs.jpg"
-  link:
-    nl: http://www.winterijs.be/nl
-    fr: http://www.winterijs.be/fr
-    de: http://www.winterijs.be/de
-    en: http://www.winterijs.be/en
-  title:
-    nl: Winterijs
-    fr: Winterijs
-    de: Winterijs
-    en: Winterijs
-  caption:
-    nl: schaatspiste - Oostende - 2/12/16 - 8/1/17
-    fr: piste de patinage - Ostende - 2/12/16 - 8/1/17
-    de: Eisbahn - Ostende - 2/12/16 - 8/1/17
-    en: ice skating - Ostend - 2/12/16 - 8/1/17
 subgroups:
   nl:
     coast: kustbeleving
