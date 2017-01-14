@@ -253,11 +253,11 @@ veld_duin_service:
     fr: /fr/hebergement/forfaits/service-veld-en-duin.html
     de: /de/uebernachten/arrangements/veld-en-duin-service.html
     en: /en/accomodation/offers/veld-en-duin-service.html
-romantiek_aan_zee:
-    nl: /nl/overnachten/arrangementen/romantiek-aan-zee.html
-    fr: /fr/hebergement/forfaits/romantique-a-la-mer.html
-    de: /de/uebernachten/arrangements/romantik-am-meer.html
-    en: /en/accomodation/offers/romance-by-the-sea.html
+sauna_arrangement:
+    nl: /nl/overnachten/arrangementen/sauna-arrangement.html
+    fr: /fr/hebergement/forfaits/sauna-forfait.html
+    de: /de/uebernachten/arrangements/sauna-arrangement.html
+    en: /en/accomodation/offers/sauna-offer.html
 kadobon:
     nl: /nl/overnachten/arrangementen/kadobon.html
     fr: /fr/hebergement/forfaits/cheque-cadeau.html
@@ -270,11 +270,6 @@ te_koop:
     fr: /fr/hebergement/a-vendre.html
     de: /de/uebernachten/zu-kaufen.html
     en: /en/accomodation/for-sale.html
-a_22:
-    nl: /nl/overnachten/te-koop/a-22.html
-    fr: /fr/hebergement/a-vendre/a-22.html
-    de: /de/uebernachten/zu-kaufen/a-22.html
-    en: /en/accomodation/for-sale/a-22.html
 b_21:
     nl: /nl/overnachten/te-koop/b-21.html
     fr: /fr/hebergement/a-vendre/b-21.html
@@ -285,11 +280,11 @@ b_47:
     fr: /fr/hebergement/a-vendre/b-47.html
     de: /de/uebernachten/zu-kaufen/b-47.html
     en: /en/accomodation/for-sale/b-47.html
-c_20:
-    nl: /nl/overnachten/te-koop/c-20.html
-    fr: /fr/hebergement/a-vendre/c-20.html
-    de: /de/uebernachten/zu-kaufen/c-20.html
-    en: /en/accomodation/for-sale/c-20.html
+h_01:
+    nl: /nl/overnachten/te-koop/h-01.html
+    fr: /fr/hebergement/a-vendre/h-01.html
+    de: /de/uebernachten/zu-kaufen/h-01.html
+    en: /en/accomodation/for-sale/h-01.html
 
 
 # [3] menu - voorzieningen
@@ -383,11 +378,6 @@ pdf_zomeranimatie:
     nl: /nl/pdf/animatie2016.pdf
     fr: /fr/pdf/animations2016.pdf
     de: /de/pdf/animation2016.pdf
-pdf_prijzenresidentieel2017:
-    nl: /nl/pdf/prijzenresidentieel2017.pdf
-    fr: /fr/pdf/prixresidentiel2017.pdf
-    de: /de/pdf/preisedaueraufenthalt2017.pdf
-    en: /en/pdf/pricesresidential2017.pdf
 
 
 # [7] externe links

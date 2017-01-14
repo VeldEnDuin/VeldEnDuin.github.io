@@ -4,7 +4,7 @@ title: Luxe Appartementen
 preview: 
     title: Luxe Appartement
     button:
-        price: 175
+        price: 180
         for: 2 nachten
     list:
         - "5-6 personen"
@@ -71,18 +71,17 @@ Gelegen boven de receptie bieden deze nieuwe en luxueuze appartementen een mooi 
 - geen lift
 - het hele jaar door boekbaar
 
-## Prijzen
+## Prijzen 2017
 
 PERIODE             | LAAGSEIZOEN | TUSSENSEIZOEN | HOOGSEIZOEN |
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 nachten           |€ 175        |€ 195          |       
-extra nacht         |€ 59         |€ 65           |           
-midweek (ma-vrij)   |€ 245        |€ 270          |
-verlengd weekend (3 n)   |             |€ 270          |
-7 nachten           |€ 415        |€ 460          | € 670
-extra nacht > 7 n    |€ 51         |€ 62           | € 95
-14 nachten          |€ 735        |€ 850          | € 1270
-
+2 nachten           |€ 180        |€ 200          |       
+extra nacht         |€ 61         |€ 69           |           
+midweek (ma-vrij)   |€ 250        |€ 285          |
+verlengd weekend (3 n)   |             |€ 285          |
+7 nachten           |€ 430        |€ 490          | € 695
+extra nacht > 7 n    |€ 53         |€ 65           | € 99
+14 nachten          |€ 760        |€ 900          | € 1315
 
 ## Periodes
 
@@ -96,7 +95,7 @@ november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | a
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is 
 
 ## Inbegrepen
-
+- internet voor 2 toestellen
 - parking 1 auto
 - verbruik water en elektriciteit 
 - **uitzondering**: verbruik elektriciteit is exclusief bij huur vanaf 4 nachten van 1/11 - 31/3
@@ -114,7 +113,7 @@ parking extra auto      | € 4 / begonnen dag
 [plaats fietsberging][fietsberging.nl]| € 1 / fiets / nacht
 [sauna][sauna.nl]   | € 30
 [internet][internet.nl]| afhankelijk van tijd online
-[Veld & Duin service][veld_duin_service.nl]| € 75 
+[Veld & Duin service][veld_duin_service.nl]| € 70 
 
 
 ## Plan camping

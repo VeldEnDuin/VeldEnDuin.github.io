@@ -374,3 +374,33 @@ items:
       fr: "Achèvement du nouveau bâtiment des sanitaires de Veld & Duin II.<br> Lancement du projet de rénovation dans le cadre duquel 10 nouvelles parcelles sont aménagées."
       de: "Auf dem Platz Veld & Duin II wird das moderne und neue Sanitärgebäude fertiggestellt.<br> Das Renovierungsprojekt beginnt mit der Anlage von 10 neuen Parzellen."
       en: "On the grounds of Veld & Duin II the new and modern sanitary block is nearly finished.<br> The renovation project starts with the construction of 10 more plots."
+
+  - date: 2016-01-01
+    label: 2016
+    title:
+      nl: "Aanleg wadi"
+      fr: "Construction du wadi"
+      de: "Anlage Wadi"
+      en: "Construction of wadi"
+    description:
+      nl: "Er worden 7 luxueuze residentiële plaatsen rondom de wadi aangelegd die voor extra groenbeleving zorgen. Ook de kampeerautotoeristen kunnen hiervan meegenieten dankzij de 4 nieuwe plaatsen voor mobilhomes in diezelfde omgeving."
+      fr: "7 nouveaux emplacements résidentiels qui privilégient espace et proximité avec la nature sont construits autour du wadi. Aussi les campeurs peuvent ent profiter grâce aux 4 nouveaux emplacements pour mobilhomes à côté du wadi."
+      de: "7 neue residentielle Luxusplätze in grüner Umgebung werden um den Wadi herum angelegt. Auch Campinggänger mit Mobilheime und Caravans können hiervon genießen auf den 4 neuen Stellplätzen nebenan dem Wadi."
+      en: "7 new luxury residential pitches are created around the wadi, creating a green surrounding. Also campers with mobilhomes or caravans can enjoy this scenery from the 4 new camper pitches in the same area."
+    images:
+      - /img/tijdslijn/2016/wadi1.jpg
+
+  - date: 2017-01-01
+    label: 2017
+    title:
+      nl: "Jubileumjaar"
+      fr: "Anniversaire"
+      de: "Jubiläumjahr"
+      en: "Anniversary year"
+    description:
+      nl: "De camping bestaat 50 jaar en dat willen we graag samen met jullie vieren. Meer informatie over de feestelijkheden volgt binnenkort. "
+      fr: "Le camping existe 50 ans et nous voulons le fêter avec vous. Plus d'informations sur les festivités suivront."
+      de: "Das Camping wird 50 Jahre alt und das wollen wir mit Ihnen feiern! Mehr Information bezüglich die Festlichkeiten folgt."
+      en: "The camping exists 50 years and we would like to celebrate this with you! More information regarding the festivities will follow."
+    images:
+      - /img/tijdslijn/2017/jubileum50jaar.svg

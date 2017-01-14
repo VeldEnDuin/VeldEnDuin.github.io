@@ -5,8 +5,7 @@ Nombre de nuits | Réduction
 :-------------:|:-----------:|
 ≥ 5 nuits   | 5 %             
 ≥ 7 nuits   | 7 %                  
-≥ 10 nuits   | 10 %      
-≥ 14 nuits   | 14 %               
+≥ 10 nuits   | 10 %                  
 
 - réduction uniquement valable sur le séjour, pas sur les services supplémentaires. Ne peut être combinée avec d’autres réductions ou forfaits
 - durée de validité: toute l’année à l’exception de juillet et août

@@ -4,7 +4,7 @@ title: Forfait Camping
 preview: 
     title: Forfait Camping
     button:
-        price: 290
+        price: 330
         for: par mois
     list:
         - "emplacements de 80 m²"
@@ -53,18 +53,18 @@ Vous souhaitez prendre de longues vacances d’un mois ou plus ? Découvrez nos 
 
 ## Prix
 
-PÉRIODE        | PRIX       
+PÉRIODE        | PRIX 2017       
 :-------------:|:-----------:|
-avril          |€ 320               
-mai            |€ 365                   
-juin           |€ 365       
-juillet        |€ 650            
-août           |€ 650   
-septembre      |€ 320
-octobre        |€ 290
-novembre       |€ 290
-avril-mai-juin |€ 695
-septembre-octobre-novembre |€ 695
+avril          |€ 330               
+mai            |€ 375                   
+juin           |€ 375       
+juillet        |€ 670           
+août           |€ 670   
+septembre      |€ 330
+octobre        |€ 300
+novembre       |€ 300
+avril-mai-juin |€ 715
+septembre-octobre-novembre |€ 715
 
 ## Inclus
 

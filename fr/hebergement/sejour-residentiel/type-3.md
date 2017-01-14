@@ -4,7 +4,7 @@ title: Type 3
 preview: 
     title: Type 3
     button:
-        price: 1870
+        price: 1910
         for: per an
     list:
         - "surface moyenne : 120 m²"
@@ -35,25 +35,23 @@ Qui n’a jamais rêvé d’un pied-à-terre à la mer pour s’y rendre dès qu
 - raccordement à l’eau pendant l’hiver
 
 
-## Prix 2016
+## Prix 2017
 
 TYPE 3                |PRIX           |
 :--------------------:|:--------------:|
-indemnité de résidence par an |€ 1870               
-taxe communale                |€ 340,79 
-déchets ménagers<br>incl 25 sacs poubelles<br> | € 65    
+indemnité de résidence par an |€ 1910               
+taxe communale                |€ 347,68 
+déchets ménagers<br>incl 25 sacs poubelles<br> | € 70   
 [assurance incendie][pdf_brandverzekering.fr]     |selon la<br>valeur de la caravane / chalet
 
 CONSOMMATION ⑴        |PRIX        |
 :--------------------:|:-------------:|
-électricité           | € 0,35 / kw        
-eau                   | € 6,50 / m³
+électricité           | € 0,37 / kw        
+eau                   | € 6,75 / m³
 gaz                   | € 6,15 / m³       
-compteur              | € 18 / compteur  
+compteur              | € 19 / compteur  
 
 ⑴ prix sous réserve de modifications des prix de l’énergie
-
-**Vous trouvez les prix pour 2017 [ici][pdf_prijzenresidentieel2017.fr].**
 
 ## Plan du camping
 

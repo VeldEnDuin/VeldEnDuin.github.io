@@ -4,7 +4,7 @@ title: Chalet Comfort 4
 preview: 
     title: Chalet comfort 4 
     button:
-        price: 140
+        price: 145
         for: 2 Nächte
     list:
         - "4 Personen"
@@ -62,18 +62,17 @@ Diese Chalets liegen vorn auf dem Campingplatz in der Nähe des Spielplatzes. Id
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 - Ganzjährig buchbar
 
-## Preise
+## Preise 2017
 
 ZEITRAUM            | NACHSAISON | NEBENSAISON | HOCHSAISON |
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 Nächte           |€ 140        |€ 155         |       
-Zus. Nacht         |€ 48        |€ 53           |           
-Midweek (Mon.-Fr.)   |€ 195        |€ 220          |
-Verl. Wochenende (3 N.)   |             |€ 220          |
-7 Nächte           |€ 335        |€ 375          | € 540
-Zus. Nacht > 7 N.   |€ 41         |€ 49           | € 77
-14 Nächte          |€ 590        |€ 685          | € 1025
-
+2 Nächte           |€ 145       |€ 165         |       
+Zus. Nacht         |€ 49        |€ 55           |           
+Midweek (Mon.-Fr.)   |€ 205        |€ 230          |
+Verl. Wochenende (3 N.)   |             |€ 230          |
+7 Nächte           |€ 350        |€ 395         | € 560
+Zus. Nacht > 7 N.   |€ 42         |€ 52           | € 80
+14 Nächte          |€ 615        |€ 725          | € 1065
 
 ## Zeiträume
 
@@ -87,7 +86,7 @@ November bis März<br>ausgenommen Schulferien <br>und verlängerte Wochenenden |
 - Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
 
 ## Inbegriffen
-
+- Internet für 2 Geräte
 - Parkplatz für 1 Auto
 - Verbrauch von Gas, Wasser und Strom
 - **Ausnahme**: Verbrauch Strom und Gas ist exklusive ab 4 Nächte von 1/11. - 31/3.  

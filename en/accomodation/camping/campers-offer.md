@@ -4,7 +4,7 @@ title: Campers’ offer
 preview: 
     title: Campers’ offer
     button:
-        price: 290
+        price: 330
         for: per month
     list:
         - "80 m² pitches"
@@ -50,18 +50,18 @@ Do you want to stay for a month or even more? Have a look at the different packa
 
 ## Prices
 
-PERIOD        | PRICE       
+PERIOD        | PRICE 2017       
 :-------------:|:-----------:|
-April          |€ 320               
-May            |€ 365                   
-June           |€ 365       
-July           |€ 650            
-August         |€ 650   
-September      |€ 320
-October        |€ 290
-November       |€ 290
-April-May-June |€ 695
-September-October-November|€ 695
+April          |€ 330               
+May            |€ 375                   
+June           |€ 375      
+July           |€ 670            
+August         |€ 670   
+September      |€ 330
+October        |€ 300
+November       |€ 300
+April-May-June |€ 715
+September-October-November|€ 715
 
 ## Included
 

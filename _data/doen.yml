@@ -194,10 +194,10 @@ items:
     de: Afro C Festival
     en: Afro C Festival
   caption:
-    nl: gratis wereldmuziekfestival - Bredene - 12-13/8
-    fr: Festival gratuit de musique du monde – Bredene – 12-13/8
-    de: Weltmusikfestival mit kostenlosem Eintritt – Bredene – 12-13.8
-    en: free world music festival - Bredene - 12-13/8
+    nl: gratis wereldmuziekfestival - Bredene - 11-12/8/17
+    fr: Festival gratuit de musique du monde – Bredene – 11-12/8/17
+    de: Weltmusikfestival mit kostenlosem Eintritt – Bredene – 11-12.8.17
+    en: free world music festival - Bredene - 11-12/8/17
 - ranking: 170
   location: 51.252213, 2.974759
   subgroups:
@@ -211,10 +211,10 @@ items:
     de: Gardens of Bredene
     en: Gardens of Bredene
   caption:
-    nl: parkfeest 't Paelsteenveld - Bredene - 27/8
-    fr: fête dans le parc ‘t Paelsteenveld – Bredene – 27/8
-    de: Parkfest 't Paelsteenveld – Bredene – 27.8.
-    en: festival in Paelsteenveld park - 't Paelsteenveld - Bredene - 27/8
+    nl: parkfeest 't Paelsteenveld - Bredene
+    fr: fête dans le parc ‘t Paelsteenveld – Bredene
+    de: Parkfest 't Paelsteenveld – Bredene
+    en: festival in Paelsteenveld park - 't Paelsteenveld - Bredene
 - ranking: 230
   location: 51.231234, 2.913555
   subgroups:
@@ -232,10 +232,10 @@ items:
     de: Theater aan Zee
     en: Theater aan Zee
   caption:
-    nl: theaterfestival - Oostende - 28/7-6/8
-    fr: festival de théâtre – Ostende – 28/7-6/8
-    de: Theaterfestival – Ostende – 28.7. bis 6.8.
-    en: theater festival - Ostend - 28/7-6/8
+    nl: theaterfestival - Oostende - 27/7 - 5/8/17
+    fr: festival de théâtre – Ostende - 27/7 - 5/8/17
+    de: Theaterfestival – Ostende - 27/7 - 5/8/17
+    en: theater festival - Ostend - 27/7 - 5/8/17
 - ranking: 100
   location: 51.278736, 3.034791
   subgroups:
@@ -253,10 +253,10 @@ items:
     de: Trammelant
     en: Trammelant
   caption:
-    nl: Belle Epoquefeest - De Haan - 6/8
-    fr: fête sous le thème de la Belle Époque – Le Coq - 6/8
-    de: Belle-Epoque-Fest – De Haan 6/8
-    en: Belle Epoque event - De Haan
+    nl: Belle Epoquefeest - De Haan - 5/8/17
+    fr: fête sous le thème de la Belle Époque – Le Coq - 5/8/17
+    de: Belle-Epoque-Fest – De Haan 5/8/17
+    en: Belle Epoque event - De Haan 5/8/17
 - ranking: 290
   location: 51.315091, 3.131080
   subgroups:
@@ -274,10 +274,10 @@ items:
     de: Blumenkorso
     en: Bloemencorso
   caption:
-    nl: bloemenstoet - Blankenberge - 28/8
-    fr: cortège de chars fleuris – Blankenberge – 28/8
-    de: Blumenumzug – Blankenberge – 28.9.
-    en: flower Parade - Blankenberge - 28/9
+    nl: bloemenstoet - Blankenberge - 27/8/17
+    fr: cortège de chars fleuris – Blankenberge – 27/8/17
+    de: Blumenumzug – Blankenberge – 27.8.17
+    en: flower Parade - Blankenberge - 27/8/17
 - ranking: 240
   location: 51.318481, 3.146007
   subgroups:
@@ -1136,10 +1136,10 @@ items:
     de: Oostende voor Anker
     en: Oostende voor Anker
   caption:
-    nl: maritiem festival - Oostende
-    fr: festival maritime - Ostende
-    de: maritimes Festival - Oostende
-    en: maritime festival - Ostend
+    nl: maritiem festival - Oostende - 25-28/5/17
+    fr: festival maritime - Ostende - 25-28/5/17
+    de: maritimes Festival - Oostende - 25-28/5/17
+    en: maritime festival - Ostend - 25-28/5/17
 - ranking: 345
   location: 51.340946, 3.240212
   subgroups:
@@ -1201,10 +1201,10 @@ items:
     de: Sandskulpturenfestival
     en: Sand sculpture festival
   caption:
-    nl: Oostende
-    fr: Ostende
-    de: Oostende
-    en: Ostend
+    nl: Oostende - 17/6-10/9/17
+    fr: Ostende - 17/6-10/9/17
+    de: Oostende - 17/6-10/9/17
+    en: Ostend - 17/6-10/9/17
 - ranking: 155
   location: 51.055099, 3.720985
   subgroups:
@@ -1222,10 +1222,10 @@ items:
     de: Gentse feesten
     en: Gentse feesten
   caption:
-    nl: Cultuurfestival - Gent
-    fr: Fête culturel - Gand
-    de: Kulturellen Fest - Gent
-    en: Cultural festival - Ghent
+    nl: Cultuurfestival - Gent - 15-24/7/17
+    fr: Fête culturel - Gand - 15-24/7/17
+    de: Kulturellen Fest - Gent - 15-24/7/17
+    en: Cultural festival - Ghent - 15-24/7/17
 - ranking: 115
   location: 51.229485, 2.921105
   subgroups:
@@ -1243,10 +1243,10 @@ items:
     de: Paulusfeesten
     en: Paulusfeesten
   caption:
-    nl: Cultuurfestival - Oostende
-    fr: Fête culturel - Ostende
-    de: Kulturellen Fest - Oostende
-    en: Cultural festival - Ostend
+    nl: Cultuurfestival - Oostende - 10-16/8/17
+    fr: Fête culturel - Ostende - 10-16/8/17
+    de: Kulturellen Fest - Oostende - 10-16/8/17
+    en: Cultural festival - Ostend 10-16/8/17
 subgroups:
   nl:
     coast: kustbeleving

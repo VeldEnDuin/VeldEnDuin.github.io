@@ -4,7 +4,7 @@ title: Chalet Comfort 4
 preview: 
     title: Chalet comfort 4 
     button:
-        price: 140
+        price: 145
         for: 2 nights
     list:
         - "4 persons"
@@ -62,18 +62,17 @@ These chalets are situated in front, close to the playground. Well situated for 
 - dogs allowed - max 2 – no dangerous breeds
 - bookable throughout the year
 
-## Prices
+## Prices 2017
 
 PERIOD             | OFF-SEASON | MID SEASON | HIGH SEASON |
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 nights           |€ 140        |€ 155          |       
-extra night         |€ 48         |€ 53           |           
-midweek (mon-fri)   |€ 195        |€ 220          |
-long weekend (3 n)   |             |€ 220          |
-7 nights           |€ 335        |€ 375          | € 540
-extra night > 7 n    |€ 41         |€ 49           | € 77
-14 nights         |€ 590        |€ 685          | € 1025
-
+2 nights           |€ 145        |€ 165          |       
+extra night         |€ 49         |€ 55           |           
+midweek (mon-fri)   |€ 205        |€ 230          |
+long weekend (3 n)   |             |€ 230          |
+7 nights           |€ 350        |€ 395          | € 560
+extra night > 7 n    |€ 42         |€ 52           | € 80
+14 nights         |€ 615        |€ 725          | € 1065
 
 ## Periods
 
@@ -87,7 +86,7 @@ November until March<br>except for holidays <br>& long weekends | April until Ju
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
 
 ## included
-
+- internet for 2 devices
 - parking 1 car
 - consumption gas - water - electricity
 - **exception**: costs of electricity and gas are excluded from 4 nights from 1/11 - 31/3

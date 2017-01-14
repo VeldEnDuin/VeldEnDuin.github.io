@@ -4,7 +4,7 @@ title: Chalet Comfort 2
 preview: 
     title: Chalet Comfort 2
     button:
-        price: 140
+        price: 145
         for: 2 nachten
     list:
         - "gezelligheid voor 2"
@@ -63,18 +63,17 @@ Even alleen komen uitwaaien of met z'n tweetjes? In deze chalet is het heerlijk 
 - 1 hond toegelaten - geen gevaarlijke rassen
 - niet boekbaar tussen 15/11 en 15/3
 
-## Prijzen
+## Prijzen 2017
 
 PERIODE                |TUSSENSEIZOEN | HOOGSEIZOEN  |
 :---------------------:|:------------:|:------------:|
-2 nachten              |€ 140         |              |    
-extra nacht            |€ 47          |              |
-midweek (ma-vrij)      |€ 195         |              |
-verlengd weekend (3 n) |€ 195         |              |
-7 nachten              |€ 330         |€ 480         | 
-extra nacht > 7 n       |€ 45          |€ 69          | 
-14 nachten             |€ 610         |€ 915         | 
-
+2 nachten              |€ 145         |              |    
+extra nacht            |€ 49          |              |
+midweek (ma-vrij)      |€ 205         |              |
+verlengd weekend (3 n) |€ 205        |              |
+7 nachten              |€ 350         |€ 500         | 
+extra nacht > 7 n       |€ 47          |€ 71          | 
+14 nachten             |€ 645         |€ 950         | 
 
 ## Periodes
 
@@ -82,11 +81,12 @@ TUSSENSEIZOEN      |    HOOGSEIZOEN|
 :--------------------:|:-----------------:|:-------------:|
  april tot juni, <br>september en oktober, <br>schoolvakanties, <br>verlengde weekends  | juli en augustus
 
-##Waarborg
+## Waarborg
 - € 50 - contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
 
-##Inbegrepen
+## Inbegrepen
+- internet voor 2 toestellen
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
 
@@ -105,7 +105,7 @@ parking extra auto  | € 4 / begonnen dag
 [plaats fietsberging][fietsberging.nl]| € 1 / fiets / nacht
 [sauna][sauna.nl]   | € 30
 [internet][internet.nl]| afhankelijk van tijd online
-[Veld & Duin service][veld_duin_service.nl]| € 50
+[Veld & Duin service][veld_duin_service.nl]| € 45
 
 
 ## Plan camping

@@ -4,7 +4,7 @@ title: Luxury Apartment
 preview: 
     title: Luxury Apartment
     button:
-        price: 175
+        price: 180
         for: 2 nights
     list:
         - "5-6 persons"
@@ -71,18 +71,17 @@ Located above the reception these new and luxurious apartments overlook the flor
 - no lift
 - bookable throughout the year
 
-## Prices
+## Prices 2017
 
 PERIOD            | OFF-SEASON | MID SEASON | HIGH SEASON |
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 nights           |€ 175        |€ 195          |       
-extra night         |€ 59         |€ 65           |           
-midweek (mon-fri)   |€ 245        |€ 270          |
-long weekend (3 n)   |             |€ 270          |
-7 nights           |€ 415        |€ 460          | € 670
-extra night > 7 n    |€ 51         |€ 62           | € 95
-14 nights          |€ 735        |€ 850          | € 1270
-
+2 nights           |€ 180        |€ 200          |       
+extra night         |€ 61         |€ 69           |           
+midweek (mon-fri)   |€ 250        |€ 285          |
+long weekend (3 n)   |             |€ 285          |
+7 nights           |€ 430        |€ 490          | € 695
+extra night > 7 n    |€ 53         |€ 65           | € 99
+14 nights          |€ 760        |€ 900          | € 1315
 
 ## Periods
 
@@ -96,7 +95,7 @@ November until March<br>except for holidays <br>& long weekends | April until Ju
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
 
 ## included
-
+- internet for 2 devices
 - parking 1 car
 - consumption water & electricity
 - **exception**: costs of electricity are excluded from 4 nights from 1/11 - 31/3
@@ -114,7 +113,7 @@ parking place extra car  | € 4 / started day
 [bicycle shed][fietsberging.en]| € 1 / bike / night
 [sauna][sauna.en]   | € 30
 [internet][internet.en]| depending on time online
-[Veld & Duin service][veld_duin_service.en]| € 75
+[Veld & Duin service][veld_duin_service.en]| € 70
 
 
 ## Plan campsite

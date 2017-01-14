@@ -22,7 +22,7 @@ icon: info-sign
 
 MISCELLANEOUS         |PRICE          
 :--------------------:|:--------------:
-winterservice         |€ 40                    
+winterservice         |€ 45                    
 barier entrance card (one-time cost)|€ 100          
 parking place 2nd car      |€ 4 / started day  
 second parking place           |€ 125 / year       
@@ -32,7 +32,7 @@ DAILY TAX ⑴              |PRICE PER NIGHT|
 :------------------:|:-------------:|
 1 person           | € 2,50        
 2 persons          | € 5  
-family (up to 5 pers.)  | € 8     
+family (up to 5 pers.)  | € 9     
 extra person     | € 2,50
 
 

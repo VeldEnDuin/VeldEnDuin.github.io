@@ -4,7 +4,7 @@ title: Standardchalet
 preview: 
     title: Standardchalet
     button:
-        price: 110
+        price: 115
         for: 2 Nächte
     list:
         - "4 Personen"
@@ -64,18 +64,17 @@ Möchten Sie gern preisbewusst Urlaub machen, aber ist zelten nichts für Sie? D
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 - Nicht buchbar zwischen 15.11. und 15.3.
 
-## Preise
+## Preise 2017
 
 ZEITRAUM               |NEBENSAISON   | HOCHSAISON   |
 :---------------------:|:------------:|:------------:|
-2 Nächte              |€ 110         |              |    
-Zus. Nacht            |€ 37         |              |
-Midweek (Mo.-Fr.)      |€ 155         |              |
-Verl. Wochenende (3 N.) |€ 155         |              |
-7 Nächte              |€ 260         |€ 380         | 
-Zus. Nacht > 7 N.       |€ 35          |€ 53          | 
-14 Nächte             |€ 480         |€ 715        | 
-
+2 Nächte              |€ 115         |              |    
+Zus. Nacht            |€ 39         |              |
+Midweek (Mo.-Fr.)      |€ 160         |              |
+Verl. Wochenende (3 N.) |€ 160         |              |
+7 Nächte              |€ 275         |€ 395         | 
+Zus. Nacht > 7 N.       |€ 37         |€ 55          | 
+14 Nächte             |€ 505         |€ 745        | 
 
 ## Zeiträume
 
@@ -89,7 +88,7 @@ NEBENSAISON      |    HOCHSAISON|
 - Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
 
 ## Inbegriffen
-
+- Internet für 2 Geräte
 - Parkplatz für 1 Auto
 - Verbrauch von Gas, Wasser und Strom 
 

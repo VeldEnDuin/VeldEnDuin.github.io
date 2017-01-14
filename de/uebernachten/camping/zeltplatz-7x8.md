@@ -4,7 +4,7 @@ title: Zeltplatz 7x8
 preview: 
     title: Zeltplatz 7x8
     button:
-        price: 18
+        price: 19
         for: pro Nacht
         
     list:
@@ -52,14 +52,15 @@ Diese Plätze von 7x8 Metern sind ideal für Ihr kleines (Wurf-)Zelt.
 - Höchstens 4 Personen/Platz
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 
-## Preise
+## Preise 2017
+
 
 ANZAHL PERSONEN | PREIS / NACHT     
 :-------------:|:-----------:|
-1 Person       |€ 18              
-2 Personen     |€ 21                   
-3 Personen     |€ 24      
-4 Personen     |€ 27            
+1 Person       |€ 19             
+2 Personen     |€ 22                   
+3 Personen     |€ 25      
+4 Personen     |€ 28            
       
 
 15.7. bis 15.8.: Reservierung ab 7 Nächten

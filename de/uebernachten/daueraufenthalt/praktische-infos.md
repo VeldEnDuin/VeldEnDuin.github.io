@@ -22,7 +22,7 @@ icon: info-sign
 
 DIVERSE               |PREIS           
 :--------------------:|:--------------:
-Winterservice         |€ 40                    
+Winterservice         |€ 45                    
 Karte für Schranke (einmalig) |€ 100          
 Parkplatz 2. Auto      |€ 4 / angefangenem Tag  
 2. Parkplatz           |€ 125 / Jahr       
@@ -32,7 +32,7 @@ KURTAXE ⑴          |PREIS PRO NACHT|
 :------------------:|:-------------:|
 1 Person          | € 2,50        
 2 Personen          | € 5  
-Familie (bis 5 pers)  | € 8     
+Familie (bis 5 pers)  | € 9    
 Extra Person       | € 2,50
 
 

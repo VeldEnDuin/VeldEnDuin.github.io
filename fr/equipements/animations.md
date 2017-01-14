@@ -31,17 +31,9 @@ Pour clôturer l’année en beauté, nous organisons une soirée vin chaud. Ré
 
 ## Calendrier Veld & Duin
 
-**Vacances d’été 2016**
-
 | Date | Activité |
 |-------|------------|
-| vendredi 08/07 | visite guidée de la minque et du port (10h)|
-| vendredi 15/07 | cirquit de luxe (10h)|
-| vendredi 22/07 | Cirque du Lapin (19h)|
-| vendredi 29/07 | auberge espagnole + Saddle for Sale (19h)|
-| vendredi 05/08 | soirée avec le groupe de reprises Tomcat (20h-24h)|
-| vendredi 12/08 | toboggan aquatique (10h-19h)|
-| vendredi 19/08 | bricolage (10h-12h)|
+|       |            |
 
 
 ## Animations à Bredene et dans les environs

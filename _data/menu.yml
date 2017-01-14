@@ -66,15 +66,14 @@
         - linkcode: 7_plus_1
         - linkcode: 14_plus_2
         - linkcode: veld_duin_service
-        - linkcode: romantiek_aan_zee
+        - linkcode: sauna_arrangement
         - linkcode: kadobon
 
 
     - linkcode: te_koop
       submenu:
         - linkcode: te_koop
-        - linkcode: a_22
-        - linkcode: c_20
+        - linkcode: h_01
         - linkcode: b_21
         - linkcode: b_47
 

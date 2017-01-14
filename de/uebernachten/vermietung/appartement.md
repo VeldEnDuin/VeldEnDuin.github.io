@@ -4,7 +4,7 @@ title: Appartement Comfort 4 Plus
 preview: 
     title: Appartement
     button:
-        price: 155
+        price: 160
         for: 2 Nächte
     list:
         - "4-5 Personen"
@@ -64,18 +64,17 @@ Die Appartements liegen neben dem Campingplatz. So genießen Sie den Platz eines
 - Gemeinsamer Fahrradraum
 - Ganzjährig buchbar
 
-## Preise
+## Preise 2017
 
 ZEITRAUM            | NACHSAISON | NEBENSAISON | HOCHSAISON |
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 Nächte           |€ 155        |€ 170          |       
-Zus. Nacht         |€ 52        |€ 58           |           
-Midweek (Mon.-Fr.)   |€ 215        |€ 240          |
-Verl. Wochenende (3 N.)   |             |€ 240          |
-7 Nächte           |€ 370        |€ 410          | € 595
-Zus. Nacht > 7 N.   |€ 45         |€ 55           | € 84
-14 Nächte          |€ 650        |€ 755          | € 1125
-
+2 Nächte           |€ 160       |€ 180          |       
+Zus. Nacht         |€ 54       |€ 61           |           
+Midweek (Mon.-Fr.)   |€ 225        |€ 250          |
+Verl. Wochenende (3 N.)   |             |€ 250          |
+7 Nächte           |€ 380        |€ 435          | € 615
+Zus. Nacht > 7 N.   |€ 47         |€ 57           | € 88
+14 Nächte          |€ 675        |€ 795         | € 1170
 
 ## Zeiträume
 
@@ -84,7 +83,7 @@ NACHSAISON           |NEBENSAISON      |    HOCHSAISON|
 November bis März<br>ausgenommen Schulferien <br>und verlängerte Wochenenden | April bis Juni, <br>September und Oktober, <br>Schulferien, <br>verlängerte Wochenenden   | Juli und August
 
 ## Kaution
-
+- Internet für 2 Geräte
 - € 50, bar zu bezahlen bei der Anreise
 - Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
 

@@ -4,7 +4,7 @@ title: Standaard chalet
 preview: 
     title: Standaard chalet
     button:
-        price: 110
+        price: 115
         for: 2 nachten
     list:
         - "4 personen"
@@ -64,18 +64,17 @@ Wenst u prijsbewust op vakantie te gaan maar is het slapen in een tent niet hele
 - honden toegelaten - max 2 - geen gevaarlijke rassen
 - niet boekbaar tussen 15/11 en 15/3
 
-## Prijzen
+## Prijzen 2017
 
 PERIODE             |TUSSENSEIZOEN | HOOGSEIZOEN  |
 :------------------:|:------------:|:------------:|
-2 nachten           |€ 110         |                      
-extra nacht         |€ 37          |                          
-midweek (ma-vrij)   |€ 155         |               
-verlengd WE (3 n)   |€ 155         |               
-7 nachten           |€ 260         |€ 380           
-extra nacht > 7 n    |€ 35          |€ 53            
-14 nachten          |€ 480         |€ 715           
-
+2 nachten           |€ 115         |                      
+extra nacht         |€ 39          |                          
+midweek (ma-vrij)   |€ 160         |               
+verlengd WE (3 n)   |€ 160        |               
+7 nachten           |€ 275         |€ 395          
+extra nacht > 7 n    |€ 37          |€ 55           
+14 nachten          |€ 505        |€ 745           
 
 ## Periodes
 
@@ -89,7 +88,7 @@ TUSSENSEIZOEN      |    HOOGSEIZOEN|
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
 
 ## Inbegrepen
-
+- internet voor 2 toestellen
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
 

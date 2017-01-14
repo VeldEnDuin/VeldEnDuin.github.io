@@ -32,17 +32,10 @@ At the end of the year we are going to organize a cosy mulled wine evening. A go
 
 ## Calendar Veld & Duin
 
-**Summer holidays 2016**
-
 | Date | Activity|
 |-------|------------|
-|Friday 08/07 | guided tour of fish auction and port (10:00)|
-|Friday 15/07 | Marbel de Luxe (10:00)|
-|Friday 22/07 | Cirque du Lapin (19:00)|
-|Friday 29/07 | auberge espagnole + Saddle for Sale (19:00)|
-|Friday 05/08 | evening party with coverband Tomcat (20:00 - 24:00)|
-|Friday 12/08 | water slide (10:00 - 19:00)|
-|Friday 19/08 | crafting (10:00 - 12:00)|
+|       |            |
+
 
 
 ## Entertainment Bredene and surroundings

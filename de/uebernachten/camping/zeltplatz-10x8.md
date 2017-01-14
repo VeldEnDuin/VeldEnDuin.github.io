@@ -4,7 +4,7 @@ title: Zeltplatz 10x8
 preview: 
     title: Zeltplatz 10x8
     button:
-        price: 20
+        price: 22
         for: pro Nacht
     list:
         - "Abmessungen: 10x8 Meter"
@@ -51,15 +51,15 @@ Holen Sie sich das echte Campingerlebnis und machen Sie sich mit der ganzen Fami
 - Höchstens 6 Personen/Platz
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 
-## Preise
+## Preise 2017
 
 ANZAHL PERSONEN | PREIS / NACHT     
 :-------------:|:-----------:|
-1 Person       |€ 20               
-2 Personen     |€ 23                   
-3 Personen     |€ 26       
-4 Personen     |€ 29             
-5/6 Personen   |€ 33       
+1 Person       |€ 22               
+2 Personen     |€ 25                   
+3 Personen     |€ 28       
+4 Personen     |€ 31             
+5/6 Personen   |€ 34       
 
 15.7. bis 15.8.: Reservierung ab 7 Nächten
 

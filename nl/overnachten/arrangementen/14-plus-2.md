@@ -4,7 +4,7 @@ title: 14+2
 preview: 
     title: 14+2
     button:
-        price: 480
+        price: 505
         for: 16 nachten
     list:
         - "2 nachten gratis"

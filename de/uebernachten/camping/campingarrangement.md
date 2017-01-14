@@ -4,7 +4,7 @@ title: Campingarrangement
 preview: 
     title: Campingarrangement 
     button:
-        price: 290
+        price: 330
         for: pro Monat
     list:
         - "Plätze 80 m²"
@@ -50,19 +50,20 @@ Sie haben einen Monat oder länger Zeit? Dann sehen Sie sich doch die verschiede
 - Höchstens 6 Personen/Platz
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 
-##Preise
-ZEITRAUM        | PREIS       
+## Preise
+
+ZEITRAUM        | PREIS 2017     
 :-------------:|:-----------:|
-April          |€ 320               
-Mai            |€ 365                   
-Juni           |€ 365       
-Juli           |€ 650            
-August       |€ 650   
-September      |€ 320
-Oktober        |€ 290
-November       |€ 290
-April-Mai-Juni |€ 695
-September-Oktober-November|€ 695
+April          |€ 330               
+Mai            |€ 375                   
+Juni           |€ 375       
+Juli           |€ 670            
+August       |€ 670   
+September      |€ 330
+Oktober        |€ 300
+November       |€ 300
+April-Mai-Juni |€ 715
+September-Oktober-November|€ 715
 
 ## Inbegriffen
 
