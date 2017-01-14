@@ -1,0 +1,4 @@
+#!/bin/bash
+
+gnome-terminal --window-with-profile=SITE -e runsite
+gnome-terminal --window-with-profile=SITE -e runjubi
