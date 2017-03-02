@@ -1,6 +1,7 @@
 albums:
 - id: "6369873176010894593"
   date: 2016-12-29
+  name:
     nl: glühweinavond
     fr: soirée de vin chaud
     de: Glühweinabend
