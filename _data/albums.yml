@@ -1,4 +1,10 @@
 albums:
+- id: "6369873176010894593"
+  date: 2016-12-29
+    nl: glühweinavond
+    fr: soirée de vin chaud
+    de: Glühweinabend
+    en: mulled wine evening
 - id: "6320541579940326097"
   date: 2016-08-19
   name:
