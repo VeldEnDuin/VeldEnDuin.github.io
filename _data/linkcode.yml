@@ -44,6 +44,10 @@ plan3d:
     de:  /img/plan-3d-nieuwproject.jpg
     fr:  /img/plan-3d-nieuwproject.jpg
     en:  /img/plan-3d-nieuwproject.jpg
+jubisite:
+    nl: /img/jubisite.jpg
+    fr: /img/jubisite.jpg
+    de: /img/jubisite.jpg
 
 # [1] menu - goed om weten
 onze_troeven:
@@ -133,6 +137,10 @@ wedstrijd:
     fr: /fr/hebergement/concours.html
     de: /de/uebernachten/preisausschreiben.html
     en: /en/accomodation/competition.html
+jubileum:
+    nl: /nl/jubileum.html
+    fr: /fr/jubile.html
+    de: /de/jubilaum.html
 
 
 # [2.1] submenu overnachten -> verhuur

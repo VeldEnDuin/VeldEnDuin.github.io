@@ -34,7 +34,20 @@ At the end of the year we are going to organize a cosy mulled wine evening. A go
 
 | Date | Activity|
 |-------|------------|
-|       |            |
+|   01/04/2017    |    Start exhibition |
+|   04/04/2017    |    Movie for kids     |
+|   11/04/2017    |    Movie for kids     |
+|   16/04/2017    |    Easter egg hunt     |
+|   03/06/2017    |    Anniversary weekend      |
+|   04/06/2017    |    Open day Belgian Oldtimer Caravan Club     |
+|   08/07/2017    |    Giant picnic     |
+|   13/07/2017    |    Crafting       |
+|   20/07/2017    |    Snack & bike tour      |
+|   28/07/2017    |    Duo Berlingo - No Way Back      |
+|   03/08/2017    |    Cooking for kids - party edition      |
+|   10/08/2017    |    Water slide     |
+|   18/08/2017    |    Big Veld & Duin-quiz     |
+|   25/08/2017    |    Guided tour in nature reserve d'Heye    |
 
 
 

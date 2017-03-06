@@ -34,8 +34,24 @@ Het jaar wordt afgesloten met een gezellige glühweinavond. Onder het genot van 
 
 
 | Datum | Activiteit |
-|-------|------------|
-|       |            |
+|-------|------------| 
+|   01/04/2017    |    Start tentoontelling ’De wereld als camping’       |
+|   04/04/2017    |    Kinderfilm     |
+|   11/04/2017    |    Kinderfilm     |
+|   16/04/2017    |    Paaseierenraap       |
+|   03/06/2017    |    Jubileumweekend      |
+|   04/06/2017    |    Opendeurdag Belgian Oldtimer Caravan Club     |
+|   08/07/2017    |    Reuzepicknick     |
+|   13/07/2017    |    Knutselen       |
+|   20/07/2017    |    Sneukelfietstocht      |
+|   28/07/2017    |    Duo Berlingo - No Way Back      |
+|   03/08/2017    |    Kinderkoken feesteditie      |
+|   10/08/2017    |    Waterglijbaan     |
+|   18/08/2017    |    Grote Veld & Duin-quiz     |
+|   25/08/2017    |    Gidsbeurt natuurgebied d'Heye    |
+
+Alle praktische informatie vindt u op onze [jubileumsite](http://www.veldenduin.be/jubileum/nl/kalender.html).
+
 
 
 

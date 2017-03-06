@@ -33,7 +33,22 @@ Pour clôturer l’année en beauté, nous organisons une soirée vin chaud. Ré
 
 | Date | Activité |
 |-------|------------|
-|       |            |
+|   01/04/2017    |    Ouverture exposition ’Le monde en tant que camping’|
+|   04/04/2017    |    Film pour enfants     |
+|   11/04/2017    |    Film pour enfants     |
+|   16/04/2017    |    Chasse aux œufs      |
+|   03/06/2017    |    Week-end du jubilé     |
+|   04/06/2017    |    Journée portes ouvertes Belgian Oldtimer Caravan Club     |
+|   08/07/2017    |    Pique-nique géant     |
+|   13/07/2017    |    Bricolage       |
+|   20/07/2017    |    Promenade gourmande à vélo     |
+|   28/07/2017    |    Duo Berlingo - No Way Back      |
+|   03/08/2017    |    Atelier cuisine pour enfants, édition festive      |
+|   10/08/2017    |    Toboggan aquatique     |
+|   18/08/2017    |    Grand quiz Veld & Duin     |
+|   25/08/2017    |    Visite guidée réserve naturelle d'Heye    |
+
+Vous trouvez tous les informations sur notre [site du jubilé](http://www.veldenduin.be/jubileum/fr/calendrier.html).
 
 
 ## Animations à Bredene et dans les environs

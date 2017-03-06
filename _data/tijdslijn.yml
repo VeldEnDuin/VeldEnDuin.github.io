@@ -393,14 +393,30 @@ items:
   - date: 2017-01-01
     label: 2017
     title:
+      nl: "Kampeerautoplaatsen met nieuw sanistation"
+      fr: "Emplacements de camping-cars avec nouvelle sanistation"
+      de: "Wohnmobilstellplätze mit neuem Sani-Station"
+      en: "Camper pitches with new sanistation"
+    description:
+      nl: "Het kampeerautotoerisme zit al een aantal jaar in de lift. Om aan die vraag te kunnen beantwoorden hebben we vorig jaar al 4 nieuwe en ruime camperplaatsen aangelegd. </br> Tegen het voorjaar van 2017 worden nog eens 8 plaatsen voor kampeerauto’s vernieuwd. Bovendien komt er een functioneel sanistation waar het afvalwater geloosd kan worden."
+      fr: "Depuis quelques années, le camping en voiture a le vent en poupe. Afin de répondre à la demande, nous avons aménagé au cours de l’hiver dernier quatre nouveaux emplacements spacieux. </br> Huit emplacements de camping-cars seront encore rénovés d’ici le printemps 2017.  Sans oublier la mise en place d’une sanistation fonctionnelle permettant l’évacuation des eaux usées. "
+      de: "Der Wohnmobiltourismus wird seit einigen Jahren zunehmend populär. Um dieser Nachfrage entsprechen zu können, haben wir im vergangenen Winter 4 neue und geräumige Plätze angelegt. </br> Bis zum Frühjahr 2017 werden weitere 8 Wohnmobilstellplätze renoviert. Außerdem wird eine Sani-Station installiert, wo das Abwasser entsorgt werden kann."
+      en: "Camper tourism has become more and more popular over the years. To answer the rising demand we have already created 4 new spacious camper pitches. For spring 2017 we also plan to create 8 more pitches. On top of that we will also install a sanistation for the disposal of wastewater."
+    images:
+      - /img/tijdslijn/2017/aanlegtrekkers-01.jpg
+      - /img/tijdslijn/2017/aanlegtrekkers-02.jpg
+
+  - date: 2017-03-01
+    label: 2017
+    title:
       nl: "Jubileumjaar"
-      fr: "Anniversaire"
-      de: "Jubiläumjahr"
+      fr: "Année de notre jubilé"
+      de: "Jubiläumsjahr"
       en: "Anniversary year"
     description:
-      nl: "De camping bestaat 50 jaar en dat willen we graag samen met jullie vieren. Meer informatie over de feestelijkheden volgt binnenkort. "
-      fr: "Le camping existe 50 ans et nous voulons le fêter avec vous. Plus d'informations sur les festivités suivront."
-      de: "Das Camping wird 50 Jahre alt und das wollen wir mit Ihnen feiern! Mehr Information bezüglich die Festlichkeiten folgt."
-      en: "The camping exists 50 years and we would like to celebrate this with you! More information regarding the festivities will follow."
+      nl: "Veld & Duin bestaat 50 jaar! We vieren dit uitgebreid met een bijzonder feestweekend, een unieke tentoonstelling en heel wat animatie."
+      fr: "Veld & Duin existe depuis 50 ans! Nous comptons bien fêter cet anniversaire en grande pompe! Au programme: un week-end festif ’spécial jubilé’, une exposition unique et de nombreuses animations."
+      de: "Veld & Duin besteht 50 Jahre! Das feiern wir ausführlich mit einem besonderen Festwochenende, einer einzigartigen Ausstellung und sehr vielen Animationsaktivitäten."
+      en: "Veld & Duin exists 50 years! We celebrate this elaborately with a special party-weekend, a unique exhibition and tons of animation."
     images:
       - /img/tijdslijn/2017/jubileum50jaar.svg

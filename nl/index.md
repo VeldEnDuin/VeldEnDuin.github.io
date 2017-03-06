@@ -7,7 +7,7 @@ insert:
     
 select:
     - verhuur
-    - nieuw_project
+    - jubileum
     
 class:
     select:
