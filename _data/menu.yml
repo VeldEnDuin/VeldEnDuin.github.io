@@ -73,11 +73,11 @@
     - linkcode: te_koop
       submenu:
         - linkcode: te_koop
+        - linkcode: b_21
         - linkcode: c_02
         - linkcode: c_30
         - linkcode: c_38
         - linkcode: c_52
-        - linkcode: b_21
         - linkcode: d_79
 
 
