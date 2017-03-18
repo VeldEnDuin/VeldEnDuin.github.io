@@ -298,17 +298,16 @@ c_38:
     fr: /fr/hebergement/a-vendre/c-38.html
     de: /de/uebernachten/zu-kaufen/c-38.html
     en: /en/accomodation/for-sale/c-38.html
-c_52:
-    nl: /nl/overnachten/te-koop/c-52.html
-    fr: /fr/hebergement/a-vendre/c-52.html
-    de: /de/uebernachten/zu-kaufen/c-52.html
-    en: /en/accomodation/for-sale/c-52.html
 d_79:
     nl: /nl/overnachten/te-koop/d-79.html
     fr: /fr/hebergement/a-vendre/d-79.html
     de: /de/uebernachten/zu-kaufen/d-79.html
     en: /en/accomodation/for-sale/d-79.html
-
+d_94:
+    nl: /nl/overnachten/te-koop/d-94.html
+    fr: /fr/hebergement/a-vendre/d-94.html
+    de: /de/uebernachten/zu-kaufen/d-94.html
+    en: /en/accomodation/for-sale/d-94.html
 
 # [3] menu - voorzieningen
 voorzieningen:
