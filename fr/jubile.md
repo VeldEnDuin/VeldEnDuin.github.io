@@ -1,5 +1,7 @@
 ---
-layout: page
+layout: redirect
+link: http://www.veldenduin.be/jubileum/fr
+
 title: Jubilé
 
 preview:
@@ -17,6 +19,6 @@ images:
 
 # Année de notre jubilé
 
-Veld & Duin existe depuis 50 ans! Nous comptons bien fêter cet anniversaire en grande pompe! Au programme: un week-end festif ’spécial jubilé’, une exposition unique et de nombreuses animations. Visitez notre [site du jubilé](http://www.veldenduin.be/jubileum/fr) pour plus d'informations. 
+Veld & Duin existe depuis 50 ans! Nous comptons bien fêter cet anniversaire en grande pompe! Au programme: un week-end festif ’spécial jubilé’, une exposition unique et de nombreuses animations. Visitez notre [site du jubilé]({{page.link}}) pour plus d'informations. 
 
 ![Jubisite][jubisite.nl]

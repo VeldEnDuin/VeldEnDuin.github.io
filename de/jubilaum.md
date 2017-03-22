@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: redirect
+link: http://www.veldenduin.be/jubileum/de
 title: Jubiläumsjahr
 
 preview:
@@ -17,6 +18,6 @@ images:
 
 # Jubiläumsjahr
 
-Veld & Duin besteht 50 Jahre! Das feiern wir ausführlich mit einem besonderen Festwochenende, einer einzigartigen Ausstellung und sehr vielen Animationsaktivitäten. Besuchen Sie unsere [Jubiläum-Website](http://www.veldenduin.be/jubileum/de) für mehr Informationen.
+Veld & Duin besteht 50 Jahre! Das feiern wir ausführlich mit einem besonderen Festwochenende, einer einzigartigen Ausstellung und sehr vielen Animationsaktivitäten. Besuchen Sie unsere [Jubiläum-Website]({{page.link}}) für mehr Informationen.
 
 ![Jubisite][jubisite.nl]
