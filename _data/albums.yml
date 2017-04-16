@@ -1,4 +1,11 @@
 albums:
+- id: "6409569613680154401"
+  date: 2017-04-16
+  name:
+    nl: paaseierenraap
+    fr: "chasse d&apos;oeufs"
+    de: Ostereiersuche
+    en: easter egg hunt
 - id: "6369873176010894593"
   date: 2016-12-29
   name:
