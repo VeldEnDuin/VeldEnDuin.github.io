@@ -341,27 +341,6 @@ items:
     fr: delphinarium et parc d’attractions - Bruges
     de: Delfinarium und Freizeitpark – Brügge
     en: dolphinarium and theme park - Bruges
-- ranking: 180
-  location: 51.238518, 2.939241
-  subgroups:
-  - kids
-  images:
-  - "/img/doen/ost-explorado.jpg"
-  link:
-    nl: http://www.explorado-oostende.be/
-    fr: http://www.explorado-oostende.be/?lang=fr
-    de: http://www.explorado-oostende.be/?lang=de
-    en: http://www.explorado-oostende.be/?lang=en
-  title:
-    nl: Explorado
-    fr: Explorado
-    de: Explorado
-    en: Explorado
-  caption:
-    nl: wetenschapspark - Oostende
-    fr: parc scientifique - Ostende
-    de: Wissenschaftspark – Ostende
-    en: adventure and science park - Ostend
 - ranking: 300
   location: 51.206802, 2.907028
   subgroups:
