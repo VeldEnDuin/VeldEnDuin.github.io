@@ -1,4 +1,11 @@
 albums:
+- id: "6429602846922913345"
+  date: 2017-06-03
+  name:
+    nl: jubileumfeest 50 jaar
+    fr: fête de jubilé 50 ans
+    de: Jubiläumfest 50 Jahre
+    en: 50 year anniversary
 - id: "6409569613680154401"
   date: 2017-04-16
   name:
