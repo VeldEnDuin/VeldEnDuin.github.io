@@ -487,10 +487,10 @@ items:
   images:
   - "/img/doen/ost-boot.jpg"
   link:
-    nl: http://www.dekust.be/nl/doen/zee-excursies-oostende-boottocht-franlis-iii
+    nl: http://www.franlis.be/
     fr: http://www.franlis.be/fr/home
-    de: http://www.belgischekueste.be/node/88697
-    en: http://www.belgiancoast.co.uk/experience/ostend-sea-excursions-%E2%80%93-franlis-iii-boat-trip
+    de: http://www.franlis.be/de/home
+    en: http://www.franlis.be/en/home
   title:
     nl: boottochten
     fr: balades en bateau
@@ -733,10 +733,10 @@ items:
   images:
   - "/img/doen/bre-zwem.jpg"
   link:
-    nl: http://www.dekust.be/nl/do/sport-entertainment/field_tax_poi_type/swim-248
-    fr: http://www.dekust.be/fr/do/sport-entertainment/field_tax_poi_type/swim-248
-    de: http://www.belgischekueste.be/search/content/hallenbad
-    en: http://www.belgiancoast.co.uk/search/content/swimming%20pool
+    nl: http://www.dekust.be/nl/doen/sport-ontspanning/type/zwemgelegenheid
+    fr: http://www.lelittoral.be/fr/a-faire/sport-divertissement/type/natation
+    de: http://www.belgischekueste.be/de/tun/sport-unterhaltung/type/schwimmen
+    en: http://www.belgiancoast.co.uk/en/do/sport-entertainment/type/swim
   title:
     nl: zwemmen
     fr: natation
@@ -879,10 +879,10 @@ items:
   images:
   - "/img/doen/shop.jpg"
   link:
-    nl: http://www.dekust.be/nl/do/sport-entertainment/field_tax_poi_type/shop-260
-    fr: http://www.dekust.be/fr/do/sport-entertainment/field_tax_poi_type/shop-260
-    de: http://www.belgischekueste.be/shoppen
-    en: http://www.belgiancoast.co.uk/shopping
+    nl: http://www.dekust.be/nl/doen/sport-ontspanning/type/shop-winkel
+    fr: http://www.lelittoral.be/fr/a-faire/sport-divertissement/type/boutique
+    de: http://www.belgischekueste.be/de/tun/sport-unterhaltung/type/laden
+    en: http://www.belgiancoast.co.uk/en/do/sport-entertainment/type/shop
   title:
     nl: Shoppen aan de Kust
     fr: Shopping à la côte
@@ -1042,10 +1042,10 @@ items:
   images:
   - "/img/doen/cinema.jpg"
   link:
-    nl: http://www.dekust.be/nl/do/sport-entertainment/field_tax_poi_type/cinema-256
-    fr: http://www.dekust.be/fr/do/sport-entertainment/field_tax_poi_type/cinema-256
-    de: http://www.belgischekueste.be/search/content/cinema
-    en: http://www.belgiancoast.co.uk/search/content/cinema
+    nl: http://www.dekust.be/nl/doen/sport-ontspanning/type/bioscoop
+    fr: http://www.lelittoral.be/fr/a-faire/sport-divertissement/type/cin%C3%A9ma
+    de: http://www.belgischekueste.be/de/tun/sport-unterhaltung/type/kino
+    en: http://www.belgiancoast.co.uk/en/do/sport-entertainment/type/cinema
   title:
     nl: Bioscopen aan de Kust
     fr: Cinémas à la côte
@@ -1064,9 +1064,9 @@ items:
   - "/img/doen/bowling.jpg"
   link:
     nl: http://www.dekust.be/nl/search/bowling
-    fr: http://www.dekust.be/fr/search/bowling
-    de: http://www.belgischekueste.be/search/content/bowling
-    en: http://www.belgiancoast.co.uk/search/content/bowling
+    fr: http://www.lelittoral.be/fr/search/bowling
+    de: http://www.belgischekueste.be/de/search/bowling
+    en: http://www.belgiancoast.co.uk/en/search/bowling
   title:
     nl: bowling
     fr: bowling
@@ -1084,10 +1084,10 @@ items:
   images:
   - "/img/doen/coastgreeters.jpg"
   link:
-    nl: http://www.dekust.be/nl/belgian-coast-greeters/home
-    fr: http://www.lelittoral.be/fr/rencontrez-et-r%C3%A9servez-un-greeter
-    de: http://www.belgischekueste.be/node/94300
-    en: http://www.belgiancoast.co.uk/belgiancoastgreeters/book-and-meet-greeter
+    nl: http://www.dekust.be/nl/belgian-coast-greeters
+    fr: http://www.lelittoral.be/fr/les-belgian-coast-greeters
+    de: http://www.belgischekueste.be/de/belgian-coast-greeters
+    en: http://www.belgiancoast.co.uk/en/belgian-coast-greeters
   title:
     nl: Belgian Coast Greeters
     fr: Belgian Coast Greeters
