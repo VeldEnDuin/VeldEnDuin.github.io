@@ -306,10 +306,10 @@ items:
   images:
   - "/img/doen/dhn-sierk.jpg"
   link:
-    nl: http://www.desierk.be/nl/index.html
-    fr: http://www.desierk.be/nl/index.html
-    de: http://www.desierk.be/nl/index.html
-    en: http://www.desierk.be/nl/index.html
+    nl: http://www.desierk.be/welkom-bij-de-sierk
+    fr: http://www.desierk.be/welkom-bij-de-sierk
+    de: http://www.desierk.be/welkom-bij-de-sierk
+    en: http://www.desierk.be/welkom-bij-de-sierk
   title:
     nl: De Sierk
     fr: De Sierk
@@ -613,8 +613,8 @@ items:
   link:
     nl: http://www.wandelknooppunt.be/wandelnetwerk.aspx?kaart=kustwandelroute
     fr: http://www.lelittoral.be/fr/a-faire/itineraires-randonnee
-    de: http://www.belgischekueste.be/Kuestenwanderweg
-    en: http://www.belgiancoast.co.uk/coastalwalkingpath
+    de: http://www.belgischekueste.be/de/tun/wanderwege
+    en: http://www.belgiancoast.co.uk/en/do/hike-trails
   title:
     nl: wandelnetwerk
     fr: réseau de randonnées pédestres
@@ -674,8 +674,8 @@ items:
   link:
     nl: http://www.kustmarkten.be/
     fr: http://www.kustmarkten.be/
-    de: http://www.belgischekueste.be/Markte
-    en: http://www.belgiancoast.co.uk/markets
+    de: http://www.kustmarkten.be/
+    en: http://www.kustmarkten.be/
   title:
     nl: (avond)markten
     fr: marchés (nocturnes)
