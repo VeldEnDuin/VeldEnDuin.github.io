@@ -8,6 +8,7 @@ images:
     - /img/voorzieningen/popupbib/bib-02.jpg
     - /img/voorzieningen/popupbib/bib-03.jpg
     - /img/voorzieningen/popupbib/bib-04.jpg
+    - /img/voorzieningen/popupbib/bib-05.jpg
 
 insert:
     - page-images-top
