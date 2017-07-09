@@ -1,4 +1,11 @@
 albums:
+- id: "6440686143271848017"
+  date: 2017-07-08
+  name:
+    nl: Reuzepicknick
+    fr: Pique-nique géant
+    de: Riesen-Picknick
+    en: Giant picknick
 - id: "6430739910382071441"
   date: 2017-06-03
   name:
