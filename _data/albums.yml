@@ -1,4 +1,11 @@
 albums:
+- id: "6445225826031427825"
+  date: 2017-07-20
+  name:
+    nl: Sneukelfietstocht
+    fr: Randonnée gourmande à vélo
+    de: Schnabuliereradtour
+    en: Snack & bike tour
 - id: "6444468337076408785"
   date: 2017-07-13
   name:
