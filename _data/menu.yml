@@ -74,6 +74,8 @@
       submenu:
         - linkcode: te_koop
         - linkcode: b_21
+        - linkcode: b_51
+        - linkcode: c_55
         - linkcode: d_62
 
 
