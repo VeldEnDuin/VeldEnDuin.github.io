@@ -1,4 +1,11 @@
 albums:
+- id: "6453012561811250449"
+  date: 2017-08-11
+  name:
+    nl: waterglijbaan
+    fr: toboggan aquatique
+    de: Wasserrutschbahn
+    en: water slide
 - id: "6450040335047566849"
   date: 2017-08-03
   name:
