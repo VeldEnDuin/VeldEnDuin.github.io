@@ -17,7 +17,6 @@ images:
     - /img/nieuws/20170803-kinderkoken-09.jpg
     - /img/nieuws/20170803-kinderkoken-10.jpg
     - /img/nieuws/20170803-kinderkoken-11.jpg
-    - /img/nieuws/20170803-kinderkoken-12.jpg
     
     
     
