@@ -46,7 +46,6 @@ At the end of the year we are going to organize a cosy mulled wine evening. A go
 |   28/07/2017    |    Duo Berlingo - No Way Back      |
 |   03/08/2017    |    Cooking for kids - party edition      |
 |   10/08/2017    |    Water slide     |
-|   18/08/2017    |    Big Veld & Duin-quiz     |
 |   25/08/2017    |    Guided tour in nature reserve d'Heye    |
 
 
