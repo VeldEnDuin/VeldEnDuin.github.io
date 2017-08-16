@@ -1,4 +1,11 @@
 albums:
+- id: "6454838143424542481"
+  date: 2017-08-15
+  name:
+    nl: Oogstfeest
+    fr: Fête de la récolte
+    de: Erntefest
+    en: Harvest fest
 - id: "6453012561811250449"
   date: 2017-08-11
   name:
