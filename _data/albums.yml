@@ -1,11 +1,18 @@
 albums:
+- id: "6458212566749614289"
+  date: 2017-08-25
+  name:
+    nl: gidsbeurt
+    fr: tour guidé
+    de: geführte Tour
+    en: guided tour
 - id: "6454838143424542481"
   date: 2017-08-15
   name:
-    nl: Oogstfeest
-    fr: Fête de la récolte
+    nl: oogstfeest
+    fr: fête de la récolte
     de: Erntefest
-    en: Harvest fest
+    en: harvest fest
 - id: "6453012561811250449"
   date: 2017-08-11
   name:
@@ -37,10 +44,10 @@ albums:
 - id: "6444468337076408785"
   date: 2017-07-13
   name:
-    nl: Knutselen
-    fr: Bricolage
-    de: Basteln
-    en: Crafting
+    nl: knutselen
+    fr: bricolage
+    de: basteln
+    en: crafting
 - id: "6440686143271848017"
   date: 2017-07-08
   name:
