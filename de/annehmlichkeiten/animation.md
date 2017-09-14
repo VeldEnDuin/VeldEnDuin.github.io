@@ -45,7 +45,6 @@ Jedes Jahr schließen wir mit einem gemütlichen Glühweinabend ab. Bei warmen G
 |   28/07/2017    |    Duo Berlingo - No Way Back      |
 |   03/08/2017    |    Kinderkochen Festausgabe      |
 |   10/08/2017    |    Wasserrutsche     |
-|   18/08/2017    |    Das große Veld & Duin-Quiz     |
 |   25/08/2017    |    Führung Naturschutzgebiet d'Heye    |
 
 Alle Informationen finden Sie auf unserer [Jubiläumswebsite](http://www.veldenduin.be/jubileum/de/kalender.html).

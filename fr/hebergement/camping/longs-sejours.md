@@ -55,8 +55,8 @@ Votre caravane équipée de tout le confort reste sur son emplacement toute l’
 
 PÉRIODE               | INDEMNITÉ DE RÉSIDENCE | TAXE COMMUNALE      
 :--------------------:|:----------------------:|--------------|
-6 maanden             |€ 1615                  |€ 132,50             
-1 jaar<br>(1/1-31/12) |€ 1720                  |€ 347,68                
+6 mois             |€ 1615                  |€ 132,50             
+1 an<br>(1/1-31/12) |€ 1720                  |€ 347,68                
  
 ## Inclus
 

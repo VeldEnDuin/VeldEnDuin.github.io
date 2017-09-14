@@ -45,7 +45,6 @@ Pour clôturer l’année en beauté, nous organisons une soirée vin chaud. Ré
 |   28/07/2017    |    Duo Berlingo - No Way Back      |
 |   03/08/2017    |    Atelier cuisine pour enfants, édition festive      |
 |   10/08/2017    |    Toboggan aquatique     |
-|   18/08/2017    |    Grand quiz Veld & Duin     |
 |   25/08/2017    |    Visite guidée réserve naturelle d'Heye    |
 
 Vous trouvez tous les informations sur notre [site du jubilé](http://www.veldenduin.be/jubileum/fr/calendrier.html).

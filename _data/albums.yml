@@ -1,4 +1,74 @@
 albums:
+- id: "6458212566749614289"
+  date: 2017-08-25
+  name:
+    nl: gidsbeurt
+    fr: tour guidé
+    de: geführte Tour
+    en: guided tour
+- id: "6454838143424542481"
+  date: 2017-08-15
+  name:
+    nl: oogstfeest
+    fr: fête de la récolte
+    de: Erntefest
+    en: harvest fest
+- id: "6453012561811250449"
+  date: 2017-08-11
+  name:
+    nl: waterglijbaan
+    fr: toboggan aquatique
+    de: Wasserrutschbahn
+    en: water slide
+- id: "6450040335047566849"
+  date: 2017-08-03
+  name:
+    nl: kinderkoken
+    fr: cuire pour enfants
+    de: Kinderkochen
+    en: cooking for children
+- id: "6448089804852102961"
+  date: 2017-07-28
+  name:
+    nl: Duo Berlingo
+    fr: Duo Berlingo
+    de: Duo Berlingo
+    en: Duo Berlingo
+- id: "6445225826031427825"
+  date: 2017-07-20
+  name:
+    nl: Sneukelfietstocht
+    fr: Randonnée gourmande à vélo
+    de: Schnabuliere-Radtour
+    en: Snack & bike tour
+- id: "6444468337076408785"
+  date: 2017-07-13
+  name:
+    nl: knutselen
+    fr: bricolage
+    de: basteln
+    en: crafting
+- id: "6440686143271848017"
+  date: 2017-07-08
+  name:
+    nl: Reuzepicknick
+    fr: Pique-nique géant
+    de: Riesen-Picknick
+    en: Giant picknick
+- id: "6430739910382071441"
+  date: 2017-06-03
+  name:
+    nl: jubileumfeest 50 jaar
+    fr: fête de jubilé 50 ans
+    de: Jubiläumfest 50 Jahre
+    en: 50 year anniversary
+- id: "6409569613680154401"
+  date: 2017-04-16
+  name:
+    nl: paaseierenraap
+    fr: "chasse d&apos;oeufs"
+    de: Ostereiersuche
+    en: easter egg hunt
 - id: "6369873176010894593"
   date: 2016-12-29
   name:

@@ -211,10 +211,10 @@ items:
     de: Gardens of Bredene
     en: Gardens of Bredene
   caption:
-    nl: parkfeest 't Paelsteenveld - Bredene
-    fr: fête dans le parc ‘t Paelsteenveld – Bredene
-    de: Parkfest 't Paelsteenveld – Bredene
-    en: festival in Paelsteenveld park - 't Paelsteenveld - Bredene
+    nl: parkfeest 't Paelsteenveld - Bredene - 26/8/17
+    fr: fête dans le parc ‘t Paelsteenveld – Bredene - 26/8/17
+    de: Parkfest 't Paelsteenveld – Bredene - 26/8/17
+    en: festival in Paelsteenveld park - 't Paelsteenveld - Bredene- 26/8/17
 - ranking: 230
   location: 51.231234, 2.913555
   subgroups:
@@ -306,10 +306,10 @@ items:
   images:
   - "/img/doen/dhn-sierk.jpg"
   link:
-    nl: http://www.desierk.be/nl/index.html
-    fr: http://www.desierk.be/nl/index.html
-    de: http://www.desierk.be/nl/index.html
-    en: http://www.desierk.be/nl/index.html
+    nl: http://www.desierk.be/welkom-bij-de-sierk
+    fr: http://www.desierk.be/welkom-bij-de-sierk
+    de: http://www.desierk.be/welkom-bij-de-sierk
+    en: http://www.desierk.be/welkom-bij-de-sierk
   title:
     nl: De Sierk
     fr: De Sierk
@@ -341,27 +341,6 @@ items:
     fr: delphinarium et parc d’attractions - Bruges
     de: Delfinarium und Freizeitpark – Brügge
     en: dolphinarium and theme park - Bruges
-- ranking: 180
-  location: 51.238518, 2.939241
-  subgroups:
-  - kids
-  images:
-  - "/img/doen/ost-explorado.jpg"
-  link:
-    nl: http://www.explorado-oostende.be/
-    fr: http://www.explorado-oostende.be/?lang=fr
-    de: http://www.explorado-oostende.be/?lang=de
-    en: http://www.explorado-oostende.be/?lang=en
-  title:
-    nl: Explorado
-    fr: Explorado
-    de: Explorado
-    en: Explorado
-  caption:
-    nl: wetenschapspark - Oostende
-    fr: parc scientifique - Ostende
-    de: Wissenschaftspark – Ostende
-    en: adventure and science park - Ostend
 - ranking: 300
   location: 51.206802, 2.907028
   subgroups:
@@ -508,10 +487,10 @@ items:
   images:
   - "/img/doen/ost-boot.jpg"
   link:
-    nl: http://www.dekust.be/nl/doen/zee-excursies-oostende-boottocht-franlis-iii
+    nl: http://www.franlis.be/
     fr: http://www.franlis.be/fr/home
-    de: http://www.belgischekueste.be/node/88697
-    en: http://www.belgiancoast.co.uk/experience/ostend-sea-excursions-%E2%80%93-franlis-iii-boat-trip
+    de: http://www.franlis.be/de/home
+    en: http://www.franlis.be/en/home
   title:
     nl: boottochten
     fr: balades en bateau
@@ -634,8 +613,8 @@ items:
   link:
     nl: http://www.wandelknooppunt.be/wandelnetwerk.aspx?kaart=kustwandelroute
     fr: http://www.lelittoral.be/fr/a-faire/itineraires-randonnee
-    de: http://www.belgischekueste.be/Kuestenwanderweg
-    en: http://www.belgiancoast.co.uk/coastalwalkingpath
+    de: http://www.belgischekueste.be/de/tun/wanderwege
+    en: http://www.belgiancoast.co.uk/en/do/hike-trails
   title:
     nl: wandelnetwerk
     fr: réseau de randonnées pédestres
@@ -695,8 +674,8 @@ items:
   link:
     nl: http://www.kustmarkten.be/
     fr: http://www.kustmarkten.be/
-    de: http://www.belgischekueste.be/Markte
-    en: http://www.belgiancoast.co.uk/markets
+    de: http://www.kustmarkten.be/
+    en: http://www.kustmarkten.be/
   title:
     nl: (avond)markten
     fr: marchés (nocturnes)
@@ -754,10 +733,10 @@ items:
   images:
   - "/img/doen/bre-zwem.jpg"
   link:
-    nl: http://www.dekust.be/nl/do/sport-entertainment/field_tax_poi_type/swim-248
-    fr: http://www.dekust.be/fr/do/sport-entertainment/field_tax_poi_type/swim-248
-    de: http://www.belgischekueste.be/search/content/hallenbad
-    en: http://www.belgiancoast.co.uk/search/content/swimming%20pool
+    nl: http://www.dekust.be/nl/doen/sport-ontspanning/type/zwemgelegenheid
+    fr: http://www.lelittoral.be/fr/a-faire/sport-divertissement/type/natation
+    de: http://www.belgischekueste.be/de/tun/sport-unterhaltung/type/schwimmen
+    en: http://www.belgiancoast.co.uk/en/do/sport-entertainment/type/swim
   title:
     nl: zwemmen
     fr: natation
@@ -900,10 +879,10 @@ items:
   images:
   - "/img/doen/shop.jpg"
   link:
-    nl: http://www.dekust.be/nl/do/sport-entertainment/field_tax_poi_type/shop-260
-    fr: http://www.dekust.be/fr/do/sport-entertainment/field_tax_poi_type/shop-260
-    de: http://www.belgischekueste.be/shoppen
-    en: http://www.belgiancoast.co.uk/shopping
+    nl: http://www.dekust.be/nl/doen/sport-ontspanning/type/shop-winkel
+    fr: http://www.lelittoral.be/fr/a-faire/sport-divertissement/type/boutique
+    de: http://www.belgischekueste.be/de/tun/sport-unterhaltung/type/laden
+    en: http://www.belgiancoast.co.uk/en/do/sport-entertainment/type/shop
   title:
     nl: Shoppen aan de Kust
     fr: Shopping à la côte
@@ -1063,10 +1042,10 @@ items:
   images:
   - "/img/doen/cinema.jpg"
   link:
-    nl: http://www.dekust.be/nl/do/sport-entertainment/field_tax_poi_type/cinema-256
-    fr: http://www.dekust.be/fr/do/sport-entertainment/field_tax_poi_type/cinema-256
-    de: http://www.belgischekueste.be/search/content/cinema
-    en: http://www.belgiancoast.co.uk/search/content/cinema
+    nl: http://www.dekust.be/nl/doen/sport-ontspanning/type/bioscoop
+    fr: http://www.lelittoral.be/fr/a-faire/sport-divertissement/type/cin%C3%A9ma
+    de: http://www.belgischekueste.be/de/tun/sport-unterhaltung/type/kino
+    en: http://www.belgiancoast.co.uk/en/do/sport-entertainment/type/cinema
   title:
     nl: Bioscopen aan de Kust
     fr: Cinémas à la côte
@@ -1085,9 +1064,9 @@ items:
   - "/img/doen/bowling.jpg"
   link:
     nl: http://www.dekust.be/nl/search/bowling
-    fr: http://www.dekust.be/fr/search/bowling
-    de: http://www.belgischekueste.be/search/content/bowling
-    en: http://www.belgiancoast.co.uk/search/content/bowling
+    fr: http://www.lelittoral.be/fr/search/bowling
+    de: http://www.belgischekueste.be/de/search/bowling
+    en: http://www.belgiancoast.co.uk/en/search/bowling
   title:
     nl: bowling
     fr: bowling
@@ -1105,10 +1084,10 @@ items:
   images:
   - "/img/doen/coastgreeters.jpg"
   link:
-    nl: http://www.dekust.be/nl/belgian-coast-greeters/home
-    fr: http://www.lelittoral.be/fr/rencontrez-et-r%C3%A9servez-un-greeter
-    de: http://www.belgischekueste.be/node/94300
-    en: http://www.belgiancoast.co.uk/belgiancoastgreeters/book-and-meet-greeter
+    nl: http://www.dekust.be/nl/belgian-coast-greeters
+    fr: http://www.lelittoral.be/fr/les-belgian-coast-greeters
+    de: http://www.belgischekueste.be/de/belgian-coast-greeters
+    en: http://www.belgiancoast.co.uk/en/belgian-coast-greeters
   title:
     nl: Belgian Coast Greeters
     fr: Belgian Coast Greeters
@@ -1157,10 +1136,10 @@ items:
     de: Kneistival
     en: Kneistival
   caption:
-    nl: gratis pop & rock festival - Knokke-Heist
-    fr: festival pop & rock gratuit - Knokke-Heist
-    de: kostenloses Pop & Rock Festival - Knokke-Heist
-    en: free pop & rock festival - Knokke-Heist
+    nl: gratis pop & rock festival - Knokke-Heist - 17-22/7/17
+    fr: festival pop & rock gratuit - Knokke-Heist - 17-22/7/17
+    de: kostenloses Pop & Rock Festival - Knokke-Heist - 17-22/7/17
+    en: free pop & rock festival - Knokke-Heist - 17-22/7/17
 - ranking: 55
   location: 51.230025, 2.919333
   subgroups:
@@ -1201,10 +1180,10 @@ items:
     de: Sandskulpturenfestival
     en: Sand sculpture festival
   caption:
-    nl: Oostende - 17/6-10/9/17
-    fr: Ostende - 17/6-10/9/17
-    de: Oostende - 17/6-10/9/17
-    en: Ostend - 17/6-10/9/17
+    nl: Oostende - 24/6-10/9/17
+    fr: Ostende - 24/6-10/9/17
+    de: Oostende - 24/6-10/9/17
+    en: Ostend - 24/6-10/9/17
 - ranking: 155
   location: 51.055099, 3.720985
   subgroups:
@@ -1222,10 +1201,10 @@ items:
     de: Gentse feesten
     en: Gentse feesten
   caption:
-    nl: Cultuurfestival - Gent - 15-24/7/17
-    fr: Fête culturel - Gand - 15-24/7/17
-    de: Kulturellen Fest - Gent - 15-24/7/17
-    en: Cultural festival - Ghent - 15-24/7/17
+    nl: Cultuurfestival - Gent - 14-23/7/17
+    fr: Fête culturel - Gand - 14-23/7/17
+    de: Kulturellen Fest - Gent - 14-23/7/17
+    en: Cultural festival - Ghent - 14-23/7/17
 - ranking: 115
   location: 51.229485, 2.921105
   subgroups:

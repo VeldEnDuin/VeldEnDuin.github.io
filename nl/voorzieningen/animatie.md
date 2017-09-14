@@ -47,7 +47,6 @@ Het jaar wordt afgesloten met een gezellige glühweinavond. Onder het genot van 
 |   28/07/2017    |    Duo Berlingo - No Way Back      |
 |   03/08/2017    |    Kinderkoken feesteditie      |
 |   10/08/2017    |    Waterglijbaan     |
-|   18/08/2017    |    Grote Veld & Duin-quiz     |
 |   25/08/2017    |    Gidsbeurt natuurgebied d'Heye    |
 
 Alle praktische informatie vindt u op onze [jubileumsite](http://www.veldenduin.be/jubileum/nl/kalender.html).
