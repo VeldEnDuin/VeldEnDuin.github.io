@@ -67,6 +67,8 @@ Dieser Miniwohnwagen mit Privatgärtchen ist ideal für Menschen, die sich gern 
 
 ## Preise 2017
 
+Die Preise für 2018 finden Sie [hier][pdf_huurdersprijzen2018.de].
+
 ZEITRAUM               |NEBENSAISON   | HOCHSAISON   |
 :---------------------:|:------------:|:------------:|
 2 Nächte              |€ 145         |              |    

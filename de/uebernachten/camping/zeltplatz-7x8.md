@@ -54,6 +54,7 @@ Diese Plätze von 7x8 Metern sind ideal für Ihr kleines (Wurf-)Zelt.
 
 ## Preise 2017
 
+Die Preise für 2018 finden Sie [hier][pdf_trekkersprijzen2018.de].
 
 ANZAHL PERSONEN | PREIS / NACHT     
 :-------------:|:-----------:|

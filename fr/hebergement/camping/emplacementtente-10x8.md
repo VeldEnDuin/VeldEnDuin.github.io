@@ -53,6 +53,8 @@ Optez pour une véritable expérience de camping et passez des vacances sous ten
 
 ## Prix 2017
 
+Vous trouvez les prix pour 2018 [ici][pdf_trekkersprijzen2018.fr].
+
 NOMBRE DE PERSONNES | PRIX / NUIT     
 :------------------:|:-----------:|
 1 personne          |€ 22              

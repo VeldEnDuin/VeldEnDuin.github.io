@@ -50,6 +50,8 @@ Combinez la liberté de vacances en caravane ou mobile home au confort offert pa
 
 ## Prix 2017
 
+Vous trouvez les prix pour 2018 [ici][pdf_trekkersprijzen2018.fr].
+
 NOMBRE DE PERSONNES | PRIX / NUIT     
 :------------------:|:-----------:|
 1 personne          |€ 22              

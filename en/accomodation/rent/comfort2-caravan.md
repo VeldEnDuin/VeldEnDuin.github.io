@@ -67,6 +67,8 @@ This mini-caravan with private garden is suitable for those who love being outdo
 
 ## Prices 2017
 
+The prices for 2018 can be found [here][pdf_huurdersprijzen2018.en].
+
 PERIOD                 |MID SEASON    | HIGH SEASON  |
 :---------------------:|:------------:|:------------:|
 2 nights              |€ 145         |              |    

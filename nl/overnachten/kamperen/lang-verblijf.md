@@ -53,6 +53,8 @@ Uw trekcaravan met alle basisvoorzieningen blijft het hele jaar staan. Zo kunt u
 
 ## Prijzen 2017
 
+De prijzen voor 2018 vindt u [hier][pdf_trekkersprijzen2018.nl].
+
 PERIODE               | STANDPLAATSVERGOEDING  | GEMEENTETAKS       
 :--------------------:|:----------------------:|--------------|
 6 maanden             |€ 1615                  |€ 132,50            

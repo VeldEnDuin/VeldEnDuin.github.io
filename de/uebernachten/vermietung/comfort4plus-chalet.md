@@ -66,6 +66,8 @@ Nach einem herrlichen Tag am Strand oder einem Ausflug in die Umgebung lockt die
 
 ## Preise 2017
 
+Die Preise für 2018 finden Sie [hier][pdf_huurdersprijzen2018.de].
+
 ZEITRAUM            | NACHSAISON | NEBENSAISON | HOCHSAISON |
 :------------------:|:-----------:|:-------------:|:-----------:|
 2 Nächte           |€ 160       |€ 180          |       

@@ -66,6 +66,8 @@ De retour d’une agréable journée à la plage ou d’une balade dans les envi
 
 ## Prix 2017
 
+Vous trouvez les prix pour 2018 [ici][pdf_huurdersprijzen2018.fr].
+
 PÉRIODE             |BASSE SAISON | MI-SAISON     | HAUTE SAISON|
 :------------------:|:-----------:|:-------------:|:-----------:|
 2 nuits                |€ 160     |€ 180          |    

@@ -53,6 +53,7 @@ Go for the real camping experience with the whole family and stay in a tent. You
 
 ## Prices 2017
 
+The prices for 2018 can be found [here][pdf_trekkersprijzen2018.en].
 
 NUMBER OF PERSONS | PRICE / NIGHT     
 :-------------:|:-----------:|

@@ -65,6 +65,8 @@ Na een heerlijk dagje strand of een uitstapje in de buurt lonkt het overdekte te
 
 ## Prijzen 2017
 
+De prijzen voor 2018 vindt u [hier][pdf_huurdersprijzen2018.nl].
+
 PERIODE             | LAAGSEIZOEN | TUSSENSEIZOEN | HOOGSEIZOEN |
 :------------------:|:-----------:|:-------------:|:-----------:|
 2 nachten           |€ 160       |€ 180          |       

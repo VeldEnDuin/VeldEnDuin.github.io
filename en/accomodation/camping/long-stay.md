@@ -53,6 +53,8 @@ Your caravan stays on the campsite all year round. This means you can enjoy ever
 
 ## Prices 
 
+The prices for 2018 can be found [here][pdf_trekkersprijzen2018.en].
+
 PERIOD              | STAND PRICE  | MUNICIPAL TAXES       
 :--------------------:|:----------------------:|--------------|
 6 months             |€ 1615                |€ 132,50           

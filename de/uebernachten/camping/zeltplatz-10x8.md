@@ -53,6 +53,8 @@ Holen Sie sich das echte Campingerlebnis und machen Sie sich mit der ganzen Fami
 
 ## Preise 2017
 
+Die Preise für 2018 finden Sie [hier][pdf_trekkersprijzen2018.de].
+
 ANZAHL PERSONEN | PREIS / NACHT     
 :-------------:|:-----------:|
 1 Person       |€ 22               

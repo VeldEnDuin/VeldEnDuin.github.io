@@ -51,6 +51,7 @@ Combineer de vrijheid van het reizen met een trekcaravan of mobilhome met het co
 
 ## Prijzen 2017
 
+De prijzen voor 2018 vindt u  [hier][pdf_trekkersprijzen2018.nl].
 
 AANTAL PERSONEN | PRIJS / NACHT      
 :-------------:|:-----------:|

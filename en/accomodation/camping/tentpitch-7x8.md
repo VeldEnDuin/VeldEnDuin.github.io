@@ -54,6 +54,8 @@ These pitches of 7x8 m are convenient for small (self-constructing) tents.
 
 ## Prices 2017
 
+The prices for 2018 can be found [here][pdf_trekkersprijzen2018.en].
+
 NUMBER OF PERSONS | PRICE / NIGHT     
 :-------------:|:-----------:|
 1 person      |€ 19            

@@ -64,6 +64,8 @@ De appartementen liggen net naast de camping. Zo geniet u van de ruimte van een 
 
 ## Prijzen 2017
 
+De prijzen voor 2018 vindt u [hier][pdf_huurdersprijzen2018.nl].
+
 PERIODE             | LAAGSEIZOEN | TUSSENSEIZOEN | HOOGSEIZOEN |
 :------------------:|:-----------:|:-------------:|:-----------:|
 2 nachten           |€ 160      |€ 180          |       

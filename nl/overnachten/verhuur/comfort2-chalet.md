@@ -65,6 +65,8 @@ Even alleen komen uitwaaien of met z'n tweetjes? In deze chalet is het heerlijk 
 
 ## Prijzen 2017
 
+De prijzen voor 2018 vindt u [hier][pdf_huurdersprijzen2018.nl].
+
 PERIODE                |TUSSENSEIZOEN | HOOGSEIZOEN  |
 :---------------------:|:------------:|:------------:|
 2 nachten              |€ 145         |              |    

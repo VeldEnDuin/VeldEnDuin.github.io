@@ -67,6 +67,8 @@ Cette mini-caravane et son jardinet privé sont parfaitement adaptés amoureux d
 
 ## Prix 2017
 
+Vous trouvez les prix pour 2018 [ici][pdf_huurdersprijzen2018.fr].
+
 PÉRIODE                |MI-SAISON     | HAUTE SAISON |
 :---------------------:|:------------:|:------------:|
 2 nuits                |€ 145         |              |    

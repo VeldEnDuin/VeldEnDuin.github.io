@@ -65,6 +65,8 @@ Sie wollen sich ein wenig allein oder zu zweit den Wind um die Nase wehen lassen
 
 ## Preise 2017
 
+Die Preise für 2018 finden Sie [hier][pdf_huurdersprijzen2018.de].
+
 ZEITRAUM               |NEBENSAISON   | HOCHSAISON   |
 :---------------------:|:------------:|:------------:|
 2 Nächte              |€ 145        |              |    

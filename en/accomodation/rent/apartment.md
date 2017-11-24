@@ -66,6 +66,8 @@ The apartments are situated next to the campsite. This means that you can enjoy 
 
 ## Prices 2017
 
+The prices for 2018 can be found [here][pdf_huurdersprijzen2018.en].
+
 PERIOD             | OFF-SEASON | MID SEASON | HIGH SEASON |
 :------------------:|:-----------:|:-------------:|:-----------:|
 2 nights           |€ 160        |€ 180          |       

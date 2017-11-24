@@ -174,11 +174,6 @@ verhuur_luxe_appartementen:
     fr:  /fr/hebergement/location/appartement-de-luxe.html
     de:  /de/uebernachten/vermietung/luxusappartemente.html
     en:  /en/accomodation/rent/luxury-apartments.html
-verhuur_standaard_chalet:
-    nl:  /nl/overnachten/verhuur/standaard-chalet.html
-    fr:  /fr/hebergement/location/chalet-standard.html
-    de:  /de/uebernachten/vermietung/standard-chalet.html
-    en:  /en/accomodation/rent/standard-chalet.html
 verhuur_info:
     nl:  /nl/overnachten/verhuur/praktische-info.html
     fr:  /fr/hebergement/location/infos-pratiques.html
@@ -380,6 +375,16 @@ pdf_zomeranimatie:
     nl: /nl/pdf/animatie2016.pdf
     fr: /fr/pdf/animations2016.pdf
     de: /de/pdf/animation2016.pdf
+pdf_huurdersprijzen2018:
+    nl: /nl/pdf/nlverhuurprijzen2018.pdf
+    fr: /fr/pdf/frverhuurprijzen2018.pdf
+    de: /de/pdf/deverhuurprijzen2018.pdf
+    en: /en/pdf/enverhuurprijzen2018.pdf
+pdf_trekkersprijzen2018:
+    nl: /nl/pdf/nltrekkersprijzen2018.pdf
+    fr: /fr/pdf/frtrekkersprijzen2018.pdf
+    de: /de/pdf/detrekkersprijzen2018.pdf
+    en: /en/pdf/entrekkersprijzen2018.pdf
 
 
 # [7] externe links

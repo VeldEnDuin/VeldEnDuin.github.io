@@ -73,6 +73,8 @@ Located above the reception these new and luxurious apartments overlook the flor
 
 ## Prices 2017
 
+The prices for 2018 can be found [here][pdf_huurdersprijzen2018.en].
+
 PERIOD            | OFF-SEASON | MID SEASON | HIGH SEASON |
 :------------------:|:-----------:|:-------------:|:-----------:|
 2 nights           |€ 180        |€ 200          |       

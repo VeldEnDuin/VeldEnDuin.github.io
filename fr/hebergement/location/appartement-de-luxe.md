@@ -73,6 +73,8 @@ Situés au-dessus de la réception, ces nouveaux appartements luxueux offrent un
 
 ## Prix 2017
 
+Vous trouvez les prix pour 2018 [ici][pdf_huurdersprijzen2018.fr].
+
 PÉRIODE             |BASSE SAISON | MI-SAISON     | HAUTE SAISON|
 :------------------:|:-----------:|:-------------:|:-----------:|
 2 nuits                |€ 180    |€ 200          |    

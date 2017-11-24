@@ -65,6 +65,8 @@ Deze mini-caravan met privé-tuintje is ideaal voor wie houdt van het buitenleve
 
 ## Prijzen 2017
 
+De prijzen voor 2018 vindt u [hier][pdf_huurdersprijzen2018.nl].
+
 PERIODE                |TUSSENSEIZOEN | HOOGSEIZOEN  |
 :---------------------:|:------------:|:------------:|
 2 nachten              |€ 145         |              |    

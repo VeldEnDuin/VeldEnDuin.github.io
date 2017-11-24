@@ -64,6 +64,8 @@ Diese Chalets liegen vorn auf dem Campingplatz in der Nähe des Spielplatzes. Id
 
 ## Preise 2017
 
+Die Preise für 2018 finden Sie [hier][pdf_huurdersprijzen2018.de].
+
 ZEITRAUM            | NACHSAISON | NEBENSAISON | HOCHSAISON |
 :------------------:|:-----------:|:-------------:|:-----------:|
 2 Nächte           |€ 145       |€ 165         |       

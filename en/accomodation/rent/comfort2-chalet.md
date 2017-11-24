@@ -67,6 +67,8 @@ Need a break, just for the two of you? Make yourself at home in this cosy chalet
 
 ## Prices 2017
 
+The prices for 2018 can be found [here][pdf_huurdersprijzen2018.en].
+
 PERIOD                |MID SEASON | HIGH SEASON  |
 :---------------------:|:------------:|:------------:|
 2 nights            |€ 145        |              |    

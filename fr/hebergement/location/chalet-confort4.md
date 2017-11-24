@@ -64,6 +64,8 @@ Ces chalets sont situés à l’entrée du camping, à proximité du terrain de 
 
 ## Prix 2017
 
+Vous trouvez les prix pour 2018 [ici][pdf_huurdersprijzen2018.fr].
+
 PÉRIODE             |BASSE SAISON | MI-SAISON     | HAUTE SAISON|
 :------------------:|:-----------:|:-------------:|:-----------:|
 2 nuits                |€ 145     |€ 165          |    

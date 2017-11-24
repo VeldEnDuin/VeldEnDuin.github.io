@@ -66,6 +66,8 @@ Les appartements sont situés à deux pas du camping. Tout en profitant de l’e
 
 ## Prix 2017
 
+Vous trouvez les prix pour 2018 [ici][pdf_huurdersprijzen2018.fr].
+
 PÉRIODE             |BASSE SAISON | MI-SAISON     | HAUTE SAISON|
 :------------------:|:-----------:|:-------------:|:-----------:|
 2 nuits                |€ 160     |€ 180          |    

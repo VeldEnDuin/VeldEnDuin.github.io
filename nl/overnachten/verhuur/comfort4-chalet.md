@@ -64,6 +64,8 @@ Deze chalets liggen vooraan op de camping en dicht bij het speelplein. Ideaal du
 
 ## Prijzen 2017
 
+De prijzen voor 2018 vindt u [hier][pdf_huurdersprijzen2018.nl].
+
 PERIODE             | LAAGSEIZOEN | TUSSENSEIZOEN | HOOGSEIZOEN |
 :------------------:|:-----------:|:-------------:|:-----------:|
 2 nachten           |€ 145        |€ 165          |       

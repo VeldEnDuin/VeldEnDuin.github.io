@@ -66,6 +66,8 @@ Die Appartements liegen neben dem Campingplatz. So genießen Sie den Platz eines
 
 ## Preise 2017
 
+Die Preise für 2018 finden Sie [hier][pdf_huurdersprijzen2018.de].
+
 ZEITRAUM            | NACHSAISON | NEBENSAISON | HOCHSAISON |
 :------------------:|:-----------:|:-------------:|:-----------:|
 2 Nächte           |€ 160       |€ 180          |       

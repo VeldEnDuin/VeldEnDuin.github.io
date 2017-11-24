@@ -65,6 +65,8 @@ Envie de vous ressourcer seul ou à deux? Vous vous sentirez comme à la maison 
 
 ## Prix 2017
 
+Vous trouvez les prix pour 2018 [ici][pdf_huurdersprijzen2018.fr].
+
 PÉRIODE                |MI-SAISON     | HAUTE SAISON |
 :---------------------:|:------------:|:------------:|
 2 nuits                |€ 145         |              |    
