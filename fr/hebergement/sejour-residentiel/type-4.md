@@ -37,6 +37,8 @@ Vous cherchez un grand emplacement avec vue sur la pièce d’eau au centre du c
 
 ## Prix 2017
 
+Vous trouvez les prix pour 2018 [ici][pdf_residentieelprijzen2018.fr].
+
 TYPE 4                |PRIX           |
 :--------------------:|:--------------:|
 indemnité de résidence par an |€ 2560             

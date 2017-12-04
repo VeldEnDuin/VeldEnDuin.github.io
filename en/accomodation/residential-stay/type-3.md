@@ -38,6 +38,8 @@ Do you secretly dream about a place to settle along the coast? Make your dream c
 
 ## Prices 2017
 
+The prices for 2018 can be found [here][pdf_residentieelprijzen2018.en].
+
 TYPE 3                |PRICE           |
 :--------------------:|:--------------:|
 stand price per year  |€ 1910              

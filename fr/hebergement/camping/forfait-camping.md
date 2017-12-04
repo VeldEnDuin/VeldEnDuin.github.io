@@ -53,7 +53,7 @@ Vous souhaitez prendre de longues vacances d’un mois ou plus ? Découvrez nos 
 
 ## Prix
 
-PÉRIODE        | PRIX 2017       
+PÉRIODE        | PRIX 2018       
 :-------------:|:-----------:|
 avril          |€ 330               
 mai            |€ 375                   

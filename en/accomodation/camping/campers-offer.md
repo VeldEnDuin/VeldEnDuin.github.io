@@ -50,7 +50,7 @@ Do you want to stay for a month or even more? Have a look at the different packa
 
 ## Prices
 
-PERIOD        | PRICE 2017       
+PERIOD        | PRICE 2018       
 :-------------:|:-----------:|
 April          |€ 330               
 May            |€ 375                   

@@ -52,7 +52,7 @@ Sie haben einen Monat oder länger Zeit? Dann sehen Sie sich doch die verschiede
 
 ## Preise
 
-ZEITRAUM        | PREIS 2017     
+ZEITRAUM        | PREIS 2018     
 :-------------:|:-----------:|
 April          |€ 330               
 Mai            |€ 375                   

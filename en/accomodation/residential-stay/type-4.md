@@ -38,6 +38,8 @@ Would you like a big plot overlooking the wadi? Choose one of our luxurious plac
 
 ## Prices 2017
 
+The prices for 2018 can be found [here][pdf_residentieelprijzen2018.en].
+
 TYPE 4                |PRICE           |
 :--------------------:|:--------------:|
 stand price per year  |€ 2560              

@@ -37,6 +37,8 @@ Qui n’a jamais rêvé d’un pied-à-terre à la mer pour s’y rendre dès qu
 
 ## Prix 2017
 
+Vous trouvez les prix pour 2018 [ici][pdf_residentieelprijzen2018.fr].
+
 TYPE 3                |PRIX           |
 :--------------------:|:--------------:|
 indemnité de résidence par an |€ 1910               

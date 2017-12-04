@@ -35,6 +35,8 @@ Deze plaatsen zijn iets kleiner qua oppervlakte maar bieden evengoed een instant
 
 ## Prijzen 2017
 
+De prijzen voor 2018 vindt u [hier][pdf_residentieelprijzen2018.nl].
+
 TYPE 1                                         |PRIJS                               |
 :---------------------------------------------:|:----------------------------------:|
 standplaatsvergoeding                          | € 1720     

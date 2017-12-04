@@ -38,6 +38,8 @@ Venez-vous détendre dans votre caravane après une semaine de travail éreintan
 
 ## Prix 2017
 
+Vous trouvez les prix pour 2018 [ici][pdf_residentieelprijzen2018.fr].
+
 TYPE 2                |PRIX            |
 :--------------------:|:--------------:|
 indemnité de résidence par an |€ 1860               

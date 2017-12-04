@@ -37,6 +37,8 @@ Need a break? Come and unwind in your caravan!
 
 ## Prices 2017
 
+The prices for 2018 can be found [here][pdf_residentieelprijzen2018.en].
+
 TYPE 2                |PRICE           |
 :--------------------:|:--------------:|
 stand price per year  |€ 1860               

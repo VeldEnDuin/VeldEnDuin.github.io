@@ -38,6 +38,8 @@ Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Ga 
 
 ## Prijzen 2017
 
+De prijzen voor 2018 vindt u [hier][pdf_residentieelprijzen2018.nl].
+
 TYPE 4                |PRIJS           |
 :--------------------:|:--------------:|
 standplaatsvergoeding |€ 2560               

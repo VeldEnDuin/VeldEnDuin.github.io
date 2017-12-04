@@ -38,6 +38,8 @@ Entschleunigen Sie nach einer hektischen Arbeitswoche in Ihrem Wohnwagen. So kö
 
 ## Preise 2017
 
+Die Preise für 2018 finden Sie [hier][pdf_residentieelprijzen2018.de].
+
 TYP 2                                         |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
 Stellplatzkosten                         | € 1860         

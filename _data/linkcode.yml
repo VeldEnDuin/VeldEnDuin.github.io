@@ -385,6 +385,11 @@ pdf_trekkersprijzen2018:
     fr: /fr/pdf/frtrekkersprijzen2018.pdf
     de: /de/pdf/detrekkersprijzen2018.pdf
     en: /en/pdf/entrekkersprijzen2018.pdf
+pdf_residentieelprijzen2018:
+    nl: /nl/pdf/nlresidentieelprijzen2018.pdf
+    fr: /fr/pdf/frresidentieelprijzen2018.pdf
+    de: /de/pdf/deresidentieelprijzen2018.pdf
+    en: /en/pdf/enresidentieelprijzen2018.pdf
 
 
 # [7] externe links

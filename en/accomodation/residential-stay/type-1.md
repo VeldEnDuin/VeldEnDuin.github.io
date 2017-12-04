@@ -35,6 +35,8 @@ These pitches are smaller but give you an instant holiday feeling, regardless of
 
 ## Prices 2017
 
+The prices for 2018 can be found [here][pdf_residentieelprijzen2018.en].
+
 TYPE 1                                         |PRICE                               |
 :---------------------------------------------:|:----------------------------------:|
 stand price per year                           | € 1720     

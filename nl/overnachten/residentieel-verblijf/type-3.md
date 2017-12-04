@@ -38,6 +38,8 @@ Een vaste stek aan de kust om steeds opnieuw naar terug te keren, wie droomt daa
 
 ## Prijzen 2017
 
+De prijzen voor 2018 vindt u [hier][pdf_residentieelprijzen2018.nl].
+
 TYPE 3                |PRIJS           |
 :--------------------:|:--------------:|
 standplaatsvergoeding |€ 1910               

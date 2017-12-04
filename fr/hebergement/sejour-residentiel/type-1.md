@@ -35,6 +35,8 @@ Ces emplacements sont un peu plus petits mais vous vous y sentirez immédiatemen
 
 ## Prix 2017
 
+Vous trouvez les prix pour 2018 [ici][pdf_residentieelprijzen2018.fr].
+
 TYPE 1                                         |PRIX                               |
 :---------------------------------------------:|:----------------------------------:|
 indemnité de résidence par an                         | € 1720        

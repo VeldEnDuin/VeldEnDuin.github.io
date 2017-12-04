@@ -38,6 +38,8 @@ Ein festes Zuhause an der Küste, in das man immer wieder zurückkehrt, wer trä
 
 ## Preise 2017
 
+Die Preise für 2018 finden Sie [hier][pdf_residentieelprijzen2018.de].
+
 TYP 3                                         |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
 Stellplatzkosten                         | € 1910         

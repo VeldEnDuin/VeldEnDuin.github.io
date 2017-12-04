@@ -35,6 +35,8 @@ Diese Plätze haben eine etwas kleinere Fläche, bieten aber ebenso gut im Handu
 
 ## Preise 2017
 
+Die Preise für 2018 finden Sie [hier][pdf_residentieelprijzen2018.de].
+
 TYP 1                                         |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
 Stellplatzkosten                         | € 1720        

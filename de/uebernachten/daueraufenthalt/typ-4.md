@@ -38,6 +38,8 @@ Wünschen Sie eine besonders große Parzelle mit Blick auf das zentral gelegene 
 
 ## Preise 2017
 
+Die Preise für 2018 finden Sie [hier][pdf_residentieelprijzen2018.de].
+
 TYP 4                                         |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
 Stellplatzkosten                         | € 2560         

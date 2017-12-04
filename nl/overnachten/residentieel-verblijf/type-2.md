@@ -37,6 +37,8 @@ Kom na een drukke werkweek onthaasten in uw caravan. Zo kunt u er nadien weer he
 
 ## Prijzen 2017
 
+De prijzen voor 2018 vindt u [hier][pdf_residentieelprijzen2018.nl].
+
 TYPE 2                |PRIJS           |
 :--------------------:|:--------------:|
 standplaatsvergoeding |€ 1860               
