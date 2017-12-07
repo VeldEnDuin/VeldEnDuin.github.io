@@ -20,5 +20,5 @@ callout: Benieuwd wat Veld & Duin u te bieden heeft? Neem een kijkje op onze sit
 
 ## Welkom!
 
-Als familiebedrijf staat **Veld & Duin** reeds jarenlang garant voor een gastvrij onthaal op onze groene, verzorgde en eigentijdse camping.
+Als familiebedrijf staat **Veld & Duin** reeds jarenlang garant voor een gastvrij onthaal op ons groen, verzorgd en eigentijds vakantiepark.
 We zijn het hele jaar door geopend zodat u in elk seizoen kunt genieten van een deugddoend verblijf.
