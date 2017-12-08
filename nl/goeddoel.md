@@ -1,6 +1,6 @@
 ---
 layout: redirect
-link: http://http://www.veldenduin.be/nl/2017-12-08-goeddoel.html
+link: http://www.veldenduin.be/nl/2017-12-08-goeddoel.html
 
 title: Goed doel
 
