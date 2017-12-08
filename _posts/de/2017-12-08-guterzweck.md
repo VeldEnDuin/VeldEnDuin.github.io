@@ -38,6 +38,6 @@ Nicht alle Kinder haben das Glück, in einer stabilen häuslichen Umgebung aufzu
 Huis aan Zee ist ein Internat, in dem mehr als 100 Kinder zwischen 2,5 und 21 Jahren vorübergehend oder dauerhaft untergebracht werden können. Diese Kinder werden dorthin verwiesen (meistens vom Jugendrichter), weil sie aus verschiedenen Gründen nicht zu Hause wohnen können.
 Das eingesammelte Geld wird verwendet, um Sommerlager zu organisieren. Diese Ferien sind ein schönes Extra, worüber die Internatskinder anschließend ihren Schulkameraden berichten können.
 
-
+**10.000 MAL DANKE AN ALLE!!!**
 
 

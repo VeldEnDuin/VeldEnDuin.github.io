@@ -38,4 +38,4 @@ Tous les enfants n’ont pas la chance de grandir dans un cadre familial stable.
 Huis aan Zee est un internat qui offre tout au long de l’année un accueil temporaire ou permanent à plus d’une centaine d’enfants âgés de deux ans et demi à 21 ans. Ces enfants sont placés (le plus souvent par le juge de la jeunesse) à l’internat parce qu’ils ne peuvent pas rester chez eux pour diverses raisons.
 Les fonds récoltés seront utilisés pour organiser des camps d’été. Ces vacances d’été sont une belle occasion pour les enfants qui peuvent ensuite raconter leurs aventures à leurs camarades d’école.
 
-
+**10.000 FOIS MERCI A TOUS!!!**
