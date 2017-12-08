@@ -6,7 +6,7 @@ permalink: /en/2017-12-05-mulled-wine-eve.html
 
     
 images: 
-    - /img/nieuws/20170512-gluhwein.jpg
+    - /img/nieuws/20171205-gluhwein.jpg
     
     
     
