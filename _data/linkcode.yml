@@ -137,10 +137,11 @@ wedstrijd:
     fr: /fr/hebergement/concours.html
     de: /de/uebernachten/preisausschreiben.html
     en: /en/accomodation/competition.html
-jubileum:
-    nl: /nl/jubileum.html
-    fr: /fr/jubile.html
-    de: /de/jubilaum.html
+goeddoel:
+    nl: /nl/goeddoel.html
+    fr: /fr/bonnecause.html
+    de: /de/guterzweck.html
+    en: /en/charity.html
 
 
 # [2.1] submenu overnachten -> verhuur
