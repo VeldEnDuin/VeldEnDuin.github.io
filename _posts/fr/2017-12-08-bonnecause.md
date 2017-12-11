@@ -8,6 +8,12 @@ permalink: /fr/2017-12-08-bonnecause.html
 images: 
     - /img/nieuws/20171208-goeddoel-01.jpg
     - /img/nieuws/20171208-goeddoel-02.jpg
+    - /img/nieuws/20171208-goeddoel-03.jpg
+    - /img/nieuws/20171208-goeddoel-04.jpg
+    - /img/nieuws/20171208-goeddoel-05.jpg
+    - /img/nieuws/20171208-goeddoel-06.jpg
+    - /img/nieuws/20171208-goeddoel-07.jpg
+    - /img/nieuws/20171208-goeddoel-08.jpg
     
     
 ---
