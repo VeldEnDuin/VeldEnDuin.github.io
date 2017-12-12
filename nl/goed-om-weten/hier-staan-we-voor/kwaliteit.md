@@ -28,5 +28,5 @@ Om dit label te behalen, moesten we volgende stappen succesvol doorlopen:
 
 - het afleggen van een kwaliteitstraject dat bestaat uit opleiding, begeleiding en studiebezoeken
 - via een kwaliteitsdossier aantonen dat de verworven kennis ook effectief gebruikt wordt
-- een positief verslag krijgen van een mystery visitor die onder meer de vriendelijkheid, gastvrijheid en netheid van de deelnemende zaken controleert
+- een positief verslag krijgen van een mystery visitor die onder meer de vriendelijkheid, gastvrijheid en netheid van de deelnemende zaken controleert 
 
