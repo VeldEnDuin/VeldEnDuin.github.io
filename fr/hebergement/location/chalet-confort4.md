@@ -4,7 +4,7 @@ title: Chalet Confort 4
 preview: 
     title: Chalet confort 4 
     button:
-        price: 145
+        price: 150
         for: 2 nuits
     list:
         - "4 personnes"
@@ -62,19 +62,17 @@ Ces chalets sont situés à l’entrée du camping, à proximité du terrain de 
 - chiens admis – max. 2 – pas de races dangereuses
 - disponible à la réservation toute l’année
 
-## Prix 2017
-
-Vous trouvez les prix pour 2018 [ici][pdf_huurdersprijzen2018.fr].
+## Prix 2018
 
 PÉRIODE             |BASSE SAISON | MI-SAISON     | HAUTE SAISON|
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 nuits                |€ 145     |€ 165          |    
-nuitée supplémentaire  |€ 49      |€ 55            |
-mid-week (lun-ven)     |€ 205     |€ 230          |
-week-end prolongé (3 n)|          |€ 230          |
-7 nuitées              |€ 350       |€ 395          | € 560
-nuitée supplémentaire > 7n |€ 42  |€ 52          | € 80
-14 nuitées             |€ 615     |€ 725          | € 1065
+2 nuits                |€ 150     |€ 165          |    
+nuitée supplémentaire  |€ 50      |€ 57            |
+mid-week (lun-ven)     |€ 210     |€ 235          |
+week-end prolongé (3 n)|          |€ 235          |
+7 nuitées              |€ 355       |€ 405          | € 575
+nuitée supplémentaire > 7n |€ 44  |€ 54          | € 82
+14 nuitées             |€ 630     |€ 745          | € 1090
 
 ## Périodes
 
@@ -100,14 +98,14 @@ SUPPLÉMENTS               | PRIX
 nettoyage           | € 40 - le locataire est autorisé à faire le nettoyage lui-même
 assurance annulation| 3,5% du montant total du séjour - [Allianz][pdf_allianz.fr] 
 chien               | € 4 / nuit - max 2
-draps               | € 8 / lit
+draps               | € 9 / lit
 lit d'enfant        | € 1 / nuit
 chaise haute        | € 1 / nuit
 parking voiture supplémentaire  | € 4 / jour entamé
 [emplacement vélo][fietsberging.fr]| € 1 / vélo / nuit
 [sauna][sauna.fr]   | € 30
 [internet][internet.fr]| prix en fonction de la durée de connexion
-[service Veld & Duin][veld_duin_service.fr]| € 60
+[service Veld & Duin][veld_duin_service.fr]| € 65
 
 
 ## Plan du camping

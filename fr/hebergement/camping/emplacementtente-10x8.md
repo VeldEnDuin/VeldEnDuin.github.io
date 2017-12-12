@@ -51,9 +51,7 @@ Optez pour une véritable expérience de camping et passez des vacances sous ten
 - max. 6 personnes / emplacement
 - chiens admis : max. 2 – pas de races dangereuses
 
-## Prix 2017
-
-Vous trouvez les prix pour 2018 [ici][pdf_trekkersprijzen2018.fr].
+## Prix 2018
 
 NOMBRE DE PERSONNES | PRIX / NUIT     
 :------------------:|:-----------:|

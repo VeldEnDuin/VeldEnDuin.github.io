@@ -4,7 +4,7 @@ title: Forfait sauna
 preview: 
     title: Forfait sauna
     button:
-        price: 135
+        price: 170
         for: 2 nuits
     list:
         - "2 nuits"
@@ -39,15 +39,14 @@ Outre un séjour agréable, nous vous proposons ue séance de sauna tonifiante a
 - valable pour tout type d’hébergement
 - disponible à la réservation toute l’année à l’exception des vacances scolaires et week-ends prolongés
 
-## Prix 2017
+## Prix 2018
 
 TYPE D'HÉBERGEMENT  | BASSE SAISON| MI-SAISON    |
-:------------------:|:-----------:|:-------------:
-chalet standard     |-            |€ 135                
-confort 2           |-            |€ 165               
-confort 4           |€ 165        |€ 185         
-confort 4 plus      |€ 180        |€ 200 
-appartement de luxe |€ 200        |€ 220         
+:------------------:|:-----------:|:-------------:           
+confort 2           |-            |€ 170               
+confort 4           |€ 170        |€ 185         
+confort 4 plus      |€ 180        |€ 205
+appartement de luxe |€ 205        |€ 225         
         
 
 
@@ -75,7 +74,7 @@ SUPPLÉMENTS               | PRIX
 nettoyage           | € 40 - (appartement de luxe € 50) - le locataire est autorisé à faire le nettoyage lui-même
 assurance annulation| 3,5% du montant total du séjour - [Allianz][pdf_allianz.fr] 
 chien               | € 4 / chien<br> pas admis dans les appartements
-draps               | € 8 / lit
+draps               | € 9 / lit
 lit d'enfant        | € 1 / nuit
 chaise haute        | € 1 / nuit
 parking voiture supplémentaire  | € 4 / jour entamé

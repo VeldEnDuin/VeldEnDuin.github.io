@@ -39,15 +39,15 @@ Nous vous proposons ce service afin de vous permettre de profiter pleinement de 
 - disponible à la réservation toute l’année
 
 
-## Prix 2017
+## Prix 2018
 
 TYPE D'HÉBERGEMENT  | PRIX
-:------------------:|:-----------
-chalet standard     |€ 60                
-confort 2           |€ 45               
-confort 4           |€ 60         
-confort 4 plus      |€ 60  
-appartement de luxe |€ 70        
+:------------------:|:-----------             
+confort 2           |€ 45
+confort 2 (chalet 4 pers.)|€ 65
+confort 4           |€ 65         
+confort 4 plus      |€ 65  
+appartement de luxe |€ 75        
         
 
 

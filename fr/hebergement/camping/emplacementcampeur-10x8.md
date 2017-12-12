@@ -48,9 +48,8 @@ Combinez la liberté de vacances en caravane ou mobile home au confort offert pa
 - max. 4 personnes / emplacement
 - chiens admis – max. 2 – pas de races dangereuses
 
-## Prix 2017
+## Prix 2018
 
-Vous trouvez les prix pour 2018 [ici][pdf_trekkersprijzen2018.fr].
 
 NOMBRE DE PERSONNES | PRIX / NUIT     
 :------------------:|:-----------:|

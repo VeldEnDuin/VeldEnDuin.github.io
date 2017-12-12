@@ -52,9 +52,7 @@ Ces emplacements de 7x8 mètres conviennent parfaitement aux petites tentes (à 
 - max. 4 personnes / emplacement
 - chiens admis – max. 2 – pas de races dangereuses
 
-## Prix 2017
-
-Vous trouvez les prix pour 2018 [ici][pdf_trekkersprijzen2018.fr].
+## Prix 2018
 
 NOMBRE DE PERSONNES | PRIX / NUIT     
 :------------------:|:-----------:|

@@ -4,7 +4,7 @@ title: Type 2
 preview: 
     title: Type 2
     button:
-        price: 1860
+        price: 1900
         for: par an
     list:
         - "surface moyenne : 100 m²"
@@ -36,23 +36,21 @@ Venez-vous détendre dans votre caravane après une semaine de travail éreintan
 - pas de raccordement à l’eau en hiver – le bâtiment sanitaire reste accessible
 
 
-## Prix 2017
-
-Vous trouvez les prix pour 2018 [ici][pdf_residentieelprijzen2018.fr].
+## Prix 2018
 
 TYPE 2                |PRIX            |
 :--------------------:|:--------------:|
-indemnité de résidence par an |€ 1860               
-taxe communale                |€ 347,68 
-déchets ménagers<br>incl 25 sacs poubelles<br> | € 70    
+indemnité de résidence par an |€ 1900              
+taxe communale                |€ 354,84 
+déchets ménagers<br>incl 25 sacs poubelles<br> | € 75    
 [assurance incendie][pdf_brandverzekering.fr]     |selon la<br>valeur de la caravane
 
 
 CONSOMMATION ⑴         |PRIX         |
 :--------------------:|:-------------:|
-électricité           | € 0,37 / kw        
-forfait eau           | € 70      
-compteur              | € 19   
+électricité           | € 0,38 / kw        
+forfait eau           | € 75      
+compteur              | € 20   
 
 ⑴ prix sous réserve de modifications des prix de l’énergie
 

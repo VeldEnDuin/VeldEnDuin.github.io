@@ -64,19 +64,17 @@ Les appartements sont situés à deux pas du camping. Tout en profitant de l’e
 - espace commun pour vélos
 - disponible à la réservation toute l’année
 
-## Prix 2017
-
-Vous trouvez les prix pour 2018 [ici][pdf_huurdersprijzen2018.fr].
+## Prix 2018
 
 PÉRIODE             |BASSE SAISON | MI-SAISON     | HAUTE SAISON|
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 nuits                |€ 160     |€ 180          |    
-nuitée supplémentaire  |€ 54      |€ 61            |
-mid-week (lun-ven)     |€ 225     |€ 250          |
-week-end prolongé (3 n)|          |€ 250          |
-7 nuitées              |€ 380       |€ 435          | € 615
-nuitée supplémentaire > 7n |€ 47  |€ 57           | € 88
-14 nuitées             |€ 675     |€ 795          | € 1170
+2 nuits                |€ 160     |€ 185          |    
+nuitée supplémentaire  |€ 55      |€ 62            |
+mid-week (lun-ven)     |€ 230     |€ 260          |
+week-end prolongé (3 n)|          |€ 260          |
+7 nuitées              |€ 390       |€ 445          | € 630
+nuitée supplémentaire > 7n |€ 48  |€ 59           | € 90
+14 nuitées             |€ 690     |€ 815          | € 1195
 
 ## Périodes
 
@@ -101,13 +99,13 @@ SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
 nettoyage           | € 40 - le locataire est autorisé à faire le nettoyage lui-même
 assurance annulation| 3,5% du montant total du séjour - [Allianz][pdf_allianz.fr] 
-draps               | € 8 / lit
+draps               | € 9 / lit
 lit d'enfant        | € 1 / nuit
 chaise haute        | € 1 / nuit
 parking voiture supplémentaire  | € 4 / jour entamé
 [sauna][sauna.fr]   | € 30
 [internet][internet.fr]| prix en fonction de la durée de connexion
-[service Veld & Duin][veld_duin_service.fr]| € 60
+[service Veld & Duin][veld_duin_service.fr]| € 65
 
 
 ## Plan du camping

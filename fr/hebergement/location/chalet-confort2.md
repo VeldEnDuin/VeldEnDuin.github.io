@@ -4,7 +4,7 @@ title: Chalet Confort 2
 preview: 
     title: Chalet Confort 2
     button:
-        price: 145
+        price: 150
         for: 2 nuits
     list:
         - "séjour agréable à 2"
@@ -63,19 +63,17 @@ Envie de vous ressourcer seul ou à deux? Vous vous sentirez comme à la maison 
 - 1 chien admis – pas de races dangereuses
 - non disponible à la réservation du 15/11 au 15/03
 
-## Prix 2017
-
-Vous trouvez les prix pour 2018 [ici][pdf_huurdersprijzen2018.fr].
+## Prix 2018
 
 PÉRIODE                |MI-SAISON     | HAUTE SAISON |
 :---------------------:|:------------:|:------------:|
-2 nuits                |€ 145         |              |    
-nuitée supplémentaire  |€ 49          |              |
-mid-week (lun-ven)     |€ 205         |              |
-week-end prolongé (3 n)|€ 205         |              |
-7 nuitées              |€ 350         |€ 500         | 
-nuitée supplémentaire > 7n |€ 47          |€ 71          | 
-14 nuitées             |€ 645         |€ 950        | 
+2 nuits                |€ 150         |              |    
+nuitée supplémentaire  |€ 51          |              |
+mid-week (lun-ven)     |€ 210         |              |
+week-end prolongé (3 n)|€ 210         |              |
+7 nuitées              |€ 360         |€ 515         | 
+nuitée supplémentaire > 7n |€ 48          |€ 73          | 
+14 nuitées             |€ 665         |€ 970        | 
 
 ## Périodes
 
@@ -101,7 +99,7 @@ SUPPLÉMENTS               | PRIX
 nettoyage           | € 40 - le locataire est autorisé à faire le nettoyage lui-même
 assurance annulation| 3,5% du montant total du séjour - [Allianz][pdf_allianz.fr] 
 chien               | € 4 / nuit - max 1
-draps               | € 8 / lit
+draps               | € 9 / lit
 lit d'enfant        | € 1 / nuit
 chaise haute        | € 1 / nuit
 parking voiture supplémentaire  | € 4 / jour entamé

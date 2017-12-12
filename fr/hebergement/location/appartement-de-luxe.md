@@ -4,7 +4,7 @@ title: Appartement de luxe
 preview: 
     title: Appartement de luxe
     button:
-        price: 180
+        price: 185
         for: 2 nuits
     list:
         - "5-6 personnes"
@@ -71,19 +71,17 @@ Situés au-dessus de la réception, ces nouveaux appartements luxueux offrent un
 - pas d’ascenseur
 - disponible à la réservation toute l’année
 
-## Prix 2017
-
-Vous trouvez les prix pour 2018 [ici][pdf_huurdersprijzen2018.fr].
+## Prix 2018
 
 PÉRIODE             |BASSE SAISON | MI-SAISON     | HAUTE SAISON|
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 nuits                |€ 180    |€ 200          |    
-nuitée supplémentaire  |€ 61      |€ 69            |
-mid-week (lun-ven)     |€ 250     |€ 285          |
-week-end prolongé (3 n)|          |€ 285          |
-7 nuitées              |€ 430       |€ 490          | € 695
-nuitée supplémentaire > 7n |€ 53  |€ 65           | € 99
-14 nuitées             |€ 760     |€ 900          | € 1315
+2 nuits                |€ 185    |€ 205          |    
+nuitée supplémentaire  |€ 62      |€ 70            |
+mid-week (lun-ven)     |€ 260     |€ 290          |
+week-end prolongé (3 n)|          |€ 290          |
+7 nuitées              |€ 440       |€ 500          | € 715
+nuitée supplémentaire > 7n |€ 54  |€ 67           | € 101
+14 nuitées             |€ 780     |€ 920          | € 1350
 
 ## Périodes
 
@@ -108,14 +106,14 @@ SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
 nettoyage           | € 50 - le locataire est autorisé à faire le nettoyage lui-même
 assurance annulation| 3,5% du montant total du séjour - [Allianz][pdf_allianz.fr] 
-draps               | € 8 / lit
+draps               | € 9 / lit
 lit d'enfant        | € 1 / nuit
 chaise haute        | € 1 / nuit
 parking voiture supplémentaire  | € 4 / jour entamé
 [emplacement vélo][fietsberging.fr]| € 1 / vélo / nuit
 [sauna][sauna.fr]   | € 30
 [internet][internet.fr]| prix en fonction de la durée de connexion
-[service Veld & Duin][veld_duin_service.fr]| € 70
+[service Veld & Duin][veld_duin_service.fr]| € 75
 
 
 ## Plan du camping
