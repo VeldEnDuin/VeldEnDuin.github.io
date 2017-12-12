@@ -2,7 +2,7 @@
 title: Qualité
 layout: page
 images: 
-    - /img/labels/qfactor-label-2014-2016.jpg
+    - /img/labels/qlab-01.jpg
 
 insert:
     - page-images-top
