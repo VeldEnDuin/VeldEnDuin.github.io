@@ -4,7 +4,7 @@ title: Chalet Comfort 4
 preview: 
     title: Chalet comfort 4 
     button:
-        price: 145
+        price: 150
         for: 2 nights
     list:
         - "4 persons"
@@ -62,19 +62,17 @@ These chalets are situated in front, close to the playground. Well situated for 
 - dogs allowed - max 2 – no dangerous breeds
 - bookable throughout the year
 
-## Prices 2017
-
-The prices for 2018 can be found [here][pdf_huurdersprijzen2018.en].
+## Prices 2018
 
 PERIOD             | OFF-SEASON | MID SEASON | HIGH SEASON |
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 nights           |€ 145        |€ 165          |       
-extra night         |€ 49         |€ 55           |           
-midweek (mon-fri)   |€ 205        |€ 230          |
-long weekend (3 n)   |             |€ 230          |
-7 nights           |€ 350        |€ 395          | € 560
-extra night > 7 n    |€ 42         |€ 52           | € 80
-14 nights         |€ 615        |€ 725          | € 1065
+2 nights           |€ 150        |€ 165          |       
+extra night         |€ 50         |€ 57           |           
+midweek (mon-fri)   |€ 210        |€ 235          |
+long weekend (3 n)   |             |€ 235          |
+7 nights           |€ 355        |€ 405          | € 575
+extra night > 7 n    |€ 44         |€ 54           | € 82
+14 nights         |€ 630        |€ 745          | € 1090
 
 ## Periods
 
@@ -100,14 +98,14 @@ EXTRA SERVICE               | PRICE
 cleaning          | € 40 - final cleaning by tenants is allowed
 cancellation insurance| 3,5 % of total amount - [Allianz][pdf_allianz.en] 
 dogs               | € 4 / night - max 2
-bed linen        | € 8 / bed
+bed linen        | € 9 / bed
 baby cot          | € 1 / night
 baby chair         | € 1 / night
 parking place extra car  | € 4 / started day
 [bicycle shed][fietsberging.en]| € 1 / bike / night
 [sauna][sauna.en]   | € 30
 [internet][internet.en]| depending on time online
-[Veld & Duin service][veld_duin_service.en]| € 60
+[Veld & Duin service][veld_duin_service.en]| € 65
 
 
 ## Plan campsite

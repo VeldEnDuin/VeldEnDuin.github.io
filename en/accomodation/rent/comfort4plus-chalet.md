@@ -64,19 +64,17 @@ Sit down and relax. Have a glass of wine on the terrace of your chalet after a l
 - dogs allowed - max 2 – no dangerous breeds
 - bookable throughout the year
 
-## Prices 2017
-
-The prices for 2018 can be found [here][pdf_huurdersprijzen2018.en].
+## Prices 2018
 
 PERIOD             | OFF-SEASON | MID SEASON | HIGH SEASON |
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 nights           |€ 160        |€ 180          |       
-extra night         |€ 54         |€ 61           |           
-midweek (mon-fri)   |€ 225        |€ 250          |
-long weekend (3 n)|             |€ 250         |
-7 nights           |€ 380        |€ 435          | € 615
-extra night > 7 n    |€ 47         |€ 57           | € 88
-14 nights          |€ 675        |€ 795          | € 1170
+2 nights           |€ 160        |€ 185          |       
+extra night         |€ 55         |€ 62           |           
+midweek (mon-fri)   |€ 230        |€ 260          |
+long weekend (3 n)|             |€ 260         |
+7 nights           |€ 390        |€ 445          | € 630
+extra night > 7 n    |€ 48         |€ 59           | € 90
+14 nights          |€ 690        |€ 815          | € 1195
 
 ## Periods
 
@@ -102,14 +100,14 @@ EXTRA SERVICE               | PRICE
 cleaning          | € 40 - final cleaning by tenants is allowed
 cancellation insurance| 3,5 % of total amount - [Allianz][pdf_allianz.en] 
 dogs               | € 4 / night - max 2
-bed linen        | € 8 / bed
+bed linen        | € 9 / bed
 baby cot          | € 1 / night
 baby chair         | € 1 / night
 parking place extra car  | € 4 / started day
 [bicycle shed][fietsberging.en]| € 1 / bike / night
 [sauna][sauna.en]   | € 30
 [internet][internet.en]| depending on time online
-[Veld & Duin service][veld_duin_service.en]| € 60
+[Veld & Duin service][veld_duin_service.en]| € 65
 
 
 ## Plan campsite

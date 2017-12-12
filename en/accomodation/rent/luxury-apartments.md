@@ -4,7 +4,7 @@ title: Luxury Apartment
 preview: 
     title: Luxury Apartment
     button:
-        price: 180
+        price: 185
         for: 2 nights
     list:
         - "5-6 persons"
@@ -71,19 +71,17 @@ Located above the reception these new and luxurious apartments overlook the flor
 - no lift
 - bookable throughout the year
 
-## Prices 2017
-
-The prices for 2018 can be found [here][pdf_huurdersprijzen2018.en].
+## Prices 2018
 
 PERIOD            | OFF-SEASON | MID SEASON | HIGH SEASON |
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 nights           |€ 180        |€ 200          |       
-extra night         |€ 61         |€ 69           |           
-midweek (mon-fri)   |€ 250        |€ 285          |
-long weekend (3 n)   |             |€ 285          |
-7 nights           |€ 430        |€ 490          | € 695
-extra night > 7 n    |€ 53         |€ 65           | € 99
-14 nights          |€ 760        |€ 900          | € 1315
+2 nights           |€ 185        |€ 205          |       
+extra night         |€ 62         |€ 70           |           
+midweek (mon-fri)   |€ 260        |€ 290          |
+long weekend (3 n)   |             |€ 290          |
+7 nights           |€ 440        |€ 500          | € 715
+extra night > 7 n    |€ 54         |€ 67           | € 101
+14 nights          |€ 780        |€ 920          | € 1350
 
 ## Periods
 
@@ -108,14 +106,14 @@ EXTRA SERVICE             | PRICE
 :-------------------|:-----------|
 cleaning          | € 50 - final cleaning by tenants is allowed
 cancellation insurance| 3,5 % of total amount - [Allianz][pdf_allianz.en] 
-bed linen        | € 8 / bed
+bed linen        | € 9 / bed
 baby cot          | € 1 / night
 baby chair         | € 1 / night
 parking place extra car  | € 4 / started day
 [bicycle shed][fietsberging.en]| € 1 / bike / night
 [sauna][sauna.en]   | € 30
 [internet][internet.en]| depending on time online
-[Veld & Duin service][veld_duin_service.en]| € 70
+[Veld & Duin service][veld_duin_service.en]| € 75
 
 
 ## Plan campsite

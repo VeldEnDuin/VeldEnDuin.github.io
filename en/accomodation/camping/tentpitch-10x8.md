@@ -51,9 +51,7 @@ Go for the real camping experience with the whole family and stay in a tent. You
 - max 6 persons / pitch
 - dogs allowed - max 2 – no dangerous breeds
 
-## Prices 2017
-
-The prices for 2018 can be found [here][pdf_trekkersprijzen2018.en].
+## Prices 2018
 
 NUMBER OF PERSONS | PRICE / NIGHT     
 :-------------:|:-----------:|

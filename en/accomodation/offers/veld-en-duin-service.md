@@ -39,12 +39,12 @@ To enjoy your stay even more, we offer you the following service package. Make t
 - the whole year through available
 
 
-## Prices 2017
+## Prices 2018
 
 TYPE OF RENTAL       | PRICE
-:------------------:|:-----------
-standard chalet    |€ 60                
-comfort 2           |€ 45                
-comfort 4           |€ 60         
-comfort 4 plus      |€ 60  
-luxury apartment    |€ 70        
+:------------------:|:-----------             
+comfort 2           |€ 45  
+comfort 2 (4 pers. chalet) |€ 65  
+comfort 4           |€ 65         
+comfort 4 plus      |€ 65  
+luxury apartment    |€ 75        

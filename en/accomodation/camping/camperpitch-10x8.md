@@ -49,9 +49,7 @@ Combine the freedom of travelling with a caravan or mobile home with the comfort
 - max 6 persons / pitch
 - dogs allowed - max 2 – no dangerous breeds
 
-## Prices 2017
-
-The prices for 2018 can be found [here][pdf_trekkersprijzen2018.en].
+## Prices 2018
 
 NUMBER OF PERSONS | PRICE / NIGHT     
 :-------------:|:-----------:|

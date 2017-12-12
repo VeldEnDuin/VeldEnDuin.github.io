@@ -4,7 +4,7 @@ title: Type 1
 preview: 
     title: Type 1
     button:
-        price: 1720
+        price: 1760
         for: per year
     list:
         - "average surface: 80 m²"
@@ -33,22 +33,20 @@ These pitches are smaller but give you an instant holiday feeling, regardless of
 - no winter proof water connection – sanitary building remains open
 
 
-## Prices 2017
-
-The prices for 2018 can be found [here][pdf_residentieelprijzen2018.en].
+## Prices 2018
 
 TYPE 1                                         |PRICE                               |
 :---------------------------------------------:|:----------------------------------:|
-stand price per year                           | € 1720     
-municipal taxes                                | € 347,68
-contribution for household refuse<br>incl. 25 bags<br>         | € 70    
+stand price per year                           | € 1760   
+municipal taxes                                | € 354,84
+contribution for household refuse<br>incl. 25 bags<br>         | € 75    
  [fire insurance][pdf_brandverzekering.en]   | depending on <br>the worth of the caravan
 
 CONSUMPTION ⑴           |PRICE          |
 :--------------------:|:-------------:|
-electricity           | € 0,37 / kw        
-fixed price water     | € 70 
-counter               | € 19 
+electricity           | € 0,38 / kw        
+fixed price water     | € 75 
+counter               | € 20 
 
 ⑴ price subject to changing energy charges
 

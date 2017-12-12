@@ -22,7 +22,7 @@ icon: info-sign
 
 MISCELLANEOUS         |PRICE          
 :--------------------:|:--------------:
-winterservice         |€ 45                    
+winterservice         |€ 50                    
 barier entrance card (one-time cost)|€ 100          
 parking place 2nd car      |€ 4 / started day  
 second parking place           |€ 125 / year       

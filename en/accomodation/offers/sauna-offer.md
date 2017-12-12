@@ -4,7 +4,7 @@ title: sauna offer
 preview: 
     title: sauna offer
     button:
-        price: 135
+        price: 170
         for: 2 nights
     list:
         - "2 nights"
@@ -39,15 +39,14 @@ Besides a wonderful stay you can also enjoy an an invigorating sauna session wit
 - valid in all types of rental
 - bookable throughout the year except for school holidays and long weekends.
 
-## Prices 2017
+## Prices 2018
 
 TYPE OF ACCOMODATION        | OFF-SEASON | MID SEASON  |
-:------------------:|:-----------:|:-------------:
-standard chalet     |-            |€ 135               
-comfort 2           |-            |€ 165               
-comfort 4           |€ 165        |€ 185         
-comfort 4 plus      |€ 180        |€ 200  
-luxury apartment    |€ 200        |€ 220         
+:------------------:|:-----------:|:-------------:             
+comfort 2           |-            |€ 170               
+comfort 4           |€ 170        |€ 185         
+comfort 4 plus      |€ 180        |€ 205  
+luxury apartment    |€ 205        |€ 225         
         
 
 
@@ -75,7 +74,7 @@ EXTRA SERVICE               | PRICE
 cleaning          | € 40 (luxury apartment € 50) - final cleaning by tenants is allowed
 cancellation insurance| 3,5 % of total amount - [Allianz][pdf_allianz.en] 
 dogs               | € 4 / night<br> not allowed in the apartments
-bed linen        | € 8 / bed
+bed linen        | € 9 / bed
 baby cot          | € 1 / night
 baby chair         | € 1 / night
 parking place extra car  | € 4 / started day

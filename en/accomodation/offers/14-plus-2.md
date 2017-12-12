@@ -4,7 +4,7 @@ title: 14+2
 preview: 
     title: 14+2
     button:
-        price: 505
+        price: 665
         for: 16 nights
     list:
         - "2 nights extra"
