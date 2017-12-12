@@ -4,7 +4,7 @@ title: Type 4
 preview: 
     title: Type 4
     button:
-        price: 2560
+        price: 2620
         for: per jaar
     list:
         - "gemiddelde opp: 190 m²"
@@ -36,23 +36,21 @@ Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Ga 
 - wintervaste wateraansluiting
 
 
-## Prijzen 2017
-
-De prijzen voor 2018 vindt u [hier][pdf_residentieelprijzen2018.nl].
+## Prijzen 2018
 
 TYPE 4                |PRIJS           |
 :--------------------:|:--------------:|
-standplaatsvergoeding |€ 2560               
-gemeentetaks          |€ 347,68 
-huisvuilbijdrage<br>incl 25 zakken<br> | € 70    
+standplaatsvergoeding |€ 2620               
+gemeentetaks          |€ 354,84
+huisvuilbijdrage<br>incl 25 zakken<br> | € 75    
 [brandverzekering][pdf_brandverzekering.nl]     |afhankelijk van <br>waarde caravan
 
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
-electriciteit         | € 0,37 / kw        
-water                 | € 6,75 / m³  
-gas                   | € 6,15 / m³       
-tellervergoeding      | € 19 / teller
+electriciteit         | € 0,38 / kw        
+water                 | € 7 / m³  
+gas                   | € 6,20 / m³       
+tellervergoeding      | € 20 / teller
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven
 

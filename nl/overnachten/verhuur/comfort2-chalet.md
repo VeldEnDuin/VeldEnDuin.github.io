@@ -4,7 +4,7 @@ title: Chalet Comfort 2
 preview: 
     title: Chalet Comfort 2
     button:
-        price: 145
+        price: 150
         for: 2 nachten
     list:
         - "gezelligheid voor 2"
@@ -63,19 +63,17 @@ Even alleen komen uitwaaien of met z'n tweetjes? In deze chalet is het heerlijk 
 - 1 hond toegelaten - geen gevaarlijke rassen
 - niet boekbaar tussen 15/11 en 15/3
 
-## Prijzen 2017
-
-De prijzen voor 2018 vindt u [hier][pdf_huurdersprijzen2018.nl].
+## Prijzen 2018
 
 PERIODE                |TUSSENSEIZOEN | HOOGSEIZOEN  |
 :---------------------:|:------------:|:------------:|
-2 nachten              |€ 145         |              |    
-extra nacht            |€ 49          |              |
-midweek (ma-vrij)      |€ 205         |              |
-verlengd weekend (3 n) |€ 205        |              |
-7 nachten              |€ 350         |€ 500         | 
-extra nacht > 7 n       |€ 47          |€ 71          | 
-14 nachten             |€ 645         |€ 950         | 
+2 nachten              |€ 150         |              |    
+extra nacht            |€ 51         |              |
+midweek (ma-vrij)      |€ 210         |              |
+verlengd weekend (3 n) |€ 210        |              |
+7 nachten              |€ 360         |€ 515         | 
+extra nacht > 7 n       |€ 48          |€ 73          | 
+14 nachten             |€ 665         |€ 970         | 
 
 ## Periodes
 
@@ -100,7 +98,7 @@ EXTRA               | PRIJS
 schoonmaak          | € 40 - zelf schoonmaken kan
 annulatieverzekering| 3,5 % van de totale reissom - [Allianz][pdf_allianz.nl] 
 hond                | € 4 / nacht - max 1
-lakenpakket         | € 8 / bed
+lakenpakket         | € 9 / bed
 kinderbed           | € 1 / nacht
 kinderstoel         | € 1 / nacht
 parking extra auto  | € 4 / begonnen dag

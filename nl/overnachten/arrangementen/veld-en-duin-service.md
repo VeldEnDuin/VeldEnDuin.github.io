@@ -36,15 +36,15 @@ Om optimaal te kunnen genieten van uw verblijf, bieden wij dit servicepakket aan
 - het hele jaar door boekbaar
 
 
-## Prijzen 2017
+## Prijzen 2018
 
 VERHUURTYPE         | PRIJS
-:------------------:|:-----------
-standaard chalet    |€ 60                
-comfort 2           |€ 45                
-comfort 4           |€ 60         
-comfort 4 plus      |€ 60  
-luxe appartement    |€ 70         
+:------------------:|:-----------          
+comfort 2           |€ 45 
+comfort 2 (4p chalet)|€ 65  
+comfort 4           |€ 65         
+comfort 4 plus      |€ 65  
+luxe appartement    |€ 75         
         
 
 

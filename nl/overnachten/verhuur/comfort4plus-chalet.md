@@ -63,19 +63,18 @@ Na een heerlijk dagje strand of een uitstapje in de buurt lonkt het overdekte te
 - honden toegelaten - max 2 - geen gevaarlijke rassen
 - het hele jaar door boekbaar
 
-## Prijzen 2017
+## Prijzen 2018
 
-De prijzen voor 2018 vindt u [hier][pdf_huurdersprijzen2018.nl].
 
 PERIODE             | LAAGSEIZOEN | TUSSENSEIZOEN | HOOGSEIZOEN |
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 nachten           |€ 160       |€ 180          |       
-extra nacht         |€ 54         |€ 61           |           
-midweek (ma-vrij)   |€ 225        |€ 250          |
-verlengd weekend (3 n)|             |€ 250          |
-7 nachten           |€ 380        |€ 435          | € 615
-extra nacht > 7 n    |€ 47         |€ 57           | € 88
-14 nachten          |€ 675        |€ 795          | € 1170
+2 nachten           |€ 160       |€ 185          |       
+extra nacht         |€ 55         |€ 62           |           
+midweek (ma-vrij)   |€ 230        |€ 260          |
+verlengd weekend (3 n)|             |€ 260          |
+7 nachten           |€ 390        |€ 445          | € 630
+extra nacht > 7 n    |€ 48         |€ 59           | € 90
+14 nachten          |€ 690        |€ 815          | € 1195
 
 ## Periodes
 
@@ -101,14 +100,14 @@ EXTRA               | PRIJS
 schoonmaak          | € 40 - zelf schoonmaken kan
 annulatieverzekering| 3,5 % van de totale reissom - [Allianz][pdf_allianz.nl] 
 hond                | € 4 / nacht - max 2 
-lakenpakket         | € 8 / bed
+lakenpakket         | € 9 / bed
 kinderbed           | € 1 / nacht
 kinderstoel         | € 1 / nacht
 parking extra auto      | € 4 / begonnen dag
 [plaats fietsberging][fietsberging.nl]| € 1 / fiets / nacht
 [sauna][sauna.nl]   | € 30
 [internet][internet.nl]| afhankelijk van tijd online
-[Veld & Duin service][veld_duin_service.nl]| € 60
+[Veld & Duin service][veld_duin_service.nl]| € 65
 
 
 ## Plan camping

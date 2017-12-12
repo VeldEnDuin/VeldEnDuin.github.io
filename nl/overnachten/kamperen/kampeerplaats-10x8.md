@@ -49,9 +49,7 @@ Combineer de vrijheid van het reizen met een trekcaravan of mobilhome met het co
 - max 6 personen / plaats
 - honden toegelaten: max 2 - geen gevaarlijke rassen
 
-## Prijzen 2017
-
-De prijzen voor 2018 vindt u  [hier][pdf_trekkersprijzen2018.nl].
+## Prijzen 2018
 
 AANTAL PERSONEN | PRIJS / NACHT      
 :-------------:|:-----------:|

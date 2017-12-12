@@ -4,7 +4,7 @@ title: Chalet Comfort 4
 preview: 
     title: Chalet comfort 4 
     button:
-        price: 145
+        price: 150
         for: 2 nachten
     list:
         - "4 personen"
@@ -62,19 +62,17 @@ Deze chalets liggen vooraan op de camping en dicht bij het speelplein. Ideaal du
 - honden toegelaten - max 2 - geen gevaarlijke rassen
 - het hele jaar door boekbaar
 
-## Prijzen 2017
-
-De prijzen voor 2018 vindt u [hier][pdf_huurdersprijzen2018.nl].
+## Prijzen 2018
 
 PERIODE             | LAAGSEIZOEN | TUSSENSEIZOEN | HOOGSEIZOEN |
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 nachten           |€ 145        |€ 165          |       
-extra nacht         |€ 49         |€ 55           |           
-midweek (ma-vrij)   |€ 205        |€ 230          |
-verlengd weekend (3 n)   |             |€ 230          |
-7 nachten           |€ 350        |€ 395          | € 560
-extra nacht > 7 n    |€ 42         |€ 52           | € 80
-14 nachten          |€ 615        |€ 725          | € 1065
+2 nachten           |€ 150        |€ 165          |       
+extra nacht         |€ 50         |€ 57           |           
+midweek (ma-vrij)   |€ 210        |€ 235          |
+verlengd weekend (3 n)   |             |€ 235          |
+7 nachten           |€ 355        |€ 405          | € 575
+extra nacht > 7 n    |€ 44         |€ 54           | € 82
+14 nachten          |€ 630        |€ 745          | € 1090
 
 ## Periodes
 
@@ -100,14 +98,14 @@ EXTRA               | PRIJS
 schoonmaak          | € 40 - zelf schoonmaken kan
 annulatieverzekering| 3,5 % van de totale reissom - [Allianz][pdf_allianz.nl] 
 hond                | € 4 / nacht - max 2
-lakenpakket         | € 8 / bed
+lakenpakket         | € 9 / bed
 kinderbed           | € 1 / nacht
 kinderstoel         | € 1 / nacht
 parking extra auto  | € 4 / begonnen dag
 [plaats fietsberging][fietsberging.nl]| € 1 / fiets / nacht
 [sauna][sauna.nl]   | € 30
 [internet][internet.nl]| afhankelijk van tijd online
-[Veld & Duin service][veld_duin_service.nl]| € 60
+[Veld & Duin service][veld_duin_service.nl]| € 65
 
 
 ## Plan camping
