@@ -4,7 +4,7 @@ title: Luxusappartement
 preview: 
     title: Luxusappartement
     button:
-        price: 180
+        price: 185
         for: 2 Nächte
     list:
         - "5-6 Personen"
@@ -71,19 +71,17 @@ Diese neuen Luxusappartements liegen über der Rezeption und bieten einen herrli
 - kein Aufzug
 - Ganzjährig buchbar
 
-## Preise 2017
-
-Die Preise für 2018 finden Sie [hier][pdf_huurdersprijzen2018.de].
+## Preise 2018
 
 ZEITRAUM            | NACHSAISON | NEBENSAISON | HOCHSAISON |
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 Nächte           |€ 180        |€ 200          |       
-Zus. Nacht         |€ 61         |€ 69           |           
-Midweek (Mon.-Fr.)   |€ 250        |€ 285          |
-Verl. Wochenende (3 N.)   |             |€ 285          |
-7 Nächte           |€ 430        |€ 490          | € 695
-Zus. Nacht > 7 N.   |€ 53         |€ 65           | € 99
-14 Nächte          |€ 760       |€ 900          | € 1315
+2 Nächte           |€ 185        |€ 205          |       
+Zus. Nacht         |€ 62         |€ 70           |           
+Midweek (Mon.-Fr.)   |€ 260        |€ 290          |
+Verl. Wochenende (3 N.)   |             |€ 290          |
+7 Nächte           |€ 440        |€ 500          | € 715
+Zus. Nacht > 7 N.   |€ 54         |€ 67           | € 101
+14 Nächte          |€ 780       |€ 920          | € 1350
 
 ## Zeiträume
 
@@ -108,14 +106,14 @@ EXTRA               | PREIS
 :-------------------|:-----------|
 Reinigung          | € 50 - selbst reinigen ist gestattet
 Rücktrittsversicherung| 3,5 % der gesamten Reisesumme - [Allianz][pdf_allianz.de] 
-Betttuchpaket         | € 8 / Bett
+Betttuchpaket         | € 9 / Bett
 Kinderbett           | € 1 / Nacht
 Kinderstuhl         | € 1 / Nacht
 Parkplatz extra Auto  | € 4 / angefangenem Tag
 [Platz im Fahrradunterstand][fietsberging.de]| € 1 / Rad / Nacht
 [Sauna][sauna.de]   | € 30
 [Internet][internet.de]| abhängig von der Zeit online
-[Veld & Duin Service][veld_duin_service.de]| € 70
+[Veld & Duin Service][veld_duin_service.de]| € 75
 
 
 ## Plan Campingplatz

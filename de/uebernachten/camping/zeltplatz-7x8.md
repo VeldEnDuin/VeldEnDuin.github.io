@@ -52,9 +52,7 @@ Diese Plätze von 7x8 Metern sind ideal für Ihr kleines (Wurf-)Zelt.
 - Höchstens 4 Personen/Platz
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 
-## Preise 2017
-
-Die Preise für 2018 finden Sie [hier][pdf_trekkersprijzen2018.de].
+## Preise 2018
 
 ANZAHL PERSONEN | PREIS / NACHT     
 :-------------:|:-----------:|

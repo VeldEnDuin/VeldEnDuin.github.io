@@ -4,7 +4,7 @@ title: Sauna-Arrangement
 preview: 
     title: Sauna-Arrangement
     button:
-        price: 135
+        price: 170
         for: 2 Nächte
     list:
         - "2 Nächte"
@@ -39,15 +39,14 @@ Neben einem wunderbaren Aufenthalt erwartet Sie ein entspannender Saunabesuch mi
 - Gültig für jede Art der Vermietung
 - Mit Ausnahme der Schulferien und langer Wochenende das ganze Jahr über buchbar
 
-## Preise 2017
+## Preise 2018
 
 UNTERKUNFTSTYP      | NACHSAISON  | NEBENSAISON  |
-:------------------:|:-----------:|:-------------:
-Standard Chalet     |-            |€ 135                
-Comfort 2           |-            |€ 165               
-Comfort 4           |€ 165        |€ 185         
-Comfort 4 plus      |€ 180        |€ 200  
-Luxusappartement    |€ 200        |€ 220         
+:------------------:|:-----------:|:-------------:        
+Comfort 2           |-            |€ 170              
+Comfort 4           |€ 170        |€ 185         
+Comfort 4 plus      |€ 180        |€ 205  
+Luxusappartement    |€ 205        |€ 225         
         
 
 
@@ -75,7 +74,7 @@ EXTRA               | PREIS
 Reinigung          | € 40 (Luxusappartement € 50) - selbst reinigen ist gestattet
 Rücktrittsversicherung| 3,5 % der gesamten Reisesumme - [Allianz][pdf_allianz.de] 
 Hund                  | € 4 / Nacht<br> nicht zugelassen in den Appartementen     
-Betttuchpaket         | € 8 / Bett
+Betttuchpaket         | € 9 / Bett
 Kinderbett           | € 1 / Nacht
 Kinderstuhl         | € 1 / Nacht
 Parkplatz extra Auto  | € 4 / angefangenem Tag

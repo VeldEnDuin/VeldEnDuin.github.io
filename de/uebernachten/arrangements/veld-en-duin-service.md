@@ -39,15 +39,15 @@ Damit Sie Ihren Aufenthalt optimal genießen können, bieten wir Ihnen dieses Se
 - Ganzjährig buchbar
 
 
-## Preise 2017
+## Preise 2018
 
 UNTERKUNFTSTYP         | PREIS
-:------------------:|:-----------
-Standaard Chalet    |€ 60                
-Comfort 2           |€ 45               
-Comfort 4           |€ 60         
-Comfort 4 plus      |€ 60  
-Luxusappartement    |€ 70       
+:------------------:|:-----------             
+Comfort 2           |€ 45 
+Comfort 2 (4 Pers. Chalet)|€ 65 
+Comfort 4           |€ 65         
+Comfort 4 plus      |€ 65  
+Luxusappartement    |€ 75       
         
 
 

@@ -51,9 +51,7 @@ Holen Sie sich das echte Campingerlebnis und machen Sie sich mit der ganzen Fami
 - Höchstens 6 Personen/Platz
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 
-## Preise 2017
-
-Die Preise für 2018 finden Sie [hier][pdf_trekkersprijzen2018.de].
+## Preise 2018
 
 ANZAHL PERSONEN | PREIS / NACHT     
 :-------------:|:-----------:|

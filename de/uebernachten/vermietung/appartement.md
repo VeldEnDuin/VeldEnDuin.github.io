@@ -64,19 +64,17 @@ Die Appartements liegen neben dem Campingplatz. So genießen Sie den Platz eines
 - Gemeinsamer Fahrradraum
 - Ganzjährig buchbar
 
-## Preise 2017
-
-Die Preise für 2018 finden Sie [hier][pdf_huurdersprijzen2018.de].
+## Preise 2018
 
 ZEITRAUM            | NACHSAISON | NEBENSAISON | HOCHSAISON |
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 Nächte           |€ 160       |€ 180          |       
-Zus. Nacht         |€ 54       |€ 61           |           
-Midweek (Mon.-Fr.)   |€ 225        |€ 250          |
-Verl. Wochenende (3 N.)   |             |€ 250          |
-7 Nächte           |€ 380        |€ 435          | € 615
-Zus. Nacht > 7 N.   |€ 47         |€ 57           | € 88
-14 Nächte          |€ 675        |€ 795         | € 1170
+2 Nächte           |€ 160       |€ 185          |       
+Zus. Nacht         |€ 55       |€ 62           |           
+Midweek (Mon.-Fr.)   |€ 230        |€ 260          |
+Verl. Wochenende (3 N.)   |             |€ 260          |
+7 Nächte           |€ 390        |€ 445          | € 630
+Zus. Nacht > 7 N.   |€ 48         |€ 59           | € 90
+14 Nächte          |€ 690        |€ 815         | € 1195
 
 ## Zeiträume
 
@@ -101,13 +99,13 @@ EXTRA               | PREIS
 :-------------------|:-----------|
 Reinigung          | € 40 - selbst reinigen ist gestattet
 Rücktrittsversicherung| 3,5 % der gesamten Reisesumme - [Allianz][pdf_allianz.de]  
-Betttuchpaket         | € 8 / Bett
+Betttuchpaket         | € 9 / Bett
 Kinderbett           | € 1 / Nacht
 Kinderstuhl         | € 1 / Nacht
 Parkplatz extra Auto  | € 4 / angefangenem Tag
 [Sauna][sauna.de]   | € 30
 [Internet][internet.de]| abhängig von der Zeit online
-[Veld & Duin Service][veld_duin_service.de]| € 60
+[Veld & Duin Service][veld_duin_service.de]| € 65
 
 
 ## Plan Campingplatz

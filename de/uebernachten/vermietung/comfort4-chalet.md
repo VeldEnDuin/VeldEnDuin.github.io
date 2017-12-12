@@ -4,7 +4,7 @@ title: Chalet Comfort 4
 preview: 
     title: Chalet comfort 4 
     button:
-        price: 145
+        price: 150
         for: 2 Nächte
     list:
         - "4 Personen"
@@ -62,19 +62,17 @@ Diese Chalets liegen vorn auf dem Campingplatz in der Nähe des Spielplatzes. Id
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 - Ganzjährig buchbar
 
-## Preise 2017
-
-Die Preise für 2018 finden Sie [hier][pdf_huurdersprijzen2018.de].
+## Preise 2018
 
 ZEITRAUM            | NACHSAISON | NEBENSAISON | HOCHSAISON |
 :------------------:|:-----------:|:-------------:|:-----------:|
-2 Nächte           |€ 145       |€ 165         |       
-Zus. Nacht         |€ 49        |€ 55           |           
-Midweek (Mon.-Fr.)   |€ 205        |€ 230          |
-Verl. Wochenende (3 N.)   |             |€ 230          |
-7 Nächte           |€ 350        |€ 395         | € 560
-Zus. Nacht > 7 N.   |€ 42         |€ 52           | € 80
-14 Nächte          |€ 615        |€ 725          | € 1065
+2 Nächte           |€ 150       |€ 165         |       
+Zus. Nacht         |€ 50        |€ 57           |           
+Midweek (Mon.-Fr.)   |€ 210        |€ 235          |
+Verl. Wochenende (3 N.)   |             |€ 235          |
+7 Nächte           |€ 355        |€ 405         | € 575
+Zus. Nacht > 7 N.   |€ 44         |€ 54           | € 82
+14 Nächte          |€ 630        |€ 745          | € 1090
 
 ## Zeiträume
 
@@ -100,14 +98,14 @@ EXTRA               | PREIS
 Reinigung          | € 40 - selbst reinigen ist gestattet
 Rücktrittsversicherung| 3,5 % der gesamten Reisesumme - [Allianz][pdf_allianz.de] 
 Hund                  | € 4 / Nacht - max 2     
-Betttuchpaket         | € 8 / Bett
+Betttuchpaket         | € 9 / Bett
 Kinderbett           | € 1 / Nacht
 Kinderstuhl         | € 1 / Nacht
 Parkplatz extra Auto  | € 4 / angefangenem Tag
 [Platz im Fahrradunterstand][fietsberging.de]| € 1 / Rad / Nacht
 [Sauna][sauna.de]   | € 30
 [Internet][internet.de]| abhängig von der Zeit online
-[Veld & Duin Service][veld_duin_service.de]| € 60
+[Veld & Duin Service][veld_duin_service.de]| € 65
 
 
 ## Plan Campingplatz

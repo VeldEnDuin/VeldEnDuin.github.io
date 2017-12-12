@@ -49,9 +49,7 @@ Kombinieren Sie die Freiheit des Reisens mit einem Wohnwagen oder Wohnmobil mit 
 - Höchstens 6 Personen/Platz
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 
-## Preise 2017
-
-Die Preise für 2018 finden Sie [hier][pdf_trekkersprijzen2018.de].
+## Preise 2018
 
 ANZAHL PERSONEN | PREIS / NACHT      
 :-------------:|:-----------:|

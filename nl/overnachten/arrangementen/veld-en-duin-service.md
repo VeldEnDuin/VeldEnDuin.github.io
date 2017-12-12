@@ -41,7 +41,7 @@ Om optimaal te kunnen genieten van uw verblijf, bieden wij dit servicepakket aan
 VERHUURTYPE         | PRIJS
 :------------------:|:-----------          
 comfort 2           |€ 45 
-comfort 2 (4p chalet)|€ 65  
+comfort 2 (4 pers. chalet)|€ 65  
 comfort 4           |€ 65         
 comfort 4 plus      |€ 65  
 luxe appartement    |€ 75         
