@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Camper pitch 10x8
+title: Camping pitch 10x8
 preview: 
-    title: Camper pitch 10x8
+    title: Camping pitch 10x8
     button:
         price: 22
         for: per night
@@ -40,7 +40,7 @@ insert:
 ---
 {% include links.md %}
 
-# CAMPER PITCH 10x8
+# CAMPING PITCH 10x8
 
 Combine the freedom of travelling with a caravan or mobile home with the comfort of our  campsite
 
