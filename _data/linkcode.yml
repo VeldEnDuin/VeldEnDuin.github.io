@@ -376,21 +376,6 @@ pdf_zomeranimatie:
     nl: /nl/pdf/animatie2016.pdf
     fr: /fr/pdf/animations2016.pdf
     de: /de/pdf/animation2016.pdf
-pdf_huurdersprijzen2018:
-    nl: /nl/pdf/nlverhuurprijzen2018.pdf
-    fr: /fr/pdf/frverhuurprijzen2018.pdf
-    de: /de/pdf/deverhuurprijzen2018.pdf
-    en: /en/pdf/enverhuurprijzen2018.pdf
-pdf_trekkersprijzen2018:
-    nl: /nl/pdf/nltrekkersprijzen2018.pdf
-    fr: /fr/pdf/frtrekkersprijzen2018.pdf
-    de: /de/pdf/detrekkersprijzen2018.pdf
-    en: /en/pdf/entrekkersprijzen2018.pdf
-pdf_residentieelprijzen2018:
-    nl: /nl/pdf/nlresidentieelprijzen2018.pdf
-    fr: /fr/pdf/frresidentieelprijzen2018.pdf
-    de: /de/pdf/deresidentieelprijzen2018.pdf
-    en: /en/pdf/enresidentieelprijzen2018.pdf
 
 
 # [7] externe links
