@@ -40,7 +40,7 @@ insert:
 ---
 {% include links.md %}
 
-# KURZZEITPLATZ 10x8
+# CAMPINGPLATZ 10x8
 
 Kombinieren Sie die Freiheit des Reisens mit einem Wohnwagen oder Wohnmobil mit dem Komfort unseres Campingplatzes.
 
