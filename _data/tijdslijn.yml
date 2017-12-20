@@ -409,14 +409,46 @@ items:
   - date: 2017-03-01
     label: 2017
     title:
-      nl: "Jubileumjaar"
-      fr: "Année de notre jubilé"
-      de: "Jubiläumsjahr"
-      en: "Anniversary year"
+      nl: "Jubileumfeest"
+      fr: "Fête de notre jubilé"
+      de: "Jubiläumsfest"
+      en: "Anniversary fest"
     description:
-      nl: "Veld & Duin bestaat 50 jaar! We vieren dit uitgebreid met een bijzonder feestweekend, een unieke tentoonstelling en heel wat animatie."
-      fr: "Veld & Duin existe depuis 50 ans! Nous comptons bien fêter cet anniversaire en grande pompe! Au programme: un week-end festif ’spécial jubilé’, une exposition unique et de nombreuses animations."
-      de: "Veld & Duin besteht 50 Jahre! Das feiern wir ausführlich mit einem besonderen Festwochenende, einer einzigartigen Ausstellung und sehr vielen Animationsaktivitäten."
-      en: "Veld & Duin exists 50 years! We celebrate this elaborately with a special party-weekend, a unique exhibition and tons of animation."
+      nl: "Het 50-jarig jubileum vierden we samen met onze kampeerders met een feestweekend met uitgebreide receptie, foodtrucks, optredens, oldtimer caravans,..."
+      fr: "Nous avons fêté notre 50 anniversaire ensemble avec nos campeurs. C'était un week-end de fête avec une grande réception, des food-trucks, concerts, caravanes anciennes,..."
+      de: "Wir feierten unser 50-jähriges Jubiläum zusammen mit unseren Campinggästen: es gab ein Fest-Wochenende mit einer großen Rezeption, Foodtrucks, Konzerte, oldtimer Wohnwagen ,..."
+      en: "To celebrate our 50th anniversary together with our campers we organised a party-weekend with a big reception, foodtrucks, concerts, oldtimer caravans,..."
     images:
-      - /img/tijdslijn/2017/jubileum50jaar.svg
+      - /img/tijdslijn/2017/jubifeest-01.jpg
+      - /img/tijdslijn/2017/jubifeest-02.jpg
+      - /img/tijdslijn/2017/jubifeest-03.jpg
+      - /img/tijdslijn/2017/jubifeest-04.jpg
+      - /img/tijdslijn/2017/jubifeest-05.jpg
+      - /img/tijdslijn/2017/jubifeest-06.jpg
+      - /img/tijdslijn/2017/jubifeest-07.jpg
+
+  - date: 2017-03-02
+    label: 2017
+    title:
+      nl: "Tentoonstelling ''De Wereld als Camping''"
+      fr: "Exposition ''Le monde en tant que camping''"
+      de: "Ausstellung ''Die Welt als Campingplatz''"
+      en: "Exposition ''The world, a campsite''"
+    description:
+      nl: "Onze ludieke tentoonstelling was een groot succes en trok vele bezoekers."
+      fr: "Notre exposition était un grand succès et attirait beacoup de monde."
+      de: "Unser Ausstellung war ein großer Erfolg und lockte viele Besucher an."
+      en: "Our exposition was a big success and attracted many visitors."
+    images:
+      - /img/tijdslijn/2017/tentoonstelling-01.jpg
+      - /img/tijdslijn/2017/tentoonstelling-02.jpg
+      - /img/tijdslijn/2017/tentoonstelling-03.jpg
+      - /img/tijdslijn/2017/tentoonstelling-04.jpg
+      - /img/tijdslijn/2017/tentoonstelling-05.jpg
+      - /img/tijdslijn/2017/tentoonstelling-06.jpg
+      - /img/tijdslijn/2017/tentoonstelling-07.jpg
+
+
+
+
+

@@ -10,6 +10,9 @@ images:
     - /img/hierstaanwevoor/fietsvriendelijk/fietsvr-02.jpg
     - /img/hierstaanwevoor/fietsvriendelijk/fietsvr-03.jpg
     - /img/hierstaanwevoor/fietsvriendelijk/fietsvr-04.jpg
+    - /img/hierstaanwevoor/fietsvriendelijk/fietsvr-05.jpg
+    - /img/hierstaanwevoor/fietsvriendelijk/fietsvr-06.jpg
+    - /img/hierstaanwevoor/fietsvriendelijk/fietsvr-07.jpg
 
 insert:
     - page-images-top
