@@ -8,6 +8,8 @@ images:
     - /img/voorzieningen/speelplein/speel-02.jpg
     - /img/voorzieningen/speelplein/speel-03.jpg
     - /img/voorzieningen/speelplein/speel-04.jpg
+    - /img/voorzieningen/speelplein/speel-05.jpg
+    - /img/voorzieningen/speelplein/speel-06.jpg
 
 insert:
     - page-images-top
