@@ -8,6 +8,9 @@ images:
     - /img/voorzieningen/fietsberging/fietsberg-02.jpg
     - /img/voorzieningen/fietsberging/fietsberg-03.jpg
     - /img/voorzieningen/fietsberging/fietsberg-04.jpg
+    - /img/voorzieningen/fietsberging/fietsberg-05.jpg
+    - /img/voorzieningen/fietsberging/fietsberg-06.jpg
+    - /img/voorzieningen/fietsberging/fietsberg-07.jpg
     
     
 insert:
