@@ -28,7 +28,7 @@ remove:
 
 Durant les vacances de Pâques, nous organisons 2 activités, dont une chasse aux œufs géante suivie d'un grand jeu.
 
-Chaque vendredi en haute saison, nous vous proposons un programme d’animations varié. Nous tentons à chaque fois d’imaginer une activité hors du commun et de présenter une offre d’animations amusantes et originales. Consultez notre calendrier pour découvrir le programme complet.
+En haute saison, nous vous proposons un programme d’animations varié. Nous tentons à chaque fois d’imaginer une activité hors du commun et de présenter une offre d’animations amusantes et originales. Consultez notre calendrier pour découvrir le programme complet.
 
 Pour clôturer l’année en beauté, nous organisons une soirée vin chaud. Réunis autour d’un bon verre et de quelques gourmandises, nous évoquons les souvenirs de l’année écoulée et dressons un aperçu de la saison prochaine.
 

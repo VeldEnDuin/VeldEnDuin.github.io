@@ -28,7 +28,7 @@ remove:
 
 During the Easter Holidays we are organizing two main activities amongst which an Easter eggs hunt and game.
 
-Every Friday during the high season we offer a varied entertainment program. As we feel very strongly about originality, we will try to find new and inspiring activities. So keep an eye on our calendar for a complete and current survey.
+During the high season we offer a varied entertainment program. As we feel very strongly about originality, we will try to find new and inspiring activities. So keep an eye on our calendar for a complete and current survey.
 
 At the end of the year we are going to organize a cosy mulled wine evening. A good opportunity to look back at the past year and to look forward to the coming season.
 
