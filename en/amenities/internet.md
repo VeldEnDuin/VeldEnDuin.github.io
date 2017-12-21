@@ -39,4 +39,4 @@ TIME ONLINE         | PRICE      |
 
 One ticket per appliance.
 
-Book our [Veld&Duin service offer][veld_duin_service.en] upon reservation. This offer includes 2 internet tickets for the length of your stay.
+When booking a chalet, caravan or apartment 2 internet tickets are included in the rent price for the length of your stay.

@@ -40,4 +40,4 @@ TIJD ONLINE         | PRIJS       |
 
 Elk ticket is bruikbaar voor 1 toestel.
 
-Bij het huren van een chalet, caravan of appartement, kunt u ook ons [Veld & Duin service arrangement][veld_duin_service.nl] boeken. Dit omvat onder meer  2 internettickets voor de duur van uw verblijf.
+Bij het huren van een chalet, caravan of appartement zijn 2 internettickets voor de duur van uw verblijf in de huurprijs inbegrepen.

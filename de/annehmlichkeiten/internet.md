@@ -40,4 +40,4 @@ ZEIT ONLINE         | PREIS       |
 
 Jedes Ticket gilt für ein Gerät.
 
-Beim Mieten eines Chalets oder Appartements können Sie unser [Veld & Duin Service-Arrangement][veld_duin_service.de] buchen. Es umfasst unter anderem 2 Internettickets für die Dauer Ihres Aufenthalts.
+Beim Mieten eines Chalets oder Appartements sind 2 Internettickets für die Dauer Ihres Aufenthalts im Mietpreis einbegriffen.

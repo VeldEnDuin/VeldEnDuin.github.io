@@ -40,4 +40,4 @@ DURÉE DE CONNEXION  | Tarif       |
  
 Un ticket par appareil.
 
-Dans le cadre de la location d’un chalet, d’une caravane ou d’un appartement, vous avez également la possibilité d’opter pour notre forfait [service Veld & Duin][veld_duin_service.fr]. Il comprend notamment 2 tickets Internet pour la durée de votre séjour.
+Dans le cadre de la location d’un chalet, d’une caravane ou d’un appartement 2 tickets Internet pour la durée de votre séjour sont inclus dans le prix.
