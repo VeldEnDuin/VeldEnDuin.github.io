@@ -12,10 +12,10 @@ items:
   images:
   - "/img/doen/bre-cc-stafversl.jpg"
   link:
-    nl: http://www.stafversluys-centrum.be/nl/
-    fr: http://www.stafversluys-centrum.be/fr/
-    de: http://www.stafversluys-centrum.be/de/
-    en: http://www.stafversluys-centrum.be/en/
+    nl: https://stafversluys-centrum.be/nl/home
+    fr: https://stafversluys-centrum.be/fr/home
+    de: https://stafversluys-centrum.be/de/home
+    en: https://stafversluys-centrum.be/en/home
   title:
     nl: Staf Versluyscentrum
     fr: Centre Staf Versluys
