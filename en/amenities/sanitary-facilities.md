@@ -20,13 +20,13 @@ remove:
 
 # Sanitary facilities
 
-All backpackers and tenants of our standard chalets can make use of our sanitary facilities:
+All backpackers can make use of our sanitary facilities:
 
 * 5 showers
 * 8 toilets and urinals
 * 1 shower for guests with disablities
 * 2 toilets for guests with disabilities
-* 2 boxes for chemical toilets
+* 3 boxes for chemical toilets
 * 3 sinks
 
-**Price per coin :** € 1 for 8 minutes of warm water – coins available at the reception
+**Price per coin :** € 1 for 6 minutes of warm water – coins available at the reception

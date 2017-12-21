@@ -47,7 +47,7 @@ There are direct trains leaving from several main cities in Belgium. Consult [NM
 
 ### Tram
 
-Taking the [coastal tram][kusttram] from Oostende to Bredene is nice and easy (it is about 8 km). Trams leave every ten minutes during the high season. Off season there is one every 15 minutes.<br>
+Taking the [coastal tram][kusttram.en] from Oostende to Bredene is nice and easy (it is about 8 km). Trams leave every ten minutes during the high season. Off season there is one every 15 minutes.<br>
 Get off at the tram stop 'Renbaan' and take the stairs leading to the pedestrian tunnel. Go left (the beach is on the right hand side) and at the end of the tunnel immediately go right. Continue until the end of the cul-de-sac, go left and go down that road as far as the Fisherman Chapel. Go right into the Kapelstraat, the first street on your left hand side is the Koningin Astridlaan. Veld & Duin is the first campsite on the left.
 
 

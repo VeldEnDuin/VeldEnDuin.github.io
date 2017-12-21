@@ -40,4 +40,4 @@ DURÉE DE CONNEXION  | Tarif       |
  
 Un ticket par appareil.
 
-Dans le cadre de la location d’un chalet, d’une caravane ou d’un appartement 2 tickets Internet pour la durée de votre séjour sont inclus dans le prix.
+Dans le cadre de la location d’un chalet, d’une caravane ou d’un appartement 2 tickets internet pour la durée de votre séjour sont inclus dans le prix.

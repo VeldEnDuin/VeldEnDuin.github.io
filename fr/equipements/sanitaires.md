@@ -20,13 +20,13 @@ remove:
 
 # Sanitaires 
 
-Nos installations sanitaires sont à la disposition des campeurs et des locataires d’un chalet standard:
+Nos installations sanitaires sont à la disposition des campeurs:
 
 * 5 douches
 * 8 toilettes et urinoirs
 * 1 douche pour personnes à mobilité réduite
 * 2 toilettes pour personnes à mobilité réduite
-* 2 déversoirs pour toilettes chimiques
+* 3 déversoirs pour toilettes chimiques
 * 3 lavabos
 
-**Prix du jeton de douche:** 1 € pour 8 minutes d’eau chaude - jetons vendus à la réception.
+**Prix du jeton de douche:** 1 € pour 6 minutes d’eau chaude - jetons vendus à la réception.
