@@ -612,9 +612,9 @@ items:
   - "/img/doen/wt-wandelen.jpg"
   link:
     nl: http://www.wandelknooppunt.be/wandelnetwerk.aspx?kaart=kustwandelroute
-    fr: http://www.lelittoral.be/fr/a-faire/itineraires-randonnee
-    de: http://www.belgischekueste.be/de/tun/wanderwege
-    en: http://www.belgiancoast.co.uk/en/do/hike-trails
+    fr: http://www.wandelknooppunt.be/wandelnetwerk.aspx?kaart=kustwandelroute
+    de: http://www.wandelknooppunt.be/wandelnetwerk.aspx?kaart=kustwandelroute
+    en: http://www.wandelknooppunt.be/wandelnetwerk.aspx?kaart=kustwandelroute
   title:
     nl: wandelnetwerk
     fr: réseau de randonnées pédestres
