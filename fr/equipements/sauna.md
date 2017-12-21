@@ -34,4 +34,4 @@ Notre espace sauna compte:
 **Tarif de location du sauna**: 30 € pour 3 heures.
 
 
-Réservez également sans plus tarder notre [forfait-séjour-romantique-à-la-mer] [romantiek_aan_zee.fr] et offrez-vous encore plus de moments de détente !
+Voyez également notre [forfait sauna] [sauna_arrangement.fr]!

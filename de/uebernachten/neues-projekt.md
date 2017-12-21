@@ -21,7 +21,7 @@ Bei diesem ehrgeizigen Projekt wird die Gesamtzahl der Plätze von 83 auf 53 ver
 
 Die Arbeiten erfolgen jeweils im Winter und in Phasen. 
 
-2014/2015 wurden die ersten 10 Plätze angelegt. Letzten Winter folgten nochmals 7 Luxusplätze. Diese Plätze eignen sich für große Wohnwagen und legen den Schwerpunkt auf Platz und besonderes Erlebnis der grünen Natur. 
+2014/2015 wurden die ersten 10 Plätze angelegt und den Winter darauf folgten nochmals 7 Luxusplätze. Diese Plätze eignen sich für große Wohnwagen und legen den Schwerpunkt auf Platz und besonderes Erlebnis der grünen Natur. 
 
 
 ![3D plan neues projekt][plan3d.de]

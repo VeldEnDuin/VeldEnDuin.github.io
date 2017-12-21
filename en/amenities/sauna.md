@@ -34,4 +34,4 @@ Our sauna room consists of:
 **Private hire**: € 30 for 3 hours.
 
 
-Or book now our [romance-by-the sea-package] [romantiek_aan_zee.en] to spoil yourself even more!
+Also check out or [sauna offer] [sauna_arrangement.en]!

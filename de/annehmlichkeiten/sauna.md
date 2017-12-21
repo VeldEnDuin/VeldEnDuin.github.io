@@ -34,4 +34,4 @@ Unser Saunaraum bietet folgende Annehmlichkeiten:
 **Preis Saunamiete**: € 30 für 3 Stunden.
 
 
-Oder buchen Sie jetzt unser [Romantik-am-Meer-Arrangement] [romantiek_aan_zee.de], wenn Sie sich noch mehr verwöhnen wollen!
+Schauen Sie auch unser [Sauna Angebot][sauna_arrangement.de] an!

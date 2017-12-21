@@ -21,7 +21,7 @@ Cet ambitieux projet prévoit la réduction du nombre d’emplacements de 83 à 
 
 Les travaux sont toujours effectués en hiver et sont répartis en plusieurs phases. 
 
-Les 10 premiers emplacements ont été aménagés en 2014-2015. L'hiver dernier, 7 autres emplacements de luxe ont été construits. Ils sont adaptés à de grandes caravanes et privilégient espace et proximité avec la nature. 
+Les 10 premiers emplacements ont été aménagés en 2014-2015. L'hiver après, 7 autres emplacements de luxe ont été construits. Ils sont adaptés à de grandes caravanes et privilégient espace et proximité avec la nature. 
 
 
 ![3D plan nouveau projet][plan3d.fr]
