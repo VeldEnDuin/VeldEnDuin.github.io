@@ -1222,10 +1222,30 @@ items:
     de: Paulusfeesten
     en: Paulusfeesten
   caption:
-    nl: Cultuurfestival - Oostende - 9-15/8/17
-    fr: Fête culturel - Ostende - 9-15/8/17
-    de: Kulturellen Fest - Oostende - 9-15/8/17
-    en: Cultural festival - Ostend 9-15/8/17
+    nl: Cultuurfestival - Oostende - 9-15/8/18
+    fr: Fête culturel - Ostende - 9-15/8/18
+    de: Kulturellen Fest - Oostende - 9-15/8/18
+    en: Cultural festival - Ostend 9-15/8/18
+- ranking: 60
+  subgroups:
+  - cult
+  images:
+  - "/img/doen/beaufort.jpg"
+  link:
+    nl: https://www.beaufort2018.be/nl
+    fr: https://www.beaufort2018.be/fr
+    de: https://www.beaufort2018.be/de
+    en: https://www.beaufort2018.be/en
+  title:
+    nl: Beaufort 2018
+    fr: Beaufort 2018
+    de: Beaufort 2018
+    en: Beaufort 2018
+  caption:
+    nl: Kunstfestival - De Kust - 30/3 - 30/9/18
+    fr: Festival culturel - La côte - 30/3 - 30/9/18
+    de: Kunstfestival - Die Küste - 30/3 - 30/9/18
+    en: Art festival - The Coast - 30/3 - 30/9/18
 subgroups:
   nl:
     coast: kustbeleving
