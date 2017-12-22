@@ -52,7 +52,7 @@ Pour clôturer l’année en beauté, nous organisons une soirée vin chaud. Ré
 |   10/08/2017    |    Toboggan aquatique     |
 |   25/08/2017    |    Visite guidée réserve naturelle d'Heye    |
 
-Vous trouvez tous les informations sur notre [site du jubilé](http://www.veldenduin.be/jubileum/fr/calendrier.html).
+
 
 
 ## Animations à Bredene et dans les environs

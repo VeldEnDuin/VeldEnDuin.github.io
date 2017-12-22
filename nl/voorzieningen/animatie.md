@@ -54,7 +54,7 @@ Het jaar wordt afgesloten met een gezellige glühweinavond. Onder het genot van 
 |   10/08/2017    |    Waterglijbaan     |
 |   25/08/2017    |    Gidsbeurt natuurgebied d'Heye    |
 
-Alle praktische informatie vindt u op onze [jubileumsite](http://www.veldenduin.be/jubileum/nl/kalender.html).
+
 
 
 
