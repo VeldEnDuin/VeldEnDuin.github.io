@@ -2,10 +2,10 @@ albums:
 - id: "6503886621922955361"
   date: 2017-08-25
   name:
-    nl: tentoonstelling ''De Wereld als Camping''
-    fr: exposition ''Le monde en tant que camping''
-    de: Ausstellung ''Die Welt als Campingplatz''
-    en: Exposition ''The world, a campsite''
+    nl: tentoonstelling De Wereld als Camping
+    fr: exposition Le monde en tant que camping
+    de: Ausstellung Die Welt als Campingplatz
+    en: Exposition The world, a campsite
 - id: "6503775250057706465"
   date: 2017-08-25
   name:
