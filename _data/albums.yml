@@ -1,4 +1,11 @@
 albums:
+- id: "6503886621922955361"
+  date: 2017-08-25
+  name:
+    nl: tentoonstelling ''De Wereld als Camping''
+    fr: exposition ''Le monde en tant que camping''
+    de: Ausstellung ''Die Welt als Campingplatz''
+    en: Exposition ''The world, a campsite''
 - id: "6503775250057706465"
   date: 2017-08-25
   name:
@@ -55,7 +62,7 @@ albums:
     fr: Pique-nique géant
     de: Riesen-Picknick
     en: Giant picknick
-- id: "6430739910382071441"
+- id: "6503882757090505313"
   date: 2017-06-03
   name:
     nl: jubileumfeest 50 jaar
