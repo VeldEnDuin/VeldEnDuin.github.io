@@ -391,7 +391,7 @@ albums:
     fr: Urkie Purkie
     de: Urkie Purkie
     en: Urkie Purkie
-- id: "6241432940137383585"
+- id: "6527930072124919249"
   date: 2012-08-03
   name:
     nl: levend tafelvoetbal
@@ -433,7 +433,7 @@ albums:
     fr: Chris Hageland
     de: Chris Hageland
     en: Chris Hageland
-- id: "6242266189828113761"
+- id: "6527927797598269521"
   date: 2011-07-22
   name:
     nl: levend tafelvoetbal
@@ -454,6 +454,13 @@ albums:
     fr: promenade gourmande à vélo
     de: Schnabuliereradtour
     en: snack & bike tour
+- id: "6527931361347539345"
+  date: 2011-04-24
+  name:
+    nl: paasbedeling
+    fr: distribution de pâques
+    de: Osterverteilung
+    en: easter distribution
 - id: "6504195046490802721"
   date: 2010-12-26
   name:
@@ -601,7 +608,7 @@ albums:
     fr: soirée de vin chaud
     de: Glühweinabend
     en: mulled wine evening
-- id: "6241413505212993665"
+- id: "6527925968465683857"
   date: 2008-08-15
   name:
     nl: tapisplein
@@ -622,7 +629,7 @@ albums:
     fr: graffitis
     de: Graffiti
     en: graffiti
-- id: "6241409749469467953"
+- id: "6527924702372297761"
   date: 2008-05-02
   name:
     nl: harmonieorkest en volksspelen
