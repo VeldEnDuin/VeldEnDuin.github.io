@@ -48,7 +48,7 @@ Plusieurs gares belges proposent des liaisons directes à destination d'Ostende.
 
 ### Tram côtier
 
-Le [tram côtier][kusttram.fr] constitue le moyen le plus rapide et le plus simple de rejoindre Bredene depuis Ostende (8 km environ). Il y a un tram toutes les 10 minutes en direction de Bredene en haute saison et toutes les 15 minutes hors saison.<br>
+Le [tram côtier][kusttram.fr] constitue le moyen le plus rapide et le plus simple de rejoindre Bredene depuis Ostende (8 km environ). Il y a un tram toutes les 10 minutes en direction de Bredene en haute saison et toutes les 20 minutes hors saison.<br>
 
 Descendez à l’arrêt "Renbaan", empruntez les escaliers jusqu’au tunnel pour piétons. Prenez ensuite à gauche (vous arrivez sur la plage si vous prenez à droite) et directement à droite à la sortie du tunnel. Continuez jusqu’au bout d’une rue sans issue. Prenez à gauche et descendez jusqu’à la Visserskapel. Prenez alors à droite dans la Kapelstraat. La première rue sur votre gauche est la Koningin Astridlaan. Veld & Duin est le premier camping à votre gauche.
 
