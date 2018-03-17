@@ -48,7 +48,7 @@ Voor treinreizigers bestaan vanuit verschillende steden in België rechtstreekse
 
 ### Kusttram
 
-De vlotste manier om vanuit Oostende in Bredene te geraken (zo'n 8 km) is de [kusttram][kusttram.nl]. In het hoogseizoen vertrekt er elke 10 minuten een tram richting Bredene, buiten het seizoen is dit elke 20 minuten.<br>
+De vlotste manier om vanuit Oostende in Bredene te geraken (zo'n 8 km) is de [kusttram][kusttram.nl]. In de zomer rijdt de Kusttram elke 10 minuten, in de winter om de 20 minuten. In het voor- en naseizoen en in de Krokus- en Kersvakantie stopt er om het kwartier een Kusttram.<br>
 
 Aan de tramhalte 'Renbaan' stapt u af en neemt u de trappen naar beneden tot u in de voetgangerstunnel komt. Daar gaat u naar links (rechts gaat u naar het strand) en buiten de tunnel onmiddellijk naar rechts. U vervolgt dit pad tot u op het einde van een doodlopende straat uitkomt, daar gaat u naar links de weg naar beneden tot bij de Visserskapel. Hier gaat u rechts de Kapelstraat in, de eerste straat aan uw linkerkant is de Koningin Astridlaan. Veld & Duin is de eerste camping aan uw linkerkant.
 
