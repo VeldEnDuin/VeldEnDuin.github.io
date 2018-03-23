@@ -38,20 +38,15 @@ Jedes Jahr schließen wir mit einem gemütlichen Glühweinabend ab. Bei warmen G
 
 | Datum | Aktivität |
 |-------|------------|
-|   01/04/2017    |   Anfang Ausstellung ’Die Welt als Campingplatz’ |
-|   04/04/2017    |    Kinderfilm   |
-|   11/04/2017    |    Kinderfilm     |
-|   16/04/2017    |    Ostereiersuche     |
-|   03/06/2017    |    Jubiläumwochenende     |
-|   04/06/2017    |    Tag der offenen Tür Belgian Oldtimer Caravan Club     |
-|   08/07/2017    |    Riesen-Picknick    |
-|   13/07/2017    |    Basteln       |
-|   20/07/2017    |    Schnabuliereradtour     |
-|   28/07/2017    |    Duo Berlingo - No Way Back      |
-|   03/08/2017    |    Kinderkochen Festausgabe      |
-|   10/08/2017    |    Wasserrutsche     |
-|   25/08/2017    |    Führung Naturschutzgebiet d'Heye    |
-
+|   01/04/2018    |    Ostereiersuche |
+|   06/04/2018    |    Osterbasteln   |
+|   11/05/2018    |    Saisonstart     |
+|   13/07/2018    |    Wasserrutsche     |
+|   20/07/2018    |    Voll-daneben-Fest     |
+|   27/07/2018    |    Abenteuerparcours De Werf    |
+|   03/08/2018    |    Kunst auf dem Campingplatz    |
+|   09/08/2018    |    Zirkusshow Shit Happens       |
+|   17/08/2018    |    Basteln     |
 
 
 

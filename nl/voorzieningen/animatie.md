@@ -40,24 +40,15 @@ Het jaar wordt afgesloten met een gezellige glühweinavond. Onder het genot van 
 
 | Datum | Activiteit |
 |-------|------------| 
-|   01/04/2017    |    Start tentoontelling ’De wereld als camping’       |
-|   04/04/2017    |    Kinderfilm     |
-|   11/04/2017    |    Kinderfilm     |
-|   16/04/2017    |    Paaseierenraap       |
-|   03/06/2017    |    Jubileumweekend      |
-|   04/06/2017    |    Opendeurdag Belgian Oldtimer Caravan Club     |
-|   08/07/2017    |    Reuzepicknick     |
-|   13/07/2017    |    Knutselen       |
-|   20/07/2017    |    Sneukelfietstocht      |
-|   28/07/2017    |    Duo Berlingo - No Way Back      |
-|   03/08/2017    |    Kinderkoken feesteditie      |
-|   10/08/2017    |    Waterglijbaan     |
-|   25/08/2017    |    Gidsbeurt natuurgebied d'Heye    |
-
-
-
-
-
+|   01/04/2018    |    Paaseierenraap       |
+|   06/04/2018    |    Paasknutselen     |
+|   11/05/2018    |    Seizoensstart     |
+|   13/07/2018    |    Waterglijbaan       |
+|   20/07/2018    |    Foute fuif      |
+|   27/07/2018    |    Avonturenparcours De Werf     |
+|   03/08/2018    |    Kunst op de camping     |
+|   09/08/2018    |    Circusact Shit Happens       |
+|   17/08/2018    |    Knutselen      |
 
 
 ## Animatie Bredene en omgeving
