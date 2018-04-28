@@ -7,7 +7,7 @@ insert:
  
 select:
     - verhuur
-    - goeddoel
+    - beaufortprev
     
 class:
     select:

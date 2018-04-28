@@ -137,11 +137,11 @@ wedstrijd:
     fr: /fr/hebergement/concours.html
     de: /de/uebernachten/preisausschreiben.html
     en: /en/accomodation/competition.html
-goeddoel:
-    nl: /nl/goeddoel.html
-    fr: /fr/bonnecause.html
-    de: /de/guterzweck.html
-    en: /en/charity.html
+beaufortprev:
+    nl: /nl/beaufortprev.html
+    fr: /fr/beaufortprev.html
+    de: /de/beaufortprev.html
+    en: /en/beaufortprev.html
 
 
 # [2.1] submenu overnachten -> verhuur
@@ -267,6 +267,11 @@ kadobon:
     fr: /fr/hebergement/forfaits/cheque-cadeau.html
     de: /de/uebernachten/arrangements/geschenkgutschein.html
     en: /en/accomodation/offers/gift-voucher.html
+beaufort:
+    nl: /nl/overnachten/arrangementen/beaufort.html
+    fr: /fr/hebergement/forfaits/beaufort.html
+    de: /de/uebernachten/arrangements/beaufort.html
+    en: /en/accomodation/offers/beaufort.html
 
 # [2.5] submenu overnachten -> te koop
 te_koop:
