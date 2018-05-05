@@ -46,6 +46,8 @@ Arrangement gültig bis 30. September, ausgenommen von Schulferien.
 
 Kann nicht mit anderen Rabatten kombiniert werden. 
 
+**! Arrangement nur auf Anfrage. Arrangement explizit anzufragen bei Reservierung.**
+
 ## Beaufort
 
 Beaufort ist ein alle drei Jahre stattfindendes Kunstprojekt, das erstmals 2003 organisiert wurde. Die Kunstwerke sind über Strände, Deiche, Plätze und Parks von neun Küstengemeinden verteilt. Wenn Sie Straßenbahn, Rad und Ihre Füße kombinieren, können Sie etliche Werke dieses Jahres und früherer Ausgaben gratis bewundern.  

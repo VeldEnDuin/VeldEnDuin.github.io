@@ -46,6 +46,8 @@ Offer valid until 30th September, except in the holidays.
 
 Cannot be combined with other offers or discounts. 
 
+**! Offer on demand. Offer to be requested explicitly upon reservation.**
+
 ## Beaufort
 
 Beaufort is a 3 yearly art project that was first organised in 2003. The artworks are exhibited on beaches, dikes, squares and parcs across 9 coastal towns. By combining tram, bike and walking you can discover a lot of this year's works and those from previous editions. 

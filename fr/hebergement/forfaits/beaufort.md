@@ -46,6 +46,8 @@ Forfait valable jusqu'au 30 Septembre, sauf dans les vacances.
 
 Non cumulable avec autres promotions. 
 
+**! Forfait sur demande. Forfait à demander explicitement en réservant.**
+
 ## Beaufort
 
 Beaufort est une triennale d’art dont la première édition a eu lieu en 2003. Les œuvres d’art sont exposées sur les plages, digues, plaines et parcs de 9 communes du littoral. En vous déplaçant en tram, à vélo et à pied, vous pourrez admirer gratuitement de nombreuses réalisations de cette année ainsi que des éditions précédentes.

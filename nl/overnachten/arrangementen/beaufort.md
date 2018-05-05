@@ -45,6 +45,8 @@ Ontdek ons aantrekkelijke aanbod aan [verhuurmogelijkheden][verhuur.nl] en [trek
 Arrangement is geldig tot 30 september behalve in de schoolvakanties.
 Niet cumuleerbaar met andere acties of kortingen.
 
+**! Arrangement enkel op aanvraag. Arrangement expliciet aan te vragen bij reservatie.** 
+
 ## Beaufort
 
 Beaufort is een driejaarlijks kunstproject dat voor het eerst georganiseerd werd in 2003. De kunstwerken staan verspreid op stranden, zeedijken, pleinen en parken over 9 kustgemeenten. Met een combinatie van tram, fiets en wandelen kun je heel wat werken van dit jaar én de vorige edities gratis bewonderen.  
