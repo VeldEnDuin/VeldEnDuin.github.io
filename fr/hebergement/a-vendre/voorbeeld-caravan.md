@@ -25,7 +25,7 @@ insert:
 
 
 
-# Infofiche 
+# Fiche info 
 
 CARAVANE C 38               | INFO        | 
 :---------------------------|:------------|
