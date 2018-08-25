@@ -194,10 +194,10 @@ items:
     de: Afro C Festival
     en: Afro C Festival
   caption:
-    nl: gratis wereldmuziekfestival - Bredene - 10-11/8/18
-    fr: Festival gratuit de musique du monde – Bredene – 10-11/8/18
-    de: Weltmusikfestival mit kostenlosem Eintritt – Bredene – 10-11.8.18
-    en: free world music festival - Bredene - 10-11/8/18
+    nl: gratis wereldmuziekfestival - Bredene
+    fr: Festival gratuit de musique du monde – Bredene
+    de: Weltmusikfestival mit kostenlosem Eintritt – Bredene
+    en: free world music festival - Bredene
 - ranking: 170
   location: 51.252213, 2.974759
   subgroups:
@@ -232,10 +232,10 @@ items:
     de: Theater aan Zee
     en: Theater aan Zee
   caption:
-    nl: theaterfestival - Oostende - 26/7 - 4/8/18
-    fr: festival de théâtre – Ostende - 26/7 - 4/8/18
-    de: Theaterfestival – Ostende - 26/7 - 4/8/18
-    en: theater festival - Ostend - 26/7 - 4/8/17
+    nl: theaterfestival - Oostende
+    fr: festival de théâtre – Ostende
+    de: Theaterfestival – Ostende
+    en: theater festival - Ostend
 - ranking: 100
   location: 51.278736, 3.034791
   subgroups:
@@ -253,10 +253,10 @@ items:
     de: Trammelant
     en: Trammelant
   caption:
-    nl: Belle Epoquefeest - De Haan - 4/8/18
-    fr: fête sous le thème de la Belle Époque – Le Coq - 4/8/18
-    de: Belle-Epoque-Fest – De Haan 4/8/18
-    en: Belle Epoque event - De Haan 4/8/18
+    nl: Belle Epoquefeest - De Haan
+    fr: fête sous le thème de la Belle Époque
+    de: Belle-Epoque-Fest – De Haan
+    en: Belle Epoque event - De Haan
 - ranking: 290
   location: 51.315091, 3.131080
   subgroups:
@@ -1115,10 +1115,10 @@ items:
     de: Oostende voor Anker
     en: Oostende voor Anker
   caption:
-    nl: maritiem festival - Oostende - 10-13/5/18
-    fr: festival maritime - Ostende - 10-13/5/18
-    de: maritimes Festival - Oostende - 10-13/5/18
-    en: maritime festival - Ostend - 10-13/5/18
+    nl: maritiem festival - Oostende
+    fr: festival maritime - Ostende
+    de: maritimes Festival - Oostende
+    en: maritime festival - Ostend
 - ranking: 345
   location: 51.340946, 3.240212
   subgroups:
@@ -1201,10 +1201,10 @@ items:
     de: Gentse feesten
     en: Gentse feesten
   caption:
-    nl: Cultuurfestival - Gent - 13-22/7/18
-    fr: Fête culturel - Gand - 13-22/7/18
-    de: Kulturellen Fest - Gent - 13-22/7/18
-    en: Cultural festival - Ghent - 13-22/7/18
+    nl: Cultuurfestival - Gent
+    fr: Fête culturel - Gand
+    de: Kulturellen Fest - Gent
+    en: Cultural festival - Ghent
 - ranking: 115
   location: 51.229485, 2.921105
   subgroups:
@@ -1222,10 +1222,10 @@ items:
     de: Paulusfeesten
     en: Paulusfeesten
   caption:
-    nl: Cultuurfestival - Oostende - 9-15/8/18
-    fr: Fête culturel - Ostende - 9-15/8/18
-    de: Kulturellen Fest - Oostende - 9-15/8/18
-    en: Cultural festival - Ostend 9-15/8/18
+    nl: Cultuurfestival - Oostende
+    fr: Fête culturel - Ostende
+    de: Kulturellen Fest - Oostende
+    en: Cultural festival - Ostend
 - ranking: 60
   subgroups:
   - cult
