@@ -59,7 +59,7 @@ mei            |€ 375
 juni           |€ 375       
 juli           |€ 670            
 augustus       |€ 670   
-september      |€ 330
+september      |€ 375
 oktober        |€ 300
 november       |€ 300
 april-mei-juni |€ 715

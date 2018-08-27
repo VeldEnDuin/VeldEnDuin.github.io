@@ -60,7 +60,7 @@ mai            |€ 375
 juin           |€ 375       
 juillet        |€ 670           
 août           |€ 670   
-septembre      |€ 330
+septembre      |€ 375
 octobre        |€ 300
 novembre       |€ 300
 avril-mai-juin |€ 715

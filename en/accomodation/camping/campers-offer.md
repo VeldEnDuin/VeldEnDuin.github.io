@@ -57,7 +57,7 @@ May            |€ 375
 June           |€ 375      
 July           |€ 670            
 August         |€ 670   
-September      |€ 330
+September      |€ 375
 October        |€ 300
 November       |€ 300
 April-May-June |€ 715
