@@ -96,7 +96,6 @@ November bis März<br>ausgenommen Schulferien <br>und verlängerte Wochenenden |
 EXTRA               | PREIS 
 :-------------------|:-----------|
 Reinigung          | € 40 - selbst reinigen ist gestattet
-Rücktrittsversicherung| 3,5 % der gesamten Reisesumme - [Allianz][pdf_allianz.de] 
 Hund                  | € 4 / Nacht - max 2     
 Betttuchpaket         | € 9 / Bett
 Kinderbett           | € 1 / Nacht

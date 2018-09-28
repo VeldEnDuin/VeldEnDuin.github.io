@@ -96,7 +96,6 @@ TUSSENSEIZOEN      |    HOOGSEIZOEN|
 EXTRA               | PRIJS 
 :-------------------|:-----------|
 schoonmaak          | € 40 - zelf schoonmaken kan
-annulatieverzekering| 3,5 % van de totale reissom - [Allianz][pdf_allianz.nl] 
 hond                | € 4 / nacht - max 1
 lakenpakket         | € 9 / bed
 kinderbed           | € 1 / nacht

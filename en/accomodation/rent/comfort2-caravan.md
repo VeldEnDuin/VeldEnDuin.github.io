@@ -99,7 +99,6 @@ MID SEASON      |    HIGH SEASON|
 EXTRA SERVICE            | PRICE 
 :-------------------|:-----------|
 cleaning          | € 40 - final cleaning by tenants is allowed
-cancellation insurance| 3,5 % of total amount - [Allianz][pdf_allianz.en] 
 dogs               | € 4 / night - max 1
 bed linen        | € 9 / bed
 baby cot          | € 1 / night

@@ -397,11 +397,6 @@ fotos:
 
 
 # [6] menu pdf
-pdf_allianz:
-    nl: /nl/pdf/allianz-algemene-voorwaarden.pdf
-    fr: /fr/pdf/allianz-conditions.pdf
-    de: /de/pdf/allianz-algemene-voorwaarden.pdf
-    en: /en/pdf/allianz-general-conditions.pdf
 pdf_mvo:
     nl: /nl/pdf/mvo-rapport.pdf
     fr: /fr/pdf/mvo-rapport.pdf

@@ -22,12 +22,6 @@ De reservatie is pas definitief na ontvangst van het voorschot.
 - annulatie minder dan 4 weken voor aankomst: volledige huurbedrag is verschuldigd
 - bij voortijdige beëindiging van het verblijf is er geen terugbetaling
 
-**Tip**: u kunt bij ons een annulatieverzekering afsluiten, zo vermijdt u onnodige kosten als u door een geldige reden niet kan komen.
-
-prijs: 3,5 % van de totale reissom
-
-annulatievoorwaarden: [Allianz][pdf_allianz.nl]
-
 
 ## Aankomst-en vertrekregeling
 

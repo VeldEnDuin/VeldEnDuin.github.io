@@ -96,7 +96,6 @@ novembre à mars<br>à l'exception des vacances scolaires <br>et weekends prolon
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
 nettoyage           | € 40 - le locataire est autorisé à faire le nettoyage lui-même
-assurance annulation| 3,5% du montant total du séjour - [Allianz][pdf_allianz.fr] 
 chien               | € 4 / nuit - max 2
 draps               | € 9 / lit
 lit d'enfant        | € 1 / nuit

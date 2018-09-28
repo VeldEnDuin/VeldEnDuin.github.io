@@ -20,7 +20,6 @@ Nombre de nuits | Réduction
 
 SUPPLÉMENTS           | PRIX 
 :------------------|:-----------|
-assurance annulation | 3,5 % du montant total du séjour - [Allianz][pdf_allianz.fr] 
 jeton douche      | € 1 / jeton
 chien          | € 4 / nuit - max 2 
 parking voiture supplémentaire | € 4 / jour entamé

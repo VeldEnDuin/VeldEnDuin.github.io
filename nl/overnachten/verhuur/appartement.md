@@ -97,7 +97,6 @@ november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | a
 EXTRA               | PRIJS 
 :-------------------|:-----------|
 schoonmaak          | € 40 - zelf schoonmaken kan
-annulatieverzekering| 3,5 % van de totale reissom - [Allianz][pdf_allianz.nl] 
 lakenpakket         | € 9 / bed
 kinderbed           | € 1 / nacht
 kinderstoel         | € 1 / nacht

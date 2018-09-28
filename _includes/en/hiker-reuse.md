@@ -21,7 +21,6 @@ Number of nights | Discounts
 
 EXTRA             | PRICE 
 :------------------|:-----------|
-cancellation insurance | 3,5 % of total amount - [Allianz][pdf_allianz.en] 
 shower coin       | € 1 / coin
 dog              | € 4 / night - max 2 
 parking place extra car | € 4 / started day

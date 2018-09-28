@@ -20,7 +20,6 @@ Aantal nachten | Korting
 
 EXTRA             | PRIJS 
 :------------------|:-----------|
-annulatieverzekering| 3,5 % van de totale reissom - [Allianz][pdf_allianz.nl] 
 douchejeton       | € 1 / jeton
 hond              | € 4 / nacht - max 2 
 parking extra auto| € 4 / begonnen dag

@@ -72,7 +72,6 @@ November until March<br> except for holidays<br>& long weekends | April until Ju
 EXTRA SERVICE               | PRICE
 :-------------------|:-----------|
 cleaning          | € 40 (luxury apartment € 50) - final cleaning by tenants is allowed
-cancellation insurance| 3,5 % of total amount - [Allianz][pdf_allianz.en] 
 dogs               | € 4 / night<br> not allowed in the apartments
 bed linen        | € 9 / bed
 baby cot          | € 1 / night

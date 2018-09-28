@@ -105,7 +105,6 @@ November bis März<br>ausgenommen Schulferien <br>und verlängerte Wochenenden |
 EXTRA               | PREIS 
 :-------------------|:-----------|
 Reinigung          | € 50 - selbst reinigen ist gestattet
-Rücktrittsversicherung| 3,5 % der gesamten Reisesumme - [Allianz][pdf_allianz.de] 
 Betttuchpaket         | € 9 / Bett
 Kinderbett           | € 1 / Nacht
 Kinderstuhl         | € 1 / Nacht

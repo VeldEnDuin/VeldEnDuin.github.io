@@ -21,7 +21,6 @@ Anzahl Nächte  | Rabatt
 
 EXTRA             | PREIS 
 :------------------|:-----------|
-Rücktrittsversicherung| 3,5 % der gesamten Reisesumme - [Allianz][pdf_allianz.de] 
 Dusche       | € 1 / Jeton
 Hund              | € 4 / Nacht - max 2 
 Parkplatz extra Auto  | € 4 / angefangenem Tag

@@ -11,9 +11,3 @@
 - annulation ≥ 4 semaines avant l’arrivée: 25% du montant total de la location sont dus
 - annulation < 4 semaines avant l’arrivée: le montant total de la location est dû
 - aucun remboursement n’est effectué en cas de départ anticipé
-
-**Conseil**: nous vous proposons une assurance annulation de sorte à éviter les frais inutiles si vous êtes contraint(e) d’annuler votre séjour pour un motif valable.
-
-prix: 3,5 % du montant total du séjour
-
-conditions d'annulation: [Allianz][pdf_allianz.fr]

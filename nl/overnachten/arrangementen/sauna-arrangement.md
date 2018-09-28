@@ -72,7 +72,6 @@ november tot maart<br> uitgezonderd schoolvakanties <br>en verlengde weekends | 
 EXTRA               | PRIJS 
 :-------------------|:-----------|
 schoonmaak          | € 40 (luxe appartement € 50) - zelf schoonmaken kan
-annulatieverzekering| 3,5 % van de totale reissom - [Allianz][pdf_allianz.nl] 
 hond                | € 4 / nacht<br> niet toegelaten in de appartementen
 lakenpakket         | € 9 / bed
 kinderbed           | € 1 / nacht

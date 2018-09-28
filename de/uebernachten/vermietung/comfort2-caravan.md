@@ -99,7 +99,6 @@ NEBENSAISON      |    HOCHSAISON|
 EXTRA               | PREIS 
 :-------------------|:-----------|
 Reinigung          | € 40 - selbst reinigen ist gestattet
-Rücktrittsversicherung| 3,5 % der gesamten Reisesumme - [Allianz][pdf_allianz.de] 
 Hund                | € 4 / Nacht - max 1
 Betttuchpaket         | € 9 / Bett
 Kinderbett           | € 1 / Nacht
