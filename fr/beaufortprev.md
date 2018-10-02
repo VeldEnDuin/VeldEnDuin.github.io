@@ -10,7 +10,6 @@ preview:
         - Recevez une pièce d'art en chocolat et massepain et un guide Beaufort avec votre réservation d'une accomodation ou emplacement de camping. 
         
 images:
-      - /img/overnachten/arrangementen-beaufort/arrbeaufort-01.jpg
 
 
 ---

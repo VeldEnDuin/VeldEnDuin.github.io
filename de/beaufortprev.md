@@ -9,7 +9,6 @@ preview:
         - Bei Ihrer Reservierung einer Unterkunft oder Campingplatz bekommen Sie ein Kunstwerkchen in Marzipan und Schokolade sowie auch ein Beaufort-Führer.
         
 images:
-      - /img/overnachten/arrangementen-beaufort/arrbeaufort-01.jpg
 
 
 ---

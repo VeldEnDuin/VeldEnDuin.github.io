@@ -9,7 +9,6 @@ preview:
         - Receive a piece of art in chocolate and marzipan and a beaufort guide with your reservation of an accomodation or camping pitch.
         
 images:
-      - /img/overnachten/arrangementen-beaufort/arrbeaufort-01.jpg
 
 
 ---

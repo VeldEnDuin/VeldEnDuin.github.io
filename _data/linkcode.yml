@@ -272,11 +272,6 @@ kadobon:
     fr: /fr/hebergement/forfaits/cheque-cadeau.html
     de: /de/uebernachten/arrangements/geschenkgutschein.html
     en: /en/accomodation/offers/gift-voucher.html
-beaufort:
-    nl: /nl/overnachten/arrangementen/beaufort.html
-    fr: /fr/hebergement/forfaits/beaufort.html
-    de: /de/uebernachten/arrangements/beaufort.html
-    en: /en/accomodation/offers/beaufort.html
 
 # [2.5] submenu overnachten -> te koop
 te_koop:
