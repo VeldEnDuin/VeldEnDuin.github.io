@@ -5,7 +5,7 @@ title: Jubiläumbuch
 preview:
     title: Jubiläumbuch
     text: 
-        - 50 Jahre Veld & Duin in Buchform:
+        - 50 Jahre Veld & Duin in Buchform
         - 90 Seiten Geschichte des Campingtourismus, Interviews, einer Entwicklung der Arbeiten und natürlich ganz vielen Fotos unserer Camper und aller Festlichkeiten.
         
 images:

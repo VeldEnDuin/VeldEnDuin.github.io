@@ -5,7 +5,7 @@ title: Livre anniversaire
 preview:
     title: Livre anniversaire
     text: 
-        - 50 ans de Veld & Duin sous forme de livre:
+        - 50 ans de Veld & Duin sous forme de livre
         - 90 pages d’histoire sur le camping et Bredene, des interviews, une évolution des travaux et beaucoup de photos de nos campeurs et de toutes les festivités.
         
 images:

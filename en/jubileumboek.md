@@ -5,7 +5,7 @@ title: Anniversary book
 preview:
     title: Anniversary book
     text: 
-        - 50 years Veld & Duin in book form:
+        - 50 years Veld & Duin in book form
         - 90 pages of history of the camping and Bredene, interviews, an evolution of the works and tons of photos of our campers and all the festivities.
         
 images:

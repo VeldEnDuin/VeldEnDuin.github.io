@@ -5,7 +5,7 @@ title: jubileumboek
 preview:
     title: jubileumboek
     text: 
-        - 50 jaar Veld & Duin in boekvorm:
+        - 50 jaar Veld & Duin in boekvorm
         - 90 pagina’s geschiedenis van het kamperen in Veld & Duin en Bredene, interviews, een evolutie van de werken en heel veel foto’s van onze kampeerders en alle feestelijkheden.
         
 images:
