@@ -7,7 +7,7 @@ insert:
     
 select:
     - verhuur
-    - jubileumboekprev
+    - jubileumboek
     
 class:
     select:

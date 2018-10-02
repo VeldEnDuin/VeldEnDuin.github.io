@@ -7,7 +7,7 @@ insert:
  
 select:
     - verhuur
-    - beaufortprev
+    - jubileumboek
     
 class:
     select:
