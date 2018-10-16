@@ -304,11 +304,11 @@ b_42:
     fr: /fr/hebergement/a-vendre/b-42.html
     de: /de/uebernachten/zu-kaufen/b-42.html
     en: /en/accomodation/for-sale/b-42.html
-b_73:
-    nl: /nl/overnachten/te-koop/b-73.html
-    fr: /fr/hebergement/a-vendre/b-73.html
-    de: /de/uebernachten/zu-kaufen/b-73.html
-    en: /en/accomodation/for-sale/b-73.html
+c_30:
+    nl: /nl/overnachten/te-koop/c-30.html
+    fr: /fr/hebergement/a-vendre/c-30.html
+    de: /de/uebernachten/zu-kaufen/c-30.html
+    en: /en/accomodation/for-sale/c-30.html
 
 # [3] menu - voorzieningen
 voorzieningen:
