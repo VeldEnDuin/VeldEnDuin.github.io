@@ -38,15 +38,8 @@ Jedes Jahr schließen wir mit einem gemütlichen Glühweinabend ab. Bei warmen G
 
 | Datum | Aktivität |
 |-------|------------|
-|   01/04/2018    |    Ostereiersuche |
-|   06/04/2018    |    Osterbasteln   |
-|   11/05/2018    |    Saisonstart     |
-|   13/07/2018    |    Wasserrutsche     |
-|   20/07/2018    |    Voll-daneben-Fest     |
-|   27/07/2018    |    Abenteuerparcours De Werf    |
-|   03/08/2018    |    Kunst auf dem Campingplatz    |
-|   09/08/2018    |    Zirkusshow Shit Happens       |
-|   17/08/2018    |    Basteln     |
+|   28/12/2018    |    Glühweinabend |
+
 
 
 

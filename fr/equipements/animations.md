@@ -38,15 +38,8 @@ Pour clôturer l’année en beauté, nous organisons une soirée vin chaud. Ré
 
 | Date | Activité |
 |-------|------------|
-|   01/04/2018    |    Chasse aux œufs |
-|   06/04/2018    |    Bricolage de Pâques     |
-|   11/05/2018    |    Lancement de la saison     |
-|   13/07/2018    |    Toboggan aquatique      |
-|   20/07/2018    |    Soirée n’importe quoi     |
-|   27/07/2018    |    Parcours aventure De Werf     |
-|   03/08/2018    |    L’art au camping     |
-|   09/08/2018    |    Spectacle de cirque Shit Happens       |
-|   17/08/2018    |    Bricolage     |
+|   28/12/2018    |    Soirée vin chaud |
+
 
 
 ## Animations à Bredene et dans les environs

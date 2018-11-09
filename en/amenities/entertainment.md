@@ -39,15 +39,8 @@ At the end of the year we are going to organize a cosy mulled wine evening. A go
 
 | Date | Activity|
 |-------|------------|
-|   01/04/2018    |    Easter egg hunt |
-|   06/04/2018    |    Easter crafting   |
-|   11/05/2018    |    Season kick-off     |
-|   13/07/2018    |    Water slide     |
-|   20/07/2018    |    Party     |
-|   27/07/2018    |    Adventure trail De Werf    |
-|   03/08/2018    |    Art at the camping    |
-|   09/08/2018    |    Circus show Shit Happens       |
-|   17/08/2018    |    Crafting     |
+|   28/12/2018    |    Mulled wine evening |
+
 
 
 

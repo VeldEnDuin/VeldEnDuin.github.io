@@ -40,15 +40,8 @@ Het jaar wordt afgesloten met een gezellige glühweinavond. Onder het genot van 
 
 | Datum | Activiteit |
 |-------|------------| 
-|   01/04/2018    |    Paaseierenraap       |
-|   06/04/2018    |    Paasknutselen     |
-|   11/05/2018    |    Seizoensstart     |
-|   13/07/2018    |    Waterglijbaan       |
-|   20/07/2018    |    Foute fuif      |
-|   27/07/2018    |    Avonturenparcours De Werf     |
-|   03/08/2018    |    Kunst op de camping     |
-|   09/08/2018    |    Circusact Shit Happens       |
-|   17/08/2018    |    Knutselen      |
+|   28/12/2018    |    Glühweinavond       |
+
 
 
 ## Animatie Bredene en omgeving
