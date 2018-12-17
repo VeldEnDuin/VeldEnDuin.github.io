@@ -19,17 +19,25 @@ insert:
 
 ## Openingsuren receptie
 
-PERIODE                         | OPENINGSUREN       | 
-:------------------------------:|:-----------:|
-paasvakantie<br>verlengde weekends in mei en juni<br>juli en augustus               |09u00 - 12u00<br>13u30 - 17u30
-15 maart tot 15 november        |09u00 - 12u00<br>13u30 - 16u00<br>gesloten: woensdag- en zondagmiddag
-15 november tot 15 maart        |bereikbaar na afspraak       
+<B>15/03 - 15/11</B>
+- maandag tot en met zaterdag + zondagen juli en augustus 
+    - 09u00 - 12u00
+    - 13u30 - 17u00
+- alle andere zondagen
+    - 09u00 - 12u00
+    
+<B>15/11 - 15/03</B>
+- maandag tot en met zaterdag
+    - 09u00 - 12u00
+- zondag
+    - gesloten
 
 
 De camping is steeds toegankelijk voor de eigenaars van een chalet, 
 caravan of vaste trekkersplaats.
 
-Huurders zijn ook steeds welkom. Buiten de openingsuren wordt er afgesproken voor het ophalen en inleveren van de sleutel.
+Wenst u buiten deze openingsuren aan te komen? Gelieve dan vooraf te bellen of mailen om verder af te spreken.
+
 
 
 ## Wegbeschrijving auto

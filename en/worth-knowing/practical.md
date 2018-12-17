@@ -19,16 +19,23 @@ insert:
 
 ## Opening hours reception
 
-PERIOD                         | OPENING HOURS     | 
-:------------------------------:|:-----------:|
-Easter holidays<br>long weekends in May and June<br>July and August               |09.00 hrs – 12.00 hrs<br>13.30 hrs – 17.30 hrs
-15 March to 15 November          |09.00 hrs – 12.00 hrs<br>13.30 hrs – 16.00 hrs<br>closed: Wednesday and Sunday afternoons
-15 November to 15 March        |by appointment 
+<B>15/03 - 15/11</B>
+- monday until saturday + sundays July & August
+    - 09u00 - 12u00
+    - 13u30 - 17u00 
+- all other sundays
+    - 09u00 - 12u00 
+    
+<B>15/11 - 15/03</B>
+- monday until saturday
+    - 09u00 - 12u00 
+- sunday
+    - closed
 
 
 The campsite is always accessible for owners of a chalet, a caravan or a fixed hiking pitch.
 
-Tenants are always welcome too. After opening hours key pick up arrangements can be made by previous appointment.
+Would you like to arrive outside these opening hours? Then please call or email beforehand to make other arrangements.
 
 
 ## Directions by car

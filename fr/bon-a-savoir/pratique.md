@@ -19,17 +19,25 @@ insert:
 
 ## Horaires de la réception
 
-PÉRIODE                         | HEURES D’OUVERTURE        | 
-:------------------------------:|:-----------:|
-Vacances de Pâques <br>week-ends prolongés de mai et juin<br>juillet et août               |9h00 - 12h00<br>13h30 - 17h30
-Du 15 mars au 15 novembre        |9h00 - 12h00<br>13h30 - 16h00<br>fermée: le mercredi après-midi et le dimanche après-midi
-Du 15 novembre au 15 mars        |accueil sur rendez-vous      
+<B>15/03 - 15/11</B>
+- lundi au samedi + dimanches juillet et août
+    - 09h00 - 12h00
+    - 13h30 - 17h00
+- tous les autres dimanches
+    - 09h00 - 12h00
+    
+<B>15/11 - 15/03</B>
+- lundi au samedi
+    - 09h00 - 12h00
+- dimanche
+    - fermée
+
 
 
 Le camping est accessible en permanence aux propriétaires de chalet, 
 de caravane ou d’emplacement de camping fixe.
 
-Les locataires sont toujours les bienvenus eux aussi. En dehors des heures d’ouverture, il convient de prendre rendez-vous pour la remise et la restitution des clés.
+Vous souhaitez venir en dehors de ces heures d’ouverture? Téléphonez à l’avance ou envoyez-nous un e-mail pour prendre rendez-vous.
 
 
 ## Itinéraire si vous venez en voiture

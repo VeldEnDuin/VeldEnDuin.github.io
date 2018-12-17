@@ -20,16 +20,24 @@ insert:
 
 ## Öffnungszeiten Rezeption
 
-ZEITRAUM                        | ÖFFNUNGSZEITEN      | 
-:------------------------------:|:-----------:|
-Osterferien<br>verlängerte Wochenenden in Mai und Juni<br>Juli und August               |09:00–12:00 Uhr<br>13:30–17:30 Uhr
-15. März bis 15. November        |09:00–12:00 Uhr<br>13:30–16:00 Uhr<br>geschlossen: Mittwoch- und Sonntagnachmittag
-15. November bis 15. März        |erreichbar nach Absprache     
+<B>15/03 - 15/11</B>
+- Montag bis Samstag + Sonntage Juli & August
+    - 09:00 - 12:00 Uhr
+    - 13:30 - 17:00 Uhr
+- alle anderen Sonntage
+    - 09:00 - 12:00 Uhr
+    
+<B>15/11 - 15/03</B>
+- Montag bis Samstag
+    - 09:00 - 12:00 Uhr
+- Sonntag
+    - geschlossen
+
 
 
 Der Campingplatz ist stets zugänglich für die Eigentümer eines Chalets Wohnwagens oder Dauerstandplatzes.
 
-Auch Mieter sind immer willkommen. Außerhalb der Öffnungszeiten treffen wir eine Vereinbarung für das Abholen und Abgeben des Schlüssels.
+Möchten Sie außerhalb dieser Öffnungszeiten ankommen? Rufen Sie dann bitte vorher an oder schreiben Sie uns eine E-Mail, um die Details zu besprechen.
 
 
 ## Wegbeschreibung Auto

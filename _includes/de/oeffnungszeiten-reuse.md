@@ -1,9 +1,16 @@
 
 ## Öffnungszeiten Rezeption
 
-ZEITRAUM                        | ÖFFNUNGSZEITEN 
-:------------------------------:|:-------------------------------------------:
-Osterferien<br>verlängerte Wochenenden Mai und Juni<br>Juli und August  | 09:00 - 12:00<br>13:30 - 17:30
-15. März bis 15. November       |09:00 - 12:00<br>13:30 - 16:00<br>geschlossen: Mittwochnachmittag und Sonntagnachmittag
-15 November bis 15 März         |erreichbar nach Absprache                     
+<B>15/03 - 15/11</B>
+- Montag bis Samstag + Sonntage Juli & August
+    - 09:00 - 12:00 Uhr
+    - 13:30 - 17:00 Uhr
+- alle anderen Sonntage
+    - 09:00 - 12:00 Uhr
+    
+<B>15/11 - 15/03</B>
+- Montag bis Samstag
+    - 09:00 - 12:00 Uhr
+- Sonntag
+    - geschlossen            
                              
