@@ -9,7 +9,7 @@ preview:
     list:
         - "Abmessungen befestigter Boden 8x3m"
         - "befestigte Plätze mit Gras davor"
-        - "Servicestation "
+        - "Servicestation"
         - "Nahe bei Sanitäranlagen"
 images:
     - /img/overnachten/trekkers-tre-10x8/tre10x8-01.jpg

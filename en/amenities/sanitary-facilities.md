@@ -20,7 +20,7 @@ remove:
 
 # Sanitary facilities
 
-All backpackers can make use of our sanitary facilities:
+All campers can make use of our sanitary facilities:
 
 * 5 showers
 * 8 toilets and urinals
@@ -28,5 +28,6 @@ All backpackers can make use of our sanitary facilities:
 * 2 toilets for guests with disabilities
 * 3 boxes for chemical toilets
 * 3 sinks
+* servicestation with discharge and water supply point
 
 **Price per coin :** € 1 for 6 minutes of warm water – coins available at the reception

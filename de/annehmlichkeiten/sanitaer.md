@@ -28,5 +28,6 @@ Kurzzeitcamper können unsere Sanitäranlagen nutzen:
 * 2 Toiletten für Personen mit Behinderung
 * 3 Ausgussbecken für Chemietoiletten
 * 3 Abwaschbecken
+* Servicestation mit Abwasserentsorgungs- und Wasserzapfstelle
 
 **Preis Duschmarke:** € 1 für 6 Minuten warmes Wasser – Marken an der Rezeption erhältlich.
