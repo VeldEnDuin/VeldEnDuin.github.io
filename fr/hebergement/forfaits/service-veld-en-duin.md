@@ -39,7 +39,7 @@ Nous vous proposons ce service afin de vous permettre de profiter pleinement de 
 - disponible à la réservation toute l’année
 
 
-## Prix 2018
+## Prix 2019
 
 TYPE D'HÉBERGEMENT  | PRIX
 :------------------:|:-----------             

@@ -39,7 +39,7 @@ To enjoy your stay even more, we offer you the following service package. Make t
 - the whole year through available
 
 
-## Prices 2018
+## Prices 2019
 
 TYPE OF RENTAL       | PRICE
 :------------------:|:-----------             

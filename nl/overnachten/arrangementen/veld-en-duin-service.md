@@ -36,7 +36,7 @@ Om optimaal te kunnen genieten van uw verblijf, bieden wij dit servicepakket aan
 - het hele jaar door boekbaar
 
 
-## Prijzen 2018
+## Prijzen 2019
 
 VERHUURTYPE         | PRIJS
 :------------------:|:-----------          

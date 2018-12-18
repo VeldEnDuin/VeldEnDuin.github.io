@@ -39,7 +39,7 @@ Damit Sie Ihren Aufenthalt optimal genießen können, bieten wir Ihnen dieses Se
 - Ganzjährig buchbar
 
 
-## Preise 2018
+## Preise 2019
 
 UNTERKUNFTSTYP         | PREIS
 :------------------:|:-----------             

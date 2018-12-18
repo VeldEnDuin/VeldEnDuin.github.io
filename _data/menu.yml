@@ -65,10 +65,7 @@
     - linkcode: arrangementen
       submenu:
         - linkcode: arrangementen
-        - linkcode: 7_plus_1
-        - linkcode: 14_plus_2
         - linkcode: veld_duin_service
-        - linkcode: sauna_arrangement
         - linkcode: kadobon
 
 
