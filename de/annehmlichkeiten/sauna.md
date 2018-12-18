@@ -32,6 +32,3 @@ Unser Saunaraum bietet folgende Annehmlichkeiten:
 - Wellnessprodukte (Peelingsalz und Bodylotion)
 
 **Preis Saunamiete**: € 30 für 3 Stunden.
-
-
-Schauen Sie auch unser [Sauna Angebot][sauna_arrangement.de] an!

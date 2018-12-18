@@ -32,6 +32,3 @@ Our sauna room consists of:
 - wellness products (salt scrub and body lotion)
 
 **Private hire**: € 30 for 3 hours.
-
-
-Also check out or [sauna offer] [sauna_arrangement.en]!
