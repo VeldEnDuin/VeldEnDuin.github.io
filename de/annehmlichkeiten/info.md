@@ -40,6 +40,9 @@ Wir informieren Sie gern darüber, was in der Umgebung so alles zu erleben ist. 
 
 - Auf unserer Webseite finden Sie eine ausführliche Übersicht über diverse, in praktische Rubriken unterteilte Aktivitäten
 
+## Campingzeitung
+
+- Jede Saison bringen wir eine Campingzeitung heraus. Darin finden Sie die Animationsprogramme von Veld & Duin und der Küste, Tipps für unterhaltsame Ausflüge und eine Spielerubrik
 
 ## Tourismusamt
 

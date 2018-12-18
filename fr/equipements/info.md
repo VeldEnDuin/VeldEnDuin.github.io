@@ -40,6 +40,9 @@ Nous vous tenons informés des activités et événements organisés dans la ré
 
 - notre site présente en détail sous forme de rubriques toutes sortes d'activités
 
+## Le journal du camping
+
+- Chaque saison, nous publions le Journal du Camping. Vous y trouverez le programme d’animation de Veld & Duin à la côte, mais aussi des conseils pour de chouettes excursions et une rubrique jeux
 
 ## Office du tourisme
 

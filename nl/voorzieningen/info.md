@@ -40,6 +40,10 @@ We informeren u graag over wat er in de omgeving zoal te beleven is. Dit doen we
 
 - op onze site vindt u een uitgebreid overzicht van allerhande activiteiten, handig onderverdeeld in rubrieken
 
+## Campingkrant
+
+- per seizoen brengen we een campingkrant uit, hierin vindt u het animatieprogramma van Veld & Duin en de kust, tips voor leuke uitstapjes en een spelletjesrubriek
+
 
 ## Dienst voor Toerisme
 
