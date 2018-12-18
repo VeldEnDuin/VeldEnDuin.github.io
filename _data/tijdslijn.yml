@@ -448,7 +448,34 @@ items:
       - /img/tijdslijn/2017/tentoonstelling-06.jpg
       - /img/tijdslijn/2017/tentoonstelling-07.jpg
 
+  - date: 2018-01-01
+    label: 2018
+    title:
+      nl: "Laureaat West-Vlaamse Toerismeprijzen"
+      fr: "Lauréat West-Vlaamse Toerismeprijzen"
+      de: "Laureat West-Vlaamse Toerismeprijzen"
+      en: "Laureate West-Vlaamse Toerismeprijzen"
+    description:
+      nl: "Veld & Duin werd op 25 september laureaat in de categorie Beste Toeristische Ondernemer Kust. Een opsteker voor het hele team en een extra motivatie om te blijven vernieuwen en investeren om onze gasten een fijn verblijf te bezorgen."
+      fr: "Le 25 septembre Veld & Duin est devenu lauréat dans la catégorie ‘meilleur entrepreneur du tourisme’. Une bonne motivation pour toute l’équipe pour continuer à innover et investir àfin de donner nos clients un bon séjour."
+      de: "Am 25. September wurde Veld & Duin Laureat in der Kategorie ‘Bester Touristikunternehmer’. Eine Motivation fürs ganze Team um weiter zu innovieren und investieren um unsere Gäste einen schönen Aufenthalt zu bieten."
+      en: "On 25 September 2018 Veld & Duin became laureate in the category ‘best entrepreneur in tourism’. A great motivation for the whole team to keep innovating and investing to give our guests a pleasant stay."
+    images:
+      - /img/nieuws/20180925-toerismeprijzen-01.jpg
+      - /img/nieuws/20180925-toerismeprijzen-02.jpg
+      - /img/nieuws/20180925-toerismeprijzen-03.jpg
+      - /img/nieuws/20180925-toerismeprijzen-04.jpg
+      - /img/nieuws/20180925-toerismeprijzen-05.jpg
 
+  - date: 2018-12-31
+    label: 2018 - 2019
+    title:
+      nl: "Aanleg 13 nieuwe percelen."
+      fr: "Aménagement de 13 nouvelles parcelles."
+      de: "Anlage 13 neuer Parzellen."
+      en: "Construction of 13 new spaces."
+    images:
+      - /img/tijdslijn/2018/nieuwepercelen.jpg
 
 
 
