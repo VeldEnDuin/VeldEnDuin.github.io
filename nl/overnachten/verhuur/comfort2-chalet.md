@@ -4,7 +4,7 @@ title: Chalet Comfort 2
 preview: 
     title: Chalet Comfort 2
     button:
-        price: 150
+        price: 99
         for: 2 nachten
     list:
         - "gezelligheid voor 2"
@@ -61,25 +61,7 @@ Even alleen komen uitwaaien of met z'n tweetjes? In deze chalet is het heerlijk 
 
 - chalet voorzien voor 2 personen
 - 1 hond toegelaten - geen gevaarlijke rassen
-- niet boekbaar tussen 15/11 en 15/3
-
-## Prijzen 2018
-
-PERIODE                |TUSSENSEIZOEN | HOOGSEIZOEN  |
-:---------------------:|:------------:|:------------:|
-2 nachten              |€ 150         |              |    
-extra nacht            |€ 51         |              |
-midweek (ma-vrij)      |€ 210         |              |
-verlengd weekend (3 n) |€ 210        |              |
-7 nachten              |€ 360         |€ 515         | 
-extra nacht > 7 n       |€ 48          |€ 73          | 
-14 nachten             |€ 665         |€ 970         | 
-
-## Periodes
-
-TUSSENSEIZOEN      |    HOOGSEIZOEN|
-:--------------------:|:-----------------:|:-------------:|
- april tot juni, <br>september en oktober, <br>schoolvakanties, <br>verlengde weekends  | juli en augustus
+- niet boekbaar tussen 15/11 en 01/03
 
 ## Waarborg
 - € 50 - contant te betalen bij aankomst
@@ -89,7 +71,6 @@ TUSSENSEIZOEN      |    HOOGSEIZOEN|
 - internet voor 2 toestellen
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
-
 
 ## Extra's
 

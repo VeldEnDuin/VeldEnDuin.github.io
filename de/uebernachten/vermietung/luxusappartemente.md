@@ -4,7 +4,7 @@ title: Luxusappartement
 preview: 
     title: Luxusappartement
     button:
-        price: 185
+        price: 138
         for: 2 Nächte
     list:
         - "5-6 Personen"
@@ -69,25 +69,7 @@ Diese neuen Luxusappartements liegen über der Rezeption und bieten einen herrli
 - Appartement 2. Stock: höchstens 6 Personen
 - Haustiere nicht zugelassen, jedoch möglich in Chalets oder Caravans
 - kein Aufzug
-- Ganzjährig buchbar
-
-## Preise 2018
-
-ZEITRAUM            | NACHSAISON | NEBENSAISON | HOCHSAISON |
-:------------------:|:-----------:|:-------------:|:-----------:|
-2 Nächte           |€ 185        |€ 205          |       
-Zus. Nacht         |€ 62         |€ 70           |           
-Midweek (Mon.-Fr.)   |€ 260        |€ 290          |
-Verl. Wochenende (3 N.)   |             |€ 290          |
-7 Nächte           |€ 440        |€ 500          | € 715
-Zus. Nacht > 7 N.   |€ 54         |€ 67           | € 101
-14 Nächte          |€ 780       |€ 920          | € 1350
-
-## Zeiträume
-
-NACHSAISON           |NEBENSAISON      |    HOCHSAISON|
-:--------------------:|:-----------------:|:-------------:|
-November bis März<br>ausgenommen Schulferien <br>und verlängerte Wochenenden | April bis Juni, <br>September und Oktober, <br>Schulferien, <br>verlängerte Wochenenden   | Juli und August
+- keine Vermietung möglich in folgenden Zeiträumen 15/01 - 01/03 und 15/11 - 15/12
 
 ## Kaution
 
@@ -98,7 +80,7 @@ November bis März<br>ausgenommen Schulferien <br>und verlängerte Wochenenden |
 - Internet für 2 Geräte
 - Parkplatz für 1 Auto
 - Verbrauch von Wasser und Strom
-- **Ausnahme**: Verbrauch Strom ist exklusive ab 4 Nächte von 1/11. - 31/3.  
+- **Ausnahme** Energiekostenpauschale 15/12 - 15/01: € 9 / Nacht
 
 ## Extras
 

@@ -4,7 +4,7 @@ title: Chalet Comfort 4 Plus
 preview: 
     title: Chalet comfort 4 +
     button:
-        price: 160
+        price: 123
         for: 2 Nächte
     list:
         - "4 Personen"
@@ -62,25 +62,7 @@ Nach einem herrlichen Tag am Strand oder einem Ausflug in die Umgebung lockt die
 
 - Chalet vorgesehen für 4 Personen
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
-- Ganzjährig buchbar
-
-## Preise 2018
-
-ZEITRAUM            | NACHSAISON | NEBENSAISON | HOCHSAISON |
-:------------------:|:-----------:|:-------------:|:-----------:|
-2 Nächte           |€ 160       |€ 185          |       
-Zus. Nacht         |€ 55       |€ 62           |           
-Midweek (Mon.-Fr.)   |€ 230        |€ 260          |
-Verl. Wochenende (3 N.)   |             |€ 260          |
-7 Nächte           |€ 390        |€ 445          | € 630
-Zus. Nacht > 7 N.   |€ 48        |€ 59           | € 90
-14 Nächte          |€ 690        |€ 815          | € 1195
-
-## Zeiträume
-
-NACHSAISON           |NEBENSAISON      |    HOCHSAISON|
-:--------------------:|:-----------------:|:-------------:|
-November bis März<br>ausgenommen Schulferien <br>und verlängerte Wochenenden | April bis Juni, <br>September und Oktober, <br>Schulferien, <br>verlängerte Wochenenden   | Juli und August
+- keine Vermietung möglich in folgenden Zeiträumen 15/01 - 01/03 und 15/11 - 15/12
 
 ## Kaution
 
@@ -91,7 +73,7 @@ November bis März<br>ausgenommen Schulferien <br>und verlängerte Wochenenden |
 - Internet für 2 Geräte
 - Parkplatz für 1 Auto
 - Verbrauch von Gas, Wasser und Strom
-- **Ausnahme**: Verbrauch Strom und Gas ist exklusive ab 4 Nächte von 1/11. - 31/3.  
+- **Ausnahme** Energiekostenpauschale 15/12 - 15/01: € 9 / Nacht
 
 ## Extras
 

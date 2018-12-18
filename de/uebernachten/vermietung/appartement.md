@@ -4,7 +4,7 @@ title: Appartement Comfort 4 Plus
 preview: 
     title: Appartement
     button:
-        price: 160
+        price: 123
         for: 2 Nächte
     list:
         - "4-5 Personen"
@@ -62,25 +62,7 @@ Die Appartements liegen neben dem Campingplatz. So genießen Sie den Platz eines
 - Haustiere nicht zugelassen, jedoch möglich in Chalets oder Caravans
 - Aufzug vorhanden
 - Gemeinsamer Fahrradraum
-- Ganzjährig buchbar
-
-## Preise 2018
-
-ZEITRAUM            | NACHSAISON | NEBENSAISON | HOCHSAISON |
-:------------------:|:-----------:|:-------------:|:-----------:|
-2 Nächte           |€ 160       |€ 185          |       
-Zus. Nacht         |€ 55       |€ 62           |           
-Midweek (Mon.-Fr.)   |€ 230        |€ 260          |
-Verl. Wochenende (3 N.)   |             |€ 260          |
-7 Nächte           |€ 390        |€ 445          | € 630
-Zus. Nacht > 7 N.   |€ 48         |€ 59           | € 90
-14 Nächte          |€ 690        |€ 815         | € 1195
-
-## Zeiträume
-
-NACHSAISON           |NEBENSAISON      |    HOCHSAISON|
-:--------------------:|:-----------------:|:-------------:|
-November bis März<br>ausgenommen Schulferien <br>und verlängerte Wochenenden | April bis Juni, <br>September und Oktober, <br>Schulferien, <br>verlängerte Wochenenden   | Juli und August
+- keine Vermietung möglich in folgenden Zeiträumen 15/01 - 01/03 und 15/11 - 15/12
 
 ## Kaution
 - Internet für 2 Geräte
@@ -91,7 +73,7 @@ November bis März<br>ausgenommen Schulferien <br>und verlängerte Wochenenden |
 
 - Parkplatz für 1 Auto
 - Verbrauch von Wasser und Strom
-- **Ausnahme**: Verbrauch Strom ist exklusive ab 4 Nächte von 1/11. - 31/3.  
+- **Ausnahme** Energiekostenpauschale 15/12 - 15/01: € 9 / Nacht
 
 ## Extras
 

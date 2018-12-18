@@ -4,7 +4,7 @@ title: Chalet Confort 4
 preview: 
     title: Chalet confort 4 
     button:
-        price: 150
+        price: 113
         for: 2 nuits
     list:
         - "4 personnes"
@@ -60,25 +60,7 @@ Ces chalets sont situés à l’entrée du camping, à proximité du terrain de 
 
 - chalet d’une capacité de 4 personnes
 - chiens admis – max. 2 – pas de races dangereuses
-- disponible à la réservation toute l’année
-
-## Prix 2018
-
-PÉRIODE             |BASSE SAISON | MI-SAISON     | HAUTE SAISON|
-:------------------:|:-----------:|:-------------:|:-----------:|
-2 nuits                |€ 150     |€ 165          |    
-nuitée supplémentaire  |€ 50      |€ 57            |
-mid-week (lun-ven)     |€ 210     |€ 235          |
-week-end prolongé (3 n)|          |€ 235          |
-7 nuitées              |€ 355       |€ 405          | € 575
-nuitée supplémentaire > 7n |€ 44  |€ 54          | € 82
-14 nuitées             |€ 630     |€ 745          | € 1090
-
-## Périodes
-
-BASSE SAISON          |MI-SAISON          |    HAUTE SAISON|
-:--------------------:|:-----------------:|:-------------:|
-novembre à mars<br>à l'exception des vacances scolaires <br>et weekends prolongés | avril à juin, <br>septembre et octobre, <br>vacances scolaires, <br>week-ends prolongés   | juillet et août
+- pas de location possible entre 15/01 - 01/03 et 15/11 - 15/12
 
 ## Caution
 
@@ -89,7 +71,7 @@ novembre à mars<br>à l'exception des vacances scolaires <br>et weekends prolon
 - internet pour 2 appareils
 - parking 1 voiture
 - consommation gaz - eau - électricité 
-- **exception**: consommation de gaz et d'électricité est exclusive à partir de 4 nuits de 1/11 - 31/3
+- **exception** forfait pour les frais énergétiques 15/12 - 15/01: € 9 / nuit
 
 ## Suppléments
 

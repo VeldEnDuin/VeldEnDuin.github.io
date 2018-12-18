@@ -4,7 +4,7 @@ title: Apartment Comfort 4 Plus
 preview: 
     title: Apartment
     button:
-        price: 160
+        price: 123
         for: 2 nights
     list:
         - "4-5 persons"
@@ -62,25 +62,7 @@ The apartments are situated next to the campsite. This means that you can enjoy 
 - pets not allowed – possible in chalets or caravans
 - lift 
 - shared bike storage
-- bookable throughout the year
-
-## Prices 2018
-
-PERIOD             | OFF-SEASON | MID SEASON | HIGH SEASON |
-:------------------:|:-----------:|:-------------:|:-----------:|
-2 nights           |€ 160        |€ 185          |       
-extra night        |€ 55         |€ 62           |           
-midweek (mon-fri)   |€ 230        |€ 260          |
-long weekend (3 n)   |             |€ 260          |
-7 nights        |€ 390        |€ 445          | € 630
-extra night > 7 n    |€ 48         |€ 59           | € 90
-14 nights         |€ 690        |€ 815          | € 1195
-
-## Periods
-
-OFF-SEASON          |MID SEASON     |    HIGH SEASON|
-:--------------------:|:-----------------:|:-------------:|
-November until March<br>except for holidays <br>& long weekends | April until June, <br>September & October, <br>holidays, <br>long weekends  | July & August
+- no rental possible between 15/01 - 01/03 and 15/11 - 15/12
 
 ## Warranty
 
@@ -91,7 +73,7 @@ November until March<br>except for holidays <br>& long weekends | April until Ju
 - internet for 2 devices
 - parking 1 car
 - consumption water & electricity
-- **exception**: costs of electricity are excluded from 4 nights from 1/11 - 31/3
+- **exception** flat-rate energy cost 15/12 - 15/01: € 9 / night
 
 ## Extra Services
 

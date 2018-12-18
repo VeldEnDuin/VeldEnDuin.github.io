@@ -4,7 +4,7 @@ title: Caravane Confort 2
 preview: 
     title: Caravane Confort 2
     button:
-        price: 150
+        price: 99
         for: 2 nuits
     list:
         - "2 personnes"
@@ -63,25 +63,7 @@ Cette mini-caravane et son jardinet privé sont parfaitement adaptés amoureux d
 
 - en raison de la surface réduite, la caravane est louée pour max. deux personnes, malgré les deux chambres
 - petit chien admis mais veuillez tenir compte de l’espace réduit
-- pas de réservation possible entre le 15/11 et le 15/03
-
-## Prix 2018
-
-PÉRIODE                |MI-SAISON     | HAUTE SAISON |
-:---------------------:|:------------:|:------------:|
-2 nuits                |€ 150         |              |    
-nuitée supplémentaire  |€ 51          |              |
-mid-week (lun-ven)     |€ 210         |              |
-week-end prolongé (3 n)|€ 210         |              |
-7 nuitées              |€ 360         |€ 515         | 
-nuitée supplémentaire > 7n |€ 48          |€ 73         | 
-14 nuitées             |€ 665         |€ 970         | 
-
-## Périodes
-
-MI-SAISON      |    HAUTE SAISON|
-:--------------------:|:-----------------:|:-------------:|
- avril à juin, <br>septembre et octobre, <br>vacances scolaires, <br>week-ends prolongés  | juillet et août
+- pas de réservation possible entre le 15/11 et le 01/03
 
 ## Caution
 

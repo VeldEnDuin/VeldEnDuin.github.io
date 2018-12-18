@@ -4,7 +4,7 @@ title: Luxe Appartementen
 preview: 
     title: Luxe Appartement
     button:
-        price: 185
+        price: 138
         for: 2 nachten
     list:
         - "5-6 personen"
@@ -69,26 +69,7 @@ Gelegen boven de receptie bieden deze nieuwe en luxueuze appartementen een mooi 
 - appartement tweede verdieping: max 6 personen
 - huisdieren niet toegelaten - wel mogelijk in de chalets of caravans
 - geen lift
-- het hele jaar door boekbaar
-
-## Prijzen 2018
-
-
-PERIODE             | LAAGSEIZOEN | TUSSENSEIZOEN | HOOGSEIZOEN |
-:------------------:|:-----------:|:-------------:|:-----------:|
-2 nachten           |€ 185        |€ 205          |       
-extra nacht         |€ 62         |€ 70          |           
-midweek (ma-vrij)   |€ 260        |€ 290          |
-verlengd weekend (3 n)   |             |€ 290          |
-7 nachten           |€ 440        |€ 500          | € 715
-extra nacht > 7 n    |€ 54         |€ 67           | € 101
-14 nachten          |€ 780        |€ 920          | € 1350
-
-## Periodes
-
-LAAGSEIZOEN           |TUSSENSEIZOEN      |    HOOGSEIZOEN|
-:--------------------:|:-----------------:|:-------------:|
-november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni, <br>september en oktober, <br>schoolvakanties, <br>verlengde weekends   | juli en augustus
+- geen verhuur mogelijk  tussen 15/01 - 01/03 en 15/11 - 15/12
 
 ## Waarborg
 
@@ -99,7 +80,8 @@ november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | a
 - internet voor 2 toestellen
 - parking 1 auto
 - verbruik water en elektriciteit 
-- **uitzondering**: verbruik elektriciteit is exclusief bij huur vanaf 4 nachten van 1/11 - 31/3
+- **uitzondering** forfait energiekost 15/12 - 15/01: € 9 / nacht
+
 
 ## Extra's
 

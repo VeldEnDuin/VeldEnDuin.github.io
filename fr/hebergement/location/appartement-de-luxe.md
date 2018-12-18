@@ -4,7 +4,7 @@ title: Appartement de luxe
 preview: 
     title: Appartement de luxe
     button:
-        price: 185
+        price: 138
         for: 2 nuits
     list:
         - "5-6 personnes"
@@ -69,25 +69,7 @@ Situés au-dessus de la réception, ces nouveaux appartements luxueux offrent un
 - appartement deuxième étage: max. 6 personnes
 - animaux de compagnie non admis – admis dans les chalets ou caravanes
 - pas d’ascenseur
-- disponible à la réservation toute l’année
-
-## Prix 2018
-
-PÉRIODE             |BASSE SAISON | MI-SAISON     | HAUTE SAISON|
-:------------------:|:-----------:|:-------------:|:-----------:|
-2 nuits                |€ 185    |€ 205          |    
-nuitée supplémentaire  |€ 62      |€ 70            |
-mid-week (lun-ven)     |€ 260     |€ 290          |
-week-end prolongé (3 n)|          |€ 290          |
-7 nuitées              |€ 440       |€ 500          | € 715
-nuitée supplémentaire > 7n |€ 54  |€ 67           | € 101
-14 nuitées             |€ 780     |€ 920          | € 1350
-
-## Périodes
-
-BASSE SAISON          |MI-SAISON          |    HAUTE SAISON|
-:--------------------:|:-----------------:|:-------------:|
-novembre à mars<br>à l'exception des vacances scolaires <br>et weekends prolongés | avril à juin, <br>septembre et octobre, <br>vacances scolaires, <br>week-ends prolongés   | juillet et août
+- pas de location possible entre 15/01 - 01/03 et 15/11 - 15/12
 
 ## Caution
 
@@ -98,7 +80,7 @@ novembre à mars<br>à l'exception des vacances scolaires <br>et weekends prolon
 - internet pour 2 appareils
 - parking 1 voiture
 - consommation eau - électricité 
-- **exception**: consommation d'électricité est exclusive à partir de 4 nuits de 1/11 - 31/3
+- **exception** forfait pour les frais énergétiques 15/12 - 15/01: € 9 / nuit
 
 ## Suppléments
 

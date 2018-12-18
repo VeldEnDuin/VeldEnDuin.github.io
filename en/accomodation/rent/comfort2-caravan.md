@@ -4,7 +4,7 @@ title: Caravan Comfort 2
 preview: 
     title: Caravan Comfort 2
     button:
-        price: 150
+        price: 99
         for: 2 nights
     list:
         - "2 persons"
@@ -63,25 +63,7 @@ This mini-caravan with private garden is suitable for those who love being outdo
 
 - the caravan is suitable for 2 people because the space is limited
 - a small pet is allowed but keep in mind that the space is limited
-- not available between 15/11 and 15/3
-
-## Prices 2018
-
-PERIOD                 |MID SEASON    | HIGH SEASON  |
-:---------------------:|:------------:|:------------:|
-2 nights              |€ 150         |              |    
-extra night            |€ 51          |              |
-midweek (mon-fri)      |€ 210         |              |
-long weekend (3 n) |€ 210        |              |
-7 nights              |€ 360         |€ 515         | 
-extra night > 7 n       |€ 48          |€ 73          | 
-14 nights             |€ 665         |€ 970         | 
-
-## Periods
-
-MID SEASON      |    HIGH SEASON|
-:--------------------:|:-----------------:|:-------------:|
- April until June, <br>September & October, <br>holidays, <br>long weekends  | July & August
+- not available between 15/11 and 01/03
 
 ## Warranty
 

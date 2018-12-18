@@ -4,7 +4,7 @@ title: Chalet Confort 2
 preview: 
     title: Chalet Confort 2
     button:
-        price: 150
+        price: 99
         for: 2 nuits
     list:
         - "séjour agréable à 2"
@@ -61,25 +61,7 @@ Envie de vous ressourcer seul ou à deux? Vous vous sentirez comme à la maison 
 
 - chalet d’une capacité de 2 personnes
 - 1 chien admis – pas de races dangereuses
-- non disponible à la réservation du 15/11 au 15/03
-
-## Prix 2018
-
-PÉRIODE                |MI-SAISON     | HAUTE SAISON |
-:---------------------:|:------------:|:------------:|
-2 nuits                |€ 150         |              |    
-nuitée supplémentaire  |€ 51          |              |
-mid-week (lun-ven)     |€ 210         |              |
-week-end prolongé (3 n)|€ 210         |              |
-7 nuitées              |€ 360         |€ 515         | 
-nuitée supplémentaire > 7n |€ 48          |€ 73          | 
-14 nuitées             |€ 665         |€ 970        | 
-
-## Périodes
-
-MI-SAISON      |    HAUTE SAISON|
-:--------------------:|:-----------------:|:-------------:|
- avril à juin, <br>septembre et octobre, <br>vacances scolaires, <br>week-ends prolongés  | juillet et août
+- non disponible à la réservation du 15/11 au 01/03
 
 ## Caution
 
@@ -90,7 +72,6 @@ MI-SAISON      |    HAUTE SAISON|
 - internet pour 2 appareils
 - parking 1 voiture
 - consommation gaz - eau - électricité 
-
 
 ## Suppléments
 

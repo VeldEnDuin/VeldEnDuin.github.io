@@ -4,7 +4,7 @@ title: Caravan Comfort 2
 preview: 
     title: Caravan Comfort 2
     button:
-        price: 150
+        price: 99
         for: 2 nachten
     list:
         - "2 personen"
@@ -61,26 +61,7 @@ Deze mini-caravan met privé-tuintje is ideaal voor wie houdt van het buitenleve
 ## Goed om weten
 - gezien de beperkte oppervlakte wordt de caravan - ondanks de 2 slaapkamers - voor max 2 personen verhuurd
 - kleine hond toegelaten maar houd er rekening mee dat de woonruimte beperkt is
-- niet boekbaar tussen 15/11 en 15/3
-
-## Prijzen 2018
-
-
-PERIODE                |TUSSENSEIZOEN | HOOGSEIZOEN  |
-:---------------------:|:------------:|:------------:|
-2 nachten              |€ 150         |              |    
-extra nacht            |€ 51        |              |
-midweek (ma-vrij)      |€ 210         |              |
-verlengd weekend (3 n) |€ 210         |              |
-7 nachten              |€ 360        |€ 515         | 
-extra nacht > 7 n       |€ 48          |€ 73          | 
-14 nachten             |€ 665        |€ 970         | 
-
-## Periodes
-
-TUSSENSEIZOEN      |    HOOGSEIZOEN|
-:--------------------:|:-----------------:|:-------------:|
- april tot juni, <br>september en oktober, <br>schoolvakanties, <br>verlengde weekends  | juli en augustus
+- niet boekbaar tussen 15/11 en 01/03
 
 ## Waarborg
 - € 50 - contant te betalen bij aankomst

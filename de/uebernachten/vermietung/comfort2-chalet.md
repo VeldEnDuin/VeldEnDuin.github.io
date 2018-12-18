@@ -4,7 +4,7 @@ title: Chalet Comfort 2
 preview: 
     title: Chalet Comfort 2
     button:
-        price: 150
+        price: 99
         for: 2 Nächte
     list:
         - "Gemütlichkeit für 2"
@@ -61,25 +61,7 @@ Sie wollen sich ein wenig allein oder zu zweit den Wind um die Nase wehen lassen
 
 - Chalet vorgesehen für 2 Personen
 - 1 Hund zulässig – keine gefährliche Rassen
-- Nicht buchbar zwischen 15.11. und 15.3.
-
-## Preise 2018
-
-ZEITRAUM               |NEBENSAISON   | HOCHSAISON   |
-:---------------------:|:------------:|:------------:|
-2 Nächte              |€ 150        |              |    
-Zus. Nacht            |€ 51          |              |
-Midweek (Mo.-Fr.)      |€ 210         |              |
-Verl. Wochenende (3 N.) |€ 210         |              |
-7 Nächte              |€ 360         |€ 515        | 
-Zus. Nacht > 7 N.       |€ 48          |€ 73         | 
-14 Nächte             |€ 665         |€ 970         | 
-
-## Zeiträume
-
-NEBENSAISON      |    HOCHSAISON|
-:--------------------:|:-----------------:|:-------------:|
- April bis Juni, <br>September und Oktober, <br>Schulferien, <br>verlängerte Wochenenden  | Juli und August
+- Nicht buchbar zwischen 15.11. und 01.03.
 
 ## Kaution
 

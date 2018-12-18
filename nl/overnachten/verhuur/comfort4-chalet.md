@@ -4,7 +4,7 @@ title: Chalet Comfort 4
 preview: 
     title: Chalet comfort 4 
     button:
-        price: 150
+        price: 113
         for: 2 nachten
     list:
         - "4 personen"
@@ -60,25 +60,7 @@ Deze chalets liggen vooraan op de camping en dicht bij het speelplein. Ideaal du
 
 - chalet voorzien voor 4 personen
 - honden toegelaten - max 2 - geen gevaarlijke rassen
-- het hele jaar door boekbaar
-
-## Prijzen 2018
-
-PERIODE             | LAAGSEIZOEN | TUSSENSEIZOEN | HOOGSEIZOEN |
-:------------------:|:-----------:|:-------------:|:-----------:|
-2 nachten           |€ 150        |€ 165          |       
-extra nacht         |€ 50         |€ 57           |           
-midweek (ma-vrij)   |€ 210        |€ 235          |
-verlengd weekend (3 n)   |             |€ 235          |
-7 nachten           |€ 355        |€ 405          | € 575
-extra nacht > 7 n    |€ 44         |€ 54           | € 82
-14 nachten          |€ 630        |€ 745          | € 1090
-
-## Periodes
-
-LAAGSEIZOEN           |TUSSENSEIZOEN      |    HOOGSEIZOEN|
-:--------------------:|:-----------------:|:-------------:|
-november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni, <br>september en oktober, <br>schoolvakanties, <br>verlengde weekends | juli en augustus
+- geen verhuur mogelijk  tussen 15/01 - 01/03 en 15/11 - 15/12
 
 ## Waarborg
 
@@ -89,7 +71,7 @@ november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | a
 - internet voor 2 toestellen
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
-- **uitzondering**: verbruik gas en elektriciteit is exclusief bij huur vanaf 4 nachten van 1/11 - 31/3
+- **uitzondering** forfait energiekost 15/12 - 15/01: € 9 / nacht
 
 ## Extra's
 

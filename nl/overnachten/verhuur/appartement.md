@@ -4,7 +4,7 @@ title: Appartement Comfort 4 Plus
 preview: 
     title: Appartement
     button:
-        price: 160
+        price: 123
         for: 2 nachten
     list:
         - "4-5 personen"
@@ -60,26 +60,7 @@ De appartementen liggen net naast de camping. Zo geniet u van de ruimte van een 
 - huisdieren niet toegelaten - wel mogelijk in de chalets of caravans
 - lift voorzien
 - gemeenschappelijke ruimte voor fietsen
-- het hele jaar door boekbaar
-
-## Prijzen 2018
-
-
-PERIODE             | LAAGSEIZOEN | TUSSENSEIZOEN | HOOGSEIZOEN |
-:------------------:|:-----------:|:-------------:|:-----------:|
-2 nachten           |€ 160      |€ 185          |       
-extra nacht         |€ 55         |€ 62           |           
-midweek (ma-vrij)   |€ 230        |€ 260          |
-verlengd weekend (3 n)   |             |€ 260          |
-7 nachten           |€ 390        |€ 445          | € 630
-extra nacht > 7 n    |€ 48         |€ 59           | € 90
-14 nachten          |€ 690        |€ 815          | € 1195 
-
-## Periodes
-
-LAAGSEIZOEN           |TUSSENSEIZOEN      |    HOOGSEIZOEN|
-:--------------------:|:-----------------:|:-------------:|
-november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | april tot juni, <br>september en oktober, <br>schoolvakanties, <br>verlengde weekends  | juli en augustus
+- geen verhuur mogelijk  tussen 15/01 - 01/03 en 15/11 - 15/12
 
 ## Waarborg
 
@@ -90,7 +71,7 @@ november tot maart<br>uitgezonderd schoolvakanties <br>en verlengde weekends | a
 - internet voor 2 toestellen
 - parking 1 auto
 - verbruik water en elektriciteit 
-- **uitzondering**: verbruik elektriciteit is exclusief bij huur vanaf 4 nachten van 1/11 - 31/3
+- **uitzondering** forfait energiekost 15/12 - 15/01: € 9 / nacht
 
 ## Extra's
 

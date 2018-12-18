@@ -4,7 +4,7 @@ title: Caravan Comfort 2
 preview: 
     title: Caravan Comfort 2
     button:
-        price: 150
+        price: 99
         for: 2 Nächte
     list:
         - "2 Personen"
@@ -63,25 +63,7 @@ Dieser Miniwohnwagen mit Privatgärtchen ist ideal für Menschen, die sich gern 
 
 - Angesichts der geringen Fläche wird der Wohnwagen für höchstens 2 Personen vermietet, obwohl er 2 Schlafkammern hat
 - Ein kleiner Hund ist zulässig. Bitte beachten Sie jedoch, dass der Wohnraum nicht groß ist
-- Nicht buchbar zwischen 15.11. und 15.3.
-
-## Preise 2018
-
-ZEITRAUM               |NEBENSAISON   | HOCHSAISON   |
-:---------------------:|:------------:|:------------:|
-2 Nächte              |€ 150         |              |    
-Zus. Nacht            |€ 51        |              |
-Midweek (Mo.-Fr.)      |€ 210        |              |
-Verl. Wochenende (3 N.) |€ 210        |              |
-7 Nächte              |€ 360        |€ 515         | 
-Zus. Nacht > 7 N.       |€ 48          |€ 73         | 
-14 Nächte             |€ 665        |€ 970         | 
-
-## Zeiträume
-
-NEBENSAISON      |    HOCHSAISON|
-:--------------------:|:-----------------:|:-------------:|
- April bis Juni, <br>September und Oktober, <br>Schulferien, <br>verlängerte Wochenenden  | Juli und August
+- Nicht buchbar zwischen 15.11. und 01.03.
 
 ## Kaution
 
