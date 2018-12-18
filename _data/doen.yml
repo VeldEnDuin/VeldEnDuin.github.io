@@ -48,25 +48,26 @@ items:
     de: Kulturhaus – Ostende
     en: cultural center - Ostend
 - ranking: 500
+  location: 50.851193, 2.885803
   subgroups:
   - cult
   images:
   - "/img/doen/flandersfields.jpg"
   link:
-    nl: http://www.flandersfields.be/nl
-    fr: http://www.flandersfields.be/fr
-    de: http://www.flandersfields.be/de
-    en: http://www.flandersfields.be/en
+    nl: http://www.inflandersfields.be/
+    fr: http://www.inflandersfields.be/fr
+    de: http://www.inflandersfields.be/de
+    en: http://www.inflandersfields.be/en
   title:
-    nl: 100 jaar Groote Oorlog
-    fr: Le centenaire de la Grande Guerre
-    de: 100 Jahre Erster Weltkrieg
-    en: The Great War Centenary
+    nl: In Flanders Fields Museum
+    fr: Musée In Flanders Fields
+    de: Museum In Flanders Fields
+    en: In Flanders Fields museum
   caption:
-    nl: herdenking WO I
-    fr: commémoration de la Première Guerre mondiale
-    de: Gedenken an den Ersten Weltkrieg
-    en: commemoration World War I
+    nl: WO I museum
+    fr: musée de la Première Guerre mondiale
+    de: Museum des Ersten Weltkriegs
+    en: World War I museum
 - ranking: 280
   location: 51.239829, 2.934340
   subgroups:
@@ -211,10 +212,10 @@ items:
     de: Gardens of Bredene
     en: Gardens of Bredene
   caption:
-    nl: parkfeest 't Paelsteenveld - Bredene - 25/8/18
-    fr: fête dans le parc ‘t Paelsteenveld – Bredene - 25/8/18
-    de: Parkfest 't Paelsteenveld – Bredene - 25/8/18
-    en: festival in Paelsteenveld park - 't Paelsteenveld - Bredene - 25/8/18
+    nl: parkfeest 't Paelsteenveld - Bredene
+    fr: fête dans le parc ‘t Paelsteenveld – Bredene
+    de: Parkfest 't Paelsteenveld – Bredene
+    en: festival in Paelsteenveld park - 't Paelsteenveld - Bredene
 - ranking: 230
   location: 51.231234, 2.913555
   subgroups:
@@ -232,10 +233,10 @@ items:
     de: Theater aan Zee
     en: Theater aan Zee
   caption:
-    nl: theaterfestival - Oostende
-    fr: festival de théâtre – Ostende
-    de: Theaterfestival – Ostende
-    en: theater festival - Ostend
+    nl: theaterfestival - Oostende - 31/07/19 - 10/08/19
+    fr: festival de théâtre – Ostende - 31/07/19 - 10/08/19
+    de: Theaterfestival – Ostende - 31/07/19 - 10/08/19
+    en: theater festival - Ostend - 31/07/19 - 10/08/19
 - ranking: 100
   location: 51.278736, 3.034791
   subgroups:
@@ -253,10 +254,10 @@ items:
     de: Trammelant
     en: Trammelant
   caption:
-    nl: Belle Epoquefeest - De Haan
-    fr: fête sous le thème de la Belle Époque
-    de: Belle-Epoque-Fest – De Haan
-    en: Belle Epoque event - De Haan
+    nl: Belle Epoquefeest - De Haan - 03/08/2019
+    fr: fête sous le thème de la Belle Époque - 03/08/2019
+    de: Belle-Epoque-Fest – De Haan - 03/08/2019
+    en: Belle Epoque event - De Haan - 03/08/2019
 - ranking: 290
   location: 51.315091, 3.131080
   subgroups:
@@ -274,10 +275,10 @@ items:
     de: Blumenkorso
     en: Bloemencorso
   caption:
-    nl: bloemenstoet - Blankenberge - 26/8/18
-    fr: cortège de chars fleuris – Blankenberge – 26/8/18
-    de: Blumenumzug – Blankenberge – 26.8.18
-    en: flower Parade - Blankenberge - 26/8/18
+    nl: bloemenstoet - Blankenberge - 25/08/19
+    fr: cortège de chars fleuris – Blankenberge - 25/08/19
+    de: Blumenumzug – Blankenberge - 25/08/19
+    en: flower Parade - Blankenberge - 25/08/19
 - ranking: 240
   location: 51.318481, 3.146007
   subgroups:
@@ -1115,10 +1116,10 @@ items:
     de: Oostende voor Anker
     en: Oostende voor Anker
   caption:
-    nl: maritiem festival - Oostende
-    fr: festival maritime - Ostende
-    de: maritimes Festival - Oostende
-    en: maritime festival - Ostend
+    nl: maritiem festival - Oostende - 23/05/19 - 26/05/19
+    fr: festival maritime - Ostende - 23/05/19 - 26/05/19
+    de: maritimes Festival - Oostende - 23/05/19 - 26/05/19
+    en: maritime festival - Ostend - 23/05/19 - 26/05/19
 - ranking: 345
   location: 51.340946, 3.240212
   subgroups:
@@ -1126,20 +1127,20 @@ items:
   images:
   - "/img/doen/kno-kneistival.jpg"
   link:
-    nl: http://www.kneistival.be/
-    fr: http://www.kneistival.be/
-    de: http://www.kneistival.be/
-    en: http://www.kneistival.be/
+    nl: https://www.facebook.com/Kneistival/
+    fr: https://www.facebook.com/Kneistival/
+    de: https://www.facebook.com/Kneistival/
+    en: https://www.facebook.com/Kneistival/
   title:
     nl: Kneistival
     fr: Kneistival
     de: Kneistival
     en: Kneistival
   caption:
-    nl: gratis pop & rock festival - Knokke-Heist
-    fr: festival pop & rock gratuit - Knokke-Heist
-    de: kostenloses Pop & Rock Festival - Knokke-Heist
-    en: free pop & rock festival - Knokke-Heist
+    nl: gratis pop & rock festival - Knokke-Heist - 16/07/19 - 21/07/19
+    fr: festival pop & rock gratuit - Knokke-Heist - 16/07/19 - 21/07/19
+    de: kostenloses Pop & Rock Festival - Knokke-Heist - 16/07/19 - 21/07/19
+    en: free pop & rock festival - Knokke-Heist - 16/07/19 - 21/07/19
 - ranking: 55
   location: 51.230025, 2.919333
   subgroups:
@@ -1180,10 +1181,10 @@ items:
     de: Sandskulpturenfestival
     en: Sand sculpture festival
   caption:
-    nl: Oostende - 23/6-16/9/18
-    fr: Ostende - 23/6-16/9/18
-    de: Oostende - 23/6-16/9/18
-    en: Ostend - 23/6-16/9/18
+    nl: Oostende
+    fr: Ostende
+    de: Oostende
+    en: Ostend
 - ranking: 155
   location: 51.055099, 3.720985
   subgroups:
@@ -1201,10 +1202,10 @@ items:
     de: Gentse feesten
     en: Gentse feesten
   caption:
-    nl: Cultuurfestival - Gent
-    fr: Fête culturel - Gand
-    de: Kulturellen Fest - Gent
-    en: Cultural festival - Ghent
+    nl: Cultuurfestival - Gent - 19/07/19 - 28/07/19
+    fr: Fête culturel - Gand - 19/07/19 - 28/07/19
+    de: Kulturellen Fest - Gent - 19/07/19 - 28/07/19
+    en: Cultural festival - Ghent - 19/07/19 - 28/07/19
 - ranking: 115
   location: 51.229485, 2.921105
   subgroups:
@@ -1226,26 +1227,27 @@ items:
     fr: Fête culturel - Ostende
     de: Kulturellen Fest - Oostende
     en: Cultural festival - Ostend
-- ranking: 60
+- ranking: 107
+  location: 51.238002, 2.939050
   subgroups:
-  - cult
+  - kids
   images:
-  - "/img/doen/beaufort.jpg"
+  - "/img/doen/hangtime.jpg"
   link:
-    nl: https://www.beaufort2018.be/nl
-    fr: https://www.beaufort2018.be/fr
-    de: https://www.beaufort2018.be/de
-    en: https://www.beaufort2018.be/en
+    nl: https://www.hangtime.be/
+    fr: https://www.hangtime.be/
+    de: https://www.hangtime.be/
+    en: https://www.hangtime.be/
   title:
-    nl: Beaufort 2018
-    fr: Beaufort 2018
-    de: Beaufort 2018
-    en: Beaufort 2018
+    nl: Hangtime
+    fr: Hangtime
+    de: Hangtime
+    en: Hangtime
   caption:
-    nl: Kunstfestival - De Kust - 30/3 - 30/9/18
-    fr: Festival culturel - La côte - 30/3 - 30/9/18
-    de: Kunstfestival - Die Küste - 30/3 - 30/9/18
-    en: Art festival - The Coast - 30/3 - 30/9/18
+    nl: Trampolinepark - Oostende
+    fr: Parc de trampoline - Ostende
+    de: Trampolinpark - Oostende
+    en: Trampoline park - Ostend
 - ranking: 03
   location: 51.228602, 2.914001
   subgroups:
