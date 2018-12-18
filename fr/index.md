@@ -7,7 +7,7 @@ insert:
  
 select:
     - verhuur
-    - jubileumboek
+    - nieuwepercelen
     
 class:
     select:

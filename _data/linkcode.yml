@@ -142,11 +142,11 @@ wedstrijd:
     fr: /fr/hebergement/concours.html
     de: /de/uebernachten/preisausschreiben.html
     en: /en/accomodation/competition.html
-jubileumboek:
-    nl: /nl/jubileumboek.html
-    fr: /fr/jubileumboek.html
-    de: /de/jubileumboek.html
-    en: /en/jubileumboek.html
+nieuwepercelen:
+    nl: /nl/nieuwepercelen.html
+    fr: /fr/nouvellesparcelles.html
+    de: /de/neueparzellen.html
+    en: /en/newspaces.html
 
 
 # [2.1] submenu overnachten -> verhuur
