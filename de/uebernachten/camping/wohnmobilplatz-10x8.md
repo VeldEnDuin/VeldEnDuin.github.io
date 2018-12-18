@@ -1,27 +1,31 @@
 ---
 layout: page
-title: Campingplatz 10x8
+title: Wohnmobilplatz 10x8
 preview: 
-    title: Campingplatz 10x8
+    title: Wohnmobilplatz 10x8
     button:
         price: 23
         for: pro Nacht
     list:
-        - "Plätze von 80m²"
-        - "Für Wohnwagen"
-        - "Gras- oder befestigter Platz"
+        - "Abmessungen befestigter Boden 8x3m"
+        - "befestigte Plätze mit Gras davor"
+        - "Servicestation "
         - "Nahe bei Sanitäranlagen"
 images:
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-08.jpg
     - /img/overnachten/trekkers-tre-10x8/tre10x8-01.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-06.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-09.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-10.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-08.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-02.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-03.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-04.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-05.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-07.jpg
     - /img/overnachten/trekkers-tre-10x8/tre10x8-01.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-06.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-09.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-10.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-02.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-03.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-04.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-05.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-07.jpg
+    
+    
     
     
     
@@ -33,7 +37,7 @@ insert:
 
 # CAMPINGPLATZ 10x8
 
-Kombinieren Sie die Freiheit des Reisens mit einem Wohnwagen mit dem Komfort unseres Campingplatzes.
+Kombinieren Sie die Freiheit des Reisens mit einem Wohnmobil mit dem Komfort unseres Campingplatzes.
 
 ## Gut zu wissen
 

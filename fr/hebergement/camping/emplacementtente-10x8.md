@@ -4,7 +4,7 @@ title: Emplacement Tente 10x8
 preview: 
     title: Emplacement Tente 10x8
     button:
-        price: 22
+        price: 23
         for: par nuit
     list:
         - "dimensions : 10x8 mètres"
@@ -50,16 +50,17 @@ Optez pour une véritable expérience de camping et passez des vacances sous ten
 
 - max. 6 personnes / emplacement
 - chiens admis : max. 2 – pas de races dangereuses
+- fermé entre 15/01 - 01/03 et 15/11 - 15/12
 
-## Prix 2018
+## Prix 2019
 
 NOMBRE DE PERSONNES | PRIX / NUIT     
 :------------------:|:-----------:|
-1 personne          |€ 22              
-2 personnes         |€ 25                   
-3 personnes         |€ 28      
-4 personnes         |€ 31
-5/6 personnes       |€ 34
+1 personne          |€ 23              
+2 personnes         |€ 26                   
+3 personnes         |€ 29      
+4 personnes         |€ 32
+5/6 personnes       |€ 35
       
 
 15/7 - 15/8: réservation à partir de 7 nuits

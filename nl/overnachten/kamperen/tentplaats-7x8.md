@@ -4,9 +4,8 @@ title: Tentplaats 7x8
 preview: 
     title: Tentplaats 7x8
     button:
-        price: 19
+        price: 20
         for: per nacht
-        
     list:
         - "afmetingen: 7x8 meter"
         - "ideaal voor 2-persoonstentjes"
@@ -51,15 +50,16 @@ Deze plaatsen van 7x8 meter zijn ideaal voor uw kleine (werp)tentje.
 
 - max 4 personen / plaats
 - honden toegelaten - max 2 - geen gevaarlijke rassen
+- niet toegankelijk  tussen 15/01 - 01/03 en 15/11 - 15/12
 
-## Prijzen 2018
+## Prijzen 2019
 
 AANTAL PERSONEN | PRIJS / NACHT     
 :-------------:|:-----------:|
-1 persoon      |€ 19              
-2 personen     |€ 22                   
-3 personen     |€ 25      
-4 personen     |€ 28            
+1 persoon      |€ 20             
+2 personen     |€ 23                   
+3 personen     |€ 26      
+4 personen     |€ 29            
       
 
 15/7 - 15/8: reservatie vanaf 7 nachten

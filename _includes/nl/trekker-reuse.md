@@ -2,13 +2,11 @@
 ## Kortingen
 
 Aantal nachten | Korting       
-:-------------:|:-----------:|
-≥ 5 nachten   | 5 %             
-≥ 7 nachten   | 7 %                  
-≥ 10 nachten  | 10 %                
+:-------------:|:-----------:|           
+≥ 7 nachten   | 7 %                            
 
 - korting enkel geldig op het verblijf, niet op extra’s en niet combineerbaar met andere kortingen of kampeerarrangementen
-- geldigheidsduur: het hele jaar door met uitzondering van juli en augustus
+- niet geldig in juli & augustus
 
 
 ## Inbegrepen

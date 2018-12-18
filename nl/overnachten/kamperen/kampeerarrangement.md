@@ -52,7 +52,7 @@ U hebt een maand of langer te spenderen? Bekijk dan de verschillende kampeerarra
 
 ## Prijzen
 
-PERIODE        | PRIJS 2018      
+PERIODE        | PRIJS 2019      
 :-------------:|:-----------:|
 april          |€ 330               
 mei            |€ 375                   

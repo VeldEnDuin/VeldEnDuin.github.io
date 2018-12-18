@@ -1,27 +1,29 @@
 ---
 layout: page
-title: Kampeerplaats 10x8
+title: Mobilhomeplaats 10x8
 preview: 
-    title: Kampeerplaats 10x8
+    title: Mobilhomeplaats 10x8
     button:
         price: 23
         for: per nacht
     list:
-        - "80 m² plaatsen"
-        - "voor trekcaravans"
-        - "gras of verharde plaats"
+        - "afmetingen verharding: 8x3 m"
+        - "verharde plaatsen met gras voor"
+        - "servicestation"
         - "dichtbij sanitair"
 images:
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-08.jpg
     - /img/overnachten/trekkers-tre-10x8/tre10x8-01.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-06.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-09.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-10.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-08.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-02.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-03.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-04.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-05.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-07.jpg
     - /img/overnachten/trekkers-tre-10x8/tre10x8-01.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-06.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-09.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-10.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-02.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-03.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-04.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-05.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-07.jpg
     
     
     
@@ -32,9 +34,9 @@ insert:
 ---
 {% include links.md %}
 
-# KAMPEERPLAATS 10x8
+# MOBILHOMEPLAATS 10x8
 
-Combineer de vrijheid van het reizen met een trekcaravan met het comfort van onze camping.
+Combineer de vrijheid van het reizen met een mobilhome met het comfort van onze camping.
 
 ## Goed om weten
 

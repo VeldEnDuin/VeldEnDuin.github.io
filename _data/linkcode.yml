@@ -207,11 +207,16 @@ trekkers_tent10x8:
     fr:  /fr/hebergement/camping/emplacementtente-10x8.html
     de:  /de/uebernachten/camping/zeltplatz-10x8.html
     en:  /en/accomodation/camping/tentpitch-10x8.html
+trekkers_mobilhome10x8:
+    nl:  /nl/overnachten/kamperen/mobilhomeplaats-10x8.html
+    fr:  /fr/hebergement/camping/emplacementmobilehome-10x8.html
+    de:  /de/uebernachten/camping/wohnmobilplatz-10x8.html
+    en:  /en/accomodation/camping/camperpitch-10x8.html
 trekkers_trekker10x8:
     nl:  /nl/overnachten/kamperen/kampeerplaats-10x8.html
     fr:  /fr/hebergement/camping/emplacementcampeur-10x8.html
     de:  /de/uebernachten/camping/campingplatz-10x8.html
-    en:  /en/accomodation/camping/camperpitch-10x8.html
+    en:  /en/accomodation/camping/campingpitch-10x8.html
 trekkers_info:
     nl:  /nl/overnachten/kamperen/praktische-info.html
     fr:  /fr/hebergement/camping/infos-pratiques.html

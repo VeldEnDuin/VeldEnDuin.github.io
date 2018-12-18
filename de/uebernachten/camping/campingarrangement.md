@@ -52,7 +52,7 @@ Sie haben einen Monat oder länger Zeit? Dann sehen Sie sich doch die verschiede
 
 ## Preise
 
-ZEITRAUM        | PREIS 2018     
+ZEITRAUM        | PREIS 2019   
 :-------------:|:-----------:|
 April          |€ 330               
 Mai            |€ 375                   

@@ -4,9 +4,8 @@ title: Tent pitch 7x8
 preview: 
     title: Tent pitch 7x8
     button:
-        price: 19
-        for: per night
-        
+        price: 20
+        for: per night     
     list:
         - "7x8 m"
         - "suited for small tents for 2 persons"
@@ -51,15 +50,16 @@ These pitches of 7x8 m are convenient for small (self-constructing) tents.
 
 - max 4 persons/ pitch
 - dogs allowed - max 2 – no dangerous breeds
+- not accessible between 15/01 - 01/03 and 15/11 - 15/12
 
-## Prices 2018
+## Prices 2019
 
 NUMBER OF PERSONS | PRICE / NIGHT     
 :-------------:|:-----------:|
-1 person      |€ 19            
-2 persons     |€ 22                   
-3 persons     |€ 25      
-4 persons     |€ 28            
+1 person      |€ 20            
+2 persons     |€ 23                   
+3 persons     |€ 26      
+4 persons     |€ 29            
       
 
 15/7 - 15/8: upon reservation as from 7 nights

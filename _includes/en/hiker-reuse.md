@@ -1,14 +1,12 @@
 
-## Discounts
+## Discount
 
-Number of nights | Discounts       
-:-------------:|:-----------:|
-≥ 5 nights   | 5 %             
+Number of nights | Discount       
+:-------------:|:-----------:|      
 ≥ 7 nights   | 7 %                  
-≥ 10 nights  | 10 %        
 
 - discounts are only valid on your stay, not on the extras and cannot be combined with other discounts and campers’ packages
-- valid: throughout the year except for July and August
+- not valid in July and August
 
 
 ## Included

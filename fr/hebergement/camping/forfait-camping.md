@@ -53,7 +53,7 @@ Vous souhaitez prendre de longues vacances d’un mois ou plus ? Découvrez nos 
 
 ## Prix
 
-PÉRIODE        | PRIX 2018       
+PÉRIODE        | PRIX 2019       
 :-------------:|:-----------:|
 avril          |€ 330               
 mai            |€ 375                   
@@ -73,7 +73,7 @@ septembre-octobre-novembre |€ 715
 
 ## Non inclus
 
-SUPPLÉMENT         | PRIJS 
+SUPPLÉMENT         | PRIX
 :------------------|:-----------|
 électricité        |selon la consommation 
 jeton douche       |€ 1 / jeton

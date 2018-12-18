@@ -1,30 +1,27 @@
 ---
 layout: page
-title: Camper pitch 10x8
+title: Camping pitch 10x8
 preview: 
-    title: Camper pitch 10x8
+    title: Camping pitch 10x8
     button:
         price: 23
         for: per night
     list:
-        - "paved surface dimensions: 8x3m"
-        - "paved areas with grass in front"
-        - "service station"
+        - "80m² pitches"
+        - "for caravans"
+        - "grass or paved pitches"
         - "sanitary block nearby"
 images:
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-08.jpg
     - /img/overnachten/trekkers-tre-10x8/tre10x8-01.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-02.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-03.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-04.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-05.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-07.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-06.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-09.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-10.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-08.jpg
     - /img/overnachten/trekkers-tre-10x8/tre10x8-01.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-02.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-03.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-04.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-05.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-07.jpg
-    
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-06.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-09.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-10.jpg
     
     
     
@@ -34,9 +31,9 @@ insert:
 ---
 {% include links.md %}
 
-# CAMPER PITCH 10x8
+# CAMPING PITCH 10x8
 
-Combine the freedom of travelling with a camper with the comfort of our campsite
+Combine the freedom of travelling with a caravan with the comfort of our campsite
 
 ## Worth knowing
 
