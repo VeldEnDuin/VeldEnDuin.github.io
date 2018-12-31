@@ -4,7 +4,7 @@ title: Jahresplatz
 preview: 
     title: Jahresplatz
     button:
-        price: 1760
+        price: 1830
         for: pro Jahr
     list:
         - "Plätze 80 m²"
@@ -51,12 +51,12 @@ Ihr Wohnwagen mit allen Grundannehmlichkeiten bleibt das ganze Jahr über stehen
 - Höchstens 6 Personen/Platz
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 
-## Preise 2018
+## Preise 2019
 
 ZEITRAUM              | STELLPLATZKOSTEN       | GEMEINDESTEUER      
 :--------------------:|:----------------------:|--------------|
-6 Monate              |€ 1650                 |€ 135,15           
-1 Jahr<br>(1.1.-31.12.) |€ 1760                 |€ 354,84                 
+6 Monate              |€ 1720                 |€ 138,07           
+1 Jahr<br>(1.1.-31.12.) |€ 1830                 |€ 362                 
  
 ## Inbegriffen
 
@@ -67,9 +67,9 @@ ZEITRAUM              | STELLPLATZKOSTEN       | GEMEINDESTEUER
 EXTRA             | PREIS 
 :------------------|:-----------|
 Strom              |nach Verbrauch
-Pauschal Wasser    |€ 75
+Pauschal Wasser    |€ 80
 Zähler             |€ 20
-Hausmüllgebühr     |€ 75 (inkl. 25 Müllsäcke)
+Hausmüllgebühr     |€ 80 (inkl. 25 Müllsäcke)
 Karte für Schranke |€ 100 (Kaution € 75)
 Wintervorzelt      |€ 100
 [Brandversicherung][pdf_brandverzekering.de]|verpflichtet - Möglichkeit eines Abschlusses über unsere Gruppenversicherung

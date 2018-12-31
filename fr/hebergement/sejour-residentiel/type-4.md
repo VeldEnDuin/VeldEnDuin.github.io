@@ -4,7 +4,7 @@ title: Type 4
 preview: 
     title: Type 4
     button:
-        price: 2620
+        price: 2725
         for: par an
     list:
         - "surface moyenne : 190 m²"
@@ -35,20 +35,20 @@ Vous cherchez un grand emplacement avec vue sur la pièce d’eau au centre du c
 - raccordement à l’eau pendant l’hiver
 
 
-## Prix 2018
+## Prix 2019
 
 TYPE 4                |PRIX           |
 :--------------------:|:--------------:|
-indemnité de résidence par an |€ 2620             
-taxe communale                |€ 354,84
-déchets ménagers<br>incl 25 sacs poubelles<br> | € 75   
+indemnité de résidence par an |€ 2725            
+taxe communale                |€ 362
+déchets ménagers<br>incl 25 sacs poubelles<br> | € 80   
 [assurance incendie][pdf_brandverzekering.fr]     |selon la<br>valeur de la caravane
 
 CONSOMMATION ⑴           |PRIX          |
 :--------------------:|:-------------:|
-électricité           | € 0,38 / kw        
-eau                   | € 7 / m³
-gaz                   | € 6,20 / m³       
+électricité           | € 0,39 / kw        
+eau                   | € 7,5 / m³
+gaz                   | € 6,75 / m³       
 compteur              | € 20 / compteur      
 
 ⑴ prix sous réserve de modifications des prix de l’énergie

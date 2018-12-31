@@ -4,7 +4,7 @@ title: Type 2
 preview: 
     title: Type 2
     button:
-        price: 1900
+        price: 1975
         for: per jaar
     list:
         - "gemiddelde opp: 100 m²"
@@ -35,20 +35,20 @@ Kom na een drukke werkweek onthaasten in uw caravan. Zo kunt u er nadien weer he
 - geen wintervaste wateraansluiting - sanitairgebouw blijft open
 
 
-## Prijzen 2018
+## Prijzen 2019
 
 TYPE 2                |PRIJS           |
 :--------------------:|:--------------:|
-standplaatsvergoeding |€ 1900               
-gemeentetaks          |€ 354,84
-huisvuilbijdrage<br>incl 25 zakken<br> | € 75    
+standplaatsvergoeding |€ 1975              
+gemeentetaks          |€ 362
+huisvuilbijdrage<br>incl 25 zakken<br> | € 80   
 [brandverzekering][pdf_brandverzekering.nl]|afhankelijk van <br>waarde caravan
 
 
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
-elektriciteit         | € 0,38 / kw        
-forfait water         | € 75 
+elektriciteit         | € 0,39 / kw        
+forfait water         | € 80 
 tellervergoeding      | € 20 
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven
