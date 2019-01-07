@@ -1248,69 +1248,7 @@ items:
     fr: Parc de trampoline - Ostende
     de: Trampolinpark - Oostende
     en: Trampoline park - Ostend
-- ranking: 03
-  location: 51.228602, 2.914001
-  subgroups:
-  - event
-  images:
-  - "/img/doen/ost-winterpark.jpg"
-  link:
-    nl: http://www.winterinhetpark.be/
-    fr: http://www.winterinhetpark.be/fr/
-    de: https://www.visitoostende.be/de/winter-im-park-2018
-    en: http://www.winterinhetpark.be/en/
-  title:
-    nl: Winter in het Park
-    fr: Winter in het Park
-    de: Winter in het Park
-    en: Winter in het Park
-  caption:
-    nl: Kerstmarkt & ijspiste - Oostende - 30/11/18 - 06/01/19
-    fr: Marché de Noël & piste de patinage – Ostende - 30/11/18 - 06/01/19
-    de: Weihnachtsmarkt & Eisbahn - Oostende - 30/11/18 - 06/01/19
-    en: Christmas Market & ice-skating ring  - Ostend - 30/11/18 - 06/01/19
-- ranking: 01
-  location: 51.248144, 2.961549
-  subgroups:
-  - event
-  images:
-  - "/img/doen/bre-winterduinen.jpg"
-  link:
-    nl: http://www.winterduinen.be/
-    fr: http://www.winterduinen.be/
-    de: http://www.winterduinen.be/
-    en: http://www.winterduinen.be/
-  title:
-    nl: Winter Duinen
-    fr: Winter Duinen
-    de: Winter Duinen
-    en: Winter Duinen
-  caption:
-    nl: Kerstmarkt & ijspiste - Bredene - 13/12/18 - 06/01/19
-    fr: Marché de Noël & piste de patinage – Bredene - 13/12/18 - 06/01/19
-    de: Weihnachtsmarkt & Eisbahn - Bredene - 13/12/18 - 06/01/19
-    en: Christmas Market & ice-skating ring  - Bredene - 13/12/18 - 06/01/19
-- ranking: 02
-  location: 51.231107, 2.914599
-  subgroups:
-  - event
-  images:
-  - "/img/doen/ost-lichttunnel.jpg"
-  link:
-    nl: https://www.visitoostende.be/nl/lichttunnel
-    fr: https://www.visitoostende.be/fr/tunnel-de-lumiere-magique
-    de: https://www.visitoostende.be/de/lichtertunnel
-    en: https://www.visitoostende.be/en/spectacular-light-show-2018
-  title:
-    nl: Lichttunnel
-    fr: Tunnel de lumière
-    de: Lichtertunnel
-    en: Light tunnel
-  caption:
-    nl: Lichtshow - Oostende - 30/11/18 - 06/01/19
-    fr: Show de lumière - Ostende - 30/11/18 - 06/01/19
-    de: Lichtshow - Oostende - 30/11/18 - 06/01/19
-    en: Light show - Ostend- 30/11/18 - 06/01/19
+
 subgroups:
   nl:
     coast: kustbeleving
