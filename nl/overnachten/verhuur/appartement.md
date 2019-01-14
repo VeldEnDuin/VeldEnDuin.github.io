@@ -2,7 +2,7 @@
 layout: page
 title: Appartement Comfort 4 Plus
 preview: 
-    title: Appartement
+    title: Appartement Comfort 4 + 
     button:
         price: 123
         for: 2 nachten
@@ -42,7 +42,7 @@ insert:
 
 {% include links.md %}
 
-# Appartement
+# Appartement Comfort 4 + 
 
 De appartementen liggen net naast de camping. Zo geniet u van de ruimte van een appartement en kunt u tegelijk vrij gebruik maken van de voorzieningen op onze camping.
 

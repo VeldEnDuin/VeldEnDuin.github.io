@@ -2,7 +2,7 @@
 layout: page
 title: Appartement Confort 4 Plus
 preview: 
-    title: Appartement
+    title: Appartement Confort 4 +
     button:
         price: 123
         for: 2 nuits
@@ -42,7 +42,7 @@ insert:
 
 {% include links.md %}
 
-# Appartement
+# Appartement Confort 4 + 
 
 Les appartements sont situés à deux pas du camping. Tout en profitant de l’espace d’un appartement, vous disposez également des équipements de notre camping.
 

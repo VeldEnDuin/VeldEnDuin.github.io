@@ -2,7 +2,7 @@
 layout: page
 title: Apartment Comfort 4 Plus
 preview: 
-    title: Apartment
+    title: Apartment Comfort 4 +
     button:
         price: 123
         for: 2 nights
@@ -42,7 +42,7 @@ insert:
 
 {% include links.md %}
 
-# Apartment
+# Apartment Comfort 4 + 
 
 The apartments are situated next to the campsite. This means that you can enjoy the space of an apartment and use the facilities of our campsite at the same time.
 
