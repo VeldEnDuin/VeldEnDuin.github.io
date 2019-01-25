@@ -45,10 +45,10 @@
     - linkcode: trekkers
       submenu:
         - linkcode: trekkers_info
-        - linkcode: trekkers_tent7x8
-        - linkcode: trekkers_tent10x8
         - linkcode: trekkers_mobilhome10x8
         - linkcode: trekkers_trekker10x8
+        - linkcode: trekkers_tent7x8
+        - linkcode: trekkers_tent10x8
         - linkcode: trekkers_arrangement
         - linkcode: trekkers_lang
 
