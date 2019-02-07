@@ -178,27 +178,6 @@ items:
     fr: La bataille de l’Yser - Nieuport
     de: Schlacht um die Yser - Nieuwpoort
     en: the battle for the Yser - Nieuwpoort
-- ranking: 40
-  location: 51.252213, 2.974759
-  subgroups:
-  - event
-  images:
-  - "/img/doen/bre-afroc.jpg"
-  link:
-    nl: http://www.afrocaribbean.be/
-    fr: http://www.afrocaribbean.be/
-    de: http://www.afrocaribbean.be/
-    en: http://www.afrocaribbean.be/
-  title:
-    nl: Afro C Festival
-    fr: Afro C Festival
-    de: Afro C Festival
-    en: Afro C Festival
-  caption:
-    nl: gratis wereldmuziekfestival - Bredene
-    fr: Festival gratuit de musique du monde – Bredene
-    de: Weltmusikfestival mit kostenlosem Eintritt – Bredene
-    en: free world music festival - Bredene
 - ranking: 170
   location: 51.252213, 2.974759
   subgroups:
