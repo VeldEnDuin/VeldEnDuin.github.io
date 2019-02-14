@@ -382,8 +382,21 @@ pdf_zomeranimatie:
     fr: /fr/pdf/animations2016.pdf
     de: /de/pdf/animation2016.pdf
 
+# [7] files
+resainfoverhuur:
+    nl: /files/nlresainfo-verhuur2019.pdf
+    fr: /files/frresainfo-verhuur2019.pdf
+    de: /files/deresainfo-verhuur2019.pdf
+    en: /files/enresainfo-verhuur2019.pdf
 
-# [7] externe links
+resainfoverhuur:
+    nl: /files/nlresainfo-trekkers2019.pdf
+    fr: /files/frresainfo-trekkers2019.pdf
+    de: /files/deresainfo-trekkers2019.pdf
+    en: /files/enresainfo-trekkers2019.pdf
+
+
+# [8] externe links
 kusttram:
     nl: http://www.delijn.be/nl/kusttram/index.html
     fr: http://www.delijn.be/fr/kusttram%2Findex.html?vertaling=true
