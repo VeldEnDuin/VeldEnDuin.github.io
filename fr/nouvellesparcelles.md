@@ -6,7 +6,7 @@ preview:
     title: Nouvelles parcelles
     text: 
         - Cet hiver, 13 parcelles flambant neuves seront aménagées pour les caravanes résidentielles.
-        - Disponibles à partir d’avril 2019.
+        - Disponibles à partir de mai 2019.
         
 images:
     - /img/nieuwepercelen.jpg

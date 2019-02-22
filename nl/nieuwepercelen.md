@@ -6,7 +6,7 @@ preview:
     title: nieuwe percelen
     text: 
         - Er worden deze winter 13 gloednieuwe percelen aangelegd voor residentiële caravans. 
-        - Beschikbaar vanaf april 2019.
+        - Beschikbaar vanaf mei 2019.
 
         
 images:

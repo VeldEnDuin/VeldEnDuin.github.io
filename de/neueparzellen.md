@@ -6,7 +6,7 @@ preview:
     title: Neue Parzellen
     text: 
         - Diesen Winter werden 13 brandneue Parzellen für Dauerstandplätze angelegt.
-        - Verfügbar ab April 2019.
+        - Verfügbar ab Mai 2019.
         
 images:
     - /img/nieuwepercelen.jpg

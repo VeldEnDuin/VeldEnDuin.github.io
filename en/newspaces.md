@@ -6,7 +6,7 @@ preview:
     title: New spaces
     text: 
         - This winter, 13 brand-new spaces are being set up for residential caravans. 
-        - Available from April 2019.
+        - Available from May 2019.
         
 images:
     - /img/nieuwepercelen.jpg
