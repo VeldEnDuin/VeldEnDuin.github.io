@@ -30,15 +30,15 @@ plan:
     fr:  /img/plan-camping.jpg
     en:  /img/plan-camping.jpg
 plan_verhuur:
-    nl:  /img/plan-verhuur-nl.jpg
-    de:  /img/plan-verhuur-de.jpg
-    fr:  /img/plan-verhuur-fr.jpg
-    en:  /img/plan-verhuur-en.jpg
+    nl:  /img/plan-camping.jpg
+    de:  /img/plan-camping.jpg
+    fr:  /img/plan-camping.jpg
+    en:  /img/plan-camping.jpg
 plan_trekkers:
-    nl:  /img/plan-trekkers-nl.jpg
-    de:  /img/plan-trekkers-de.jpg
-    fr:  /img/plan-trekkers-fr.jpg
-    en:  /img/plan-trekkers-en.jpg
+    nl:  /img/plan-camping.jpg
+    de:  /img/plan-camping.jpg
+    fr:  /img/plan-camping.jpg
+    en:  /img/plan-camping.jpg
 plan3d:
     nl:  /img/plan-3d-nieuwproject.jpg
     de:  /img/plan-3d-nieuwproject.jpg
