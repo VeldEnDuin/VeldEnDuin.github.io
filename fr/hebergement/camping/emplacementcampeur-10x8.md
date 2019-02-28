@@ -36,7 +36,7 @@ Combinez la liberté de vacances en caravane au confort offert par notre camping
 
 ## Bon à savoir
 
-- max. 4 personnes / emplacement
+- max. 6 personnes / emplacement
 - chiens admis – max. 2 – pas de races dangereuses
 - fermé entre 15/01 - 01/03 et 15/11 - 15/12
 
