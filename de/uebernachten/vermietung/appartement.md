@@ -65,12 +65,11 @@ Die Appartements liegen neben dem Campingplatz. So genießen Sie den Platz eines
 - keine Vermietung möglich in folgenden Zeiträumen 15/01 - 01/03 und 15/11 - 15/12
 
 ## Kaution
-- Internet für 2 Geräte
 - € 50, bar zu bezahlen bei der Anreise
 - Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
 
 ## Inbegriffen
-
+- Internet für 2 Geräte
 - Parkplatz für 1 Auto
 - Verbrauch von Wasser und Strom
 - **Ausnahme** Energiekostenpauschale 15/12 - 15/01: € 9 / Nacht
