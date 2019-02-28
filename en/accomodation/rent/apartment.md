@@ -51,7 +51,7 @@ The apartments are situated next to the campsite. This means that you can enjoy 
 - spacious living room with flat screen and set top box
 - equipped kitchen with microwave
 - bathroom with shower, washbasin and toilet 
-– bedrooms caravan:
+– bedrooms apartment:
     - 1 room with double bed (140x200)
     - 1 room with bunk beds 2x (90x200) + sofa bed
 - balcony in front overlooking the dunes and with a view of the playground at the back
