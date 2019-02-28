@@ -67,7 +67,7 @@ De retour d’une agréable journée à la plage ou d’une balade dans les envi
 ## Caution
 
 - € 50 – à payer en liquide à l’arrivée
-- la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état
+- la caution est restituée au départ si le chalet a été bien nettoyée et si elle se trouve dans un bon état
 
 ## Inclus
 - internet pour 2 appareils

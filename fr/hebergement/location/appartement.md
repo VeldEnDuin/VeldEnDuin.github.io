@@ -67,7 +67,7 @@ Les appartements sont situés à deux pas du camping. Tout en profitant de l’e
 ## Caution
 
 - € 50 – à payer en liquide à l’arrivée
-- la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état
+- la caution est restituée au départ si l'appartement a été bien nettoyée et si elle se trouve dans un bon état
 
 ## Inclus
 - internet pour 2 appareils
