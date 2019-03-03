@@ -63,7 +63,7 @@ Need a break, just for the two of you? Make yourself at home in this cosy chalet
 
 - chalet for 2 people
 - 1 dog allowed – no dangerous breeds
-- not available between 15/11 and 01/03
+- not available between 15/11 and 01/03 
 
 ## Warranty
 
