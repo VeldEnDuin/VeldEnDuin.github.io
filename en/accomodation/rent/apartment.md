@@ -69,6 +69,10 @@ The apartments are situated next to the campsite. This means that you can enjoy 
 - € 50 – to be paid in cash upon arrival
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
 
+## Things to bring along
+Besides your personal belongings you need to bring along towels and bed linen.
+Bed linen can also be rented at the reception.
+
 ## included
 - internet for 2 devices
 - parking 1 car
