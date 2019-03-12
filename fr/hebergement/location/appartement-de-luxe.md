@@ -76,6 +76,10 @@ Situés au-dessus de la réception, ces nouveaux appartements luxueux offrent un
 - € 50 – à payer en liquide à l’arrivée
 - la caution est restituée au départ si l'appartement a été bien nettoyée et si elle se trouve dans un bon état
 
+## Que faut-il emporter?
+Outre vos affaires personnelles, vous devez emporter votre linge de bain et votre linge de lit.
+Le linge de lit peut être loué au camping.
+
 ## Inclus
 - internet pour 2 appareils
 - parking 1 voiture

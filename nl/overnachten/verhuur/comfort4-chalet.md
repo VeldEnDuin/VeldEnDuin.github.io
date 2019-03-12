@@ -67,6 +67,10 @@ Deze chalets liggen vooraan op de camping en dicht bij het speelplein. Ideaal du
 - € 50 - contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
 
+## Wat mee te brengen?
+Naast uw persoonlijke spullen, moet u nog handdoeken en beddegoed zelf meebrengen.
+Lakenpakketten kunt u ook huren.
+
 ## Inbegrepen
 - internet voor 2 toestellen
 - parking 1 auto

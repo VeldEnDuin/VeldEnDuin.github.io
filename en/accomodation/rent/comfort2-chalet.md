@@ -63,12 +63,16 @@ Need a break, just for the two of you? Make yourself at home in this cosy chalet
 
 - chalet for 2 people
 - 1 dog allowed – no dangerous breeds
-- not available between 15/11 and 01/03
+- not available between 15/11 and 01/03 
 
 ## Warranty
 
 - € 50 – to be paid in cash upon arrival
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
+
+## Things to bring along
+Besides your personal belongings you need to bring along towels and bed linen.
+Bed linen can also be rented at the reception.
 
 ## Included
 - internet for 2 devices

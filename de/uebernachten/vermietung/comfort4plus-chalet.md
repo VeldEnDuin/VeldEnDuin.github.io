@@ -69,6 +69,10 @@ Nach einem herrlichen Tag am Strand oder einem Ausflug in die Umgebung lockt die
 - € 50, bar zu bezahlen bei der Anreise
 - Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
 
+## Was Sie mitbringen müssen
+Neben Ihren persönlichen Dingen müssen Sie noch Handtücher und Bettbezüge mitbringen.
+Bettbezüge können Sie auch bei uns mieten.
+
 ## Inbegriffen
 - Internet für 2 Geräte
 - Parkplatz für 1 Auto
