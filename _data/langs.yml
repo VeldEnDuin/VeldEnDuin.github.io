@@ -37,6 +37,24 @@ nl:
         other_rental_types: Andere Types Logement
         mostwanted: Meest gezocht
         imgloading: Beelden worden geladen...
+        booking_check:            Reserveer nu
+        booking_start:            Van (dd/mm/jjjj)
+        booking_end:              Tot (dd/mm/jjjj)
+        booking_type:
+            verhuur:              -- Kies uw type logies --
+            kamperen:             -- Kies uw type plaats --
+        comfort2_chalet:          Comfort 2 Chalet
+        comfort2_caravan:         Comfort 2 Caravan
+        comfort4_chalet:          Comfort 4 Chalet
+        comfort4plus_chalet:      Comfort 4+ Chalet
+        luxe_appartementen_5p:    Luxe Appartement 5p
+        luxe_appartementen_6p:    Luxe Appartement 6p
+        studio:                   Studio
+        comfort4plus_appartement: Appartement Comfort 4+
+        mobilhome10x8:            Trekkersplaats Mobilhome 10x8
+        trekker10x8:              Trekkersplaats 10x8
+        tent10x8:                 Tentplaats 10x8
+        tent7x8:                  Tentplaats 7x8
 
     gcse:
         use: Geef een zoekterm in!
@@ -77,6 +95,24 @@ fr:
         other_rental_types: Autres types de logement
         mostwanted: Recherches les plus fréquentes
         imgloading: images en cours de chargement...
+        booking_check:            "Réservez ici"
+        booking_start:            "à partir du (jj / mm / aaaa)"
+        booking_end:              "jusqu'au (jj / mm / aaaa)"
+        booking_type:
+            verhuur:              "-- Choisissez votre type d'hébergement --"
+            kamperen:             "-- Choisissez votre type d'emplacement --"
+        comfort2_chalet:          Chalet Confort 2
+        comfort2_caravan:         Caravane Confort 2
+        comfort4_chalet:          Chalet Confort 4
+        comfort4plus_chalet:      Chalet Confort 4+
+        luxe_appartementen_5p:    Appartement de luxe 5p
+        luxe_appartementen_6p:    Appartement de luxe 6p
+        studio:                   Studio
+        comfort4plus_appartement: Appartement Comfort 4+
+        mobilhome10x8:            Emplacement pour mobilhome 10x8
+        trekker10x8:              Emplacement campeur 10x8
+        tent10x8:                 Emplacement tente 10x8
+        tent7x8:                  Emplacement tente 7x8
 
     gcse:
         use: Veuillez introduire un mot clé!
@@ -117,6 +153,24 @@ de:
         other_rental_types: Andere Arten von Unterkünften
         mostwanted: Meist gesucht
         imgloading: Bilder werden geladen...
+        booking_check:            Reservieren
+        booking_start:            Von (TT / MM / JJJJ)
+        booking_end:              Bis (TT / MM / JJJJ)
+        booking_type:
+            verhuur:              -- Wählen Sie Ihre Unterkunftsart --
+            kamperen:             -- Wählen Sie Ihren Platz --
+        comfort2_chalet:          Chalet Comfort 2
+        comfort2_caravan:         Caravan Comfort 2
+        comfort4_chalet:          Chalet Comfort 4
+        comfort4plus_chalet:      Comfort 4+ Chalet
+        luxe_appartementen_5p:    Luxusapartment 5p
+        luxe_appartementen_6p:    Luxusapartment 6p
+        studio:                   Studio
+        comfort4plus_appartement: Apartment Comfort 4+
+        mobilhome10x8:            Wohnmobilplatz 10x8
+        trekker10x8:              Campingplatz 10x8
+        tent10x8:                 Zeltplatz 10x8
+        tent7x8:                  Zeltplatz 7x8
 
     gcse:
         use: Geben Sie einen Suchbegriff ein!
@@ -157,6 +211,24 @@ en:
         other_rental_types: More rental possibilities
         mostwanted: Most searched
         imgloading: Images are being loaded...
+        booking_check:            Book now
+        booking_start:            From (dd / mm / yyyy)
+        booking_end:              Until (dd / mm / yyyy)
+        booking_type:
+            verhuur:              -- Choose your accommodation --
+            kamperen:             -- Choose your place --
+        comfort2_chalet:          Chalet Comfort 2
+        comfort2_caravan:         Caravan Comfort 2
+        comfort4_chalet:          Chalet Comfort 4
+        comfort4plus_chalet:      Chalet Comfort 4+
+        luxe_appartementen_5p:    Luxury Apartment 5p
+        luxe_appartementen_6p:    Luxury Apartment 6p
+        studio:                   Studio
+        comfort4plus_appartement: Apartment Comfort 4+
+        mobilhome10x8:            Camper Pitch 10x8
+        trekker10x8:              Camping Pitch 10x8
+        tent10x8:                 Tent Pitch 10x8
+        tent7x8:                  Tent Pitch 7x8
 
     gcse:
         use: Keyword!

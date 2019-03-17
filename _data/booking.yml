@@ -1,0 +1,58 @@
+#uri at cubilis:
+#   Link-URITEMPLATE:       https://reservations.cubilis.eu{/LocationCode}{?Language,Room}
+#   FormSubmit-URITEMPLATE: https://reservations.cubilis.eu/{LocationId}/Rooms/Select{?Arrival,Departure,Room,Rate,Package,DiscountCode,lang}
+
+#locations with code and id are:
+#    camping-veld-en-duin-bredene            : 7772
+#    appartementen-casier-gaudesaboos-bredene: 7959
+
+rooms:
+    comfort2_chalet:
+        id: 34285
+        location: 7772
+        group: verhuur
+    comfort2_caravan:
+        id: 34286
+        location: 7772
+        group: verhuur
+    comfort4_chalet:
+        id: 34288
+        location: 7772
+        group: verhuur
+    comfort4plus_chalet:
+        id: 34290
+        location: 7772
+        group: verhuur
+    luxe_appartementen_5p:
+        id: 34291
+        location: 7772
+        group: verhuur
+    luxe_appartementen_6p:
+        id: 34292
+        location: 7772
+        group: verhuur
+#    studio:
+#        id: 34297
+#        location: 7959
+#        group: verhuur
+    comfort4plus_appartement:
+        id: 34298
+        location: 7959
+        group: verhuur
+
+    mobilhome10x8:
+        id: 34293
+        location: 7772
+        group: kamperen
+    trekker10x8:
+        id: 34294
+        location: 7772
+        group: kamperen
+    tent10x8:
+        id: 34295
+        location: 7772
+        group: kamperen
+    tent7x8:
+        id: 34296
+        location: 7772
+        group: kamperen

@@ -1,4 +1,5 @@
 @import url("bootstrap.min.css");
+@import url("bootstrap-datepicker3.min.css");
 @import url("font-awesome.min.css");
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url("print.css") print;
@@ -20,6 +21,9 @@ a span {
  * Page Backdrop
  *   -------------------------------------------------------------------------------
  */
+header {
+    margin-bottom: 1em;
+}
 body {
     background-image: url('/img/style/background.jpg');
     background-position: center center;
@@ -1114,7 +1118,7 @@ button.vd-callout-btn:hover {
     color: #eee;
 }
 
-.vd-nav ul.nav-pills>li:first-child {
+.vd-nav ul.nav-pills>li:first-child, .vd-nav ul.nav-pills>li:last-child  {
     padding-bottom: 1em;
     margin-bottom: 1em;
     border-bottom: 1px dashed #4f5137;
@@ -1263,7 +1267,6 @@ a.vd-barelink, a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.
 	}
 }
 
-
 /* ===================================================================================
  * callout form effects
  *   -------------------------------------------------------------------------------
@@ -1390,4 +1393,25 @@ span.glyphicon {
 
 .page-header {
     margin-bottom: 2px;
+}
+
+/* ===================================================================================
+ * booking form effects
+ *   -------------------------------------------------------------------------------
+ */
+.vd-booking-form {
+    margin-top: 1em;
+    background-color: rgba(79, 81, 55, 0.66);
+    padding: 1em;
+    border-radius: 5px;
+}
+.vd-booking-form .btn{
+    margin: 0 auto;
+    display: block;
+}
+.vd-booking-form .form-group.has-error select {
+    background-color: rgba(221, 75, 57, 0.25);
+}
+.vd-booking-form-wrapper {
+    margin-top: 100px;
 }

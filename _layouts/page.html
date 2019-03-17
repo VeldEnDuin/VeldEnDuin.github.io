@@ -14,6 +14,9 @@ layout: default
 
   <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 {%if lvl3%}
+    {% if lvl3.booking_form_room %}
+          {% include booking-form.html %}
+    {% endif %}
     <div class="vd-nav">
       <ul class="nav nav-pills nav-stacked">
     {% for m3 in lvl2.submenu %}

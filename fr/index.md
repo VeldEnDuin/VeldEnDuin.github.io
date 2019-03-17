@@ -4,6 +4,9 @@ title: Camping Veld & Duin
 
 insert:
     - banner
+    
+remove:
+    - callout
  
 select:
     - verhuur
@@ -12,8 +15,6 @@ select:
 class:
     select:
         item: col-lg-12 col-md-12 col-sm-12 col-xs-12
-        
-callout: Curieux(-se) de découvrir les offres de Veld & Duin ? Consultez notre site et découvrez la formule de vacances qui vous convient le mieux. À bientôt!
 
 ---
 {% include links.md %}

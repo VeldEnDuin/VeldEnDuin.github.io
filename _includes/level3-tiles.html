@@ -14,6 +14,14 @@
     {% else %}
         {% assign itemcls = 'col-lg-3 col-md-3 col-sm-6 col-xs-12' %}
     {% endif %}
+    {% if lvl2.booking_form_group %}
+      <div class="{{itemcls}} vd-select-item" ><div class="vd-select-item-inner"><div class="vd-select-item-dimmer">
+      <div class="vd-select-content vd-booking-form-wrapper">
+        {% include booking-form.html %}
+      </div>
+      </div></div></div>
+    {% endif %}
+
     {% for link in lvl2.submenu %}
         {% assign select = link.linkcode %}
         {% for pg in site.pages %}

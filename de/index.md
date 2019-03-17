@@ -4,7 +4,9 @@ title: Camping Veld & Duin
 
 insert:
     - banner
-
+remove:
+    - callout
+    
 select:
     - verhuur
     - nieuwepercelen
@@ -13,7 +15,6 @@ class:
     select:
         item: col-lg-12 col-md-12 col-sm-12 col-xs-12
         
-callout: Neugierig, was Veld & Duin Ihnen zu bieten hat? Sehen Sie sich unsere Webseite an und entdecken sie die Urlaubsformel, die am besten zu Ihnen passt. Bis bald!
 
 ---
 {% include links.md %}
