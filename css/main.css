@@ -1410,7 +1410,7 @@ span.glyphicon {
     display: block;
 }
 .vd-booking-form .form-group.has-error select {
-    background-color: rgba(221, 75, 57, 0.25);
+    background-color: #fce4e4;
 }
 .vd-booking-form-wrapper {
     margin-top: 100px;
