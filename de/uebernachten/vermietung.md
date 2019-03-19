@@ -10,8 +10,8 @@ class:
 preview:
     title: Lust, den Alltag ein wenig hinter sich zu lassen?
     text: 
-        - Buchen Sie ein Chalet, einen Caravan oder ein (Luxus-)Appartement und genießen Sie ganz und gar einen sorgenfreien und komfortablen Aufenthalt. 
-        - Auch Camper mit eigenem Wohnwagen oder Zelt sind bei uns recht herzlich willkommen.      
+        - Buchen Sie online Ihr Chalet, Caravan oder (Luxus-)Appartement und genießen Sie ganz und gar einen sorgenfreien und komfortablen Aufenthalt. 
+        - Auch Camper mit eigenem Wohnmobil, Wohnwagen oder Zelt sind bei uns recht herzlich willkommen. Auch Campingplätze können online gebucht werden.    
 images:
     - /img/prevverhuur.jpg
     

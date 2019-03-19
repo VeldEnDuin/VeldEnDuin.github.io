@@ -10,8 +10,8 @@ class:
 preview:
     title: Zin om er even uit te zijn?
     text: 
-        - Boek een chalet, caravan of (luxe)appartement en geniet volop van een zorgeloos en comfortabel verblijf. 
-        - Ook kampeerders met eigen caravan of tent zijn bij ons van harte welkom.     
+        - Boek online uw chalet, caravan of (luxe)appartement en geniet volop van een zorgeloos en comfortabel verblijf. 
+        - Ook kampeerders met eigen caravan, mobilhome of tent zijn bij ons van harte welkom en kunnen hun verblijf online boeken.    
 images:
     - /img/prevverhuur.jpg
     

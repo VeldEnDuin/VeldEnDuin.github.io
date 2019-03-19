@@ -10,8 +10,8 @@ class:
 preview:
     title: Need a break?
     text: 
-        - Book a chalet, caravan or (luxurious)apartment and enjoy a careless and comfortable stay.
-        - We also welcome campers who have a caravan or a tent of their own.
+        - Book your chalet, caravan or (luxury)apartment online and enjoy a careless and comfortable stay.
+        - We also welcome campers who have a caravan, motorhome or tent of their own. Camping pitches can also be booked online. 
         
 images:
     - /img/prevverhuur.jpg
