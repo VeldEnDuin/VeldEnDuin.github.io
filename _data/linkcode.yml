@@ -25,20 +25,20 @@ pics:
     en:  /en/photo-archive.html
     de:  /de/fotoarchiv.html
 plan:
-    nl:  /img/plan-camping.jpg
-    de:  /img/plan-camping.jpg
-    fr:  /img/plan-camping.jpg
-    en:  /img/plan-camping.jpg
+    nl:  /img/plan-camping.png
+    de:  /img/plan-camping.png
+    fr:  /img/plan-camping.png
+    en:  /img/plan-camping.png
 plan_verhuur:
-    nl:  /img/plan-camping.jpg
-    de:  /img/plan-camping.jpg
-    fr:  /img/plan-camping.jpg
-    en:  /img/plan-camping.jpg
+    nl:  /img/plan-camping.png
+    de:  /img/plan-camping.png
+    fr:  /img/plan-camping.png
+    en:  /img/plan-camping.png
 plan_trekkers:
-    nl:  /img/plan-camping.jpg
-    de:  /img/plan-camping.jpg
-    fr:  /img/plan-camping.jpg
-    en:  /img/plan-camping.jpg
+    nl:  /img/plan-camping.png
+    de:  /img/plan-camping.png
+    fr:  /img/plan-camping.png
+    en:  /img/plan-camping.png
 plan3d:
     nl:  /img/plan-3d-nieuwproject.jpg
     de:  /img/plan-3d-nieuwproject.jpg
@@ -442,5 +442,7 @@ overzetboot:
     fr: http://www.visitoostende.be/fr/overzetboot-visserskaai-oosteroever
     de: http://www.visitoostende.be/de/overzetboot-visserskaai-oosteroever
     en: http://www.visitoostende.be/en/overzetboot-visserskaai-oosteroever
+
+   
 
 
