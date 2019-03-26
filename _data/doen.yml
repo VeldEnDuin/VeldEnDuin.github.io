@@ -1227,6 +1227,27 @@ items:
     fr: Parc de trampoline - Ostende
     de: Trampolinpark - Oostende
     en: Trampoline park - Ostend
+- ranking: 325
+  location: 51.332350, 3.202939
+  subgroups:
+  - kids
+  images:
+  - "/img/doen/seafront.jpg"
+  link:
+    nl: https://www.seafront.be
+    fr: https://www.seafront.be/fr
+    de: https://www.seafront.be/de
+    en: https://www.seafront.be/en
+  title:
+    nl: Seafront
+    fr: Seafront
+    de: Seafront
+    en: Seafront
+  caption:
+    nl: Maritiem Themapark - Zeebrugge
+    fr: Parc thématique maritime - Zeebrugge
+    de: Marine theme park - Zeebrugge
+    en: Maritimes Themenpark - Zeebrugge
 
 subgroups:
   nl:
