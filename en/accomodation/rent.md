@@ -8,7 +8,7 @@ class:
         list: "properties-grid"
 
 preview:
-    title: Need a break?
+    title: BOOK NOW ONLINE
     text: 
         - Book your chalet, caravan or (luxury)apartment online and enjoy a careless and comfortable stay.
         - We also welcome campers who have a caravan, motorhome or tent of their own. Camping pitches can also be booked online. 

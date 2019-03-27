@@ -8,7 +8,7 @@ class:
         list: "properties-grid"
 
 preview:
-    title: Lust, den Alltag ein wenig hinter sich zu lassen?
+    title: JETZT ONLINE BUCHEN
     text: 
         - Buchen Sie online Ihr Chalet, Caravan oder (Luxus-)Appartement und genießen Sie ganz und gar einen sorgenfreien und komfortablen Aufenthalt. 
         - Auch Camper mit eigenem Wohnmobil, Wohnwagen oder Zelt sind bei uns recht herzlich willkommen. Auch Campingplätze können online gebucht werden.    
