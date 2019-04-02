@@ -178,10 +178,6 @@ tcs: [1,2,3,5,6,9]
     <script type="text/javascript" src="/js/jquery.gpAlbumViewer.js"></script>
     <script type="text/javascript" src="/js/main.js"></script>
 
-    {% for jscript in page.extrajs %}
-    <script type="text/javascript" src="/js/{{jscript}}.js"></script>
-    {% endfor %}
-    {% if lvl3.booking_form_room or lvl2.booking_form_group %}
     <script type="text/javascript" src="/js/URI.js"></script>
     <script type="text/javascript" src="/js/bootstrap-datepicker.min.js"></script>
     <script type="text/javascript" src="/js/bootstrap-datepicker.nl-BE.min.js"></script>
@@ -189,7 +185,10 @@ tcs: [1,2,3,5,6,9]
     <script type="text/javascript" src="/js/bootstrap-datepicker.de.min.js"></script>
     <script type="text/javascript" src="/js/bootstrap-datepicker.en-GB.min.js"></script>
     <script type="text/javascript" src="/js/booking.js"></script>
-    {% endif %}
+
+    {% for jscript in page.extrajs %}
+    <script type="text/javascript" src="/js/{{jscript}}.js"></script>
+    {% endfor %}
     <!-- todo: dynamic load scripts are injected here... use this template:
     <script type="text/javascript">(function() {
         window.addEventListener("load", function () {

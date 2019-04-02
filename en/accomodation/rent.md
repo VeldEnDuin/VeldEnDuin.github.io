@@ -8,6 +8,7 @@ class:
         list: "properties-grid"
 
 preview:
+    booking: true
     title: BOOK NOW ONLINE
     text: 
         - Book your chalet, caravan or (luxury)apartment online and enjoy a careless and comfortable stay.

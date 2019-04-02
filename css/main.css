@@ -560,7 +560,8 @@ svg.tagcloud {
     color: rgb(10, 88, 10);
 }
 
-.vd-select-item-img  {
+.vd-select-item-img,
+.vd-select-item div#form-booking {
     margin-bottom: 2em;
 }
 .vd-select-title  {
@@ -681,6 +682,8 @@ a:hover .vd-button .vd-button-tag-invert .vd-button-inner,
 .vd-button a:hover {
     text-decoration: none;
 }
+
+div.linker:hover .vd-select-item-inner,
 a:hover .vd-select-item-inner,
 a.notd:hover button,
 button.vd-callout-btn:hover {
