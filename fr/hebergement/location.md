@@ -8,6 +8,7 @@ class:
         list: "properties-grid"
 
 preview:
+    booking: true
     title: RESERVEZ EN LIGNE
     text: 
         - Réservez votre chalet, caravane ou appartement (de luxe) en ligne et offrez-vous un séjour confortable et sans souci. 

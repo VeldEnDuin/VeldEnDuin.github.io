@@ -1,7 +1,11 @@
 {% include layout-prelude.html %}
 
 {% assign room_code = lvl3.booking_form_room %}
+{% assign list_group_codes = "verhuur|kamperen" | split: '|' %}
 {% assign group_code = lvl2.booking_form_group %}
+{% if group_code %}
+    {% assign list_group_codes = group_code | split: '|' %}
+{% endif %}
 {% assign rooms = site.data.booking.rooms %}
 
 <div id="form-booking" class="vd-booking-form">
@@ -25,13 +29,15 @@
     <div class="form-group">
       <!-- <label for="inputType">{{site.data.langs[pgLang].dict.booking_type}}</label> -->
       <select class="form-control" id="type">
-        <option value="" disabled {% unless room_code %}selected{%endunless%}>{{site.data.langs[pgLang].dict.booking_type[group_code]}}</option>
-{% for rm in rooms %}
-    {% assign rmc = rm[0] %}
-    {% if group_code == rm[1].group %}
+{% for gc in list_group_codes %}
+        <option value="" disabled {% unless room_code or forloop.last %}selected{%endunless%}>{{site.data.langs[pgLang].dict.booking_type[gc]}}</option>
+    {% for rm in rooms %}
+        {% assign rmc = rm[0] %}
+        {% if gc == rm[1].group %}
         <option value="{{rm[1].id}}" data-location="{{rm[1].location}}"
                 {% if room_code == rmc %}selected{% endif %}>{{site.data.langs[pgLang].dict[rmc]}}</option>
-    {% endif %}
+        {% endif %}
+    {% endfor %}
 {% endfor %}
       </select>
     </div>

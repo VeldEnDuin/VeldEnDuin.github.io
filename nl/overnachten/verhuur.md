@@ -8,6 +8,7 @@ class:
         list: "properties-grid"
 
 preview:
+    booking: true
     title: BOEK NU ONLINE
     text: 
         - Boek online uw chalet, caravan of (luxe)appartement en geniet volop van een zorgeloos en comfortabel verblijf. 

@@ -3,38 +3,57 @@
     {% assign previewTitle = linkPage.preview.title %}
 {% endif %}
 
+{% assign bookingForm = false %}
+{% if linkPage.preview %}
+    {% assign bookingForm = linkPage.preview.booking %}
+{% endif %}
+
+{%if bookingForm %}
+  <div class="linker">
+{% else %}
   <a href="{{pg.url}}" class="notd">
+{% endif %}
     <div class="vd-select-item vd-select-landing {{page.class.select.item}}">
       <div class="vd-select-item-inner">
     {% if page.class.select.noimage %}
         <div class="col-lg-12 col-md-12 col-sm-12 hidden-xs">
     {% else %}
         <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
+        {% if bookingForm %}
+            {% include booking-form.html %}
+        {% else %}
           <img class="vd-select-item-img img-responsive img-rounded" src="{{pg.images[0]}}">
+        {% endif %}
         </div>
         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
     {% endif %}
+    {%if bookingForm %}<a href="{{pg.url}}" class="notd">{%endif%}
           <h2 class="vd-select-title">{{ previewTitle }}</h2>
-            {% if linkPage.preview %}
+        {% if linkPage.preview %}
           <div class="vd-select-content">
-                {% if linkPage.preview.text.size > 0 %}
+            {% if linkPage.preview.text.size > 0 %}
             <div>
-                    {% for ln in linkPage.preview.text %}
-                    {{ ln }}<br>
-                    {% endfor %}
+                {% for ln in linkPage.preview.text %}
+                {{ ln }}<br>
+                {% endfor %}
             </div>
-                {% endif %}
+            {% endif %}
             <ul>
-                {% if linkPage.preview.list.size > 0 %}
-                    {% for it in linkPage.preview.list %}
+            {% if linkPage.preview.list.size > 0 %}
+                {% for it in linkPage.preview.list %}
               <li>{{ it }}</li>
-                    {% endfor %}
-                {% endif %}
+                {% endfor %}
+            {% endif %}
             </ul>
           </div>
-            {% endif %}
+        {% endif %}
           <button class="btn btn-lg btn-success">{{site.data.langs[pgLang].dict.readmore}}</button>
+    {%if bookingForm %}</a>{% endif %}
         </div>
       </div>
     </div>
+{%unless bookingForm %}
   </a>
+{% else %}
+  </div>
+{% endunless %}
