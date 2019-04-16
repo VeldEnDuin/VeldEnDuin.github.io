@@ -38,7 +38,7 @@ Pour clôturer l’année en beauté, nous organisons une soirée vin chaud. Ré
 
 | Date | Activité |
 |-------|------------|
-|   28/12/2018    |    Soirée vin chaud |
+|   21/04/2019    |    Chasse aux oeufs |
 
 
 

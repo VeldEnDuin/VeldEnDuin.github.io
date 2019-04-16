@@ -38,7 +38,7 @@ Jedes Jahr schließen wir mit einem gemütlichen Glühweinabend ab. Bei warmen G
 
 | Datum | Aktivität |
 |-------|------------|
-|   28/12/2018    |    Glühweinabend |
+|   21/04/2019    |    Ostereiersuche |
 
 
 

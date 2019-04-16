@@ -40,7 +40,7 @@ Het jaar wordt afgesloten met een gezellige glühweinavond. Onder het genot van 
 
 | Datum | Activiteit |
 |-------|------------| 
-|   28/12/2018    |    Glühweinavond       |
+|   21/04/2019    |    Paaseierenraap       |
 
 
 

@@ -39,7 +39,7 @@ At the end of the year we are going to organize a cosy mulled wine evening. A go
 
 | Date | Activity|
 |-------|------------|
-|   28/12/2018    |    Mulled wine evening |
+|   21/04/2019    |    Easter egg hunt |
 
 
 
