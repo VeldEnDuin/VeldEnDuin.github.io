@@ -31,4 +31,4 @@ In onze saunaruimte vindt u:
 - douche
 - wellnessprodukten (scrubzout en bodylotion)
 
-**Prijs afhuren sauna**: € 30 voor 3 uur.
+**Prijs afhuren sauna**: € 30 voor 2 uur.
