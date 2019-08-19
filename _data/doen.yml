@@ -1248,6 +1248,28 @@ items:
     fr: Parc thématique maritime - Zeebrugge
     de: Marine theme park - Zeebrugge
     en: Maritimes Themenpark - Zeebrugge
+- ranking: 155
+  location: 51.252555, 2.975825
+  subgroups:
+  - cult
+  - event
+  images:
+  - "/img/doen/thaisemarkt.jpg"
+  link:
+    nl: https://www.thai-events.org/
+    fr: https://www.thai-events.org/
+    de: https://www.thai-events.org/
+    en: https://www.thai-events.org/
+  title:
+    nl: Thailand Festival
+    fr: Thailand Festival
+    de: Thailand Festival
+    en: Thailand Festival
+  caption:
+    nl: ''
+    fr: ''
+    de: ''
+    en: ''
 
 subgroups:
   nl:
