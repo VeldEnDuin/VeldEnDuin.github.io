@@ -1270,6 +1270,74 @@ items:
     fr: ''
     de: ''
     en: ''
+- ranking: 01
+  location: 51.230316, 2.910465
+  subgroups:
+  - event
+  - kids
+  images:
+  - "/img/doen/vuurwerk.jpg"
+  link:
+    nl: https://www.visitoostende.be/nl/eindejaarsvuurwerk-2019
+    fr: https://www.visitoostende.be/fr/feux-dartifice-du-nouvel-2019
+    de: https://www.visitoostende.be/de/feuerwerk-waehrend-des-jahreswechsels-2019
+    en: https://www.visitoostende.be/en/new-years-fireworks-2019
+  title:
+    nl: Eindejaarsvuurwerk
+    fr: Feux d'artifice du Nouvel An
+    de: Neujahrsfeuerwerk
+    en: New Year's fireworks
+  caption:
+    nl: ''
+    fr: ''
+    de: ''
+    en: ''
+- ranking: 02
+  location: 51.231039, 2.914412
+  subgroups:
+  - event
+  - kids
+  images:
+  - "/img/doen/lichttunnel.jpg"
+  link:
+    nl: https://www.visitoostende.be/nl/spectaculaire-lichtshow-0
+    fr: https://www.visitoostende.be/fr/tunnel-de-lumiere-magique-2019
+    de: https://www.visitoostende.be/de/lichtertunnel-2019
+    en: https://www.visitoostende.be/en/spectacular-light-show-2019
+  title:
+    nl: Lichttunnel
+    fr: Tunnel de lumière
+    de: Lichtertunnel
+    en: Light tunnel
+  caption:
+    nl: ''
+    fr: ''
+    de: ''
+    en: ''
+- ranking: 03
+  location: 51.229181, 2.914080
+  subgroups:
+  - event
+  - shopout
+  - recrea
+  - kids
+  images:
+  - "/img/doen/winterpark.jpg"
+  link:
+    nl: https://www.winterinhetpark.be
+    fr: https://www.winterinhetpark.be/fr
+    de: https://www.winterinhetpark.be
+    en: https://www.winterinhetpark.be/en
+  title:
+    nl: Winter in het park
+    fr: Winter in het park
+    de: Winter in het park
+    en: Winter in het park
+  caption:
+    nl: kerstmarkt & ijspiste
+    fr: marché de Noël & piste de patinage
+    de: Weihnachtsmarkt & Eisbahn
+    en: Christmas market & ice skating ring
 
 subgroups:
   nl:
