@@ -1160,10 +1160,10 @@ items:
     de: Sandskulpturenfestival
     en: Sand sculpture festival
   caption:
-    nl: Oostende
-    fr: Ostende
-    de: Oostende
-    en: Ostend
+    nl: Oostende - 20/06 - 06/09/20
+    fr: Ostende - 20/06 - 06/09/20
+    de: Oostende - 20/06 - 06/09/20
+    en: Ostend - 20/06 - 06/09/20
 - ranking: 155
   location: 51.055099, 3.720985
   subgroups:
@@ -1270,6 +1270,27 @@ items:
     fr: ''
     de: ''
     en: ''
+- ranking: 60
+  location: 51.252583, 2.974882
+  subgroups:
+  - event
+  images:
+  - "/img/doen/bredenefestivalt.jpg"
+  link:
+    nl: https://www.bredenefestivalt.be/
+    fr: https://www.bredenefestivalt.be/
+    de: https://www.bredenefestivalt.be/
+    en: https://www.bredenefestivalt.be/
+  title:
+    nl: Bredene Festivalt
+    fr: Bredene Festivalt
+    de: Bredene Festivalt
+    en: Bredene Festivalt
+  caption:
+    nl: gratis familiefestival - Bredene - 08/08/20
+    fr: festival de famille gratuite - Bredene - 08/08/20
+    de: kostenloses Familienfestival - Bredene - 08/08/20
+    en: free family festival - Bredene - 08/08/20
 - ranking: 01
   location: 51.230316, 2.910465
   subgroups:
