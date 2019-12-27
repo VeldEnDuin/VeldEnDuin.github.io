@@ -4,7 +4,7 @@ title: Type 3
 preview: 
     title: Type 3
     button:
-        price: 2035
+        price: 2135
         for: per an
     list:
         - "surface moyenne : 120 m²"
@@ -35,12 +35,12 @@ Qui n’a jamais rêvé d’un pied-à-terre à la mer pour s’y rendre dès qu
 - raccordement à l’eau pendant l’hiver
 
 
-## Prix 2019
+## Prix 2020
 
 TYPE 3                |PRIX           |
 :--------------------:|:--------------:|
-indemnité de résidence par an |€ 2035              
-taxe communale                |€ 362 
+indemnité de résidence par an |€ 2135              
+taxe communale                |pas encore connu 
 déchets ménagers<br>incl 25 sacs poubelles<br> | € 80   
 [assurance incendie][pdf_brandverzekering.fr]     |selon la<br>valeur de la caravane / chalet
 
@@ -48,7 +48,7 @@ CONSOMMATION ⑴        |PRIX        |
 :--------------------:|:-------------:|
 électricité           | € 0,39 / kw        
 eau                   | € 7,5 / m³
-gaz                   | € 6,75 / m³       
+gaz                   | € 6,85 / m³       
 compteur              | € 20 / compteur  
 
 ⑴ prix sous réserve de modifications des prix de l’énergie

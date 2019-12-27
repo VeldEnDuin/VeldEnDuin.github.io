@@ -4,7 +4,7 @@ title: Séjour résidentiel
 preview: 
     title: Séjour résidentiel
     button:
-        price: 1830
+        price: 1920
         for: par an
     list:
         - "emplacements de 80 m²"
@@ -51,12 +51,12 @@ Votre caravane équipée de tout le confort reste sur son emplacement toute l’
 - max. 6 personnes / emplacement
 - chiens admis : max. 2 – pas de chiens dangereux
 
-## Prix 2019
+## Prix 2020
 
 PÉRIODE               | INDEMNITÉ DE RÉSIDENCE | TAXE COMMUNALE      
 :--------------------:|:----------------------:|--------------|
-6 mois             |€ 1720                 |€ 138,07          
-1 an<br>(1/1-31/12) |€ 1830                  |€ 362                
+6 mois             |€ 1805                 |pas encore connu         
+1 an<br>(1/1-31/12) |€ 1920                  |pas encore connu             
  
 ## Inclus
 

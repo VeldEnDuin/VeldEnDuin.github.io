@@ -34,7 +34,7 @@ Réservation possible à la réception.
 | Formule                 | Tarif |
 |-------------------------|:-----:|
 | emplacement annuel      |€ 45 / vélo   |
-| emplacement locataires / campeurs | 1 € / nuit – garantie pour la clé 25 € |
+| emplacement locataires / campeurs | 2 € / nuit – garantie pour la clé 25 € |
 
 
 La réception et le terrain de jeux sont également équipés d’un râtelier à vélos très pratique pour vos déplacements dans le camping. 

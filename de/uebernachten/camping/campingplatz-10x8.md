@@ -4,7 +4,7 @@ title: Campingplatz 10x8
 preview: 
     title: Campingplatz 10x8
     button:
-        price: 23
+        price: 22
         for: pro Nacht
     list:
         - "Plätze von 80m²"
@@ -41,15 +41,16 @@ Kombinieren Sie die Freiheit des Reisens mit einem Wohnwagen mit dem Komfort uns
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 - Kein Zugang in folgenden Zeiträumen 15/01 - 01/03 und 15/11 - 15/12
 
-## Preise 2019
+## Preise 2020
 
 ANZAHL PERSONEN | PREIS / NACHT      
 :-------------:|:-----------:|
-1 Person       |€ 23               
-2 Personen     |€ 26                   
-3 Personen     |€ 29       
-4 Personen     |€ 32             
-5/6 Personen   |€ 35       
+1 Person       |€ 22               
+2 Personen     |€ 25                   
+3 Personen     |€ 28       
+4 Personen     |€ 31             
+5 Personen     |€ 34    
+6 Personen     |€ 37    
 
 15.7. bis 15.8.: Reservierung ab 7 Nächten
 

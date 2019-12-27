@@ -4,7 +4,7 @@ title: Residential campers
 preview: 
     title: Residential campers
     button:
-        price: 1830
+        price: 1920
         for: per year
     list:
         - "80 m² pitches"
@@ -51,12 +51,12 @@ Your caravan stays on the campsite all year round. This means you can enjoy ever
 - max 6 persons / pitch
 - dags allowed: max 2 – no dangerous breeds
 
-## Prices 2019
+## Prices 2020
 
 PERIOD              | STAND PRICE  | MUNICIPAL TAXES       
 :--------------------:|:----------------------:|--------------|
-6 months             |€ 1720               |€ 138,07        
-1 year<br>(1/1-31/12) |€ 1830                 |€ 362              
+6 months             |€ 1805              |not yet known        
+1 year<br>(1/1-31/12) |€ 1920                 |not yet known              
  
 ## Included
 

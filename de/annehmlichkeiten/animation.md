@@ -38,13 +38,8 @@ Jedes Jahr schließen wir mit einem gemütlichen Glühweinabend ab. Bei warmen G
 
 | Datum | Aktivität |
 |-------|------------|
-|   11/07/2019    |    Familienyoga                 |
-|   19/07/2019    |    basteln mit Müll             |
-|   26/07/2019    |    Kippwand                     |
-|   02/08/2019    |    Escape Caravan               |
-|   09/08/2019    |    Kinderkochen                 |
-|   15/08/2019    |    großes Waffelbackfest        |
-|   27/12/2019    |    Glühweinabend                |
+|       |            |
+
 
 
 

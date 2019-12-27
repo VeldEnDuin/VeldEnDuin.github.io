@@ -32,7 +32,7 @@ DAILY TAX ⑴              |PRICE PER NIGHT|
 :------------------:|:-------------:|
 1 person           | € 2,50        
 2 persons          | € 5  
-family (up to 5 pers.)  | € 9     
+family (up to 5 pers.)  | € 10     
 extra person     | € 2,50
 
 

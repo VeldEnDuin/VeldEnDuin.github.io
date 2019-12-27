@@ -52,7 +52,7 @@ These pitches of 7x8 m are convenient for small (self-constructing) tents.
 - dogs allowed - max 2 – no dangerous breeds
 - not accessible between 15/01 - 01/03 and 15/11 - 15/12
 
-## Prices 2019
+## Prices 2020
 
 NUMBER OF PERSONS | PRICE / NIGHT     
 :-------------:|:-----------:|

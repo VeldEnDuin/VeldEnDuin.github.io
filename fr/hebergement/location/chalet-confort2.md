@@ -4,7 +4,7 @@ title: Chalet Confort 2
 preview: 
     title: Chalet Confort 2
     button:
-        price: 99
+        price: 100
         for: 2 nuits
     list:
         - "séjour agréable à 2"
@@ -81,16 +81,16 @@ Le linge de lit peut être loué au camping.
 
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
-nettoyage           | € 40 - le locataire est autorisé à faire le nettoyage lui-même
+nettoyage           | € 45 - le locataire est autorisé à faire le nettoyage lui-même
 chien               | € 4 / nuit - max 1
 draps               | € 9 / lit
-lit d'enfant        | € 1 / nuit
-chaise haute        | € 1 / nuit
+lit d'enfant        | € 2 / nuit
+chaise haute        | € 2 / nuit
 parking voiture supplémentaire  | € 4 / jour entamé
-[emplacement vélo][fietsberging.fr]| € 1 / vélo / nuit
+[emplacement vélo][fietsberging.fr]| € 2 / vélo / nuit
 [sauna][sauna.fr]   | € 30
 [internet][internet.fr]| prix en fonction de la durée de connexion
-[service Veld & Duin][veld_duin_service.fr]| € 45
+[service Veld & Duin][veld_duin_service.fr]| € 50
 
 
 ## Plan du camping

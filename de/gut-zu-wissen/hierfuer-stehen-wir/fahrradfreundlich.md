@@ -46,7 +46,7 @@ Wir haben dieses Zeichen erstmals 2004 erhalten und setzen uns gern weiterhin f�
 Unter anderem können Sie folgende Einrichtungen nutzen:
 
 
-- Unseren überdachten Fahrradunterstand (€ 1/Rad/Nacht) – Reservierungen an der Rezeption
+- Unseren überdachten Fahrradunterstand (€ 2/Rad/Nacht) – Reservierungen an der Rezeption
 - Fahrradständer an Rezeption und Spielplatz
 
 

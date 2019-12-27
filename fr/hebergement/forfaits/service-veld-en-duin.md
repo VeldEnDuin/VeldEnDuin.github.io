@@ -4,7 +4,7 @@ title: "Service Veld & Duin"
 preview: 
     title: "Service Veld & Duin"
     button:
-        price: 45
+        price: 50
         for: 
     list:
         - "nettoyage en fin de séjour"
@@ -39,15 +39,14 @@ Nous vous proposons ce service afin de vous permettre de profiter pleinement de 
 - disponible à la réservation toute l’année
 
 
-## Prix 2019
+## Prix 2020
 
 TYPE D'HÉBERGEMENT  | PRIX
 :------------------:|:-----------             
-confort 2           |€ 45
-confort 2 (chalet 4 pers.)|€ 65
-confort 4           |€ 65         
-confort 4 plus      |€ 65  
-appartement de luxe |€ 75        
+confort 2           |€ 50
+confort 4           |€ 70         
+confort 4 plus      |€ 70  
+appartement de luxe |€ 70        
         
 
 

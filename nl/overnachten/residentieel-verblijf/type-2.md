@@ -4,7 +4,7 @@ title: Type 2
 preview: 
     title: Type 2
     button:
-        price: 1975
+        price: 2070
         for: per jaar
     list:
         - "gemiddelde opp: 100 m²"
@@ -35,12 +35,12 @@ Kom na een drukke werkweek onthaasten in uw caravan. Zo kunt u er nadien weer he
 - geen wintervaste wateraansluiting - sanitairgebouw blijft open
 
 
-## Prijzen 2019
+## Prijzen 2020
 
 TYPE 2                |PRIJS           |
 :--------------------:|:--------------:|
-standplaatsvergoeding |€ 1975              
-gemeentetaks          |€ 362
+standplaatsvergoeding |€ 2070              
+gemeentetaks          |nog niet bekend
 huisvuilbijdrage<br>incl 25 zakken<br> | € 80   
 [brandverzekering][pdf_brandverzekering.nl]|afhankelijk van <br>waarde caravan
 

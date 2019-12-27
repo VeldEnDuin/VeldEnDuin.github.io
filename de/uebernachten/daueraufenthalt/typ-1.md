@@ -4,7 +4,7 @@ title: Typ 1
 preview: 
     title: Typ 1
     button:
-        price: 1830
+        price: 1920
         for: pro Jahr
     list:
         - "Durchschnittl. Fläche: 80 m²"
@@ -33,12 +33,12 @@ Diese Plätze haben eine etwas kleinere Fläche, bieten aber ebenso gut im Handu
 - Kein winterfester Wasseranschluss – Sanitärgebäude bleibt geöffnet
 
 
-## Preise 2019
+## Preise 2020
 
 TYP 1                                         |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
-Stellplatzkosten                         | € 1830       
-Gemeindesteuer                                   | € 362
+Stellplatzkosten                         | € 1920      
+Gemeindesteuer                                   | noch nicht bekannt
 Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 80    
  [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens
 

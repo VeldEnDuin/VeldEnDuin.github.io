@@ -4,7 +4,7 @@ title: Chalet Comfort 4
 preview: 
     title: Chalet comfort 4 
     button:
-        price: 113
+        price: 114
         for: 2 nachten
     list:
         - "4 personen"
@@ -75,22 +75,22 @@ Lakenpakketten kunt u ook huren.
 - internet voor 2 toestellen
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
-- **uitzondering** forfait energiekost 15/12 - 15/01: € 9 / nacht
+- **uitzondering** forfait energiekost 15/12 - 15/01: € 10 / nacht
 
 ## Extra's
 
 EXTRA               | PRIJS 
 :-------------------|:-----------|
-schoonmaak          | € 40 - zelf schoonmaken kan
+schoonmaak          | € 45 - zelf schoonmaken kan
 hond                | € 4 / nacht - max 2
 lakenpakket         | € 9 / bed
-kinderbed           | € 1 / nacht
-kinderstoel         | € 1 / nacht
+kinderbed           | € 2 / nacht
+kinderstoel         | € 2 / nacht
 parking extra auto  | € 4 / begonnen dag
-[plaats fietsberging][fietsberging.nl]| € 1 / fiets / nacht
+[plaats fietsberging][fietsberging.nl]| € 2 / fiets / nacht
 [sauna][sauna.nl]   | € 30
 [internet][internet.nl]| afhankelijk van tijd online
-[Veld & Duin service][veld_duin_service.nl]| € 65
+[Veld & Duin service][veld_duin_service.nl]| € 70
 
 
 ## Plan camping

@@ -4,7 +4,7 @@ title: Luxury Apartment
 preview: 
     title: Luxury Apartment
     button:
-        price: 138
+        price: 140
         for: 2 nights
     list:
         - "5-6 persons"
@@ -84,21 +84,21 @@ Bed linen can also be rented at the reception.
 - internet for 2 devices
 - parking 1 car
 - consumption water & electricity
-- **exception** flat-rate energy cost 15/12 - 15/01: € 9 / night
+- **exception** flat-rate energy cost 15/12 - 15/01: € 10 / night
 
 ## Extra Services
 
 EXTRA SERVICE             | PRICE
 :-------------------|:-----------|
-cleaning          | € 50 - final cleaning by tenants is allowed
+cleaning          | € 45 - final cleaning by tenants is allowed
 bed linen        | € 9 / bed
-baby cot          | € 1 / night
-baby chair         | € 1 / night
+baby cot          | € 2 / night
+baby chair         | € 2 / night
 parking place extra car  | € 4 / started day
-[bicycle shed][fietsberging.en]| € 1 / bike / night
+[bicycle shed][fietsberging.en]| € 2 / bike / night
 [sauna][sauna.en]   | € 30
 [internet][internet.en]| depending on time online
-[Veld & Duin service][veld_duin_service.en]| € 75
+[Veld & Duin service][veld_duin_service.en]| € 70
 
 
 ## Plan campsite

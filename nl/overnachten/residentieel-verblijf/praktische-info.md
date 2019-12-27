@@ -32,7 +32,7 @@ DAGTAKS ⑴          |PRIJS PER NACHT|
 :------------------:|:-------------:|
 1 persoon           | € 2,50        
 2 personen          | € 5  
-gezin (tot 5 pers)  | € 9     
+gezin (tot 5 pers)  | € 10     
 extra persoon       | € 2,50
 
 

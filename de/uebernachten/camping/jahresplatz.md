@@ -4,7 +4,7 @@ title: Jahresplatz
 preview: 
     title: Jahresplatz
     button:
-        price: 1830
+        price: 1920
         for: pro Jahr
     list:
         - "Plätze 80 m²"
@@ -51,12 +51,12 @@ Ihr Wohnwagen mit allen Grundannehmlichkeiten bleibt das ganze Jahr über stehen
 - Höchstens 6 Personen/Platz
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 
-## Preise 2019
+## Preise 2020
 
 ZEITRAUM              | STELLPLATZKOSTEN       | GEMEINDESTEUER      
 :--------------------:|:----------------------:|--------------|
-6 Monate              |€ 1720                 |€ 138,07           
-1 Jahr<br>(1.1.-31.12.) |€ 1830                 |€ 362                 
+6 Monate              |€ 1805                 |noch nicht bekannt           
+1 Jahr<br>(1.1.-31.12.) |€ 1920               |noch nicht bekannt                
  
 ## Inbegriffen
 

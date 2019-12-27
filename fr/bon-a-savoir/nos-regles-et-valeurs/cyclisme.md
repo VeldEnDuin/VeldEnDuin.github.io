@@ -45,7 +45,7 @@ Nous avons obtenu ce label pour la première fois en 2004. Nous continuons à me
 Nous mettons notamment à votre disposition:
 
 
-- notre garage à vélos (1 € / vélo / nuit) - réservation à la réception
+- notre garage à vélos (2 € / vélo / nuit) - réservation à la réception
 - des râteliers à vélo à la réception et sur le terrain de jeu
 
 

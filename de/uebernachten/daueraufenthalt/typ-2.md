@@ -4,7 +4,7 @@ title: Typ 2
 preview: 
     title: Typ 2
     button:
-        price: 1975
+        price: 2070
         for: pro Jahr
     list:
         - "Durchschnittl. Fläche: 100 m²"
@@ -36,12 +36,12 @@ Entschleunigen Sie nach einer hektischen Arbeitswoche in Ihrem Wohnwagen. So kö
 - Kein winterfester Wasseranschluss – Sanitärgebäude bleibt geöffnet
 
 
-## Preise 2019
+## Preise 2020
 
 TYP 2                                         |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
-Stellplatzkosten                         | € 1975      
-Gemeindesteuer                                   | € 362 
+Stellplatzkosten                         | € 2070      
+Gemeindesteuer                                   | noch nicht bekannt 
 Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 80   
  [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens
 

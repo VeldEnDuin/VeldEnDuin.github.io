@@ -4,7 +4,7 @@ title: Appartement Confort 4 Plus
 preview: 
     title: Appartement Confort 4 +
     button:
-        price: 123
+        price: 124
         for: 2 nuits
     list:
         - "4-5 personnes"
@@ -77,20 +77,20 @@ Le linge de lit peut être loué au camping.
 - internet pour 2 appareils
 - parking 1 voiture
 - consommation eau - électricité 
-- **exception** forfait pour les frais énergétiques 15/12 - 15/01: € 9 / nuit
+- **exception** forfait pour les frais énergétiques 15/12 - 15/01: € 10 / nuit
 
 ## Suppléments
 
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
-nettoyage           | € 40 - le locataire est autorisé à faire le nettoyage lui-même
+nettoyage           | € 45 - le locataire est autorisé à faire le nettoyage lui-même
 draps               | € 9 / lit
-lit d'enfant        | € 1 / nuit
-chaise haute        | € 1 / nuit
+lit d'enfant        | € 2 / nuit
+chaise haute        | € 2 / nuit
 parking voiture supplémentaire  | € 4 / jour entamé
 [sauna][sauna.fr]   | € 30
 [internet][internet.fr]| prix en fonction de la durée de connexion
-[service Veld & Duin][veld_duin_service.fr]| € 65
+[service Veld & Duin][veld_duin_service.fr]| € 70
 
 
 ## Plan du camping

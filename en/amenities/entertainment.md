@@ -39,13 +39,8 @@ At the end of the year we are going to organize a cosy mulled wine evening. A go
 
 | Date | Activity|
 |-------|------------|
-|   11/07/2019    |    family yoga                  |
-|   19/07/2019    |    crafting with trash          |
-|   26/07/2019    |    tilting wall                 |
-|   02/08/2019    |    escape caravan               |
-|   09/08/2019    |    cooking for kids             |
-|   15/08/2019    |    waffle fest                  |
-|   27/12/2019    |    mulled wine eve              |
+|       |            |
+
 
 
 

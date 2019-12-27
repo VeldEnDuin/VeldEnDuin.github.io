@@ -4,7 +4,7 @@ title: Type 3
 preview: 
     title: Type 3
     button:
-        price: 2035
+        price: 2135
         for: per year
     list:
         - "average surface: 120 m²"
@@ -36,12 +36,12 @@ Do you secretly dream about a place to settle along the coast? Make your dream c
 - winter proof gas connection
 
 
-## Prices 2019
+## Prices 2020
 
 TYPE 3                |PRICE           |
 :--------------------:|:--------------:|
-stand price per year  |€ 2035            
-municipal taxes       |€ 362
+stand price per year  |€ 2135            
+municipal taxes       |not yet known
 contribution for household refuge<br>incl. 25 bags<br> | € 80   
 [fire insurance][pdf_brandverzekering.en]      |depending on <br>worth of the caravan / chalet
 
@@ -49,7 +49,7 @@ CONSUMPTION ⑴           |PRICE         |
 :--------------------:|:-------------:|
 electricity         | € 0,39 / kw        
 water                 | € 7,5 / m³  
-gas                   | € 6,75 / m³       
+gas                   | € 6,85 / m³       
 counter     | € 20 / counter
 
 ⑴ price subject to changing energy charges

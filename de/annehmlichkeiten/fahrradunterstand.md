@@ -34,7 +34,7 @@ Reservieren Sie bitte an der Rezeption.
 | Konzept                | Preis |
 |-------------------------|:-----:|
 | Jahresplatz Fahrradunterstand |€ 45 / Rad   |
-| Platz Mieter/Kurzzeitcamper | € 1 / Nacht - Kaution Schlüssel € 25 |
+| Platz Mieter/Kurzzeitcamper | € 2 / Nacht - Kaution Schlüssel € 25 |
 
 
 An der Rezeption und am Spielplatz befinden sich Fahrradständer, sodass Sie Ihr Fahrrad auch dort einfach abstellen können. 

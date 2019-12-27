@@ -4,7 +4,7 @@ title: Caravan Comfort 2
 preview: 
     title: Caravan Comfort 2
     button:
-        price: 99
+        price: 90
         for: 2 nachten
     list:
         - "2 personen"
@@ -81,16 +81,16 @@ Lakenpakketten kunt u ook huren.
 
 EXTRA               | PRIJS 
 :-------------------|:-----------|
-schoonmaak          | € 40 - zelf schoonmaken kan
+schoonmaak          | € 45 - zelf schoonmaken kan
 hond                | € 4 / nacht - max 1
 lakenpakket         | € 9 / bed
-kinderbed           | € 1 / nacht
-kinderstoel         | € 1 / nacht
+kinderbed           | € 2 / nacht
+kinderstoel         | € 2 / nacht
 parking extra auto  | € 4 / begonnen dag
-[plaats fietsberging][fietsberging.nl]| € 1 / fiets / nacht
+[plaats fietsberging][fietsberging.nl]| € 2 / fiets / nacht
 [sauna][sauna.nl]   | € 30
 [internet][internet.nl]| afhankelijk van tijd online
-[Veld & Duin service][veld_duin_service.nl]| € 45
+[Veld & Duin service][veld_duin_service.nl]| € 50
 
 
 ## Plan camping

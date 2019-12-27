@@ -4,7 +4,7 @@ title: Type 3
 preview: 
     title: Type 3
     button:
-        price: 2035
+        price: 2135
         for: per jaar
     list:
         - "gemiddelde opp: 120 m²"
@@ -36,12 +36,12 @@ Een vaste stek aan de kust om steeds opnieuw naar terug te keren, wie droomt daa
 - wintervaste wateraansluiting
 
 
-## Prijzen 2019
+## Prijzen 2020
 
 TYPE 3                |PRIJS           |
 :--------------------:|:--------------:|
-standplaatsvergoeding |€ 2035              
-gemeentetaks          |€ 362
+standplaatsvergoeding |€ 2135              
+gemeentetaks          |nog niet bekend
 huisvuilbijdrage<br>incl 25 zakken<br> | € 80    
 [brandverzekering][pdf_brandverzekering.nl]      |afhankelijk van <br>waarde caravan / chalet
 
@@ -49,7 +49,7 @@ VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
 elektriciteit         | € 0,39 / kw        
 water                 | € 7,5 / m³  
-gas                   | € 6,75 / m³       
+gas                   | € 6,85 / m³       
 tellervergoeding      | € 20 / teller
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven

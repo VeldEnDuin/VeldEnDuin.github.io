@@ -4,7 +4,7 @@ title: Type 1
 preview: 
     title: Type 1
     button:
-        price: 1830
+        price: 1920
         for: per jaar
     list:
         - "gemiddelde opp: 80 m²"
@@ -33,12 +33,12 @@ Deze plaatsen zijn iets kleiner qua oppervlakte maar bieden evengoed een instant
 - geen wintervaste wateraansluiting - sanitairgebouw blijft open
 
 
-## Prijzen 2019
+## Prijzen 2020
 
 TYPE 1                                         |PRIJS                               |
 :---------------------------------------------:|:----------------------------------:|
-standplaatsvergoeding                          | € 1830    
-gemeentetaks                                   | € 362 
+standplaatsvergoeding                          | € 1920   
+gemeentetaks                                   | nog niet bekend 
 huisvuilbijdrage<br>incl 25 zakken<br>         | € 80   
  [brandverzekering][pdf_brandverzekering.nl]   | afhankelijk van <br>waarde caravan
 

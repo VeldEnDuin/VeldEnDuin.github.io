@@ -38,13 +38,8 @@ Pour clôturer l’année en beauté, nous organisons une soirée vin chaud. Ré
 
 | Date | Activité |
 |-------|------------|
-|   11/07/2019    |    yoga familial                |
-|   19/07/2019    |    bricolage avec déchets       |
-|   26/07/2019    |    mur basculant                |
-|   02/08/2019    |    escape caravan               |
-|   09/08/2019    |    atelier cuisine pour enfants |
-|   15/08/2019    |    gaufrier géant               |
-|   27/12/2019    |    soirée au vin chaud          |
+|       |            |
+
 
 
 

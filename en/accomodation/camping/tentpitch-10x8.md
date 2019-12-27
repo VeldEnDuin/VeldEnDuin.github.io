@@ -4,7 +4,7 @@ title: Tent pitch 10x8
 preview: 
     title: Tent pitch 10x8
     button:
-        price: 23
+        price: 22
         for: per night
     list:
         - "10x8 m"
@@ -52,15 +52,16 @@ Go for the real camping experience with the whole family and stay in a tent. You
 - dogs allowed - max 2 – no dangerous breeds
 - not accessible between 15/01 - 01/03 and 15/11 - 15/12
 
-## Prices 2019
+## Prices 2020
 
 NUMBER OF PERSONS | PRICE / NIGHT     
 :-------------:|:-----------:|
-1 person      |€ 23               
-2 persons     |€ 26                   
-3 persons     |€ 29       
-4 persons     |€ 32             
-5/6 persons   |€ 35       
+1 person      |€ 22               
+2 persons     |€ 25                   
+3 persons     |€ 28       
+4 persons     |€ 31             
+5 persons     |€ 34
+6 persons     |€ 37
 
 15/7 - 15/8: upon reservation as from 7 nights
 

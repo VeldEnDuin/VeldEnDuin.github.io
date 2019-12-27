@@ -4,7 +4,7 @@ title: Vaste kampeerplaats
 preview: 
     title: Vaste kampeerplaats
     button:
-        price: 1830
+        price: 1920
         for: per jaar
     list:
         - "80 m² plaatsen"
@@ -51,12 +51,12 @@ Uw trekcaravan met alle basisvoorzieningen blijft het hele jaar staan. Zo kunt u
 - max 6 personen / plaats
 - honden toegelaten: max 2 - geen gevaarlijke rassen
 
-## Prijzen 2019
+## Prijzen 2020
 
 PERIODE               | STANDPLAATSVERGOEDING  | GEMEENTETAKS       
 :--------------------:|:----------------------:|--------------|
-6 maanden             |€ 1720                  |€ 138,07           
-1 jaar<br>(1/1-31/12) |€ 1830                  |€ 362                 
+6 maanden             |€ 1805                  |nog niet bekend           
+1 jaar<br>(1/1-31/12) |€ 1920                  |nog niet bekend                 
  
 ## Inbegrepen
 

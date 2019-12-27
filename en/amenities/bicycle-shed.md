@@ -34,7 +34,7 @@ For any of the above, contact the reception.
 | Formula                 | Price |
 |-------------------------|:-----:|
 | annual rent 		   |€ 45 / bike   |
-| backpackers/tenants | € 1 / night – warranty per key € 25 |
+| backpackers/tenants | € 2 / night – warranty per key € 25 |
 
 
 You can also put your bike in the bicycle rack at the reception or at the playground. 

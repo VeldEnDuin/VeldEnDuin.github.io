@@ -4,7 +4,7 @@ title: "Veld & Duin service"
 preview: 
     title: "Veld & Duin service"
     button:
-        price: 45
+        price: 50
         for: 
     list:
         - "eindschoonmaak"
@@ -36,15 +36,14 @@ Om optimaal te kunnen genieten van uw verblijf, bieden wij dit servicepakket aan
 - het hele jaar door boekbaar
 
 
-## Prijzen 2019
+## Prijzen 2020
 
 VERHUURTYPE         | PRIJS
 :------------------:|:-----------          
-comfort 2           |€ 45 
-comfort 2 (4 pers. chalet)|€ 65  
-comfort 4           |€ 65         
-comfort 4 plus      |€ 65  
-luxe appartement    |€ 75         
+comfort 2           |€ 50  
+comfort 4           |€ 70         
+comfort 4 plus      |€ 70  
+luxe appartement    |€ 70         
         
 
 

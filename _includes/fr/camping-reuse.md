@@ -1,14 +1,4 @@
 
-## Réductions
-
-Nombre de nuits | Réduction       
-:-------------:|:-----------:|        
-≥ 7 nuits   | 7 %                          
-
-- réduction uniquement valable sur le séjour, pas sur les services supplémentaires. Ne peut être combinée avec d’autres réductions ou forfaits
-- non valable en juillet et août
-
-
 ## Inclus
 - taxes communales et de séjour
 - parking pour 1 voiture
@@ -21,6 +11,6 @@ SUPPLÉMENTS           | PRIX
 jeton douche      | € 1 / jeton
 chien          | € 4 / nuit - max 2 
 parking voiture supplémentaire | € 4 / jour entamé
-[emplacement vélo][fietsberging.fr]| € 1 / vélo / nuit
+[emplacement vélo][fietsberging.fr]| € 2 / vélo / nuit
 [sauna][sauna.fr]| € 30
 [internet][internet.fr]| prix en fonction de la durée de connexion

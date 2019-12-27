@@ -4,7 +4,7 @@ title: Chalet Comfort 2
 preview: 
     title: Chalet Comfort 2
     button:
-        price: 99
+        price: 100
         for: 2 nights
     list:
         - "cosiness for 2"
@@ -84,16 +84,16 @@ Bed linen can also be rented at the reception.
 
 EXTRA SERVICE            | PRICE 
 :-------------------|:-----------|
-cleaning          | € 40 - final cleaning by tenants is allowed
+cleaning          | € 45 - final cleaning by tenants is allowed
 dogs               | € 4 / night - max 1
 bed linen        | € 9 / bed
-baby cot          | € 1 / night
-baby chair         | € 1 / night
+baby cot          | € 2 / night
+baby chair         | € 2 / night
 parking place extra car  | € 4 / started day
-[bicycle shed][fietsberging.en]| € 1 / bike / night
+[bicycle shed][fietsberging.en]| € 2 / bike / night
 [sauna][sauna.en]   | € 30
 [internet][internet.en]| depending on time online
-[Veld & Duin service][veld_duin_service.en]| € 45
+[Veld & Duin service][veld_duin_service.en]| € 50
 
 
 ## Plan campsite

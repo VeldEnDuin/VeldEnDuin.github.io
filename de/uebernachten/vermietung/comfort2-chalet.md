@@ -4,7 +4,7 @@ title: Chalet Comfort 2
 preview: 
     title: Chalet Comfort 2
     button:
-        price: 99
+        price: 100
         for: 2 Nächte
     list:
         - "Gemütlichkeit für 2"
@@ -82,16 +82,16 @@ Bettbezüge können Sie auch bei uns mieten.
 
 EXTRA               | PREIS 
 :-------------------|:-----------|
-Reinigung          | € 40 - selbst reinigen ist gestattet
+Reinigung          | € 45 - selbst reinigen ist gestattet
 Hund                | € 4 / Nacht - max 1
 Betttuchpaket         | € 9 / Bett
-Kinderbett           | € 1 / Nacht
-Kinderstuhl         | € 1 / Nacht
+Kinderbett           | € 2 / Nacht
+Kinderstuhl         | € 2 / Nacht
 Parkplatz extra Auto  | € 4 / angefangenem Tag
-[Platz im Fahrradunterstand][fietsberging.de]| € 1 / Rad / Nacht
+[Platz im Fahrradunterstand][fietsberging.de]| € 2 / Rad / Nacht
 [Sauna][sauna.de]   | € 30
 [Internet][internet.de]| abhängig von der Zeit online
-[Veld & Duin Service][veld_duin_service.de]| € 45
+[Veld & Duin Service][veld_duin_service.de]| € 50
 
 
 ## Plan Campingplatz

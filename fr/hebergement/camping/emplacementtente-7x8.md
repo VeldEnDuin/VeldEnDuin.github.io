@@ -52,7 +52,7 @@ Ces emplacements de 7x8 mètres conviennent parfaitement aux petites tentes (à 
 - chiens admis – max. 2 – pas de races dangereuses
 - fermé entre 15/01 - 01/03 et 15/11 - 15/12
 
-## Prix 2019
+## Prix 2020
 
 NOMBRE DE PERSONNES | PRIX / NUIT     
 :------------------:|:-----------:|

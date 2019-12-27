@@ -32,7 +32,7 @@ TAXE JOURNALIÈRE ⑴          |PRIX PAR NUIT|
 :------------------:|:-------------:|
 1 personne               | € 2,50        
 2 personnes              | € 5  
-famille (jusque 5 pers)  | € 9    
+famille (jusque 5 pers)  | € 10    
 personne supplémentaire  | € 2,50
 
 

@@ -4,7 +4,7 @@ title: Luxusappartement
 preview: 
     title: Luxusappartement
     button:
-        price: 138
+        price: 140
         for: 2 Nächte
     list:
         - "5-6 Personen"
@@ -84,21 +84,21 @@ Bettbezüge können Sie auch bei uns mieten.
 - Internet für 2 Geräte
 - Parkplatz für 1 Auto
 - Verbrauch von Wasser und Strom
-- **Ausnahme** Energiekostenpauschale 15/12 - 15/01: € 9 / Nacht
+- **Ausnahme** Energiekostenpauschale 15/12 - 15/01: € 10 / Nacht
 
 ## Extras
 
 EXTRA               | PREIS 
 :-------------------|:-----------|
-Reinigung          | € 50 - selbst reinigen ist gestattet
+Reinigung          | € 45 - selbst reinigen ist gestattet
 Betttuchpaket         | € 9 / Bett
-Kinderbett           | € 1 / Nacht
-Kinderstuhl         | € 1 / Nacht
+Kinderbett           | € 2 / Nacht
+Kinderstuhl         | € 2 / Nacht
 Parkplatz extra Auto  | € 4 / angefangenem Tag
-[Platz im Fahrradunterstand][fietsberging.de]| € 1 / Rad / Nacht
+[Platz im Fahrradunterstand][fietsberging.de]| € 2 / Rad / Nacht
 [Sauna][sauna.de]   | € 30
 [Internet][internet.de]| abhängig von der Zeit online
-[Veld & Duin Service][veld_duin_service.de]| € 75
+[Veld & Duin Service][veld_duin_service.de]| € 70
 
 
 ## Plan Campingplatz

@@ -4,7 +4,7 @@ title: Appartement Comfort 4 Plus
 preview: 
     title: Appartement Comfort 4 + 
     button:
-        price: 123
+        price: 124
         for: 2 nachten
     list:
         - "4-5 personen"
@@ -75,20 +75,20 @@ Lakenpakketten kunt u ook huren.
 - internet voor 2 toestellen
 - parking 1 auto
 - verbruik water en elektriciteit 
-- **uitzondering** forfait energiekost 15/12 - 15/01: € 9 / nacht
+- **uitzondering** forfait energiekost 15/12 - 15/01: € 10 / nacht
 
 ## Extra's
 
 EXTRA               | PRIJS 
 :-------------------|:-----------|
-schoonmaak          | € 40 - zelf schoonmaken kan
+schoonmaak          | € 45 - zelf schoonmaken kan
 lakenpakket         | € 9 / bed
-kinderbed           | € 1 / nacht
-kinderstoel         | € 1 / nacht
+kinderbed           | € 2 / nacht
+kinderstoel         | € 2 / nacht
 parking extra auto  | € 4 / begonnen dag
 [sauna][sauna.nl]   | € 30
 [internet][internet.nl]| afhankelijk van tijd online
-[Veld & Duin service][veld_duin_service.nl]| € 65
+[Veld & Duin service][veld_duin_service.nl]| € 70
 
 
 ## Plan camping

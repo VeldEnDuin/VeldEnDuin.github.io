@@ -4,7 +4,7 @@ title: Type 1
 preview: 
     title: Type 1
     button:
-        price: 1830
+        price: 1920
         for: per year
     list:
         - "average surface: 80 m²"
@@ -33,12 +33,12 @@ These pitches are smaller but give you an instant holiday feeling, regardless of
 - no winter proof water connection – sanitary building remains open
 
 
-## Prices 2019
+## Prices 2020
 
 TYPE 1                                         |PRICE                               |
 :---------------------------------------------:|:----------------------------------:|
-stand price per year                           | € 1830 
-municipal taxes                                | € 362
+stand price per year                           | € 1920
+municipal taxes                                | not yet known
 contribution for household refuse<br>incl. 25 bags<br>         | € 80   
  [fire insurance][pdf_brandverzekering.en]   | depending on <br>the worth of the caravan
 

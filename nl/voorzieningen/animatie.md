@@ -40,13 +40,8 @@ Het jaar wordt afgesloten met een gezellige glühweinavond. Onder het genot van 
 
 | Datum | Activiteit |
 |-------|------------| 
-|   11/07/2019    |    familieyoga          |
-|   19/07/2019    |    knutselen met afval  |
-|   26/07/2019    |    kantelmuur           |
-|   02/08/2019    |    escape caravan       |
-|   09/08/2019    |    kinderkoken          |
-|   15/08/2019    |    grote wafelbak       |
-|   27/12/2019    |    glühweinavond        |
+|       |            |
+
 
 
 

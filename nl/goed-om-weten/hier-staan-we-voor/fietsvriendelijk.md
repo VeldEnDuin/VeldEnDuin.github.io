@@ -46,7 +46,7 @@ We haalden dit label voor het eerst in 2004 en blijven ons graag verder inzetten
 U kunt onder meer gebruik maken van:
 
 
-- onze overdekte fietsberging (€ 1 / fiets / nacht) - reservaties aan de receptie
+- onze overdekte fietsberging (€ 2 / fiets / nacht) - reservaties aan de receptie
 - de fietsrekken aan de receptie en het speelplein
 
 

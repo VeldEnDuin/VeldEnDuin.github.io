@@ -4,7 +4,7 @@ title: Chalet Comfort 4
 preview: 
     title: Chalet comfort 4 
     button:
-        price: 113
+        price: 114
         for: 2 Nächte
     list:
         - "4 Personen"
@@ -75,22 +75,22 @@ Bettbezüge können Sie auch bei uns mieten.
 - Internet für 2 Geräte
 - Parkplatz für 1 Auto
 - Verbrauch von Gas, Wasser und Strom
-- **Ausnahme** Energiekostenpauschale 15/12 - 15/01: € 9 / Nacht
+- **Ausnahme** Energiekostenpauschale 15/12 - 15/01: € 10 / Nacht
 
 ## Extras
 
 EXTRA               | PREIS 
 :-------------------|:-----------|
-Reinigung          | € 40 - selbst reinigen ist gestattet
+Reinigung          | € 45 - selbst reinigen ist gestattet
 Hund                  | € 4 / Nacht - max 2     
 Betttuchpaket         | € 9 / Bett
-Kinderbett           | € 1 / Nacht
-Kinderstuhl         | € 1 / Nacht
+Kinderbett           | € 2 / Nacht
+Kinderstuhl         | € 2 / Nacht
 Parkplatz extra Auto  | € 4 / angefangenem Tag
-[Platz im Fahrradunterstand][fietsberging.de]| € 1 / Rad / Nacht
+[Platz im Fahrradunterstand][fietsberging.de]| € 2 / Rad / Nacht
 [Sauna][sauna.de]   | € 30
 [Internet][internet.de]| abhängig von der Zeit online
-[Veld & Duin Service][veld_duin_service.de]| € 65
+[Veld & Duin Service][veld_duin_service.de]| € 70
 
 
 ## Plan Campingplatz

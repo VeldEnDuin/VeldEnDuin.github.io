@@ -1,14 +1,4 @@
 
-## Rabatte
-
-Anzahl Nächte  | Rabatt       
-:-------------:|:-----------:|       
-≥ 7 Nächte     | 7 %                                       
-
-- Rabatte nur auf den Übernachtungspreis anwendbar, nicht auf Extras. Nicht kombinierbar mit anderen Rabatten oder Campingarrangements.
-- nicht gültig in Juli und August
-
-
 ## Inbegriffen
 
 - Gemeinde- und Aufenthaltssteuern
@@ -22,6 +12,6 @@ EXTRA             | PREIS
 Dusche       | € 1 / Jeton
 Hund              | € 4 / Nacht - max 2 
 Parkplatz extra Auto  | € 4 / angefangenem Tag
-[Platz im Fahrradunterstand][fietsberging.de]| € 1 / Rad / Nacht
+[Platz im Fahrradunterstand][fietsberging.de]| € 2 / Rad / Nacht
 [Sauna][sauna.de]   | € 30
 [Internet][internet.de]| abhängig von der Zeit online

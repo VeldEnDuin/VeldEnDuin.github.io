@@ -4,7 +4,7 @@ title: Typ 4
 preview: 
     title: Typ 4
     button:
-        price: 2725
+        price: 2860
         for: pro Jahr
     list:
         - "Durchschnittl. Fläche: 190 m²"
@@ -36,12 +36,12 @@ Wünschen Sie eine besonders große Parzelle mit Blick auf das zentral gelegene 
 - Winterfester Wasseranschluss
 
 
-## Preise 2018
+## Preise 2020
 
 TYP 4                                         |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
-Stellplatzkosten                         | € 2725         
-Gemeindesteuer                                   | € 362 
+Stellplatzkosten                         | € 2860        
+Gemeindesteuer                                   | noch nicht bekannt 
 Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 80  
  [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens
 
@@ -49,7 +49,7 @@ VERBRAUCH ⑴           |PREIS          |
 :--------------------:|:-------------:|
 Strom                 | € 0,39 / Kw        
 Wasser                | € 7,5 / m³
-Gas                   | € 6,75 / m³
+Gas                   | € 6,85 / m³
 Zähler                | € 20 / Zähler
 
 ⑴ Preis vorbehaltlich Änderungen der Energiepreise

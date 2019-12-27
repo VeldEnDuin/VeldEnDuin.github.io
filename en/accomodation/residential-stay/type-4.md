@@ -4,7 +4,7 @@ title: Type 4
 preview: 
     title: Type 4
     button:
-        price: 2725
+        price: 2860
         for: per year
     list:
         - "average surface: 190 m²"
@@ -36,12 +36,12 @@ Would you like a big plot overlooking the wadi? Choose one of our luxurious plac
 - winter proof gas connection
 
 
-## Prices 2019
+## Prices 2020
 
 TYPE 4                |PRICE           |
 :--------------------:|:--------------:|
-stand price per year  |€ 2725             
-municipal taxes       |€ 362 
+stand price per year  |€ 2860            
+municipal taxes       |not yet known 
 contribution for household refuse<br>incl. 25 bags<br> | € 80  
 [fire insurance][pdf_brandverzekering.en]     |depending on <br>the worth of the caravan
 
@@ -49,7 +49,7 @@ CONSUMPTION ⑴        |PRICE          |
 :--------------------:|:-------------:|
 electricity           | € 0,39 / kw        
 water                 | € 7,5 / m³  
-gas                   | € 6,75 / m³       
+gas                   | € 6,85 / m³       
 counter               | € 20 / counter
 
 ⑴ price subject to changing energy charges

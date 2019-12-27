@@ -46,7 +46,7 @@ We first obtained this label in 2004 but are still committed to improve the stay
 Facilities at your disposal:
 
 
-- covered bicycle shed (€ 1 / bike / night) – reservations at the reception
+- covered bicycle shed (€ 2 / bike / night) – reservations at the reception
 - cycling racks near the reception and playground
 
 

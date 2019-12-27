@@ -4,7 +4,7 @@ title: "Veld & Duin service"
 preview: 
     title: "Veld & Duin service"
     button:
-        price: 45
+        price: 50
         for: 
     list:
         - "final cleaning"
@@ -39,12 +39,11 @@ To enjoy your stay even more, we offer you the following service package. Make t
 - the whole year through available
 
 
-## Prices 2019
+## Prices 2020
 
 TYPE OF RENTAL       | PRICE
 :------------------:|:-----------             
-comfort 2           |€ 45  
-comfort 2 (4 pers. chalet) |€ 65  
-comfort 4           |€ 65         
-comfort 4 plus      |€ 65  
-luxury apartment    |€ 75        
+comfort 2           |€ 50  
+comfort 4           |€ 70        
+comfort 4 plus      |€ 70  
+luxury apartment    |€ 70        

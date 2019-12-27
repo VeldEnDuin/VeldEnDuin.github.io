@@ -52,7 +52,7 @@ Deze plaatsen van 7x8 meter zijn ideaal voor uw kleine (werp)tentje.
 - honden toegelaten - max 2 - geen gevaarlijke rassen
 - niet toegankelijk  tussen 15/01 - 01/03 en 15/11 - 15/12
 
-## Prijzen 2019
+## Prijzen 2020
 
 AANTAL PERSONEN | PRIJS / NACHT     
 :-------------:|:-----------:|

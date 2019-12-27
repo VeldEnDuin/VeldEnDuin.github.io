@@ -32,7 +32,7 @@ KURTAXE ⑴          |PREIS PRO NACHT|
 :------------------:|:-------------:|
 1 Person          | € 2,50        
 2 Personen          | € 5  
-Familie (bis 5 pers)  | € 9    
+Familie (bis 5 pers)  | € 10    
 Extra Person       | € 2,50
 
 

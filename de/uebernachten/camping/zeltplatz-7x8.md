@@ -52,7 +52,7 @@ Diese Plätze von 7x8 Metern sind ideal für Ihr kleines (Wurf-)Zelt.
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 - Kein Zugang in folgenden Zeiträumen 15/01 - 01/03 und 15/11 - 15/12
 
-## Preise 2019
+## Preise 2020
 
 ANZAHL PERSONEN | PREIS / NACHT     
 :-------------:|:-----------:|
