@@ -212,10 +212,10 @@ items:
     de: Theater aan Zee
     en: Theater aan Zee
   caption:
-    nl: theaterfestival - Oostende
-    fr: festival de théâtre – Ostende
-    de: Theaterfestival – Ostende
-    en: theater festival - Ostend
+    nl: theaterfestival - Oostende - 29/07 - 08/08/20
+    fr: festival de théâtre – Ostende - 29/07 - 08/08/20
+    de: Theaterfestival – Ostende - 29/07 - 08/08/20
+    en: theater festival - Ostend - 29/07 - 08/08/20
 - ranking: 100
   location: 51.278736, 3.034791
   subgroups:
@@ -233,10 +233,10 @@ items:
     de: Trammelant
     en: Trammelant
   caption:
-    nl: Belle Epoquefeest - De Haan
-    fr: fête sous le thème de la Belle Époque
-    de: Belle-Epoque-Fest – De Haan
-    en: Belle Epoque event - De Haan
+    nl: Belle Epoquefeest - De Haan - 08/08/20
+    fr: fête sous le thème de la Belle Époque - 08/08/20
+    de: Belle-Epoque-Fest – De Haan - 08/08/20
+    en: Belle Epoque event - De Haan - 08/08/20
 - ranking: 290
   location: 51.315091, 3.131080
   subgroups:
@@ -254,10 +254,10 @@ items:
     de: Blumenkorso
     en: Bloemencorso
   caption:
-    nl: bloemenstoet - Blankenberge
-    fr: cortège de chars fleuris – Blankenberge
-    de: Blumenumzug – Blankenberge
-    en: flower Parade - Blankenberge
+    nl: bloemenstoet - Blankenberge - 30/08/2020
+    fr: cortège de chars fleuris – Blankenberge - 30/08/2020
+    de: Blumenumzug – Blankenberge - 30/08/2020
+    en: flower Parade - Blankenberge - 30/08/2020
 - ranking: 240
   location: 51.318481, 3.146007
   subgroups:
@@ -1095,10 +1095,10 @@ items:
     de: Oostende voor Anker
     en: Oostende voor Anker
   caption:
-    nl: maritiem festival - Oostende
-    fr: festival maritime - Ostende
-    de: maritimes Festival - Oostende
-    en: maritime festival - Ostend
+    nl: maritiem festival - Oostende - 29/05 - 01/06/20
+    fr: festival maritime - Ostende - 29/05 - 01/06/20
+    de: maritimes Festival - Oostende - 29/05 - 01/06/20
+    en: maritime festival - Ostend - 29/05 - 01/06/20
 - ranking: 345
   location: 51.340946, 3.240212
   subgroups:
@@ -1116,10 +1116,10 @@ items:
     de: Kneistival
     en: Kneistival
   caption:
-    nl: gratis pop & rock festival - Knokke-Heist - 16/07/19 - 21/07/19
-    fr: festival pop & rock gratuit - Knokke-Heist - 16/07/19 - 21/07/19
-    de: kostenloses Pop & Rock Festival - Knokke-Heist - 16/07/19 - 21/07/19
-    en: free pop & rock festival - Knokke-Heist - 16/07/19 - 21/07/19
+    nl: gratis pop & rock festival - Knokke-Heist
+    fr: festival pop & rock gratuit - Knokke-Heist
+    de: kostenloses Pop & Rock Festival - Knokke-Heist
+    en: free pop & rock festival - Knokke-Heist
 - ranking: 55
   location: 51.230025, 2.919333
   subgroups:
@@ -1181,10 +1181,10 @@ items:
     de: Gentse feesten
     en: Gentse feesten
   caption:
-    nl: Cultuurfestival - Gent
-    fr: Fête culturel - Gand
-    de: Kulturellen Fest - Gent
-    en: Cultural festival - Ghent
+    nl: Cultuurfestival - Gent - 17/07 - 26/07/20
+    fr: Fête culturel - Gand - 17/07 - 26/07/20
+    de: Kulturellen Fest - Gent - 17/07 - 26/07/20
+    en: Cultural festival - Ghent - 17/07 - 26/07/20
 - ranking: 115
   location: 51.229485, 2.921105
   subgroups:
@@ -1202,10 +1202,10 @@ items:
     de: Paulusfeesten
     en: Paulusfeesten
   caption:
-    nl: Cultuurfestival - Oostende
-    fr: Fête culturel - Ostende
-    de: Kulturellen Fest - Oostende
-    en: Cultural festival - Ostend
+    nl: Cultuurfestival - Oostende - 10/08 - 16/08/20
+    fr: Fête culturel - Ostende - 10/08 - 16/08/20
+    de: Kulturellen Fest - Oostende - 10/08 - 16/08/20
+    en: Cultural festival - Ostend - 10/08 - 16/08/20
 - ranking: 107
   location: 51.238002, 2.939050
   subgroups:
