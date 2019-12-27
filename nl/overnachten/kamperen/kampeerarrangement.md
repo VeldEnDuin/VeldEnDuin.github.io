@@ -52,7 +52,7 @@ U hebt een maand of langer te spenderen? Bekijk dan de verschillende kampeerarra
 
 ## Prijzen
 
-PERIODE        | PRIJS 2019      
+PERIODE        | PRIJS 2020      
 :-------------:|:-----------:|
 april          |€ 330               
 mei            |€ 375                   
@@ -77,7 +77,7 @@ EXTRA              | PRIJS
 elektriciteit      |volgens verbruik 
 douchejeton        |€ 1 / jeton
 parking extra auto |€ 4 / begonnen dag
-[plaats fietsberging][fietsberging.nl]| € 1 / fiets / nacht
+[plaats fietsberging][fietsberging.nl]| € 2 / fiets / nacht
 [sauna][sauna.nl]              |€ 30
 [internet][internet.nl]           |afhankelijk van tijd online
 

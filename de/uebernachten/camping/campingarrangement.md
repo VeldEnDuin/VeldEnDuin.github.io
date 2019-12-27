@@ -52,7 +52,7 @@ Sie haben einen Monat oder länger Zeit? Dann sehen Sie sich doch die verschiede
 
 ## Preise
 
-ZEITRAUM        | PREIS 2019   
+ZEITRAUM        | PREIS 2020   
 :-------------:|:-----------:|
 April          |€ 330               
 Mai            |€ 375                   
@@ -77,7 +77,7 @@ EXTRA              | PREIS
 Strom              |nach Verbrauch 
 Dusche             |€ 1 / Jeton
 Parkplatz extra Auto  | € 4 / angefangenem Tag
-[Platz im Fahrradunterstand][fietsberging.de]| € 1 / Rad / Nacht
+[Platz im Fahrradunterstand][fietsberging.de]| € 2 / Rad / Nacht
 [Sauna][sauna.de]   | € 30
 [Internet][internet.de]| abhängig von der Zeit online
 

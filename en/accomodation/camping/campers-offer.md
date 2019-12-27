@@ -50,7 +50,7 @@ Do you want to stay for a month or even more? Have a look at the different packa
 
 ## Prices
 
-PERIOD        | PRICE 2019      
+PERIOD        | PRICE 2020     
 :-------------:|:-----------:|
 April          |€ 330               
 May            |€ 375                   
@@ -75,7 +75,7 @@ EXTRA              | PRICE
 electricity        |according to consumption 
 shower coin        |€ 1 / coin
 parking place extra car |€ 4 / started day
-[bicycle shed][fietsberging.en]| € 1 / bike / night
+[bicycle shed][fietsberging.en]| € 2 / bike / night
 [sauna][sauna.en]              |€ 30
 [internet][internet.en]           |depending on time online
 

@@ -53,7 +53,7 @@ Vous souhaitez prendre de longues vacances d’un mois ou plus ? Découvrez nos 
 
 ## Prix
 
-PÉRIODE        | PRIX 2019       
+PÉRIODE        | PRIX 2020       
 :-------------:|:-----------:|
 avril          |€ 330               
 mai            |€ 375                   
@@ -78,7 +78,7 @@ SUPPLÉMENT         | PRIX
 électricité        |selon la consommation 
 jeton douche       |€ 1 / jeton
 parking 2ème voiture  |€ 4 / jour entamé
-[emplacement vélo][fietsberging.fr]| € 1 / vélo / nuit
+[emplacement vélo][fietsberging.fr]| € 2 / vélo / nuit
 [sauna][sauna.fr]         |€ 30
 [internet][internet.fr]   |prix en fonction de la durée de connexion
 
