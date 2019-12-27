@@ -212,10 +212,10 @@ items:
     de: Theater aan Zee
     en: Theater aan Zee
   caption:
-    nl: theaterfestival - Oostende - 31/07/19 - 10/08/19
-    fr: festival de théâtre – Ostende - 31/07/19 - 10/08/19
-    de: Theaterfestival – Ostende - 31/07/19 - 10/08/19
-    en: theater festival - Ostend - 31/07/19 - 10/08/19
+    nl: theaterfestival - Oostende
+    fr: festival de théâtre – Ostende
+    de: Theaterfestival – Ostende
+    en: theater festival - Ostend
 - ranking: 100
   location: 51.278736, 3.034791
   subgroups:
@@ -233,10 +233,10 @@ items:
     de: Trammelant
     en: Trammelant
   caption:
-    nl: Belle Epoquefeest - De Haan - 03/08/2019
-    fr: fête sous le thème de la Belle Époque - 03/08/2019
-    de: Belle-Epoque-Fest – De Haan - 03/08/2019
-    en: Belle Epoque event - De Haan - 03/08/2019
+    nl: Belle Epoquefeest - De Haan
+    fr: fête sous le thème de la Belle Époque
+    de: Belle-Epoque-Fest – De Haan
+    en: Belle Epoque event - De Haan
 - ranking: 290
   location: 51.315091, 3.131080
   subgroups:
@@ -254,10 +254,10 @@ items:
     de: Blumenkorso
     en: Bloemencorso
   caption:
-    nl: bloemenstoet - Blankenberge - 25/08/19
-    fr: cortège de chars fleuris – Blankenberge - 25/08/19
-    de: Blumenumzug – Blankenberge - 25/08/19
-    en: flower Parade - Blankenberge - 25/08/19
+    nl: bloemenstoet - Blankenberge
+    fr: cortège de chars fleuris – Blankenberge
+    de: Blumenumzug – Blankenberge
+    en: flower Parade - Blankenberge
 - ranking: 240
   location: 51.318481, 3.146007
   subgroups:
@@ -1095,10 +1095,10 @@ items:
     de: Oostende voor Anker
     en: Oostende voor Anker
   caption:
-    nl: maritiem festival - Oostende - 23/05/19 - 26/05/19
-    fr: festival maritime - Ostende - 23/05/19 - 26/05/19
-    de: maritimes Festival - Oostende - 23/05/19 - 26/05/19
-    en: maritime festival - Ostend - 23/05/19 - 26/05/19
+    nl: maritiem festival - Oostende
+    fr: festival maritime - Ostende
+    de: maritimes Festival - Oostende
+    en: maritime festival - Ostend
 - ranking: 345
   location: 51.340946, 3.240212
   subgroups:
@@ -1181,10 +1181,10 @@ items:
     de: Gentse feesten
     en: Gentse feesten
   caption:
-    nl: Cultuurfestival - Gent - 19/07/19 - 28/07/19
-    fr: Fête culturel - Gand - 19/07/19 - 28/07/19
-    de: Kulturellen Fest - Gent - 19/07/19 - 28/07/19
-    en: Cultural festival - Ghent - 19/07/19 - 28/07/19
+    nl: Cultuurfestival - Gent
+    fr: Fête culturel - Gand
+    de: Kulturellen Fest - Gent
+    en: Cultural festival - Ghent
 - ranking: 115
   location: 51.229485, 2.921105
   subgroups:
@@ -1288,10 +1288,10 @@ items:
     de: Neujahrsfeuerwerk
     en: New Year's fireworks
   caption:
-    nl: ''
-    fr: ''
-    de: ''
-    en: ''
+    nl: Oostende - 31/12/19
+    fr: Oostende - 31/12/19
+    de: Oostende - 31/12/19
+    en: Oostende - 31/12/19
 - ranking: 02
   location: 51.231039, 2.914412
   subgroups:
@@ -1310,10 +1310,10 @@ items:
     de: Lichtertunnel
     en: Light tunnel
   caption:
-    nl: ''
-    fr: ''
-    de: ''
-    en: ''
+    nl: Oostende - 29/11/19 - 05/01/20
+    fr: Oostende - 29/11/19 - 05/01/20
+    de: Oostende - 29/11/19 - 05/01/20
+    en: Oostende - 29/11/19 - 05/01/20
 - ranking: 03
   location: 51.229181, 2.914080
   subgroups:
@@ -1334,10 +1334,10 @@ items:
     de: Winter in het park
     en: Winter in het park
   caption:
-    nl: kerstmarkt & ijspiste
-    fr: marché de Noël & piste de patinage
-    de: Weihnachtsmarkt & Eisbahn
-    en: Christmas market & ice skating ring
+    nl: kerstmarkt & ijspiste - Oostende - 29/11/19 - 05/01/20
+    fr: marché de Noël & piste de patinage - Oostende - 29/11/19 - 05/01/20
+    de: Weihnachtsmarkt & Eisbahn - Oostende - 29/11/19 - 05/01/20
+    en: Christmas market & ice skating ring - Oostende - 29/11/19 - 05/01/20
 
 subgroups:
   nl:
