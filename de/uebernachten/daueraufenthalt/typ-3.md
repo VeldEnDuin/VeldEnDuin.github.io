@@ -41,7 +41,7 @@ Ein festes Zuhause an der Küste, in das man immer wieder zurückkehrt, wer trä
 TYP 3                                         |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
 Stellplatzkosten                         | € 2135         
-Gemeindesteuer                                   | noch nicht bekannt
+Gemeindesteuer                                   | € 413,40
 Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 80    
  [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens / Chalets
 

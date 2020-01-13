@@ -41,7 +41,7 @@ Wünschen Sie eine besonders große Parzelle mit Blick auf das zentral gelegene 
 TYP 4                                         |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
 Stellplatzkosten                         | € 2860        
-Gemeindesteuer                                   | noch nicht bekannt 
+Gemeindesteuer                                   | € 413,40
 Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 80  
  [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens
 

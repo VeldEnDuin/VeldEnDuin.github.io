@@ -41,7 +41,7 @@ Entschleunigen Sie nach einer hektischen Arbeitswoche in Ihrem Wohnwagen. So kö
 TYP 2                                         |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
 Stellplatzkosten                         | € 2070      
-Gemeindesteuer                                   | noch nicht bekannt 
+Gemeindesteuer                                   | € 413,40
 Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 80   
  [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens
 

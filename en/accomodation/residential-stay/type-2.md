@@ -40,7 +40,7 @@ Need a break? Come and unwind in your caravan!
 TYPE 2                |PRICE           |
 :--------------------:|:--------------:|
 stand price per year  |€ 2070              
-municipal taxes          |not yet known 
+municipal taxes          |€ 413,40 
 contribution for household refuge<br>incl. 25 bags<br> | € 80    
 [fire insurance][pdf_brandverzekering.en]|depending on <br>worth of caravan
 

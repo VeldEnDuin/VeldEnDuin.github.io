@@ -55,8 +55,8 @@ Your caravan stays on the campsite all year round. This means you can enjoy ever
 
 PERIOD              | STAND PRICE  | MUNICIPAL TAXES       
 :--------------------:|:----------------------:|--------------|
-6 months             |€ 1805              |not yet known        
-1 year<br>(1/1-31/12) |€ 1920                 |not yet known              
+6 months             |€ 1805              |€ 148,40        
+1 year<br>(1/1-31/12) |€ 1920                 |€ 413,40             
  
 ## Included
 

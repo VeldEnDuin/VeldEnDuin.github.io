@@ -41,7 +41,7 @@ Would you like a big plot overlooking the wadi? Choose one of our luxurious plac
 TYPE 4                |PRICE           |
 :--------------------:|:--------------:|
 stand price per year  |€ 2860            
-municipal taxes       |not yet known 
+municipal taxes       |€ 413,40 
 contribution for household refuse<br>incl. 25 bags<br> | € 80  
 [fire insurance][pdf_brandverzekering.en]     |depending on <br>the worth of the caravan
 

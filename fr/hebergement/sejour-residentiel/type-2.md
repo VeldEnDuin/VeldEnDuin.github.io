@@ -41,7 +41,7 @@ Venez-vous détendre dans votre caravane après une semaine de travail éreintan
 TYPE 2                |PRIX            |
 :--------------------:|:--------------:|
 indemnité de résidence par an |€ 2070             
-taxe communale                |pas encore connu 
+taxe communale                |€ 413,40
 déchets ménagers<br>incl 25 sacs poubelles<br> | € 80    
 [assurance incendie][pdf_brandverzekering.fr]     |selon la<br>valeur de la caravane
 

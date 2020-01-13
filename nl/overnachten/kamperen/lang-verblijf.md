@@ -55,8 +55,8 @@ Uw trekcaravan met alle basisvoorzieningen blijft het hele jaar staan. Zo kunt u
 
 PERIODE               | STANDPLAATSVERGOEDING  | GEMEENTETAKS       
 :--------------------:|:----------------------:|--------------|
-6 maanden             |€ 1805                  |nog niet bekend           
-1 jaar<br>(1/1-31/12) |€ 1920                  |nog niet bekend                 
+6 maanden             |€ 1805                  |€ 148,40          
+1 jaar<br>(1/1-31/12) |€ 1920                  |€ 413,40                 
  
 ## Inbegrepen
 

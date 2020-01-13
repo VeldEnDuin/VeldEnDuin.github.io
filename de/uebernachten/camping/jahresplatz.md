@@ -55,8 +55,8 @@ Ihr Wohnwagen mit allen Grundannehmlichkeiten bleibt das ganze Jahr über stehen
 
 ZEITRAUM              | STELLPLATZKOSTEN       | GEMEINDESTEUER      
 :--------------------:|:----------------------:|--------------|
-6 Monate              |€ 1805                 |noch nicht bekannt           
-1 Jahr<br>(1.1.-31.12.) |€ 1920               |noch nicht bekannt                
+6 Monate              |€ 1805                 |€ 148,40           
+1 Jahr<br>(1.1.-31.12.) |€ 1920               |€ 413,40            
  
 ## Inbegriffen
 

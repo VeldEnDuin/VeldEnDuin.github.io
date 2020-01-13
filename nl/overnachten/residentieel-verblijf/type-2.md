@@ -40,7 +40,7 @@ Kom na een drukke werkweek onthaasten in uw caravan. Zo kunt u er nadien weer he
 TYPE 2                |PRIJS           |
 :--------------------:|:--------------:|
 standplaatsvergoeding |€ 2070              
-gemeentetaks          |nog niet bekend
+gemeentetaks          |€ 413,40
 huisvuilbijdrage<br>incl 25 zakken<br> | € 80   
 [brandverzekering][pdf_brandverzekering.nl]|afhankelijk van <br>waarde caravan
 
