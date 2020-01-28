@@ -54,14 +54,11 @@ This mini-caravan with private garden is suitable for those who love being outdo
 - kitchen with cooker (2 hot plates) and small microwave
 - bathroom with shower and washbasin
 - separate toilet
-- bedrooms caravan:
-    - 1 room with a double bed (140x200)
-    - 1 room with 2 separate beds (80x200)
+- 1 bedroom with a double bed (140x200)
 - private garden with garden furniture
     
 ## Worth knowing
 
-- the caravan is suitable for 2 people because the space is limited
 - a small pet is allowed but keep in mind that the space is limited
 - not available between 15/11 and 01/03
 

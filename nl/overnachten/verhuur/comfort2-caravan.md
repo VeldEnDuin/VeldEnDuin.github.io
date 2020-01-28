@@ -53,13 +53,10 @@ Deze mini-caravan met privé-tuintje is ideaal voor wie houdt van het buitenleve
 - keuken met 2-pits kookvuur en kleine microgolf
 - badkamer met douche en wastafel 
 - apart toilet
-- slaapkamers caravan:
-    - 1 kamer met dubbelbed (140x200)
-    - 1 kamer met 2 aparte bedden (80x200)
+- 1 slaapkamer met dubbelbed (140x200)
 - privé-tuintje met tuinmeubilair
     
 ## Goed om weten
-- gezien de beperkte oppervlakte wordt de caravan - ondanks de 2 slaapkamers - voor max 2 personen verhuurd
 - kleine hond toegelaten maar houd er rekening mee dat de woonruimte beperkt is
 - niet boekbaar tussen 15/11 en 01/03
 

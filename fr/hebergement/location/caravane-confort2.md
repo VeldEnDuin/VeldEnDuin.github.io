@@ -54,14 +54,11 @@ Cette mini-caravane et son jardinet privé sont parfaitement adaptés amoureux d
 - cuisine avec cuisinière à deux plaques et petit four à micro-ondes
 - salle de bains avec douche et lavabo
 - toilettes séparées
-- chambres à coucher dans la caravane:
-    - 1 chambre équipée d’un lit double (140x200)
-    - 1 chambre équipée de deux lits séparés (80x200)
+- 1 chambre équipée d’un lit double (140x200)
 - un jardinet privé avec mobilier de jardin
     
 ## Bon à savoir
 
-- en raison de la surface réduite, la caravane est louée pour max. deux personnes, malgré les deux chambres
 - petit chien admis mais veuillez tenir compte de l’espace réduit
 - pas de réservation possible entre le 15/11 et le 01/03
 

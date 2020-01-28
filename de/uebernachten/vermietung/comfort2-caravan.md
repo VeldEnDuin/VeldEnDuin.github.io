@@ -54,14 +54,11 @@ Dieser Miniwohnwagen mit Privatgärtchen ist ideal für Menschen, die sich gern 
 - Küche mit 2-flammigem Herd und kleiner Mikrowelle
 - Badezimmer mit Dusche und Waschbecken 
 - Getrennte Toilette
-- Schlafzimmer Caravan:
-    - 1 Kammer mit Doppelbett (140 x 200)
-    - 1 Kammer mit 2 getrennten Betten (80 x 200)
+- 1 Schlafzimmer mit Doppelbett (140 x 200)
 - Privatgärtchen mit Gartenmöbeln
     
 ## Gut zu wissen
 
-- Angesichts der geringen Fläche wird der Wohnwagen für höchstens 2 Personen vermietet, obwohl er 2 Schlafkammern hat
 - Ein kleiner Hund ist zulässig. Bitte beachten Sie jedoch, dass der Wohnraum nicht groß ist
 - Nicht buchbar zwischen 15.11. und 01.03.
 
