@@ -5,8 +5,8 @@ title: New spaces
 preview:
     title: New spaces
     text: 
-        - This winter, 13 brand-new spaces are being set up for residential caravans. 
-        - Available from May 2019.
+        - This winter, 9 brand-new spaces are being set up for residential caravans. 
+        - Available from May 2020.
         
 images:
     - /img/nieuwepercelen.jpg
@@ -22,9 +22,9 @@ insert:
 
 # New spaces
 
-This winter, 13 brand-new spaces are being set up for residential caravans. Available from April 2019.
+This winter, 9 brand-new spaces are being set up for residential caravans. Available from may 2020.
 
-The spaces are designed for new caravans up to 10 m long (some plots 10.5 m long) and are on average about 125 m².
+The spaces are designed for new caravans up to 12 m long and are on average about 175 m².
 These spaces have a 16 kW electricity hook-up, an underground gas line, optional water supply during the winter and digital TV.
 Make an appointment for a visit and come and take a look for yourself. We will be happy to give you a more detailed explanation.
 
