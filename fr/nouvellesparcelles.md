@@ -20,7 +20,7 @@ insert:
 
 # Nouvelles parcelles
 
-Cet hiver, 9 parcelles flambant neuves seront aménagées pour les caravanes résidentielles. Disponibles à partir de mai 2020.
+Cet hiver, 9 parcelles flambant neuves seront aménagées pour les caravanes résidentielles jusque 12 m. Disponibles à partir de mai 2020.
 
 Les parcelles peuvent accueillir des nouvelles caravanes jusqu’à 12 m et ont une superficie de 175 m² en moyenne.
 Elles sont équipées de bornes d'électricité de 16 kW, d’une conduite de gaz souterraine. Il est également possible de les alimenter en eau et d’y installer un récepteur de télévision numérique.

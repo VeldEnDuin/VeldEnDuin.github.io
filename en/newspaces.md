@@ -22,7 +22,7 @@ insert:
 
 # New spaces
 
-This winter, 9 brand-new spaces are being set up for residential caravans. Available from may 2020.
+This winter, 9 brand-new spaces are being set up for residential caravans up to 12 m. Available from may 2020.
 
 The spaces are designed for new caravans up to 12 m long and are on average about 175 m².
 These spaces have a 16 kW electricity hook-up, an underground gas line, optional water supply during the winter and digital TV.

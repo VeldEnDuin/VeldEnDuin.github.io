@@ -21,7 +21,7 @@ insert:
 
 # Neue Parzellen
 
-Diesen Winter werden 9 brandneue Parzellen für Dauerstandplätze angelegt. Verfügbar ab Mai 2020.
+Diesen Winter werden 9 brandneue Parzellen für Dauerstandplätze bis 12 m angelegt. Verfügbar ab Mai 2020.
 
 Die Parzellen sind für neue Wohnwagen bis zu 12 m gedacht und haben im Durchschnitt rund 175 m².
 Diese Plätze haben einen Stromanschluss (16 kW), eine unterirdische Gasleitung, die Möglichkeit der Wasserversorgung im Winter und Digitalfernsehen.
