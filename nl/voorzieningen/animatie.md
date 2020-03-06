@@ -26,7 +26,7 @@ remove:
 
 # Animatie Veld & Duin
 
-Op paaszondag organiseren we een grote paaseierenzoektocht en spel.
+Op paaszondag organiseren we een grote paaseierenraap en spel.
 
 In het hoogseizoen voorzien we een gevarieerd animatieprogramma. We proberen hierbij de platgetreden paden te verlaten en gaan telkens op zoek naar een leuk en vernieuwend aanbod. Houd onze kalender in de gaten voor een volledig overzicht.
 
