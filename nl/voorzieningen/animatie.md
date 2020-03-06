@@ -40,7 +40,7 @@ Het jaar wordt afgesloten met een gezellige glühweinavond. Onder het genot van 
 
 | Datum | Activiteit |
 |-------|------------| 
-|  12/04/2020       | Paaseierenzoektocht           |
+|  12/04/2020       | Paaseierenraap           |
 
 
 
