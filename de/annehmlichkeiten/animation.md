@@ -26,7 +26,7 @@ remove:
 
 # Animation Veld & Duin
 
-In den Osterferien organisieren wir 2 Aktivitäten, darunter eine großes Ostereiersuche und ein Spiel.
+Am Osternsonntag organisieren wir eine große Ostereiersuche und Spiel.
 
 In der Hochsaison gibt es ein abwechslungsreiches Animationsprogramm. Dabei versuchen wir, die ausgetretenen Pfade zu verlassen und suchen immer ein attraktives und innovatives Angebot. Behalten Sie unseren Kalender im Auge. Dort finden Sie die komplette Übersicht.
 
@@ -38,7 +38,7 @@ Jedes Jahr schließen wir mit einem gemütlichen Glühweinabend ab. Bei warmen G
 
 | Datum | Aktivität |
 |-------|------------|
-|       |            |
+|  12/04/2020     | Ostereiersuche           |
 
 
 

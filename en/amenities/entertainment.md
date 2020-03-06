@@ -26,7 +26,7 @@ remove:
 
 # Entertainment Veld & Duin
 
-During the Easter Holidays we are organizing two main activities amongst which an Easter eggs hunt and game.
+On Easter Sunday we organize a big easter egg hunt and game.
 
 During the high season we offer a varied entertainment program. As we feel very strongly about originality, we will try to find new and inspiring activities. So keep an eye on our calendar for a complete and current survey.
 
@@ -39,7 +39,7 @@ At the end of the year we are going to organize a cosy mulled wine evening. A go
 
 | Date | Activity|
 |-------|------------|
-|       |            |
+| 12/04/2020      | Easter egg hunt           |
 
 
 

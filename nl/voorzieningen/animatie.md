@@ -26,7 +26,7 @@ remove:
 
 # Animatie Veld & Duin
 
-In de paasvakantie organiseren we 2 activiteiten waaronder een grote paaseierenzoektocht en spel.
+Op paaszondag organiseren we een grote paaseierenzoektocht en spel.
 
 In het hoogseizoen voorzien we een gevarieerd animatieprogramma. We proberen hierbij de platgetreden paden te verlaten en gaan telkens op zoek naar een leuk en vernieuwend aanbod. Houd onze kalender in de gaten voor een volledig overzicht.
 
@@ -40,7 +40,7 @@ Het jaar wordt afgesloten met een gezellige glühweinavond. Onder het genot van 
 
 | Datum | Activiteit |
 |-------|------------| 
-|       |            |
+|  12/04/2020       | Paaseierenzoektocht           |
 
 
 

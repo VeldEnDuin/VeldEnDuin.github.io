@@ -26,7 +26,7 @@ remove:
 
 # Animations Veld & Duin
 
-Durant les vacances de Pâques, nous organisons 2 activités, dont une chasse aux œufs géante suivie d'un grand jeu.
+Le dimanche de Pâques, nous organisons une chasse aux œufs géante suivie d'un grand jeu.
 
 En haute saison, nous vous proposons un programme d’animations varié. Nous tentons à chaque fois d’imaginer une activité hors du commun et de présenter une offre d’animations amusantes et originales. Consultez notre calendrier pour découvrir le programme complet.
 
@@ -38,7 +38,7 @@ Pour clôturer l’année en beauté, nous organisons une soirée vin chaud. Ré
 
 | Date | Activité |
 |-------|------------|
-|       |            |
+|  12/04/2020     | Chasse aux œufs           |
 
 
 
