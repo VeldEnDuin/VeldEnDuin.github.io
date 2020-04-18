@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 13.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -10,15 +8,26 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="Layer_1"
-   style="enable-background:new -0.258 -0.548 123.547 123.539"
-   xml:space="preserve"
-   viewBox="-0.258 -0.548 123.547 123.539"
+   data-name="Layer 1"
+   viewBox="0 0 180.00001 176.00001"
    version="1.1"
-   y="0px"
-   x="0px"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="speelplein.svg"><defs
-     id="defs23" /><sodipodi:namedview
+   sodipodi:docname="speelplein.svg"
+   width="180"
+   height="176"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata160">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>19.108_V&amp;amp;D_Iconen-Site_01</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -27,40 +36,28 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1025"
-     id="namedview21"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview158"
      showgrid="false"
-     inkscape:zoom="7.0018374"
-     inkscape:cx="40.63619"
-     inkscape:cy="61.769501"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g3" /><g
-     id="g3"><g
-       id="g3351"
-       style="fill:#6e6f5b;fill-opacity:1"><path
-         id="path9"
-         d="m26.656 61.293c5.492 0 9.938-4.445 9.938-9.938 0-5.469-4.445-9.914-9.938-9.914-5.469 0-9.914 4.445-9.914 9.914 0 5.493 4.446 9.938 9.914 9.938z"
-         style="fill:#6e6f5b;fill-opacity:1" /><path
-         id="path11"
-         d="m82.305 78.355c0.461-0.312 1.07-0.219 1.414 0.219l1.828 2.539c0.32 0.445 0.227 1.078-0.219 1.422l-13.477 9.789c-0.438 0.312-1.07 0.219-1.414-0.219l-1.828-2.539c-0.312-0.445-0.219-1.078 0.227-1.422l13.469-9.789z"
-         style="fill:#6e6f5b;fill-opacity:1" /><polygon
-         id="polygon13"
-         points="67.078 65.738 61.727 56.363 58.922 58.41 64.266 67.832"
-         style="fill:#6e6f5b;fill-opacity:1" /><polygon
-         id="polygon15"
-         points="54.602 43.832 33.812 7.34 29.828 7.363 51.766 45.91"
-         style="fill:#6e6f5b;fill-opacity:1" /><path
-         id="path17"
-         d="m74.172 63.145c1.172-0.852 2.516-1.508 4.055-1.508l19.312 0.023c3.758 0 6.781 3.047 6.781 6.781 0 3.766-3.023 6.789-6.781 6.789l-16.117-0.023-20.57 14.523c-7.25 5.227-11.648-0.508-11.648-0.508l-16.149-16.163c-2.711-3.25-2.125-9.422 1.125-12.156l22.351-15.923c2.219-1.852 5.516-1.562 7.391 0.641 1.859 2.219 1.562 5.539-0.656 7.391l-14.305 10.476 10.273 10.156 14.938-10.499z"
-         style="fill:#6e6f5b;fill-opacity:1" /></g></g><metadata
-     id="metadata19"><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><cc:license
-           rdf:resource="http://creativecommons.org/licenses/publicdomain/" /><dc:publisher><cc:Agent
-             rdf:about="http://openclipart.org/"><dc:title>Openclipart</dc:title></cc:Agent></dc:publisher><dc:title>Land recreation symbols 18</dc:title><dc:date>2006-12-26T00:00:00</dc:date><dc:description /><dc:source>https://openclipart.org/detail/13804/-by--13804</dc:source><dc:creator><cc:Agent><dc:title>johnny_automatic</dc:title></cc:Agent></dc:creator></cc:Work><cc:License
-         rdf:about="http://creativecommons.org/licenses/publicdomain/"><cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License></rdf:RDF></metadata></svg>
+     inkscape:zoom="0.83256899"
+     inkscape:cx="141.73"
+     inkscape:cy="141.73"
+     inkscape:window-x="439"
+     inkscape:window-y="199"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs151">
+    <style
+       id="style149">.cls-1{fill:#f0c51f;}</style>
+  </defs>
+  <title
+     id="title153">19.108_V&amp;amp;D_Iconen-Site_01</title>
+  <path
+     class="cls-1"
+     d="m 131.18322,59.281796 a 2.7781397,2.7781397 0 1 1 -5.54404,0 0.69759455,0.69759455 0 0 0 0,-0.159101 h 5.56852 a 0.69759455,0.69759455 0 0 0 0,0.159101 m -2.6068,78.326404 a 0.17133901,0.17133901 0 0 1 -0.17134,0.17133 h -26.10472 a 0.17133901,0.17133901 0 0 1 -0.17134,-0.17133 v -5.21361 a 0.15910051,0.15910051 0 0 1 0.17134,-0.1591 h 26.08024 a 0.15910051,0.15910051 0 0 1 0.17134,0.1591 z M 99.55894,59.122695 h 5.55628 c 0,0 0,0.110147 0,0.159101 a 2.7781397,2.7781397 0 1 1 -5.54404,0 v -0.159101 m -15.322604,0.159101 a 2.7781397,2.7781397 0 1 1 -5.544041,0 0.69759455,0.69759455 0 0 0 0,-0.159101 h 5.568518 a 0.69759455,0.69759455 0 0 0 0,0.159101 M 81.666252,137.6082 a 0.15910051,0.15910051 0 0 1 -0.1591,0.17133 H 55.365714 a 0.15910051,0.15910051 0 0 1 -0.1591,-0.17133 v -5.21361 a 0.15910051,0.15910051 0 0 1 0.1591,-0.1591 h 26.092484 a 0.15910051,0.15910051 0 0 1 0.1591,0.1591 z M 52.636528,59.183888 h 5.55628 c 0,0 0,0.110146 0,0.1591 a 2.7781397,2.7781397 0 1 1 -5.544041,0 v -0.1591 m 5.164647,54.730572 h 21.197084 v 2.93724 H 57.813414 Z m 0,7.83264 h 21.197084 v 5.54404 H 57.813414 Z M 79.010498,66.563704 V 109.01906 H 57.813414 V 66.551465 a 7.6857785,7.6857785 0 0 0 5.213602,-7.269669 0.69759455,0.69759455 0 0 0 0,-0.159101 h 10.831073 c 0,0 0,0.110147 0,0.159101 a 7.6857785,7.6857785 0 0 0 5.22584,7.269669 m 25.700851,47.350755 h 21.19708 v 2.93724 h -21.20932 z m 0,7.83264 h 21.19708 v 5.54404 H 104.77254 Z M 125.98186,66.551465 V 109.01906 H 104.77254 V 66.551465 a 7.6857785,7.6857785 0 0 0 5.2136,-7.269669 0.69759455,0.69759455 0 0 0 0,-0.159101 h 10.78212 c 0,0 0,0.110147 0,0.159101 a 7.6857785,7.6857785 0 0 0 5.22584,7.269669 m 38.96739,86.807685 h -3.18201 l -17.1339,-92.853504 a 7.6613015,7.6613015 0 0 0 -7.53892,-6.278351 H 46.66414 a 7.67354,7.67354 0 0 0 -7.538916,6.278351 L 21.991322,153.35915 h -3.18201 a 2.4477002,2.4477002 0 1 0 0,4.8954 h 10.427203 a 2.4477002,2.4477002 0 0 0 0,-4.8954 H 26.996869 L 43.934954,61.399057 a 2.7781397,2.7781397 0 0 1 2.729186,-2.276362 h 1.040273 v 0.159101 a 7.6857785,7.6857785 0 0 0 5.213601,7.269669 V 127.9153 a 5.0422623,5.0422623 0 0 0 -2.606801,4.4181 v 5.2136 a 5.0545008,5.0545008 0 0 0 5.054501,5.0545 H 81.458198 A 5.0667393,5.0667393 0 0 0 86.5127,137.547 v -5.2136 a 5.0545008,5.0545008 0 0 0 -2.61904,-4.4181 V 66.551465 a 7.6857785,7.6857785 0 0 0 5.22584,-7.269669 c 0,0 0,-0.110147 0,-0.159101 h 5.54404 v 0.159101 a 7.67354,7.67354 0 0 0 5.2136,7.269669 V 127.9153 a 5.0422623,5.0422623 0 0 0 -2.6068,4.4181 v 5.2136 a 5.0545008,5.0545008 0 0 0 5.0545,5.0545 h 26.08024 a 5.0545008,5.0545008 0 0 0 5.05451,-5.0545 v -5.2136 a 5.0422623,5.0422623 0 0 0 -2.60681,-4.4181 V 66.551465 a 7.6857785,7.6857785 0 0 0 5.22584,-7.269669 c 0,0 0,-0.110147 0,-0.159101 h 1.04028 a 2.7659012,2.7659012 0 0 1 2.72918,2.264123 l 16.93809,91.972332 h -2.27636 a 2.4477002,2.4477002 0 0 0 0,4.8954 h 10.43944 a 2.4477002,2.4477002 0 0 0 0,-4.8954"
+     id="path155"
+     inkscape:connector-curvature="0"
+     style="fill:#f0c51f;stroke-width:1.22385013" />
+</svg>
