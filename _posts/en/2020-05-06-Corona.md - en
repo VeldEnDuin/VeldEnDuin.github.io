@@ -11,7 +11,7 @@ images:
     
 ---
 
-Our campingsite is closed till 3rd of May due to the Corona-virus.
+Our campingsite is closed till 8th of June due to the Corona-virus.
 
 The reception is closed but you can always reach us by telephone or by mail.
 
