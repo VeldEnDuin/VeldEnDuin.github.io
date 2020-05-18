@@ -1,0 +1,22 @@
+---
+title: Corona update
+layout: post
+description: beaucoup d'incertitude
+permalink: /fr/2020-04-25-Corona-update.html
+
+    
+images: 
+    -
+    
+    
+---
+
+Nous avons également regardé la conférence de presse du Conseil de Sécurité Nationale hier soir. Les informations fournies n'ont pas clarifié ce que nous espérions tant et semblent sujettes à interprétation.
+
+
+Notre fédération professionnelle Recread demande des éclaircissements sur un certain nombre de points. Ils sont très attachés à une réouverture rapide dans des conditions sûres pour le secteur du camping.
+
+
+Dès que nous aurons reçu plus d'informations à ce sujet, nous vous tiendrons certainement informés.
+
+Courage et beaucoup de salutations de nous tous!
