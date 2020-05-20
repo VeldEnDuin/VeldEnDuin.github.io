@@ -2,7 +2,7 @@
 title: Corona nieuws
 layout: post
 description: nog geen duidelijkheid over sluiting
-permalink: /nl/2020-03-19-Corona-nieuws.html
+permalink: /nl/2020-03-18-Corona-nieuws.html
 
     
 images: 
