@@ -389,10 +389,12 @@ covidhuurders:
     nl: /files/nlcovidhuurders.pdf
     fr: /files/frcovidhuurders.pdf
     de: /files/decovidhuurders.pdf
+    en: /files/encovidhuurders.pdf
 covidtrekkers:
     nl: /files/nlcovidtrekkers.pdf
     fr: /files/frcovidtrekkers.pdf
     de: /files/decovidtrekkers.pdf
+    en: /files/encovidtrekkers.pdf
 coviddagtaks:
     nl: /files/nlcoviddagtaks.pdf
     fr: /files/frcoviddagtaks.pdf
