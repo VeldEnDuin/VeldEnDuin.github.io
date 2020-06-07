@@ -477,5 +477,6 @@ overzetboot:
     en: http://www.visitoostende.be/en/overzetboot-visserskaai-oosteroever
 
    
-
-
+# [9] bijzondere posts -> permalink
+welcome-back:
+    nl: /nl/covid/welcome-back.html

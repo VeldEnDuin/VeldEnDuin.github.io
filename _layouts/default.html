@@ -62,9 +62,6 @@ tcs: [1,2,3,5,6,9]
       <div class="vd-banner hidden-sm hidden-xs"
           style="background-image: url('{{bannerimg}}'); background-position: center top; background-size: cover;"
       ></div>
-        {% unless page.remove contains 'callout' %}
-            {% include callout-form.html %}
-        {% endunless%}
     {% endif %}
     </header>
 
@@ -85,9 +82,7 @@ tcs: [1,2,3,5,6,9]
         {% include imgs_as_strip.html %}
     {% endif %}
 
-
     {{ content }}
-
 
     {% if page.insert contains 'page-images-bottom' %}
         {% assign imgs = page.images %}
