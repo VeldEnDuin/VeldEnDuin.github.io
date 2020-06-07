@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>showing how to apply filters to svg</title>
+  <link rel="stylesheet" href="./css/bootstrap.css">
+  <style type="text/css">
+    .mask-fb {
+      -webkit-mask-image: url(./img/svg/follow/fb.svg);
+      -webkit-mask-size: 1.6em;
+    }
+    .mask-fb, .masked {
+      -webkit-mask-mode: alpha;
+      -webkit-mask-repeat: no-repeat;
+      -webkit-mask-position: center;
+    }
+    .masked {
+      height: 100px;
+      width: 100px;  
+      -webkit-mask-size: 100px;
+    }
+
+    div.alternator:nth-child(odd) div[role="icon"],
+    div.alternator:nth-child(odd) div[role="title"]
+    {
+      background: rgb(240, 197, 31);
+    }
+    div.alternator:nth-child(even) div[role="icon"],
+    div.alternator:nth-child(even) div[role="title"]
+    {
+      background: rgb(237, 127, 43);
+    }
+    div.alternator div[role="title"]
+    {
+      color: white;
+      font-size: 1,4em;
+      font-weight: 400;
+    }
+/*
+    #list {
+      display: none;  
+    }
+    */
+    table img {
+      height: 1.6em;
+    }
+  </style>
+</head>
+<body>
+  <article class="container">
+    <h1>svg filter coloring</h1>
+    <h2>strategy #1 | calculate hsl and apply filters to change from one to the other</h2>
+    <ul>
+      <li>start off with white</li>
+      <li>apply brightness(0.5) sepia(1) to fake a base color = rgb(178, 160, 128)</li>
+      <li>in hsl space this color is hsl(38, 25%, 60%)</li>
+      <li>target color in hsl can be reached by relative changing hue, saturation, brightness of this base</li>
+    </ul>
+    <h2>strategy #2 | just get actual background set and apply css mask</h2>
+
+    <h2>overview</h2>
+    <table id="list" class="table">
+      <thead>
+        <tr>
+          <th>rgb()</th>
+          <th>hsl()</th>
+          <th>filter to white</th>
+          <th>filter</th>
+          <th>mask</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>255, 255, 255</td>
+          <td>0, 0, 1</td>
+          <td>(none)</td>
+          <td><img src="./img/svg/follow/fb.svg"></td>
+          <td class="mask-fb" style="background: white">&nbsp;</td>
+        </tr>
+        <tr>
+          <td>0, 0, 0</td>
+          <td>0, 0, 0</td>
+          <td>invert()</td>
+          <td><img src="./img/svg/follow/fb.svg" style="filter: invert()"></td>
+          <td class="mask-fb" style="background: black">&nbsp;</td>
+        </tr>
+        <tr>
+          <td>0, 0, 0</td>
+          <td>38, 25%, 60%</td>
+          <td>brighness(0.5) sepia(1)</td>
+          <td><img src="./img/svg/follow/fb.svg" style="filter: brightness(0.5) sepia(1)"></td>
+          <td class="mask-fb" style="background: hsl(38, 25%, 60%)">&nbsp;</td>
+        </tr>
+      </tbody>
+    </table>
+    
+    <h2>sample</h2>
+    <div id="sample" class="row" data-cells='[
+      { "title": "Animatie"     , "icon": "./img/svg/voorzieningen/animatie.svg"    },
+      { "title": "Fietsberging" , "icon": "./img/svg/voorzieningen/fietsberging.svg"},
+      { "title": "Informatie"   , "icon": "./img/svg/voorzieningen/info.svg"        },
+      { "title": "Internet"     , "icon": "./img/svg/voorzieningen/internet.svg"    },
+      { "title": "Pop-Up Bib"   , "icon": "./img/svg/voorzieningen/pop-up-bib.svg"  },
+      { "title": "Sanitair"     , "icon": "./img/svg/voorzieningen/sanitair.svg"    },
+      { "title": "Sauna"        , "icon": "./img/svg/voorzieningen/sauna.svg"       },
+      { "title": "Speelplein"   , "icon": "./img/svg/voorzieningen/speelplein.svg"  },
+      { "title": "Wassalon"     , "icon": "./img/svg/voorzieningen/wassalon.svg"    }
+    ]'>
+      <template id="cell" >
+        <div class="col-xs-4 alternator">
+          <div class="icon" >
+            <div class="masked" role="icon"></div>
+          </div>
+          <div class="title" role="title">insert title here</div>
+        </div>
+      </template>
+    </div>
+
+  </article>
+  
+  <script src="./js/jquery-2.1.3.min.js"></script>
+  <!-- script filling the table -->
+  <script type="text/javascript">
+$(() => {
+  $tbody = $("table#list tbody");
+  
+  function rgb2hsl(r,g,b){
+    // http://www.niwa.nu/2013/05/math-behind-colorspace-conversions-rgb-hsl/
+    // 1 | rgb to RGB ratio
+    let R = r/255,
+        G = g/255,
+        B = b/255;
+    // 2 | find MIN and MAX
+    let MIN = Math.min(R, G, B),
+        MAX = Math.max(R, G, B);
+    // 3 | l(uminance) is average between that
+    let h = 0, 
+        s = 0, 
+        l = (MIN + MAX) / 2;
+    if (MIN !== MAX) { // else r=g=b and color is a shade of grey, no hue needed and saturation = 0
+      
+        // 4 | s(aturation)
+        if (l < 0.5) {
+            s = (MAX - MIN) /   (MAX + MIN)
+        } else {
+            s = (MAX - MIN) / (2.0 - MAX - MIN)
+        }
+        // 5 | h(ue)
+        if (R === MAX) {
+            //If Red is max, then Hue = (G-B)/(max-min)
+            h = (G -B) / (MAX - MIN);
+        } else if (G === MAX) {
+            //If Green is max, then Hue = 2.0 + (B-R)/(max-min)
+            h = 2.0 + (B - R) / (MAX - MIN);
+        } else if (B === MAX) {
+            //If Blue is max, then Hue = 4.0 + (R-G)/(max-min)
+            h = 4.0 + (R - G) / (MAX - MIN);
+        } else {
+            throw "unexpected max(R,G,B) is not R, G nor B"
+        }
+        
+        // to degrees
+        h *= 60.0;
+        // assure positive result
+        if (h < 0) { 
+            h += 360.0;
+        }
+        // make int 
+        h = Math.round(h);
+    }
+    
+    return [h,s,l];
+  }
+  
+  // calculate the needed relative boost to get from base to target
+  function hslDiff(base, target) {
+      return {
+        "hue": (target[0] - base[0]), 
+        "sat": (target[1] / base[1]), 
+        "lum": (target[2] / base[2])
+      };
+  }
+  
+  // add a row to the table for the specified target rgb
+  function addclr(r,g,b) {
+    rgb = `${r}, ${g}, ${b}`;
+    [h,s,l] = rgb2hsl(r,g,b);
+    
+    change = hslDiff([38, 0.25, 0.60], [h,s,l]);
+    
+    hsl = `${h}, ${Math.round(s * 1000)/10}%, ${Math.round(l * 1000)/10}%`;  // hsl params must be %
+    
+    filters = `brightness(0.5) sepia(1) saturate(${change.sat}) hue-rotate(${change.hue}deg) brightness(${change.lum})`;
+    
+    rowhtml = `
+        <tr>
+          <td>${rgb}</td>
+          <td>${hsl}</td>
+          <td>${filters}</td>
+          <td><img src="./img/svg/follow/fb.svg" style="filter: ${filters}"></td>
+          <td class="mask-fb" style="background: hsl(${hsl})">&nbsp;</td>
+        </tr>`;
+    $tbody.append(rowhtml);
+  }
+  
+  //test
+  addclr(255,0,0);
+  addclr(0,255,0);
+  addclr(0,0,255);
+  // veld & duin primair
+  addclr(186, 189, 140);
+  addclr(146, 200, 65);
+  // veld & duin secundair
+  addclr(67,182,73);
+  addclr(240,197,31);
+  addclr(237,127,43);
+  addclr(212,71,39);
+  addclr(237,226,210);
+  
+});    
+  </script>
+  <!-- script listing the samples -->
+  <script type="text/javascript">
+$(() => {
+  $sample = $("div#sample");
+  tpl = $("template", $sample).html();
+  cells = $sample.data('cells');
+  cells.forEach( (cell) => {
+    $cell = $(tpl);
+    $ttl = $("[role='title']", $cell);
+    $ttl.html(cell.title);
+    $msk = $("[role='icon']", $cell);
+    console.log(cell.icon, $msk)
+    $msk.css('-webkit-mask-image', `url(${cell.icon})`);
+    $sample.append($cell);
+  });
+});
+  </script>
+</body>
+</html>

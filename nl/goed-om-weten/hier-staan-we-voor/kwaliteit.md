@@ -7,9 +7,6 @@ images:
 insert:
     - page-images-top
 
-remove:
-    - imgstrip
-    
 
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Forfaits
 layout: default
-callout: TODO - trigger tekst vanop ARRANGEMENTEN page
     
 class:
     select: 

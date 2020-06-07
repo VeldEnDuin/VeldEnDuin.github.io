@@ -1,8 +1,7 @@
 ---
 title: Daueraufenthalt
 layout: default
-callout: TODO - trigger tekst vanop RESIDENTIEEL page
-    
+ 
 class:
     select: 
         list: "properties-grid"

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Rent
-callout: "Laat u verrassen door ons diverse logiesaanbod en kies de formule die het best bij u past."
 
 class:
     select: 

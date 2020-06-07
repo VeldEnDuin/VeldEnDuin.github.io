@@ -1,25 +1,27 @@
 {% if lvl2.submenu %}
-  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-    <div class="vd-select-list {{page.class.select.list}} clearfix" id="vd-select-list"
+  <div class="col-xs-12">
+    <!-- TODO remove all this -->
     {% if page.insert contains 'background-image' and page.images.size > 0 %}
-      style="background: linear-gradient(rgba(255,255,255,0.4),rgba(255,255,255,0.4)),
-             url('{{page.images[0]}}');background-position: center center;
-             background-size: cover;
-             background-position: center center;"
+      {% capture _style %}
+        background: linear-gradient(rgba(255,255,255,0.4),rgba(255,255,255,0.4)),
+        url('{{page.images[0]}}');background-position: center center;
+        background-size: cover;
+        background-position: center center;
+      {%endcapture%}
     {% endif %}
-    >
-    {% assign testsize = lvl2.submenu.size |minus: 1%}
-    {% if page.tcs contains testsize  %}
-        {% assign itemcls = 'col-lg-4 col-md-4 col-sm-6 col-xs-12' %}
-    {% else %}
-        {% assign itemcls = 'col-lg-3 col-md-3 col-sm-6 col-xs-12' %}
-    {% endif %}
+    <div class="col-lg-10 col-lg-push-1 col-xs-12 
+                vd-select-list {{page.class.select.list}} clearfix" 
+         style="{{ _style }}"
+         id="vd-select-list">
+    {% assign itemcls = 'col-lg-4 col-md-4 col-sm-6 col-xs-12' %}
+      
+    <!-- TODO remove this way of including the form -->
     {% if lvl2.booking_form_group %}
-      <div class="{{itemcls}} vd-select-item" ><div class="vd-select-item-inner"><div class="vd-select-item-dimmer">
-      <div class="vd-select-content vd-booking-form-wrapper">
-        {% include booking-form.html %}
+      <div class="{{itemcls}} vd-select-item-wrap" >
+        <div class="vd-select-item">
+      {% include booking-form.html %}
+        </div>
       </div>
-      </div></div></div>
     {% endif %}
 
     {% for link in lvl2.submenu %}

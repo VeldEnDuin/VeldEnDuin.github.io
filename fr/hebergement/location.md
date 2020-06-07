@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Location
-callout: "Laat u verrassen door ons diverse logiesaanbod en kies de formule die het best bij u past."
 
 class:
     select: 
@@ -18,7 +17,6 @@ images:
     
 insert:
     - level3-tiles
-    
     
 
 ---

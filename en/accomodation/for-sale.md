@@ -1,7 +1,6 @@
 ---
 title: For Sale
 layout: default
-callout: TODO - trigger tekst vanop te koop page
     
 class:
     select: 

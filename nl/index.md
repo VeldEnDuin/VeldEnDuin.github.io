@@ -4,8 +4,7 @@ title: Camping Veld & Duin
 
 insert:
     - banner
-remove:
-    - callout
+    - booking
     
 select:
     - verhuur

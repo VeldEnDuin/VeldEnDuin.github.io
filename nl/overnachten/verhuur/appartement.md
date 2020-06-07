@@ -2,7 +2,7 @@
 layout: page
 title: Appartement Comfort 4 Plus
 preview: 
-    title: Appartement Comfort 4 + 
+    title: Appartement Comfort 4+ 
     button:
         price: 124
         for: 2 nachten

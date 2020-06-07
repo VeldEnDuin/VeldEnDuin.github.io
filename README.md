@@ -284,7 +284,7 @@ Daarvoor gebruik je dit formaat in de ```*.md``` bestanden:
 De link via [klikbaar woord](http://anderewebsite.be) naar de andere site. 
 ```
 
-## Banner - callout - imagestrip
+## Banner - imagestrip
 
 ### Banner
 
@@ -303,24 +303,6 @@ bannerimg: /img/other/image.png
 ```
 
 Let er wel op dat dit beeld breed genoeg is, en ook centraal-onderaan het meest belangrijke element bevat aangezien het automatisch op dat punt zal inzoomen op smallere schermen.
-
-
-### Callout
-
-- standaard bevat de banner een callout (= witte balk met reservatie aanvraag knop). 
-- de callout kun je verbergen:
-
-```yml
-remove:
-  - callout
-```
-
-- de tekst in de callout wordt standaard ingevuld (per taal) met de tekst die je vindt in _data / langs.yml (te vinden onder taal / dict / callout)
-- als je de callout tekst op een bepaalde pagina wil laten afwijken, kan dat in de prelude via
-
-```yml
-callout: "dit is de andere tekst"  
-```
 
 
 ### Imagestrip
@@ -375,7 +357,6 @@ layout     | tekst  | layout:&nbsp;landing  | **verplicht** Wijst naar een besch
 title      | tekst  | title:&nbsp;Mijn&nbsp;Titel| **verplicht** De vrij gekozen titel van de pagina.
 images     | lijst  | images:<br>&nbsp;&nbsp;-&nbsp;/img/een.jpg<br>&nbsp;&nbsp;-&nbsp;/img/twee.jpg | De oplijsting van beelden die aan dit artikel worden ge-associeerd (cfr verdere info over imgs)
 insert     | lijst  | insert:<br>&nbsp;&nbsp;- virtualtour | Gekozen specifieke scherm-elementen zijn vanzelf uitgeschakeld, maar worden hiermee expliciet aangezet. (Zie hieronder voor de opties.)
-remove     | lijst  | remove:<br>&nbsp;&nbsp;- callout | Gekozen specifieke scherm-elementen zijn vanzelf beschikbaar, maar kunnen hiermee worden afgezet.  (Zie hieronder voor de opties.)
 icon       | tekst  | info-sign             | associeert een glyphicon met de pagina voor gebruik in links. Zie [lijst](http://getbootstrap.com/components/#glyphicons-glyphs) met ondersteunde iconen.
 
 ### Prelude: layout
@@ -416,7 +397,6 @@ De beschikbare elmenten die kunnen afgezet worden met 'remove' in de prelude zij
 
 remove      | mogelijk in layout  | dit verwijdert 
 ------------|---------------------|----------------
-callout     | alle layouts        | de link voor de reservatie-aanvraag in de banner
 imgstrip    | alle layouts        | de strip met foto's onderaan
 
 
@@ -448,7 +428,7 @@ images:
 
 ### Andere 
 
-## Banner - callout - imagestrip
+## Banner - imagestrip
 
 ### Banner
 
@@ -459,23 +439,6 @@ images:
 insert:
   - banner
 ```
-### Callout
-
-- standaard bevat de banner een callout (= witte balk met reservatie aanvraag knop). 
-- de callout kun je verbergen:
-
-```yml
-remove:
-  - callout
-```
-
-- de tekst in de callout wordt standaard ingevuld (per taal) met de tekst die je vindt in _data / langs.yml (te vinden onder taal / dict / callout)
-- als je de callout tekst op een bepaalde pagina wil laten afwijken, kan dat in de prelude via
-
-```yml
-callout: "dit is de andere tekst"  
-```
-
 
 ### Imagestrip
 

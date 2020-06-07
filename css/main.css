@@ -10,7 +10,46 @@
  */
 
 
+/*
+new colours  // veld & duin secundair
+  // primair
+    rgb(186, 189, 140);  // greyish green
+    rgb(146, 200, 65);   // bright green
+    rgba(146, 200, 65, 0.1);   // bright green - at 10%
+  // secundair
+    rgb(67,182,73);      // grass-bright green
+    rgb(240,197,31);     // sunny yellow
+    rgb(237,127,43);     // orange like the fruit
+    rgb(212,71,39);      // darker orange-red-brown
+    rgb(237,226,210);    // bg pale redish 
+    rgb(242, 248, 233);  // bg pale green 
+*/
 
+
+/* ==========================================================================
+ * bootstrap override colors
+ * ==========================================================================
+*/
+
+.navbar-inverse {
+    background-color: rgb(146, 200, 65);
+    border-color: rgba(146, 200, 65, 0.1);
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: hsl(84, 55%, 13%);
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff;
+}
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: rgb(67,182,73); 
+}
+
+
+/* ==========================================================================
+ * linking
+ * ==========================================================================
+*/
 a,
 a div,
 a span {
@@ -25,15 +64,13 @@ header {
     margin-bottom: 1em;
 }
 body {
-    background-image: url('/img/style/background.jpg');
-    background-position: center center;
-    background-size: cover;
-    background-repeat: no-repeat;
+    background: rgba(146, 200, 65, 0.1);
     padding:  0;
     border: 0;
     margin: 0;
     overflow-x: hidden;
 }
+/* the old ampersant trick
 body:before {
     content: "";
     width: 50%;
@@ -48,6 +85,7 @@ body:before {
     background-position: right bottom;
     z-index: -1;
 }
+*/
 
 #content {
     line-height: 180%;
@@ -62,9 +100,9 @@ body:before {
  */
 .vd-menu {
     padding: 27px 2% 28px 2%;
-    -webkit-box-shadow: 0px 0px 12px 2px #4f5137;
-    -moz-box-shadow: 0px 0px 12px 2px #4f5137;
-    box-shadow: 0px 0px 12px 2px #4f5137;
+    -webkit-box-shadow: 0px 0px 12px 2px rgba(146, 200, 65, 0.1);
+    -moz-box-shadow: 0px 0px 12px 2px rgba(146, 200, 65, 0.1);
+    box-shadow: 0px 0px 12px 2px rgba(146, 200, 65, 0.1);
 }
 .navbar {
     margin-bottom: 0px;
@@ -86,14 +124,46 @@ body:before {
 }
 
 .navbar li {
-    border-right: 2px solid #8fb742;
+    border-right: 2px solid rgb(67,182,73);
 }
+.navbar li.social {
+    border-right: 0px;
+}
+.navbar li.social>a {
+    padding-left: 10px;
+    padding-right: 0px;
+}
+.navbar li.social>a span.socmed {
+    display: block;
+    width: 1.5em;
+    height: 1.5em;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+}
+span.socmed-facebook {
+    background-image: url(/img/svg/socmed/fb.svg);
+}
+span.socmed-instagram {
+    background-image: url(/img/svg/socmed/ig.svg);
+}
+span.socmed-youtube {
+    background-image: url(/img/svg/socmed/yt.svg);
+}
+span.socmed-pinterest {
+    background-image: url(/img/svg/socmed/pt.svg);
+}
+
 .navbar .dropdown-menu li, .navbar li:last-child {
     border-right: 0;
 }
 .vd-banner {
-    height: 450px;
+    height: 330px;
+    border-top: 3px solid #fff;
+    background-position: center center; 
+    background-size: cover;
 }
+/*
 .vd-banner:after {
     content: "";
     width: 100%;
@@ -104,6 +174,7 @@ body:before {
        -moz-box-shadow: 0px 0px 12px 2px #4f5137;
             box-shadow: 0px 0px 12px 2px #4f5137;
 }
+*/
 .vd-callout {
     background-image: url('/img/style/callout-background.svg');
     background-repeat: no-repeat;
@@ -122,18 +193,24 @@ header.spaced {
 }
 .btn-lg.btn-success,
 .btn-lg.btn-info {
-    background-color: transparent;
+    background-color: rgb(67,182,73);
     border: none;
+    /*
+    background-color: transparent;
     background-image: url('/img/style/btn_prim_background.svg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
+    */
     text-align: center;
     text-shadow: 2px 2px 4px #4f5137;
 }
 
 .btn-lg.btn-info {
+    /*
     background-image: url('/img/style/btn_dark_background.svg');
+    */
+    background-color: rgb(240,197,31);
 }
 
 /*
@@ -549,7 +626,6 @@ svg.tagcloud {
 .vd-group-content ul
 , .vd-select-content ul
 {
-    list-style: none;
     font: glyphicon;
 }
 
@@ -560,13 +636,10 @@ svg.tagcloud {
     color: rgb(10, 88, 10);
 }
 
-.vd-select-item-img,
-.vd-select-item div#form-booking {
-    margin-bottom: 2em;
-}
 .vd-select-title  {
     text-transform: uppercase;
 }
+
 
 .vd-subgrp-btns label span.glyphicon:before {
     content: '\e014  '; /* remove icon when not active*/
@@ -575,100 +648,125 @@ svg.tagcloud {
     content: '\e013  '; /* ok icon when active */
 }
 
-.vd-select-submenu {
-    padding: 0 0.5em 0 0.5em;
-}
 .vd-select-submenu div {
     text-align: center;
 }
 .vd-select-submenu .vd-select-title {
     font-size: 1.5em;
 }
-.vd-select-submenu .vd-select-title
-, .vd-select-submenu .vd-select-content ul li {
-    padding: 0.5em 0 0.5em 0;
-}
-.properties-grid .vd-select-submenu .vd-select-title
-, .properties-grid .vd-select-submenu .vd-select-content ul li {
-    border-bottom: 1px solid rgba(0,0,0,0.3);
-}
-.vd-select-submenu .vd-select-title {
-    min-height: 4em;
-}
-.vd-select-submenu .vd-select-content ul {
-    padding: 0;
+
+.vd-select-submenu .vd-select-content ul li{
+    list-style: none;
+    line-height: 1em;
+    font-size: 1em;
 }
 .vd-select-submenu .vd-select-content ul li:before {
-    content: '';
+    content: "· ";
+    font-size: 1.2em;
+    vertical-align: text-top;
+    line-height: 1em;
+    margin-left: -1em;
 }
-.vd-select-submenu .vd-select-item-inner {
-    position: relative;
-    margin: 0.5em 0 0.5em 0;
-    border-radius: 5px;
+
+.vd-select-list .vd-select-item-wrap {
+    padding: 3px;
 }
-.vd-select-submenu .vd-select-item-dimmer {
-    padding: 1.5em 0.5em 0.5em 0.5em;
-    background-color: rgba(255,255,255,0.6);
-    border: 1px solid rgba(0,0,0,0.3);
+.vd-select-list .vd-select-item-wrap .vd-select-item {
+    background: #fff;
     border-radius:  5px;
 }
-.properties-grid .vd-select-submenu .vd-select-item-inner {
-    margin: 100px 0 50px 0;
+.vd-select-list .vd-select-item-wrap .vd-select-item .vd-bg-img {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
 
-.picto-grid .vd-select-submenu .vd-select-item-dimmer {
-    height: 320px;
+
+
+.vd-bg-img {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+}
+.vd-bg-pictomask {
+    height: 250px;
+    -webkit-mask-size: 200px;
+    -webkit-mask-mode: alpha;
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-position: center center;
 }
 
-.picto-grid button {
-    display: none;
+.vd-bg-pictomask, .vd-select-title-fill  {
+    background-color: rgb(146, 200, 65);
+    color: #fff;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
 }
 
-.vd-select-item-inner {}
-.vd-select-submenu .vd-button {
+.vd-select-list > :nth-child(odd) .vd-bg-pictomask,
+.vd-select-list > :nth-child(odd) .vd-select-title-fill {
+    background-color: rgb(240,197,31);
+}
+
+.vd-select-list > :nth-child(even) .vd-bg-pictomask,
+.vd-select-list > :nth-child(even) .vd-select-title-fill {
+    background-color: rgb(237,127,43); 
+}
+
+.vd-select-title {
+    font-weight: bold;
+}
+h2.vd-select-title-fill {
+    margin: 0px;
+}
+.vd-select-text h2.vd-select-title {
+    font-size: 1em;
+    padding-right: 100px;
+    text-align: left;
+}
+
+.vd-select-item .vd-select-text {
+    position: relative;
+    text-align: left;
+    padding: 0 1em 1em 1em;
+}
+.vd-select-item .vd-select-text .vd-button {
     position: absolute;
-    top: -110px;
+    top: -75px;
+    right: 15px;
 }
 .vd-button {
-    width: 100%
-}
-.vd-button .vd-button-tag {
-    border: 1px dashed rgba(0,0,0,0.3);
-    background-color: #fff;
-    padding: 1em;
+    width: 110px;
+    height: 110px;
     border-radius: 50%;
     display: block;
+    text-align: center;
+    color: #fff;
     margin-left: auto;
     margin-right: auto;
+    padding:0.8em;
+    font-size:1em;
+    background-color: rgb(186, 189, 140);
 }
-.vd-button .vd-button-inner {
-    background-color: #8FB742;
-    color: #fff;
-    padding: 1em;
-    border-radius: 50%;
-}
-.vd-button .vd-button-tag-invert .vd-button-inner {
-    background-color: #4F5137;
-
+.vd-select-list > :nth-child(odd) .vd-button {
+    background-color: rgb(146, 200, 65);
 }
 
-.vd-select-submenu .vd-button .vd-button-tag {
-    width: 153px;
-    height: 153px;
+.vd-select-list > :nth-child(even) .vd-button {
+    background-color: rgb(67,182,73);   
 }
-.vd-select-submenu .vd-button .vd-button-inner {
-    height: 120px;
-    width: 120px;
-}
+
 .vd-button span {
     display: block;
 }
 .vd-select-submenu .vd-button .vd-button-price {
     font-size: 1.5em;
+    font-weight: bold;
 }
 .vd-select-submenu .vd-button span.vd-button-price:before {
     content: '€';
     font-size: 1em;
+    font-weight: bold;
 }
 
 a:hover .vd-button .vd-button-inner,
@@ -1169,8 +1267,7 @@ a.vd-barelink, a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.
     font-weight: normal;
 }
 .vd-landing-footer input.form-control,
-.vd-landing-footer .input-group-addon,
-#gcse-search-clone input.form-control {
+.vd-landing-footer .input-group-addon {
     background-color: rgba(255, 255, 255, 0.25);
 }
 
@@ -1216,12 +1313,6 @@ a.vd-barelink, a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.
     margin-right: 2px;
     white-space: normal;
     display: inline-block;
-}
-.vd-footer .vd-img-strip {
-    height: 105px;
-}
-.vd-footer .vd-img-strip>div {
-    height: 105px;
 }
 .vd-contact {
     font-size: 1.05em;
@@ -1403,7 +1494,6 @@ span.glyphicon {
  *   -------------------------------------------------------------------------------
  */
 .vd-booking-form {
-    margin-top: 1em;
     background-color: rgba(79, 81, 55, 0.66);
     padding: 1em;
     border-radius: 5px;
@@ -1414,7 +1504,4 @@ span.glyphicon {
 }
 .vd-booking-form .form-group.has-error select {
     background-color: #fce4e4;
-}
-.vd-booking-form-wrapper {
-    margin-top: 100px;
 }

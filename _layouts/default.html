@@ -1,5 +1,5 @@
 ---
-tcs: [1,2,3,5,6,9]
+
 ---
 <!DOCTYPE html>
 {% include layout-prelude.html %}
@@ -50,7 +50,7 @@ tcs: [1,2,3,5,6,9]
           <ul class="nav navbar-nav navbar-right">
             {% include langs-menu.html %}
             {% include contact-menu.html %}
-            {% include search-menu.html %}
+            {% include social-menu.html %}
           </ul>
         </div>
 
@@ -60,11 +60,11 @@ tcs: [1,2,3,5,6,9]
          {% assign bannerimg = '/img/style/banner.jpg' %}
          {%if page.bannerimg %}{% assign bannerimg = page.bannerimg %}{%endif%}
       <div class="vd-banner hidden-sm hidden-xs"
-          style="background-image: url('{{bannerimg}}'); background-position: center top; background-size: cover;"
+          style="background-image: url('{{bannerimg}}');"
       ></div>
-        {% unless page.remove contains 'callout' %}
-            {% include callout-form.html %}
-        {% endunless%}
+          {% if lvl3.booking_form_room or page.insert contains 'booking' %}
+              {% include booking-form.html %}
+          {% endif %}
     {% endif %}
     </header>
 
@@ -97,18 +97,13 @@ tcs: [1,2,3,5,6,9]
     {% if page.insert contains 'virtualtour' %}
         {% include virtualtour.html %}
     {% endif %}
-    {% if page.insert contains 'play-album' %}
-        {% include play-album.html %}
-    {% endif %}
+
         </div>
       </div>
     </article>
 
     <footer>
       <div id="footer" class="vd-footer">
-    {% unless  page.remove contains 'imgstrip'%}
-        {% include strip-album.html %}
-    {% endunless%}
         <!-- more footer elements? -->
         <div id="contact" class="vd-contact" itemscope itemtype="http://schema.org/Place">
         <a href="{{site.data.linkcode.contact[pgLang]}}" class="vd-barelink">
@@ -175,7 +170,6 @@ tcs: [1,2,3,5,6,9]
     <!-- using version 2.2.2 retrieved from cdn -->
     <script type="text/javascript" src="/js/isotope.pkgd.min.js"></script>
 
-    <script type="text/javascript" src="/js/jquery.gpAlbumViewer.js"></script>
     <script type="text/javascript" src="/js/main.js"></script>
 
     <script type="text/javascript" src="/js/URI.js"></script>

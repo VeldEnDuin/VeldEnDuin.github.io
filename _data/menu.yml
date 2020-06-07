@@ -1,35 +1,9 @@
-- linkcode: onze_troeven
-  menutekst:
-    nl: Goed om weten
-    fr: Bon à savoir
-    de: Gut zu wissen
-    en: Worth knowing
-  submenu:
-    - linkcode: onze_troeven
-
-    - linkcode: hier_staan_we_voor
-      submenu:
-        - linkcode: hier_staan_we_voor
-        - linkcode: rust
-        - linkcode: groen
-        - linkcode: iedereen_welkom
-        - linkcode: hondvriendelijk
-        - linkcode: kwaliteit
-        - linkcode: fietsvriendelijk
-
-    - linkcode: praktisch
-
-    - linkcode: tijdslijn
-
-    - linkcode: privacy
-
-
 - linkcode: verhuur
   menutekst:
-    nl:  Overnachten
-    fr:  Hébergement
-    en:  Accomodation
-    de:  Übernachtung
+    nl:  Logiestypes
+    fr:  TODO Hébergement
+    en:  TODO Accomodation
+    de:  TODO Übernachtung
   submenu:
     - linkcode: verhuur
       booking_form_group: verhuur
@@ -107,6 +81,35 @@
         - linkcode: sauna
         - linkcode: fietsberging
         - linkcode: pop_up_bib
+
+- linkcode: praktisch
+  menutekst: 
+    nl: Praktisch
+    fr: todo
+    de: todo
+    en: todo
+
+- linkcode: onze_troeven
+  menutekst:
+    nl: Over ons
+    fr: Bon à savoir
+    de: Gut zu wissen
+    en: Worth knowing
+  submenu:
+    - linkcode: hier_staan_we_voor
+      submenu:
+        - linkcode: hier_staan_we_voor
+        - linkcode: rust
+        - linkcode: groen
+        - linkcode: iedereen_welkom
+        - linkcode: hondvriendelijk
+        - linkcode: kwaliteit
+        - linkcode: fietsvriendelijk
+
+
+    - linkcode: tijdslijn
+
+    - linkcode: privacy
 
 - linkcode: doen
   menutekst:

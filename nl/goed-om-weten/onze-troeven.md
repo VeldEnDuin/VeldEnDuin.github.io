@@ -10,7 +10,6 @@ extrajs:
 insert:
     
     
-callout: "Waarom kiezen voor Veld & Duin? We zetten hier graag onze voornaamste troeven op een rijtje."
 
 ---
 {% include links.md %}

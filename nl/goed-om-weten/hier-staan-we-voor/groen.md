@@ -14,9 +14,6 @@ images:
 insert:
     - page-images-top
 
-remove:
-    - imgstrip
-    
 ---
 
 {% include links.md %}

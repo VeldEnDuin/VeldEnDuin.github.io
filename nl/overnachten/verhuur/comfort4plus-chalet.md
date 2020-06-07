@@ -2,7 +2,7 @@
 layout: page
 title: Chalet Comfort 4 Plus
 preview: 
-    title: Chalet comfort 4 +
+    title: Chalet comfort 4+
     button:
         price: 124
         for: 2 nachten
