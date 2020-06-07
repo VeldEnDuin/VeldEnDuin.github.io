@@ -108,6 +108,19 @@
         - linkcode: fietsberging
         - linkcode: pop_up_bib
 
+- linkcode: covid
+  menutekst:
+    nl: COVID-19
+    fr: COVID-19
+    de: COVID-19
+    en: COVID-19
+  submenu:
+    - linkcode: covid
+    - linkcode: covid-kamperen
+    - linkcode: covid-verhuur
+    - linkcode: covid-resientieel
+    - linkcode: covid-strand
+
 - linkcode: doen
   menutekst:
     nl: Doen

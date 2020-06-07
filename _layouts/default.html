@@ -106,9 +106,6 @@ tcs: [1,2,3,5,6,9]
 
     <footer>
       <div id="footer" class="vd-footer">
-    {% unless  page.remove contains 'imgstrip'%}
-        {% include strip-album.html %}
-    {% endunless%}
         <!-- more footer elements? -->
         <div id="contact" class="vd-contact" itemscope itemtype="http://schema.org/Place">
         <a href="{{site.data.linkcode.contact[pgLang]}}" class="vd-barelink">
