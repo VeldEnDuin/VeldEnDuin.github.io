@@ -1,0 +1,35 @@
+---
+title: Corona update
+layout: post
+description: update Nationalen Sicherheitsrates
+permalink: /de/2020-05-06-Corona-update.html
+
+    
+images: 
+    
+    
+    
+    
+---
+
+Der Nationale Sicherheitsrat ist gestern aufs neue zusammengekommen über die Exit-Strategie. Es war sehr schwierig für uns zu hören, dass die Frage von Zweitwohnsitze, touristische Vermietung und Tagesausflüge nur angesprochen werden wird während der Vorbereitung von Phase 3 (geschätztes Datum 8 Juni). 
+Über Reisen aus dem Ausland wurden bisher noch keine Aussagen gemacht. 
+
+
+Am 11 Mai kommen die Küstenbügermeister zusammen über ihren Vorschlag, Eigentümer von Zweitwohnsitzen und feste Campinggäste wieder ab 18 Mai zuzulassen. Ihr Ziel ist es, hierüber 
+Rat zu geben am Gouvernör von West-Flandern. Das ist aber nur ein Vorschlag und der  Nationale Sicherheitsrat hat immer das letzte Wort. 
+
+
+Es ist klar, das für uns Sicherheit und Gesundheit an erster Stelle stehen. Unser Campingsektor hat schon ein Sicherheitsprotokoll eingereicht für die Neustart des Campingsektors unter den sichersten Bedingungen. Wir sind daher davon überzeugt, dass dies möglich sein sollte für jede Unterkunft mit eigenem Sanitär. Vorausgesetzt selbstverständlich, dass jeder darin seine Verantwortung übernimmt. 
+
+
+Wir wollen und müssen daran glauben, dass wir bald gehört werden und die Möglichkeit bekommen zu beweisen, dass wir Sie einen sicheren Aufenthalt geniessen lassen können. 
+
+Sobald wir mehr Nachrichten bekommen geben wir Sie hierüber Bescheid. 
+
+Bleiben Sie mittlerweile gesund und pass aufeinander auf. 
+
+
+
+
+

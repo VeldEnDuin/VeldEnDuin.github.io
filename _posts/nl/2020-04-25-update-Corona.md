@@ -1,0 +1,19 @@
+---
+title: Corona update
+layout: post
+description: nog veel onduidelijkheid
+permalink: /nl/2020-04-25-Corona-update.html
+
+    
+images: 
+    
+    
+    
+---
+
+Ook wij hebben gisterenavond de persconferentie van de Nationale Veiligheidsraad met aandacht bekeken. De gebrachte informatie gaf niet de duidelijkheid waarop we zo sterk gehoopt hadden en blijkt nog voor interpretatie vatbaar.
+
+Via onze beroepsfederatie Recread wordt verdere verduidelijking gevraagd over een aantal punten. Zij ijveren heel sterk voor een spoedige heropening in veilige omstandigheden voor de kampeersector.
+Van zodra we hierover meer informatie ontvangen hebben zullen we jullie zeker op de hoogte brengen.
+
+Hou moed en vele groeten van ons allemaal!

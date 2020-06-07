@@ -413,6 +413,26 @@ resainfotrekkers:
     de: /files/deresainfo-trekkers2019.pdf
     en: /files/enresainfo-trekkers2019.pdf
 
+covideigenaars:
+    nl: /files/nlcovideigenaars.pdf
+    fr: /files/frcovideigenaars.pdf
+    de: /files/decovideigenaars.pdf
+covidhuurders:
+    nl: /files/nlcovidhuurders.pdf
+    fr: /files/frcovidhuurders.pdf
+    de: /files/decovidhuurders.pdf
+    en: /files/encovidhuurders.pdf
+covidtrekkers:
+    nl: /files/nlcovidtrekkers.pdf
+    fr: /files/frcovidtrekkers.pdf
+    de: /files/decovidtrekkers.pdf
+    en: /files/encovidtrekkers.pdf
+coviddagtaks:
+    nl: /files/nlcoviddagtaks.pdf
+    fr: /files/frcoviddagtaks.pdf
+    de: /files/decoviddagtaks.pdf
+
+
 
 # [8] externe links
 kusttram:
