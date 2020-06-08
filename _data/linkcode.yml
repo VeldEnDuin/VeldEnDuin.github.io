@@ -250,6 +250,11 @@ type_4:
     fr: /fr/hebergement/sejour-residentiel/type-4.html
     de: /de/uebernachten/daueraufenthalt/typ-4.html
     en: /en/accomodation/residential-stay/type-4.html
+type_5:
+    nl: /nl/overnachten/residentieel-verblijf/type-5.html
+    fr: /fr/hebergement/sejour-residentiel/type-5.html
+    de: /de/uebernachten/daueraufenthalt/typ-5.html
+    en: /en/accomodation/residential-stay/type-5.html
 
 
 # [2.4] submenu overnachten -> arrangementen
