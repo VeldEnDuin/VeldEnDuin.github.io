@@ -48,6 +48,7 @@ jubisite:
     nl: /img/jubisite.jpg
     fr: /img/jubisite.jpg
     de: /img/jubisite.jpg
+    
 
 # [1] menu - goed om weten
 onze_troeven:
@@ -338,26 +339,60 @@ pop_up_bib:
     de: /de/annehmlichkeiten/pop-up-bibliothek.html
     en: /en/amenities/pop-up-library.html
 
-# [4] menu doen
+# [4] menu covid 
+covid:
+    nl: /nl/covid/algemeen.html
+#    fr: /fr/...
+#    de: /de/...
+#    en: /en/...
+
+covid-kamperen:
+    nl: /nl/covid/kamperen.html
+#    fr: /fr/...
+#    de: /de/...
+#    en: /en/...
+    
+covid-verhuur:
+    nl: /nl/covid/verhuur.html
+#    fr: /fr/...
+#    de: /de/...
+#    en: /en/...
+
+covid-resientieel:
+    nl: /nl/covid/residentieel-verblijf.html
+#    fr: /fr/...
+#    de: /de/...
+#    en: /en/...
+
+covid-strand:
+    nl: /nl/covid/strand.html
+#    fr: /fr/...
+#    de: /de/...
+#    en: /en/...
+
+covid-richtlijn-pictos:
+    nl: /img/covid/nl-algemene-richtlijnen.png
+    fr: /img/covid/fr-directives-générales.png
+    de: /img/covid/de-allgemeine-richtlinien.png
+    en: /img/covid/en-general-guidelines.png
+    
+    
+# [5] menu doen
 doen:
     nl: /nl/doen.html
     fr: /fr/a-faire.html
     en: /en/do.html
     de: /de/aktivitaeten.html
 
-# [5] menu fotos
+# [6] links fotos
 fotos:
-#    nl: /nl/foto-selectie.html
-#    fr: /fr/photo-selection.html
-#    en: /en/photo-selection.html
-#    de: /de/foto-auswahl.html
     nl:  /nl/foto-archief.html
     fr:  /fr/archive-photographique.html
     en:  /en/photo-archive.html
     de:  /de/fotoarchiv.html
 
 
-# [6] menu pdf
+# [7] links pdf
 pdf_mvo:
     nl: /nl/pdf/mvo-rapport.pdf
     fr: /fr/pdf/mvo-rapport.pdf
@@ -372,14 +407,11 @@ pdf_zomeranimatie:
     nl: /nl/pdf/animatie2016.pdf
     fr: /fr/pdf/animations2016.pdf
     de: /de/pdf/animation2016.pdf
-
-# [7] files
 resainfoverhuur:
     nl: /files/nlresainfo-verhuur2019.pdf
     fr: /files/frresainfo-verhuur2019.pdf
     de: /files/deresainfo-verhuur2019.pdf
     en: /files/enresainfo-verhuur2019.pdf
-
 resainfotrekkers:
     nl: /files/nlresainfo-trekkers2019.pdf
     fr: /files/frresainfo-trekkers2019.pdf
@@ -450,5 +482,6 @@ overzetboot:
     en: http://www.visitoostende.be/en/overzetboot-visserskaai-oosteroever
 
    
-
-
+# [9] bijzondere posts -> permalink
+welcome-back:
+    nl: /nl/covid/welcome-back.html

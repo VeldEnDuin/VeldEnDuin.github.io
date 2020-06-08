@@ -4,12 +4,11 @@ title: Camping Veld & Duin
 
 insert:
     - banner
-remove:
-    - callout
     
 select:
     - verhuur
-    - nieuwepercelen
+#    - nieuwepercelen
+    - welcome-back
     
 class:
     select:
