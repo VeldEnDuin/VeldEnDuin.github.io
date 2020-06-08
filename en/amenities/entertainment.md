@@ -24,28 +24,17 @@ remove:
 ---
 {% include links.md %}
 
-# Entertainment Veld & Duin
+# Entertainment Veld & Duin summer 2020
 
-On Easter Sunday we organize a big easter egg hunt and game.
+At this moment it is still uncertain if entertainment will be possible on the campsite and on what conditions. 
 
-During the high season we offer a varied entertainment program. As we feel very strongly about originality, we will try to find new and inspiring activities. So keep an eye on our calendar for a complete and current survey.
+We are looking into the possibilities for smaller and safer activities. We will have to plan these last minute in function of the guidelines, possibilities and the weather. 
 
-At the end of the year we are going to organize a cosy mulled wine evening. A good opportunity to look back at the past year and to look forward to the coming season.
-
-[Photo archive entertainment Veld & Duin][pics.en]
-
-
-## Calendar Veld & Duin
-
-| Date | Activity|
-|-------|------------|
-| 12/04/2020      | Easter egg hunt           |
-
-
+We will keep you posted through facebook and our chalkboard. 
 
 
 
 ## Entertainment Bredene and surroundings
 
-There is always something to see and do at the coast. We will gladly keep you informed with up to date information on the information panel at the entrance of the campsite, in the information files in the chalets and on our [do-page][doen.en]. 
+All big summer events have been cancelled. On our [to do-page][doen.en] and facebook we will inform you on smaller initiatives that will be allowed to take place. 
 

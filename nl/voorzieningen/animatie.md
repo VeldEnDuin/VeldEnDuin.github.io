@@ -24,29 +24,15 @@ remove:
 ---
 {% include links.md %}
 
-# Animatie Veld & Duin
+# Animatie Veld & Duin zomer 2020
 
-Op paaszondag organiseren we een grote paaseierenraap en spel.
+Op dit moment is het nog niet helemaal duidelijk of er animatie op de camping zal mogelijk zijn en onder welke voorwaarden.
 
-In het hoogseizoen voorzien we een gevarieerd animatieprogramma. We proberen hierbij de platgetreden paden te verlaten en gaan telkens op zoek naar een leuk en vernieuwend aanbod. Houd onze kalender in de gaten voor een volledig overzicht.
+We bekijken zeker de mogelijkheden voor wat kleinere en veilige mogelijkheden. We zullen deze last minute inplannen in functie van de richtlijnen, de mogelijkheden en het weer.
 
-Het jaar wordt afgesloten met een gezellige glühweinavond. Onder het genot van een glaasje en versnapering halen we herinneringen op en kijk we al uit naar het volgend seizoen.
-
-[Fotoarchief animatie Veld & Duin][pics.nl]
-
-
-## Kalender Veld & Duin
-
-
-| Datum | Activiteit |
-|-------|------------| 
-|  12/04/2020       | Paaseierenraap           |
-
-
-
-
+We houden u op de hoogte via facebook en ons krijtbord.
 
 
 ## Animatie Bredene en omgeving
 
-Aan de kust valt er altijd wel iets te beleven. We houden u graag op de hoogte van de activiteiten in de buurt via het infoscherm aan de ingang, de infomappen in de verhuureenheden of neem een kijkje op onze [doen-pagina][doen.nl]. 
+De grote evenementen voor deze zomer werden allemaal afgelast. Via onze [doen-pagina][doen.nl] en facebook houden we jullie op de hoogte van de kleinschalige initiatieven die wel kunnen doorgaan. 

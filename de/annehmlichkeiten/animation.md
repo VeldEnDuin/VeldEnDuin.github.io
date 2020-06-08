@@ -24,26 +24,15 @@ remove:
 ---
 {% include links.md %}
 
-# Animation Veld & Duin
+# Animation Veld & Duin Sommer 2020
 
-Am Osternsonntag organisieren wir eine große Ostereiersuche und Spiel.
+Im Moment ist es noch unsicher ob Animation überhaupt möglich sein wird auf dem Camping und unter welchen Bedingungen. 
 
-In der Hochsaison gibt es ein abwechslungsreiches Animationsprogramm. Dabei versuchen wir, die ausgetretenen Pfade zu verlassen und suchen immer ein attraktives und innovatives Angebot. Behalten Sie unseren Kalender im Auge. Dort finden Sie die komplette Übersicht.
+Wir schauen uns die Möglichkeiten für kleinere und sichere Aktivitäten an. Wir werden diese einplanen müssen in Abhängigkeit von den Richtlinien, Möglichkeiten und Wetter. 
 
-Jedes Jahr schließen wir mit einem gemütlichen Glühweinabend ab. Bei warmen Getränken und einem Snack erinnern wir uns ans abgelaufene Jahr und wagen einen Ausblick in die nächste Saison.
-
-[Fotoarchiv Animation Veld & Duin][pics.de]
-
-## Kalender Veld & Duin
-
-| Datum | Aktivität |
-|-------|------------|
-|  12/04/2020     | Ostereiersuche           |
-
-
-
+Wir halten Sie auf dem Laufenden über Facebook und unserem Kreidetafel. 
 
 
 ## Animation Bredene und Umgebung
 
-An der Küste gibt es immer etwas zu erleben. Über den Informationsbildschirm am Eingang, die Infomappen in den Mieteinheiten oder auf unserer [Aktivitätenseite][doen.de] halten wir Sie gern über die Aktivitäten in der Umgebung auf dem Laufenden. 
+Alle grosse Sommerevents wurden storniert. Auf unserer [Aktivitätenseite][doen.de] werden wir Sie über kleinere Initiativen, die stattfinden dürfen, informieren. 
