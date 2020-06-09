@@ -2,7 +2,7 @@
 title: Qualité
 layout: page
 images: 
-    - /img/labels/qlab-01.jpg
+    - /img/labels/qlab-01.png
 
 insert:
     - page-images-top
