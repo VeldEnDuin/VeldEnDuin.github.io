@@ -26,7 +26,6 @@ Wir informieren Sie gern darüber, was in der Umgebung so alles zu erleben ist. 
 
 ## Informationswand
 
-- Aktuelle Übersicht der Aktivitäten in Bredene und Umgebung auf dem Informationsbildschirm
 - Informationstafel mit allen praktischen Infos wie Preisen, Notrufnummern, Plan usw.
 - Briefkasten für Ihre Post oder Zeitung
 - Aktuellste Tipps auf der Tafel
@@ -34,15 +33,10 @@ Wir informieren Sie gern darüber, was in der Umgebung so alles zu erleben ist. 
 ## Empfang
 
 - Umfassendes Angebot an Prospekten etlicher Aktivitäten in der Umgebung
-- Infomappe u.a. mit Prospekten, Preisen und Öffnungszeiten von Sehenswürdigkeiten und Veranstaltungen 
 
 ## [Aktivitäten-Seite][doen.de]
 
 - Auf unserer Webseite finden Sie eine ausführliche Übersicht über diverse, in praktische Rubriken unterteilte Aktivitäten
-
-## Campingzeitung
-
-- Jede Saison bringen wir eine Campingzeitung heraus. Darin finden Sie die Animationsprogramme von Veld & Duin und der Küste, Tipps für unterhaltsame Ausflüge und eine Spielerubrik
 
 ## Tourismusamt
 

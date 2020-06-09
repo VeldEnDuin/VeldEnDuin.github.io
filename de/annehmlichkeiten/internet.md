@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Drahtloser Internetzugang
+title: Internet
 picto: /img/svg/voorzieningen/internet.svg
 
 images:
@@ -20,14 +20,21 @@ remove:
 
 {% include links.md %}
 
-# Drahtloser Internetzugang
+# Internet
 
 Posten Sie Ihre schönsten Urlaubsfotos und lassen Sie Ihre Familie und Freunde an den aktuellsten Urlaubserlebnissen teilhaben.
 
-Dafür gibt es unseren drahtlosen Internetzugang, den Sie auf dem gesamten Campingplatz empfangen können. Kaufen Sie sich Ihr Ticket am Empfang, loggen Sie sich ein und schon sind Sie online!
+## Internet Mietunterkünfte
 
+Wenn Sie eine Unterkunft bei uns mieten sind 2 Internettickets für die Dauer Ihres Aufenthalts inbegriffen im Mietpreis. Jedes Ticket verbindet 1 Gerät. Wenn Sie mehr Tickets brauchen können Sie diese an der Rezeption kaufen. 
 
-## Preise
+In jeder Mietunterkunft garantiert ein Modem eine stabile und schnelle Verbindung. 
+
+Auf dem Camping (Spielplatz, ...) verbindet Ihr Gerät sich automatisch mit dem Wifi-Netz. 
+
+## Internet Campingplätze
+
+Auf unseren Campingplätzen können Sie unser Wifi-Netz verwenden. Kaufen Sie die Tickets an der Rezeption, loggen Sie ein und Sie sind verbunden!
 
 ZEIT ONLINE         | PREIS       | 
 :------------------:|:-----------:|
@@ -38,6 +45,10 @@ ZEIT ONLINE         | PREIS       |
 3 Wochen            |€ 16        
 1 Monat             |€ 20 
 
-Jedes Ticket gilt für ein Gerät.
+Jedes Ticket verbindet ein Gerät.
 
-Beim Mieten eines Chalets oder Appartements sind 2 Internettickets für die Dauer Ihres Aufenthalts im Mietpreis einbegriffen.
+## Internet Dauercamper
+
+Jeder Eigentümer erhält jedes Jahr bei der Rechnung 4  Internettickets (inbegriffen im Standgeld).  Diese Codes sind streng persönlich und können 4 Geräte (Laptop, Smartphone, Tablet) verbinden. 
+
+Mit diesen Codes können Sie entweder das WLAN-Netz nutzen oder sich für schnelles Internet über das Modem entscheiden. Alle Info hierüber finden Sie auf dem Infoblatt (erhältlich an der Rezeption). 

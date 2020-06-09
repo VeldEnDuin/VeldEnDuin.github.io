@@ -26,7 +26,6 @@ We informeren u graag over wat er in de omgeving zoal te beleven is. Dit doen we
 
 ## Infomuur
 
-- up-to-date overzicht van de activiteiten in Bredene en omgeving op het infoscherm
 - infobord met alle praktische info zoals prijzen, noodnummers, plattegrond,...
 - brievenkast voor uw post of krant
 - de meest actuele tip op het krijtbord
@@ -34,15 +33,10 @@ We informeren u graag over wat er in de omgeving zoal te beleven is. Dit doen we
 ## Receptie
 
 - ruim aanbod aan folders van heel wat activiteiten in de buurt
-- inkijkmap met o.a. folders, prijzen en de openingsuren van attracties en evenementen 
 
 ## [Doen-pagina][doen.nl]
 
 - op onze site vindt u een uitgebreid overzicht van allerhande activiteiten, handig onderverdeeld in rubrieken
-
-## Campingkrant
-
-- per seizoen brengen we een campingkrant uit, hierin vindt u het animatieprogramma van Veld & Duin en de kust, tips voor leuke uitstapjes en een spelletjesrubriek
 
 
 ## Dienst voor Toerisme

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wifi
+title: Internet
 picto: /img/svg/voorzieningen/internet.svg
 
 images:
@@ -20,13 +20,21 @@ remove:
 
 {% include links.md %}
 
-# Wifi
+# Internet
 
 Post your most beautiful holiday picture and keep your family up to date with the latest holiday news.
 
-Our wifi is accessible all over the campsite. Buy your ticket at the reception and log in to be online.
+## Internet rental accommodations
 
-## Prices
+When you rent a rental accommodation with us 2 internet tickets for the lenghth of your stay are included in the price. Each ticket connects one device. If you need extra tickets, you can buy these at the reception. 
+
+In each of our rental accommodations a modem guarantees a fast and stable connection inside. 
+
+On the campsite (playground, ...) your device automatically connects with our wifi network. 
+
+## Internet camping pithes
+
+On our camping pitches you can use our wifi network. Buy your tickets at the reception, log in and you are connected!
 
 TIME ONLINE         | PRICE      | 
 :------------------:|:-----------:|
@@ -37,6 +45,11 @@ TIME ONLINE         | PRICE      |
 3 weeks            	|€ 16        
 1 month            	|€ 20 
 
-One ticket per appliance.
+One ticket per device.
 
-When booking a chalet, caravan or apartment 2 internet tickets are included in the rent price for the length of your stay.
+## Internet residential campers
+
+Each owner of a chalet or caravan receives 4 tickets each year with the invoice. These are included in the stand price. These codes are strictly personal and can connect 4 devices (laptop, smartphone, smart tv, tablet, ...)
+
+You can use these codes to connect to our wifi network or choose a fast connection using a modem. You can find all information on this on the infosheet (available at the reception).
+
