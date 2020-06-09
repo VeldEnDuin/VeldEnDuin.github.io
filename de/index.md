@@ -9,7 +9,8 @@ remove:
     
 select:
     - verhuur
-    - nieuwepercelen
+#    - nieuwepercelen
+    - welcome-back
     
 class:
     select:

@@ -348,31 +348,31 @@ pop_up_bib:
 covid:
     nl: /nl/covid/algemeen.html
     fr: /fr/covid/general.html
-#    de: /de/...
+    de: /de/covid/allgemein.html
 #    en: /en/...
 
 covid-kamperen:
     nl: /nl/covid/kamperen.html
     fr: /fr/covid/campeurs.html
-#    de: /de/...
+    de: /de/covid/camper.html
 #    en: /en/...
     
 covid-verhuur:
     nl: /nl/covid/verhuur.html
     fr: /fr/covid/location.html
-#    de: /de/...
+    de: /de/covid/vermietung.html
 #    en: /en/...
 
 covid-resientieel:
     nl: /nl/covid/residentieel-verblijf.html
     fr: /fr/covid/sejour-residentiel.html
-#    de: /de/...
+    de: /de/covid/daueraufenthalt.html
 #    en: /en/...
 
 covid-strand:
     nl: /nl/covid/strand.html
     fr: /fr/covid/plage.html
-#    de: /de/...
+    de: /de/covid/strand.html
 #    en: /en/...
 
 covid-richtlijn-pictos:
