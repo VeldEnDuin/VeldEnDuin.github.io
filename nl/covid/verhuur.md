@@ -46,7 +46,6 @@ mag maar is niet verplicht gezien we dat zelf ook overal voorzien.
 * Aanvraag van schoonmaak moet minstens 3 dagen op voorhand gebeuren zodat we
 voldoende personeel kunnen voorzien.
 
-Specifieke richtlijnen voor huurders van een caravan, chalet of appartement
 
 ## RICHTLIJNEN
 

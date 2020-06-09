@@ -28,8 +28,6 @@ langskomen bij de receptie voor het ophalen van uw jetons, vuilniszakken,...
 Het perceel dient tijdig vrijgemaakt te worden voor de volgende reservatie.
 Gelieve ons op te bellen om te melden dat de plaats vrij is.
 
-Specifieke richtlijnen voor iedereen met mobilhome, trekcaravan of tent
-
 ## RICHTLIJNEN SANITAIR EN SERVICESTATION
 
 * Iedereen met eigen sanitair wordt gevraagd dit bij voorkeur te gebruiken.
