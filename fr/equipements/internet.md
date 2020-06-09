@@ -28,7 +28,7 @@ Postez vos plus belles photos de vacances sur les réseaux sociaux et restez en 
 
 Si vous louez un chalet ou appartement chez nous, vous recevez 2 tickets d'internet pour la durée de votre séjour. Un ticket connecte 1 appareil. Si vous avez besoin de plus vous pouvez acheter des tickets supplémentaires à la réception. 
 
-Un modem dans chaque de nos accommodations garantit une connexion rapide et stable. 
+Un modem dans chaque de nos accommodations garantit une connexion rapide et stable dedans. 
 
 Sur le camping (terrain de jeu, ...) votre appareil se connecte automatiquement au réseau wifi. 
 
