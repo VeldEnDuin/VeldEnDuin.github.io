@@ -15,9 +15,9 @@ preview:
        
 
 images:
-    - /img/overnachten/verhuring-C2-chalet/c2ch-01.jpg
-    - /img/overnachten/verhuring-C2-chalet/c2ch-02.jpg
     - /img/overnachten/verhuring-C2-chalet/c2ch-03.jpg
+    - /img/overnachten/verhuring-C2-chalet/c2ch-02.jpg
+    - /img/overnachten/verhuring-C2-chalet/c2ch-01.jpg
     - /img/overnachten/verhuring-C2-chalet/c2ch-04.jpg
     - /img/overnachten/verhuring-C2-chalet/c2ch-05.jpg
     - /img/overnachten/verhuring-C2-chalet/c2ch-06.jpg

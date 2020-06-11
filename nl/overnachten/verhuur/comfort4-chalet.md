@@ -12,8 +12,8 @@ preview:
         - "dichtbij speelplein"
         - "honden toegelaten"
 images:
-    - /img/overnachten/verhuring-C4-chalet/c4ch-01.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-02.jpg
+    - /img/overnachten/verhuring-C4-chalet/c4ch-01.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-03.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-04.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-05.jpg
