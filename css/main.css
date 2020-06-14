@@ -1467,7 +1467,6 @@ a.vd-barelink, a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.
     margin-top: 1em;
 }
 
-
 .navbar a,
 .nav a,
 .nav-pills a,
@@ -1505,3 +1504,50 @@ span.glyphicon {
 .vd-booking-form .form-group.has-error select {
     background-color: #fce4e4;
 }
+
+.vd-booking-form-wrapper {
+    margin-top: 100px;
+}
+
+
+/* ===================================================================================
+ * embedded media
+ *   -------------------------------------------------------------------------------
+ */
+.mediaview {
+}
+
+.mediaview .mediatitle {
+
+}
+
+.mediaview .mediatitle img {
+    height: 1.5em;
+}
+
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align: left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+
+/* making responsive contained iframes and embedded stuiff */
+.embed-container {
+    position: relative;
+    height: 450px;
+    overflow: hidden;
+    max-width: 100%;
+}
+.embed-container iframe, 
+.embed-container object, 
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+

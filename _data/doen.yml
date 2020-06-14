@@ -178,86 +178,86 @@ items:
     fr: La bataille de l’Yser - Nieuport
     de: Schlacht um die Yser - Nieuwpoort
     en: the battle for the Yser - Nieuwpoort
-- ranking: 170
-  location: 51.252213, 2.974759
-  subgroups:
-  - event
-  images:
-  - "/img/doen/bre-gardens.jpg"
-  link:
-  title:
-    nl: Gardens of Bredene
-    fr: Gardens of Bredene
-    de: Gardens of Bredene
-    en: Gardens of Bredene
-  caption:
-    nl: parkfeest 't Paelsteenveld - Bredene
-    fr: fête dans le parc ‘t Paelsteenveld – Bredene
-    de: Parkfest 't Paelsteenveld – Bredene
-    en: festival in Paelsteenveld park - 't Paelsteenveld - Bredene
-- ranking: 230
-  location: 51.231234, 2.913555
-  subgroups:
-  - event
-  images:
-  - "/img/doen/ost-taz.jpg"
-  link:
-    nl: http://theateraanzee.be/nl/
-    fr: http://theateraanzee.be/fr/
-    de: http://theateraanzee.be/nl/
-    en: http://theateraanzee.be/en/
-  title:
-    nl: Theater aan Zee
-    fr: Theater aan Zee
-    de: Theater aan Zee
-    en: Theater aan Zee
-  caption:
-    nl: theaterfestival - Oostende - 29/07 - 08/08/20
-    fr: festival de théâtre – Ostende - 29/07 - 08/08/20
-    de: Theaterfestival – Ostende - 29/07 - 08/08/20
-    en: theater festival - Ostend - 29/07 - 08/08/20
-- ranking: 100
-  location: 51.278736, 3.034791
-  subgroups:
-  - event
-  images:
-  - "/img/doen/dhn-trammelant.jpg"
-  link:
-    nl: http://www.visitdehaan.be/nl/doen/evenementen/trammelant/1487/
-    fr: http://www.visitdehaan.be/fr/faire/evenements/trammelant/1487/
-    de: http://www.visitdehaan.be/de/erleben/veranstaltungen/trammelant/1487/
-    en: http://www.visitdehaan.be/en/experience/events/trammelant/1487/
-  title:
-    nl: Trammelant
-    fr: Trammelant
-    de: Trammelant
-    en: Trammelant
-  caption:
-    nl: Belle Epoquefeest - De Haan - 08/08/20
-    fr: fête sous le thème de la Belle Époque - 08/08/20
-    de: Belle-Epoque-Fest – De Haan - 08/08/20
-    en: Belle Epoque event - De Haan - 08/08/20
-- ranking: 290
-  location: 51.315091, 3.131080
-  subgroups:
-  - event
-  images:
-  - "/img/doen/blk-corso.jpg"
-  link:
-    nl: https://blankenberge.info/nl/evenement/413/bloemencorso.html
-    fr: https://blankenberge.info/nl/evenement/413/bloemencorso.html
-    de: https://blankenberge.info/nl/evenement/413/bloemencorso.html
-    en: https://blankenberge.info/nl/evenement/413/bloemencorso.html
-  title:
-    nl: Bloemencorso
-    fr: Corso fleuri
-    de: Blumenkorso
-    en: Bloemencorso
-  caption:
-    nl: bloemenstoet - Blankenberge - 30/08/2020
-    fr: cortège de chars fleuris – Blankenberge - 30/08/2020
-    de: Blumenumzug – Blankenberge - 30/08/2020
-    en: flower Parade - Blankenberge - 30/08/2020
+#- ranking: 170
+#  location: 51.252213, 2.974759
+#  subgroups:
+#  - event
+#  images:
+#  - "/img/doen/bre-gardens.jpg"
+#  link:
+#  title:
+#    nl: Gardens of Bredene
+#    fr: Gardens of Bredene
+#    de: Gardens of Bredene
+#    en: Gardens of Bredene
+#  caption:
+#    nl: parkfeest 't Paelsteenveld - Bredene
+#    fr: fête dans le parc ‘t Paelsteenveld – Bredene
+#    de: Parkfest 't Paelsteenveld – Bredene
+#    en: festival in Paelsteenveld park - 't Paelsteenveld - Bredene
+#- ranking: 230
+#  location: 51.231234, 2.913555
+#  subgroups:
+#  - event
+#  images:
+#  - "/img/doen/ost-taz.jpg"
+#  link:
+#    nl: http://theateraanzee.be/nl/
+#    fr: http://theateraanzee.be/fr/
+#    de: http://theateraanzee.be/nl/
+#    en: http://theateraanzee.be/en/
+#  title:
+#    nl: Theater aan Zee
+#    fr: Theater aan Zee
+#    de: Theater aan Zee
+#    en: Theater aan Zee
+#  caption:
+#    nl: theaterfestival - Oostende - 29/07 - 08/08/20
+#    fr: festival de théâtre – Ostende - 29/07 - 08/08/20
+#    de: Theaterfestival – Ostende - 29/07 - 08/08/20
+#    en: theater festival - Ostend - 29/07 - 08/08/20
+#- ranking: 100
+#  location: 51.278736, 3.034791
+#  subgroups:
+#  - event
+#  images:
+#  - "/img/doen/dhn-trammelant.jpg"
+#  link:
+#    nl: http://www.visitdehaan.be/nl/doen/evenementen/trammelant/1487/
+#    fr: http://www.visitdehaan.be/fr/faire/evenements/trammelant/1487/
+#    de: http://www.visitdehaan.be/de/erleben/veranstaltungen/trammelant/1487/
+#    en: http://www.visitdehaan.be/en/experience/events/trammelant/1487/
+#  title:
+#    nl: Trammelant
+#    fr: Trammelant
+#    de: Trammelant
+#    en: Trammelant
+#  caption:
+#    nl: Belle Epoquefeest - De Haan - 08/08/20
+#    fr: fête sous le thème de la Belle Époque - 08/08/20
+#    de: Belle-Epoque-Fest – De Haan - 08/08/20
+#    en: Belle Epoque event - De Haan - 08/08/20
+#- ranking: 290
+#  location: 51.315091, 3.131080
+#  subgroups:
+#  - event
+#  images:
+#  - "/img/doen/blk-corso.jpg"
+#  link:
+#    nl: https://blankenberge.info/nl/evenement/413/bloemencorso.html
+#    fr: https://blankenberge.info/nl/evenement/413/bloemencorso.html
+#    de: https://blankenberge.info/nl/evenement/413/bloemencorso.html
+#    en: https://blankenberge.info/nl/evenement/413/bloemencorso.html
+#  title:
+#    nl: Bloemencorso
+#    fr: Corso fleuri
+#    de: Blumenkorso
+#    en: Bloemencorso
+#  caption:
+#    nl: bloemenstoet - Blankenberge - 30/08/2020
+#    fr: cortège de chars fleuris – Blankenberge - 30/08/2020
+#    de: Blumenumzug – Blankenberge - 30/08/2020
+#    en: flower Parade - Blankenberge - 30/08/2020
 - ranking: 240
   location: 51.318481, 3.146007
   subgroups:
@@ -279,27 +279,27 @@ items:
     fr: découvrez les merveilles du monde sous-marin
     de: Entdecken Sie die fesselnde Unterwasserwelt
     en: discover the fascinating under water world
-- ranking: 110
-  location: 51.255308, 3.007239
-  subgroups:
-  - kids
-  images:
-  - "/img/doen/dhn-sierk.jpg"
-  link:
-    nl: http://www.desierk.be/welkom-bij-de-sierk
-    fr: http://www.desierk.be/welkom-bij-de-sierk
-    de: http://www.desierk.be/welkom-bij-de-sierk
-    en: http://www.desierk.be/welkom-bij-de-sierk
-  title:
-    nl: De Sierk
-    fr: De Sierk
-    de: De Sierk
-    en: De Sierk
-  caption:
-    nl: circusspeelterrein- De Haan
-    fr: terrain de jeux de cirque – Le Coq
-    de: Zirkusspielplatz – De Haan
-    en: circus playground - De Haan
+#- ranking: 110
+#  location: 51.255308, 3.007239
+#  subgroups:
+#  - kids
+#  images:
+#  - "/img/doen/dhn-sierk.jpg"
+#  link:
+#    nl: http://www.desierk.be/welkom-bij-de-sierk
+#    fr: http://www.desierk.be/welkom-bij-de-sierk
+#    de: http://www.desierk.be/welkom-bij-de-sierk
+#    en: http://www.desierk.be/welkom-bij-de-sierk
+#  title:
+#    nl: De Sierk
+#    fr: De Sierk
+#    de: De Sierk
+#    en: De Sierk
+#  caption:
+#    nl: circusspeelterrein- De Haan
+#    fr: terrain de jeux de cirque – Le Coq
+#    de: Zirkusspielplatz – De Haan
+#    en: circus playground - De Haan
 - ranking: 370
   location: 51.181855, 3.214026
   subgroups:
@@ -646,26 +646,26 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 145
-  subgroups:
-  - shopout
-  images:
-  - "/img/doen/kust-markt2.jpg"
-  link:
-    nl: http://www.kustmarkten.be/
-    fr: http://www.kustmarkten.be/
-    de: http://www.kustmarkten.be/
-    en: http://www.kustmarkten.be/
-  title:
-    nl: (avond)markten
-    fr: marchés (nocturnes)
-    de: (Abend-)Märkte
-    en: (evening)markets
-  caption:
-    nl: ''
-    fr: ''
-    de: ''
-    en: ''
+#- ranking: 145
+#  subgroups:
+#  - shopout
+#  images:
+#  - "/img/doen/kust-markt2.jpg"
+#  link:
+#    nl: http://www.kustmarkten.be/
+#    fr: http://www.kustmarkten.be/
+#    de: http://www.kustmarkten.be/
+#    en: http://www.kustmarkten.be/
+#  title:
+#    nl: (avond)markten
+#    fr: marchés (nocturnes)
+#    de: (Abend-)Märkte
+#    en: (evening)markets
+#  caption:
+#    nl: ''
+#    fr: ''
+#    de: ''
+#    en: ''
 - ranking: 390
   subgroups:
   - recrea
@@ -706,27 +706,27 @@ items:
     fr: ''
     de: ''
     en: ''
-- ranking: 190
-  location: 51.230265, 2.964793
-  subgroups:
-  - recrea
-  images:
-  - "/img/doen/bre-zwem.jpg"
-  link:
-    nl: http://www.dekust.be/nl/doen/sport-ontspanning/type/zwemgelegenheid
-    fr: http://www.lelittoral.be/fr/a-faire/sport-divertissement/type/natation
-    de: http://www.belgischekueste.be/de/tun/sport-unterhaltung/type/schwimmen
-    en: http://www.belgiancoast.co.uk/en/do/sport-entertainment/type/swim
-  title:
-    nl: zwemmen
-    fr: natation
-    de: Schwimmen
-    en: swimming
-  caption:
-    nl: zwembaden aan de Kust
-    fr: piscines à la côte
-    de: Schwimmbäder an der Küste
-    en: swimming pools at the coast
+#- ranking: 190
+#  location: 51.230265, 2.964793
+#  subgroups:
+#  - recrea
+#  images:
+#  - "/img/doen/bre-zwem.jpg"
+#  link:
+#    nl: http://www.dekust.be/nl/doen/sport-ontspanning/type/zwemgelegenheid
+#    fr: http://www.lelittoral.be/fr/a-faire/sport-divertissement/type/natation
+#    de: http://www.belgischekueste.be/de/tun/sport-unterhaltung/type/schwimmen
+#    en: http://www.belgiancoast.co.uk/en/do/sport-entertainment/type/swim
+#  title:
+#    nl: zwemmen
+#    fr: natation
+#    de: Schwimmen
+#    en: swimming
+#  caption:
+#    nl: zwembaden aan de Kust
+#    fr: piscines à la côte
+#    de: Schwimmbäder an der Küste
+#    en: swimming pools at the coast
 - ranking: 320
   location: 51.244098, 2.974537
   subgroups:
@@ -913,28 +913,28 @@ items:
     fr: centre historique
     de: Historischer Stadtkern
     en: historic centre
-- ranking: 400
-  location: 51.225649, 2.906060
-  subgroups:
-  - city
-  - shopout
-  images:
-  - "/img/doen/ost-wellington.jpg"
-  link:
-    nl: https://www.facebook.com/OostendeKoerse/
-    fr: https://www.facebook.com/OostendeKoerse/
-    de: https://www.facebook.com/OostendeKoerse/
-    en: https://www.facebook.com/OostendeKoerse/
-  title:
-    nl: Wellington Hippodroom
-    fr: Hippodrome Wellington
-    de: Wellington Hippodroom
-    en: Wellington Hippodrome
-  caption:
-    nl: paardenrennen - Oostende
-    fr: course de chevaux - Ostende
-    de: Pferderennbahn – Ostende
-    en: horseracing - Ostend
+#- ranking: 400
+#  location: 51.225649, 2.906060
+#  subgroups:
+#  - city
+#  - shopout
+#  images:
+#  - "/img/doen/ost-wellington.jpg"
+#  link:
+#    nl: https://www.facebook.com/OostendeKoerse/
+#    fr: https://www.facebook.com/OostendeKoerse/
+#    de: https://www.facebook.com/OostendeKoerse/
+#    en: https://www.facebook.com/OostendeKoerse/
+#  title:
+#    nl: Wellington Hippodroom
+#    fr: Hippodrome Wellington
+#    de: Wellington Hippodroom
+#    en: Wellington Hippodrome
+#  caption:
+#    nl: paardenrennen - Oostende
+#    fr: course de chevaux - Ostende
+#    de: Pferderennbahn – Ostende
+#    en: horseracing - Ostend
 - ranking: 330
   subgroups:
   - shopout
@@ -1078,48 +1078,48 @@ items:
     fr: tours guidés gratuits
     de: kostenlose geführte Tours
     en: free guided tour
-- ranking: 255
-  location: 51.229126, 2.925613
-  subgroups:
-  - event
-  images:
-  - "/img/doen/ost-vooranker.jpg"
-  link:
-    nl: http://www.oostendevooranker.be/
-    fr: http://www.oostendevooranker.be/
-    de: http://www.oostendevooranker.be/
-    en: http://www.oostendevooranker.be/
-  title:
-    nl: Oostende voor Anker
-    fr: Oostende voor Anker
-    de: Oostende voor Anker
-    en: Oostende voor Anker
-  caption:
-    nl: maritiem festival - Oostende - 29/05 - 01/06/20
-    fr: festival maritime - Ostende - 29/05 - 01/06/20
-    de: maritimes Festival - Oostende - 29/05 - 01/06/20
-    en: maritime festival - Ostend - 29/05 - 01/06/20
-- ranking: 345
-  location: 51.340946, 3.240212
-  subgroups:
-  - event
-  images:
-  - "/img/doen/kno-kneistival.jpg"
-  link:
-    nl: https://www.facebook.com/Kneistival/
-    fr: https://www.facebook.com/Kneistival/
-    de: https://www.facebook.com/Kneistival/
-    en: https://www.facebook.com/Kneistival/
-  title:
-    nl: Kneistival
-    fr: Kneistival
-    de: Kneistival
-    en: Kneistival
-  caption:
-    nl: gratis pop & rock festival - Knokke-Heist
-    fr: festival pop & rock gratuit - Knokke-Heist
-    de: kostenloses Pop & Rock Festival - Knokke-Heist
-    en: free pop & rock festival - Knokke-Heist
+#- ranking: 255
+#  location: 51.229126, 2.925613
+#  subgroups:
+#  - event
+#  images:
+#  - "/img/doen/ost-vooranker.jpg"
+#  link:
+#    nl: http://www.oostendevooranker.be/
+#    fr: http://www.oostendevooranker.be/
+#    de: http://www.oostendevooranker.be/
+#    en: http://www.oostendevooranker.be/
+#  title:
+#    nl: Oostende voor Anker
+#    fr: Oostende voor Anker
+#    de: Oostende voor Anker
+#    en: Oostende voor Anker
+#  caption:
+#    nl: maritiem festival - Oostende - 29/05 - 01/06/20
+#    fr: festival maritime - Ostende - 29/05 - 01/06/20
+#    de: maritimes Festival - Oostende - 29/05 - 01/06/20
+#    en: maritime festival - Ostend - 29/05 - 01/06/20
+#- ranking: 345
+#  location: 51.340946, 3.240212
+#  subgroups:
+#  - event
+#  images:
+#  - "/img/doen/kno-kneistival.jpg"
+#  link:
+#    nl: https://www.facebook.com/Kneistival/
+#    fr: https://www.facebook.com/Kneistival/
+#    de: https://www.facebook.com/Kneistival/
+#    en: https://www.facebook.com/Kneistival/
+#  title:
+#    nl: Kneistival
+#    fr: Kneistival
+#    de: Kneistival
+#    en: Kneistival
+#  caption:
+#    nl: gratis pop & rock festival - Knokke-Heist
+#    fr: festival pop & rock gratuit - Knokke-Heist
+#    de: kostenloses Pop & Rock Festival - Knokke-Heist
+#    en: free pop & rock festival - Knokke-Heist
 - ranking: 55
   location: 51.230025, 2.919333
   subgroups:
@@ -1142,91 +1142,91 @@ items:
     fr: Street Art à Ostende
     de: Street Art in Oostende
     en: Street art in Ostend
-- ranking: 265
-  location: 51.235579, 2.918323
-  subgroups:
-  - cult
-  - coast
-  images:
-  - "/img/doen/zandsculptuur.jpg"
-  link:
-    nl: http://www.zandsculpturen.be
-    fr: http://www.zandsculpturen.be
-    de: http://www.zandsculpturen.be
-    en: http://www.zandsculpturen.be
-  title:
-    nl: Zandsculpturenfestival
-    fr: Festival de sculptures de sable
-    de: Sandskulpturenfestival
-    en: Sand sculpture festival
-  caption:
-    nl: Oostende - 20/06 - 06/09/20
-    fr: Ostende - 20/06 - 06/09/20
-    de: Oostende - 20/06 - 06/09/20
-    en: Ostend - 20/06 - 06/09/20
-- ranking: 155
-  location: 51.055099, 3.720985
-  subgroups:
-  - event
-  images:
-  - "/img/doen/gentsefeesten.jpg"
-  link:
-    nl: https://gentsefeesten.stad.gent
-    fr: https://gentsefeesten.stad.gent
-    de: https://gentsefeesten.stad.gent
-    en: https://gentsefeesten.stad.gent
-  title:
-    nl: Gentse feesten
-    fr: Gentse feesten
-    de: Gentse feesten
-    en: Gentse feesten
-  caption:
-    nl: Cultuurfestival - Gent - 17/07 - 26/07/20
-    fr: Fête culturel - Gand - 17/07 - 26/07/20
-    de: Kulturellen Fest - Gent - 17/07 - 26/07/20
-    en: Cultural festival - Ghent - 17/07 - 26/07/20
-- ranking: 115
-  location: 51.229485, 2.921105
-  subgroups:
-  - event
-  images:
-  - "/img/doen/paulusfeesten.jpg"
-  link:
-    nl: http://www.paulusfeesten.be
-    fr: http://www.paulusfeesten.be
-    de: http://www.paulusfeesten.be
-    en: http://www.paulusfeesten.be
-  title:
-    nl: Paulusfeesten
-    fr: Paulusfeesten
-    de: Paulusfeesten
-    en: Paulusfeesten
-  caption:
-    nl: Cultuurfestival - Oostende - 10/08 - 16/08/20
-    fr: Fête culturel - Ostende - 10/08 - 16/08/20
-    de: Kulturellen Fest - Oostende - 10/08 - 16/08/20
-    en: Cultural festival - Ostend - 10/08 - 16/08/20
-- ranking: 107
-  location: 51.238002, 2.939050
-  subgroups:
-  - kids
-  images:
-  - "/img/doen/hangtime.jpg"
-  link:
-    nl: https://www.hangtime.be/
-    fr: https://www.hangtime.be/
-    de: https://www.hangtime.be/
-    en: https://www.hangtime.be/
-  title:
-    nl: Hangtime
-    fr: Hangtime
-    de: Hangtime
-    en: Hangtime
-  caption:
-    nl: Trampolinepark - Oostende
-    fr: Parc de trampoline - Ostende
-    de: Trampolinpark - Oostende
-    en: Trampoline park - Ostend
+#- ranking: 265
+#  location: 51.235579, 2.918323
+#  subgroups:
+#  - cult
+#  - coast
+#  images:
+#  - "/img/doen/zandsculptuur.jpg"
+#  link:
+#    nl: http://www.zandsculpturen.be
+#    fr: http://www.zandsculpturen.be
+#    de: http://www.zandsculpturen.be
+#    en: http://www.zandsculpturen.be
+#  title:
+#    nl: Zandsculpturenfestival
+#    fr: Festival de sculptures de sable
+#    de: Sandskulpturenfestival
+#    en: Sand sculpture festival
+#  caption:
+#    nl: Oostende - 20/06 - 06/09/20
+#    fr: Ostende - 20/06 - 06/09/20
+#    de: Oostende - 20/06 - 06/09/20
+#    en: Ostend - 20/06 - 06/09/20
+#- ranking: 155
+#  location: 51.055099, 3.720985
+#  subgroups:
+#  - event
+#  images:
+#  - "/img/doen/gentsefeesten.jpg"
+#  link:
+#    nl: https://gentsefeesten.stad.gent
+#    fr: https://gentsefeesten.stad.gent
+#    de: https://gentsefeesten.stad.gent
+#    en: https://gentsefeesten.stad.gent
+#  title:
+#    nl: Gentse feesten
+#    fr: Gentse feesten
+#    de: Gentse feesten
+#    en: Gentse feesten
+#  caption:
+#    nl: Cultuurfestival - Gent - 17/07 - 26/07/20
+#    fr: Fête culturel - Gand - 17/07 - 26/07/20
+#    de: Kulturellen Fest - Gent - 17/07 - 26/07/20
+#    en: Cultural festival - Ghent - 17/07 - 26/07/20
+#- ranking: 115
+#  location: 51.229485, 2.921105
+#  subgroups:
+#  - event
+#  images:
+#  - "/img/doen/paulusfeesten.jpg"
+#  link:
+#    nl: http://www.paulusfeesten.be
+#    fr: http://www.paulusfeesten.be
+#    de: http://www.paulusfeesten.be
+#    en: http://www.paulusfeesten.be
+#  title:
+#    nl: Paulusfeesten
+#    fr: Paulusfeesten
+#    de: Paulusfeesten
+#    en: Paulusfeesten
+#  caption:
+#    nl: Cultuurfestival - Oostende - 10/08 - 16/08/20
+#    fr: Fête culturel - Ostende - 10/08 - 16/08/20
+#    de: Kulturellen Fest - Oostende - 10/08 - 16/08/20
+#    en: Cultural festival - Ostend - 10/08 - 16/08/20
+#- ranking: 107
+#  location: 51.238002, 2.939050
+#  subgroups:
+#  - kids
+#  images:
+#  - "/img/doen/hangtime.jpg"
+#  link:
+#    nl: https://www.hangtime.be/
+#    fr: https://www.hangtime.be/
+#    de: https://www.hangtime.be/
+#    en: https://www.hangtime.be/
+#  title:
+#    nl: Hangtime
+#    fr: Hangtime
+#    de: Hangtime
+#    en: Hangtime
+#  caption:
+#    nl: Trampolinepark - Oostende
+#    fr: Parc de trampoline - Ostende
+#    de: Trampolinpark - Oostende
+#    en: Trampoline park - Ostend
 - ranking: 325
   location: 51.332350, 3.202939
   subgroups:
@@ -1248,117 +1248,117 @@ items:
     fr: Parc thématique maritime - Zeebrugge
     de: Marine theme park - Zeebrugge
     en: Maritimes Themenpark - Zeebrugge
-- ranking: 155
-  location: 51.252555, 2.975825
-  subgroups:
-  - cult
-  - event
-  images:
-  - "/img/doen/thaisemarkt.jpg"
-  link:
-    nl: https://www.thai-events.org/
-    fr: https://www.thai-events.org/
-    de: https://www.thai-events.org/
-    en: https://www.thai-events.org/
-  title:
-    nl: Thailand Festival
-    fr: Thailand Festival
-    de: Thailand Festival
-    en: Thailand Festival
-  caption:
-    nl: ''
-    fr: ''
-    de: ''
-    en: ''
-- ranking: 60
-  location: 51.252583, 2.974882
-  subgroups:
-  - event
-  images:
-  - "/img/doen/bredenefestivalt.jpg"
-  link:
-    nl: https://www.bredenefestivalt.be/
-    fr: https://www.bredenefestivalt.be/
-    de: https://www.bredenefestivalt.be/
-    en: https://www.bredenefestivalt.be/
-  title:
-    nl: Bredene Festivalt
-    fr: Bredene Festivalt
-    de: Bredene Festivalt
-    en: Bredene Festivalt
-  caption:
-    nl: gratis familiefestival - Bredene - 08/08/20
-    fr: festival de famille gratuite - Bredene - 08/08/20
-    de: kostenloses Familienfestival - Bredene - 08/08/20
-    en: free family festival - Bredene - 08/08/20
-- ranking: 01
-  location: 51.230316, 2.910465
-  subgroups:
-  - event
-  - kids
-  images:
-  - "/img/doen/vuurwerk.jpg"
-  link:
-    nl: https://www.visitoostende.be/nl/eindejaarsvuurwerk-2019
-    fr: https://www.visitoostende.be/fr/feux-dartifice-du-nouvel-2019
-    de: https://www.visitoostende.be/de/feuerwerk-waehrend-des-jahreswechsels-2019
-    en: https://www.visitoostende.be/en/new-years-fireworks-2019
-  title:
-    nl: Eindejaarsvuurwerk
-    fr: Feux d'artifice du Nouvel An
-    de: Neujahrsfeuerwerk
-    en: New Year's fireworks
-  caption:
-    nl: Oostende - 31/12/19
-    fr: Oostende - 31/12/19
-    de: Oostende - 31/12/19
-    en: Oostende - 31/12/19
-- ranking: 02
-  location: 51.231039, 2.914412
-  subgroups:
-  - event
-  - kids
-  images:
-  - "/img/doen/lichttunnel.jpg"
-  link:
-    nl: https://www.visitoostende.be/nl/spectaculaire-lichtshow-0
-    fr: https://www.visitoostende.be/fr/tunnel-de-lumiere-magique-2019
-    de: https://www.visitoostende.be/de/lichtertunnel-2019
-    en: https://www.visitoostende.be/en/spectacular-light-show-2019
-  title:
-    nl: Lichttunnel
-    fr: Tunnel de lumière
-    de: Lichtertunnel
-    en: Light tunnel
-  caption:
-    nl: Oostende - 29/11/19 - 05/01/20
-    fr: Oostende - 29/11/19 - 05/01/20
-    de: Oostende - 29/11/19 - 05/01/20
-    en: Oostende - 29/11/19 - 05/01/20
-- ranking: 03
-  location: 51.229181, 2.914080
-  subgroups:
-  - event
-  - shopout
-  - recrea
-  - kids
-  images:
-  - "/img/doen/winterpark.jpg"
-  link:
-    nl: https://www.winterinhetpark.be
-    fr: https://www.winterinhetpark.be/fr
-    de: https://www.winterinhetpark.be
-    en: https://www.winterinhetpark.be/en
-  title:
-    nl: Winter in het park
-    fr: Winter in het park
-    de: Winter in het park
-    en: Winter in het park
-  caption:
-    nl: kerstmarkt & ijspiste - Oostende - 29/11/19 - 05/01/20
-    fr: marché de Noël & piste de patinage - Oostende - 29/11/19 - 05/01/20
-    de: Weihnachtsmarkt & Eisbahn - Oostende - 29/11/19 - 05/01/20
-    en: Christmas market & ice skating ring - Oostende - 29/11/19 - 05/01/20
+#- ranking: 155
+#  location: 51.252555, 2.975825
+#  subgroups:
+#  - cult
+#  - event
+#  images:
+#  - "/img/doen/thaisemarkt.jpg"
+#  link:
+#    nl: https://www.thai-events.org/
+#    fr: https://www.thai-events.org/
+#    de: https://www.thai-events.org/
+#    en: https://www.thai-events.org/
+#  title:
+#    nl: Thailand Festival
+#    fr: Thailand Festival
+#    de: Thailand Festival
+#    en: Thailand Festival
+#  caption:
+#    nl: ''
+#    fr: ''
+#    de: ''
+#    en: ''
+#- ranking: 60
+#  location: 51.252583, 2.974882
+#  subgroups:
+#  - event
+#  images:
+#  - "/img/doen/bredenefestivalt.jpg"
+#  link:
+#    nl: https://www.bredenefestivalt.be/
+#    fr: https://www.bredenefestivalt.be/
+#    de: https://www.bredenefestivalt.be/
+#    en: https://www.bredenefestivalt.be/
+#  title:
+#    nl: Bredene Festivalt
+#    fr: Bredene Festivalt
+#    de: Bredene Festivalt
+#    en: Bredene Festivalt
+#  caption:
+#    nl: gratis familiefestival - Bredene - 08/08/20
+#    fr: festival de famille gratuite - Bredene - 08/08/20
+#    de: kostenloses Familienfestival - Bredene - 08/08/20
+#    en: free family festival - Bredene - 08/08/20
+#- ranking: 01
+#  location: 51.230316, 2.910465
+#  subgroups:
+#  - event
+#  - kids
+#  images:
+#  - "/img/doen/vuurwerk.jpg"
+#  link:
+#    nl: https://www.visitoostende.be/nl/eindejaarsvuurwerk-2019
+#    fr: https://www.visitoostende.be/fr/feux-dartifice-du-nouvel-2019
+#    de: https://www.visitoostende.be/de/feuerwerk-waehrend-des-jahreswechsels-2019
+#    en: https://www.visitoostende.be/en/new-years-fireworks-2019
+#  title:
+#    nl: Eindejaarsvuurwerk
+#    fr: Feux d'artifice du Nouvel An
+#    de: Neujahrsfeuerwerk
+#    en: New Year's fireworks
+#  caption:
+#    nl: Oostende - 31/12/19
+#    fr: Oostende - 31/12/19
+#    de: Oostende - 31/12/19
+#    en: Oostende - 31/12/19
+#- ranking: 02
+#  location: 51.231039, 2.914412
+#  subgroups:
+#  - event
+#  - kids
+#  images:
+#  - "/img/doen/lichttunnel.jpg"
+#  link:
+#    nl: https://www.visitoostende.be/nl/spectaculaire-lichtshow-0
+#    fr: https://www.visitoostende.be/fr/tunnel-de-lumiere-magique-2019
+#    de: https://www.visitoostende.be/de/lichtertunnel-2019
+#    en: https://www.visitoostende.be/en/spectacular-light-show-2019
+#  title:
+#    nl: Lichttunnel
+#    fr: Tunnel de lumière
+#    de: Lichtertunnel
+#    en: Light tunnel
+#  caption:
+#    nl: Oostende - 29/11/19 - 05/01/20
+#    fr: Oostende - 29/11/19 - 05/01/20
+#    de: Oostende - 29/11/19 - 05/01/20
+#    en: Oostende - 29/11/19 - 05/01/20
+#- ranking: 03
+#  location: 51.229181, 2.914080
+#  subgroups:
+#  - event
+#  - shopout
+#  - recrea
+#  - kids
+#  images:
+#  - "/img/doen/winterpark.jpg"
+#  link:
+#    nl: https://www.winterinhetpark.be
+#    fr: https://www.winterinhetpark.be/fr
+#    de: https://www.winterinhetpark.be
+#    en: https://www.winterinhetpark.be/en
+#  title:
+#    nl: Winter in het park
+#    fr: Winter in het park
+#    de: Winter in het park
+#    en: Winter in het park
+#  caption:
+#    nl: kerstmarkt & ijspiste - Oostende - 29/11/19 - 05/01/20
+#    fr: marché de Noël & piste de patinage - Oostende - 29/11/19 - 05/01/20
+#    de: Weihnachtsmarkt & Eisbahn - Oostende - 29/11/19 - 05/01/20
+#    en: Christmas market & ice skating ring - Oostende - 29/11/19 - 05/01/20
 
 subgroups:
   nl:

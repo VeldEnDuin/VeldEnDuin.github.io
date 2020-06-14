@@ -477,5 +477,21 @@ items:
     images:
       - /img/tijdslijn/2018/nieuwepercelen.jpg
 
+  - date: 2019-01-01
+    label: 2019 - 2020
+    title:
+      nl: "Interieurproject verhuuraccommodatie."
+      fr: "Projet d'intérieur accommodations."
+      de: "Innenaustattungsprojekt Mietunterkünfte."
+      en: "Interior design project accommodations."
+    description:
+      nl: "Onze chalets en appartementen kregen een make-over. Aangepaste gordijnen, nieuwe zetels, andere decoratie en wat schilderwerken zorgen voor een frisse en eigentijdse look."
+      fr: "Nos chalets et appartemnts ont reçu un nouveau visage. Nouveaux rideaux, feauteuils, décoration et quelques peintures donnent un look contemporain."
+      de: "Unsere Chalets und Appartements bekamen einen Umstyling. Neue Vorhänge, Sitze, Dekoration und einzige Malereien bieten einen zeitgemässen Look."
+      en: "Our chalets and apartments got a make-over. New curtains, couches, decoration and some paintings give a fresh and contemporary look."
+    images:
+      - /img/overnachten/verhuring-C2-chalet/c2ch-03.jpg
+
+
 
 

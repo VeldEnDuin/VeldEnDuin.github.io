@@ -48,6 +48,7 @@ jubisite:
     nl: /img/jubisite.jpg
     fr: /img/jubisite.jpg
     de: /img/jubisite.jpg
+    
 
 # [1] menu - goed om weten
 onze_troeven:
@@ -249,6 +250,11 @@ type_4:
     fr: /fr/hebergement/sejour-residentiel/type-4.html
     de: /de/uebernachten/daueraufenthalt/typ-4.html
     en: /en/accomodation/residential-stay/type-4.html
+type_5:
+    nl: /nl/overnachten/residentieel-verblijf/type-5.html
+    fr: /fr/hebergement/sejour-residentiel/type-5.html
+    de: /de/uebernachten/daueraufenthalt/typ-5.html
+    en: /en/accomodation/residential-stay/type-5.html
 
 
 # [2.4] submenu overnachten -> arrangementen
@@ -279,6 +285,11 @@ b_21:
     fr: /fr/hebergement/a-vendre/b-21.html
     de: /de/uebernachten/zu-kaufen/b-21.html
     en: /en/accomodation/for-sale/b-21.html
+c_07:
+    nl: /nl/overnachten/te-koop/c-07.html
+    fr: /fr/hebergement/a-vendre/c-07.html
+    de: /de/uebernachten/zu-kaufen/c-07.html
+    en: /en/accomodation/for-sale/c-07.html
 
 
 # [3] menu - voorzieningen
@@ -333,26 +344,60 @@ pop_up_bib:
     de: /de/annehmlichkeiten/pop-up-bibliothek.html
     en: /en/amenities/pop-up-library.html
 
-# [4] menu doen
+# [4] menu covid 
+covid:
+    nl: /nl/covid/algemeen.html
+    fr: /fr/covid/general.html
+    de: /de/covid/allgemein.html
+    en: /en/covid/general.html
+
+covid-kamperen:
+    nl: /nl/covid/kamperen.html
+    fr: /fr/covid/campeurs.html
+    de: /de/covid/camper.html
+    en: /en/covid/campers.html
+    
+covid-verhuur:
+    nl: /nl/covid/verhuur.html
+    fr: /fr/covid/location.html
+    de: /de/covid/vermietung.html
+    en: /en/covid/renting.html
+
+covid-resientieel:
+    nl: /nl/covid/residentieel-verblijf.html
+    fr: /fr/covid/sejour-residentiel.html
+    de: /de/covid/daueraufenthalt.html
+    en: /en/covid/residential-stay.html
+
+covid-strand:
+    nl: /nl/covid/strand.html
+    fr: /fr/covid/plage.html
+    de: /de/covid/strand.html
+    en: /en/covid/beach.html
+
+covid-richtlijn-pictos:
+    nl: /img/covid/nl-algemene-richtlijnen.png
+    fr: /img/covid/fr-directives-générales.png
+    de: /img/covid/de-allgemeine-richtlinien.png
+    en: /img/covid/en-general-guidelines.png
+    
+    
+# [5] menu doen
 doen:
     nl: /nl/doen.html
     fr: /fr/a-faire.html
     en: /en/do.html
     de: /de/aktivitaeten.html
 
-# [5] menu fotos
+# [6] links fotos
 fotos:
-#    nl: /nl/foto-selectie.html
-#    fr: /fr/photo-selection.html
-#    en: /en/photo-selection.html
-#    de: /de/foto-auswahl.html
     nl:  /nl/foto-archief.html
     fr:  /fr/archive-photographique.html
     en:  /en/photo-archive.html
     de:  /de/fotoarchiv.html
 
 
-# [6] menu pdf
+# [7] links pdf
 pdf_mvo:
     nl: /nl/pdf/mvo-rapport.pdf
     fr: /fr/pdf/mvo-rapport.pdf
@@ -367,19 +412,36 @@ pdf_zomeranimatie:
     nl: /nl/pdf/animatie2016.pdf
     fr: /fr/pdf/animations2016.pdf
     de: /de/pdf/animation2016.pdf
-
-# [7] files
 resainfoverhuur:
     nl: /files/nlresainfo-verhuur2019.pdf
     fr: /files/frresainfo-verhuur2019.pdf
     de: /files/deresainfo-verhuur2019.pdf
     en: /files/enresainfo-verhuur2019.pdf
-
 resainfotrekkers:
     nl: /files/nlresainfo-trekkers2019.pdf
     fr: /files/frresainfo-trekkers2019.pdf
     de: /files/deresainfo-trekkers2019.pdf
     en: /files/enresainfo-trekkers2019.pdf
+
+covideigenaars:
+    nl: /files/nlcovideigenaars.pdf
+    fr: /files/frcovideigenaars.pdf
+    de: /files/decovideigenaars.pdf
+covidhuurders:
+    nl: /files/nlcovidhuurders.pdf
+    fr: /files/frcovidhuurders.pdf
+    de: /files/decovidhuurders.pdf
+    en: /files/encovidhuurders.pdf
+covidtrekkers:
+    nl: /files/nlcovidtrekkers.pdf
+    fr: /files/frcovidtrekkers.pdf
+    de: /files/decovidtrekkers.pdf
+    en: /files/encovidtrekkers.pdf
+coviddagtaks:
+    nl: /files/nlcoviddagtaks.pdf
+    fr: /files/frcoviddagtaks.pdf
+    de: /files/decoviddagtaks.pdf
+
 
 
 # [8] externe links
@@ -425,5 +487,7 @@ overzetboot:
     en: http://www.visitoostende.be/en/overzetboot-visserskaai-oosteroever
 
    
-
-
+# [9] bijzondere posts -> permalink
+welcome-back:
+    nl: /nl/covid/welcome-back.html
+    fr: /fr/covid/welcome-back.html

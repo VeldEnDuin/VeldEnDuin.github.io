@@ -46,6 +46,7 @@
         - linkcode: type_2
         - linkcode: type_3
         - linkcode: type_4
+        - linkcode: type_5
 
 
     - linkcode: arrangementen
@@ -60,6 +61,7 @@
         - linkcode: te_koop
         - linkcode: a_56
         - linkcode: b_21
+        - linkcode: c_07
 
 
 - linkcode: voorzieningen
@@ -106,10 +108,22 @@
         - linkcode: kwaliteit
         - linkcode: fietsvriendelijk
 
-
     - linkcode: tijdslijn
 
     - linkcode: privacy
+
+- linkcode: covid
+  menutekst:
+    nl: COVID-19
+    fr: COVID-19
+    de: COVID-19
+    en: COVID-19
+  submenu:
+    - linkcode: covid
+    - linkcode: covid-kamperen
+    - linkcode: covid-verhuur
+    - linkcode: covid-resientieel
+    - linkcode: covid-strand
 
 - linkcode: doen
   menutekst:

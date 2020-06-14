@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Draadloos internet
+title: Internet
 picto: /img/svg/voorzieningen/internet.svg
 
 images:
@@ -20,14 +20,19 @@ remove:
 
 {% include links.md %}
 
-# Draadloos internet
+# Internet
 
 Post uw mooiste vakantiefoto en houd uw familie en vrienden op de hoogte van alle laatste vakantienieuwtjes.
 
-Dit kan via ons draadloos netwerk dat over de hele camping bereikbaar is. Koop uw ticket aan de receptie, log in en u bent online!
+## Internet huurchalets en appartementen
 
+Bij het huren van een chalet, caravan of appartement zijn 2 internettickets voor de duur van uw verblijf in de huurprijs inbegrepen. Elk ticket is bruikbaar voor 1 toestel. Indien u extra tickets wenst kunt u die aankopen bij de receptie.
+In elk van onze verhuuraccommodaties staat een modem die garant staat voor een stabiel en snel internet in uw verblijf.
+Op de camping (speelplein,...) schakelt uw ingelogde toestel dan automatisch over op de wifi.
 
-## Prijzen
+## Internet trekkersplaatsen
+
+Op onze trekkersplaatsen kunt u gebruik maken van ons draadloos netwerk. Koop hiervoor uw ticket aan de receptie, log in en u bent online!
 
 TIJD ONLINE         | PRIJS       | 
 :------------------:|:-----------:|
@@ -40,4 +45,8 @@ TIJD ONLINE         | PRIJS       |
 
 Elk ticket is bruikbaar voor 1 toestel.
 
-Bij het huren van een chalet, caravan of appartement zijn 2 internettickets voor de duur van uw verblijf in de huurprijs inbegrepen.
+## Internet residentiële kampeerders
+
+Elke eigenaar van een caravan of chalet ontvangt jaarlijks bij de faktuur 4 toegangscodes voor het internet (inbegrepen in de standplaatsvergoeding). Deze codes zijn strikt persoonlijk en kunnen 4 toestellen (laptop, smartphone, smart tv, tablet,...) bedienen. 
+
+Met deze codes kunt u ofwel gebruik maken van het wifi-netwerk ofwel kiezen voor snel internet via de modem. Alle info hierover vindt u op de infofiche (verkrijgbaar aan de receptie).

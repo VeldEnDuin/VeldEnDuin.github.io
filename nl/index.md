@@ -4,10 +4,9 @@ title: Camping Veld & Duin
 
 insert:
     - banner
-    - booking
     
 select:
-    - verhuur
+    - welcome-back
     - nieuwepercelen
     
 class:

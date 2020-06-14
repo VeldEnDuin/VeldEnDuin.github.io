@@ -62,9 +62,6 @@
       <div class="vd-banner hidden-sm hidden-xs"
           style="background-image: url('{{bannerimg}}');"
       ></div>
-          {% if lvl3.booking_form_room or page.insert contains 'booking' %}
-              {% include booking-form.html %}
-          {% endif %}
     {% endif %}
     </header>
 
@@ -85,9 +82,7 @@
         {% include imgs_as_strip.html %}
     {% endif %}
 
-
     {{ content }}
-
 
     {% if page.insert contains 'page-images-bottom' %}
         {% assign imgs = page.images %}

@@ -23,16 +23,18 @@ images:
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-08.jpg
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-09.jpg
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-10.jpg
-    - /img/overnachten/verhuring-C4pl-appartement/c4pla-01.jpg
-    - /img/overnachten/verhuring-C4pl-appartement/c4pla-02.jpg
-    - /img/overnachten/verhuring-C4pl-appartement/c4pla-03.jpg
-    - /img/overnachten/verhuring-C4pl-appartement/c4pla-04.jpg
-    - /img/overnachten/verhuring-C4pl-appartement/c4pla-05.jpg
-    - /img/overnachten/verhuring-C4pl-appartement/c4pla-06.jpg
-    - /img/overnachten/verhuring-C4pl-appartement/c4pla-07.jpg
-    - /img/overnachten/verhuring-C4pl-appartement/c4pla-08.jpg
-    - /img/overnachten/verhuring-C4pl-appartement/c4pla-09.jpg
-    - /img/overnachten/verhuring-C4pl-appartement/c4pla-10.jpg
+    - /img/overnachten/verhuring-C4pl-appartement/c4pla-11.jpg
+    - /img/overnachten/verhuring-C4pl-appartement/c4pla-12.jpg
+    - /img/overnachten/verhuring-C4pl-appartement/c4pla-13.jpg
+    - /img/overnachten/verhuring-C4pl-appartement/c4pla-14.jpg
+    - /img/overnachten/verhuring-C4pl-appartement/c4pla-15.jpg
+    - /img/overnachten/verhuring-C4pl-appartement/c4pla-16.jpg
+    - /img/overnachten/verhuring-C4pl-appartement/c4pla-17.jpg
+    - /img/overnachten/verhuring-C4pl-appartement/c4pla-18.jpg
+    - /img/overnachten/verhuring-C4pl-appartement/c4pla-19.jpg
+    - /img/overnachten/verhuring-C4pl-appartement/c4pla-20.jpg
+    - /img/overnachten/verhuring-C4pl-appartement/c4pla-21.jpg
+    - /img/overnachten/verhuring-C4pl-appartement/c4pla-22.jpg
     
     
 insert:

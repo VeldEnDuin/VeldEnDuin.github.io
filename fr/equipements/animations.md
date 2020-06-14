@@ -24,25 +24,15 @@ remove:
 ---
 {% include links.md %}
 
-# Animations Veld & Duin
+# Animations Veld & Duin été 2020
 
-Le dimanche de Pâques, nous organisons une chasse aux œufs géante suivie d'un grand jeu.
+A ce moment ce n'est pas certain si des animations sur le camping seront possible et sous quelles conditions. 
 
-En haute saison, nous vous proposons un programme d’animations varié. Nous tentons à chaque fois d’imaginer une activité hors du commun et de présenter une offre d’animations amusantes et originales. Consultez notre calendrier pour découvrir le programme complet.
+Nous étudons les possibilites pour des activités à petite échelle en toute sécurité. Nous devrons les programmer à dernière minute en fonction des directives, les possibilités et le temps. 
 
-Pour clôturer l’année en beauté, nous organisons une soirée vin chaud. Réunis autour d’un bon verre et de quelques gourmandises, nous évoquons les souvenirs de l’année écoulée et dressons un aperçu de la saison prochaine.
-
-[Archive photographique animations Veld & Duin][pics.fr]
-
-## Calendrier Veld & Duin
-
-| Date | Activité |
-|-------|------------|
-|  12/04/2020     | Chasse aux œufs           |
-
-
+Nous vous tenons au courant par facebook et par notre tableau noir. 
 
 
 ## Animations à Bredene et dans les environs
 
-De nombreuses animations sont organisées à la côte pour toute la famille. Nous vous informons sur les activités dans la région sur notre écran d’informations à l’entrée, sur les panneaux d’informations dans les unités de location ou sur notre [page-activités][doen.fr]. 
+Les grands événements de cet été sont annulés. Sur notre [page-activités][doen.fr] et facebook nous vous informerons sur des initiatives à petite échelle qui peuvent avoir lieu. 
