@@ -6,6 +6,7 @@ insert:
     - banner
     
 select:
+    - verhuur
     - welcome-back
     - nieuwepercelen
     
