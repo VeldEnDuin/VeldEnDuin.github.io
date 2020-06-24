@@ -30,7 +30,7 @@ Please give us a call to let us know the pitch is free again.
 
 ## GUIDELINES SANITARY BLOCK AND SERVICE STATION
 
-* The sanitary facilities will be opened again from 25/06. 
+<!--* The sanitary facilities will be opened again from 25/06. -->
 
 * We ask everyone with their own sanitary facilities to use these as much as possible.
 
