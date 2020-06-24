@@ -4,7 +4,7 @@ title: Caravane Confort 2
 preview: 
     title: Caravane Confort 2
     button:
-        price: 90
+        price: 100
         for: 2 nuits
     list:
         - "2 personnes"
@@ -15,26 +15,18 @@ preview:
    
 
 images:
+    - /img/overnachten/verhuring-C2-caravan/c2c-03.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-01.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-02.jpg
-    - /img/overnachten/verhuring-C2-caravan/c2c-03.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-04.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-05.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-06.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-07.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-08.jpg
-    - /img/overnachten/verhuring-C2-caravan/c2c-01.jpg
-    - /img/overnachten/verhuring-C2-caravan/c2c-02.jpg
-    - /img/overnachten/verhuring-C2-caravan/c2c-03.jpg
-    - /img/overnachten/verhuring-C2-caravan/c2c-04.jpg
-    - /img/overnachten/verhuring-C2-caravan/c2c-05.jpg
-    - /img/overnachten/verhuring-C2-caravan/c2c-06.jpg
-    - /img/overnachten/verhuring-C2-caravan/c2c-07.jpg
-    - /img/overnachten/verhuring-C2-caravan/c2c-08.jpg
-    - /img/overnachten/verhuring-C2-caravan/c2c-01.jpg
-    - /img/overnachten/verhuring-C2-caravan/c2c-02.jpg
-    - /img/overnachten/verhuring-C2-caravan/c2c-03.jpg
-    - /img/overnachten/verhuring-C2-caravan/c2c-04.jpg
+    - /img/overnachten/verhuring-C2-caravan/c2c-09.jpg
+    - /img/overnachten/verhuring-C2-caravan/c2c-10.jpg
+    - /img/overnachten/verhuring-C2-caravan/c2c-11.jpg
+    - /img/overnachten/verhuring-C2-caravan/c2c-12.jpg
     
     
 insert:
