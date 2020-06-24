@@ -27,6 +27,8 @@ Veuillez nous contacter quand votre emplacement est libéré.
 
 ## DIRECTIVES SANITAIRE ET STATION-SERVICE
 
+* Les facilités sanitaires seront ouvert de nouveau à partir de 25/06.
+
 * Nous demandons à chacun avec son propre sanitaire de l’utiliser au maximum.
 
 * Le bloc sanitaire et le station-service sont nettoyés régulièrement et les points de contact sont désinfectés.
