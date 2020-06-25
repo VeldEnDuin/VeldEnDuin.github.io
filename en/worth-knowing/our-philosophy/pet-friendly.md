@@ -42,5 +42,5 @@ You can let your dog out in Paelsteenveld Park opposite the campsite or on the b
 - 15/03 - 30/06 & 01/09 - 15/10: Dogs are allowed on the beach but must be kept on leash 
 - 1/7 - 31/8: Dogs are **not allowed** on the beach **between 10.30 hrs and 18.30 hrs**. Exceptions to the rule:    
     - beach areas beyond the beach post 1 (Twinsclub) as far as the border with Oostende
-    - beach area between beach post 6 and the nudists’ beach 
+    - beach area between beach post 6 and the nudists’ beach (! because of the corona measures dogs are not allowed on this beach area during the summer of 2020)
 

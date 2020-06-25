@@ -42,4 +42,4 @@ Vous pouvez promener votre chien dans le parc Paelsteenveld en face du camping o
 - 15/03 - 30/06 & 01/09 - 15/10: les chiens sont permis mais doivent être tenus en laisse
 - 01/07 - 31/08: les chiens ne sont **pas admis** sur la plage **entre 10 h 30 et 18 h 30**. Exceptions à cette règle:    
     - les zones de plage au-delà du poste de plage 1 (Twinsclub) jusqu’à la limite d’Ostende
-    - la zone entre le poste de plage 6 et la plage pour nudistes 
+    - la zone entre le poste de plage 6 et la plage pour nudistes (! A cause des mesures Corona cette zone n'est pas accessible pour des chiens pendant l'été de 2020)
