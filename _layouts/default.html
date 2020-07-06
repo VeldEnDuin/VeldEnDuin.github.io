@@ -98,7 +98,9 @@
 
     {% if page.insert contains 'page-images-top' %}
         {% assign imgs = page.images %}
+          <div class="container"><div class="row">
         {% include imgs_as_strip.html %}
+          </div></div>  
     {% endif %}
 
     {{ content }}
