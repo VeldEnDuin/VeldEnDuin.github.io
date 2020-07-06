@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Renting
+layout: page
     
 
 ---

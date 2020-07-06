@@ -1,6 +1,6 @@
 ---
 title: Kamperen
-layout: default
+layout: page
 
 ---
 

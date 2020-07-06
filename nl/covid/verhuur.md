@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Verhuur
+layout: page
     
 
 ---

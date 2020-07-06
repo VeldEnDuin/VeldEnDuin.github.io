@@ -1,6 +1,6 @@
 ---
 title: Campeurs
-layout: default
+layout: page
 
 ---
 

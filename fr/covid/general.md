@@ -1,6 +1,6 @@
 ---
 title: Général
-layout: default
+layout: page
 
 ---
 

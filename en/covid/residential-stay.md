@@ -1,6 +1,6 @@
 ---
 title: Residential stay
-layout: default
+layout: page
 
 preview: no
 ---

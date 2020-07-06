@@ -1,6 +1,6 @@
 ---
 title: Beach
-layout: default
+layout: page
     
 preview: no
 

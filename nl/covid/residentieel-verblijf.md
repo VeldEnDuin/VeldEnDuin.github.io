@@ -1,6 +1,6 @@
 ---
 title: Residentieel
-layout: default
+layout: page
 
 preview: no
 ---

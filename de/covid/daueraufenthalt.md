@@ -1,6 +1,6 @@
 ---
 title: Daueraufenthalt
-layout: default
+layout: page
 
 preview: no
 ---

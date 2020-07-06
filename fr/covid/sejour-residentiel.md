@@ -1,6 +1,6 @@
 ---
 title: Séjour résidentiel
-layout: default
+layout: page
 
 preview: no
 ---

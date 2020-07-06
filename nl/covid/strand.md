@@ -1,6 +1,6 @@
 ---
 title: Strand
-layout: default
+layout: page
     
 preview: no
 

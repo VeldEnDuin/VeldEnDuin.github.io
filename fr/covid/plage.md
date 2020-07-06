@@ -1,6 +1,6 @@
 ---
 title: Plage
-layout: default
+layout: page
     
 preview: no
 

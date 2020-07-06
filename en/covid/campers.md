@@ -1,6 +1,6 @@
 ---
 title: Campers
-layout: default
+layout: page
 
 ---
 

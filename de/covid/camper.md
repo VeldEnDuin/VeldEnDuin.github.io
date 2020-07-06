@@ -1,6 +1,6 @@
 ---
 title: Camper
-layout: default
+layout: page
 
 ---
 

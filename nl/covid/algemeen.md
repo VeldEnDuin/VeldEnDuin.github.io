@@ -1,6 +1,6 @@
 ---
 title: Algemeen
-layout: default
+layout: page
 
 ---
 
