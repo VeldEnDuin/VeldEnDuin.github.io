@@ -30,6 +30,8 @@ Bitte rufen Sie uns an wenn der Platz frei ist.
 
 ## RICHTLINIEN SANITÄR UND SERVICESTATION
 
+* Die Sanitäranlagen sind wieder geöffnet ab 25/06. 
+
 * Alle Gäste mit eigenem Sanitär bitten wir um dieses vorzugsweise zu verwenden.
 
 * Das Sanitär und Servicestation werden regelmäßig sauber gemacht und alle Kontaktstellen

@@ -42,5 +42,5 @@ Ein Hund kann im gegenüberliegenden Paelsteenveld-Park oder am Strand ausgefüh
 - 15.03. bis 30.06. & 01.09. bis 15.10.: Hunde sind erlaubt aber müssen angeleint sein.
 - 1.7. bis 31.8.: Hunde sind **zwischen 10:30 und 18:30 Uhr** am Strand **nicht zugelassen**. Ausnahmen:    
     - Strandbereiche nach Strandposten 1 (Twinsclub) bis zur Grenze von Ostende
-    - Bereich zwischen Strandposten 6 und dem Nacktbadestrand 
+    - Bereich zwischen Strandposten 6 und dem Nacktbadestrand (! Wegen den Corona-Massnahmen sind Hunde auf diesem Bereicht nicht zugelassen während dem Sommer von 2020)
 

@@ -31,10 +31,10 @@ rooms:
         id: 34292
         location: 7772
         group: verhuur
-#    studio:
-#        id: 34297
-#        location: 7959
-#        group: verhuur
+    studio:
+        id: 34297
+        location: 7959
+        group: verhuur
     comfort4plus_appartement:
         id: 34298
         location: 7959

@@ -30,6 +30,8 @@ Gelieve ons op te bellen om te melden dat de plaats vrij is.
 
 ## RICHTLIJNEN SANITAIR EN SERVICESTATION
 
+* De sanitaire faciliteiten openen opnieuw op 25/06.
+
 * Iedereen met eigen sanitair wordt gevraagd dit bij voorkeur te gebruiken.
 
 * Het sanitair en servicestation worden regelmatig grondig schoongemaakt en alle contact-

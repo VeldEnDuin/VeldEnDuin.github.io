@@ -19,6 +19,8 @@
           booking_form_room: comfort4_chalet
         - linkcode: verhuur_comfort2_chalet
           booking_form_room: comfort2_chalet
+        - linkcode: verhuur_comfort2_studio
+          booking_form_room: studio
         - linkcode: verhuur_comfort2_caravan
           booking_form_room: comfort2_caravan
 
@@ -59,9 +61,9 @@
     - linkcode: te_koop
       submenu:
         - linkcode: te_koop
-        - linkcode: a_56
+        - linkcode: a_50
         - linkcode: b_21
-        - linkcode: c_07
+        - linkcode: c_29
 
 
 - linkcode: voorzieningen
