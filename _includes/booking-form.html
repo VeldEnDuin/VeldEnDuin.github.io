@@ -8,51 +8,48 @@
 {% endif %}
 {% assign rooms = site.data.booking.rooms %}
 
-<div class="container hidden-sm hidden-xs">
-<div class="vd-callout row">
-  <div class="col-lg-9 col-md-8">
-
-    <div id="form-booking" class="vd-booking-form">
-      <form id="booking" autocomplete="off"  >
-        <div class="form-group">
-          <!-- <label for="inputStart">{{site.data.langs[pgLang].dict.booking_start}}</label> -->
-          <div class="input-group">
-            <input type="input" autocomplete="off" class="form-control vd-form-date"
-                   id="start" placeholder="{{site.data.langs[pgLang].dict.booking_start}}">
-            <span class="input-group-addon vd-form-date-trigger"><i class="glyphicon glyphicon-calendar"></i></span>
-          </div>
+<div class="col-md-12">
+  <div id="form-booking" class="vd-booking-form">
+    <form id="booking" autocomplete="off"  >
+      <div class="form-group col-md-3">
+        <!-- <label for="inputStart">{{site.data.langs[pgLang].dict.booking_start}}</label> -->
+        <div class="input-group">
+          <input type="input" autocomplete="off" class="form-control vd-form-date"
+                 id="start" placeholder="{{site.data.langs[pgLang].dict.booking_start}}">
+          <span class="input-group-addon vd-form-date-trigger"><i class="glyphicon glyphicon-calendar"></i></span>
         </div>
-        <div class="form-group">
-          <!-- <label for="inputEnd">{{site.data.langs[pgLang].dict.booking_end}}</label> -->
-          <div class="input-group">
-            <input type="input" autocomplete="off" class="form-control vd-form-date"
-                   id="end" placeholder="{{site.data.langs[pgLang].dict.booking_end}}">
-            <span class="input-group-addon vd-form-date-trigger"><i class="glyphicon glyphicon-calendar"></i></span>
-          </div>
+      </div>
+      <div class="form-group col-md-3">
+        <!-- <label for="inputEnd">{{site.data.langs[pgLang].dict.booking_end}}</label> -->
+        <div class="input-group">
+          <input type="input" autocomplete="off" class="form-control vd-form-date"
+                 id="end" placeholder="{{site.data.langs[pgLang].dict.booking_end}}">
+          <span class="input-group-addon vd-form-date-trigger"><i class="glyphicon glyphicon-calendar"></i></span>
         </div>
-        <div class="form-group">
-          <!-- <label for="inputType">{{site.data.langs[pgLang].dict.booking_type}}</label> -->
-          <select class="form-control" id="type">
-    {% for gc in list_group_codes %}
-            <option value="" disabled {% unless room_code or forloop.last %}selected{%endunless%}>{{site.data.langs[pgLang].dict.booking_type[gc]}}</option>
-        {% for rm in rooms %}
-            {% assign rmc = rm[0] %}
-            {% if gc == rm[1].group %}
-            <option value="{{rm[1].id}}" data-location="{{rm[1].location}}"
-                    {% if room_code == rmc %}selected{% endif %}>{{site.data.langs[pgLang].dict[rmc]}}</option>
-            {% endif %}
-        {% endfor %}
-    {% endfor %}
-          </select>
-        </div>
+      </div>
+      <div class="form-group col-md-3">
+        <!-- <label for="inputType">{{site.data.langs[pgLang].dict.booking_type}}</label> -->
+        <select class="form-control" id="type">
+  {% for gc in list_group_codes %}
+          <option value="" disabled {% unless room_code or forloop.last %}selected{%endunless%}>{{site.data.langs[pgLang].dict.booking_type[gc]}}</option>
+      {% for rm in rooms %}
+          {% assign rmc = rm[0] %}
+          {% if gc == rm[1].group %}
+          <option value="{{rm[1].id}}" data-location="{{rm[1].location}}"
+                  {% if room_code == rmc %}selected{% endif %}>{{site.data.langs[pgLang].dict[rmc]}}</option>
+          {% endif %}
+      {% endfor %}
+  {% endfor %}
+        </select>
+      </div>
+      <div class="form-group col-md-3">
         <button role="submit" type="submit" class="btn btn-success btn-lg">
           <span class="fa fa-lightbulb-o"></span>
           {{site.data.langs[pgLang].dict.booking_check}}
         </button>
-      </form>
-
-    </div>
+      </div>
+    </form>
 
   </div>
-</div>
+
 </div>

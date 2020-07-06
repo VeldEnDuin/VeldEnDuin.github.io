@@ -36,7 +36,7 @@ nl:
         other_rental_types: Andere Types Logement
         mostwanted: Meest gezocht
         imgloading: Beelden worden geladen...
-        booking_check:            Reserveer nu
+        booking_check:            Zoeken
         booking_start:            Van (dd/mm/jjjj)
         booking_end:              Tot (dd/mm/jjjj)
         booking_type:
@@ -88,7 +88,7 @@ fr:
         other_rental_types: Autres types de logement
         mostwanted: Recherches les plus fréquentes
         imgloading: images en cours de chargement...
-        booking_check:            "Réservez ici"
+        booking_check:            "Chercher"
         booking_start:            "à partir du (jj / mm / aaaa)"
         booking_end:              "jusqu'au (jj / mm / aaaa)"
         booking_type:
@@ -141,7 +141,7 @@ de:
         other_rental_types: Andere Arten von Unterkünften
         mostwanted: Meist gesucht
         imgloading: Bilder werden geladen...
-        booking_check:            Reservieren
+        booking_check:            Zuchen
         booking_start:            Von (TT / MM / JJJJ)
         booking_end:              Bis (TT / MM / JJJJ)
         booking_type:
@@ -194,7 +194,7 @@ en:
         other_rental_types: More rental possibilities
         mostwanted: Most searched
         imgloading: Images are being loaded...
-        booking_check:            Book now
+        booking_check:            Search
         booking_start:            From (dd / mm / yyyy)
         booking_end:              Until (dd / mm / yyyy)
         booking_type:
