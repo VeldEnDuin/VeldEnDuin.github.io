@@ -172,6 +172,12 @@ span.socmed-pinterest {
     margin-bottom: 3em;
 }
   
+.btn.btn-primary {
+    background-color: rgb(67,182,73);
+    border: none;
+/*    border: 1px solid rgb(48, 130, 52);*/
+}
+
 .btn-lg.btn-success,
 .btn-lg.btn-info {
     background-color: rgb(67,182,73);
@@ -1307,28 +1313,27 @@ a.vd-barelink, a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.
     display: inline-block;
 }
 .vd-contact {
-    font-size: 1.05em;
-    background-color: #8FB742;
+    font-size: 1.25em;
+    line-height: 1.5em;
+    background-color: rgb(146, 200, 65);
     color: #fff;
-    padding: 0.5em 0 0.5em 0;
-    text-align: center;
-}
-#mc-footer.vd-contact {
-    background-color: #4f5137;
+    padding: 2.5em 0 2.5em 0;
 }
 
-.vd-contact .vd-contact-item {
-    padding: 0 1.5em 0 1.5em;
-    border-right: 1px solid #fff;
-    text-align: center;
+#footer .socmed,
+.vd-contact .vd-name {
     text-transform: uppercase;
-    height: 100%;
+    font-weight: 700;
 }
 .vd-contact a {
     color: #fff;
 }
-.vd-contact .vd-contact-item:last-child {
-    border-right: 0;
+#footer .socmed,
+.vd-contact .copyr {
+    padding-top: 1em;
+}
+#footer .socmed > div {
+  float: left;
 }
 /*
  *     ~~~~~~~~~  responsive footer ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1505,6 +1510,10 @@ span.glyphicon {
 }
 .datepicker.dropdown-menu {
     background-color: white;
+}
+
+.vd-mc-form label {
+    text-transform: uppercase;
 }
 /* ===================================================================================
  * embedded media

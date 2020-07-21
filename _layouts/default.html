@@ -98,17 +98,14 @@
 
     {% if page.insert contains 'page-images-top' %}
         {% assign imgs = page.images %}
-          <div class="container"><div class="row">
+          <div class="container">
+            <div class="row">
         {% include imgs_as_strip.html %}
-          </div></div>  
+            </div>
+          </div>  
     {% endif %}
 
     {{ content }}
-
-    {% if page.insert contains 'page-images-bottom' %}
-        {% assign imgs = page.images %}
-        {% include imgs_as_strip.html %}
-    {% endif %}
 
     {% if page.insert contains 'virtualtour' %}
         {% include virtualtour.html %}
@@ -119,44 +116,55 @@
     </article>
 
     <footer>
-      <div id="footer" class="vd-footer">
-        <!-- more footer elements? -->
-        <div id="contact" class="vd-contact" itemscope itemtype="http://schema.org/Place">
-        <a href="{{site.data.linkcode.contact[pgLang]}}" class="vd-barelink">
-        <div class="container-fluid" ><div class="row">
-          <span class="vd-contact-item hidden-xs">
-            <span>&copy; 2015</span> <span class="" itemprop="name">{{ site.contact.owner }}</span>
-          </span>
+      <div class="container-fluid">
+        <div id="footer" class="row vd-contact">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-4 col-sm-6 col-xs-12">
+                <div id="contact" itemscope itemtype="http://schema.org/Place">
+                  <meta itemprop="description" content="{{ site.description }}" />
+                  <span itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
+                    <meta itemprop="latitude" content="{{ site.geolocation.lat }}" />
+                    <meta itemprop="longitude" content="{{ site.geolocation.lon }}" />
+                  </span>
 
-          <meta itemprop="description" content="{{ site.description }}" />
-<!--
-          <span id="route-link" class="item"><a itemprop="map" title="route" href="/{{ pgLang }}/route.html"><span class="glyphicon glyphicon-map-marker"></span></a></span>
--->
-          <span itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
-            <meta itemprop="latitude" content="{{ site.geolocation.lat }}" />
-            <meta itemprop="longitude" content="{{ site.geolocation.lon }}" />
-          </span>
-          <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-            <span class="vd-contact-item hidden-sm hidden-xs" itemprop="streetAddress">
-                {{site.contact.street}}
-            </span>
-            <span class="vd-contact-item hidden-sm hidden-xs">
-              <span itemprop="postalCode">{{site.contact.zip}}</span>&nbsp;<span itemprop="addressLocality">{{site.contact.city}}</span>
-            </span>
-            <span class="vd-contact-item hidden-md hidden-sm hidden-xs"
-                itemprop="url">{{ site.contact["site-url"] }}
-            </span>
-            <span class="vd-contact-item" itemprop="email" title="email" target="_blank" href="mailto:{{ site.links.mail }}">
-                {{ site.contact.email }}
-            </span>
-            <meta itemprop="addressCountry" content="Belgium" />
-          </span>
+                  <a href="{{site.data.linkcode.contact[pgLang]}}" class="vd-barelink">
+                    <div class="col-xs-12 vd-name" itemprop="name">{{ site.contact.owner }}</div>
+                    <div class="col-xs-12" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                      <span itemprop="streetAddress">{{site.contact.street}}</span> -
+                      <span itemprop="postalCode">{{site.contact.zip}}</span>&nbsp;<span itemprop="addressLocality">{{site.contact.city}}</span>
+                      <meta itemprop="addressCountry" content="Belgium" />
+                    </div>
+                  </a>
 
-          <span class="vd-contact-item" itemprop="telephone">
-            {{ site.contact.phone }}
-          </span>
-        </div></div>
-        </a>
+
+                  <div class="col-xs-12" itemprop="url">
+                    <a href="/" class="vd-barelink">
+                      <span>{{ site.contact["site-url"] }}</span>
+                    </a> -
+                    <a href="mailto:{{ site.contact.mail }}" class="vd-barelink">
+                      <span class="" itemprop="email" title="email" target="_blank"> 
+                          {{ site.contact.email }}
+                      </span>
+                    </a>
+                  </div>
+
+                  <div class="col-xs-12">
+                      <span class="" itemprop="telephone">{{ site.contact.phone }}</span>
+                  </div> 
+
+                  <div class="col-xs-12 copyr">&copy; 2015 - 2020</div> 
+                </div>
+              </div>
+
+              <div class="col-md-2 hidden-sm hidden-xs">&nbsp</div>
+              
+              <div class="col-md-4 col-sm-6 hidden-xs">
+                {% include mailchimp-form.html %}
+                {% include socialmedia-links.html %}
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </footer>

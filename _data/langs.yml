@@ -28,6 +28,7 @@ nl:
         resa_action: Reservatie Aanvraag
         resa_formwait: Reservatie Aanvraag wordt geladen... (even geduld)
         mailchimp: Schrijf in op onze nieuwsbrief
+        socmedfollow: Volg ons
         sociallinks: Veld & Duin op de sociale media
         readmore: Lees meer...
         moreinfo: Meer info
@@ -80,6 +81,7 @@ fr:
         resa_action: Demande de réservation
         resa_formwait: Formulaire de réservation en cours de chargement ... (veuillez patienter)
         mailchimp: Abonnez-vous à notre bulletin d’information
+        socmedfollow: Suivez nous
         sociallinks: Veld & Duin sur les réseaux sociaux
         readmore: Lire plus...
         moreinfo: Plus d’infos
@@ -133,6 +135,7 @@ de:
         resa_action: Reservierungsanfrage
         resa_formwait: Reservierungsanfrage wird geladen ... (das kann einen Moment dauern – vielen Dank für Ihre Geduld)
         mailchimp: Melden Sie sich für unseren Newsletter an
+        socmedfollow: Folge uns
         sociallinks: Veld & Duin in den sozialen Medien
         readmore: Lesen Sie mehr...
         moreinfo: Mehr Informationen
@@ -186,6 +189,7 @@ en:
         resa_action: Booking request
         resa_formwait: Loading pictures...
         mailchimp: Add me to your mailing list
+        socmedfollow: Follow us
         sociallinks: Social media
         readmore: Read more
         moreinfo: More information

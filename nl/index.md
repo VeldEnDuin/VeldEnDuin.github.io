@@ -4,7 +4,6 @@ title: Camping Veld & Duin
 
 insert:
     - banner
-    - booking
 
 select:
     - welcome-back

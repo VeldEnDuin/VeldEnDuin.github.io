@@ -2,9 +2,14 @@
 layout: default
 ---
 {% include layout-prelude.html %}
-
 <div class="container"><div class="row">
-  <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
+
+{%assign sizeleft="col-xs-12"%}
+{%if lvl3%}
+  {%assign sizeleft="col-lg-9 col-md-9 col-sm-12 col-xs-12"%}
+{%endif%}
+  
+  <div class="{{ sizeleft }}">
     <div class="vd-layout-page">
 
 {{ content }}
@@ -12,9 +17,8 @@ layout: default
     </div>
   </div>
 
-  <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 {%if lvl3%}
-
+  <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
     <div class="vd-nav">
       <ul class="nav nav-pills nav-stacked">
     {% for m3 in lvl2.submenu %}
@@ -42,6 +46,6 @@ layout: default
       </ul>
     </div>
     <br />
-{% endif %}
   </div>
+{% endif %}
 </div></div>
