@@ -13,6 +13,8 @@ Face masks in Bredene
 
 Face masks are mandatory in public communal buildings from saturday 25/07/20 onwards. 
 
+Face masks are mandatory on all (evening) markets. 
+
 Face masks are mandatory at the following places: 
 - Kapelstraat/Driftweg between Peter Benoitlaan and Koningin Astridlaan*
 - Koningin Astridlaan between Kapelstraat (Mdue/Alaska) and Camping Duinezwin*

@@ -13,6 +13,8 @@ Mundmasken in Bredene
 
 Mundmasken sind verpflichtet in den öffentlichen Gemeindegebäuden ab Samstag 25/07/20. 
 
+Mundmasken sind verpflichtet auf allen (Abend)Märkten.
+
 Mundmasken sind verpflichtet in:
 - Kapelstraat/Driftweg zwischen Peter Benoitlaan und Koningin Astridlaan*
 - - Koningin Astridlaan zwischen Kapelstraat (Mdue/Alaska) und Camping Duinezwin*

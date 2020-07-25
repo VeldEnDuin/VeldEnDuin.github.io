@@ -13,6 +13,8 @@ Mondmaskers in Bredene
 
 Mondmasker op publieke plaatsen in Bredense gemeentelijke gebouwen vanaf zaterdag 25/07/20 verplicht. 
 
+Mondmaskers verplicht op alle (avond)markten. 
+
 Mondmasker met onmiddellijke ingang bijkomend verplicht in Bredene op volgende plaatsen:
 
 - Kapelstraat/Driftweg tussen Peter Benoitlaan en de Koningin Astridlaan*

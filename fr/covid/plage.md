@@ -13,6 +13,8 @@ Masques à Bredene
 
 Masques sont obligés à Bredene dans les bâtiments publiques à partir de samedi 25/07/20. 
 
+Masques sont obligés sur toutes les marchés (de soir).
+
 Masques sont obligés:
 - dans le Kapelstraat/Driftweg entre le Peter Benoitlaan et le Koningin Astridlaan*
 - Koningin Astridlaan entre le Kapelstraat (Mdue/Alaska) et Camping Duinezwin*
