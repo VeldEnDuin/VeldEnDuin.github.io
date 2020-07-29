@@ -9,24 +9,16 @@ preview: no
 {% include links.md %}
 
 ## BREDENE
-Masques à Bredene
 
-Masques sont obligés à Bredene dans les bâtiments publiques à partir de samedi 25/07/20. 
+A partir du jeudi 30/7: obligation de masque sur tout le territoire Bredene + toutes les parties communes du camping!
+L'obligation ne s'applique pas:
 
-Masques sont obligés sur toutes les marchés (de soir).
-
-Masques sont obligés:
-- dans le Kapelstraat/Driftweg entre le Peter Benoitlaan et le Koningin Astridlaan*
-- Koningin Astridlaan entre le Kapelstraat (Mdue/Alaska) et Camping Duinezwin*
-- Duinenstraat (Zone des magasins et zone de promenade)*
-- Les accès au plage de postes de plage 1,2,3 et 6
-- Dans le tunnel piétonnier en hauteur de poste de plage 2 et 6
-- Sur le pont piétonnier en hauteur de poste de plage 3 (pont bleu, Astrid)
-- Dans le centre shopping (Brugsesteenweg)
-- Au parc à conteneurs 
-
-! Pour les rues commerçantes il y a une exception pour le temps nécessaire pour consommer l'alimentation des ventes de fenêtre
-
+- sur la plage, dans les dunes (à l'exception des sentiers pédestres) et en mer;
+- lors de déplacements en voiture, moto, vélo, scooter ou vélo côtier;
+- en pratiquant une activité sportive intensive, hors marche, et dans la mesure où les règles de distanciation sociale peuvent être respectées, notamment en maintenant une distance de 1,5 mètre entre chaque personne;
+- lors d'activités nécessitant un effort physique intense, dans la mesure où les règles de distanciation sociale peuvent être respectées, notamment en maintenant une distance de 1,5 mètre entre chaque personne;
+- en consommant des boissons et de la nourriture et pendant la durée nécessaire à cela;
+- pour les enfants de moins de 12 ans.
 
 ## PLAGE ET DUNES
 

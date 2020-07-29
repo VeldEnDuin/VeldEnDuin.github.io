@@ -9,24 +9,15 @@ preview: no
 {% include links.md %}
 
 ## BREDENE
-Mondmaskers in Bredene
+Vanaf donderdag 30/7: mondmaskerverplichting op het ganse grondgebied Bredene + alle gemeenschappelijke delen van de camping!
 
-Mondmasker op publieke plaatsen in Bredense gemeentelijke gebouwen vanaf zaterdag 25/07/20 verplicht. 
-
-Mondmaskers verplicht op alle (avond)markten. 
-
-Mondmasker met onmiddellijke ingang bijkomend verplicht in Bredene op volgende plaatsen:
-
-- Kapelstraat/Driftweg tussen Peter Benoitlaan en de Koningin Astridlaan*
-- Koningin Astridlaan tussen Kapelstraat (Mdue/Alaska) en de doorsteek met de Kapelstraat (t.h.v. vroegere Europahotel)*
-- Duinenstraat (winkel- en wandelgedeelte)*
-- Aan de strandtoegangen die uitkomen op een beachbar/-club vanaf de Koninklijke Baan (posten 1,2,3,6)
-- In de voetgangerstunnels ter hoogte van strandpost 2 en 6
-- Op de voetgangersbrug ter hoogte van strandpost 3 (Blauwe Brug, Astrid)
-- Op het shoppingcentrum langs de Brugsesteenweg
-- Op het milieu- en recyclagepark
-
-! Voor de winkelstraten geldt een uitzondering voor de tijd nodig voor het consumeren van voedingswaren aangeboden via raamverkoop
+De verplichting geldt niet:
+- op het strand, in de duinen (met uitzondering van de wandelpaden) en in zee;
+- tijdens de verplaatsing met de auto, moto(r), fiets, step of kustrijwiel;
+- tijdens het beoefenen van een intensieve sportactiviteit, uitgezonderd wandelen, en voor zover de regels van de social distancing kunnen worden gerespecteerd, in het bijzonder het behoud van een afstand van 1,5 meter tussen elke persoon;
+- tijdens werkzaamheden die zware fysieke inspanningen vergen, voor zover de regels van de social distancing kunnen worden gerespecteerd, in het bijzonder het behoud van een afstand van 1,5 meter tussen elke persoon;
+- tijdens het nuttigen van drank en voedsel en voor de noodzakelijke duur hiervoor;
+- voor kinderen onder 12 jaar.
 
 ## STRAND & DUINEN
 

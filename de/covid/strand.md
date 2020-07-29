@@ -9,23 +9,16 @@ preview: no
 {% include links.md %}
 
 ## BREDENE
-Mundmasken in Bredene
 
-Mundmasken sind verpflichtet in den öffentlichen Gemeindegebäuden ab Samstag 25/07/20. 
+Ab Donnerstag 30/7: Mundmaskenpflicht auf dem gesamten Bredene-Territorium + alle öffentlichen Teilen des Campingplatzes!
 
-Mundmasken sind verpflichtet auf allen (Abend)Märkten.
-
-Mundmasken sind verpflichtet in:
-- Kapelstraat/Driftweg zwischen Peter Benoitlaan und Koningin Astridlaan*
-- - Koningin Astridlaan zwischen Kapelstraat (Mdue/Alaska) und Camping Duinezwin*
-- Duinenstraat (Geschäft und Spazierzone)*
-- An den Zugängen zum Strand and Strandpost 1,2,3 und 6
-- In den Fussgängertunnels an Strandposten 2 und 6
-- Auf dem Füssgängerbrücke an Strandpost 3 (Blaue Brücke, Astrid)
-- Im Shoppingzentrum entlang dem Brugsesteenweg
-- Auf dem Müll- und Entsorgungspark
-
-! Für die Geschäftstrassen gibt es eine Ausnahme für die Zeit, die notwendig zum Essen von Nahrung von Fensterverkauf 
+Die Verpflichtung gilt nicht:
+- am Strand, in den Dünen (mit Ausnahme von Wanderwegen) und im Meer;
+- während der Fahrt mit dem Auto, Motorrad, Fahrrad, Roller oder Küstenfahrrad;
+- während einer intensiven sportlichen Aktivität, mit Ausnahme des Gehens, und soweit die Regeln der sozialen Distanzierung eingehalten werden können, insbesondere ein Abstand von 1,5 Metern zwischen jeder Person einzuhalten;
+- bei Aktivitäten, die schwere körperliche Anstrengung erfordern, sofern die Regeln der sozialen Distanzierung eingehalten werden können, insbesondere bei einem Abstand von 1,5 Metern zwischen jeder Person;
+- während des Konsums von Getränken und Nahrungsmitteln und für die dafür notwendige Dauer;
+- für Kinder unter 12 Jahren.
 
 
 ## STRAND & DÜNEN
