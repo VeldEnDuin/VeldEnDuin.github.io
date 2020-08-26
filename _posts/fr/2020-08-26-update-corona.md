@@ -13,7 +13,7 @@ images:
 
 ## ASSOUPLISSEMENT DE L'OBLIGATION DE MASQUE
 
-A partir de mercredi 26/8: obligation de masque seulement encore dans les zones suivantes: 
+A partir de mercredi 26/8: obligation de masque dans les zones suivantes: 
 
 - Accès à la plage et digue de Spinola
 - Zone Bredene Shopping Center
@@ -25,14 +25,14 @@ A partir de mercredi 26/8: obligation de masque seulement encore dans les zones 
 - Parc de recyclage
 - En transport public
 - Dans tous les magasins
+- Quand la distance social ne peut pas être respectée
 
 
 L'obligation ne s'applique pas:
-- sur la plage, dans les dunes (à l'exception des sentiers pédestres) et en mer;
-- lors de déplacements en voiture, moto, vélo, scooter ou vélo côtier;
-- en pratiquant une activité sportive intensive, hors marche, et dans la mesure où les règles de distanciation sociale peuvent être respectées, notamment en maintenant une distance de 1,5 mètre entre chaque personne;
-- lors d'activités nécessitant un effort physique intense, dans la mesure où les règles de distanciation sociale peuvent être respectées, notamment en maintenant une distance de 1,5 mètre entre chaque personne;
-- en consommant des boissons et de la nourriture et pendant la durée nécessaire à cela;
+
+- lors de déplacements en voiture, moto, vélo
+- en pratiquant une activité sportive intensive
+- en consommant des boissons et de la nourriture et pendant la durée nécessaire à cela
 - pour les enfants de moins de 12 ans.
 
 Attention! Vous devez toujours avoir un masque avec vous.

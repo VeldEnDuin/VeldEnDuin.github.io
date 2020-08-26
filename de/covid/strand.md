@@ -22,14 +22,13 @@ Ab Mittwoch 26/8: Mundmaskenpflicht in den folgenden Zonen:
 - Recyclingpark
 - Im öffentlichen Verkehr
 - In allen Geschäften
+- Überall wo die Distanz von 1,5 Meter nicht gehalten werden kann
 
 Die Verpflichtung gilt nicht:
-- am Strand, in den Dünen (mit Ausnahme von Wanderwegen) und im Meer;
-- während der Fahrt mit dem Auto, Motorrad, Fahrrad, Roller oder Küstenfahrrad;
-- während einer intensiven sportlichen Aktivität, mit Ausnahme des Gehens, und soweit die Regeln der sozialen Distanzierung eingehalten werden können, insbesondere ein Abstand von 1,5 Metern zwischen jeder Person einzuhalten;
-- bei Aktivitäten, die schwere körperliche Anstrengung erfordern, sofern die Regeln der sozialen Distanzierung eingehalten werden können, insbesondere bei einem Abstand von 1,5 Metern zwischen jeder Person;
-- während des Konsums von Getränken und Nahrungsmitteln und für die dafür notwendige Dauer;
-- für Kinder unter 12 Jahren.
+- während der Fahrt mit dem Auto, Motorrad, Fahrrad
+- während einer intensiven sportlichen Aktivität
+- während des Konsums von Getränken und Nahrungsmitteln und für die dafür notwendige Dauer
+- für Kinder unter 12 Jahren
 
 Achtung! Sie müssen immer eine Mundmaske dabei haben.
 
