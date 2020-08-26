@@ -10,9 +10,21 @@ preview: no
 
 ## BREDENE
 
-A partir du jeudi 30/7: obligation de masque sur tout le territoire Bredene + toutes les parties communes du camping!
-L'obligation ne s'applique pas:
+A partir de mercredi 26/8: obligation de masque dans les zones suivantes: 
 
+- Accès à la plage et digue de Spinola
+- Zone Bredene Shopping Center
+- Parking Colruyt / Aldi
+- Zone piétonne / commerçante Duinenstraat
+- Sentiers de randonnée dans les dunes
+- Kapelstraat (zone entre K. Astridlaan et Peter Benoitlaan) et tous les parkings adjacents
+- Dans tous les bâtiments publics
+- Parc de recyclage
+- En transport public
+- Dans tous les magasins
+
+
+L'obligation ne s'applique pas:
 - sur la plage, dans les dunes (à l'exception des sentiers pédestres) et en mer;
 - lors de déplacements en voiture, moto, vélo, scooter ou vélo côtier;
 - en pratiquant une activité sportive intensive, hors marche, et dans la mesure où les règles de distanciation sociale peuvent être respectées, notamment en maintenant une distance de 1,5 mètre entre chaque personne;
@@ -20,9 +32,12 @@ L'obligation ne s'applique pas:
 - en consommant des boissons et de la nourriture et pendant la durée nécessaire à cela;
 - pour les enfants de moins de 12 ans.
 
+Attention! Vous devez toujours avoir un masque avec vous.
+
+
 ## PLAGE ET DUNES
 
-Le plage nudiste est fermé en 2020. Conséquement il y aura plus de place pour des touristes. Bredene compte sur le bon sens des visiteurs et un "social distancing team" et la police faitent des contrôles. 
+Le plage nudiste est fermé jusque fin août 2020. Conséquement il y aura plus de place pour des touristes. Bredene compte sur le bon sens des visiteurs et un "social distancing team" et la police faitent des contrôles. 
 
 Les postes les plus fréquentés sont les postes de plage 1,2,3 et 6. Cettes zones peuvent être fermés quand c'est nécessaire. 
 Les touristes en excursion d'un jour sont seulement admis aux postes de plage 4 et 6bis (plage nudiste qui est fermé en 2020).

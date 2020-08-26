@@ -9,7 +9,18 @@ preview: no
 {% include links.md %}
 
 ## BREDENE
-Vanaf donderdag 30/7: mondmaskerverplichting op het ganse grondgebied Bredene + alle gemeenschappelijke delen van de camping!
+Vanaf woensdag 26/8: mondmasker verplicht op volgende locaties:
+
+- Strandtoegangen en Spinoladijk
+- Zone Bredene Shopping Center
+- Parking Colruyt/Aldi
+- Winkelwandelgedeelte Duinenstraat
+- Wandelpaden in de duinen
+- Kapelstraat (zone tussen K. Astridlaan en Peter Benoitlaan) en alle aanpalende parkings
+- In alle openbare gebouwen
+- Milieu- en recyclagepark
+- Op het openbaar vervoer
+- In alle winkels
 
 De verplichting geldt niet:
 - op het strand, in de duinen (met uitzondering van de wandelpaden) en in zee;
@@ -19,11 +30,13 @@ De verplichting geldt niet:
 - tijdens het nuttigen van drank en voedsel en voor de noodzakelijke duur hiervoor;
 - voor kinderen onder 12 jaar.
 
+Opgelet! Je moet wel steeds een mondmasker bij je hebben.
+
 ## STRAND & DUINEN
 
 Het gemeentebestuur zal deze zomer maatregelen nemen op het strand en bij uitbreiding in de toeristische zone. Onder de noemer ‘Geef ruimte’ wil Bredene de ruimte zo goed mogelijk benutten door de toeristenstroom zoveel mogelijk te spreiden en ervoor zorgen dat de mensen zich op een verantwoorde manier gedragen op de drukste plaatsen van de gemeente.
 
-Het gemeentebestuur nam eerder al de beslissing om het naaktstrand dit zomerseizoen niet te openen. Hierdoor komt extra strand vrij waardoor de spreiding van de bezoekers kan geoptimaliseerd worden. Er zal gesensibiliseerd worden en er wordt gerekend op het gezond verstand van de strandbezoekers. Wie geen afstand houdt zal worden aangesproken door ons ‘social distancing’-team en de lokale politie.
+Het gemeentebestuur nam eerder al de beslissing om het naaktstrand dit zomerseizoen tot eind augustus niet te openen. Hierdoor komt extra strand vrij waardoor de spreiding van de bezoekers kan geoptimaliseerd worden. Er zal gesensibiliseerd worden en er wordt gerekend op het gezond verstand van de strandbezoekers. Wie geen afstand houdt zal worden aangesproken door ons ‘social distancing’-team en de lokale politie.
 
 ### Opdeling in zones en optimale spreiding
 

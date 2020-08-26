@@ -10,7 +10,18 @@ preview: no
 
 ## BREDENE
 
-Ab Donnerstag 30/7: Mundmaskenpflicht auf dem gesamten Bredene-Territorium + alle öffentlichen Teilen des Campingplatzes!
+Ab Mittwoch 26/8: Mundmaskenpflicht in den folgenden Zonen:
+
+- Strandzugänge und Spinola Deich
+- Zone Bredene Einkaufszentrum
+- Parking Colruyt / Aldi
+- Einkaufsbereich Duinenstraat
+- Wanderwege in den Dünen
+- Kapelstraat (Zone zwischen K. Astridlaan und Peter Benoitlaan) und alle angrenzenden Parkplätze
+- In allen öffentlichen Gebäuden
+- Recyclingpark
+- Im öffentlichen Verkehr
+- In allen Geschäften
 
 Die Verpflichtung gilt nicht:
 - am Strand, in den Dünen (mit Ausnahme von Wanderwegen) und im Meer;
@@ -20,10 +31,12 @@ Die Verpflichtung gilt nicht:
 - während des Konsums von Getränken und Nahrungsmitteln und für die dafür notwendige Dauer;
 - für Kinder unter 12 Jahren.
 
+Achtung! Sie müssen immer eine Mundmaske dabei haben.
+
 
 ## STRAND & DÜNEN
 
-Das FKK-Strand wird in 2020 geschlossen und auf diese Weise ist mehr Strand verfügbar für Tourismus. Bredene rechnet auf dem gesunder Menschenverstand der Besucher und ein Social Distancing Team und die Polizei kontrollieren. 
+Das FKK-Strand wird bis Ende August 2020 geschlossen und auf diese Weise ist mehr Strand verfügbar für Tourismus. Bredene rechnet auf dem gesunder Menschenverstand der Besucher und ein Social Distancing Team und die Polizei kontrollieren. 
 
 Die meist besuchte Strandposten sind Posten 1,2,3 und 6. Diese können geschlossen werden sollte es notwendig werden. 
 
