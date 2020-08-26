@@ -10,7 +10,7 @@ images:
 
 ## VERSOEPELING MONDMASKERVERPLICHTING
 
-Vanaf woensdag 26/8: mondmasker verplicht op volgende locaties:
+Vanaf woensdag 26/8: mondmasker enkel nog verplicht op volgende locaties:
 
 - Strandtoegangen en Spinoladijk
 - Zone Bredene Shopping Center
