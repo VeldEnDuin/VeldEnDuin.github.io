@@ -32,6 +32,8 @@ Die Verpflichtung gilt nicht:
 
 Achtung! Sie müssen immer eine Mundmaske dabei haben.
 
+Auf dem Camping gibt es also keine Maskenpflicht mehr. 
+
 
 ## STRAND & DÜNEN
 

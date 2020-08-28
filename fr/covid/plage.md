@@ -33,6 +33,8 @@ L'obligation ne s'applique pas:
 
 Attention! Vous devez toujours avoir un masque avec vous.
 
+Sur le camping le masque n'est plus obligé. 
+
 
 ## PLAGE ET DUNES
 

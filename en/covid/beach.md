@@ -33,6 +33,8 @@ The obligation does not apply:
 
 Attention! You must always have a mouth mask with you.
 
+On the camping the face mask is not obligatory anymore. 
+
 
 ## BEACH AND DUNES
 

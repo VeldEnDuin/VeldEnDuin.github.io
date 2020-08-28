@@ -31,6 +31,8 @@ De verplichting geldt niet:
 
 Opgelet! Je moet wel steeds een mondmasker bij je hebben.
 
+Op de camping is het dragen van een mondmasker dus ook niet meer verplicht. 
+
 ## STRAND & DUINEN
 
 Het gemeentebestuur zal deze zomer maatregelen nemen op het strand en bij uitbreiding in de toeristische zone. Onder de noemer ‘Geef ruimte’ wil Bredene de ruimte zo goed mogelijk benutten door de toeristenstroom zoveel mogelijk te spreiden en ervoor zorgen dat de mensen zich op een verantwoorde manier gedragen op de drukste plaatsen van de gemeente.

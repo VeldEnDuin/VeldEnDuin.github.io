@@ -36,3 +36,5 @@ L'obligation ne s'applique pas:
 - pour les enfants de moins de 12 ans.
 
 Attention! Vous devez toujours avoir un masque avec vous.
+
+Sur le camping le masque n'est plus obligé. 

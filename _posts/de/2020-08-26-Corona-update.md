@@ -36,3 +36,5 @@ Die Verpflichtung gilt nicht:
 - für Kinder unter 12 Jahren
 
 Achtung! Sie müssen immer eine Mundmaske dabei haben.
+
+Auf dem Camping gibt es also keine Maskenpflicht mehr. 

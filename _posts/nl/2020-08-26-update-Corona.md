@@ -31,3 +31,5 @@ De verplichting geldt niet:
 - voor kinderen onder 12 jaar
 
 Opgelet! Je moet wel steeds een mondmasker bij je hebben.
+
+Op de camping is het dragen van een mondmasker dus ook niet meer verplicht. 
