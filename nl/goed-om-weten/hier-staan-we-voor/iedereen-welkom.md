@@ -7,6 +7,8 @@ images:
     - /img/hierstaanwevoor/iederwelkom/iederwelkom-02.jpg
     - /img/hierstaanwevoor/iederwelkom/iederwelkom-03.jpg
     - /img/hierstaanwevoor/iederwelkom/iederwelkom-04.jpg
+    - /img/hierstaanwevoor/iederwelkom/iederwelkom-05.jpg
+    - /img/hierstaanwevoor/iederwelkom/iederwelkom-06.jpg
 
 insert:
     - page-images-top
