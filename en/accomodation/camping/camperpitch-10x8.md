@@ -17,13 +17,6 @@ images:
     - /img/overnachten/trekkers-tre-10x8/tre10x8-03.jpg
     - /img/overnachten/trekkers-tre-10x8/tre10x8-04.jpg
     - /img/overnachten/trekkers-tre-10x8/tre10x8-05.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-07.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-01.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-02.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-03.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-04.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-05.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-07.jpg
     
     
     
