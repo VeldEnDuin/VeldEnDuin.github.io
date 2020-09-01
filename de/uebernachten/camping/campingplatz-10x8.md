@@ -12,14 +12,9 @@ preview:
         - "Gras- oder befestigter Platz"
         - "Nahe bei Sanitäranlagen"
 images:
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-08.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-01.jpg
     - /img/overnachten/trekkers-tre-10x8/tre10x8-06.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-09.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-10.jpg
+    - /img/overnachten/trekkers-tre-10x8/tre10x8-07.jpg
     - /img/overnachten/trekkers-tre-10x8/tre10x8-08.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-01.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-06.jpg
     - /img/overnachten/trekkers-tre-10x8/tre10x8-09.jpg
     - /img/overnachten/trekkers-tre-10x8/tre10x8-10.jpg
     
