@@ -7,6 +7,7 @@ images:
     - /img/hierstaanwevoor/rust/rust-02.jpg
     - /img/hierstaanwevoor/rust/rust-03.jpg
     - /img/hierstaanwevoor/rust/rust-04.jpg
+    - /img/hierstaanwevoor/rust/rust-05.jpg
 
 insert:
     - page-images-top
