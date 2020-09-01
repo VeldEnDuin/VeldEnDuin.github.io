@@ -2,7 +2,7 @@
 title: Corona update
 layout: post
 description: assouplissement de l'obligation de masque
-permalink: /fr/2020-08-26-Corona-update.html
+permalink: /fr/2020-09-01-Corona-update.html
 
     
 images: 
@@ -13,13 +13,11 @@ images:
 
 ## ASSOUPLISSEMENT DE L'OBLIGATION DE MASQUE
 
-A partir de mercredi 26/8: obligation de masque dans les zones suivantes: 
+A partir de mardi 1. Septembre: obligation de masque dans les zones suivantes: 
 
-- Accès à la plage et digue de Spinola
 - Zone Bredene Shopping Center
 - Parking Colruyt / Aldi
 - Zone piétonne / commerçante Duinenstraat
-- Sentiers de randonnée dans les dunes
 - Kapelstraat (zone entre K. Astridlaan et Peter Benoitlaan) et tous les parkings adjacents
 - Dans tous les bâtiments publics
 - Parc de recyclage

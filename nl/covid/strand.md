@@ -9,13 +9,11 @@ preview: no
 {% include links.md %}
 
 ## BREDENE
-Vanaf woensdag 26/8: mondmasker verplicht op volgende locaties:
+Vanaf dinsdag 1/9: mondmasker verplicht op volgende locaties:
 
-- Strandtoegangen en Spinoladijk
 - Zone Bredene Shopping Center
 - Parking Colruyt/Aldi
 - Winkelwandelgedeelte Duinenstraat
-- Wandelpaden in de duinen
 - Kapelstraat (zone tussen K. Astridlaan en Peter Benoitlaan) en alle aanpalende parkings
 - In alle openbare gebouwen
 - Milieu- en recyclagepark

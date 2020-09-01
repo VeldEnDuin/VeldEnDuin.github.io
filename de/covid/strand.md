@@ -10,13 +10,11 @@ preview: no
 
 ## BREDENE
 
-Ab Mittwoch 26/8: Mundmaskenpflicht in den folgenden Zonen:
+Ab Dienstag 01/09: Mundmaskenpflicht in den folgenden Zonen:
 
-- Strandzugänge und Spinola Deich
 - Zone Bredene Einkaufszentrum
 - Parking Colruyt / Aldi
 - Einkaufsbereich Duinenstraat
-- Wanderwege in den Dünen
 - Kapelstraat (Zone zwischen K. Astridlaan und Peter Benoitlaan) und alle angrenzenden Parkplätze
 - In allen öffentlichen Gebäuden
 - Recyclingpark

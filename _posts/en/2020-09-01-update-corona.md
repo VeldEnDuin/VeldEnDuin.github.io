@@ -2,7 +2,7 @@
 title: Corona update
 layout: post
 description: face mask update
-permalink: /en/2020-08-26-Corona-update.html
+permalink: /en/2020-09-01-Corona-update.html
 
     
 images: 
@@ -13,13 +13,11 @@ images:
 
 ## FACE MASK UPDATE
 
-Starting Wednesday 26/8: mouth mask requirement in the following zones:
+Starting Tuesday 1st September: mouth mask requirement in the following zones:
 
-- Beach accesses and Spinola dike
 - Zone Bredene Shopping Center
 - Parking Colruyt / Aldi
 - Shopping / walking area Duinenstraat
-- Hiking trails in the dunes
 - Kapelstraat (zone between K. Astridlaan and Peter Benoitlaan) and all adjacent car parks
 - In all public buildings
 - Recycling park

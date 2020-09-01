@@ -2,7 +2,7 @@
 title: Corona update
 layout: post
 description: Versoepeling mondmaskerverplichting
-permalink: /nl/2020-08-26-Corona-update.html
+permalink: /nl/2020-09-01-Corona-update.html
     
 images:   
     
@@ -10,13 +10,11 @@ images:
 
 ## VERSOEPELING MONDMASKERVERPLICHTING
 
-Vanaf woensdag 26/8: mondmasker enkel nog verplicht op volgende locaties:
+Vanaf dinsdag 01/09: mondmasker enkel nog verplicht op volgende locaties:
 
-- Strandtoegangen en Spinoladijk
 - Zone Bredene Shopping Center
 - Parking Colruyt/Aldi
 - Winkelwandelgedeelte Duinenstraat
-- Wandelpaden in de duinen
 - Kapelstraat (zone tussen K. Astridlaan en Peter Benoitlaan) en alle aanpalende parkings
 - In alle openbare gebouwen
 - Milieu- en recyclagepark

@@ -10,13 +10,11 @@ preview: no
 
 ## BREDENE
 
-Starting Wednesday 26/8: mouth mask requirement in the following zones:
+Starting Tuesday 1/9: mouth mask requirement in the following zones:
 
-- Beach accesses and Spinola dike
 - Zone Bredene Shopping Center
 - Parking Colruyt / Aldi
 - Shopping / walking area Duinenstraat
-- Hiking trails in the dunes
 - Kapelstraat (zone between K. Astridlaan and Peter Benoitlaan) and all adjacent car parks
 - In all public buildings
 - Recycling park
