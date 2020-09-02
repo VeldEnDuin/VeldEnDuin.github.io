@@ -8,7 +8,7 @@ images:
     - /img/voorzieningen/info/info-02.jpg
     - /img/voorzieningen/info/info-03.jpg
     - /img/voorzieningen/info/info-04.jpg
-    - /img/voorzieningen/info/info-05.jpg
+
     
 
 insert:
