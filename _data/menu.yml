@@ -88,6 +88,8 @@
       submenu:
         - linkcode: te_koop
         - linkcode: b_21
+        - linkcode: b_54
+        - linkcode: c_22
         - linkcode: c_28
         - linkcode: c_35
 
