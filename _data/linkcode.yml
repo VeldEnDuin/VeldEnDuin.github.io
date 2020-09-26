@@ -51,11 +51,6 @@ jubisite:
     
 
 # [1] menu - goed om weten
-onze_troeven:
-    nl:  /nl/goed-om-weten/onze-troeven.html
-    fr:  /fr/bon-a-savoir/nos-atouts.html
-    de:  /de/gut-zu-wissen/unsere-staerken.html
-    en:  /en/worth-knowing/our-assets.html
 hier_staan_we_voor:
     nl:  /nl/goed-om-weten/hier-staan-we-voor.html
     fr:  /fr/bon-a-savoir/nos-regles-et-valeurs.html
