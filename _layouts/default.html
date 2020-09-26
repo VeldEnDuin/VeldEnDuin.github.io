@@ -140,7 +140,7 @@
                     <a href="/" class="vd-barelink">
                       <span>{{ site.contact["site-url"] }}</span>
                     </a> -
-                    <a href="mailto:{{ site.contact.mail }}" class="vd-barelink">
+                    <a href="mailto:{{ site.contact.email }}" class="vd-barelink">
                       <span class="" itemprop="email" title="email" target="_blank"> 
                           {{ site.contact.email }}
                       </span>
@@ -148,7 +148,9 @@
                   </div>
 
                   <div class="col-xs-12">
+                    <a href="tel:{{ site.contact.phone }}" class="vd-barelink">
                       <span class="" itemprop="telephone">{{ site.contact.phone }}</span>
+                    </a>
                   </div> 
 
                   <div class="col-xs-12 copyr">&copy; 2015 - {{ 'now' | date: '%Y' }}</div> 

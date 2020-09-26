@@ -21,14 +21,16 @@ remove:
         </a>
     </div>
     <div class="vd-contact-item">
-      <a target="_blank" class="vd-barelink" href="mailto:{{site.contact.email}}">
+      <a class="vd-barelink" href="mailto:{{site.contact.email}}">
         <span class="vd-contact-badge "><span class="fa fa-envelope"></span></span>
         {{ site.contact.email }}
       </a>
     </div>
     <div class="vd-contact-item">
-      <span class="vd-contact-badge "><span class="fa fa-phone"></span></span>
-      {{ site.contact.phone }}
+      <a class="vd-barelink" href="tel:{{site.contact.phone}}">
+        <span class="vd-contact-badge "><span class="fa fa-phone"></span></span>
+        {{ site.contact.phone }}
+      </a>
     </div>
     <div class="vd-contact-item">
       <span class="vd-contact-badge "><span class="fa fa-legal"></span></span>
