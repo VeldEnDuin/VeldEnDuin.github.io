@@ -477,10 +477,26 @@ table.table>tbody>tr>td:first-child
     margin: 0 auto;
     height: 100% !important;
     width: 7px;
-    border: 1px solid rgba(79, 81, 55, 1);
-    background-color: rgba(79, 81, 55, 1);
+    border: 1px solid rgb(237,127,43);
+    background-color: rgb(237,127,43);
     border-radius: 15px;
 }
+
+/*
+new colours  // veld & duin secundair
+  // primair
+    rgb(186, 189, 140);  // greyish green
+    rgb(146, 200, 65);   // bright green
+    rgba(146, 200, 65, 0.1);   // bright green - at 10%
+  // secundair
+    rgb(67,182,73);      // grass-bright green
+    rgb(240,197,31);     // sunny yellow
+    rgb(237,127,43);     // orange like the fruit
+    rgb(212,71,39);      // darker orange-red-brown
+    rgb(237,226,210);    // bg pale redish 
+    rgb(242, 248, 233);  // bg pale green 
+*/
+
 
 .timeline .timeline-dot {
     position: absolute;
@@ -495,7 +511,7 @@ table.table>tbody>tr>td:first-child
 }
 
 .timeline .timeline-dot > span{
-    background-color: rgb(143, 183, 66);
+    background-color: rgb(67,182,73);
     position: absolute;
     display: block;
     width: 18px !important;
@@ -540,11 +556,11 @@ table.table>tbody>tr>td:first-child
 }
 
 .vd-group-timeline-item .vd-group-date .month {
-    color: #4f5137;
+    color: rgb(240,197,31);
 }
 
 .vd-group-date .year {
-    color: #8fb742;
+    color: rgb(67,182,73);
 }
 
 .vd-group-pics-item:hover {
@@ -554,7 +570,7 @@ table.table>tbody>tr>td:first-child
 
 .vd-group-timeline-item .vd-group-item-inner {
     padding: 2em;
-    background-color: rgba(143, 183, 66, 0.08);
+    background-color: rgba(240,197,31,0.1);
     border-radius: 5px;
     display: block;
     position: relative;
@@ -583,12 +599,12 @@ table.table>tbody>tr>td:first-child
 
 .vd-group-timeline-item.timeline-right .vd-group-item-inner:after {
 	right: 100%;
-	border-right-color: rgba(143, 183, 66, 0.08);
+	border-right-color: rgba(240,197,31,0.1);
 }
 
 .vd-group-timeline-item.timeline-left .vd-group-item-inner:after {
 	left: 100%;
-	border-left-color: rgba(143, 183, 66, 0.08);
+	border-left-color: rgba(240,197,31,0.1);
 }
 
 /*
@@ -1061,7 +1077,7 @@ button.vd-callout-btn:hover {
     min-height: 0px;
 }
 .vd-news-item  {
-    margin-right: 2em;
+    margin-right: 1.5em;
     background: #fff;
     float: none;
     display: inline-block;
