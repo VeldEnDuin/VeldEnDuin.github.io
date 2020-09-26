@@ -9,7 +9,7 @@
           </span>
         </div>
         <div class="vd-news-title ">{{ newsitem.title }}</div>
-        <div class="vd-news-teaser notd">{{ newsitem.description }}</div>
+        <div class="vd-news-teaser notd"><p>{{ newsitem.description }}</p></div>
         <button class="btn btn-lg btn-info">{{site.data.langs[pgLang].dict.readmore}}</button>
       {% else %}&nbsp;
       {% endif %}

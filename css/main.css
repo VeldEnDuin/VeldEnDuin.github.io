@@ -1040,6 +1040,9 @@ button.vd-callout-btn:hover {
 .vd-news-list >div {
     white-space: nowrap;
 }
+.vd-news-list > div > div  {
+    white-space: normal;
+}
 /*
 .vd-news-item {
     position: relative;
