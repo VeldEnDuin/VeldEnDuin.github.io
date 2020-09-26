@@ -2,9 +2,6 @@ nl:
     label: NL
     directions: ["N", "NO", "O", "ZO", "Z", "ZW", "W", "NW"]
     months: ["januari", "februari", "maart", "april", "mei", "juni", "juli", "augustus", "september", "oktober", "november", "december"]
-    id:
-        cx: 012964731216503545400:onwjrjqskq8
-        resa-form: 1Etxdk95a-hbqT4j0fXxXRn4U2lWTi6GWDExfWIgj4dg
     lost:
         nl: Verdwaald? We komen je graag redden!
         fr: Perdu(e)? Nous venons à votre secours!
@@ -17,8 +14,8 @@ nl:
         picsarchive: Foto Archief
         mapxl: Grotere kaart weergeven
         virttour:
-            - Virtuele
-            - Wandeling
+            - Neem een virtuele wandeling door onze camping
+            - Op Wandel
         prev: vorige
         next: volgende
         overview: overzicht
@@ -60,9 +57,6 @@ fr:
     label: FR
     directions: ["N", "NO", "O", "ZO", "Z", "ZW", "W", "NW"]
     months: ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"]
-    id:
-        cx: 012964731216503545400:onwjrjqskq8
-        resa-form: 1V_Y22o99fku-SzPJ2ixqMzWnwzrOpSDwYaiUYNEiFLM
     dict:
         all: tout
         latestnews: Actualité
@@ -70,8 +64,8 @@ fr:
         picsarchive: Archives Photo
         mapxl: Agrandir le plan
         virttour:
-            - Balade
-            - virtuelle
+            - (TODO) Neem een virtuele wandeling door onze camping
+            - (TODO) Op Wandel
         prev: précédent
         next: suivant
         overview: aperçu
@@ -114,9 +108,6 @@ de:
     label: DE
     directions: ["N", "NO", "O", "ZO", "Z", "ZW", "W", "NW"]
     months: ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"]
-    id:
-        cx: 012964731216503545400:onwjrjqskq8
-        resa-form: 1uRvmDG0GgujVV4jGti4bexsE5rC2idDKtxscnat-lP8
     dict:
         all: alle
         latestnews: Nachrichten
@@ -124,8 +115,8 @@ de:
         picsarchive: "Fotoarchiv"
         mapxl: Karte größer anzeigen
         virttour:
-            - Virtueller
-            - Rundgang
+            - (TODO) Neem een virtuele wandeling door onze camping
+            - (TODO) Op Wandel
         prev: Zurück
         next: Weiter
         overview: Übersicht
@@ -168,9 +159,6 @@ en:
     label: EN
     directions: ["N", "NO", "O", "ZO", "Z", "ZW", "W", "NW"]
     months: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
-    id:
-        cx: 012964731216503545400:onwjrjqskq8
-        resa-form: 1Z9DTYbLmATS-CeLZFQSdyEnA1-_XjPQAOgWzXoiYoQg
     dict:
         all: all
         latestnews: News
@@ -178,8 +166,8 @@ en:
         picsarchive: "Photo Archive"
         mapxl: Bigger map
         virttour:
-            - Virtual
-            - Tour
+            - (TODO) Neem een virtuele wandeling door onze camping
+            - (TODO) Op Wandel
         prev: previous
         next: next
         overview: overview

@@ -1276,16 +1276,27 @@ button.vd-callout-btn:hover {
     margin: 2em 0 1em 0;
 }
 .vd-virtualtour-link {
+    background-color: #fff;
+    border-radius: 2px;
     font-size: 1.2em;
-    padding: 0.4em 1em 0.4em 30px;
-    height: 4em;
-    color: #fff;
-    background-color: transparent;
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.vd-virtualtour-link .vd-img {
+    height: 3em;
+}
+.vd-virtualtour-link .vd-title {
+    line-height: 3em;
     text-transform: uppercase;
-    background-image: url('/img/style/btn-virtualtour.svg');
-    background-position: left center;
-    background-size: contain;
-    background-repeat: no-repeat;
+    text-align: center;
+    color: rgb(67,182,73); 
+    font-weight: 900;
+}
+.vd-virtualtour-link .btn {
+    background-color: rgb(146, 200, 65);
 }
 
 a.vd-barelink, a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:visited {
