@@ -53,7 +53,6 @@
             {% include social-menu.html %}
           </ul>
         </div>
-
         </div></div>
       </nav>
     {% if page.insert contains 'banner' %}
@@ -75,7 +74,7 @@
     {% include secondary-menu.html %}
 
     {% unless page.insert contains 'banner' %}
-        {%if page.insert contains 'booking' or lvl2.booking_form_group %}
+        {% if page.insert contains 'booking' or lvl2.booking_form_group %}
       <div class="container-fluid"><div class="row">
       <div class="subsub container"><div class="spaced row">
             {% include booking-form.html %}
@@ -84,7 +83,7 @@
         {%endif%}      
     {% endunless %}
     </header>
-
+      
     <article>
       <div class="container-fluid">
         <div id="content" class="row">
@@ -137,7 +136,6 @@
                     </div>
                   </a>
 
-
                   <div class="col-xs-12" itemprop="url">
                     <a href="/" class="vd-barelink">
                       <span>{{ site.contact["site-url"] }}</span>
@@ -153,7 +151,7 @@
                       <span class="" itemprop="telephone">{{ site.contact.phone }}</span>
                   </div> 
 
-                  <div class="col-xs-12 copyr">&copy; 2015 - 2020</div> 
+                  <div class="col-xs-12 copyr">&copy; 2015 - {{ 'now' | date: '%Y' }}</div> 
                 </div>
               </div>
 

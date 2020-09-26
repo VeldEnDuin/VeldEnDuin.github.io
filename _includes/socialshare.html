@@ -1,12 +1,9 @@
 <div id="vd-share">
-<div id="vd-share-title">
-{{site.data.langs[pgLang].dict.share}}<br>
-</div>
 
 <div id="vd-share-group" class="btn-group vd-share-grp"
      data-share='{"title": "{{ogTitle}}", "url": "{{site.url}}{{ogUrl}}", "pi-media": "{{ site.url }}{{ ogImgUrl }}",
                   "fb-app-id": {{site.fb-app-id}}, "fb-redir": "{{site.url}}/fb-redir-close.html" }'>
-  <button type="button" class="btn btn-lg btn-default"
+  <button type="button" class="btn btn-lg btn-default btn-disabled"
           data-toggle="tooltip" data-placement="right" title="{{ site.data.langs[pgLang].dict.share }}">
     <span class="fa fa-share-alt"></span>
   </button>

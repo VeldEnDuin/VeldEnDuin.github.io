@@ -7,7 +7,7 @@ insert:
 
 select:
     - welcome-back
-    - nieuwepercelen
+    - covid
     
 class:
     select:

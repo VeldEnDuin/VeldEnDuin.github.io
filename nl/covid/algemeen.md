@@ -2,6 +2,12 @@
 title: Algemeen
 layout: page
 
+preview:
+    title: Covid-19 maatregelen
+    text: 
+        - Zo garanderen we samen een gezonde vakantie.
+    image: /img/covid/icons.png
+        
 ---
 
 {% include links.md %}

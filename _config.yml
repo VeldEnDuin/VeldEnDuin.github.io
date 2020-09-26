@@ -58,4 +58,4 @@ links:
 #  in: https://www.linkedin.com/in/....
 
 newsfeed:
-    max: 10
+    max: 50

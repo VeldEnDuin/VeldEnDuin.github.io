@@ -12,7 +12,7 @@ nl:
         en: Lost? We’ll gladly come to your rescue!
     dict:
         all: alle
-        latestnews: Laatste Nieuws
+        latestnews: Nieuws
         newsarchive: Archief
         picsarchive: Foto Archief
         mapxl: Grotere kaart weergeven
@@ -65,7 +65,7 @@ fr:
         resa-form: 1V_Y22o99fku-SzPJ2ixqMzWnwzrOpSDwYaiUYNEiFLM
     dict:
         all: tout
-        latestnews: Actualité récente
+        latestnews: Actualité
         newsarchive: Archives
         picsarchive: Archives Photo
         mapxl: Agrandir le plan
@@ -119,7 +119,7 @@ de:
         resa-form: 1uRvmDG0GgujVV4jGti4bexsE5rC2idDKtxscnat-lP8
     dict:
         all: alle
-        latestnews: Aktuelle Nachrichten
+        latestnews: Nachrichten
         newsarchive: Archiv
         picsarchive: "Fotoarchiv"
         mapxl: Karte größer anzeigen
@@ -173,7 +173,7 @@ en:
         resa-form: 1Z9DTYbLmATS-CeLZFQSdyEnA1-_XjPQAOgWzXoiYoQg
     dict:
         all: all
-        latestnews: Latest News
+        latestnews: News
         newsarchive: Archive
         picsarchive: "Photo Archive"
         mapxl: Bigger map

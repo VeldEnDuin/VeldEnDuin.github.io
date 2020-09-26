@@ -1,27 +1,48 @@
+<div class="col-xs-12">
 <div class="vd-news-feed ">
 
-<div class="vd-news-title ">{{ site.data.langs[pgLang].dict.latestnews}}</div>
+<h2>{{ site.data.langs[pgLang].dict.latestnews}}</h2>
+  
+  
+<div class="vd-news-feed-banner" role="vctrl">
+  <div class="vd-news-ctrl">
+    <button class="btn btn-default" role="vctrl-prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+    </button>
+  </div>  
 
-<div class="vd-news-list {{page.class.news.list}} clearfix" id="vd-news-list" >
+  <div class="vd-news-list {{page.class.news.list}}" id="vd-news-list col-xs-12" >
+    <div clas="row" role="vctrl-list">
 {% assign cnt = 0 %}
 {% for pst in site.posts  %}
     <!-- {{pst.title}} @{{pst.url}} -->
     {% assign parts = pst.url | split: '/' %}
     {% assign ln = parts[1] %}
+    {% assign newsclass = "" %}
     {% if ln == pgLang %}
-        {% if cnt < site.newsfeed.max %}
+        {% if site.newsfeed.max >= cnt %}
             {% assign cnt = cnt |plus: 1%}
             {% assign newsitem = pst %}
-            {% assign newsitemicon = 'fa fa-rss'%}
+            {% if  pst.url == page.url %}
+                {% assign newsclass = "vd-news-current vctrl-current" %}
+            {% endif %}
             {% include newsfeeditem.html %}
         {% endif %}
     {% endif %}
 {% endfor %}
-</div>
+{% comment %}<!-- extra item to space at the end -->{% endcomment %}
+{% assign newsitem = undefined %}
+{% assign newsclass = "vd-news-space" %}
+{% include newsfeeditem.html %}
+    </div>
+  </div>
 
-<div class="vd-news-archive">
-  {% include link-nieuws-archive.html %}
-  {% include link-foto-archive.html %}
+  <div class="vd-news-ctrl">
+    <button class="btn btn-default" role="vctrl-next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+    </button>
+  </div>  
+  
 </div>
-
+</div>
 </div>

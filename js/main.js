@@ -415,6 +415,68 @@
         });
     });
 
+    /**
+     * make vdctrl links work ok
+     * =======================================================================
+     */
+    (function () {
+        $("*[role='vctrl']").each(function () {
+            var $grp, $lst, $scroll, $items, $prev, $next, lstCount,
+                itemOff, itemWidth, itemHeight = 0, pos = 0, currentpos = 0;
+            $grp  = $(this);
+            $lst  = $("*[role='vctrl-list']", $grp);
+            $scroll = $lst.parent();
+            $items = $("*[role='vctrl-item']", $lst);
+            
+            
+            if ($items.length <= 1) {
+                return; // when in embargo all items got removed, we can skip here...
+            }
+            $prev = $("*[role='vctrl-prev']", $grp);
+            $next = $("*[role='vctrl-next']", $grp);
+            lstCount  = $items.length;
+            itemOff = Math.ceil($items.eq(0).position().left);
+            itemWidth = Math.ceil($items.eq(1).position().left - itemOff);
+
+
+            function scrollPos() {
+                // scroll to left side of this desired position
+                $scroll.scrollLeft(pos * itemWidth);
+                // recalibrate position to actual scroll position
+                pos = Math.floor(($scroll.scrollLeft() - itemOff) / itemWidth);
+                // scroll to left of actual calibrated position
+                $scroll.scrollLeft(pos * itemWidth);
+            }
+            function nav(offset) {
+                pos = Math.min(Math.max((pos + offset), 0), (lstCount - 1));
+                scrollPos();
+                return -1;
+            }
+            $prev.click(function () {nav(-1); });
+            $next.click(function () {nav(+1); });
+
+            currentpos = $items.index($items.filter(".vctrl-current")) -1;
+            nav(currentpos);
+            
+            function repos() {
+                //align heights
+                $items.each(function () { $(this).css('height', 'auto'); });
+                itemHeight = 0;
+                $items.each(function () { itemHeight = Math.max(itemHeight, $(this).height()); });
+                $items.each(function () { $(this).height(itemHeight); });
+                //soft jump to leftmost to recalibrate
+                $scroll.scrollLeft($items.eq(0).position().left);
+                itemOff = Math.ceil($items.eq(0).position().left);
+                itemWidth = Math.ceil($items.eq(1).position().left - itemOff);
+                scrollPos();
+            }
+
+            $(window).resize(function () {repos(); });
+            $(window).on('load', function () {repos(); });
+            repos();
+        });
+    }());
+    
     /*
      * Build up the slider effect of the horizontal accordeon
      * =======================================================================
