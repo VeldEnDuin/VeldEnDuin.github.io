@@ -570,7 +570,7 @@ new colours  // veld & duin secundair
 
 .vd-group-timeline-item .vd-group-item-inner {
     padding: 2em;
-    background-color: rgba(240,197,31,0.1);
+    background-color: rgba(255,255,255,1);
     border-radius: 5px;
     display: block;
     position: relative;
@@ -599,12 +599,12 @@ new colours  // veld & duin secundair
 
 .vd-group-timeline-item.timeline-right .vd-group-item-inner:after {
 	right: 100%;
-	border-right-color: rgba(240,197,31,0.1);
+	border-right-color: rgba(255,255,255,1);
 }
 
 .vd-group-timeline-item.timeline-left .vd-group-item-inner:after {
 	left: 100%;
-	border-left-color: rgba(240,197,31,0.1);
+	border-left-color: rgba(255,255,255,1);
 }
 
 /*
@@ -1289,7 +1289,11 @@ button.vd-callout-btn:hover {
 .vd-landing-footer {
     /* height: 5em; */
     /* overflow: hidden; */
-    margin: 2em 0 1em 0;
+    margin: em 0 1em 0;
+}
+article,
+footer {
+    margin-top: 2em;
 }
 .vd-virtualtour-link {
     background-color: #fff;
