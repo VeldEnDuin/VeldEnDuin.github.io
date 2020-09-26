@@ -7,9 +7,7 @@ images:
 insert:
     - page-images-top
 
-remove:
-    - imgstrip
-    
+tile-background-size: contain    
 
 ---
 

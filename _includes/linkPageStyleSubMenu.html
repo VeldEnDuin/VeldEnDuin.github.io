@@ -10,6 +10,8 @@
   <div class="{{itemcls}} vd-select-item-wrap">
     <div class="vd-select-item {{page.class.select.item}} vd-select-submenu">
       <div class="vd-select-content">
+        {% assign bg_size = "cover" %}
+        {% if linkPage['tile-background-size' %}{% assign bg_size = linkPage['tile-background-size']%}{% endif %}
         {% if linkPage.picto %}
           {% assign _class='vd-bg-pictomask' %}
           {% capture _style %}
@@ -19,6 +21,7 @@
           {% assign _class='vd-bg-img' %}
           {% capture _style %}
               background-image: url( {{ linkPage.images[0] }});
+              background-size: {{bg_size}}
           {% endcapture %}
         {% endif %}
         {% if _style %}

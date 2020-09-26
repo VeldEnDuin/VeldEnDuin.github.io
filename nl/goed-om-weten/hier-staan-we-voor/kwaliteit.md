@@ -7,6 +7,8 @@ images:
 insert:
     - page-images-top
 
+tile-background-size: contain
+
 
 ---
 

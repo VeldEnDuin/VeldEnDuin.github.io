@@ -1,17 +1,7 @@
 {% if lvl2.submenu %}
 <div class="container"><div class="row">
 <div class="col-xs-12">
-    <!-- TODO remove all this -->
-    {% if page.insert contains 'background-image' and page.images.size > 0 %}
-      {% capture _style %}
-        background: linear-gradient(rgba(255,255,255,0.4),rgba(255,255,255,0.4)),
-        url('{{page.images[0]}}');background-position: center center;
-        background-size: cover;
-        background-position: center center;
-      {%endcapture%}
-    {% endif %}
   <div class="vd-select-list {{page.class.select.list}} clearfix" 
-       style="{{ _style }}"
        id="vd-select-list">
     {% assign itemcls = 'col-lg-4 col-md-4 col-sm-6 col-xs-12' %}
 
