@@ -695,7 +695,35 @@ svg.tagcloud {
     border-top-right-radius: 5px;
 }
 
+.vd-select-item.vd-select-landing {
+    margin-bottom: 1em;
+}
 
+.vd-select-item.vd-select-landing .vd-select-item-inner {
+    border-radius: 2px;
+    background-color: #fff;
+    z-index: 1;
+}
+
+.vd-select-item.vd-select-landing .vd-select-item-inner {
+    color: #fff;
+    overflow: hidden;
+}
+.vd-select-item.vd-select-landing .vd-select-item-inner div {
+    height: 240px!important;
+}
+
+.vd-select-item.vd-select-landing .vd-select-item-inner .vd-select-content {
+    background-color: inherit;
+}
+
+.vd-select-item.vd-select-landing:nth-child(odd) .vd-select-item-inner {
+    background-color: rgb(146, 200, 65);
+}
+
+.vd-select-item.vd-select-landing:nth-child(even) .vd-select-item-inner {
+    background-color: rgb(67,182,73);   
+}
 
 .vd-bg-img {
     background-position: center center;

@@ -9,45 +9,45 @@
 {% endif %}
 
 <div class="vd-select-item vd-select-landing {{page.class.select.item}}">
-  <div class="vd-select-item-inner">
-    <a href="{{pg.url}}" class="notd">
-      <div class="vd-select-item vd-select-landing {{page.class.select.item}}">
-        <div class="vd-select-item-inner">
+  <a href="{{pg.url}}" class="notd">
+    <div class="vd-select-item-inner">
     {% if page.class.select.noimage %}
-          <div class="col-lg-12 col-md-12 col-sm-12 hidden-xs">
+      <div class="col-lg-12 col-md-12 col-sm-12 hidden-xs">
     {% else %}
-          <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
-            <img class="vd-select-item-img img-responsive img-rounded" src="{{ previewImg }}">
-          </div>
-          <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+      <div class="vd-select-content col-lg-6 col-md-6 col-sm-6 col-xs-12">
     {% endif %}
-            <h2 class="vd-select-title">{{ previewTitle }}</h2>
+        <h2 class="vd-select-title">{{ previewTitle }}</h2>
     {% if linkPage.preview %}
-            <div class="vd-select-content">
+        <div class="vd-select-preview">
         {% if linkPage.preview.text.size > 0 %}
-              <div>
+          <div>
             {% for ln in linkPage.preview.text %}
             {{ ln }}<br>
             {% endfor %}
-              </div>
+          </div>
         {% endif %}
-              <ul>
+          <ul>
         {% if linkPage.preview.list.size > 0 %}
             {% for it in linkPage.preview.list %}
-                <li>{{ it }}</li>
+            <li>{{ it }}</li>
             {% endfor %}
         {% endif %}
-              </ul>
-            </div>
-    {% endif %}
-            <button class="btn btn-lg btn-success">{{site.data.langs[pgLang].dict.readmore}}</button>
-    {% if page.class.select.noimage %}
-          </div>
-    {% else %}
-          </div>
-    {% endif %}
+          </ul>
         </div>
+    {% endif %}
+    {% if page.class.select.noimage %}
       </div>
-    </a>
-  </div>
+    {% else %}
+      </div>
+      {% capture _style %}
+        background-color: #fff;
+        background-image: url({{previewImg}});
+        background-size: cover;
+        background-repeat: no-repeat; 
+        background-position: center center;
+      {% endcapture %}
+      <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs" style="{{ _style }}" >&nbsp;</div>
+    {% endif %}
+    </div>
+  </a>
 </div>
