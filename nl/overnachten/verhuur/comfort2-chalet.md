@@ -41,6 +41,9 @@ insert:
 
 Even alleen komen uitwaaien of met z'n tweetjes? In deze chalet is het heerlijk thuiskomen na een dagje genieten aan onze kust.
 
+## Goedkoopste prijs
+**Tip:** rechtstreeks boeken via onze site of per telefoon / mail is **10% goedkoper** dan via Booking of AirBnb.
+
 ## Inrichting chalet
 
 - woonkamer met flatscreen en digibox

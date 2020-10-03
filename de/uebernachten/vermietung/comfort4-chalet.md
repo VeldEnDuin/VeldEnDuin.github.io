@@ -49,6 +49,9 @@ insert:
 
 Diese Chalets liegen vorn auf dem Campingplatz in der Nähe des Spielplatzes. Ideal also für Kinder, die so ihre Freunde immer in der Nähe haben.
 
+## Günstigster Preis
+**Tipp:** Die Buchung direkt über unsere Website oder per Telefon / Email ist **10% günstiger** als über Buchung oder AirBnb.
+
 ## Einrichtung Chalet
 
 - Großes Wohnzimmer mit Flachbildschirm-TV und Digibox

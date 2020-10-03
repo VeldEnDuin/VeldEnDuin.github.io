@@ -48,6 +48,9 @@ insert:
 
 Les appartements sont situés à deux pas du camping. Tout en profitant de l’espace d’un appartement, vous disposez également des équipements de notre camping.
 
+## Prix le moins cher
+**Astuce:** réserver directement sur notre site ou par téléphone / e-mail coûte **10% moins cher** que via Booking ou AirBnb.
+
 ## Aménagement de l’appartement
 
 - grand salon avec écran plat et digibox

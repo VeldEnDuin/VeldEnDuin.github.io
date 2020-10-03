@@ -48,6 +48,10 @@ insert:
 
 Die Appartements liegen neben dem Campingplatz. So genießen Sie den Platz eines Appartements und Sie können trotzdem die Annehmlichkeiten des Campingplatzes nutzen.
 
+## Günstigster Preis
+**Tipp:** Die Buchung direkt über unsere Website oder per Telefon / Email ist **10% günstiger** als über Buchung oder AirBnb.
+
+
 ## Einrichtung Appartement
 
 - Großes Wohnzimmer mit Flachbildschirm-TV und Digibox
