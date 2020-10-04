@@ -4,6 +4,7 @@ title: Camping Veld & Duin
 
 insert:
     - banner
+    - booking
 
 options:
     - praktisch
