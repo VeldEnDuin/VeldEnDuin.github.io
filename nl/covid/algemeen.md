@@ -3,11 +3,11 @@ title: Algemeen
 layout: page
 
 preview:
-    title: Covid-19 maatregelen
+    title: Covid-19 Nieuws
     text: 
-        - Zo garanderen we samen een gezonde vakantie.
-    image: /img/covid/icons.png
-        
+        - Een veilig en zorgeloos verblijf is ook in deze Corona-tijden perfect mogelijk. Al onze voorzorgsmaatregelen en richtlijnen zetten we graag op een rijtje.
+    image: /img/covid/corona.jpg
+
 ---
 
 {% include links.md %}

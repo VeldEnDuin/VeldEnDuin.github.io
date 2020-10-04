@@ -3,6 +3,7 @@ layout: page
 title: Praktische Info
 
 preview: no
+
 icon: info-sign
 ---
 

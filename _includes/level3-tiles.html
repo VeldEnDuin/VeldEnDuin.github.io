@@ -9,7 +9,7 @@
         {% assign select = link.linkcode %}
         {% for pg in site.pages %}
             {% if pg.url == site.data.linkcode[select][pgLang] %}
-                {% unless pg.preview == false %}
+                {% unless pg.insert contains 'level3-tiles' or pg.preview == false %}
                     {% assign linkPage = pg %}
                     {% include linkPageStyleSubMenu.html %}
                 {% endunless %}

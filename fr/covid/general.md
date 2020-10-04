@@ -2,6 +2,13 @@
 title: Général
 layout: page
 
+preview:
+    title: ACTUALITÉS DU COVID-19
+    text: 
+        - Un séjour sûr et insouciant est également parfaitement possible en ces temps Corona. Nous sommes heureux de lister toutes nos précautions et directives.
+
+    image: /img/covid/corona.jpg
+
 ---
 
 {% include links.md %}

@@ -2,6 +2,12 @@
 title: General
 layout: page
 
+preview:
+    title: Covid-19 News
+    text:
+        - A safe and carefree stay is also perfectly possible in these Corona times. We are happy to list all our precautions and guidelines.
+    image: /img/covid/corona.jpg
+
 ---
 
 {% include links.md %}

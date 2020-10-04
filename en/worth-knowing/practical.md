@@ -8,6 +8,9 @@ images:
     - /img/goedomweten/praktisch/prakt-03.jpg
     - /img/goedomweten/praktisch/prakt-04.jpg
 
+preview:
+    image: /img/goedomweten/praktisch/praktisch.jpg
+    
 insert:
     - page-images-top
 ---

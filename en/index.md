@@ -5,10 +5,15 @@ title: Camping Veld & Duin
 insert:
     - banner
     
-select:
+options:
+    - praktisch
+    - doen
     - verhuur
-#    - nieuwepercelen
+    - voorzieningen    
+    
+select:
     - welcome-back
+    - covid
     
 class:
     select:

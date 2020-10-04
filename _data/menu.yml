@@ -1,9 +1,9 @@
 - linkcode: verhuur
   menutekst:
     nl:  Logiestypes
-    fr:  TODO Hébergement
-    en:  TODO Accomodation
-    de:  TODO Übernachtung
+    fr:  "Types d'hébergement"
+    en:  Accomodation types
+    de:  Unterkunftsarten
   submenu:
     - linkcode: verhuur
       booking_form_group: verhuur
@@ -89,9 +89,9 @@
 - linkcode: praktisch
   menutekst: 
     nl: Praktisch
-    fr: todo
-    de: todo
-    en: todo
+    fr: Pratique
+    de: Praktish
+    en: Practical Info
 
 - linkcode: hier_staan_we_voor
   menutekst:

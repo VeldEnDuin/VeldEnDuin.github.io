@@ -1,0 +1,27 @@
+{% assign previewTitle = linkPage.title %}
+{% if linkPage.preview.title %}
+    {% assign previewTitle = linkPage.preview.title %}
+{% endif %}
+
+{% assign previewImg = pg.images[0] %}
+{% if linkPage.preview.image %}
+    {% assign previewImg = linkPage.preview.image %}
+{% endif %}
+
+<div class="vd-select-item vd-option-landing {{page.class.option.item}}">
+  <a href="{{pg.url}}" class="notd">
+    <div class="vd-select-item-inner">
+      <div class="vd-select-content col-xs-3">
+      {% capture _style %}
+        background-color: #fff;
+        background-image: url({{previewImg}});
+        background-size: cover;
+        background-repeat: no-repeat; 
+        background-position: center center;
+      {% endcapture %}
+        <div class="vd-select-img" style="{{ _style }}" >&nbsp;</div>
+        <h2 class="vd-select-title">{{ previewTitle }}</h2>
+      </div>
+    </div>
+  </a>
+</div>

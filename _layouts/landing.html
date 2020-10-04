@@ -11,19 +11,13 @@ insert:
       <div class="vd-landing-intro row jumbotron">
 {{ content }}
       </div>
-      <div class="vd-landing-selection row">
+{% include options.html %}
 {% include select.html %}
-      </div>
     </div>
 
 {% unless page.remove contains 'newsfeed' %}
     {% include newsfeed.html %}
 {% endunless %}
 
-    <div class="col-md-12 hidden-sm">
-      <div class="vd-landing-footer">
-{% include virtualtour-link.html %}
-      </div>
-    </div>
   </div>
 </div>

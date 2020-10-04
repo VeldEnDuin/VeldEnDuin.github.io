@@ -10,6 +10,10 @@ images:
 
 insert:
     - page-images-top
+    
+preview:
+    image: /img/goedomweten/praktisch/praktisch.jpg
+    
 ---
 
 {% include links.md %}

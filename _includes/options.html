@@ -1,0 +1,14 @@
+<div class="vd-landing-options row">
+  <div class="vd-select-list {{page.class.select.list}} hidden-xs">
+{% for link in page.options %}
+    {% for pg in site.pages %}
+        {% if pg.url == site.data.linkcode[link][pgLang] %}
+
+            {% assign linkPage = pg %}
+            {% include linkPageStyleOption.html %}
+
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+  </div>
+</div>

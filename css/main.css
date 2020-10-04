@@ -725,6 +725,41 @@ svg.tagcloud {
     background-color: rgb(67,182,73);   
 }
 
+.vd-landing-options {
+    margin-bottom: 2em;
+}
+
+.vd-select-item.vd-option-landing .col-xs-3 {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.vd-select-item.vd-option-landing:first-child .col-xs-3 {
+    padding-left: 15px;
+}
+.vd-select-item.vd-option-landing:last-child .col-xs-3 {
+    padding-right: 15px;
+}
+
+.vd-select-item.vd-option-landing .vd-select-img {
+    height: 240px!important;
+}
+
+.vd-select-item.vd-option-landing h2.vd-select-title {
+    margin-top: 0;
+    text-align: center;
+    padding: 0.5em 0.5em;
+    font-size: 1em;
+    color: #fff
+}
+.vd-select-item.vd-option-landing:nth-child(odd) .vd-select-title {
+    background-color: rgb(146, 200, 65);
+}
+
+.vd-select-item.vd-option-landing:nth-child(even) .vd-select-title {
+    background-color: rgb(67,182,73);   
+}
+
 .vd-bg-img {
     background-position: center center;
     background-repeat: no-repeat;

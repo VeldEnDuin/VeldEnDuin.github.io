@@ -1,6 +1,13 @@
 ---
-title: Allgemein
 layout: page
+title: Allgemein
+
+
+preview:
+    title: Covid-19 Nachrichten
+    text:
+        - Ein sicherer und unbeschwerter Aufenthalt ist auch in diesen Corona-Zeiten durchaus möglich. Gerne listen wir alle unsere Vorsichtsmaßnahmen und Richtlinien auf.
+    image: /img/covid/corona.jpg
 
 ---
 

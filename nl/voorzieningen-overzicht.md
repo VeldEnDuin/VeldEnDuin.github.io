@@ -9,11 +9,10 @@ insert:
     - level3-tiles
     
     
-preview: no
+preview: 
+    image: /img/voorzieningen/voorzieningen.jpg
 
 icon: sunglasses
 
-images: 
-    - /img/overnachten/trekkers-res/restr-04.jpg
 ---
 {% include links.md %}
