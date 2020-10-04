@@ -1,5 +1,5 @@
 ---
-title: Beach
+title: Beach & Bredene
 layout: page
     
 preview: no
@@ -8,9 +8,35 @@ preview: no
 
 {% include links.md %}
 
+## BREDENE
+
+Starting Tuesday 1/9: mouth mask requirement in the following zones:
+
+- Zone Bredene Shopping Center
+- Parking Colruyt / Aldi
+- Shopping / walking area Duinenstraat
+- Kapelstraat (zone between K. Astridlaan and Peter Benoitlaan) and all adjacent car parks
+- In all public buildings
+- Recycling park
+- On public transport
+- In all stores
+- Everywhere where the social distancing cannot be respected
+
+
+The obligation does not apply:
+- during travel by car, motorbike, bicycle
+- while practicing an intensive sport activity
+- while consuming drinks and food and for the necessary duration for this
+- for children under 12 years old.
+
+Attention! You must always have a mouth mask with you.
+
+On the camping the face mask is not obligatory anymore. 
+
+
 ## BEACH AND DUNES
 
-The nudist beach will be closed in 2020. In this way there will be more beach available for tourism. Bredene counts on the good sense of its visitors and a social distancing team and the local police will monitor the situation closely. 
+The nudist beach will be closed until the end of August 2020. In this way there will be more beach available for tourism. Bredene counts on the good sense of its visitors and a social distancing team and the local police will monitor the situation closely. 
 
 The most visited beach posts are 1,2,3 and 6. These posts can be closed if necessary. 
 

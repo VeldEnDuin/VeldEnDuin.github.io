@@ -1,0 +1,33 @@
+---
+title: Corona update
+layout: post
+description: Versoepeling mondmaskerverplichting
+permalink: /nl/2020-09-01-Corona-update.html
+    
+images:   
+    
+---
+
+## VERSOEPELING MONDMASKERVERPLICHTING
+
+Vanaf dinsdag 01/09: mondmasker enkel nog verplicht op volgende locaties:
+
+- Zone Bredene Shopping Center
+- Parking Colruyt/Aldi
+- Winkelwandelgedeelte Duinenstraat
+- Kapelstraat (zone tussen K. Astridlaan en Peter Benoitlaan) en alle aanpalende parkings
+- In alle openbare gebouwen
+- Milieu- en recyclagepark
+- Op het openbaar vervoer
+- In alle winkels
+- Overal waar de social distancing niet kan worden nageleefd
+
+De verplichting geldt niet:
+- tijdens de verplaatsing met de auto, moto(r), fiets
+- tijdens het beoefenen van een intensieve sportactiviteit
+- tijdens het nuttigen van drank en voedsel en voor de noodzakelijke duur hiervoor
+- voor kinderen onder 12 jaar
+
+Opgelet! Je moet wel steeds een mondmasker bij je hebben.
+
+Op de camping is het dragen van een mondmasker dus ook niet meer verplicht. 

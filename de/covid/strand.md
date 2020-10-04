@@ -1,5 +1,5 @@
 ---
-title: Strand
+title: Strand & Bredene
 layout: page
     
 preview: no
@@ -8,9 +8,34 @@ preview: no
 
 {% include links.md %}
 
+## BREDENE
+
+Ab Dienstag 01/09: Mundmaskenpflicht in den folgenden Zonen:
+
+- Zone Bredene Einkaufszentrum
+- Parking Colruyt / Aldi
+- Einkaufsbereich Duinenstraat
+- Kapelstraat (Zone zwischen K. Astridlaan und Peter Benoitlaan) und alle angrenzenden Parkplätze
+- In allen öffentlichen Gebäuden
+- Recyclingpark
+- Im öffentlichen Verkehr
+- In allen Geschäften
+- Überall wo die Distanz von 1,5 Meter nicht gehalten werden kann
+
+Die Verpflichtung gilt nicht:
+- während der Fahrt mit dem Auto, Motorrad, Fahrrad
+- während einer intensiven sportlichen Aktivität
+- während des Konsums von Getränken und Nahrungsmitteln und für die dafür notwendige Dauer
+- für Kinder unter 12 Jahren
+
+Achtung! Sie müssen immer eine Mundmaske dabei haben.
+
+Auf dem Camping gibt es also keine Maskenpflicht mehr. 
+
+
 ## STRAND & DÜNEN
 
-Das FKK-Strand wird in 2020 geschlossen und auf diese Weise ist mehr Strand verfügbar für Tourismus. Bredene rechnet auf dem gesunder Menschenverstand der Besucher und ein Social Distancing Team und die Polizei kontrollieren. 
+Das FKK-Strand wird bis Ende August 2020 geschlossen und auf diese Weise ist mehr Strand verfügbar für Tourismus. Bredene rechnet auf dem gesunder Menschenverstand der Besucher und ein Social Distancing Team und die Polizei kontrollieren. 
 
 Die meist besuchte Strandposten sind Posten 1,2,3 und 6. Diese können geschlossen werden sollte es notwendig werden. 
 

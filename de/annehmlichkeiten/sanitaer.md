@@ -8,6 +8,8 @@ images:
     - /img/voorzieningen/sanitair/sanit-02.jpg
     - /img/voorzieningen/sanitair/sanit-03.jpg
     - /img/voorzieningen/sanitair/sanit-04.jpg
+    - /img/voorzieningen/sanitair/sanit-05.jpg
+    - /img/voorzieningen/sanitair/sanit-06.jpg
 
 insert:
     - page-images-top

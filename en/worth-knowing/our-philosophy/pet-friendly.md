@@ -7,6 +7,7 @@ images:
     - /img/hierstaanwevoor/hondvriendelijk/hondvr-02.jpg
     - /img/hierstaanwevoor/hondvriendelijk/hondvr-03.jpg
     - /img/hierstaanwevoor/hondvriendelijk/hondvr-04.jpg
+    - /img/hierstaanwevoor/hondvriendelijk/hondvr-05.jpg
 
 insert:
     - page-images-top
