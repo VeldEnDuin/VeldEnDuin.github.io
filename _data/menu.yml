@@ -122,3 +122,12 @@
     fr: Activités
     de: Aktivitäten
     en: Do
+
+- linkcode: covid
+  menutekst: no
+  submenu:
+    - linkcode: covid
+    - linkcode: covid-kamperen
+    - linkcode: covid-verhuur
+    - linkcode: covid-resientieel
+    - linkcode: covid-strand

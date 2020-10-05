@@ -1,6 +1,7 @@
 <!-- menu for {{pgLang}} at {{ pgLink }} -->
 <ul id="menu" class="nav navbar-nav" >
 {% for m1 in site.data.menu %}
+    {% if m1.menutekst %}
     <li class="{% if m1.submenu %}dropdown{% endif %} {% if active1 == m1 %}active{% endif %}">
         <a href="{{ site.data.linkcode[m1.linkcode][pgLang] }}"
            {% if m1.submenu %}{% unless m1.linkcode %}
@@ -21,5 +22,6 @@
             </ul>
         {% endunless %}{% endif %}
     </li>
+    {% endif %}
 {% endfor %}
 </ul>
