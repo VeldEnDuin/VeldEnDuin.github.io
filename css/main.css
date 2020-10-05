@@ -61,7 +61,6 @@ a span {
  *   -------------------------------------------------------------------------------
  */
 header {
-    margin-bottom: 1em;
 }
 body {
     background: rgba(146, 200, 65, 0.1);
@@ -1354,7 +1353,6 @@ button.vd-callout-btn:hover {
     /* overflow: hidden; */
     margin: em 0 1em 0;
 }
-article,
 footer {
     margin-top: 2em;
 }

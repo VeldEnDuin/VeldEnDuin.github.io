@@ -280,7 +280,7 @@
 
             if (showSubNav) {
 
-                $btnGrp = $('<ul class="vd-group-filter-nav nav nav-pills nav-justified"></ul>');
+                $btnGrp = $('<ul id="submenu" class="vd-group-filter-nav nav nav-pills nav-justified"></ul>');
                 $btns = $();
                 activeSubGrp = null;
 
@@ -332,8 +332,12 @@
                     });
 
                     $groupList.before(
-                        $('<div class="vd-group-filter">').append(
-                            $('<div class="vd-group-filter-inner hidden-xs"></div').append($btnGrp)
+                        $('<div class="subnav row">').append(
+                            $('<div class="col-sm-12 hidden-xs">').append(
+                                $('<div class="vd-group-filter">').append(
+                                    $('<div class="vd-group-filter-inner hidden-xs"></div').append($btnGrp)
+                                )
+                            )
                         )
                     );
                     //read the fragment-identifier and call the toggleActive(grp)
