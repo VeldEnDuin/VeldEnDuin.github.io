@@ -11,7 +11,7 @@
 
 
 /*
-new colours  // veld & duin secundair
+new colours  // veld & duin 
   // primair
     rgb(186, 189, 140);  // greyish green
     rgb(146, 200, 65);   // bright green
@@ -232,7 +232,7 @@ table.table {
     /*min-width: 80%;*/
     background-color: rgba(255,255,255,0.8);
     margin-left: 1em;
-    border: 1px solid #4f5137;
+    border: 1px solid rgb(212,71,39);
     vertical-align: middle;
 }
 
@@ -240,14 +240,13 @@ table.table>thead>tr>th,
 table.table>tbody>tr>td {
     padding-left: 3em;
     padding-right: 3em;
-    border-left-color: #4f5137;
-    border-left-style: solid;
-    border-left-width: 1px;
+    border: 1px solid rgb(212,71,39);
     vertical-align: middle;
 }
 
 table.table>thead>tr>th {
-    background-color: #4f5137;
+    background-color: rgb(237,127,43);
+    border-bottom-width: 2px;
     padding-top: 1em;
     padding-bottom: 1em;
     color: #fff;
@@ -846,6 +845,7 @@ h2.vd-select-title-fill {
     font-size: 1em;
     font-weight: bold;
 }
+
 
 a:hover .vd-button .vd-button-inner,
 .vd-button a:hover .vd-button-inner {
