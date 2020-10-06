@@ -31,8 +31,8 @@ Diese Plätze haben eine etwas kleinere Fläche, bieten aber ebenso gut im Handu
 - Stromzähler – Pauschale Wasser
 - Gasflaschen
 - Kein winterfester Wasseranschluss – Sanitärgebäude bleibt geöffnet
-- price including [digital TV and wifi][pdf_tvwifi.en] for 4 devices
-- grass maintenance by Veld & Duin
+- Preis inklusive [Digital-TV und WLAN][pdf_tvwifi.de] für 4 Geräte
+- Graspflege von Veld & Duin
 
 
 ## Preise 2020
