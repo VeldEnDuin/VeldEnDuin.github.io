@@ -419,14 +419,19 @@ pdf_mvo:
     de: /de/pdf/mvo-rapport.pdf
     en: /en/pdf/mvo-rapport.pdf
 pdf_brandverzekering:
-    nl: /nl/pdf/brandverzekering-polisvwen.pdf
-    fr: /fr/pdf/assuranceincendie-conditions.pdf
-    de: /de/pdf/brandversicherung-voraussetzungen.pdf
-    en: /en/pdf/fireinsurance-conditions.pdf
+    nl: /nl/pdf/brandverzekering.pdf
+    fr: /fr/pdf/assuranceincendie.pdf
+    de: /de/pdf/brandversicherung.pdf
+    en: /en/pdf/fireinsurance.pdf
 pdf_zomeranimatie:
     nl: /nl/pdf/animatie2016.pdf
     fr: /fr/pdf/animations2016.pdf
     de: /de/pdf/animation2016.pdf
+pdf_tvwifi:
+    nl: /nl/pdf/tvwifi.pdf
+    fr: /fr/pdf/tvwifi.pdf
+    de: /de/pdf/tvwifi.pdf
+    en: /en/pdf/tvwifi.pdf
 resainfoverhuur:
     nl: /files/nlresainfo-verhuur2019.pdf
     fr: /files/frresainfo-verhuur2019.pdf
