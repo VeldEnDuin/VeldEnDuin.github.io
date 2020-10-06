@@ -31,6 +31,8 @@ These pitches are smaller but give you an instant holiday feeling, regardless of
 - electricity meter – fixed rate for water consumption
 - bottled gas
 - no winter proof water connection – sanitary building remains open
+- price including [digital TV and wifi][pdf_tvwifi.en] for 4 devices
+- grass maintenance by Veld & Duin
 
 
 ## Prices 2020

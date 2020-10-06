@@ -31,6 +31,8 @@ Ces emplacements sont un peu plus petits mais vous vous y sentirez immédiatemen
 - compteur électrique - forfait eau
 - bonbonne de gaz
 - pas de raccordement à l’eau en hiver – le bâtiment sanitaire reste accessible
+- prix comprenant [la télévision numérique et le wifi][pdf_tvwifi.fr] pour 4 appareils
+- entretien du gazon par Veld & Duin
 
 
 ## Prix 2020

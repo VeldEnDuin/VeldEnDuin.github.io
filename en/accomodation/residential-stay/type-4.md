@@ -33,6 +33,8 @@ Would you like a big plot? Choose one of our luxurious places and enjoy the extr
 - separate meters for gas – water – electricity consumption
 - underground gas network – no bottled gas
 - winter proof gas connection
+- price including [digital TV and wifi][pdf_tvwifi.en] for 4 devices
+- grass maintenance by Veld & Duin
 
 
 ## Prices 2020
