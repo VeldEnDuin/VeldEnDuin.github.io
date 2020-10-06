@@ -12,6 +12,13 @@ preview:
     
 images:
     - /img/overnachten/arrangementen-midweek/midweek-01.jpg
+    - /img/overnachten/arrangementen-midweek/midweek-02.jpg
+    - /img/overnachten/arrangementen-midweek/midweek-03.jpg
+    - /img/overnachten/arrangementen-midweek/midweek-04.jpg
+    - /img/overnachten/arrangementen-midweek/midweek-05.jpg
+    - /img/overnachten/arrangementen-midweek/midweek-06.jpg
+    - /img/overnachten/arrangementen-midweek/midweek-07.jpg
+    - /img/overnachten/arrangementen-midweek/midweek-08.jpg
     
 insert:
     - page-images-top
