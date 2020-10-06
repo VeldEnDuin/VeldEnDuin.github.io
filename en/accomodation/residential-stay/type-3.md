@@ -4,17 +4,17 @@ title: Type 3
 preview: 
     title: Type 3
     button:
-        price: 2135
+        price: 2860
         for: per year
     list:
-        - "average surface: 120 m²"
-        - "renewed pitches"
+        - "average surface: 190 m²"
+        - "luxurious pitches"
         - "accessible throughout the year"
-       
+        
         
 images:
     - /img/overnachten/residentieel-type3/restyp3-01.jpg
-    
+
 insert:
     - page-images-top
     
@@ -23,14 +23,14 @@ insert:
 
 {% include links.md %}
 
-# TYPE 3 - CARAVAN OR CHALET
+# Type 3 - caravan
 
-Do you secretly dream about a place to settle along the coast? Make your dream come true, buy your own caravan or chalet and come as often as you like. 
-
+Would you like a big plot overlooking the wadi? Choose one of our luxurious places and enjoy the extra space.
 
 ## Worth knowing
 
-- renewed pitches
+- all type 3 plots are situated around the wadi
+- concrete slab of 12x4 m – suitable for big caravans
 - separate meters for gas – water – electricity consumption
 - underground gas network – no bottled gas
 - winter proof gas connection
@@ -40,17 +40,17 @@ Do you secretly dream about a place to settle along the coast? Make your dream c
 
 TYPE 3                |PRICE           |
 :--------------------:|:--------------:|
-stand price per year  |€ 2135            
+stand price per year  |€ 2860            
 municipal taxes       |€ 413,40 
-contribution for household refuge<br>incl. 25 bags<br> | € 80   
-[fire insurance][pdf_brandverzekering.en]      |depending on <br>worth of the caravan / chalet
+contribution for household refuse<br>incl. 25 bags<br> | € 80  
+[fire insurance][pdf_brandverzekering.en]     |depending on <br>the worth of the caravan
 
-CONSUMPTION ⑴           |PRICE         |
+CONSUMPTION ⑴        |PRICE          |
 :--------------------:|:-------------:|
-electricity         | € 0,39 / kw        
+electricity           | € 0,39 / kw        
 water                 | € 7,5 / m³  
 gas                   | € 6,85 / m³       
-counter     | € 20 / counter
+counter               | € 20 / counter
 
 ⑴ price subject to changing energy charges
 

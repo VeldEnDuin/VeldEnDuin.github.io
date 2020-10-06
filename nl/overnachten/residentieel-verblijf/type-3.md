@@ -4,17 +4,17 @@ title: Type 3
 preview: 
     title: Type 3
     button:
-        price: 2135
+        price: 2860
         for: per jaar
     list:
-        - "gemiddelde opp: 120 m²"
-        - "vernieuwde plaatsen"
+        - "gemiddelde opp: 190 m²"
+        - "luxeplaatsen"
         - "hele jaar toegankelijk"
-       
+        
         
 images:
     - /img/overnachten/residentieel-type3/restyp3-01.jpg
-    
+
 insert:
     - page-images-top
     
@@ -23,14 +23,14 @@ insert:
 
 {% include links.md %}
 
-# TYPE 3 - CARAVAN OF CHALET
+# Type 3 - CARAVAN
 
-Een vaste stek aan de kust om steeds opnieuw naar terug te keren, wie droomt daar niet van? Maak uw droom waar met een eigen caravan of chalet om heel vaak van te genieten.
-
+Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Ga dan voor één van onze luxueuze plaatsen en geniet van de extra ruimte.
 
 ## Goed om weten
 
-- vernieuwde plaatsen
+- alle type 3 percelen liggen rond de wadi
+- betonplaat van 12x4 m - geschikt voor grote caravans
 - aparte tellers voor gas - water - elektriciteit
 - ondergronds gasnetwerk - geen gasflessen
 - wintervaste wateraansluiting
@@ -40,10 +40,10 @@ Een vaste stek aan de kust om steeds opnieuw naar terug te keren, wie droomt daa
 
 TYPE 3                |PRIJS           |
 :--------------------:|:--------------:|
-standplaatsvergoeding |€ 2135              
+standplaatsvergoeding |€ 2860              
 gemeentetaks          |€ 413,40
-huisvuilbijdrage<br>incl 25 zakken<br> | € 80    
-[brandverzekering][pdf_brandverzekering.nl]      |afhankelijk van <br>waarde caravan / chalet
+huisvuilbijdrage<br>incl 25 zakken<br> | € 80   
+[brandverzekering][pdf_brandverzekering.nl]     |afhankelijk van <br>waarde caravan
 
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|

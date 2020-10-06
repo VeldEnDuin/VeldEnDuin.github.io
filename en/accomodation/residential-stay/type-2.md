@@ -4,13 +4,13 @@ title: Type 2
 preview: 
     title: Type 2
     button:
-        price: 2070
+        price: 2135
         for: per year
     list:
-        - "average surface: 100 m²"
-        - "pitches to be renewed"
-        - "winter: water supply shut off"
-        
+        - "average surface: 120 m²"
+        - "renewed pitches"
+        - "accessible throughout the year"
+       
         
 images:
     - /img/overnachten/residentieel-type2/restyp2-01.jpg
@@ -18,38 +18,39 @@ images:
 insert:
     - page-images-top
     
+    
 ---
 
 {% include links.md %}
 
-# TYPE 2 - CARAVAN 
+# TYPE 2 - CARAVAN OR CHALET
 
-Need a break? Come and unwind in your caravan!
+Do you secretly dream about a place to settle along the coast? Make your dream come true, buy your own caravan or chalet and come as often as you like. 
 
 
 ## Worth knowing
 
-- these pitches are being renewed in the future - see [new project][nieuw_project.en]
-- electricity meter – fixed price for water consumption
-- bottled gas
-- no winter proof water connection – sanitary building remains open
+- renewed pitches
+- separate meters for gas – water – electricity consumption
+- underground gas network – no bottled gas
+- winter proof gas connection
 
 
 ## Prices 2020
 
 TYPE 2                |PRICE           |
 :--------------------:|:--------------:|
-stand price per year  |€ 2070              
-municipal taxes          |€ 413,40 
-contribution for household refuge<br>incl. 25 bags<br> | € 80    
-[fire insurance][pdf_brandverzekering.en]|depending on <br>worth of caravan
-
+stand price per year  |€ 2135            
+municipal taxes       |€ 413,40 
+contribution for household refuge<br>incl. 25 bags<br> | € 80   
+[fire insurance][pdf_brandverzekering.en]      |depending on <br>worth of the caravan / chalet
 
 CONSUMPTION ⑴           |PRICE         |
 :--------------------:|:-------------:|
 electricity         | € 0,39 / kw        
-fixed price for water        | € 80
-counter    | € 20 
+water                 | € 7,5 / m³  
+gas                   | € 6,85 / m³       
+counter     | € 20 / counter
 
 ⑴ price subject to changing energy charges
 

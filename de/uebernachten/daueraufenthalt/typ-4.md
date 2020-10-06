@@ -4,10 +4,10 @@ title: Typ 4
 preview: 
     title: Typ 4
     button:
-        price: 2860
+        price: 2455
         for: pro Jahr
     list:
-        - "Durchschnittl. Fläche: 190 m²"
+        - "Durchschnittl. Fläche: 170 m²"
         - "Luxusplätze"
         - "ganzjährig zugänglich"
         
@@ -25,22 +25,21 @@ insert:
 
 # Typ 4 – Wohnwagen
 
-Wünschen Sie eine besonders große Parzelle mit Blick auf das zentral gelegene Wadi? Dann sollten Sie einen unserer Luxusplätze wählen und den zusätzlichen Platz genießen.
+Wünschen Sie eine besonders große Parzelle? Dann sollten Sie einen unserer Luxusplätze wählen und den zusätzlichen Platz genießen.
 
 ## Gut zu wissen:
 
-- Alle Parzellen vom Typ 4 liegen rund um das Wadi
 - Betonplatte von 12 x 4 m – geeignet für große Wohnwagen
 - Getrennte Zähler für Gas, Wasser und Strom
 - Unterirdische Gasversorgung – keine Gasflaschen
 - Winterfester Wasseranschluss
 
 
-## Preise 2020
+## Preise 2020 
 
-TYP 4                                         |PREIS                               |
+TYP 4                                          |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
-Stellplatzkosten                         | € 2860        
+Stellplatzkosten                         | € 2455        
 Gemeindesteuer                                   | € 413,40
 Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 80  
  [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens

@@ -4,13 +4,13 @@ title: Typ 3
 preview: 
     title: Typ 3
     button:
-        price: 2135
+        price: 2860
         for: pro Jahr
     list:
-        - "Durchschnittl. Fläche: 120 m²"
-        - "renovierte Plätze"
+        - "Durchschnittl. Fläche: 190 m²"
+        - "Luxusplätze"
         - "ganzjährig zugänglich"
-       
+        
         
 images:
     - /img/overnachten/residentieel-type3/restyp3-01.jpg
@@ -23,14 +23,14 @@ insert:
 
 {% include links.md %}
 
-# TYP 3 - WOHNWAGEN ODER CHALET
+# Typ 3 – Wohnwagen
 
-Ein festes Zuhause an der Küste, in das man immer wieder zurückkehrt, wer träumt nicht davon? Machen Sie Ihren Traum mit einem eigenen Wohnwagen oder Chalet wahr, den oder das Sie häufig genießen können.
-
+Wünschen Sie eine besonders große Parzelle mit Blick auf das zentral gelegene Wadi? Dann sollten Sie einen unserer Luxusplätze wählen und den zusätzlichen Platz genießen.
 
 ## Gut zu wissen:
 
-- renovierte Plätze
+- Alle Parzellen vom Typ 3 liegen rund um das Wadi
+- Betonplatte von 12 x 4 m – geeignet für große Wohnwagen
 - Getrennte Zähler für Gas, Wasser und Strom
 - Unterirdische Gasversorgung – keine Gasflaschen
 - Winterfester Wasseranschluss
@@ -40,10 +40,10 @@ Ein festes Zuhause an der Küste, in das man immer wieder zurückkehrt, wer trä
 
 TYP 3                                         |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
-Stellplatzkosten                         | € 2135         
+Stellplatzkosten                         | € 2860        
 Gemeindesteuer                                   | € 413,40
-Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 80    
- [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens / Chalets
+Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 80  
+ [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens
 
 VERBRAUCH ⑴           |PREIS          |
 :--------------------:|:-------------:|
