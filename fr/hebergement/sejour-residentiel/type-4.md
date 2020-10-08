@@ -4,10 +4,10 @@ title: Type 4
 preview: 
     title: Type 4
     button:
-        price: 2455
+        price: 2860
         for: par an
     list:
-        - "surface moyenne : 170 m²"
+        - "surface moyenne : 190 m²"
         - "emplacements de luxe"
         - "accessible toute l’année"
         
@@ -24,10 +24,11 @@ insert:
 
 # Type 4 - CARAVANE
 
-Vous cherchez un grand emplacement? Optez pour l’un de nos emplacements de luxe plus spacieux.
+Vous cherchez un grand emplacement avec vue sur la pièce d’eau au centre du camping? Optez pour l’un de nos emplacements de luxe plus spacieux.
 
 ## Bon à savoir
 
+- toutes les parcelles de type 4 sont situées autour de la pièce d’eau
 - dalle de béton de 12x4 m – adaptée aux grandes caravanes
 - compteurs séparés pour le gaz – l’eau – l’électricité
 - réseau de gaz souterrain – pas de bonbonnes de gaz
@@ -40,7 +41,7 @@ Vous cherchez un grand emplacement? Optez pour l’un de nos emplacements de lux
 
 TYPE 4                |PRIX           |
 :--------------------:|:--------------:|
-indemnité de résidence par an |€ 2455            
+indemnité de résidence par an |€ 2860            
 taxe communale                |€ 413,40
 déchets ménagers<br>incl 25 sacs poubelles<br> | € 80   
 [assurance incendie][pdf_brandverzekering.fr]     |selon la<br>valeur de la caravane

@@ -4,10 +4,10 @@ title: Type 3
 preview: 
     title: Type 3
     button:
-        price: 2860
+        price: 2455
         for: per jaar
     list:
-        - "gemiddelde opp: 190 m²"
+        - "gemiddelde opp: 170 m²"
         - "luxeplaatsen"
         - "hele jaar toegankelijk"
         
@@ -25,11 +25,10 @@ insert:
 
 # Type 3 - CARAVAN
 
-Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Ga dan voor één van onze luxueuze plaatsen en geniet van de extra ruimte.
+Wenst u graag een extra groot perceel? Ga dan voor één van onze luxueuze plaatsen en geniet van de extra ruimte.
 
 ## Goed om weten
 
-- alle type 3 percelen liggen rond de wadi
 - betonplaat van 12x4 m - geschikt voor grote caravans
 - aparte tellers voor gas - water - elektriciteit
 - ondergronds gasnetwerk - geen gasflessen
@@ -42,7 +41,7 @@ Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Ga 
 
 TYPE 3                |PRIJS           |
 :--------------------:|:--------------:|
-standplaatsvergoeding |€ 2860              
+standplaatsvergoeding |€ 2455              
 gemeentetaks          |€ 413,40
 huisvuilbijdrage<br>incl 25 zakken<br> | € 80   
 [brandverzekering][pdf_brandverzekering.nl]     |afhankelijk van <br>waarde caravan

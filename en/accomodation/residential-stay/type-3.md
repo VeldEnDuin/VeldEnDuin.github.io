@@ -4,10 +4,10 @@ title: Type 3
 preview: 
     title: Type 3
     button:
-        price: 2860
+        price: 2455
         for: per year
     list:
-        - "average surface: 190 m²"
+        - "average surface: 170 m²"
         - "luxurious pitches"
         - "accessible throughout the year"
         
@@ -25,11 +25,10 @@ insert:
 
 # Type 3 - caravan
 
-Would you like a big plot overlooking the wadi? Choose one of our luxurious places and enjoy the extra space.
+Would you like a big plot? Choose one of our luxurious places and enjoy the extra space.
 
 ## Worth knowing
 
-- all type 3 plots are situated around the wadi
 - concrete slab of 12x4 m – suitable for big caravans
 - separate meters for gas – water – electricity consumption
 - underground gas network – no bottled gas
@@ -42,7 +41,7 @@ Would you like a big plot overlooking the wadi? Choose one of our luxurious plac
 
 TYPE 3                |PRICE           |
 :--------------------:|:--------------:|
-stand price per year  |€ 2860            
+stand price per year  |€ 2455            
 municipal taxes       |€ 413,40 
 contribution for household refuse<br>incl. 25 bags<br> | € 80  
 [fire insurance][pdf_brandverzekering.en]     |depending on <br>the worth of the caravan
