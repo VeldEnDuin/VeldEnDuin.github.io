@@ -4,7 +4,7 @@ title: Typ 3
 preview: 
     title: Typ 3
     button:
-        price: 2455
+        price: 2505
         for: pro Jahr
     list:
         - "Durchschnittl. Fläche: 170 m²"
@@ -37,12 +37,12 @@ Wünschen Sie eine besonders große Parzelle? Dann sollten Sie einen unserer Lux
 - Graspflege von Veld & Duin
 
 
-## Preise 2020 
+## Preise 2021 
 
 TYP 3                                          |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
-Stellplatzkosten                         | € 2455        
-Gemeindesteuer                                   | € 413,40
+Stellplatzkosten                         | € 2505        
+Gemeindesteuer                                   | € 421,88
 Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 80  
  [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens
 
@@ -51,7 +51,7 @@ VERBRAUCH ⑴           |PREIS          |
 Strom                 | € 0,39 / Kw        
 Wasser                | € 7,5 / m³
 Gas                   | € 6,85 / m³
-Zähler                | € 20 / Zähler
+Zähler                | € 22 / Zähler
 
 ⑴ Preis vorbehaltlich Änderungen der Energiepreise
 

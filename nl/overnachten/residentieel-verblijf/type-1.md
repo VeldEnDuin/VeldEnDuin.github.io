@@ -4,7 +4,7 @@ title: Type 1
 preview: 
     title: Type 1
     button:
-        price: 1920
+        price: 1955
         for: per jaar
     list:
         - "gemiddelde opp: 80 m²"
@@ -35,12 +35,12 @@ Deze plaatsen zijn iets kleiner qua oppervlakte maar bieden evengoed een instant
 - onderhoud gras door Veld & Duin
 
 
-## Prijzen 2020
+## Prijzen 2021
 
 TYPE 1                                         |PRIJS                               |
 :---------------------------------------------:|:----------------------------------:|
-standplaatsvergoeding                          | € 1920   
-gemeentetaks                                   | € 413,40 
+standplaatsvergoeding                          | € 1955   
+gemeentetaks                                   | € 421,88 
 huisvuilbijdrage<br>incl 25 zakken<br>         | € 80   
  [brandverzekering][pdf_brandverzekering.nl]   | afhankelijk van <br>waarde caravan
 
@@ -48,7 +48,7 @@ VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
 elektriciteit         | € 0,39 / kw        
 forfait water         | € 80
-tellervergoeding      | € 20
+tellervergoeding      | € 22
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven
 

@@ -4,7 +4,7 @@ title: Type 3
 preview: 
     title: Type 3
     button:
-        price: 2455
+        price: 2505
         for: per jaar
     list:
         - "gemiddelde opp: 170 m²"
@@ -37,12 +37,12 @@ Wenst u graag een extra groot perceel? Ga dan voor één van onze luxueuze plaat
 - onderhoud gras door Veld & Duin
 
 
-## Prijzen 2020
+## Prijzen 2021
 
 TYPE 3                |PRIJS           |
 :--------------------:|:--------------:|
-standplaatsvergoeding |€ 2455              
-gemeentetaks          |€ 413,40
+standplaatsvergoeding |€ 2505              
+gemeentetaks          |€ 421,88
 huisvuilbijdrage<br>incl 25 zakken<br> | € 80   
 [brandverzekering][pdf_brandverzekering.nl]     |afhankelijk van <br>waarde caravan
 
@@ -51,7 +51,7 @@ VERBRUIK ⑴           |PRIJS          |
 elektriciteit         | € 0,39 / kw        
 water                 | € 7,5 / m³  
 gas                   | € 6,85 / m³       
-tellervergoeding      | € 20 / teller
+tellervergoeding      | € 22 / teller
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven
 

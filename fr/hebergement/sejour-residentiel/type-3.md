@@ -4,7 +4,7 @@ title: Type 3
 preview: 
     title: Type 3
     button:
-        price: 2455
+        price: 2505
         for: par an
     list:
         - "surface moyenne : 170 m²"
@@ -36,12 +36,12 @@ Vous cherchez un grand emplacement? Optez pour l’un de nos emplacements de lux
 - entretien du gazon par Veld & Duin
 
 
-## Prix 2020
+## Prix 2021
 
 TYPE 3                |PRIX           |
 :--------------------:|:--------------:|
-indemnité de résidence par an |€ 2455            
-taxe communale                |€ 413,40
+indemnité de résidence par an |€ 2505            
+taxe communale                |€ 421,88
 déchets ménagers<br>incl 25 sacs poubelles<br> | € 80   
 [assurance incendie][pdf_brandverzekering.fr]     |selon la<br>valeur de la caravane
 
@@ -50,7 +50,7 @@ CONSOMMATION ⑴           |PRIX          |
 électricité           | € 0,39 / kw        
 eau                   | € 7,5 / m³
 gaz                   | € 6,85 / m³       
-compteur              | € 20 / compteur      
+compteur              | € 22 / compteur      
 
 ⑴ prix sous réserve de modifications des prix de l’énergie
 

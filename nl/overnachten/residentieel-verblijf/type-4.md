@@ -4,7 +4,7 @@ title: Type 4
 preview: 
     title: Type 4
     button:
-        price: 2860
+        price: 2915
         for: per jaar
     list:
         - "gemiddelde opp: 190 m²"
@@ -38,12 +38,12 @@ Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Ga 
 - onderhoud gras door Veld & Duin
 
 
-## Prijzen 2020
+## Prijzen 2021
 
 TYPE 4                |PRIJS           |
 :--------------------:|:--------------:|
-standplaatsvergoeding |€ 2860              
-gemeentetaks          |€ 413,40
+standplaatsvergoeding |€ 2915              
+gemeentetaks          |€ 421,88
 huisvuilbijdrage<br>incl 25 zakken<br> | € 80   
 [brandverzekering][pdf_brandverzekering.nl]     |afhankelijk van <br>waarde caravan
 
@@ -52,7 +52,7 @@ VERBRUIK ⑴           |PRIJS          |
 elektriciteit         | € 0,39 / kw        
 water                 | € 7,5 / m³  
 gas                   | € 6,85 / m³       
-tellervergoeding      | € 20 / teller
+tellervergoeding      | € 22 / teller
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven
 

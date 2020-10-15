@@ -4,7 +4,7 @@ title: Typ 2
 preview: 
     title: Typ 2
     button:
-        price: 2135
+        price: 2175
         for: pro Jahr
     list:
         - "Durchschnittl. Fläche: 120 m²"
@@ -38,12 +38,12 @@ Ein festes Zuhause an der Küste, in das man immer wieder zurückkehrt, wer trä
 - Graspflege von Veld & Duin
 
 
-## Preise 2020
+## Preise 2021
 
 TYP 2                                         |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
-Stellplatzkosten                         | € 2135         
-Gemeindesteuer                                   | € 413,40
+Stellplatzkosten                         | € 2175         
+Gemeindesteuer                                   | € 421,88
 Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 80    
  [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens / Chalets
 
@@ -52,7 +52,7 @@ VERBRAUCH ⑴           |PREIS          |
 Strom                 | € 0,39 / Kw        
 Wasser                | € 7,5 / m³
 Gas                   | € 6,85 / m³
-Zähler                | € 20 / Zähler
+Zähler                | € 22 / Zähler
 
 ⑴ Preis vorbehaltlich Änderungen der Energiepreise
 

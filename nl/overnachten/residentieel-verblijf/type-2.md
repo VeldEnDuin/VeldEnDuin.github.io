@@ -4,7 +4,7 @@ title: Type 2
 preview: 
     title: Type 2
     button:
-        price: 2135
+        price: 2175
         for: per jaar
     list:
         - "gemiddelde opp: 120 m²"
@@ -38,12 +38,12 @@ Een vaste stek aan de kust om steeds opnieuw naar terug te keren, wie droomt daa
 - onderhoud gras door Veld & Duin
 
 
-## Prijzen 2020
+## Prijzen 2021
 
 TYPE 2                |PRIJS           |
 :--------------------:|:--------------:|
-standplaatsvergoeding |€ 2135              
-gemeentetaks          |€ 413,40
+standplaatsvergoeding |€ 2175              
+gemeentetaks          |€ 421,88
 huisvuilbijdrage<br>incl 25 zakken<br> | € 80    
 [brandverzekering][pdf_brandverzekering.nl]      |afhankelijk van <br>waarde caravan / chalet
 
@@ -52,7 +52,7 @@ VERBRUIK ⑴           |PRIJS          |
 elektriciteit         | € 0,39 / kw        
 water                 | € 7,5 / m³  
 gas                   | € 6,85 / m³       
-tellervergoeding      | € 20 / teller
+tellervergoeding      | € 22 / teller
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven
 
