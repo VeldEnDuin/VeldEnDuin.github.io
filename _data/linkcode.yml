@@ -1,9 +1,4 @@
 # [0] gelinkt vanuit site-code...
-search:
-    nl:  /nl/zoeken.html
-    fr:  /fr/chercher.html
-    en:  /en/search.html
-    de:  /de/suchen.html
 contact:
     nl:  /contact.html
     fr:  /contact.html
