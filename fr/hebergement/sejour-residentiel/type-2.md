@@ -4,13 +4,13 @@ title: Type 2
 preview: 
     title: Type 2
     button:
-        price: 2070
-        for: par an
+        price: 2175
+        for: per an
     list:
-        - "surface moyenne : 100 m²"
-        - "emplacements à rénover"
-        - "hiver: arrivée d'eau coupée"
-        
+        - "surface moyenne : 120 m²"
+        - "emplacements rénovés"
+        - "accessible toute l’année"
+       
         
 images:
     - /img/overnachten/residentieel-type2/restyp2-01.jpg
@@ -18,39 +18,40 @@ images:
 insert:
     - page-images-top
     
-    
 ---
 
 {% include links.md %}
 
-# TYPE 2 - CARAVANE 
+# TYPE 2 - CARAVANE OU CHALET
 
-Venez-vous détendre dans votre caravane après une semaine de travail éreintante et rechargez vos batteries!
+Qui n’a jamais rêvé d’un pied-à-terre à la mer pour s’y rendre dès que l’envie vous prend? Réalisez votre rêve en ayant votre propre caravane ou chalet.
 
 
 ## Bon à savoir
 
-- ces emplacements seront prochainement rénovés - voir [nouveau projet][nieuw_project.fr]
-- compteur électrique - forfait pour l’eau
-- bonbonnes de gaz
-- pas de raccordement à l’eau en hiver – le bâtiment sanitaire reste accessible
+- emplacements rénovés
+- compteurs séparés pour le gaz – l’eau – l’électricité
+- réseau de gaz souterrain – pas de bonbonnes de gaz
+- raccordement à l’eau pendant l’hiver
+- prix comprenant [la télévision numérique et le wifi][pdf_tvwifi.fr] pour 4 appareils
+- entretien du gazon par Veld & Duin
 
 
-## Prix 2020
+## Prix 2021
 
-TYPE 2                |PRIX            |
+TYPE 2                |PRIX           |
 :--------------------:|:--------------:|
-indemnité de résidence par an |€ 2070             
-taxe communale                |€ 413,40
-déchets ménagers<br>incl 25 sacs poubelles<br> | € 80    
-[assurance incendie][pdf_brandverzekering.fr]     |selon la<br>valeur de la caravane
+indemnité de résidence par an |€ 2175              
+taxe communale                |€ 421,88 
+déchets ménagers<br>incl 25 sacs poubelles<br> | € 80   
+[assurance incendie][pdf_brandverzekering.fr]     |selon la<br>valeur de la caravane / chalet
 
-
-CONSOMMATION ⑴         |PRIX         |
+CONSOMMATION ⑴        |PRIX        |
 :--------------------:|:-------------:|
 électricité           | € 0,39 / kw        
-forfait eau           | € 80     
-compteur              | € 20   
+eau                   | € 7,5 / m³
+gaz                   | € 6,85 / m³       
+compteur              | € 22 / compteur  
 
 ⑴ prix sous réserve de modifications des prix de l’énergie
 

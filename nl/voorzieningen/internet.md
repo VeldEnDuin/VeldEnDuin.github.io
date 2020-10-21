@@ -49,4 +49,4 @@ Elk ticket is bruikbaar voor 1 toestel.
 
 Elke eigenaar van een caravan of chalet ontvangt jaarlijks bij de faktuur 4 toegangscodes voor het internet (inbegrepen in de standplaatsvergoeding). Deze codes zijn strikt persoonlijk en kunnen 4 toestellen (laptop, smartphone, smart tv, tablet,...) bedienen. 
 
-Met deze codes kunt u ofwel gebruik maken van het wifi-netwerk ofwel kiezen voor snel internet via de modem. Alle info hierover vindt u op de infofiche (verkrijgbaar aan de receptie).
+Met deze codes kunt u ofwel gebruik maken van het wifi-netwerk ofwel kiezen voor snel internet via de modem. Alle info hierover vindt u op de [infofiche][pdf_tvwifi.nl].

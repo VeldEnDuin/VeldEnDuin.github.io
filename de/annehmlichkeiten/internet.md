@@ -51,4 +51,4 @@ Jedes Ticket verbindet ein Gerät.
 
 Jeder Eigentümer erhält jedes Jahr bei der Rechnung 4  Internettickets (inbegriffen im Standgeld).  Diese Codes sind streng persönlich und können 4 Geräte (Laptop, Smartphone, Tablet) verbinden. 
 
-Mit diesen Codes können Sie entweder das WLAN-Netz nutzen oder sich für schnelles Internet über das Modem entscheiden. Alle Info hierüber finden Sie auf dem Infoblatt (erhältlich an der Rezeption). 
+Mit diesen Codes können Sie entweder das WLAN-Netz nutzen oder sich für schnelles Internet über das Modem entscheiden. Alle Info hierüber finden Sie auf dem [Infoblatt][pdf_tvwifi.de]. 

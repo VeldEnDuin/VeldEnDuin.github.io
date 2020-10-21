@@ -48,24 +48,21 @@
         - linkcode: type_2
         - linkcode: type_3
         - linkcode: type_4
-        - linkcode: type_5
-
 
     - linkcode: arrangementen
       submenu:
         - linkcode: arrangementen
         - linkcode: veld_duin_service
         - linkcode: kadobon
+        - linkcode: midweek
 
 
     - linkcode: te_koop
       submenu:
         - linkcode: te_koop
         - linkcode: b_21
-        - linkcode: b_54
-        - linkcode: c_22
         - linkcode: c_28
-        - linkcode: c_35
+        - linkcode: c_51
 
 
 - linkcode: voorzieningen

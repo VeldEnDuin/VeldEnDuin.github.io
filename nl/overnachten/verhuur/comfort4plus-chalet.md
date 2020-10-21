@@ -48,6 +48,9 @@ insert:
 
 Na een heerlijk dagje strand of een uitstapje in de buurt lonkt het overdekte terras (en de aperitief) om nog even terug te blikken of al plannen te maken voor de komende dagen. 
 
+## Goedkoopste prijs
+**Tip:** rechtstreeks boeken via onze site of per telefoon / mail is **10% goedkoper** dan via Booking of AirBnb.
+
 ## Inrichting chalet:
 - ruime woonkamer met flatscreen en digibox
 - ingerichte keuken met microgolf

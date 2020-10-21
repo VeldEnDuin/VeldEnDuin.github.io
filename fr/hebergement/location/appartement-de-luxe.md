@@ -43,6 +43,9 @@ insert:
 
 Situés au-dessus de la réception, ces nouveaux appartements luxueux offrent une vue imprenable sur les magnifiques parterres de fleur de l’entrée du camping.  
 
+## Prix le moins cher
+**Astuce:** réserver directement sur notre site ou par téléphone / e-mail coûte **10% moins cher** que via Booking ou AirBnb.
+
 ## Aménagement de l’appartement de luxe
 
 - grande salle de séjour avec écran plat et digibox

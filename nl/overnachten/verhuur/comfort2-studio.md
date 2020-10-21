@@ -39,6 +39,9 @@ insert:
 
 Even alleen komen uitwaaien of met z'n tweetjes? In deze studio is het heerlijk thuiskomen na een dagje genieten aan onze kust.
 
+## Goedkoopste prijs
+**Tip:** rechtstreeks boeken via onze site of per telefoon / mail is **10% goedkoper** dan via Booking of AirBnb.
+
 ## Inrichting studio
 
 - woonkamer met flatscreen en digibox

@@ -38,6 +38,9 @@ insert:
 
 Envie de vous ressourcer seul ou à deux? Vous vous sentirez comme à la maison dans ce confortable studio après une agréable journée à la côte.
 
+## Prix le moins cher
+**Astuce:** réserver directement sur notre site ou par téléphone / e-mail coûte **10% moins cher** que via Booking ou AirBnb.
+
 ## Aménagement du studio
 
 - grande salle de séjour avec écran plat et digibox

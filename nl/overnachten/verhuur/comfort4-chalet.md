@@ -49,6 +49,9 @@ insert:
 
 Deze chalets liggen vooraan op de camping en dicht bij het speelplein. Ideaal dus voor de kinderen om hun vriendjes steeds in de buurt te hebben.
 
+## Goedkoopste prijs
+**Tip:** rechtstreeks boeken via onze site of per telefoon / mail is **10% goedkoper** dan via Booking of AirBnb.
+
 ## Inrichting chalet
 
 - ruime woonkamer met flatscreen en digibox

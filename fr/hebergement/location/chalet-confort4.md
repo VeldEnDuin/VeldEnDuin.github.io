@@ -49,6 +49,9 @@ insert:
 
 Ces chalets sont situés à l’entrée du camping, à proximité du terrain de jeu. Les enfants ne sont ainsi jamais loin de leurs petits camarades.
 
+## Prix le moins cher
+**Astuce:** réserver directement sur notre site ou par téléphone / e-mail coûte **10% moins cher** que via Booking ou AirBnb.
+
 ## Aménagement du chalet
 
 - grande salle de séjour avec écran plat et digibox

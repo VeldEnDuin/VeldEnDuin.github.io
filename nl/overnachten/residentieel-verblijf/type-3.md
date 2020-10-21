@@ -4,17 +4,17 @@ title: Type 3
 preview: 
     title: Type 3
     button:
-        price: 2135
+        price: 2505
         for: per jaar
     list:
-        - "gemiddelde opp: 120 m²"
-        - "vernieuwde plaatsen"
+        - "gemiddelde opp: 170 m²"
+        - "luxeplaatsen"
         - "hele jaar toegankelijk"
-       
+        
         
 images:
     - /img/overnachten/residentieel-type3/restyp3-01.jpg
-    
+
 insert:
     - page-images-top
     
@@ -23,34 +23,35 @@ insert:
 
 {% include links.md %}
 
-# TYPE 3 - CARAVAN OF CHALET
+# Type 3 - CARAVAN
 
-Een vaste stek aan de kust om steeds opnieuw naar terug te keren, wie droomt daar niet van? Maak uw droom waar met een eigen caravan of chalet om heel vaak van te genieten.
-
+Wenst u graag een extra groot perceel? Ga dan voor één van onze luxueuze plaatsen en geniet van de extra ruimte.
 
 ## Goed om weten
 
-- vernieuwde plaatsen
+- betonplaat van 12x4 m - geschikt voor grote caravans
 - aparte tellers voor gas - water - elektriciteit
 - ondergronds gasnetwerk - geen gasflessen
 - wintervaste wateraansluiting
+- prijs inclusief [digitale tv en wifi][pdf_tvwifi.nl] voor 4 toestellen 
+- onderhoud gras door Veld & Duin
 
 
-## Prijzen 2020
+## Prijzen 2021
 
 TYPE 3                |PRIJS           |
 :--------------------:|:--------------:|
-standplaatsvergoeding |€ 2135              
-gemeentetaks          |€ 413,40
-huisvuilbijdrage<br>incl 25 zakken<br> | € 80    
-[brandverzekering][pdf_brandverzekering.nl]      |afhankelijk van <br>waarde caravan / chalet
+standplaatsvergoeding |€ 2505              
+gemeentetaks          |€ 421,88
+huisvuilbijdrage<br>incl 25 zakken<br> | € 80   
+[brandverzekering][pdf_brandverzekering.nl]     |afhankelijk van <br>waarde caravan
 
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
 elektriciteit         | € 0,39 / kw        
 water                 | € 7,5 / m³  
 gas                   | € 6,85 / m³       
-tellervergoeding      | € 20 / teller
+tellervergoeding      | € 22 / teller
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven
 

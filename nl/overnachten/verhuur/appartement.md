@@ -48,6 +48,9 @@ insert:
 
 De appartementen liggen net naast de camping. Zo geniet u van de ruimte van een appartement en kunt u tegelijk vrij gebruik maken van de voorzieningen op onze camping.
 
+## Goedkoopste prijs
+**Tip:** rechtstreeks boeken via onze site of per telefoon / mail is **10% goedkoper** dan via Booking of AirBnb.
+
 ## Inrichting appartement
 - ruime woonkamer met flatscreen en digibox
 - ingerichte keuken met microgolf

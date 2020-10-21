@@ -4,13 +4,13 @@ title: Typ 3
 preview: 
     title: Typ 3
     button:
-        price: 2135
+        price: 2505
         for: pro Jahr
     list:
-        - "Durchschnittl. Fläche: 120 m²"
-        - "renovierte Plätze"
+        - "Durchschnittl. Fläche: 170 m²"
+        - "Luxusplätze"
         - "ganzjährig zugänglich"
-       
+        
         
 images:
     - /img/overnachten/residentieel-type3/restyp3-01.jpg
@@ -23,34 +23,35 @@ insert:
 
 {% include links.md %}
 
-# TYP 3 - WOHNWAGEN ODER CHALET
+# Typ 3 – Wohnwagen
 
-Ein festes Zuhause an der Küste, in das man immer wieder zurückkehrt, wer träumt nicht davon? Machen Sie Ihren Traum mit einem eigenen Wohnwagen oder Chalet wahr, den oder das Sie häufig genießen können.
-
+Wünschen Sie eine besonders große Parzelle? Dann sollten Sie einen unserer Luxusplätze wählen und den zusätzlichen Platz genießen.
 
 ## Gut zu wissen:
 
-- renovierte Plätze
+- Betonplatte von 12 x 4 m – geeignet für große Wohnwagen
 - Getrennte Zähler für Gas, Wasser und Strom
 - Unterirdische Gasversorgung – keine Gasflaschen
 - Winterfester Wasseranschluss
+- Preis inklusive [Digital-TV und WLAN][pdf_tvwifi.de] für 4 Geräte
+- Graspflege von Veld & Duin
 
 
-## Preise 2020
+## Preise 2021 
 
-TYP 3                                         |PREIS                               |
+TYP 3                                          |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
-Stellplatzkosten                         | € 2135         
-Gemeindesteuer                                   | € 413,40
-Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 80    
- [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens / Chalets
+Stellplatzkosten                         | € 2505        
+Gemeindesteuer                                   | € 421,88
+Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 80  
+ [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens
 
 VERBRAUCH ⑴           |PREIS          |
 :--------------------:|:-------------:|
 Strom                 | € 0,39 / Kw        
 Wasser                | € 7,5 / m³
 Gas                   | € 6,85 / m³
-Zähler                | € 20 / Zähler
+Zähler                | € 22 / Zähler
 
 ⑴ Preis vorbehaltlich Änderungen der Energiepreise
 

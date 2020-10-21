@@ -51,5 +51,5 @@ One ticket per device.
 
 Each owner of a chalet or caravan receives 4 tickets each year with the invoice. These are included in the stand price. These codes are strictly personal and can connect 4 devices (laptop, smartphone, smart tv, tablet, ...)
 
-You can use these codes to connect to our wifi network or choose a fast connection using a modem. You can find all information on this on the infosheet (available at the reception).
+You can use these codes to connect to our wifi network or choose a fast connection using a modem. You can find all information on this on the [infosheet][pdf_tvwifi.en].
 

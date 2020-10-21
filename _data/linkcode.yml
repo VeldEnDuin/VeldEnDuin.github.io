@@ -245,11 +245,6 @@ type_4:
     fr: /fr/hebergement/sejour-residentiel/type-4.html
     de: /de/uebernachten/daueraufenthalt/typ-4.html
     en: /en/accomodation/residential-stay/type-4.html
-type_5:
-    nl: /nl/overnachten/residentieel-verblijf/type-5.html
-    fr: /fr/hebergement/sejour-residentiel/type-5.html
-    de: /de/uebernachten/daueraufenthalt/typ-5.html
-    en: /en/accomodation/residential-stay/type-5.html
 
 
 # [2.4] submenu overnachten -> arrangementen
@@ -263,6 +258,11 @@ kadobon:
     fr: /fr/hebergement/forfaits/cheque-cadeau.html
     de: /de/uebernachten/arrangements/geschenkgutschein.html
     en: /en/accomodation/offers/gift-voucher.html
+midweek:
+    nl: /nl/overnachten/arrangementen/midweekarrangement.html
+    fr: /fr/hebergement/forfaits/actionmisemaine.html
+    de: /de/uebernachten/arrangements/midweekangebot.html
+    en: /en/accomodation/offers/midweekpromotion.html
 
 # [2.5] submenu overnachten -> te koop
 te_koop:
@@ -275,26 +275,16 @@ b_21:
     fr: /fr/hebergement/a-vendre/b-21.html
     de: /de/uebernachten/zu-kaufen/b-21.html
     en: /en/accomodation/for-sale/b-21.html
-b_54:
-    nl: /nl/overnachten/te-koop/b-54.html
-    fr: /fr/hebergement/a-vendre/b-54.html
-    de: /de/uebernachten/zu-kaufen/b-54.html
-    en: /en/accomodation/for-sale/b-54.html
-c_22:
-    nl: /nl/overnachten/te-koop/c-22.html
-    fr: /fr/hebergement/a-vendre/c-22.html
-    de: /de/uebernachten/zu-kaufen/c-22.html
-    en: /en/accomodation/for-sale/c-22.html
 c_28:
     nl: /nl/overnachten/te-koop/c-28.html
     fr: /fr/hebergement/a-vendre/c-28.html
     de: /de/uebernachten/zu-kaufen/c-28.html
     en: /en/accomodation/for-sale/c-28.html
-c_35:
-    nl: /nl/overnachten/te-koop/c-35.html
-    fr: /fr/hebergement/a-vendre/c-35.html
-    de: /de/uebernachten/zu-kaufen/c-35.html
-    en: /en/accomodation/for-sale/c-35.html
+c_51:
+    nl: /nl/overnachten/te-koop/c-51.html
+    fr: /fr/hebergement/a-vendre/c-51.html
+    de: /de/uebernachten/zu-kaufen/c-51.html
+    en: /en/accomodation/for-sale/c-51.html
 
 
 # [3] menu - voorzieningen
@@ -409,14 +399,19 @@ pdf_mvo:
     de: /de/pdf/mvo-rapport.pdf
     en: /en/pdf/mvo-rapport.pdf
 pdf_brandverzekering:
-    nl: /nl/pdf/brandverzekering-polisvwen.pdf
-    fr: /fr/pdf/assuranceincendie-conditions.pdf
-    de: /de/pdf/brandversicherung-voraussetzungen.pdf
-    en: /en/pdf/fireinsurance-conditions.pdf
+    nl: /nl/pdf/brandverzekering.pdf
+    fr: /fr/pdf/assuranceincendie.pdf
+    de: /de/pdf/brandversicherung.pdf
+    en: /en/pdf/fireinsurance.pdf
 pdf_zomeranimatie:
     nl: /nl/pdf/animatie2016.pdf
     fr: /fr/pdf/animations2016.pdf
     de: /de/pdf/animation2016.pdf
+pdf_tvwifi:
+    nl: /nl/pdf/tvwifi.pdf
+    fr: /fr/pdf/tvwifi.pdf
+    de: /de/pdf/tvwifi.pdf
+    en: /en/pdf/tvwifi.pdf
 resainfoverhuur:
     nl: /files/nlresainfo-verhuur2019.pdf
     fr: /files/frresainfo-verhuur2019.pdf

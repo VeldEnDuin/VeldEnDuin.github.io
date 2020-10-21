@@ -41,6 +41,9 @@ insert:
 
 Deze mini-caravan met privé-tuintje is ideaal voor wie houdt van het buitenleven maar 's avonds toch graag z'n eigen potje kookt of een verkwikkende douche neemt.
 
+## Goedkoopste prijs
+**Tip:** rechtstreeks boeken via onze site of per telefoon / mail is **10% goedkoper** dan via Booking of AirBnb.
+
 ## Inrichting caravan
 - kleine woonruimte met tv en digibox
 - keuken met 2-pits kookvuur en kleine microgolf

@@ -4,7 +4,7 @@ title: Typ 4
 preview: 
     title: Typ 4
     button:
-        price: 2860
+        price: 2915
         for: pro Jahr
     list:
         - "Durchschnittl. Fläche: 190 m²"
@@ -34,14 +34,16 @@ Wünschen Sie eine besonders große Parzelle mit Blick auf das zentral gelegene 
 - Getrennte Zähler für Gas, Wasser und Strom
 - Unterirdische Gasversorgung – keine Gasflaschen
 - Winterfester Wasseranschluss
+- Preis inklusive [Digital-TV und WLAN][pdf_tvwifi.de] für 4 Geräte
+- Graspflege von Veld & Duin
 
 
-## Preise 2020
+## Preise 2021
 
-TYP 4                                         |PREIS                               |
+TYP 4                                          |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
-Stellplatzkosten                         | € 2860        
-Gemeindesteuer                                   | € 413,40
+Stellplatzkosten                         | € 2915        
+Gemeindesteuer                                   | € 421,88
 Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 80  
  [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens
 
@@ -50,7 +52,7 @@ VERBRAUCH ⑴           |PREIS          |
 Strom                 | € 0,39 / Kw        
 Wasser                | € 7,5 / m³
 Gas                   | € 6,85 / m³
-Zähler                | € 20 / Zähler
+Zähler                | € 22 / Zähler
 
 ⑴ Preis vorbehaltlich Änderungen der Energiepreise
 

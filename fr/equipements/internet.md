@@ -52,6 +52,6 @@ Un ticket par appareil.
 
 Chaque propriétaire reçoit 4 codes d’accès à Internet par an, annexés à la facture (inclus dans l'indemnité de résidence). Ces codes sont strictement personnels et connectent 4 appareils (ordinateur portable, smartphone, tablette).
 
-Ces codes vous permettent soit d’utiliser le réseau Wi-Fi, soit d’opter pour un Internet rapide via le modem. Vous trouvez toutes les informations sur la fiche d'info (disponible à la réception). 
+Ces codes vous permettent soit d’utiliser le réseau Wi-Fi, soit d’opter pour un Internet rapide via le modem. Vous trouvez toutes les informations sur la [fiche d'info][pdf_tvwifi.fr]. 
 
 

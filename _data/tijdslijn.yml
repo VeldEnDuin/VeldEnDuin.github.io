@@ -383,10 +383,10 @@ items:
       de: "Anlage Wadi"
       en: "Construction of wadi"
     description:
-      nl: "Er worden 7 luxueuze residentiële plaatsen rondom de wadi aangelegd die voor extra groenbeleving zorgen. Ook de kampeerautotoeristen kunnen hiervan meegenieten dankzij de 4 nieuwe plaatsen voor mobilhomes in diezelfde omgeving."
-      fr: "7 nouveaux emplacements résidentiels qui privilégient espace et proximité avec la nature sont construits autour du wadi. Aussi les campeurs peuvent ent profiter grâce aux 4 nouveaux emplacements pour mobilhomes à côté du wadi."
-      de: "7 neue residentielle Luxusplätze in grüner Umgebung werden um den Wadi herum angelegt. Auch Campinggänger mit Mobilheime und Caravans können hiervon genießen auf den 4 neuen Stellplätzen nebenan dem Wadi."
-      en: "7 new luxury residential pitches are created around the wadi, creating a green surrounding. Also campers with mobilhomes or caravans can enjoy this scenery from the 4 new camper pitches in the same area."
+      nl: "Er worden 7 luxueuze residentiële plaatsen aangelegd rond de wadi die zorgt voor extra groenbeleving."
+      fr: "Sept parcelles résidentielles luxueuses sont construites autour du wadi, ce qui offrira une expérience verte supplémentaire."
+      de: "Rund um das Wadi werden sieben luxuriöse Parzellen gebaut, die ein zusätzliches grünes Erlebnis bieten."
+      en: "Seven luxurious residential plots are built around the wadi, which will provide an additional green experience."
     images:
       - /img/tijdslijn/2016/wadi1.jpg
 
@@ -435,10 +435,10 @@ items:
       de: "Ausstellung ''Die Welt als Campingplatz''"
       en: "Exposition ''The world, a campsite''"
     description:
-      nl: "Onze ludieke tentoonstelling was een groot succes en trok vele bezoekers."
-      fr: "Notre exposition était un grand succès et attirait beacoup de monde."
-      de: "Unser Ausstellung war ein großer Erfolg und lockte viele Besucher an."
-      en: "Our exposition was a big success and attracted many visitors."
+      nl: "Ter gelegenheid van het jubileumjaar werd een ludieke tentoonstelling opgezet. Verschillende locaties hiervan kun je nu nog steeds bewonderen."
+      fr: "Une exposition ludique a été mise en place pour marquer l'année anniversaire. Vous pouvez toujours en admirer divers endroits."
+      de: "Zum Jubiläumsjahr wurde eine lustige Ausstellung eingerichtet. Sie können immer noch verschiedene Orte davon bewundern."
+      en: "A fun exhibition has been set up to mark the anniversary year. You can still admire various exhibits of the exhibition."
     images:
       - /img/tijdslijn/2017/tentoonstelling-01.jpg
       - /img/tijdslijn/2017/tentoonstelling-02.jpg
@@ -468,12 +468,17 @@ items:
       - /img/nieuws/20180925-toerismeprijzen-05.jpg
 
   - date: 2018-12-31
-    label: 2018 - 2019
+    label: 2018 - 2020
     title:
-      nl: "Aanleg 13 nieuwe percelen."
-      fr: "Aménagement de 13 nouvelles parcelles."
-      de: "Anlage 13 neuer Parzellen."
-      en: "Construction of 13 new spaces."
+      nl: "Nieuwe percelen en wadi."
+      fr: "Nouvelles parcelles et wadi."
+      de: "Neue Parzellen und Wadi."
+      en: "New plots and wadi."
+    description:
+      nl: "Er werden maar liefst 22 ruime percelen aangelegd en een extra wadi."
+      fr: "Pas moins de 22 parcelles spacieuses et un wadi supplémentaire ont été construites."
+      de: "Nicht weniger als 22 geräumige Parzellen und ein zusätzliches Wadi wurden gebaut"
+      en: "No less than 22 spacious plots and an additional wadi have been built."
     images:
       - /img/tijdslijn/2018/nieuwepercelen.jpg
 
