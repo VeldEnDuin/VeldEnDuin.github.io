@@ -4,7 +4,7 @@ title: Kampeerarrangement
 preview: 
     title: Kampeerarrangement
     button:
-        price: 330
+        price: 400
         for: per mnd
     list:
         - "80 m² plaatsen"
@@ -36,23 +36,21 @@ U hebt een maand of langer te spenderen? Bekijk dan de verschillende kampeerarra
 
 ## Prijzen
 
-PERIODE        | PRIJS 2020      
+PERIODE        | PRIJS 2021      
 :-------------:|:-----------:|
-april          |€ 330               
-mei            |€ 375                   
-juni           |€ 375       
-juli           |€ 670            
-augustus       |€ 670   
-september      |€ 375
-oktober        |€ 300
-november       |€ 300
-april-mei-juni |€ 715
-september-oktober-november|€ 715
+april - mei - juni | € 400 / maand                     
+juli - augustus | € 700 / maand               
+september - oktober - november | € 400 / maand
+1/4 - 30/6 | € 750 / 3 maanden
+1/9 - 30/11 | € 750 / 3 maanden
+1/1 - 31/8 | € 2175 
+1/4 - 31/8 | € 1995
 
 ## Inbegrepen
 
 - gemeente- en verblijfstaksen
 - parking 1 auto
+- vuilniszakken: 1 / week
 
 ## Niet inbegrepen
 
