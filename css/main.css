@@ -866,7 +866,6 @@ button.vd-callout-btn:hover {
     transform: scale(1.01, 1.01);
 }
 
-
 /* ===================================================================================
  * styling vd-horizontal accordeon sections
  *   -------------------------------------------------------------------------------
@@ -1090,6 +1089,52 @@ button.vd-callout-btn:hover {
 }
 
 
+
+/* ===================================================================================
+ * styling overlay display
+ *   -------------------------------------------------------------------------------
+ */
+.vd-display {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+    margin: auto;
+    background: rgba(255,255,255,0.8);
+    left: 0;
+    top: 0;
+    display: none;
+    padding: 1em;
+}
+
+.vd-display div.vd-flex-col,    
+.vd-display div.vd-flex-row {    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    flex-wrap: nowrap;
+}
+
+.vd-display div.vd-flex-col {    
+    flex-direction: column;
+    height: 100%;
+}
+.vd-display div.vd-flex-row {    
+    flex-direction: row;
+    flex-grow: 1;
+    width: 100%;
+}
+
+.vd-display img.vd-img-zoom {
+    cursor: zoom-out;
+}
+
+.vd-prev, .vd-next {
+    color: rgb(146, 200, 65);
+    font-size: 3em;
+    padding: 1em;
+}
 /* ===================================================================================
  * styling vd-news sections
  *   -------------------------------------------------------------------------------
@@ -1434,6 +1479,7 @@ a.vd-barelink, a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.
     margin-right: 2px;
     white-space: normal;
     display: inline-block;
+    cursor: zoom-in;
 }
 .vd-contact {
     font-size: 1.25em;

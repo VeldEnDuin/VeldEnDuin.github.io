@@ -459,7 +459,7 @@
             $prev.click(function () {nav(-1); });
             $next.click(function () {nav(+1); });
 
-            currentpos = $items.index($items.filter(".vctrl-current")) -1;
+            currentpos = $items.index($items.filter(".vctrl-current")) - 1;
             nav(currentpos);
             
             function repos() {
@@ -642,35 +642,38 @@
     });
 
     /*
-     * Enable album viewer
+     * Enable Zooming into images
      * =======================================================================
      */
     $(function () {
-
-        $('.vd-album').each(function () {
-            var data, gpid, albumspec, render, vwr, dims, thumbsize,
-                uplink, titles,
-                $album = $(this);
-
-            data = $album.data('album');
-            gpid = data['gp-id'];
-            albumspec = data['album-spec'];
-            render = data.render || "play";
-            dims = data.dimensions;
-            thumbsize = data.thumbsize || 100;
-            uplink = data.uplink || "/pics";
-            titles = data.titles || [];
-
-            vwr = $album.gpAlbumViewer({
-                "account": gpid,
-                "albumspec": albumspec,
-                "render": render,
-                "dimensions": dims,
-                "thumbsize": thumbsize,
-                "uplink": uplink,
-                "titles": titles,
-                "labels": TRANSL
-            })[0];
+        let $strip = $(".vd-img-strip");
+        let $imgs = $("img", $strip);
+        let $display = $("#display");
+        let $viewer = $("img", $display);
+        let $prev= $(".vd-prev", $display);
+        let $next= $(".vd-next", $display);
+        $('body').append($display);
+        let showingIndex = undefined;
+        function closeit() {
+            $display.hide();
+            showingIndex = undefined;
+        }
+        function showit(ndx) {
+            if (isNaN(ndx)) {
+                return closeit();
+            } //else
+            ndx = ndx % $imgs.length;
+            let $img = $imgs.eq(ndx)
+            let imgsrc = $img.attr('src');
+            showingIndex = ndx;
+            $viewer.attr('src', imgsrc);
+            $display.show();
+        }
+        $imgs.each(function(index) {
+            $(this).click(() => { showit(index); })
         });
+        $viewer.click(closeit);
+        $prev.click(() => { showit(showingIndex -1)})
+        $next.click(() => { showit(showingIndex +1)})
     });
 }(window.jQuery));
