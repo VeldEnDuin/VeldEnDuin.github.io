@@ -693,26 +693,31 @@
         if (imgs.length == 0) {
             return;
         } // else
+        
+        
         //randomize
         imgs = imgs
             .map((el) => ({sort: Math.random(), element: el}))
             .sort((a,b) => a.sort - b.sort)
             .map((wrap) => wrap.element);
+        
         //preload images
         imgs.forEach((imgurl) => {
             let img = new Image();
             img.src = imgurl;
         });
+        
         //regularly rotate
         let showNdx = 0;
         function showNext() {
             showNdx = (showNdx +1) % imgs.length;
             let url = imgs[showNdx];
             $banner.css('background-image', `url('${url}')`);
-            console.log("ndx", showNdx, "url", url);
         }
-        $banner.click(showNext);
         setInterval(showNext, 7000);
+        
+        // allow forced interaction
+        $banner.click(showNext);
     });
     
 }(window.jQuery));

@@ -57,14 +57,18 @@
       </nav>
     {% if page.insert contains 'banner' %}
         {% assign bannerimg = '/img/style/banner.jpg' %}
+        {% if site.bannerimg %}
+            {% assign bannerimg = site.bannerimg %}
+        {% endif %}
         {% if page.bannerimg %}
-            {% if page.bannerimg.first %}
-                {% assign bannerimg = page.bannerimg.first %}
-                {% assign bannerdata = page.bannerimg  | jsonify %}
-            {% else %} 
-                {% assign bannerimg = page.bannerimg %}
-                {% assign bannerdata = '[]' %}
-            {%endif%}
+            {% assign bannerimg = page.bannerimg %}
+        {% endif %}
+        
+        {% if bannerimg.first %}
+            {% assign bannerdata = bannerimg  | jsonify %}
+            {% assign bannerimg = bannerimg.first %}
+        {% else %} 
+            {% assign bannerdata = '[]' %}
         {%endif%}
       <div id="vd-banner"
           class="vd-banner hidden-sm hidden-xs"
