@@ -57,9 +57,19 @@
       </nav>
     {% if page.insert contains 'banner' %}
         {% assign bannerimg = '/img/style/banner.jpg' %}
-        {% if page.bannerimg %}{% assign bannerimg = page.bannerimg %}{%endif%}
-      <div class="vd-banner hidden-sm hidden-xs"
+        {% if page.bannerimg %}
+            {% if page.bannerimg.first %}
+                {% assign bannerimg = page.bannerimg.first %}
+                {% assign bannerdata = page.bannerimg  | jsonify %}
+            {% else %} 
+                {% assign bannerimg = page.bannerimg %}
+                {% assign bannerdata = '[]' %}
+            {%endif%}
+        {%endif%}
+      <div id="vd-banner"
+          class="vd-banner hidden-sm hidden-xs"
           style="background-image: url('{{bannerimg}}');"
+          data-banners='{{bannerdata}}'
       >
         {%if page.insert contains 'booking' or lvl2.booking_form_group %}
         <div class="container-fluid push-down"><div class="row">
