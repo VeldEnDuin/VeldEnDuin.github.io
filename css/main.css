@@ -1128,6 +1128,7 @@ button.vd-callout-btn:hover {
 
 .vd-display img.vd-img-zoom {
     cursor: zoom-out;
+    max-width: 80%;
 }
 
 .vd-prev, .vd-next {
@@ -1367,20 +1368,21 @@ button.vd-callout-btn:hover {
 }
 
 .vd-nav ul.nav-pills>li:first-child>a {
-    background-color: #4f5137;
+    background-color: rgb(212,71,39);;
     color: #eee;
 }
 
 .vd-nav ul.nav-pills>li:first-child, .vd-nav ul.nav-pills>li:last-child  {
     padding-bottom: 1em;
     margin-bottom: 1em;
-    border-bottom: 1px dashed #4f5137;
+    border-bottom: 1px dashed rgb(212,71,39);;
 }
+
 .vd-nav ul.nav-pills>li>a:hover {
-    background-color: #B8BA8A;
+    background-color: rgb(240,197,31);
 }
 .vd-nav ul.nav-pills>li.active>a {
-    background-color: #8fb742;
+    background-color: rgb(146, 200, 65);
 }
 .vd-nav ul.nav-pills>li:first-child {
 
