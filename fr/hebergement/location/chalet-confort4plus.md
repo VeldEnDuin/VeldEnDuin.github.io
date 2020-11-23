@@ -4,7 +4,7 @@ title: Chalet Confort 4 Plus
 preview: 
     title: Chalet confort 4 +
     button:
-        price: 124
+        price: 126
         for: 2 nuits
     list:
         - "4 personnes"
@@ -73,11 +73,11 @@ De retour d’une agréable journée à la plage ou d’une balade dans les envi
 - la caution est restituée au départ si le chalet a été bien nettoyée et si elle se trouve dans un bon état
 
 ## Que faut-il emporter?
-Outre vos affaires personnelles, vous devez emporter votre linge de bain et votre linge de lit.
+Outre vos affaires personnelles, vous devez emporter vos propres serviettes, torchons et linge de lit.
 Le linge de lit peut être loué au camping.
 
 ## Inclus
-- internet pour 2 appareils
+- wifi
 - parking 1 voiture
 - consommation gaz - eau - électricité 
 - **exception** forfait pour les frais énergétiques 15/12 - 15/01: € 10 / nuit
@@ -88,14 +88,13 @@ SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
 nettoyage           | € 45 - le locataire est autorisé à faire le nettoyage lui-même
 chien               | € 4 / nuit - max 2
-draps               | € 9 / lit
+draps               | € 10 / lit double - € 9 / lit simple
 lit d'enfant        | € 2 / nuit
 chaise haute        | € 2 / nuit
 parking voiture supplémentaire  | € 4 / jour entamé
 [emplacement vélo][fietsberging.fr]| € 2 / vélo / nuit
 [sauna][sauna.fr]   | € 30
-[internet][internet.fr]| prix en fonction de la durée de connexion
-[service Veld & Duin][veld_duin_service.fr]| € 70
+
 
 
 ## Plan du camping

@@ -9,7 +9,7 @@
 SUPPLÉMENTS           | PRIX 
 :------------------|:-----------|
 jeton douche      | € 1 / jeton
-chien          | € 4 / nuit - max 2 
+chien          | € 2 / nuit - max 2 
 parking voiture supplémentaire | € 4 / jour entamé
 [emplacement vélo][fietsberging.fr]| € 2 / vélo / nuit
 [sauna][sauna.fr]| € 30
