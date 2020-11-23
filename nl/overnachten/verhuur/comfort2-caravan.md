@@ -76,7 +76,7 @@ EXTRA               | PRIJS
 :-------------------|:-----------|
 schoonmaak          | € 45 - zelf schoonmaken kan
 hond                | € 4 / nacht - max 1
-lakenpakket         | € 10 / dubbelbed - € 9 / enkel bed 
+lakenpakket         | € 10 / dubbelbed
 kinderbed           | € 2 / nacht
 kinderstoel         | € 2 / nacht
 parking extra auto  | € 4 / begonnen dag

@@ -79,7 +79,7 @@ EXTRA SERVICE            | PRICE
 :-------------------|:-----------|
 cleaning          | € 45 - final cleaning by tenants is allowed
 dogs               | € 4 / night - max 1
-bed linen        | € 10 / double bed - € 9 / single bed
+bed linen        | € 10 / double bed
 baby cot          | € 2 / night
 baby chair         | € 2 / night
 parking place extra car  | € 4 / started day

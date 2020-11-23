@@ -4,7 +4,7 @@ title: Zeltplatz 7x8
 preview: 
     title: Zeltplatz 7x8
     button:
-        price: 20
+        price: 17
         for: pro Nacht 
     list:
         - "Abmessungen: 7x8 Meter"
@@ -38,19 +38,29 @@ Diese Plätze von 7x8 Metern sind ideal für Ihr kleines (Wurf-)Zelt.
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
 - Kein Zugang in folgenden Zeiträumen 15/01 - 01/03 und 15/11 - 15/12
 
-## Preise 2020
+## Preise 2021 pro Nacht
 
-ANZAHL PERSONEN | PREIS / NACHT     
-:-------------:|:-----------:|
-1 Person       |€ 20           
-2 Personen     |€ 23                   
-3 Personen     |€ 26      
-4 Personen     |€ 29            
-      
+ANZAHL PERSONEN | NEBENSAISON | HOCHSAISON      
+:-------------:|:-----------:|:-----------:|
+1 Person       |€ 17         |€ 20       
+2 Personen     |€ 20         |€ 23           
+3 Personen     |€ 23         |€ 26 
+4 Personen     |€ 26         |€ 29     
+
 
 15.7. bis 15.8.: Reservierung ab 7 Nächten
 
+Hochsaison: Juli - August - verlängerte Wochenenden
+
+
 {% include de/kurzzeitcamper-reuse.md %}
+
+
+## Arrangements Nebensaison
+
+Rabatte:
+- Aufenthalt ≥ 7 Nächte: -7%
+- Aufenthalt ≥ 10 Nächte: -10%
 
 ## Plan Campingplatz
 

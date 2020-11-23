@@ -78,7 +78,7 @@ SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
 nettoyage           | € 45 - le locataire est autorisé à faire le nettoyage lui-même
 chien               | € 4 / nuit - max 1
-draps               | € 10 / lit double - € 9 / lit simple
+draps               | € 10 / lit double
 lit d'enfant        | € 2 / nuit
 chaise haute        | € 2 / nuit
 parking voiture supplémentaire  | € 4 / jour entamé

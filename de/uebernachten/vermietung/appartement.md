@@ -4,7 +4,7 @@ title: Appartement Comfort 4 Plus
 preview: 
     title: Appartement Comfort 4+
     button:
-        price: 124
+        price: 126
         for: 2 Nächte
     list:
         - "4-5 Personen"
@@ -75,11 +75,11 @@ Die Appartements liegen neben dem Campingplatz. So genießen Sie den Platz eines
 - Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
 
 ## Was Sie mitbringen müssen
-Neben Ihren persönlichen Dingen müssen Sie noch Handtücher und Bettbezüge mitbringen.
+Neben Ihren persönlichen Dingen müssen Sie noch Handtücher, Küchenhandtücher und Bettbezüge mitbringen.
 Bettbezüge können Sie auch bei uns mieten.
 
 ## Inbegriffen
-- Internet für 2 Geräte
+- W-lan
 - Parkplatz für 1 Auto
 - Verbrauch von Wasser und Strom
 - **Ausnahme** Energiekostenpauschale 15/12 - 15/01: € 10 / Nacht
@@ -89,13 +89,11 @@ Bettbezüge können Sie auch bei uns mieten.
 EXTRA               | PREIS 
 :-------------------|:-----------|
 Reinigung          | € 45 - selbst reinigen ist gestattet
-Betttuchpaket         | € 9 / Bett
+Betttuchpaket         | € 10 / Doppelbett - € 9 / Einzelbett
 Kinderbett           | € 2 / Nacht
 Kinderstuhl         | € 2 / Nacht
 Parkplatz extra Auto  | € 4 / angefangenem Tag
 [Sauna][sauna.de]   | € 30
-[Internet][internet.de]| abhängig von der Zeit online
-[Veld & Duin Service][veld_duin_service.de]| € 70
 
 
 ## Plan Campingplatz
