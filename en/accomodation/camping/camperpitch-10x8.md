@@ -52,14 +52,16 @@ NUMBER OF PERSONS | LOW SEASON | HIGH SEASON
 
 High season: July - August - long weekends
 
-{% include en/hiker-reuse.md %}
-
-
 ## Arrangements low season
 
 Discounts:
 - Stay ≥ 7 nights: -7%
 - Stay ≥ 10 nights: -10%
+
+{% include en/hiker-reuse.md %}
+
+
+
 
 ## Plan campsite
 

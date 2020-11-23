@@ -52,13 +52,16 @@ AANTAL PERSONEN | LAAGSEIZOEN | HOOGSEIZOEN
 
 Hoogseizoen: juli - augustus - verlengde weekends
 
-{% include nl/trekker-reuse.md %}
-
 ## Arrangementen laagseizoen
 
 Kortingen:
 - verblijf ≥ 7 nachten: -7%
 - verblijf ≥ 10 nachten: -10%
+
+
+{% include nl/trekker-reuse.md %}
+
+
 
 ## Plan camping
 

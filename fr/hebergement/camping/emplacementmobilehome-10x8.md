@@ -51,13 +51,15 @@ NOMBRE DE PERSONNES |BASSE SAISON |HAUTE SAISON
 
 Haute saison: juillet - août - week-ends prolongés
 
-{% include fr/camping-reuse.md %}
-
 ## Forfaits Basse Saison
 
 Réductions:
 - séjour ≥ 7 nuits: -7%
 - séjour ≥ 10 nuits: -10%
+
+{% include fr/camping-reuse.md %}
+
+
 
 ## Plan camping
 

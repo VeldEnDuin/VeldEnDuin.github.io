@@ -52,15 +52,16 @@ ANZAHL PERSONEN | NEBENSAISON | HOCHSAISON
 
 Hochsaison: Juli - August - verlängerte Wochenenden
 
-
-{% include de/kurzzeitcamper-reuse.md %}
-
-
 ## Arrangements Nebensaison
 
 Rabatte:
 - Aufenthalt ≥ 7 Nächte: -7%
 - Aufenthalt ≥ 10 Nächte: -10%
+
+{% include de/kurzzeitcamper-reuse.md %}
+
+
+
 
 ## Plan Campingplatz
 
