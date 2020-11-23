@@ -4,7 +4,7 @@ title: Chalet Comfort 4 Plus
 preview: 
     title: Chalet comfort 4 +
     button:
-        price: 124
+        price: 126
         for: 2 nights
     list:
         - "4 persons"
@@ -73,11 +73,11 @@ Sit down and relax. Have a glass of wine on the terrace of your chalet after a l
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
 
 ## Things to bring along
-Besides your personal belongings you need to bring along towels and bed linen.
+Besides your personal belongings you need to bring along towels, kitchen towels and bed linen.
 Bed linen can also be rented at the reception.
 
 ## included
-- internet for 2 devices
+- wifi
 - parking 1 car
 - consumption gas - water - electricity
 - **exception** flat-rate energy cost 15/12 - 15/01: € 10 / night
@@ -88,15 +88,12 @@ EXTRA SERVICE               | PRICE
 :-------------------|:-----------|
 cleaning          | € 45 - final cleaning by tenants is allowed
 dogs               | € 4 / night - max 2
-bed linen        | € 9 / bed
+bed linen        | € 10 / double bed - € 9 / single bed
 baby cot          | € 2 / night
 baby chair         | € 2 / night
 parking place extra car  | € 4 / started day
 [bicycle shed][fietsberging.en]| € 2 / bike / night
 [sauna][sauna.en]   | € 30
-[internet][internet.en]| depending on time online
-[Veld & Duin service][veld_duin_service.en]| € 70
-
 
 ## Plan campsite
 

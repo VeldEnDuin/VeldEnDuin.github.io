@@ -4,7 +4,7 @@ title: Studio Comfort 2
 preview: 
     title: Studio Comfort 2
     button:
-        price: 100
+        price: 102
         for: 2 nights
     list:
         - "cosiness for 2"
@@ -62,11 +62,11 @@ Need a break, just for the two of you? Make yourself at home in this cosy studio
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
 
 ## Things to bring along
-Besides your personal belongings you need to bring along towels and bed linen.
+Besides your personal belongings you need to bring along towels, kitchen towels and bed linen.
 Bed linen can also be rented at the reception.
 
 ## Included
-- internet for 2 devices
+- wifi
 - parking 1 car
 - consumption gas-water-electricity 
 
@@ -77,14 +77,12 @@ EXTRA SERVICE            | PRICE
 :-------------------|:-----------|
 cleaning          | € 45 - final cleaning by tenants is allowed
 dogs               | € 4 / night - max 1
-bed linen        | € 9 / bed
+bed linen        | € 10 / double bed - € 9 / single bed
 baby cot          | € 2 / night
 baby chair         | € 2 / night
 parking place extra car  | € 4 / started day
 [bicycle shed][fietsberging.en]| € 2 / bike / night
 [sauna][sauna.en]   | € 30
-[internet][internet.en]| depending on time online
-[Veld & Duin service][veld_duin_service.en]| € 50
 
 
 ## Plan campsite

@@ -4,7 +4,7 @@ title: Tent pitch 7x8
 preview: 
     title: Tent pitch 7x8
     button:
-        price: 20
+        price: 17
         for: per night     
     list:
         - "7x8 m"
@@ -39,19 +39,28 @@ These pitches of 7x8 m are convenient for small (self-constructing) tents.
 - dogs allowed - max 2 – no dangerous breeds
 - not accessible between 15/01 - 01/03 and 15/11 - 15/12
 
-## Prices 2020
+## Prices 2021 per night
 
-NUMBER OF PERSONS | PRICE / NIGHT     
-:-------------:|:-----------:|
-1 person      |€ 20            
-2 persons     |€ 23                   
-3 persons     |€ 26      
-4 persons     |€ 29            
-      
+NUMBER OF PERSONS | LOW SEASON | HIGH SEASON      
+:-------------:|:-----------:|:-----------:|
+1 person      |€ 17          |€ 20     
+2 persons     |€ 20          |€ 23         
+3 persons     |€ 23          |€ 26
+4 persons     |€ 26          |€ 29   
 
-15/7 - 15/8: upon reservation as from 7 nights
+
+15/7 - 15/8: reservations as from 7 nights only
+
+High season: July - August - long weekends
 
 {% include en/hiker-reuse.md %}
+
+
+## Arrangements low season
+
+Discounts:
+- Stay ≥ 7 nights: -7%
+- Stay ≥ 10 nights: -10%
 
 ## Plan campsite
 

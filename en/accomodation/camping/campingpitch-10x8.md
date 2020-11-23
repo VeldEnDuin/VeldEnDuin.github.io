@@ -4,7 +4,7 @@ title: Camping pitch 10x8
 preview: 
     title: Camping pitch 10x8
     button:
-        price: 22
+        price: 19
         for: per night
     list:
         - "80m² pitches"
@@ -36,21 +36,29 @@ Combine the freedom of travelling with a caravan with the comfort of our campsit
 - dogs allowed - max 2 – no dangerous breeds
 - not accessible between 15/01 - 01/03 and 15/11 - 15/12
 
-## Prices 2020
+## Prices 2021 per night
 
-NUMBER OF PERSONS | PRICE / NIGHT     
-:-------------:|:-----------:|
-1 person      |€ 22               
-2 persons     |€ 25                   
-3 persons     |€ 28       
-4 persons     |€ 31             
-5 persons     |€ 34
-6 persons     |€ 37
+NUMBER OF PERSONS | LOW SEASON | HIGH SEASON      
+:-------------:|:-----------:|:-----------:|
+1 person      |€ 19          |€ 23     
+2 persons     |€ 22          |€ 26         
+3 persons     |€ 25          |€ 29
+4 persons     |€ 28          |€ 32   
+5 persons     |€ 31          |€ 35
+6 persons     |€ 34          |€ 38
 
 15/7 - 15/8: upon reservation as from 7 nights
 
+High season: July - August - long weekends
 
 {% include en/hiker-reuse.md %}
+
+
+## Arrangements low season
+
+Discounts:
+- Stay ≥ 7 nights: -7%
+- Stay ≥ 10 nights: -10%
 
 
 ## Plan campsite
