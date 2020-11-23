@@ -4,7 +4,7 @@ title: Tentplaats 7x8
 preview: 
     title: Tentplaats 7x8
     button:
-        price: 20
+        price: 17
         for: per nacht
     list:
         - "afmetingen: 7x8 meter"
@@ -39,19 +39,27 @@ Deze plaatsen van 7x8 meter zijn ideaal voor uw kleine (werp)tentje.
 - honden toegelaten - max 2 - geen gevaarlijke rassen
 - niet toegankelijk  tussen 15/01 - 01/03 en 15/11 - 15/12
 
-## Prijzen 2020
+## Prijzen 2021 per nacht
+ 
+AANTAL PERSONEN | LAAGSEIZOEN | HOOGSEIZOEN      
+:-------------:|:-----------:|:-----------:|
+1 persoon      |€ 17         |€ 20    
+2 personen     |€ 20         |€ 23          
+3 personen     |€ 23         |€ 26
+4 personen     |€ 26         |€ 29    
 
-AANTAL PERSONEN | PRIJS / NACHT     
-:-------------:|:-----------:|
-1 persoon      |€ 20             
-2 personen     |€ 23                   
-3 personen     |€ 26      
-4 personen     |€ 29            
-      
 
 15/7 - 15/8: reservatie vanaf 7 nachten
 
+Hoogseizoen: juli - augustus - verlengde weekends
+
 {% include nl/trekker-reuse.md %}
+
+## Arrangementen laagseizoen
+
+Kortingen:
+- verblijf ≥ 7 nachten: -7%
+- verblijf ≥ 10 nachten: -10%
 
 ## Plan camping
 

@@ -4,7 +4,7 @@ title: Mobilhomeplaats 10x8
 preview: 
     title: Mobilhomeplaats 10x8
     button:
-        price: 22
+        price: 19
         for: per nacht
     list:
         - "afmetingen verharding: 8x3 m"
@@ -37,21 +37,29 @@ Combineer de vrijheid van het reizen met een mobilhome met het comfort van onze 
 - honden toegelaten: max 2 - geen gevaarlijke rassen
 - niet toegankelijk  tussen 15/01 - 01/03 en 15/11 - 15/12
 
-## Prijzen 2020
-
-AANTAL PERSONEN | PRIJS / NACHT      
-:-------------:|:-----------:|
-1 persoon      |€ 22              
-2 personen     |€ 25                   
-3 personen     |€ 28       
-4 personen     |€ 31             
-5 personen     |€ 34 
-6 personen     |€ 37 
+## Prijzen 2021 per nacht
+ 
+AANTAL PERSONEN | LAAGSEIZOEN | HOOGSEIZOEN      
+:-------------:|:-----------:|:-----------:|
+1 persoon      |€ 19         |€ 23     
+2 personen     |€ 22         |€ 26          
+3 personen     |€ 25         |€ 29
+4 personen     |€ 28         |€ 32    
+5 personen     |€ 31         |€ 35
+6 personen     |€ 34         |€ 38
 
 15/7 - 15/8: reservatie vanaf 7 nachten
 
+Hoogseizoen: juli - augustus - verlengde weekends
 
 {% include nl/trekker-reuse.md %}
+
+## Arrangementen laagseizoen
+
+Kortingen:
+- verblijf ≥ 7 nachten: -7%
+- verblijf ≥ 10 nachten: -10%
+
 
 
 ## Plan camping

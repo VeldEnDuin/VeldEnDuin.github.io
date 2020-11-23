@@ -258,11 +258,6 @@ type_4:
 
 
 # [2.4] submenu overnachten -> arrangementen
-veld_duin_service:
-    nl: /nl/overnachten/arrangementen/veld-en-duin-service.html
-    fr: /fr/hebergement/forfaits/service-veld-en-duin.html
-    de: /de/uebernachten/arrangements/veld-en-duin-service.html
-    en: /en/accomodation/offers/veld-en-duin-service.html
 kadobon:
     nl: /nl/overnachten/arrangementen/kadobon.html
     fr: /fr/hebergement/forfaits/cheque-cadeau.html
