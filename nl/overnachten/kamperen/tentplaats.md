@@ -46,7 +46,6 @@ De plaatsen van 10x8 meter zijn geschikt voor grotere familietenten.
 - niet toegankelijk  tussen 15/01 - 01/03 en 15/11 - 15/12
 
 
-
 ## Prijzen 2021 per nacht
 
 ### Tentplaats 7x8
