@@ -198,11 +198,11 @@ trekkers_arrangement:
     fr:  /fr/hebergement/camping/forfait-camping.html
     de:  /de/uebernachten/camping/campingarrangement.html
     en:  /en/accomodation/camping/campers-offer.html
-trekkers_lang:
-    nl:  /nl/overnachten/kamperen/lang-verblijf.html
-    fr:  /fr/hebergement/camping/longs-sejours.html
-    de:  /de/uebernachten/camping/jahresplatz.html
-    en:  /en/accomodation/camping/long-stay.html
+#trekkers_lang:
+#    nl:  /nl/overnachten/kamperen/lang-verblijf.html
+#    fr:  /fr/hebergement/camping/longs-sejours.html
+#    de:  /de/uebernachten/camping/jahresplatz.html
+#    en:  /en/accomodation/camping/long-stay.html
 trekkers_tent7x8:
     nl:  /nl/overnachten/kamperen/tentplaats-7x8.html
     fr:  /fr/hebergement/camping/emplacementtente-7x8.html
