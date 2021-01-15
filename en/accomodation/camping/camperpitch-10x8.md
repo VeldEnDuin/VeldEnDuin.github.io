@@ -12,11 +12,17 @@ preview:
         - "service station"
         - "sanitary block nearby"
 images:
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-01.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-02.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-03.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-04.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-05.jpg
+    - /img/overnachten/trekkers-mob-10x8/mob10x8-01.jpg
+    - /img/overnachten/trekkers-mob-10x8/mob10x8-02.jpg
+    - /img/overnachten/trekkers-mob-10x8/mob10x8-03.jpg
+    - /img/overnachten/trekkers-mob-10x8/mob10x8-04.jpg
+    - /img/overnachten/trekkers-mob-10x8/mob10x8-05.jpg
+    - /img/overnachten/trekkers-mob-10x8/mob10x8-06.jpg
+    - /img/overnachten/trekkers-mob-10x8/mob10x8-07.jpg
+    - /img/overnachten/trekkers-mob-10x8/mob10x8-08.jpg
+    - /img/overnachten/trekkers-mob-10x8/mob10x8-09.jpg
+    - /img/overnachten/trekkers-mob-10x8/mob10x8-10.jpg
+    - /img/overnachten/trekkers-mob-10x8/mob10x8-11.jpg
     
     
     

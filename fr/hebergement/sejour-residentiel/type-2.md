@@ -14,6 +14,16 @@ preview:
         
 images:
     - /img/overnachten/residentieel-type2/restyp2-01.jpg
+    - /img/overnachten/residentieel-type2/restyp2-02.jpg
+    - /img/overnachten/residentieel-type2/restyp2-03.jpg
+    - /img/overnachten/residentieel-type2/restyp2-04.jpg
+    - /img/overnachten/residentieel-type2/restyp2-05.jpg
+    - /img/overnachten/residentieel-type2/restyp2-06.jpg
+    - /img/overnachten/residentieel-type2/restyp2-07.jpg
+    - /img/overnachten/residentieel-type2/restyp2-08.jpg
+    - /img/overnachten/residentieel-type2/restyp2-09.jpg
+    - /img/overnachten/residentieel-type2/restyp2-10.jpg
+    - /img/overnachten/residentieel-type2/restyp2-11.jpg
     
 insert:
     - page-images-top
