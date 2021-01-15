@@ -12,8 +12,8 @@ preview:
         - "near the playground"
         - "dogs admitted"
 images:
-    - /img/overnachten/verhuring-C4-chalet/c4ch-02.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-01.jpg
+    - /img/overnachten/verhuring-C4-chalet/c4ch-02.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-03.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-04.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-05.jpg
@@ -27,14 +27,6 @@ images:
     - /img/overnachten/verhuring-C4-chalet/c4ch-13.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-14.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-15.jpg
-    - /img/overnachten/verhuring-C4-chalet/c4ch-16.jpg
-    - /img/overnachten/verhuring-C4-chalet/c4ch-17.jpg
-    - /img/overnachten/verhuring-C4-chalet/c4ch-18.jpg
-    - /img/overnachten/verhuring-C4-chalet/c4ch-19.jpg
-    - /img/overnachten/verhuring-C4-chalet/c4ch-20.jpg
-    - /img/overnachten/verhuring-C4-chalet/c4ch-21.jpg
-    - /img/overnachten/verhuring-C4-chalet/c4ch-22.jpg
-    - /img/overnachten/verhuring-C4-chalet/c4ch-23.jpg
     
     
     

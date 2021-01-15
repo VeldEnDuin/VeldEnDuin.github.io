@@ -28,7 +28,7 @@ images:
     - /img/overnachten/verhuring-luxe-appartement/lx-12.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-13.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-14.jpg
-    - /img/overnachten/verhuring-luxe-appartement/lx-15.jpg
+ 
     
     
 

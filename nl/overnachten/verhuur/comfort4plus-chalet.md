@@ -30,9 +30,6 @@ images:
     - /img/overnachten/verhuring-C4pl-chalet/c4plch-15.jpg
     - /img/overnachten/verhuring-C4pl-chalet/c4plch-16.jpg
     - /img/overnachten/verhuring-C4pl-chalet/c4plch-17.jpg
-    - /img/overnachten/verhuring-C4pl-chalet/c4plch-18.jpg
-    - /img/overnachten/verhuring-C4pl-chalet/c4plch-19.jpg
-    - /img/overnachten/verhuring-C4pl-chalet/c4plch-20.jpg
     
     
     

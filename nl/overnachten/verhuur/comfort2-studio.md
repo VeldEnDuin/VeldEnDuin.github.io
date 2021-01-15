@@ -25,6 +25,8 @@ images:
     - /img/overnachten/verhuring-C2-studio/c2s-08.jpg
     - /img/overnachten/verhuring-C2-studio/c2s-09.jpg
     - /img/overnachten/verhuring-C2-studio/c2s-10.jpg
+    - /img/overnachten/verhuring-C2-studio/c2s-11.jpg
+    - /img/overnachten/verhuring-C2-studio/c2s-12.jpg
     
     
     

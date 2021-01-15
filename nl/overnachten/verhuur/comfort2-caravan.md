@@ -15,9 +15,9 @@ preview:
    
 
 images:
-    - /img/overnachten/verhuring-C2-caravan/c2c-03.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-01.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-02.jpg
+    - /img/overnachten/verhuring-C2-caravan/c2c-03.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-04.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-05.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-06.jpg
@@ -26,7 +26,6 @@ images:
     - /img/overnachten/verhuring-C2-caravan/c2c-09.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-10.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-11.jpg
-    - /img/overnachten/verhuring-C2-caravan/c2c-12.jpg
     
     
     
