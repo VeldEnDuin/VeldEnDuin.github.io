@@ -10,6 +10,9 @@ images:
     - /img/hierstaanwevoor/groen/groen-05.jpg
     - /img/hierstaanwevoor/groen/groen-06.jpg
     - /img/hierstaanwevoor/groen/groen-07.jpg
+    - /img/hierstaanwevoor/groen/groen-08.jpg
+    - /img/hierstaanwevoor/groen/groen-09.jpg
+    - /img/hierstaanwevoor/groen/groen-10.jpg
 
 insert:
     - page-images-top

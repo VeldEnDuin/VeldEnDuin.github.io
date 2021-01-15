@@ -1,14 +1,15 @@
 ---
-title: Alle Willkommen
+title: Gastfreundlich
 layout: page
 
 images:
-    - /img/hierstaanwevoor/iederwelkom/iederwelkom-01.jpg
-    - /img/hierstaanwevoor/iederwelkom/iederwelkom-02.jpg
-    - /img/hierstaanwevoor/iederwelkom/iederwelkom-03.jpg
-    - /img/hierstaanwevoor/iederwelkom/iederwelkom-04.jpg
-    - /img/hierstaanwevoor/iederwelkom/iederwelkom-05.jpg
-    - /img/hierstaanwevoor/iederwelkom/iederwelkom-06.jpg
+    - /img/hierstaanwevoor/gastvrij/gastvrij-01.jpg
+    - /img/hierstaanwevoor/gastvrij/gastvrij-02.jpg
+    - /img/hierstaanwevoor/gastvrij/gastvrij-03.jpg
+    - /img/hierstaanwevoor/gastvrij/gastvrij-04.jpg
+    - /img/hierstaanwevoor/gastvrij/gastvrij-05.jpg
+    - /img/hierstaanwevoor/gastvrij/gastvrij-06.jpg
+    - /img/hierstaanwevoor/gastvrij/gastvrij-07.jpg
 
 insert:
     - page-images-top
@@ -19,7 +20,7 @@ remove:
 
 ---
 
-# Alle Willkommen
+# Gastfreundlich
 
 Kinder, Jugendliche, Familien, Senioren: Sie alle heißen wir gern herzlich willkommen bei Veld & Duin!<br>
 Das Schlüsselwort für einen angenehmen Urlaub mit anderen ist gegenseitiger Respekt und der ist daher für uns entscheidend.

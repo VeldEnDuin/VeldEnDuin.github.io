@@ -86,11 +86,11 @@ rust:
     fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/repos.html
     de:  /de/gut-zu-wissen/hierfuer-stehen-wir/ruhe.html
     en:  /en/worth-knowing/our-philosophy/peace-and-quiet.html
-iedereen_welkom:
-    nl:  /nl/goed-om-weten/hier-staan-we-voor/iedereen-welkom.html
-    fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/bienvenue-a-tous.html
-    de:  /de/gut-zu-wissen/hierfuer-stehen-wir/alle-willkommen.html
-    en:  /en/worth-knowing/our-philosophy/everybody-welcome.html
+gastvrij:
+    nl:  /nl/goed-om-weten/hier-staan-we-voor/gastvrij.html
+    fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/acceuillant.html
+    de:  /de/gut-zu-wissen/hierfuer-stehen-wir/gastfreundlich.html
+    en:  /en/worth-knowing/our-philosophy/hospitable.html
 
 tijdslijn:
     nl:  /nl/goed-om-weten/tijdslijn.html

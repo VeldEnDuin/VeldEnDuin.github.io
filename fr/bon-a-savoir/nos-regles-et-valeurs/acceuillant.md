@@ -1,14 +1,15 @@
 ---
-title: Bienvenue à tous
+title: Acceuillant
 layout: page
 
 images:
-    - /img/hierstaanwevoor/iederwelkom/iederwelkom-01.jpg
-    - /img/hierstaanwevoor/iederwelkom/iederwelkom-02.jpg
-    - /img/hierstaanwevoor/iederwelkom/iederwelkom-03.jpg
-    - /img/hierstaanwevoor/iederwelkom/iederwelkom-04.jpg
-    - /img/hierstaanwevoor/iederwelkom/iederwelkom-05.jpg
-    - /img/hierstaanwevoor/iederwelkom/iederwelkom-06.jpg
+    - /img/hierstaanwevoor/gastvrij/gastvrij-01.jpg
+    - /img/hierstaanwevoor/gastvrij/gastvrij-02.jpg
+    - /img/hierstaanwevoor/gastvrij/gastvrij-03.jpg
+    - /img/hierstaanwevoor/gastvrij/gastvrij-04.jpg
+    - /img/hierstaanwevoor/gastvrij/gastvrij-05.jpg
+    - /img/hierstaanwevoor/gastvrij/gastvrij-06.jpg
+    - /img/hierstaanwevoor/gastvrij/gastvrij-07.jpg
 
 insert:
     - page-images-top
@@ -18,7 +19,7 @@ remove:
 
 ---
 
-# Bienvenue à tous
+# Acceuillant
 
 Enfants, jeunes, familles, seniors... vous êtes toutes et tous les bienvenus au camping Veld & Duin!<br>
 Le principe de base pour des vacances agréables est le respect mutuel. Nous y veillons dès lors scrupuleusement. 
