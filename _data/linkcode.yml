@@ -203,16 +203,11 @@ trekkers_arrangement:
 #    fr:  /fr/hebergement/camping/longs-sejours.html
 #    de:  /de/uebernachten/camping/jahresplatz.html
 #    en:  /en/accomodation/camping/long-stay.html
-trekkers_tent7x8:
-    nl:  /nl/overnachten/kamperen/tentplaats-7x8.html
-    fr:  /fr/hebergement/camping/emplacementtente-7x8.html
-    de:  /de/uebernachten/camping/zeltplatz-7x8.html
-    en:  /en/accomodation/camping/tentpitch-7x8.html
-trekkers_tent10x8:
-    nl:  /nl/overnachten/kamperen/tentplaats-10x8.html
-    fr:  /fr/hebergement/camping/emplacementtente-10x8.html
-    de:  /de/uebernachten/camping/zeltplatz-10x8.html
-    en:  /en/accomodation/camping/tentpitch-10x8.html
+trekkers_tent:
+    nl:  /nl/overnachten/kamperen/tentplaats.html
+    fr:  /fr/hebergement/camping/emplacementtente.html
+    de:  /de/uebernachten/camping/zeltplatz.html
+    en:  /en/accomodation/camping/tentpitch.html
 trekkers_mobilhome10x8:
     nl:  /nl/overnachten/kamperen/mobilhomeplaats-10x8.html
     fr:  /fr/hebergement/camping/emplacementmobilehome-10x8.html
