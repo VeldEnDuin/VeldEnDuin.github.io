@@ -8,6 +8,9 @@ images:
     - /img/voorzieningen/sauna/sauna-02.jpg
     - /img/voorzieningen/sauna/sauna-03.jpg
     - /img/voorzieningen/sauna/sauna-04.jpg
+    - /img/voorzieningen/sauna/sauna-05.jpg
+    - /img/voorzieningen/sauna/sauna-06.jpg
+    - /img/voorzieningen/sauna/sauna-07.jpg
 
 insert:
     - page-images-top

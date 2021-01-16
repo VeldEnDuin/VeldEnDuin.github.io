@@ -13,7 +13,10 @@ images:
     - /img/voorzieningen/animatie/anim-07.jpg
     - /img/voorzieningen/animatie/anim-08.jpg
     - /img/voorzieningen/animatie/anim-09.jpg
-
+    - /img/voorzieningen/animatie/anim-10.jpg
+    - /img/voorzieningen/animatie/anim-11.jpg
+    
+    
 insert:
     - page-images-top
 
