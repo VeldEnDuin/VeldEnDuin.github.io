@@ -4,7 +4,7 @@ title: Forfait Camping
 preview: 
     title: Forfait Camping
     button:
-        price: 330
+        price: 400
         for: par mois
     list:
         - "emplacements de 80 m²"
@@ -17,6 +17,10 @@ images:
     - /img/overnachten/trekkers-arr/kamparr-02.jpg
     - /img/overnachten/trekkers-arr/kamparr-03.jpg
     - /img/overnachten/trekkers-arr/kamparr-04.jpg
+    - /img/overnachten/trekkers-arr/kamparr-05.jpg
+    - /img/overnachten/trekkers-arr/kamparr-06.jpg
+    - /img/overnachten/trekkers-arr/kamparr-07.jpg
+    - /img/overnachten/trekkers-arr/kamparr-08.jpg
     
     
 insert:
@@ -37,23 +41,21 @@ Vous souhaitez prendre de longues vacances d’un mois ou plus ? Découvrez nos 
 
 ## Prix
 
-PÉRIODE        | PRIX 2020       
+PÉRIODE        | PRIX 2021       
 :-------------:|:-----------:|
-avril          |€ 330               
-mai            |€ 375                   
-juin           |€ 375       
-juillet        |€ 670           
-août           |€ 670   
-septembre      |€ 375
-octobre        |€ 300
-novembre       |€ 300
-avril-mai-juin |€ 715
-septembre-octobre-novembre |€ 715
+avril - mai - juin | € 400 / mois                      
+juillet - août | € 700 / mois              
+septembre - octobre - novembre | € 400 / mois
+1/4 - 30/6 | € 750 / 3 mois
+1/9 - 30/11 | € 750 / 3 mois
+1/1 - 31/8 | € 2175
+1/4 - 31/8 | € 1995
 
 ## Inclus
 
 - taxes communales et de séjour
 - parking pour 1 voiture
+- sacs poubelles: 1 / semaine
 
 ## Non inclus
 

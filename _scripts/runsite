@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cd ~/projects/VeldEnDuin.github.io
+cd ~/projects/vd/VeldEnDuin.github.io
 ./rundev.sh

@@ -4,7 +4,7 @@ title: Caravan Comfort 2
 preview: 
     title: Caravan Comfort 2
     button:
-        price: 100
+        price: 102
         for: 2 nights
     list:
         - "2 persons"
@@ -15,9 +15,9 @@ preview:
    
 
 images:
-    - /img/overnachten/verhuring-C2-caravan/c2c-03.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-01.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-02.jpg
+    - /img/overnachten/verhuring-C2-caravan/c2c-03.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-04.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-05.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-06.jpg
@@ -26,7 +26,6 @@ images:
     - /img/overnachten/verhuring-C2-caravan/c2c-09.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-10.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-11.jpg
-    - /img/overnachten/verhuring-C2-caravan/c2c-12.jpg
     
     
 insert:
@@ -63,11 +62,11 @@ This mini-caravan with private garden is suitable for those who love being outdo
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
 
 ## Things to bring along
-Besides your personal belongings you need to bring along towels and bed linen.
+Besides your personal belongings you need to bring along towels, kitchen towels and bed linen.
 Bed linen can also be rented at the reception.
 
 ## Included
-- internet for 2 devices
+- wifi
 - parking 1 car
 - consumption gas-water-electricity
 
@@ -78,14 +77,12 @@ EXTRA SERVICE            | PRICE
 :-------------------|:-----------|
 cleaning          | € 45 - final cleaning by tenants is allowed
 dogs               | € 4 / night - max 1
-bed linen        | € 9 / bed
+bed linen        | € 10 / double bed
 baby cot          | € 2 / night
 baby chair         | € 2 / night
 parking place extra car  | € 4 / started day
 [bicycle shed][fietsberging.en]| € 2 / bike / night
 [sauna][sauna.en]   | € 30
-[internet][internet.en]| depending on time online
-[Veld & Duin service][veld_duin_service.en]| € 50
 
 
 ## Plan campsite

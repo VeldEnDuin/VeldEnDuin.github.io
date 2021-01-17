@@ -4,7 +4,7 @@ title: Appartement de luxe
 preview: 
     title: Appartement de luxe
     button:
-        price: 140
+        price: 143
         for: 2 nuits
     list:
         - "5-6 personnes"
@@ -28,7 +28,6 @@ images:
     - /img/overnachten/verhuring-luxe-appartement/lx-12.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-13.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-14.jpg
-    - /img/overnachten/verhuring-luxe-appartement/lx-15.jpg
     
 
 insert:
@@ -75,11 +74,11 @@ Situés au-dessus de la réception, ces nouveaux appartements luxueux offrent un
 - la caution est restituée au départ si l'appartement a été bien nettoyée et si elle se trouve dans un bon état
 
 ## Que faut-il emporter?
-Outre vos affaires personnelles, vous devez emporter votre linge de bain et votre linge de lit.
+Outre vos affaires personnelles, vous devez emporter vos propres serviettes, torchons et linge de lit.
 Le linge de lit peut être loué au camping.
 
 ## Inclus
-- internet pour 2 appareils
+- wifi
 - parking 1 voiture
 - consommation eau - électricité 
 - **exception** forfait pour les frais énergétiques 15/12 - 15/01: € 10 / nuit
@@ -89,14 +88,12 @@ Le linge de lit peut être loué au camping.
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
 nettoyage           | € 45 - le locataire est autorisé à faire le nettoyage lui-même
-draps               | € 9 / lit
+draps               | € 10 / lit double - € 9 / lit simple
 lit d'enfant        | € 2 / nuit
 chaise haute        | € 2 / nuit
 parking voiture supplémentaire  | € 4 / jour entamé
 [emplacement vélo][fietsberging.fr]| € 2 / vélo / nuit
 [sauna][sauna.fr]   | € 30
-[internet][internet.fr]| prix en fonction de la durée de connexion
-[service Veld & Duin][veld_duin_service.fr]| € 70
 
 
 ## Plan du camping

@@ -4,7 +4,7 @@ title: Studio Comfort 2
 preview: 
     title: Studio Comfort 2
     button:
-        price: 100
+        price: 102
         for: 2 nachten
     list:
         - "gezelligheid voor 2"
@@ -25,6 +25,8 @@ images:
     - /img/overnachten/verhuring-C2-studio/c2s-08.jpg
     - /img/overnachten/verhuring-C2-studio/c2s-09.jpg
     - /img/overnachten/verhuring-C2-studio/c2s-10.jpg
+    - /img/overnachten/verhuring-C2-studio/c2s-11.jpg
+    - /img/overnachten/verhuring-C2-studio/c2s-12.jpg
     
     
     
@@ -62,11 +64,11 @@ Even alleen komen uitwaaien of met z'n tweetjes? In deze studio is het heerlijk 
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
 
 ## Wat mee te brengen?
-Naast uw persoonlijke spullen, moet u nog handdoeken en beddegoed zelf meebrengen.
+Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
 Lakenpakketten kunt u ook huren.
 
 ## Inbegrepen
-- internet voor 2 toestellen
+- wifi
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
 
@@ -76,15 +78,12 @@ EXTRA               | PRIJS
 :-------------------|:-----------|
 schoonmaak          | € 45 - zelf schoonmaken kan
 hond                | € 4 / nacht - max 1
-lakenpakket         | € 9 / bed
+lakenpakket         | € 10 / dubbelbed
 kinderbed           | € 2 / nacht
 kinderstoel         | € 2 / nacht
 parking extra auto  | € 4 / begonnen dag
 [plaats fietsberging][fietsberging.nl]| € 2 / fiets / nacht
 [sauna][sauna.nl]   | € 30
-[internet][internet.nl]| afhankelijk van tijd online
-[Veld & Duin service][veld_duin_service.nl]| € 50
-
 
 ## Plan camping
 

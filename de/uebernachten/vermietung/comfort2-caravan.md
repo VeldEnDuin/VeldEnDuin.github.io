@@ -4,7 +4,7 @@ title: Caravan Comfort 2
 preview: 
     title: Caravan Comfort 2
     button:
-        price: 100
+        price: 102
         for: 2 Nächte
     list:
         - "2 Personen"
@@ -15,9 +15,9 @@ preview:
    
 
 images:
-    - /img/overnachten/verhuring-C2-caravan/c2c-03.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-01.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-02.jpg
+    - /img/overnachten/verhuring-C2-caravan/c2c-03.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-04.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-05.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-06.jpg
@@ -26,7 +26,6 @@ images:
     - /img/overnachten/verhuring-C2-caravan/c2c-09.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-10.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-11.jpg
-    - /img/overnachten/verhuring-C2-caravan/c2c-12.jpg
     
     
 insert:
@@ -63,11 +62,11 @@ Dieser Miniwohnwagen mit Privatgärtchen ist ideal für Menschen, die sich gern 
 - Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
 
 ## Was Sie mitbringen müssen
-Neben Ihren persönlichen Dingen müssen Sie noch Handtücher und Bettbezüge mitbringen.
+Neben Ihren persönlichen Dingen müssen Sie noch Handtücher, Küchenhandtücher und Bettbezüge mitbringen.
 Bettbezüge können Sie auch bei uns mieten.
 
 ## Inbegriffen
-- Internet für 2 Geräte
+- W-lan
 - Parkplatz für 1 Auto
 - Verbrauch von Gas, Wasser und Strom 
 
@@ -78,14 +77,13 @@ EXTRA               | PREIS
 :-------------------|:-----------|
 Reinigung          | € 45 - selbst reinigen ist gestattet
 Hund                | € 4 / Nacht - max 1
-Betttuchpaket         | € 9 / Bett
+Betttuchpaket         | € 10 / Doppelbett
 Kinderbett           | € 2 / Nacht
 Kinderstuhl         | € 2 / Nacht
 Parkplatz extra Auto  | € 4 / angefangenem Tag
 [Platz im Fahrradunterstand][fietsberging.de]| € 2 / Rad / Nacht
 [Sauna][sauna.de]   | € 30
-[Internet][internet.de]| abhängig von der Zeit online
-[Veld & Duin Service][veld_duin_service.de]| € 50
+
 
 
 ## Plan Campingplatz

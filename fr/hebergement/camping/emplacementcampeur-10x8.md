@@ -4,7 +4,7 @@ title: Emplacement Campeur 10x8
 preview: 
     title: Emplacement Campeur 10x8
     button:
-        price: 22
+        price: 19
         for: par nuit
     list:
         - "emplacements de 80m²"
@@ -12,11 +12,14 @@ preview:
         - "emplacement recouvert de gazon ou asphalté"
         - "à proximité des sanitaires"
 images:
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-06.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-07.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-08.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-09.jpg
-    - /img/overnachten/trekkers-tre-10x8/tre10x8-10.jpg
+    - /img/overnachten/trekkers-kamp-10x8/kamp10x8-01.jpg
+    - /img/overnachten/trekkers-kamp-10x8/kamp10x8-02.jpg
+    - /img/overnachten/trekkers-kamp-10x8/kamp10x8-03.jpg
+    - /img/overnachten/trekkers-kamp-10x8/kamp10x8-04.jpg
+    - /img/overnachten/trekkers-kamp-10x8/kamp10x8-05.jpg
+    - /img/overnachten/trekkers-kamp-10x8/kamp10x8-06.jpg
+    - /img/overnachten/trekkers-kamp-10x8/kamp10x8-07.jpg
+    - /img/overnachten/trekkers-kamp-10x8/kamp10x8-08.jpg
     
     
     
@@ -35,22 +38,32 @@ Combinez la liberté de vacances en caravane au confort offert par notre camping
 - chiens admis – max. 2 – pas de races dangereuses
 - fermé entre 15/01 - 01/03 et 15/11 - 15/12
 
-## Prix 2020
+## Prix 2021 par nuit
 
 
-NOMBRE DE PERSONNES | PRIX / NUIT     
-:------------------:|:-----------:|
-1 personne          |€ 22              
-2 personnes         |€ 25                   
-3 personnes         |€ 28      
-4 personnes         |€ 31
-5 personnes         |€ 34
-6 personnes         |€ 37
+NOMBRE DE PERSONNES |BASSE SAISON |HAUTE SAISON
+:------------------:|:-----------:|:-----------:|
+1 personne          |€ 19         |€ 23     
+2 personnes         |€ 22         |€ 26          
+3 personnes         |€ 25         |€ 29
+4 personnes         |€ 28         |€ 32
+5 personnes         |€ 31         |€ 35
+6 personnes         |€ 34         |€ 38
 
 
 15/7 - 15/8: réservation à partir de 7 nuits
 
+Haute saison: juillet - août - week-ends prolongés
+
+## Forfaits Basse Saison
+
+Réductions:
+- séjour ≥ 7 nuits: -7%
+- séjour ≥ 10 nuits: -10%
+
 {% include fr/camping-reuse.md %}
+
+
 
 ## Plan camping
 

@@ -8,6 +8,8 @@ images:
     - /img/voorzieningen/internet/internet-02.jpg
     - /img/voorzieningen/internet/internet-03.jpg
     - /img/voorzieningen/internet/internet-04.jpg
+    - /img/voorzieningen/internet/internet-05.jpg
+    - /img/voorzieningen/internet/internet-06.jpg
 
 insert:
     - page-images-top

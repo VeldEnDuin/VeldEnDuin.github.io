@@ -13,6 +13,7 @@ preview:
                
 images:
     - /img/overnachten/residentieel-type1/restyp1-01.jpg
+    - /img/overnachten/residentieel-type1/restyp1-02.jpg
     
 insert:
     - page-images-top

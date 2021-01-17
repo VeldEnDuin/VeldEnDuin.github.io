@@ -4,7 +4,7 @@ title: Campers’ offer
 preview: 
     title: Campers’ offer
     button:
-        price: 330
+        price: 400
         for: per month
     list:
         - "80 m² pitches"
@@ -17,6 +17,10 @@ images:
     - /img/overnachten/trekkers-arr/kamparr-02.jpg
     - /img/overnachten/trekkers-arr/kamparr-03.jpg
     - /img/overnachten/trekkers-arr/kamparr-04.jpg
+    - /img/overnachten/trekkers-arr/kamparr-05.jpg
+    - /img/overnachten/trekkers-arr/kamparr-06.jpg
+    - /img/overnachten/trekkers-arr/kamparr-07.jpg
+    - /img/overnachten/trekkers-arr/kamparr-08.jpg
     
     
 insert:
@@ -34,23 +38,21 @@ Do you want to stay for a month or even more? Have a look at the different packa
 
 ## Prices
 
-PERIOD        | PRICE 2020     
+PERIOD        | PRICE 2021     
 :-------------:|:-----------:|
-April          |€ 330               
-May            |€ 375                   
-June           |€ 375      
-July           |€ 670            
-August         |€ 670   
-September      |€ 375
-October        |€ 300
-November       |€ 300
-April-May-June |€ 715
-September-October-November|€ 715
+April - May - June | € 400 / month                     
+July - August | € 700 / month            
+September - October - November | € 400 / month
+1/4 - 30/6 | € 750 / 3 months
+1/9 - 30/11 | € 750 / 3 months
+1/1 - 31/8 | € 2175
+1/4 - 31/8 | € 1995
 
 ## Included
 
 - municipal and residence taxes
 - parking place for 1 car
+- litter bags: 1 / week
 
 ## Not included
 

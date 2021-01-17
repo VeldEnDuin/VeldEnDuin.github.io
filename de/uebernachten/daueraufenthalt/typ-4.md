@@ -14,6 +14,11 @@ preview:
         
 images:
     - /img/overnachten/residentieel-type4/restyp4-01.jpg
+    - /img/overnachten/residentieel-type4/restyp4-02.jpg
+    - /img/overnachten/residentieel-type4/restyp4-03.jpg
+    - /img/overnachten/residentieel-type4/restyp4-04.jpg
+    - /img/overnachten/residentieel-type4/restyp4-05.jpg
+    - /img/overnachten/residentieel-type4/restyp4-06.jpg
     
 insert:
     - page-images-top

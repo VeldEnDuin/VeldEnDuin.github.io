@@ -4,7 +4,7 @@ title: Chalet Comfort 4
 preview: 
     title: Chalet comfort 4 
     button:
-        price: 114
+        price: 116
         for: 2 nachten
     list:
         - "4 personen"
@@ -12,8 +12,8 @@ preview:
         - "dichtbij speelplein"
         - "honden toegelaten"
 images:
-    - /img/overnachten/verhuring-C4-chalet/c4ch-02.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-01.jpg
+    - /img/overnachten/verhuring-C4-chalet/c4ch-02.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-03.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-04.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-05.jpg
@@ -27,14 +27,6 @@ images:
     - /img/overnachten/verhuring-C4-chalet/c4ch-13.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-14.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-15.jpg
-    - /img/overnachten/verhuring-C4-chalet/c4ch-16.jpg
-    - /img/overnachten/verhuring-C4-chalet/c4ch-17.jpg
-    - /img/overnachten/verhuring-C4-chalet/c4ch-18.jpg
-    - /img/overnachten/verhuring-C4-chalet/c4ch-19.jpg
-    - /img/overnachten/verhuring-C4-chalet/c4ch-20.jpg
-    - /img/overnachten/verhuring-C4-chalet/c4ch-21.jpg
-    - /img/overnachten/verhuring-C4-chalet/c4ch-22.jpg
-    - /img/overnachten/verhuring-C4-chalet/c4ch-23.jpg
     
     
     
@@ -74,11 +66,11 @@ Deze chalets liggen vooraan op de camping en dicht bij het speelplein. Ideaal du
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
 
 ## Wat mee te brengen?
-Naast uw persoonlijke spullen, moet u nog handdoeken en beddegoed zelf meebrengen.
+Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
 Lakenpakketten kunt u ook huren.
 
 ## Inbegrepen
-- internet voor 2 toestellen
+- wifi
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
 - **uitzondering** forfait energiekost 15/12 - 15/01: € 10 / nacht
@@ -89,14 +81,12 @@ EXTRA               | PRIJS
 :-------------------|:-----------|
 schoonmaak          | € 45 - zelf schoonmaken kan
 hond                | € 4 / nacht - max 2
-lakenpakket         | € 9 / bed
+lakenpakket         | € 10 / dubbelbed - € 9 / enkel bed
 kinderbed           | € 2 / nacht
 kinderstoel         | € 2 / nacht
 parking extra auto  | € 4 / begonnen dag
 [plaats fietsberging][fietsberging.nl]| € 2 / fiets / nacht
 [sauna][sauna.nl]   | € 30
-[internet][internet.nl]| afhankelijk van tijd online
-[Veld & Duin service][veld_duin_service.nl]| € 70
 
 
 ## Plan camping

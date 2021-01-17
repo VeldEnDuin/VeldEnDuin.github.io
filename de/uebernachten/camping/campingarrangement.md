@@ -4,7 +4,7 @@ title: Campingarrangement
 preview: 
     title: Campingarrangement 
     button:
-        price: 330
+        price: 400
         for: pro Monat
     list:
         - "Plätze 80 m²"
@@ -17,6 +17,10 @@ images:
     - /img/overnachten/trekkers-arr/kamparr-02.jpg
     - /img/overnachten/trekkers-arr/kamparr-03.jpg
     - /img/overnachten/trekkers-arr/kamparr-04.jpg
+    - /img/overnachten/trekkers-arr/kamparr-05.jpg
+    - /img/overnachten/trekkers-arr/kamparr-06.jpg
+    - /img/overnachten/trekkers-arr/kamparr-07.jpg
+    - /img/overnachten/trekkers-arr/kamparr-08.jpg
     
     
 insert:
@@ -36,23 +40,21 @@ Sie haben einen Monat oder länger Zeit? Dann sehen Sie sich doch die verschiede
 
 ## Preise
 
-ZEITRAUM        | PREIS 2020   
+ZEITRAUM        | PREIS 2021   
 :-------------:|:-----------:|
-April          |€ 330               
-Mai            |€ 375                   
-Juni           |€ 375       
-Juli           |€ 670            
-August         |€ 670   
-September      |€ 375
-Oktober        |€ 300
-November       |€ 300
-April-Mai-Juni |€ 715
-September-Oktober-November|€ 715
+April - Mai - Juni | € 400 / Monat                      
+Juli  - August | € 700 / Monat              
+September - Oktober - November | € 400 / Monat
+1/4 - 30/6 | € 750 / 3 Monate
+1/9 - 30/11 | € 750 / 3 Monate
+1/1 - 31/8 | € 2175
+1/4 - 31/8 | € 1995
 
 ## Inbegriffen
 
 - Gemeinde- und Aufenthaltssteuern
 - Parkplatz für 1 Auto
+- Müllsäcke: 1 / Woche
 
 ## Nicht inbegriffen
 

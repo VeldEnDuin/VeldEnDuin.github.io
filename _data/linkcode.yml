@@ -76,11 +76,11 @@ rust:
     fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/repos.html
     de:  /de/gut-zu-wissen/hierfuer-stehen-wir/ruhe.html
     en:  /en/worth-knowing/our-philosophy/peace-and-quiet.html
-iedereen_welkom:
-    nl:  /nl/goed-om-weten/hier-staan-we-voor/iedereen-welkom.html
-    fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/bienvenue-a-tous.html
-    de:  /de/gut-zu-wissen/hierfuer-stehen-wir/alle-willkommen.html
-    en:  /en/worth-knowing/our-philosophy/everybody-welcome.html
+gastvrij:
+    nl:  /nl/goed-om-weten/hier-staan-we-voor/gastvrij.html
+    fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/acceuillant.html
+    de:  /de/gut-zu-wissen/hierfuer-stehen-wir/gastfreundlich.html
+    en:  /en/worth-knowing/our-philosophy/hospitable.html
 
 tijdslijn:
     nl:  /nl/goed-om-weten/tijdslijn.html
@@ -188,21 +188,16 @@ trekkers_arrangement:
     fr:  /fr/hebergement/camping/forfait-camping.html
     de:  /de/uebernachten/camping/campingarrangement.html
     en:  /en/accomodation/camping/campers-offer.html
-trekkers_lang:
-    nl:  /nl/overnachten/kamperen/lang-verblijf.html
-    fr:  /fr/hebergement/camping/longs-sejours.html
-    de:  /de/uebernachten/camping/jahresplatz.html
-    en:  /en/accomodation/camping/long-stay.html
-trekkers_tent7x8:
-    nl:  /nl/overnachten/kamperen/tentplaats-7x8.html
-    fr:  /fr/hebergement/camping/emplacementtente-7x8.html
-    de:  /de/uebernachten/camping/zeltplatz-7x8.html
-    en:  /en/accomodation/camping/tentpitch-7x8.html
-trekkers_tent10x8:
-    nl:  /nl/overnachten/kamperen/tentplaats-10x8.html
-    fr:  /fr/hebergement/camping/emplacementtente-10x8.html
-    de:  /de/uebernachten/camping/zeltplatz-10x8.html
-    en:  /en/accomodation/camping/tentpitch-10x8.html
+#trekkers_lang:
+#    nl:  /nl/overnachten/kamperen/lang-verblijf.html
+#    fr:  /fr/hebergement/camping/longs-sejours.html
+#    de:  /de/uebernachten/camping/jahresplatz.html
+#    en:  /en/accomodation/camping/long-stay.html
+trekkers_tent:
+    nl:  /nl/overnachten/kamperen/tentplaats.html
+    fr:  /fr/hebergement/camping/emplacementtente.html
+    de:  /de/uebernachten/camping/zeltplatz.html
+    en:  /en/accomodation/camping/tentpitch.html
 trekkers_mobilhome10x8:
     nl:  /nl/overnachten/kamperen/mobilhomeplaats-10x8.html
     fr:  /fr/hebergement/camping/emplacementmobilehome-10x8.html
@@ -248,11 +243,6 @@ type_4:
 
 
 # [2.4] submenu overnachten -> arrangementen
-veld_duin_service:
-    nl: /nl/overnachten/arrangementen/veld-en-duin-service.html
-    fr: /fr/hebergement/forfaits/service-veld-en-duin.html
-    de: /de/uebernachten/arrangements/veld-en-duin-service.html
-    en: /en/accomodation/offers/veld-en-duin-service.html
 kadobon:
     nl: /nl/overnachten/arrangementen/kadobon.html
     fr: /fr/hebergement/forfaits/cheque-cadeau.html
@@ -275,16 +265,6 @@ b_21:
     fr: /fr/hebergement/a-vendre/b-21.html
     de: /de/uebernachten/zu-kaufen/b-21.html
     en: /en/accomodation/for-sale/b-21.html
-c_28:
-    nl: /nl/overnachten/te-koop/c-28.html
-    fr: /fr/hebergement/a-vendre/c-28.html
-    de: /de/uebernachten/zu-kaufen/c-28.html
-    en: /en/accomodation/for-sale/c-28.html
-c_51:
-    nl: /nl/overnachten/te-koop/c-51.html
-    fr: /fr/hebergement/a-vendre/c-51.html
-    de: /de/uebernachten/zu-kaufen/c-51.html
-    en: /en/accomodation/for-sale/c-51.html
 
 
 # [3] menu - voorzieningen
@@ -413,15 +393,15 @@ pdf_tvwifi:
     de: /de/pdf/tvwifi.pdf
     en: /en/pdf/tvwifi.pdf
 resainfoverhuur:
-    nl: /files/nlresainfo-verhuur2019.pdf
-    fr: /files/frresainfo-verhuur2019.pdf
-    de: /files/deresainfo-verhuur2019.pdf
-    en: /files/enresainfo-verhuur2019.pdf
+    nl: /files/nlresainfo-verhuur2021.pdf
+    fr: /files/frresainfo-verhuur2021.pdf
+    de: /files/deresainfo-verhuur2021.pdf
+    en: /files/enresainfo-verhuur2021.pdf
 resainfotrekkers:
-    nl: /files/nlresainfo-trekkers2019.pdf
-    fr: /files/frresainfo-trekkers2019.pdf
-    de: /files/deresainfo-trekkers2019.pdf
-    en: /files/enresainfo-trekkers2019.pdf
+    nl: /files/nlresainfo-trekkers2021.pdf
+    fr: /files/frresainfo-trekkers2021.pdf
+    de: /files/deresainfo-trekkers2021.pdf
+    en: /files/enresainfo-trekkers2021.pdf
 
 covideigenaars:
     nl: /files/nlcovideigenaars.pdf

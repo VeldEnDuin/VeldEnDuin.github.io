@@ -4,7 +4,7 @@ title: Apartment Comfort 4 Plus
 preview: 
     title: Apartment Comfort 4 +
     button:
-        price: 124
+        price: 126
         for: 2 nights
     list:
         - "4-5 persons"
@@ -28,13 +28,6 @@ images:
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-13.jpg
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-14.jpg
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-15.jpg
-    - /img/overnachten/verhuring-C4pl-appartement/c4pla-16.jpg
-    - /img/overnachten/verhuring-C4pl-appartement/c4pla-17.jpg
-    - /img/overnachten/verhuring-C4pl-appartement/c4pla-18.jpg
-    - /img/overnachten/verhuring-C4pl-appartement/c4pla-19.jpg
-    - /img/overnachten/verhuring-C4pl-appartement/c4pla-20.jpg
-    - /img/overnachten/verhuring-C4pl-appartement/c4pla-21.jpg
-    - /img/overnachten/verhuring-C4pl-appartement/c4pla-22.jpg
     
     
 insert:
@@ -76,11 +69,11 @@ The apartments are situated next to the campsite. This means that you can enjoy 
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
 
 ## Things to bring along
-Besides your personal belongings you need to bring along towels and bed linen.
+Besides your personal belongings you need to bring along towels, kitchen towels and bed linen.
 Bed linen can also be rented at the reception.
 
 ## included
-- internet for 2 devices
+- wifi
 - parking 1 car
 - consumption water & electricity
 - **exception** flat-rate energy cost 15/12 - 15/01: € 10 / night
@@ -90,13 +83,11 @@ Bed linen can also be rented at the reception.
 EXTRA SERVICE               | PRICE
 :-------------------|:-----------|
 cleaning          | € 45 - final cleaning by tenants is allowed
-bed linen        | € 9 / bed
+bed linen        | € 10 / double bed - € 9 / single bed
 baby cot          | € 2 / night
 baby chair         | € 2 / night
 parking place extra car  | € 4 / started day
 [sauna][sauna.en]   | € 30
-[internet][internet.en]| depending on time online
-[Veld & Duin service][veld_duin_service.en]| € 70
 
 
 ## Plan campsite

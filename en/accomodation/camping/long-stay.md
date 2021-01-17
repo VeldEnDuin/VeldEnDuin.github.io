@@ -4,7 +4,7 @@ title: Residential campers
 preview: 
     title: Residential campers
     button:
-        price: 1920
+        price: 1955
         for: per year
     list:
         - "80 m² pitches"
@@ -34,12 +34,11 @@ Your caravan stays on the campsite all year round. This means you can enjoy ever
 - max 6 persons / pitch
 - dags allowed: max 2 – no dangerous breeds
 
-## Prices 2020
+## Prices 2021
 
 PERIOD              | STAND PRICE  | MUNICIPAL TAXES       
-:--------------------:|:----------------------:|--------------|
-6 months             |€ 1805              |€ 148,40        
-1 year<br>(1/1-31/12) |€ 1920                 |€ 413,40             
+:--------------------:|:----------------------:|--------------|    
+1 year<br>(1/1-31/12) |€ 1955                 |€ 421,88            
  
 ## Included
 
@@ -51,7 +50,7 @@ EXTRA              | PRICE
 :------------------|:-----------|
 electricity        |according to consumption
 fixed price water      |€ 80
-counter    |€ 20
+counter    |€ 22
 contribution for household refuge   |€ 80 (incl. 25 bags)
 barier entrance card     |€ 100 (warranty € 75)
 awning winter    |€ 100

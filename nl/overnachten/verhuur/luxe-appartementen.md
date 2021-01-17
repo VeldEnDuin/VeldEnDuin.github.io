@@ -4,7 +4,7 @@ title: Luxe Appartementen
 preview: 
     title: Luxe Appartement
     button:
-        price: 140
+        price: 143
         for: 2 nachten
     list:
         - "5-6 personen"
@@ -28,7 +28,7 @@ images:
     - /img/overnachten/verhuring-luxe-appartement/lx-12.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-13.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-14.jpg
-    - /img/overnachten/verhuring-luxe-appartement/lx-15.jpg
+ 
     
     
 
@@ -76,11 +76,11 @@ Gelegen boven de receptie bieden deze nieuwe en luxueuze appartementen een mooi 
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is 
 
 ## Wat mee te brengen?
-Naast uw persoonlijke spullen, moet u nog handdoeken en beddegoed zelf meebrengen.
+Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
 Lakenpakketten kunt u ook huren.
 
 ## Inbegrepen
-- internet voor 2 toestellen
+- wifi
 - parking 1 auto
 - verbruik water en elektriciteit 
 - **uitzondering** forfait energiekost 15/12 - 15/01: € 10 / nacht
@@ -91,14 +91,12 @@ Lakenpakketten kunt u ook huren.
 EXTRA               | PRIJS 
 :-------------------|:-----------|
 schoonmaak          | € 45 - zelf schoonmaken kan
-lakenpakket         | € 9 / bed
+lakenpakket         | € 10 / dubbelbed - € 9 / enkel bed
 kinderbed           | € 2 / nacht
 kinderstoel         | € 2 / nacht
 parking extra auto      | € 4 / begonnen dag
 [plaats fietsberging][fietsberging.nl]| € 2 / fiets / nacht
 [sauna][sauna.nl]   | € 30
-[internet][internet.nl]| afhankelijk van tijd online
-[Veld & Duin service][veld_duin_service.nl]| € 70 
 
 
 ## Plan camping

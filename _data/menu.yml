@@ -33,12 +33,10 @@
           booking_form_room: mobilhome10x8
         - linkcode: trekkers_trekker10x8
           booking_form_room: trekker10x8
-        - linkcode: trekkers_tent7x8
-          booking_form_room: tent7x8
-        - linkcode: trekkers_tent10x8
+        - linkcode: trekkers_tent
           booking_form_room: tent10x8
         - linkcode: trekkers_arrangement
-        - linkcode: trekkers_lang
+#        - linkcode: trekkers_lang
 
 
     - linkcode: residentieel
@@ -52,7 +50,6 @@
     - linkcode: arrangementen
       submenu:
         - linkcode: arrangementen
-        - linkcode: veld_duin_service
         - linkcode: kadobon
         - linkcode: midweek
 
@@ -61,8 +58,6 @@
       submenu:
         - linkcode: te_koop
         - linkcode: b_21
-        - linkcode: c_28
-        - linkcode: c_51
 
 
 - linkcode: voorzieningen
@@ -104,7 +99,7 @@
         - linkcode: hier_staan_we_voor
         - linkcode: rust
         - linkcode: groen
-        - linkcode: iedereen_welkom
+        - linkcode: gastvrij
         - linkcode: hondvriendelijk
         - linkcode: kwaliteit
         - linkcode: fietsvriendelijk

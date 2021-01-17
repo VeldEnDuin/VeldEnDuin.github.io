@@ -8,6 +8,8 @@ images:
     - /img/voorzieningen/wassalon/was-02.jpg
     - /img/voorzieningen/wassalon/was-03.jpg
     - /img/voorzieningen/wassalon/was-04.jpg
+    - /img/voorzieningen/wassalon/was-05.jpg
+    - /img/voorzieningen/wassalon/was-06.jpg
 
 insert:
     - page-images-top

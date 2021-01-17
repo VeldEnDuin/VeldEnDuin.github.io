@@ -4,7 +4,7 @@ title: Chalet Comfort 4 Plus
 preview: 
     title: Chalet comfort 4+
     button:
-        price: 124
+        price: 126
         for: 2 nachten
     list:
         - "4 personen"
@@ -30,9 +30,6 @@ images:
     - /img/overnachten/verhuring-C4pl-chalet/c4plch-15.jpg
     - /img/overnachten/verhuring-C4pl-chalet/c4plch-16.jpg
     - /img/overnachten/verhuring-C4pl-chalet/c4plch-17.jpg
-    - /img/overnachten/verhuring-C4pl-chalet/c4plch-18.jpg
-    - /img/overnachten/verhuring-C4pl-chalet/c4plch-19.jpg
-    - /img/overnachten/verhuring-C4pl-chalet/c4plch-20.jpg
     
     
     
@@ -72,11 +69,11 @@ Na een heerlijk dagje strand of een uitstapje in de buurt lonkt het overdekte te
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
 
 ## Wat mee te brengen?
-Naast uw persoonlijke spullen, moet u nog handdoeken en beddegoed zelf meebrengen.
+Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
 Lakenpakketten kunt u ook huren.
 
 ## Inbegrepen
-- internet voor 2 toestellen
+- wifi
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
 - **uitzondering** forfait energiekost 15/12 - 15/01: € 10 / nacht
@@ -88,14 +85,12 @@ EXTRA               | PRIJS
 :-------------------|:-----------|
 schoonmaak          | € 45 - zelf schoonmaken kan
 hond                | € 4 / nacht - max 2 
-lakenpakket         | € 9 / bed
+lakenpakket         | € 10 / dubbelbed - € 9 / enkel bed
 kinderbed           | € 2 / nacht
 kinderstoel         | € 2 / nacht
 parking extra auto      | € 4 / begonnen dag
 [plaats fietsberging][fietsberging.nl]| € 2 / fiets / nacht
 [sauna][sauna.nl]   | € 30
-[internet][internet.nl]| afhankelijk van tijd online
-[Veld & Duin service][veld_duin_service.nl]| € 70
 
 ## Plan camping
 

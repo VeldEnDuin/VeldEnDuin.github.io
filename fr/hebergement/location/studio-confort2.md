@@ -4,7 +4,7 @@ title: Studio Confort 2
 preview: 
     title: Studio Confort 2
     button:
-        price: 100
+        price: 102
         for: 2 nuits
     list:
         - "séjour agréable à 2"
@@ -25,6 +25,8 @@ images:
     - /img/overnachten/verhuring-C2-studio/c2s-08.jpg
     - /img/overnachten/verhuring-C2-studio/c2s-09.jpg
     - /img/overnachten/verhuring-C2-studio/c2s-10.jpg
+    - /img/overnachten/verhuring-C2-studio/c2s-11.jpg
+    - /img/overnachten/verhuring-C2-studio/c2s-12.jpg
     
     
 insert:
@@ -62,11 +64,11 @@ Envie de vous ressourcer seul ou à deux? Vous vous sentirez comme à la maison 
 - la caution est restituée au départ si le studio a été bien nettoyée et si elle se trouve dans un bon état
 
 ## Que faut-il emporter?
-Outre vos affaires personnelles, vous devez emporter votre linge de bain et votre linge de lit.
+Outre vos affaires personnelles, vous devez emporter vos propres serviettes, torchons et linge de lit.
 Le linge de lit peut être loué au camping.
 
 ## Inclus
-- internet pour 2 appareils
+- wifi
 - parking 1 voiture
 - consommation gaz - eau - électricité 
 
@@ -76,14 +78,12 @@ SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
 nettoyage           | € 45 - le locataire est autorisé à faire le nettoyage lui-même
 chien               | € 4 / nuit - max 1
-draps               | € 9 / lit
+draps               | € 10 / lit double
 lit d'enfant        | € 2 / nuit
 chaise haute        | € 2 / nuit
 parking voiture supplémentaire  | € 4 / jour entamé
 [emplacement vélo][fietsberging.fr]| € 2 / vélo / nuit
 [sauna][sauna.fr]   | € 30
-[internet][internet.fr]| prix en fonction de la durée de connexion
-[service Veld & Duin][veld_duin_service.fr]| € 50
 
 
 ## Plan du camping
