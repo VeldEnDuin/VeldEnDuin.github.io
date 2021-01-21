@@ -336,6 +336,9 @@ covid:
     de: /de/covid/allgemein.html
     en: /en/covid/general.html
 
+covid-actueel:
+    nl: /nl/covid/actueel.html
+
 covid-kamperen:
     nl: /nl/covid/kamperen.html
     fr: /fr/covid/campeurs.html
@@ -482,4 +485,4 @@ welcome-back:
     nl: /nl/covid/welcome-back.html
     fr: /fr/covid/welcome-back.html
 covid-nieuws:
-    nl: /nl/covid/algemeen.html
+    nl: /nl/covid/actueel.html

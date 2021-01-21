@@ -2,13 +2,7 @@
 title: Algemeen
 layout: default
 
-preview:
-    title: Covid-19 Nieuws
-    text:
-        - Wat op dit moment wel en niet kan evenals al onze voorzorgsmaatregelen en richtlijnen zetten we graag op een rijtje.
-        
-images: 
-    - /img/covid/corona.jpg
+preview: no
 
 ---
 

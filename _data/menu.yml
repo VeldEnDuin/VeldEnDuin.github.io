@@ -113,6 +113,7 @@
     de: COVID-19
     en: COVID-19
   submenu:
+    - linkcode: covid-actueel
     - linkcode: covid
     - linkcode: covid-kamperen
     - linkcode: covid-verhuur
