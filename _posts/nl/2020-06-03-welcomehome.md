@@ -12,7 +12,7 @@ images:
 
 {% assign youtube-code = 'iFgFx_OrZd4'%}
 {% assign youtube-title= 'Welcome Home Away from Home'%}
-{% include youtube-embed.html%}
+{% include youtube-embed.html %}
 
 We hebben er lang naar uitgekeken maar hebben nu  eindelijk groen licht gekregen om ons toeristisch verhuur op te starten vanaf 8 juni.
 Dit welkom-terug filmpje maakten we samen met een aantal kustcollega’s om te laten weten hoe blij we zijn om opnieuw veilig te kunnen openen.
