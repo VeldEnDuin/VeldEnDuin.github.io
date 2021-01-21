@@ -9,8 +9,8 @@ remove:
     
 select:
     - verhuur
+    - covid-actueel
 #    - nieuwepercelen
-    - welcome-back
     
 class:
     select:

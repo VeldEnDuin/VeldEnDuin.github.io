@@ -8,7 +8,7 @@ insert:
 select:
     - verhuur
     - nieuwepercelen
-    - covid-nieuws
+    - covid-actueel
     
 class:
     select:

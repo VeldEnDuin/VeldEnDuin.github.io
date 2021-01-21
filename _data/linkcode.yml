@@ -333,6 +333,9 @@ covid:
 
 covid-actueel:
     nl: /nl/covid/actueel.html
+    fr: /fr/covid/actuel.html
+    de: /de/covid/aktuelles.html
+    en: /en/covid/current.html
 
 covid-kamperen:
     nl: /nl/covid/kamperen.html
@@ -473,5 +476,4 @@ overzetboot:
 welcome-back:
     nl: /nl/covid/welcome-back.html
     fr: /fr/covid/welcome-back.html
-covid-nieuws:
-    nl: /nl/covid/actueel.html
+
