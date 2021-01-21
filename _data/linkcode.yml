@@ -278,6 +278,11 @@ voorzieningen:
     fr: /fr/apercu-des-equipements.html
     de: /de/annehmlichkeiten-uebersicht.html
     en: /en/amenities-overview.html
+hotspots:
+    nl: /nl/voorzieningen/hotspots.html
+    fr: /fr/equipements/hotspots.html
+    de: /de/annehmlichkeiten/hotspots.html
+    en: /en/amenities/hotspots.html
 speel:
     nl: /nl/voorzieningen/speelplein.html
     fr: /fr/equipements/terrain-de-jeu.html

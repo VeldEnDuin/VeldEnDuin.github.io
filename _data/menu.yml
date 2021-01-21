@@ -95,6 +95,7 @@
   submenu:
     - submenu:
         - linkcode: voorzieningen
+        - linkcode: hotspots
         - linkcode: speel
         - linkcode: pop_up_bib
         - linkcode: animatie
