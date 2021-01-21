@@ -1,7 +1,7 @@
 ---
 title: Knutselen
 layout: post
-description: zomeranimatie
+description: samen een unieke wereldbol maken
 permalink: /nl/2017-07-13-knutselen.html
 
     

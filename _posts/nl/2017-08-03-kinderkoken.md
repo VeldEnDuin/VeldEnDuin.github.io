@@ -1,7 +1,7 @@
 ---
 title: Kinderkoken
 layout: post
-description: zomeranimatie
+description: alle hapjes worden nadien samen opgesmuld op de kinderreceptie
 permalink: /nl/2017-08-03-kinderkoken.html
 
     

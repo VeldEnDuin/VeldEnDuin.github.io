@@ -41,12 +41,11 @@ insert:
 
 Deze chalets liggen vooraan op de camping en dicht bij het speelplein. Ideaal dus voor de kinderen om hun vriendjes steeds in de buurt te hebben.
 
-## Goedkoopste prijs
-**Tip:** rechtstreeks boeken via onze site of per telefoon / mail is **10% goedkoper** dan via Booking of AirBnb.
+**Tip: Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.**
 
 ## Inrichting chalet
 
-- ruime woonkamer met flatscreen en digibox
+- ruime woonkamer met flatscreen en digitale tv
 - ingerichte keuken met microgolf
 - badkamer met douche, wastafel en toilet
 - slaapkamers chalet:
@@ -57,23 +56,23 @@ Deze chalets liggen vooraan op de camping en dicht bij het speelplein. Ideaal du
 ## Goed om weten
 
 - chalet voorzien voor 4 personen
+- check-in: vanaf 14u - check-out: tot 10u 
 - honden toegelaten - max 2 - geen gevaarlijke rassen
-- geen verhuur mogelijk  tussen 15/01 - 01/03 en 15/11 - 15/12
-
-## Waarborg
-
-- € 50 - contant te betalen bij aankomst
+- verhuur het hele jaar behalve van 15 januari tot 1 maart en 15 november tot 15 december
+- € 50 waarborg contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
-
-## Wat mee te brengen?
-Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
-Lakenpakketten kunt u ook huren.
 
 ## Inbegrepen
 - wifi
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
 - **uitzondering** forfait energiekost 15/12 - 15/01: € 10 / nacht
+
+
+## Wat mee te brengen?
+Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
+Lakenpakketten kunt u ook huren.
+
 
 ## Extra's
 

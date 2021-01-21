@@ -1,7 +1,7 @@
 ---
 title: Oogstfeest
 layout: post
-description: zomeranimatie
+description: topsfeertje op de wafelbak en oogstfeest
 permalink: /nl/2017-08-15-oogstfeest.html
 
     

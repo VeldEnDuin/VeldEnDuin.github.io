@@ -41,8 +41,7 @@ insert:
 
 De appartementen liggen net naast de camping. Zo geniet u van de ruimte van een appartement en kunt u tegelijk vrij gebruik maken van de voorzieningen op onze camping.
 
-## Goedkoopste prijs
-**Tip:** rechtstreeks boeken via onze site of per telefoon / mail is **10% goedkoper** dan via Booking of AirBnb.
+**Tip: Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.**
 
 ## Inrichting appartement
 - ruime woonkamer met flatscreen en digibox
@@ -55,25 +54,25 @@ De appartementen liggen net naast de camping. Zo geniet u van de ruimte van een 
     
 ## Goed om weten
 - appartement voorzien voor 4-5 personen
+- check-in: vanaf 14u - check-out: tot 10u 
 - huisdieren niet toegelaten - wel mogelijk in de chalets of caravans
-- lift voorzien
+- lift
 - gemeenschappelijke ruimte voor fietsen
-- geen verhuur mogelijk  tussen 15/01 - 01/03 en 15/11 - 15/12
-
-## Waarborg
-
-- € 50 - contant te betalen bij aankomst
+- verhuur het hele jaar behalve van 15 januari tot 1 maart en 15 november tot 15 december
+- € 50 waarborg contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
 
-## Wat mee te brengen?
-Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
-Lakenpakketten kunt u ook huren.
 
 ## Inbegrepen
 - wifi
 - parking 1 auto
 - verbruik water en elektriciteit 
 - **uitzondering** forfait energiekost 15/12 - 15/01: € 10 / nacht
+
+## Wat mee te brengen?
+Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
+Lakenpakketten kunt u ook huren.
+
 
 ## Extra's
 
