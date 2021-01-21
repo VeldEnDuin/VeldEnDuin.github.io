@@ -9,14 +9,8 @@ preview: no
 
 ## SANITAIR
 
-Elke eigenaar die over eigen sanitair beschikt in zijn of haar caravan of chalet moet maximaal
-hiervan gebruik maken.
+Elke eigenaar moet gebruik maken van het santair in zijn of haar chalet of caravan, het gemeenschappelijke sanitair is verplicht gesloten tot 1 maart.
 
 ## VERHUUR VAN UW CARAVAN OF CHALET
 
-Door COVID-19 is de verhuur aan bijzondere regels onderworpen die door iedereen
-moeten nageleefd worden.
-
-We hebben een aparte infofiche opgemaakt voor iedereen die zijn chalet of caravan verhuurt.
-Deze infofiche werd reeds doorgemaild aan alle eigenaars die verhuren. Verhuurt u en hebt
-u die niet ontvangen? Contacteer ons dan zo snel mogelijk.
+Tot 1 maart mogen enkel de eigenaars van een chalet of caravan op de camping komen. Het verhuren van de chalet of caravan of het ontvangen van bezoek is verboden.

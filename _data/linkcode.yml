@@ -357,12 +357,6 @@ covid-resientieel:
     de: /de/covid/daueraufenthalt.html
     en: /en/covid/residential-stay.html
 
-covid-strand:
-    nl: /nl/covid/strand.html
-    fr: /fr/covid/plage.html
-    de: /de/covid/strand.html
-    en: /en/covid/beach.html
-
 covid-richtlijn-pictos:
     nl: /img/covid/nl-algemene-richtlijnen.png
     fr: /img/covid/fr-directives-générales.png

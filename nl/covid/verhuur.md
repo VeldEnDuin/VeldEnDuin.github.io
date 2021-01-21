@@ -7,6 +7,16 @@ title: Verhuur
 
 {% include links.md %}
 
+## ACTUELE INFO
+
+De verhuur van chalets is momenteel verboden tot 1 maart. We hopen uiteraard vanaf die tijd weer open te kunnen, hieronder alle richtlijnen en maatregelen die wij dan nemen op onze gasten veilig te kunnen verwelkomen.
+
+## WAT BIJ ANNULATIE OMWILLE VAN COVID-19
+
+* Indien uw verblijf niet kan doorgaan omdat de camping nog verplicht gesloten is, kunt u het reeds betaalde bedrag behouden voor een nieuwe reservatie (geldigheidsduur: 1 jaar). 
+* Bij besmetting van uzelf of uw gezinsleden dient u uiteraard thuis te blijven. Dan gelden dezelfde regels als bij verplichte sluiting van de camping.
+
+
 ## PUBLIC HEALTH PASSENGER LOCATOR FORM
 
 Sinds 1 augustus 2020 moeten onze buitenlandse gasten zich laten registreren 48 uur voor aankomst in België via het zogenaamde [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/nl/public-health-passenger-locator-form). Gelieve dit voor uw aankomst in orde te brengen.
