@@ -481,3 +481,5 @@ overzetboot:
 welcome-back:
     nl: /nl/covid/welcome-back.html
     fr: /fr/covid/welcome-back.html
+covid-nieuws:
+    nl: /nl/covid/algemeen.html
