@@ -467,6 +467,23 @@ items:
       - /img/nieuws/20180925-toerismeprijzen-04.jpg
       - /img/nieuws/20180925-toerismeprijzen-05.jpg
 
+
+  - date: 2018-02-01
+    label: 2018
+    title:
+      nl: "Boek Veld & Duin"
+      fr: "Livre Veld & Duin"
+      de: "Buch Veld & Duin"
+      en: "Book Veld & Duin"
+    description:
+      nl: "Ontdek het boeiende verhaal hoe Veld & Duin van een stuk korenveld evolueerde naar een modern bedrijf, de evolutie van het kamperen in Bredene, interviews, heel wat foto’s en nog zoveel meer in dit unieke naslagwerk."
+      fr: "Découvrez l'histoire fascinante de l'évolution de Veld & Duin d'un champ de maïs à une entreprise moderne, l'évolution du camping à Bredene, des interviews, de nombreuses photos et bien plus encore dans cet ouvrage de référence unique."
+      de: "Entdecken Sie die faszinierende Geschichte, wie sich Veld & Duin von einem Stück Getreidefeld zu einem modernen Unternehmen entwickelt hat, die Entwicklung des Campings in Bredene, Interviews, viele Fotos und vieles mehr in diesem einzigartigen Nachschlagewerk."
+      en: "Discover the fascinating story of how Veld & Duin evolved from a piece of cornfield to a modern company, the evolution of camping in Bredene, interviews, many photos and so much more in this unique reference work."
+    images:
+      - /img/nieuws/20180901-jubileumboek.jpg
+
+
   - date: 2018-12-31
     label: 2018 - 2020
     title:
@@ -496,6 +513,19 @@ items:
       en: "Our chalets and apartments got a make-over. New curtains, couches, decoration and some paintings give a fresh and contemporary look."
     images:
       - /img/overnachten/verhuring-C4pl-chalet/c4plch-01.jpg
+
+  - date: 2019-02-01
+    label: 2019
+    title:
+      nl: "Digitale tv en internet"
+      fr: "Télévision numérique et Internet"
+      de: "Digitales Fernsehen und Internet"
+      en: "Digital TV and internet"
+    description:
+      nl: "Een groot project waarbij we al onze gasten vanaf nu perfecte beeldkwaliteit kunnen aanbieden. Door de aanleg van glasvezel kunnen daarnaast ook goed werkend internet aanbieden."
+      fr: "Un grand projet dans lequel nous pouvons désormais offrir à tous nos clients une qualité d'image parfaite. Grâce à l'installation de fibres optiques, nous pouvons également proposer une connexion Internet fonctionnant correctement."
+      de: "Ein großes Projekt, bei dem wir nun allen unseren Gästen perfekte Bildqualität bieten können. Die Installation von Glasfasern ermöglicht es uns auch, ein ordnungsgemäß funktionierendes Internet anzubieten."
+      en: "A large project in which we can now offer all our guests perfect image quality. The installation of fiber optics also enables us to offer properly functioning internet."
 
 
 

@@ -32,13 +32,13 @@ insert:
 
 # KAMPEERPLAATS 10x8
 
-Combineer de vrijheid van het reizen met een trekcaravan met het comfort van onze camping.
+Voor de trekcaravans hebben we de keuze uit een verharde plaats met groen ervoor of een volledige grasplaats. Geef uw voorkeur door bij reservatie.
 
 ## Goed om weten
 
 - max 6 personen / plaats
 - honden toegelaten: max 2 - geen gevaarlijke rassen
-- niet toegankelijk  tussen 15/01 - 01/03 en 15/11 - 15/12
+- toegankelijk  het hele jaar behalve van 15 januari tot 1 maart en 15 november tot 15 december
 
 ## Prijzen 2021 per nacht
  
@@ -51,11 +51,10 @@ AANTAL PERSONEN | LAAGSEIZOEN | HOOGSEIZOEN
 5 personen     |€ 31         |€ 35
 6 personen     |€ 34         |€ 38
 
-15/7 - 15/8: reservatie vanaf 7 nachten
+* 15/7 - 15/8: reservatie vanaf 7 nachten
+* Hoogseizoen: juli - augustus - verlengde weekends
 
-Hoogseizoen: juli - augustus - verlengde weekends
-
-## Arrangementen laagseizoen
+## Kortingen laagseizoen
 
 Kortingen:
 - verblijf ≥ 7 nachten: -7%

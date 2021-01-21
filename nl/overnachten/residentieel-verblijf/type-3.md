@@ -25,11 +25,11 @@ insert:
 
 # Type 3 - CARAVAN
 
-Wenst u graag een extra groot perceel? Ga dan voor één van onze luxueuze plaatsen en geniet van de extra ruimte.
+Op onze type 3 percelen kan een caravan tot 12 meter staan. Deze ruime percelen bieden alle vrijheid om volop te genieten en onthaasten met uw gezin.
 
 ## Goed om weten
 
-- betonplaat van 12x4 m - geschikt voor grote caravans
+- betonplaat van 12x4 m
 - aparte tellers voor gas - water - elektriciteit
 - ondergronds gasnetwerk - geen gasflessen
 - wintervaste wateraansluiting

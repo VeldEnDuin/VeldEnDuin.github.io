@@ -68,16 +68,15 @@
     - linkcode: residentieel
       submenu:
         - linkcode: residentieel_info
-        - linkcode: type_1
-        - linkcode: type_2
-        - linkcode: type_3
         - linkcode: type_4
+        - linkcode: type_3
+        - linkcode: type_2
+        - linkcode: type_1
 
     - linkcode: arrangementen
       submenu:
         - linkcode: arrangementen
         - linkcode: kadobon
-        - linkcode: midweek
 
 
     - linkcode: te_koop
@@ -97,14 +96,16 @@
     - submenu:
         - linkcode: voorzieningen
         - linkcode: speel
+        - linkcode: pop_up_bib
         - linkcode: animatie
+        - linkcode: toeristische_info
         - linkcode: internet
         - linkcode: sanitair
-        - linkcode: toeristische_info
         - linkcode: wassalon
-        - linkcode: sauna
         - linkcode: fietsberging
-        - linkcode: pop_up_bib
+        - linkcode: sauna
+
+
 
 - linkcode: covid
   menutekst:

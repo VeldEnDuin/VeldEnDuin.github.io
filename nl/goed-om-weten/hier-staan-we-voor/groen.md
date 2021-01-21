@@ -31,9 +31,9 @@ remove:
 Meteen bij het binnenrijden wordt duidelijk dat we een verzorgde en gevarieerde beplanting ontzettend belangrijk vinden. De streekeigen bloemen en planten worden zorgvuldig uitgekozen en dagdagelijks onderhouden zodat iedereen er volop kan van genieten.<br>
 
 
-## Ecologie
+## Duurzaamheid
 
-Groen betekent ook streven naar een zo ecologisch mogelijke werking. Hier proberen we ons steentje bij te dragen door onder meer:
+Groen betekent ook streven naar een zo duurzaam mogelijke werking. Hier dragen we ons steentje bij door onder meer:
 
 - gebruik te maken van zonneboilers voor de luxe-appartementen en het vernieuwde sanitair
 - in te zetten op gescheiden afvalophaling
