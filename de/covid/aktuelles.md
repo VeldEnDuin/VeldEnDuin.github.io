@@ -15,12 +15,12 @@ images:
 {% include links.md %}
 
 ## Aktuelle Richtlinien
-Gemäß dem Ministerialdekret sind Campingplätze bis zum 1. März für die Öffentlichkeit geschlossen. Eine Ausnahme von dieser obligatorischen Schließung gilt für Ferienhäuser, Chalets, Mobilheime und Campingeinrichtungen (Wohnmobile und Wohnwagen, die autark sind), die vom Eigentümer und / oder seinem Haushalt genutzt werden.
+Gemäß dem Ministerialdekret sind Campingplätze bis zum 1. März für die Öffentlichkeit geschlossen. Eine Ausnahme von dieser obligatorischen Schließung gilt für Ferienhäuser, Chalets, Mobilheime und Campingeinrichtungen (Wohnmobile und Wohnwagen, die selbständig sind), die vom Eigentümer und / oder seinem Haushalt genutzt werden.
 
-Insbesondere dürfen unsere Zweitbewohner und die Camper, die über eigene sanitäre Einrichtungen verfügen, kommen. Unsere Vermietung wird für eine Weile ausgesetzt, aber wir hoffen, sie so bald wie möglich wieder öffnen zu können.
+Insbesondere dürfen unsere Zweitwohnsitzinhaber und die Camper, die über eigene sanitäre Einrichtungen verfügen, kommen. Unsere Vermietung wird für eine Weile ausgesetzt, aber wir hoffen, sie so bald wie möglich wieder öffnen zu können.
 
 ## Mundmaskenpflicht
-Gesichtsmasken sind in Geschäften und Einkaufsstraßen, öffentlichen Gebäuden, öffentlichen Verkehrsmitteln und überall dort, wo kein Abstand eingehalten werden kann, weiterhin obligatorisch.
+Mundmasken sind in Geschäften und Einkaufsstraßen, öffentlichen Gebäuden, öffentlichen Verkehrsmitteln und überall dort, wo kein Abstand eingehalten werden kann, weiterhin obligatorisch.
 
 ## Strand und Dünen
-Es gibt keine obligatorische Mundmaske am Strand. Das Gehen ist mit maximal 4 Personen möglich.
+Mundmasken sind am Strand nicht verpflichtet. Das Gehen ist mit maximal 4 Personen möglich.
