@@ -1,7 +1,7 @@
 ---
 title: Wafelfeest
 layout: post
-description: Zomeranimatie 2019
+description: samen smullen van een berg wafels
 permalink: /nl/2019-08-15-wafelfeest.html
 
     

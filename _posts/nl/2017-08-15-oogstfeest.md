@@ -23,7 +23,5 @@ images:
 
 Het was een gezellige drukte op ons oogstfeest. De opbrengst van de wafelbak bedraagt € 430 en gaat volledig naar de 2 goede doelen. Bedankt!
 
-U vindt alle foto's terug in ons [fotoarchief][pics.nl]
-
 
 

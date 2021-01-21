@@ -1,7 +1,7 @@
 ---
 title: Knutselen met afval
 layout: post
-description: Zomeranimatie 2019
+description: restmateriaal krijgt een nieuwe bestemming
 permalink: /nl/2019-07-19-knutselen.html
 
     

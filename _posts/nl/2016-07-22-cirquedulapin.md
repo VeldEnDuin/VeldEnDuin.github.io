@@ -1,7 +1,7 @@
 ---
 title: Cirque du Lapin
 layout: post
-description: zomeranimatie
+description: voorstelling boordevol energie en circuskunsten
 permalink: /nl/2016-07-22-cirquedulapin.html
 
     
@@ -19,7 +19,6 @@ images:
 
 Een ware konijneninvasie bij Veld & Duin met een spetterend optreden van Cirque du Lapin!
 
-U vindt alle foto's terug in ons [fotoarchief][pics.nl]
 
 
 

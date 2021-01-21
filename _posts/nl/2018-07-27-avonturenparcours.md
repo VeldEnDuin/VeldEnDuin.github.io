@@ -1,7 +1,7 @@
 ---
 title: Avonturenparcours
 layout: post
-description: zomeranimatie
+description: klimmen, hangen en klauteren op een zelfgemaakt parcours
 permalink: /nl/2018-07-27-avonturenparcours.html
 
     

@@ -1,7 +1,7 @@
 ---
 title: Jubileumfeest
 layout: post
-description: (her)beleef ons feestweekend...
+description: herbeleef ons heel bijzondere jubileumweekend
 permalink: /nl/2017-06-03-jubileumfeest.html
 
     
@@ -33,7 +33,6 @@ BEDANKT!
 Tijdens het pinksterweekend vierden we het 50-jarig bestaan van de camping. (Her)beleef dit fijne weekend met onderstaand verslag en sfeerfoto’s.
 Heb je zelf ook mooie foto’s of filmpjes van deze dag dan mag je die zeker bezorgen, je doet er ons een groot plezier mee.
 
-U vindt alle foto's van ons jubileumfeest terug in ons [fotoarchief][pics.nl]
 
 
 GIDSBEURTEN TENTOONSTELLING

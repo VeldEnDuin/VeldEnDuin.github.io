@@ -1,7 +1,7 @@
 ---
 title: Tentoonstelling ’de wereld als camping’
 layout: post
-description: 1 april 2017
+description: breng een bezoek aan onze ludieke tentoonstelling
 permalink: /nl/2017-03-31-tentoonstelling.html
 
     

@@ -23,7 +23,6 @@ images:
 
 Deze creatievelingen boetseerden een prachtige fantasie-aarde! 
 
-U vindt alle foto's terug in ons [fotoarchief][pics.nl]
 
 
 

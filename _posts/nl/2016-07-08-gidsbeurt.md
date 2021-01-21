@@ -22,5 +22,3 @@ images:
 
 De eerste zomeranimatie van Veld & Duin was alvast een succes: de gidsbeurt naar de Oostendse haven en vismijn was bijzonder interessant!
 
-U vindt alle foto's terug in ons [fotoarchief][pics.nl]
-

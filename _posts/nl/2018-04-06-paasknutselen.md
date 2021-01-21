@@ -1,7 +1,7 @@
 ---
 title: Paasknutselen
 layout: post
-description: leuke paascreaties...
+description: hippe paaskuikens en andere leuke paascreaties
 permalink: /nl/2018-04-06-paasknutselen.html
 
     

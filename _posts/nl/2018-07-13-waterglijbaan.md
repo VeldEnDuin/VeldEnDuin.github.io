@@ -1,7 +1,7 @@
 ---
 title: Waterglijbaan
 layout: post
-description: zomeranimatie
+description: dé watertopper van het jaar
 permalink: /nl/2018-07-13-waterglijbaan.html
 
     

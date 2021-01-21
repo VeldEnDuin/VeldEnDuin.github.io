@@ -1,7 +1,7 @@
 ---
 title: Knutselen
 layout: post
-description: zomeranimatie
+description: een ochtend samen meesterwerkjes maken
 permalink: /nl/2016-08-19-knutselen.html
 
     
@@ -26,5 +26,4 @@ images:
 
 Deze morgen sloten we de zomeranimatie bij Veld & Duin creatief af met een leuk ochtendje knutselen!
 
-U vindt alle foto's terug in ons [fotoarchief][pics.nl]
 

@@ -1,7 +1,7 @@
 ---
-title: Kunst op de Camping
+title: Workshop Kunst op de Camping
 layout: post
-description: zomeranimatie
+description: maak je eigen kunstwerk
 permalink: /nl/2018-08-03-kunstopdecamping.html
 
     

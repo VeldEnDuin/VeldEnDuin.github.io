@@ -1,7 +1,7 @@
 ---
 title: Waterglijbaan
 layout: post
-description: zomeranimatie
+description: stralend weer en veel waterplezier
 permalink: /nl/2016-08-12-waterglijbaan.html
 
     
@@ -20,5 +20,4 @@ images:
 
 Een zonnig weertje op Veld & Duin dus de waterglijbaan was ook dit jaar een groot succes!
 
-U vindt alle foto's terug in ons [fotoarchief][pics.nl]
 

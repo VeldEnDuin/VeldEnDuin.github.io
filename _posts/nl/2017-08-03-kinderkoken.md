@@ -27,7 +27,6 @@ images:
 
 Het kinderkoken deze morgen was een succes! Met 32 hebben ze voor een heerlijke receptie gezorgd, bedankt!
 
-U vindt alle foto's terug in ons [fotoarchief][pics.nl]
 
 
 

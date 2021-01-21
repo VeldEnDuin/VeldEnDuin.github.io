@@ -1,7 +1,7 @@
 ---
-title: Jubileumboek
+title: boek 50 jaar Veld & Duin 
 layout: post
-description: 50 jaar Veld & Duin in boekvorm
+description: alle verhalen en beelden over 50 jaar camping
 permalink: /nl/2018-09-01-jubileumboek.html
 
     

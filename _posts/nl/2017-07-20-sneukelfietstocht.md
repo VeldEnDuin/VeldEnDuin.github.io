@@ -1,7 +1,7 @@
 ---
 title: Sneukelfietstocht
 layout: post
-description: zomeranimatie
+description: een onweerstaanbare combinatie van sporten en eten
 permalink: /nl/2017-07-20-sneukelfietstocht.html
 
     

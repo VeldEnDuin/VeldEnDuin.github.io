@@ -1,7 +1,7 @@
 ---
 title: Auberge Espagnole & Saddle for Sale
 layout: post
-description: zomeranimatie
+description: lekker eten en een gesmaakt optreden van Saddle for Sale
 permalink: /nl/2016-07-29-aubergeespagnole.html
 
     
@@ -21,7 +21,6 @@ images:
 
 Een supergezellige avond gisteren op Veld & Duin! Bedankt aan alle deelnemers van de Auberge Espagnole voor al de lekkernijen en bedankt aan Saddle for Sale om de avond met een muzikale knal af te sluiten!
 
-U vindt alle foto's terug in ons [fotoarchief][pics.nl]
 
 
 

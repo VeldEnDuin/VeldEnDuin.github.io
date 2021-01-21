@@ -1,7 +1,7 @@
 ---
 title: Gidsbeurt
 layout: post
-description: zomeranimatie
+description: boeiende verhalen in natuurgebied D’Heye
 permalink: /nl/2017-08-25-gidsbeurt.html
 
     
