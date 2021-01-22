@@ -9,10 +9,9 @@ class:
 preview:
     title: Logies Types
     text: 
-        - Boek online uw chalet, caravan of (luxe)appartement en geniet volop van een zorgeloos en comfortabel verblijf. 
-        - Ook kampeerders met eigen caravan, mobilhome of tent zijn bij ons van harte welkom en kunnen hun verblijf online boeken.    
-    image: /img/overnachten/logiestypes.jpg
-    
+        - Schud de winter van je af en leg nu je verblijf voor de lente of zomer vast. Dit mooie vooruitzicht geeft je extra energie om deze donkere maanden te overbruggen. 
+        - Tip! Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.
+        
 images:
     - /img/prevverhuur.jpg
     

@@ -13,8 +13,9 @@ options:
     - voorzieningen    
     
 select:
-    - welcome-back
-    - covid
+    - verhuur
+    - covid-actueel
+#    - nieuwepercelen
     
 class:
     select:

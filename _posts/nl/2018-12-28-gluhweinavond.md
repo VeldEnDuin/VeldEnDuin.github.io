@@ -1,7 +1,7 @@
 ---
 title: Geslaagde glühweinavond
 layout: post
-description: gezellig samenzijn met onze kampeerders
+description: samen toasten op een schitterend 2019
 permalink: /nl/2018-12-28-geslaagde-gluhweinavond.html
 
     

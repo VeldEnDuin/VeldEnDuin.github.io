@@ -1,7 +1,7 @@
 ---
 title: Waterglijbaan
 layout: post
-description: zomeranimatie
+description: dé klassieker in onze zomeranimatie
 permalink: /nl/2017-08-11-waterglijbaan.html
 
     
@@ -23,8 +23,6 @@ images:
 {% include links.md %}
 
 Dolle waterpret bij Veld & Duin!
-
-U vindt alle foto's terug in ons [fotoarchief][pics.nl]
 
 
 

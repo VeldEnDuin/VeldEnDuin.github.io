@@ -1,7 +1,7 @@
 ---
 title: Knutselen
 layout: post
-description: zomeranimatie
+description: prachtige knutselwerkjes van onze jongste gasten
 permalink: /nl/2018-08-17-knutselen.html
 
     

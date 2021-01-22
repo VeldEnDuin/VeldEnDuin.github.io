@@ -1,7 +1,7 @@
 ---
-title: Geslaagde glühweinavond
+title: Gezellige glühweinavond
 layout: post
-description: gezellig samenzijn met onze kampeerders
+description: fijn samenzijn met onze kampeerders
 permalink: /nl/2019-12-27-geslaagde-gluhweinavond.html
 
     

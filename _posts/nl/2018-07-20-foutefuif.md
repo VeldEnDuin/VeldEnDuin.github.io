@@ -1,7 +1,7 @@
 ---
 title: Foute fuif
 layout: post
-description: zomeranimatie
+description: foute kledij en foute muziek op een topdansavond
 permalink: /nl/2018-07-20-foutefuif.html
 
     

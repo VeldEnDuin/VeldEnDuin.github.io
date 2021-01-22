@@ -1,7 +1,7 @@
 ---
 title: Escape Caravan
 layout: post
-description: Zomeranimatie 2019
+description: wie ontsnapt tijdig uit deze vintage caravan?
 permalink: /nl/2019-08-02-waterglijbaan.html
 
     

@@ -248,11 +248,6 @@ kadobon:
     fr: /fr/hebergement/forfaits/cheque-cadeau.html
     de: /de/uebernachten/arrangements/geschenkgutschein.html
     en: /en/accomodation/offers/gift-voucher.html
-midweek:
-    nl: /nl/overnachten/arrangementen/midweekarrangement.html
-    fr: /fr/hebergement/forfaits/actionmisemaine.html
-    de: /de/uebernachten/arrangements/midweekangebot.html
-    en: /en/accomodation/offers/midweekpromotion.html
 
 # [2.5] submenu overnachten -> te koop
 te_koop:
@@ -273,6 +268,11 @@ voorzieningen:
     fr: /fr/apercu-des-equipements.html
     de: /de/annehmlichkeiten-uebersicht.html
     en: /en/amenities-overview.html
+hotspots:
+    nl: /nl/voorzieningen/hotspots.html
+    fr: /fr/equipements/hotspots.html
+    de: /de/annehmlichkeiten/hotspots.html
+    en: /en/amenities/hotspots.html
 speel:
     nl: /nl/voorzieningen/speelplein.html
     fr: /fr/equipements/terrain-de-jeu.html
@@ -326,6 +326,12 @@ covid:
     de: /de/covid/allgemein.html
     en: /en/covid/general.html
 
+covid-actueel:
+    nl: /nl/covid/actueel.html
+    fr: /fr/covid/actuel.html
+    de: /de/covid/aktuelles.html
+    en: /en/covid/current.html
+
 covid-kamperen:
     nl: /nl/covid/kamperen.html
     fr: /fr/covid/campeurs.html
@@ -343,12 +349,6 @@ covid-resientieel:
     fr: /fr/covid/sejour-residentiel.html
     de: /de/covid/daueraufenthalt.html
     en: /en/covid/residential-stay.html
-
-covid-strand:
-    nl: /nl/covid/strand.html
-    fr: /fr/covid/plage.html
-    de: /de/covid/strand.html
-    en: /en/covid/beach.html
 
 covid-richtlijn-pictos:
     nl: /img/covid/nl-algemene-richtlijnen.png
@@ -471,3 +471,4 @@ overzetboot:
 welcome-back:
     nl: /nl/covid/welcome-back.html
     fr: /fr/covid/welcome-back.html
+

@@ -1,7 +1,7 @@
 ---
-title: Shit Happens
+title: circusact Shit Happens
 layout: post
-description: zomeranimatie
+description: knotsgekke toestanden op en rond het toilet
 permalink: /nl/2018-08-14-shithappens.html
 
     

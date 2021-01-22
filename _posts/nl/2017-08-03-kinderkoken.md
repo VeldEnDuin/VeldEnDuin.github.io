@@ -1,7 +1,7 @@
 ---
 title: Kinderkoken
 layout: post
-description: zomeranimatie
+description: alle hapjes worden nadien samen opgesmuld op de kinderreceptie
 permalink: /nl/2017-08-03-kinderkoken.html
 
     
@@ -27,7 +27,6 @@ images:
 
 Het kinderkoken deze morgen was een succes! Met 32 hebben ze voor een heerlijke receptie gezorgd, bedankt!
 
-U vindt alle foto's terug in ons [fotoarchief][pics.nl]
 
 
 

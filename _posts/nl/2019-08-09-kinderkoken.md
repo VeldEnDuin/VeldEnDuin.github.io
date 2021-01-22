@@ -1,7 +1,7 @@
 ---
 title: Kinderkoken
 layout: post
-description: Zomeranimatie 2019
+description: onze jongste koks vol overgave aan het werk
 permalink: /nl/2019-08-09-kinderkoken.html
 
     

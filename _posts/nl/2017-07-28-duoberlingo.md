@@ -1,7 +1,7 @@
 ---
-title: Duo Berlingo
+title: circusact Duo Berlingo
 layout: post
-description: zomeranimatie
+description: gewaagde constructies met blauwe groentenbakken
 permalink: /nl/2017-07-28-duoberlingo.html
 
     
@@ -23,7 +23,6 @@ images:
 
 Bedankt aan Duo Berlingo voor de schitterende voorstelling!
 
-U vindt alle foto's terug in ons [fotoarchief][pics.nl]
 
 
 

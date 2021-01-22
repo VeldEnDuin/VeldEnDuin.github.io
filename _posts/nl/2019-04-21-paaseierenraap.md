@@ -1,7 +1,7 @@
 ---
 title: Paaseierenraap
 layout: post
-description: paasanimatie bij Veld & Duin...
+description: wie vindt er de meeste paaseieren?
 permalink: /nl/2019-04-21-paaseierenraap.html
 
     

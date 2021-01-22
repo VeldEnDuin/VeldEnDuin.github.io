@@ -1,16 +1,15 @@
 ---
 layout: page
-title: nieuwe percelen
+title: eigen stekje aan zee
 
 preview:
-    title: nieuwe percelen
+    title: eigen stekje aan zee
     text: 
-        - Er worden deze winter 9 gloednieuwe percelen aangelegd voor residentiële caravans. 
-        - Beschikbaar vanaf mei 2020.
+        - Ook interesse in een vast verblijf aan zee? Van de 22 percelen die we recent aanlegden voor residentiële caravans is er nog één ruim en zuidgericht vrij.
 
         
 images:
-    - /img/nieuwepercelen.jpg
+    - /img/plan-3d-nieuwproject.jpg
 
 insert:
     - page-images-top
@@ -19,10 +18,15 @@ insert:
 
 {% include links.md %}
 
-# Nieuwe percelen
+# Eigen stekje aan zee
 
-Er worden deze winter 9 gloednieuwe percelen aangelegd voor residentiële caravans tot 12 meter. Beschikbaar vanaf mei 2020.
+De nieuwe en ruime percelen die we aanlegden werden heel snel ingenomen. Op dit moment is er nog 1 perceel vrij tot maximaal 10 meter, kom dus snel een kijkje nemen.
 
-De percelen zijn voorzien voor nieuwe caravans tot 12m en zijn gemiddeld zo’n 175 m².
-Deze plaatsen zijn voorzien van 16 kw elektriciteit, een ondergrondse gasleiding, mogelijkheid tot watertoevoer in de winter en digitale tv.
-Maak een afspraak voor een bezoek en kom ter plaatse een kijkje nemen, we geven u met plezier alle verdere uitleg.
+- [perceeltype 2][type_2.nl]
+- volledig zuidgericht
+- perceel H9
+- caravan tot 10 meter
+- voor nieuwe caravans werken we samen met [Ideal Caravans](https://ideal-caravans.be/) en [EDC](http://www.stacaravancentrum-edc.be/)
+
+Wist je dat we vanaf september 2021 opnieuw percelen aanleggen voor caravans tot 12 meter? Meer details vanaf de Paasvakantie 2021.
+

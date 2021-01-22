@@ -1,7 +1,7 @@
 ---
 title: Paaseierenraap
 layout: post
-description: paasanimatie bij Veld & Duin...
+description: vind de eieren en verdien er nog extra met leuke spelletjes
 permalink: /nl/2018-04-01-paaseierenraap.html
 
     

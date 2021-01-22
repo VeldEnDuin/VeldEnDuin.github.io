@@ -1,7 +1,7 @@
 ---
 title: Knutselen
 layout: post
-description: zomeranimatie
+description: samen een unieke wereldbol maken
 permalink: /nl/2017-07-13-knutselen.html
 
     
@@ -23,7 +23,6 @@ images:
 
 Deze creatievelingen boetseerden een prachtige fantasie-aarde! 
 
-U vindt alle foto's terug in ons [fotoarchief][pics.nl]
 
 
 

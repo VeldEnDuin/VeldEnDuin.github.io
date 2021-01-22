@@ -35,7 +35,7 @@ Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Ga 
 ## Goed om weten
 
 - alle type 4 percelen liggen rond de wadi
-- betonplaat van 12x4 m - geschikt voor grote caravans
+- betonplaat van 12x4 m
 - aparte tellers voor gas - water - elektriciteit
 - ondergronds gasnetwerk - geen gasflessen
 - wintervaste wateraansluiting

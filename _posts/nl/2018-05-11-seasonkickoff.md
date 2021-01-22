@@ -1,7 +1,7 @@
 ---
 title: Season Kickoff
 layout: post
-description: 11/05
+description: het seizoen gestart in stijl met optreden Seagulls
 permalink: /nl/2018-05-11-seasonkickoff.html
 
     

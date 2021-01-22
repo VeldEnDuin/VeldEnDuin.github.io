@@ -6,6 +6,12 @@ layout: page
 
 {% include links.md %}
 
+## WAT BIJ ANNULATIE OMWILLE VAN COVID-19
+
+* Indien uw verblijf niet kan doorgaan omdat de camping nog verplicht gesloten is, kunt u het reeds betaalde bedrag behouden voor een nieuwe reservatie (geldigheidsduur: 1 jaar). 
+* Bij besmetting van uzelf of uw gezinsleden dient u uiteraard thuis te blijven. Dan gelden dezelfde regels als bij verplichte sluiting van de camping.
+
+
 ## PUBLIC HEALTH PASSENGER LOCATOR FORM
 
 Sinds 1 augustus 2020 moeten onze buitenlandse gasten zich laten registreren 48 uur voor aankomst in België via het zogenaamde [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/nl/public-health-passenger-locator-form). Gelieve dit voor uw aankomst in orde te brengen.
@@ -34,14 +40,6 @@ Gelieve ons op te bellen om te melden dat de plaats vrij is.
 
 ## RICHTLIJNEN SANITAIR EN SERVICESTATION
 
-* De sanitaire faciliteiten openen opnieuw op 25/06.
+* Het gemeenschappelijk sanitair is verplicht gesloten tot 1 maart.
+* Enkel kampeerders met eigen sanitaire voorzieningen kunnen verblijven
 
-* Iedereen met eigen sanitair wordt gevraagd dit bij voorkeur te gebruiken.
-
-* Het sanitair en servicestation worden regelmatig grondig schoongemaakt en alle contact-
-punten gedesinfecteerd.
-
-* Reinig het servicestation nadat u het chemisch toilet geleegd hebt. Het gebruik van hand-
-schoenen is aangewezen.
-
-* Was uw handen grondig voor en na gebruik van het sanitair of servicestation.

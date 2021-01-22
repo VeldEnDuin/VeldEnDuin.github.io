@@ -1,8 +1,8 @@
 ---
-title: Kampeerautoplaatsen
+title: Sanitstation
 layout: post
-description: met nieuw sanistation
-permalink: /nl/2017-01-01-geslaagde-gluhweinavond.html
+description: onze kampeerautoplaatsen voorzien van een nieuw sanistation
+permalink: /nl/2017-01-01-sanistation.html
 
     
 images: 

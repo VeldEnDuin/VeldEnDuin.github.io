@@ -41,12 +41,11 @@ insert:
 
 Even alleen komen uitwaaien of met z'n tweetjes? In deze chalet is het heerlijk thuiskomen na een dagje genieten aan onze kust.
 
-## Goedkoopste prijs
-**Tip:** rechtstreeks boeken via onze site of per telefoon / mail is **10% goedkoper** dan via Booking of AirBnb.
+**Tip: Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.**
 
 ## Inrichting chalet
 
-- woonkamer met flatscreen en digibox
+- woonkamer met flatscreen en digitale tv
 - ingerichte keuken met microgolf
 - badkamer met douche, wastafel en toilet
 - slaapkamer chalet:
@@ -56,21 +55,21 @@ Even alleen komen uitwaaien of met z'n tweetjes? In deze chalet is het heerlijk 
 ## Goed om weten
 
 - chalet voorzien voor 2 personen
+- check-in: vanaf 14u - check-out: tot 10u 
 - 1 hond toegelaten - geen gevaarlijke rassen
-- niet boekbaar tussen 15/11 en 01/03
-
-## Waarborg
-- € 50 - contant te betalen bij aankomst
+- verhuur het hele jaar behalve van 15 januari tot 1 maart en 15 november tot 15 december
+- € 50 waarborg contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
-
-## Wat mee te brengen?
-Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
-Lakenpakketten kunt u ook huren.
 
 ## Inbegrepen
 - wifi
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
+
+## Wat mee te brengen?
+Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
+Lakenpakketten kunt u ook huren.
+
 
 ## Extra's
 

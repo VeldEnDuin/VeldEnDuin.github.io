@@ -38,13 +38,12 @@ insert:
 
 # Caravan comfort 2 
 
-Deze mini-caravan met privé-tuintje is ideaal voor wie houdt van het buitenleven maar 's avonds toch graag z'n eigen potje kookt of een verkwikkende douche neemt.
+Ons charmante tiny house met privé-tuintje is ideaal voor wie houdt van het buitenleven maar 's avonds toch graag z'n eigen potje kookt of een verkwikkende douche neemt.
 
-## Goedkoopste prijs
-**Tip:** rechtstreeks boeken via onze site of per telefoon / mail is **10% goedkoper** dan via Booking of AirBnb.
+**Tip: Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.**
 
 ## Inrichting caravan
-- kleine woonruimte met tv en digibox
+- kleine woonruimte met flatscreen en digitale tv
 - keuken met 2-pits kookvuur en kleine microgolf
 - badkamer met douche en wastafel 
 - apart toilet
@@ -52,21 +51,20 @@ Deze mini-caravan met privé-tuintje is ideaal voor wie houdt van het buitenleve
 - privé-tuintje met tuinmeubilair
     
 ## Goed om weten
+- check-in: vanaf 14u - check-out: tot 10u 
 - kleine hond toegelaten maar houd er rekening mee dat de woonruimte beperkt is
-- niet boekbaar tussen 15/11 en 01/03
-
-## Waarborg
-- € 50 - contant te betalen bij aankomst
+- verhuur het hele jaar behalve van 15 november tot 1 maart
+- € 50 waarborg contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
-
-## Wat mee te brengen?
-Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
-Lakenpakketten kunt u ook huren.
 
 ## Inbegrepen
 - wifi
 - parking 1 auto
 - verbruik gas-water-elektriciteit 
+
+## Wat mee te brengen?
+Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
+Lakenpakketten kunt u ook huren.
 
 
 ## Extra's

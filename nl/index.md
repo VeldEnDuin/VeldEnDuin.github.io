@@ -14,8 +14,9 @@ options:
     - voorzieningen
     
 select:
-    - welcome-back
-    - covid
+    - verhuur
+    - nieuwepercelen
+    - covid-actueel
     
 class:
     select:
@@ -26,5 +27,5 @@ class:
 
 ## Welkom!
 
-Als familiebedrijf staat **Veld & Duin** reeds jarenlang garant voor een gastvrij onthaal op ons groen, verzorgd en eigentijds vakantiepark.
-We zijn het hele jaar door geopend zodat u in elk seizoen kunt genieten van een deugddoend verblijf.
+Als familiebedrijf staat **Veld & Duin** al meer dan 50 jaar garant voor een gastvrij onthaal op ons groen, verzorgd en eigentijds vakantiepark op wandelafstand van de zee.
+Bredene weet met z’n mooie duinengordel elke natuurliefhebber te bekoren. Zijn centrale ligging aan de kust maakt het bovendien tot de ideale uitvalsbasis voor het verkennen van de andere kustplaatsen, Brugge en de omliggende polders.

@@ -44,8 +44,7 @@ insert:
 
 Gelegen boven de receptie bieden deze nieuwe en luxueuze appartementen een mooi zicht op de bloemenpracht aan de ingang van de camping. 
 
-## Goedkoopste prijs
-**Tip:** rechtstreeks boeken via onze site of per telefoon / mail is **10% goedkoper** dan via Booking of AirBnb.
+**Tip: Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.**
 
 ## Inrichting luxe appartement
 
@@ -66,24 +65,23 @@ Gelegen boven de receptie bieden deze nieuwe en luxueuze appartementen een mooi 
 
 - appartement eerste verdieping: max 5 personen
 - appartement tweede verdieping: max 6 personen
+- check-in: vanaf 14u - check-out: tot 10u 
 - huisdieren niet toegelaten - wel mogelijk in de chalets of caravans
-- geen lift
-- geen verhuur mogelijk  tussen 15/01 - 01/03 en 15/11 - 15/12
-
-## Waarborg
-
-- € 50 - contant te betalen bij aankomst
+- trappenhal - geen lift
+- verhuur het hele jaar behalve van 15 januari tot 1 maart en 15 november tot 15 december
+- € 50 waarborg contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is 
 
-## Wat mee te brengen?
-Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
-Lakenpakketten kunt u ook huren.
 
 ## Inbegrepen
 - wifi
 - parking 1 auto
 - verbruik water en elektriciteit 
 - **uitzondering** forfait energiekost 15/12 - 15/01: € 10 / nacht
+
+## Wat mee te brengen?
+Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
+Lakenpakketten kunt u ook huren.
 
 
 ## Extra's

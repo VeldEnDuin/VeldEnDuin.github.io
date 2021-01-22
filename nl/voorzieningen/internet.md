@@ -28,7 +28,7 @@ Post uw mooiste vakantiefoto en houd uw familie en vrienden op de hoogte van all
 
 ## Internet huurchalets en appartementen
 
-Bij het huren van een chalet, caravan of appartement zijn 2 internettickets voor de duur van uw verblijf in de huurprijs inbegrepen. Elk ticket is bruikbaar voor 1 toestel. Indien u extra tickets wenst kunt u die aankopen bij de receptie.
+Bij het huren van een chalet, caravan of appartement is het internet voor de duur van uw verblijf inbegrepen in de prijs. 
 In elk van onze verhuuraccommodaties staat een modem die garant staat voor een stabiel en snel internet in uw verblijf.
 Op de camping (speelplein,...) schakelt uw ingelogde toestel dan automatisch over op de wifi.
 

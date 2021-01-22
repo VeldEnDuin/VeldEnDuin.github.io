@@ -1,7 +1,7 @@
 ---
 title: Geslaagde glühweinavond
 layout: post
-description: gezellig samenzijn met onze kampeerders
+description: mooie afsluiter van het kampeerjaar
 permalink: /nl/2016-12-29-geslaagde-gluhweinavond.html
 
     
