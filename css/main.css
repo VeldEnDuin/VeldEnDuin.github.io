@@ -37,6 +37,7 @@ new colours  // veld & duin
 }
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
     border-color: hsl(84, 55%, 13%);
+    border-top: none;
 }
 .navbar-inverse .navbar-nav>li>a {
     color: #fff;
@@ -45,6 +46,21 @@ new colours  // veld & duin
     color: rgb(67,182,73); 
 }
 
+.navbar-toggle {
+    outline: none;
+    border: none;
+}
+
+.navbar-inverse .navbar-toggle:hover, 
+.navbar-inverse .navbar-toggle:focus {
+    background-color: hsl(84, 55%, 13%);
+}
+
+.dropdown-menu>.active>a, 
+.dropdown-menu>.active>a:hover, 
+.dropdown-menu>.active>a:focus {
+    background-color: rgb(67,182,73); 
+}
 
 /* ==========================================================================
  * linking
@@ -332,9 +348,11 @@ h3 {
  *   [all groups]
  */
 .subnav {
+    background: #fff;
+}
+.subnav .spaced {
     padding-top: 3em;
     padding-bottom: 3em;
-    background: #fff;
 }
 
 .vd-group-filter {
@@ -704,7 +722,7 @@ svg.tagcloud {
   padding-bottom: 3px;
 }
 .vd-select-list .vd-select-item-wrap {
-    padding: 3px;
+    padding: 3px 3px 13px 3px;
 }
 .vd-select-list .vd-select-item-wrap .vd-select-item {
     background: #fff;
@@ -1186,7 +1204,7 @@ button.vd-callout-btn:hover {
 }
 .vd-news-list {
     overflow-y: hidden;
-    overflow-x: hidden;
+    overflow-x: scroll;
     position: relative;
 }
 .vd-news-list >div {
@@ -1497,7 +1515,8 @@ a.vd-barelink, a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.
     /* background-color: rgba(255, 255, 255, 0.5); */
     margin: 1em 0 0 0;
     height: 160px;
-    overflow: hidden;
+    overflow-x: scroll;
+    overflow-y: hidden;
 }
 .vd-group-item-inner .vd-img-strip {
     overflow-x: auto;

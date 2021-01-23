@@ -646,6 +646,25 @@
      * =======================================================================
      */
     $(function () {
+        const browser_id_regex = [
+            /Android/i,
+            /webOS/i,
+            /iPhone/i,
+            /iPad/i,
+            /iPod/i,
+            /BlackBerry/i,
+            /Windows Phone/i
+        ];
+
+        let isMobile = browser_id_regex.some((re) => {
+                return navigator.userAgent.match(re);
+        });
+        
+        if (isMobile) {
+            return; // no zoom features on smartphone
+        }
+        //else
+        
         let $strip = $(".vd-img-strip");
         let $content = $(".vd-layout-page");
         let $imgs = $.merge($("img", $strip), $("img", $content));
