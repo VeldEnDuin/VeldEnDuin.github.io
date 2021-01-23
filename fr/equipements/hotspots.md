@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Points d'intérêt
-picto: 
+picto:  /img/svg/voorzieningen/hotspots.svg
 
 images:
     - /img/voorzieningen/hotspots/hotspot-01.jpg

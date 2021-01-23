@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hotspots
-picto: 
+picto:  /img/svg/voorzieningen/hotspots.svg
 
 images:
     - /img/voorzieningen/hotspots/hotspot-01.jpg

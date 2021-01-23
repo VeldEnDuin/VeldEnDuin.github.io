@@ -14,7 +14,6 @@ images:
 insert:
     - page-images-top
 
-
 ---
 
 # Gastvrij

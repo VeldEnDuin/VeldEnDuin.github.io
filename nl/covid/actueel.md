@@ -1,6 +1,6 @@
 ---
 title: Actueel
-layout: default
+layout: page
     
 preview:
     title: Covid-19 Nieuws

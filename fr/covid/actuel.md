@@ -1,6 +1,6 @@
 ---
 title: Actuel
-layout: default
+layout: page
     
 preview:
     title: actualités Covid-19

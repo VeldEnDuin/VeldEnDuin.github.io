@@ -1,6 +1,6 @@
 ---
 title: Current situation
-layout: default
+layout: page
     
 preview:
     title: current Covid-19 situation
