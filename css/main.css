@@ -53,7 +53,7 @@ new colours  // veld & duin
 
 .navbar-inverse .navbar-toggle:hover, 
 .navbar-inverse .navbar-toggle:focus {
-    background-color: hsl(84, 55%, 13%);
+    background-color: rgb(67,182,73);
 }
 
 .dropdown-menu>.active>a, 
