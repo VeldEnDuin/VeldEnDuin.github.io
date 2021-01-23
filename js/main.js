@@ -15,6 +15,21 @@
         return Object.prototype.toString.call(s) === '[object String]';
     }
 
+    const browser_id_regex = [
+        /Android/i,
+        /webOS/i,
+        /iPhone/i,
+        /iPad/i,
+        /iPod/i,
+        /BlackBerry/i,
+        /Windows Phone/i
+    ];
+
+    let isMobile = browser_id_regex.some((re) => {
+            return navigator.userAgent.match(re);
+    });
+
+    
     /*
      * geo stuff
      * =======================================================================
@@ -646,19 +661,6 @@
      * =======================================================================
      */
     $(function () {
-        const browser_id_regex = [
-            /Android/i,
-            /webOS/i,
-            /iPhone/i,
-            /iPad/i,
-            /iPod/i,
-            /BlackBerry/i,
-            /Windows Phone/i
-        ];
-
-        let isMobile = browser_id_regex.some((re) => {
-                return navigator.userAgent.match(re);
-        });
         
         if (isMobile) {
             return; // no zoom features on smartphone
@@ -703,6 +705,10 @@
      * =======================================================================
      */
     $(function () {
+        if (isMobile) {
+            return; // no fancy image rotate on small devices
+        }
+        //else
         let $banner = $("#vd-banner");
         //console.log("$banner.length", $banner.length)
         if ($banner.length == 0) {
