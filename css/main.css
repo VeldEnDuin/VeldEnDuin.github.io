@@ -1474,7 +1474,8 @@ a.vd-barelink, a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.
     white-space: nowrap;
 }
 
-.vd-img-strip>div>img {
+.vd-img-strip>div>img,
+.vd-layout-page p>img {
     /* float: left; */
     max-height: 100%;
     max-width: 100%;

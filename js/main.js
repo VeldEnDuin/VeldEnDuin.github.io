@@ -647,7 +647,8 @@
      */
     $(function () {
         let $strip = $(".vd-img-strip");
-        let $imgs = $("img", $strip);
+        let $content = $(".vd-layout-page");
+        let $imgs = $.merge($("img", $strip), $("img", $content));
         let $display = $("#display");
         let $viewer = $("img", $display);
         let $prev= $(".vd-prev", $display);
