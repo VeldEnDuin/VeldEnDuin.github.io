@@ -244,8 +244,7 @@ table.table {
     width: auto;
     /*min-width: 80%;*/
     background-color: rgba(255,255,255,0.8);
-    margin-left: 1em;
-    border: 1px solid rgb(212,71,39);
+    border: 1px solid rgb(67,182,73);
     vertical-align: middle;
 }
 
@@ -253,12 +252,12 @@ table.table>thead>tr>th,
 table.table>tbody>tr>td {
     padding-left: 3em;
     padding-right: 3em;
-    border: 1px solid rgb(212,71,39);
+    border: 1px solid rgb(67,182,73);
     vertical-align: middle;
 }
 
 table.table>thead>tr>th {
-    background-color: rgb(237,127,43);
+    background-color: rgb(146, 200, 65);
     border-bottom-width: 2px;
     padding-top: 1em;
     padding-bottom: 1em;
@@ -288,6 +287,7 @@ table.table>tbody>tr>td:first-child
 }
 .vd-share-grp button {
     background-color: rgba(255, 255, 255, 0.75);
+    padding: 3px 6px 3px 6px;
 }
 .fa.vd-share-gp {
     color: #dd4b39!important;
@@ -306,10 +306,19 @@ table.table>tbody>tr>td:first-child
  * styling vd-layout-page sections
  *   -------------------------------------------------------------------------------
  */
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 20px;
+}
+h3 {
+    font-size: 18px;
+}
 .vd-layout-page  h1 {
     text-transform: uppercase;
 }
-
 .vd-layout-page h2 {
     padding-top: 1em;
 }
@@ -680,7 +689,7 @@ svg.tagcloud {
 
 .vd-select-submenu .vd-select-content ul li{
     list-style: none;
-    line-height: 1em;
+    line-height: 1.6em;
     font-size: 1em;
 }
 .vd-select-submenu .vd-select-content ul li:before {
@@ -835,7 +844,7 @@ h2.vd-select-title-fill {
     margin-left: auto;
     margin-right: auto;
     padding:0.8em;
-    font-size:1em;
+    font-size:0.85em;
     background-color: rgb(186, 189, 140);
 }
 .vd-select-list > :nth-child(odd) .vd-button {
@@ -850,7 +859,7 @@ h2.vd-select-title-fill {
     display: block;
 }
 .vd-select-submenu .vd-button .vd-button-price {
-    font-size: 1.5em;
+    font-size: 1.7em;
     font-weight: bold;
 }
 .vd-select-submenu .vd-button span.vd-button-price:before {
@@ -1199,7 +1208,6 @@ button.vd-callout-btn:hover {
     line-height: 100%
 }
 .vd-news-title.page-header {
-    margin-bottom: 2em;
     padding-bottom: 0.5em;
     min-height: 0px;
 }

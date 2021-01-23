@@ -37,12 +37,11 @@ insert:
     - page-images-top
 
 ---
-
 {% include links.md %}
 
 Gelegen boven de receptie bieden deze nieuwe en luxueuze appartementen een mooi zicht op de bloemenpracht aan de ingang van de camping. 
 
-**Tip: Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.**
+*Tip: Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.*
 
 ## Inrichting luxe appartement
 
@@ -75,7 +74,7 @@ Gelegen boven de receptie bieden deze nieuwe en luxueuze appartementen een mooi 
 - wifi
 - parking 1 auto
 - verbruik water en elektriciteit 
-- **uitzondering** forfait energiekost 15/12 - 15/01: € 10 / nacht
+- uitzondering: forfait energiekost 15/12 - 15/01: € 10 / nacht
 
 ## Wat mee te brengen?
 Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.

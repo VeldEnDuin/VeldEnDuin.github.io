@@ -34,14 +34,11 @@ insert:
     - page-images-top
 
 ---
-
-
 {% include links.md %}
 
 Located above the reception these new and luxurious apartments overlook the floral beauty at the entrance of the campsite.
 
-## Cheapest price
-**Tip:** booking directly through our site or by phone / e-mail is **10% cheaper** than booking or AirBnb.
+*Tip: booking directly through our site, by phone or e-mail is 10% cheaper than booking or AirBnb.*
 
 ## Facilities luxury apartment
 
@@ -79,7 +76,7 @@ Bed linen can also be rented at the reception.
 - wifi
 - parking 1 car
 - consumption water & electricity
-- **exception** flat-rate energy cost 15/12 - 15/01: € 10 / night
+- exception: flat-rate energy cost 15/12 - 15/01: € 10 / night
 
 ## Extra Services
 

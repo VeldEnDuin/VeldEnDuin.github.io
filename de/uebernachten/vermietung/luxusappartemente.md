@@ -34,14 +34,11 @@ insert:
     - page-images-top
 
 ---
-
-
 {% include links.md %}
 
 Diese neuen Luxusappartements liegen über der Rezeption und bieten einen herrlichen Ausblick auf die Blumenpracht an der Zufahrt zum Campingplatz.
 
-## Günstigster Preis
-**Tipp:** Die Buchung direkt über unsere Website oder per Telefon / Email ist **10% günstiger** als über Buchung oder AirBnb.
+*Tipp: Die Buchung direkt über unsere Website, per Telefon oder Email ist 10% günstiger als über Booking oder AirBnb.*
 
 ## Einrichtung Luxusappartement
 
@@ -79,7 +76,7 @@ Bettbezüge können Sie auch bei uns mieten.
 - W-lan
 - Parkplatz für 1 Auto
 - Verbrauch von Wasser und Strom
-- **Ausnahme** Energiekostenpauschale 15/12 - 15/01: € 10 / Nacht
+- Ausnahme: Energiekostenpauschale 15/12 - 15/01: € 10 / Nacht
 
 ## Extras
 

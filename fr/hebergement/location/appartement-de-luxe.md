@@ -34,14 +34,11 @@ insert:
     - page-images-top
 
 ---
-
-
 {% include links.md %}
 
 Situés au-dessus de la réception, ces nouveaux appartements luxueux offrent une vue imprenable sur les magnifiques parterres de fleur de l’entrée du camping.  
 
-## Prix le moins cher
-**Astuce:** réserver directement sur notre site ou par téléphone / e-mail coûte **10% moins cher** que via Booking ou AirBnb.
+*Conseil: réserver directement sur notre site, par téléphone ou par e-mail coûte 10% moins cher que via Booking ou AirBnb.*
 
 ## Aménagement de l’appartement de luxe
 
@@ -79,7 +76,7 @@ Le linge de lit peut être loué au camping.
 - wifi
 - parking 1 voiture
 - consommation eau - électricité 
-- **exception** forfait pour les frais énergétiques 15/12 - 15/01: € 10 / nuit
+- exception: forfait pour les frais énergétiques 15/12 - 15/01: € 10 / nuit
 
 ## Suppléments
 
