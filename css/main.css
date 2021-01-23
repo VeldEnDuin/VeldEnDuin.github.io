@@ -167,8 +167,12 @@ span.socmed-pinterest {
     margin-top: 300px;
 }
 .spaced {
-    margin-top: 3em;
-    margin-bottom: 3em;
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+.spaced div#form-booking {
+    margin-top: 1em;
+    margin-bottom: 2em;
 }
   
 .btn.btn-primary {
