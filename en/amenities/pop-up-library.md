@@ -23,8 +23,6 @@ remove:
 ---
 {% include links.md %}
 
-# Pop-up library
-
 Holiday at last... time to immerge yourself in a good book! 
 
 You can borrow a wide range of books from our pop-up library, for free.

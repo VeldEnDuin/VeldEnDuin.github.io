@@ -36,8 +36,6 @@ insert:
 
 {% include links.md %}
 
-# Chalet Comfort 2 
-
 Sie wollen sich ein wenig allein oder zu zweit den Wind um die Nase wehen lassen? In dieses Chalet kehren Sie gern zurück, nachdem Sie den Tag über unsere Küste genossen haben.
 
 ## Günstigster Preis

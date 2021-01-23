@@ -22,8 +22,6 @@ remove:
 
 {% include links.md %}
 
-# Sauna 
-
 Verwöhnen Sie Ihren Körper nach einem langen Strandspaziergang oder einem anstrengenden Einkaufsbummel mit einer wohltuenden Sauna. 
 
 Unser Saunaraum bietet folgende Annehmlichkeiten:

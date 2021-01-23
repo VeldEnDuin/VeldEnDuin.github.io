@@ -36,8 +36,6 @@ insert:
 
 {% include links.md %}
 
-# Studio confort 2 
-
 Envie de vous ressourcer seul ou à deux? Vous vous sentirez comme à la maison dans ce confortable studio après une agréable journée à la côte.
 
 ## Prix le moins cher

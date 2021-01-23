@@ -27,7 +27,7 @@ remove:
 ---
 {% include links.md %}
 
-# Entertainment Veld & Duin summer 2020
+## Entertainment Veld & Duin summer 2020
 
 At this moment it is still uncertain if entertainment will be possible on the campsite and on what conditions. 
 

@@ -9,7 +9,8 @@ preview:
     image: /img/covid/corona.jpg
 
 preview: no
-
+remove:
+    - h1title
 ---
 
 {% include links.md %}

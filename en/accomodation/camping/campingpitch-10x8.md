@@ -29,8 +29,6 @@ insert:
 ---
 {% include links.md %}
 
-# CAMPING PITCH 10x8
-
 Combine the freedom of travelling with a caravan with the comfort of our campsite
 
 ## Worth knowing

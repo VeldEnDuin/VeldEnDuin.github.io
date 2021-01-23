@@ -15,8 +15,6 @@ tile-background-size: contain
 
 {% include links.md %}
 
-# Kwaliteit
-
 ## Q-label
 
 Het [Q-label][q-label.nl] staat voor Quality Service bij de toeristische ondernemers aan de Vlaamse Kust.  Het kwaliteitstraject bestaat uit een opleiding en individuele begeleiding en het label is geldig voor 3 jaar.

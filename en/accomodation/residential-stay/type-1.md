@@ -22,8 +22,6 @@ insert:
 
 {% include links.md %}
 
-# TYPE 1 - CARAVAN
-
 These pitches are smaller but give you an instant holiday feeling, regardless of the surface. 
 
 

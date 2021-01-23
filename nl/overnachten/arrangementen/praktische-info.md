@@ -1,13 +1,12 @@
 ---
 layout: page
+title: Praktische info
 
 preview: no
 icon: info-sign
 ---
 
 {% include links.md %}
-
-# PRAKTISCHE INFO
 
 ## Betalingsvoorwaarden
 

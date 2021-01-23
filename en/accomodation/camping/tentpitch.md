@@ -32,8 +32,6 @@ insert:
 ---
 {% include links.md %}
 
-# TENT PITCH
-
 The pitches of 7x8 m are convenient for small (self-constructing) tents.   
 
 The pitches of 10x8 m are ideal for bigger family tents. 

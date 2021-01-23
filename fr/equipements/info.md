@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Info
+title: Informations touristiques
 picto: /img/svg/voorzieningen/info.svg
 
 images:
@@ -24,8 +24,6 @@ remove:
 ---
 
 {% include links.md %}
-
-# Informations touristiques
 
 Nous vous tenons informés des activités et événements organisés dans la région, notamment par les moyens suivants:
 

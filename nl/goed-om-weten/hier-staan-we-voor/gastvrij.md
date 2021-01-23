@@ -16,8 +16,6 @@ insert:
 
 ---
 
-# Gastvrij
-
 In de receptie staan Sander en Els met de glimlach klaar voor het beantwoorden van uw vragen en het delen van de leukste vakantietips. 
 Zijn er technische problemen dan helpt Stefaan u graag verder. 
 Van onze gasten verwachten we respect naar de andere kampeerders toe zodat iedereen van een fijn verblijf kan genieten. 

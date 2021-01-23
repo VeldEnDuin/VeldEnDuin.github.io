@@ -29,8 +29,6 @@ insert:
 
 {% include links.md %}
 
-# Kampeerarrangement
-
 U hebt een maand of langer te spenderen? Bekijk dan de verschillende kampeerarrangementen, er zit vast een geschikte formule voor u bij.
 
 ## Goed om weten

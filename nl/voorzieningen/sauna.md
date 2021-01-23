@@ -22,8 +22,6 @@ remove:
 
 {% include links.md %}
 
-# Sauna 
-
 Verwen uw lichaam na een lange strandwandeling of uitputtende koopjesjacht met een weldadige sauna. 
 
 In onze saunaruimte vindt u:

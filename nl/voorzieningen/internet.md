@@ -22,8 +22,6 @@ remove:
 
 {% include links.md %}
 
-# Internet
-
 Post uw mooiste vakantiefoto en houd uw familie en vrienden op de hoogte van alle laatste vakantienieuwtjes.
 
 ## Internet huurchalets en appartementen

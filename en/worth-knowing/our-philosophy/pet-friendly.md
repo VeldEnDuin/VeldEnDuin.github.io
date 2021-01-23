@@ -21,8 +21,6 @@ remove:
     
 ---
 
-# Pet friendly
-
 Dogs are welcome on our campsite, in the chalets and in the caravans!<br>
 Unfortunately we cannot allow pets in the (luxury) apartments.<br>
 

@@ -2,6 +2,8 @@
 title: Campers
 layout: page
 
+remove:
+    - h1title
 ---
 
 {% include links.md %}

@@ -22,9 +22,6 @@ remove:
 ---
 
 
-# Peace and quiet
-
-
 Staying at Veld & Duin is escaping from the daily grind and charging your batteries.<br>
 If, however, you are looking for a full time entertainment program or if having a holiday means partying until the early morning hours, we won’t be able to help you.
 

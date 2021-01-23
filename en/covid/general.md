@@ -8,6 +8,9 @@ preview:
         - A safe and carefree stay is also perfectly possible in these Corona times. We are happy to list all our precautions and guidelines.
     image: /img/covid/corona.jpg
 
+
+remove:
+    - h1title
 ---
 
 {% include links.md %}

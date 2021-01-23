@@ -2,7 +2,8 @@
 title: Location
 layout: page
     
-
+remove:
+    - h1title
 ---
 
 {% include links.md %}

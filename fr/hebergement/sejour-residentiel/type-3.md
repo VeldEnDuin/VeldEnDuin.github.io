@@ -22,8 +22,6 @@ insert:
 
 {% include links.md %}
 
-# Type 3 - CARAVANE
-
 Vous cherchez un grand emplacement? Optez pour l’un de nos emplacements de luxe plus spacieux.
 
 ## Bon à savoir

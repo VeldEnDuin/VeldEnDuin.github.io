@@ -24,8 +24,6 @@ remove:
 ---
 {% include links.md %}
 
-# Pop-up bibliotheek
-
 Vakantie... eindelijk tijd om u te verdiepen in een boek! 
 
 Wij bieden u met onze pop-up bib een ruim aanbod aan boeken en strips die u kostenloos kunt uitlenen.

@@ -27,8 +27,6 @@ remove:
 ---
 {% include links.md %}
 
-# Speelplein
-
 Het speelplein is de ideale plek om leeftijdgenootjes te ontmoeten voor uren dolle pret.
 
 De airtrampoline (14u - 22u) is populair bij alle leeftijden: de allerkleinsten schateren samen met hun ouders bij elke sprong en de pubers leren elkaar allerlei nieuwe trucjes aan.

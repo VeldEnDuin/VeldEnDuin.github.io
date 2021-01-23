@@ -36,8 +36,6 @@ insert:
 
 {% include links.md %}
 
-# Chalet confort 2 
-
 Envie de vous ressourcer seul ou à deux? Vous vous sentirez comme à la maison dans ce confortable chalet après une agréable journée à la côte.
 
 ## Prix le moins cher

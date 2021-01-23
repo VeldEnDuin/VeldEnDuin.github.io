@@ -1,5 +1,5 @@
 ---
-title: Practical
+title: Practical Info
 layout: page
 
 images:
@@ -16,8 +16,6 @@ insert:
 ---
 
 {% include links.md %}
-
-# PRACTICAL INFO
 
 
 ## Opening hours reception

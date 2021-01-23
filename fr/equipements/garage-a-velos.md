@@ -24,8 +24,6 @@ remove:
 
 {% include links.md %}
 
-# Garage à vélos
-
 De retour d’une agréable balade, vous pourrez ranger votre vélo dans notre garage comptant un total de 116 emplacements réservés aux cyclistes.
 
 Ceux qui ont une caravane résidentielle peuvent louer un emplacement pour une année complète. Un emplacement pour la durée de leur séjour est également mis à la disposition des locataires ou campeurs.

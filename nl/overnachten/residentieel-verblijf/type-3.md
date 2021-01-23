@@ -23,8 +23,6 @@ insert:
 
 {% include links.md %}
 
-# Type 3 - CARAVAN
-
 Op onze type 3 percelen kan een caravan tot 12 meter staan. Deze ruime percelen bieden alle vrijheid om volop te genieten en onthaasten met uw gezin.
 
 ## Goed om weten

@@ -25,7 +25,7 @@ insert:
 
 
 
-# Information sheet 
+## Information sheet 
 
 CARAVAN C 38                | INFO        | 
 :---------------------------|:------------|

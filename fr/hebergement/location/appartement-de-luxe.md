@@ -38,8 +38,6 @@ insert:
 
 {% include links.md %}
 
-# Appartement de luxe
-
 Situés au-dessus de la réception, ces nouveaux appartements luxueux offrent une vue imprenable sur les magnifiques parterres de fleur de l’entrée du camping.  
 
 ## Prix le moins cher

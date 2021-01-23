@@ -19,9 +19,6 @@ insert:
 ---
 
 
-# Rust
-
-
 Vakantie bij Veld & Duin is even ontsnappen aan de dagelijkse sleur om zo terug de batterijen te kunnen opladen.<br>
 Als vakantie voor u synoniem is voor feesten tot diep in de nacht of indien u een fulltime animatieprogramma zoekt, zullen we u niet de gewenste vakantie kunnen bieden.
 

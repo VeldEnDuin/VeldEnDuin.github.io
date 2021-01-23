@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Info
+title: Toeristische informatie
 picto: /img/svg/voorzieningen/info.svg
 
 images:
@@ -23,8 +23,6 @@ remove:
 ---
 
 {% include links.md %}
-
-# Toeristische informatie
 
 We informeren u graag over wat er in de omgeving zoal te beleven is. Dit doen we onder meer via volgende kanalen:
 

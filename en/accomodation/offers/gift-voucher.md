@@ -22,8 +22,6 @@ insert:
 {% include links.md %}
 
 
-# Gift voucher
-
 Looking for an original present? Why not offer a gift voucher for our campsite?
 
     

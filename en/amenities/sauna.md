@@ -22,8 +22,6 @@ remove:
 
 {% include links.md %}
 
-# Sauna 
-
 A relaxing sauna can do wonders after an exhaustive shopping spree or a good brisk walk on the beach. 
 
 Our sauna room consists of:

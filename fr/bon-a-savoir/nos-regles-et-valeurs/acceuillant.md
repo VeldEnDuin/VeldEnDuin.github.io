@@ -16,8 +16,6 @@ insert:
 
 ---
 
-# Acceuillant
-
 Enfants, jeunes, familles, seniors... vous êtes toutes et tous les bienvenus au camping Veld & Duin!<br>
 Le principe de base pour des vacances agréables est le respect mutuel. Nous y veillons dès lors scrupuleusement. 
 

@@ -37,8 +37,6 @@ insert:
 
 {% include links.md %}
 
-# Chalet comfort 4 
-
 These chalets are situated in front, close to the playground. Well situated for families with children.
 
 ## Cheapest price

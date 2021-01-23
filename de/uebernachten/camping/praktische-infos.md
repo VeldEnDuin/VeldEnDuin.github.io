@@ -8,8 +8,6 @@ icon: info-sign
 
 {% include links.md %}
 
-# PRAKTISCHE INFOS
-
 {% include de/bezahlung-cxd-reuse.md %}
 
 ## An- und Abreiseregelung

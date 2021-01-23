@@ -27,7 +27,7 @@ insert:
 
 
 
-# Fiche info
+## Fiche info
 
 CHALET B 75                 | INFO        | 
 :---------------------------|:------------|

@@ -29,8 +29,6 @@ insert:
 
 {% include links.md %}
 
-# Forfait camping
-
 Vous souhaitez prendre de longues vacances d’un mois ou plus ? Découvrez nos différents forfaits. Vous trouverez certainement la formule adaptée à vos besoins.
 
 ## Bon à savoir

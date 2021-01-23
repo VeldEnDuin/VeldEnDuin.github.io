@@ -15,8 +15,6 @@ images:
 
 {% include links.md %}
 
-# Nieuw project
-
 In dit ambitieuze project wordt het aantal plaatsen gereduceerd van 83 naar 53. Hierdoor kunnen we onze kampeerders nog meer ruimte en comfort bieden.
 
 De werken gebeuren telkens in de winter en lopen gefaseerd. 

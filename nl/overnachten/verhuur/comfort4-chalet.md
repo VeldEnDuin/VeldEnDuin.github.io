@@ -37,8 +37,6 @@ insert:
 
 {% include links.md %}
 
-# Chalet comfort 4 
-
 Deze chalets liggen vooraan op de camping en dicht bij het speelplein. Ideaal dus voor de kinderen om hun vriendjes steeds in de buurt te hebben.
 
 **Tip: Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.**

@@ -22,8 +22,6 @@ remove:
 
 {% include links.md %}
 
-# Sauna  
-
 Venez vous reposer dans notre agréable sauna après une longue balade sur la plage ou une épuisante séance de shopping. 
 
 Notre espace sauna compte:

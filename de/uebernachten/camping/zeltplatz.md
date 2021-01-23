@@ -31,8 +31,6 @@ insert:
 ---
 {% include links.md %}
 
-# ZELTPLATZ
-
 Die Plätze von 7x8 Metern sind ideal für Ihr kleines (Wurf-)Zelt.   
 
 Die Plätze von 10x8 Metern sind geeichnet für grossere Familienzelte. 

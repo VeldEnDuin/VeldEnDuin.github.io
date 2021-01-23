@@ -24,8 +24,6 @@ remove:
 ---
 {% include links.md %}
 
-# HOTSPOTS
-
 Er zijn een aantal plekjes op Veld & Duin die ons erg dierbaar zijn en waar we extra fier op zijn. Omdat ze heel bijzonder zijn, er een mooie herinneringen aan vasthangt of gewoon mooi om naar te kijken. 
 Hieronder onze toppers maar ga zeker op zoek naar uw favoriete plekje. 
 

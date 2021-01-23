@@ -32,8 +32,6 @@ insert:
 ---
 {% include links.md %}
 
-# TENTPLAATS
-
 We hebben de keuze uit 2 types tentplaatsen.  Op de plaatsen van 7x8 is het heerlijk kamperen met  z’n tweetjes. Met meer personen of graag wat meer ruimte? Kies dan voor de grote tentplaats.
 
 ## Goed om weten

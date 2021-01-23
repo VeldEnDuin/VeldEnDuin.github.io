@@ -22,8 +22,6 @@ insert:
 {% include links.md %}
 
 
-# Kadobon
-
 Op zoek naar een leuk geschenk? Een mooie kadobon van Veld & Duin voor een bedrag naar keuze is steeds een schot in de roos. 
 
     

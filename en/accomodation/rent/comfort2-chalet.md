@@ -36,8 +36,6 @@ insert:
 
 {% include links.md %}
 
-# Chalet comfort 2 
-
 Need a break, just for the two of you? Make yourself at home in this cosy chalet.
 
 ## Cheapest price

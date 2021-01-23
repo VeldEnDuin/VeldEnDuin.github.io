@@ -9,6 +9,8 @@ preview:
         - Ein sicherer und unbeschwerter Aufenthalt ist auch in diesen Corona-Zeiten durchaus möglich. Gerne listen wir alle unsere Vorsichtsmaßnahmen und Richtlinien auf.
     image: /img/covid/corona.jpg
 
+remove:
+    - h1title
 ---
 
 {% include links.md %}

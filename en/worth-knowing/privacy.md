@@ -1,5 +1,5 @@
 ---
-title: Privacy
+title: Privacy Statement
 layout: page
 
 images:
@@ -11,7 +11,6 @@ insert:
 
 {% include links.md %}
 
-# PRIVACY STATEMENT
 We respect the privacy of the visitors using the website and will ensure that the personal information you provide is treated confidentially. Processing of the personal data in our company takes place in compliance with the legal requirements as provided for in the EU regulations as from 25 May 2018.
 
 ## Purposes of data processing

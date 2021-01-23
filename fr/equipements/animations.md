@@ -26,7 +26,7 @@ remove:
 ---
 {% include links.md %}
 
-# Animations Veld & Duin été 2020
+## Animations Veld & Duin été 2020
 
 A ce moment ce n'est pas certain si des animations sur le camping seront possible et sous quelles conditions. 
 

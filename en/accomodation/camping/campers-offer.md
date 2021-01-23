@@ -29,7 +29,6 @@ insert:
 
 {% include links.md %}
 
-# Campers’ offer
 Do you want to stay for a month or even more? Have a look at the different packages. We are sure we have something in store for you!
 
 ## Worth knowing

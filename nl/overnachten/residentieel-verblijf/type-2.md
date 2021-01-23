@@ -33,8 +33,6 @@ insert:
 
 {% include links.md %}
 
-# TYPE 2 - CARAVAN OF CHALET
-
 Een vaste stek aan de kust om steeds opnieuw naar terug te keren, wie droomt daar niet van? Maak uw droom waar met een eigen caravan of chalet om heel vaak van te genieten.
 
 

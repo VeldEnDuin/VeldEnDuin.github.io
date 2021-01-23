@@ -26,7 +26,7 @@ remove:
 ---
 {% include links.md %}
 
-# Animation Veld & Duin Sommer 2020
+## Animation Veld & Duin Sommer 2020
 
 Im Moment ist es noch unsicher ob Animation überhaupt möglich sein wird auf dem Camping und unter welchen Bedingungen. 
 

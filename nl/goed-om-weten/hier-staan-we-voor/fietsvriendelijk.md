@@ -21,8 +21,6 @@ insert:
 
 {% include links.md %}
 
-# Fietsvriendelijk
-
 Ontdek de andere badplaatsen of de achterliggende polders met de fiets. Voor een combinatie van cultuur en sport kunt u langs het kanaal tot in het historische Brugge fietsen.
 
 

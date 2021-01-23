@@ -21,8 +21,6 @@ remove:
 ---
 {% include links.md %}
 
-# Waschsalon
-
 Etwas Wäsche zwischendurch oder schon ein paar Sachen waschen, um den Berg beim Heimkommen etwas kleiner zu machen?
 
 In jedem unserer drei Sanitärgebäude stehen unsere Profiwaschmaschinen und -trockner zur Verfügung.

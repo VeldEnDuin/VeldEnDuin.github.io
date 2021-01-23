@@ -18,8 +18,6 @@ preview:
 
 {% include links.md %}
 
-# PRAKTISCH
-
 
 ## Öffnungszeiten Rezeption
 

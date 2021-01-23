@@ -2,6 +2,8 @@
 title: Kamperen
 layout: page
 
+remove:
+    - h1title
 ---
 
 {% include links.md %}

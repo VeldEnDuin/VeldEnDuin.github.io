@@ -685,12 +685,12 @@
      */
     $(function () {
         let $banner = $("#vd-banner");
-        console.log("$banner.length", $banner.length)
+        //console.log("$banner.length", $banner.length)
         if ($banner.length == 0) {
             return;
         } // else
         let imgs = $banner.data('banners');
-        console.log("imgs", imgs)
+        //console.log("imgs", imgs)
         if (imgs.length == 0) {
             return;
         } // else

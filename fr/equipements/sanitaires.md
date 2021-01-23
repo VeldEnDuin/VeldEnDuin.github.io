@@ -21,8 +21,6 @@ remove:
 
 ---
 
-# Sanitaires 
-
 Nos installations sanitaires sont à la disposition des campeurs:
 
 * 5 douches

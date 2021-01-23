@@ -15,8 +15,6 @@ images:
 
 {% include links.md %}
 
-# New project
-
 In this ambitious project the total number of pitches will be reduced from 83 to 53. This allows us to guarantee our campers more space and comfort.
 
 The works will be carried out in winter in different phases each.

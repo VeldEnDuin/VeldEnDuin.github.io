@@ -35,8 +35,6 @@ insert:
 
 {% include links.md %}
 
-# Caravane confort 2  
-
 Cette mini-caravane et son jardinet privé sont parfaitement adaptés amoureux du grand air mais qui désirent tout de même cuisiner de bons petits plats et prendre une douche revigorante.
 
 ## Prix le moins cher

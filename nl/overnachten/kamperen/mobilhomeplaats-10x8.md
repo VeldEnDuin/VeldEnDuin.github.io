@@ -33,8 +33,6 @@ insert:
 ---
 {% include links.md %}
 
-# MOBILHOMEPLAATS 10x8
-
 Combineer de vrijheid van het reizen met een mobilhome met het comfort van onze camping.
 
 ## Goed om weten

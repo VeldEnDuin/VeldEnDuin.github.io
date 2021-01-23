@@ -24,8 +24,6 @@ remove:
 
 {% include links.md %}
 
-# Fietsberging
-
 U wenst uw fiets na een mooie fietstocht graag binnen te zetten? In onze overdekte fietsberging hebben we in totaal 116 plaatsen voor fietsliefhebbers.
 
 Onze residentiële kampeerders kunnen er een plaats huren voor een volledig jaar. Voor onze huurders of trekkers is het mogelijk om een plaats vast te leggen voor de duur van het verblijf.

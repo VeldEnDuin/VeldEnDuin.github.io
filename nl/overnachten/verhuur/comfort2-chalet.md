@@ -37,7 +37,6 @@ insert:
 
 {% include links.md %}
 
-# Chalet comfort 2 
 
 Even alleen komen uitwaaien of met z'n tweetjes? In deze chalet is het heerlijk thuiskomen na een dagje genieten aan onze kust.
 

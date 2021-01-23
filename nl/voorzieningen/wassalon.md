@@ -21,8 +21,6 @@ remove:
 ---
 {% include links.md %}
 
-# Wassalon
-
 Even een wasje tussendoor of alvast wat spullen wassen om die berg was bij thuiskomst te beperken?
 
 In elk van onze 3 sanitaire gebouwen staan onze professionele wasmachines en droogkasten ter beschikking.

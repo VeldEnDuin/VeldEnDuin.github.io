@@ -32,8 +32,6 @@ insert:
 
 {% include links.md %}
 
-# TYPE 2 - CARAVANE OU CHALET
-
 Qui n’a jamais rêvé d’un pied-à-terre à la mer pour s’y rendre dès que l’envie vous prend? Réalisez votre rêve en ayant votre propre caravane ou chalet.
 
 

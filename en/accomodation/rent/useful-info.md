@@ -8,8 +8,6 @@ icon: info-sign
 
 {% include links.md %}
 
-# Useful information
-
 {% include en/payment-cxd-reuse.md %}
 
 ## Arrival and departure

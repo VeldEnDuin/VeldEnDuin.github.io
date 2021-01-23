@@ -23,8 +23,6 @@ remove:
 ---
 
 
-# Ruhe
-
 
 Urlaub bei Veld & Duin heißt, ein Weilchen dem Alltag zu entfliehen, um die Batterien wieder aufladen zu können.<br>
 Wenn Urlaub für Sie ein Synonym für Feste bis zum Morgengrauen ist, oder wenn Sie ein Vollzeit-Animationsprogramm suchen, können wir Ihnen nicht Ihren Traumurlaub bieten.

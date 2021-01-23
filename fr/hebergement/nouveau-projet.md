@@ -15,8 +15,6 @@ images:
 
 {% include links.md %}
 
-# Nouveau projet
-
 Cet ambitieux projet prévoit la réduction du nombre d’emplacements de 83 à 53 de sorte à offrir plus d’espace et de confort à nos campeurs.
 
 Les travaux sont toujours effectués en hiver et sont répartis en plusieurs phases. 

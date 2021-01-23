@@ -22,8 +22,6 @@ insert:
 
 {% include links.md %}
 
-# TYPE 1 - CARAVAN 
-
 Deze plaatsen zijn iets kleiner qua oppervlakte maar bieden evengoed een instant vakantiegevoel. 
 
 

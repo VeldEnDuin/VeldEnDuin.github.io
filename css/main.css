@@ -177,8 +177,11 @@ span.socmed-pinterest {
 /*    border: 1px solid rgb(48, 130, 52);*/
 }
 
-.btn-lg.btn-success,
-.btn-lg.btn-info {
+.btn {
+    outline: none;
+}
+
+.btn.btn-success {
     background-color: rgb(67,182,73);
     border: none;
     /*
@@ -192,13 +195,19 @@ span.socmed-pinterest {
     text-shadow: 2px 2px 4px #4f5137;
 }
 
-.btn-lg.btn-info {
+.btn.btn-info {
     /*
     background-image: url('/img/style/btn_dark_background.svg');
     */
+    border: none;
     background-color: rgb(240,197,31);
     color: #000;
     text-shadow: none;
+}
+.vd-select-item .btn.btn-info,
+.vd-news-item .btn.btn-info {
+    padding: 3px 6px 3px 6px;
+    font-size: 0.95em;
 }
 
 /*
@@ -1156,6 +1165,12 @@ button.vd-callout-btn:hover {
 .vd-news-ctrl:last-child {
     right: -45px;
 }
+.vd-news-ctrl .btn-default,
+.vd-news-ctrl .btn-default:focus {
+    border: none;
+    outline: none;
+    background-color: transparent;
+}
 .vd-news-list {
     overflow-y: hidden;
     overflow-x: hidden;
@@ -1185,13 +1200,20 @@ button.vd-callout-btn:hover {
     min-height: 0px;
 }
 .vd-news-item  {
-    margin-right: 1.5em;
-    background: #fff;
+/*    margin-right: 1.5em;*/
     float: none;
+    font-size: 0.95em;
     display: inline-block;
     position: relative;
     vertical-align: top;
     border-radius: 5px;
+    padding-left: 0px;
+    padding-right: 0px
+}
+.vd-news-item > div {
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    background: #fff;
 }
 
 /*.vd-news-item.vd-news-current,*/
@@ -1202,7 +1224,9 @@ button.vd-callout-btn:hover {
     border: 1px solid rgb(67,182,73);
     background-color: rgba(0, 0, 0, 0.1);
 }
-
+.vd-news-item.vd-news-current >div {
+    background-color: transparent;
+}
 .vd-news-item:last-child {
     margin-right: 0px;
 }

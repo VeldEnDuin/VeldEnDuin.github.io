@@ -8,8 +8,6 @@ icon: info-sign
 
 {% include links.md %}
 
-# INFOS PRATIQUES
-
 ## Les avantages d’un séjour résidentiel au camping Veld & Duin
 
 - ouvert toute l’année – durée de séjour illimitée

@@ -23,8 +23,6 @@ remove:
 ---
 {% include links.md %}
 
-# HOTSPOTS
-
 Es gibt eine Reihe von Orten auf Veld & Duin, die uns sehr am Herzen liegen und auf die wir besonders stolz sind. Weil sie etwas ganz Besonderes sind, schöne Erinnerungen haben oder einfach nur schön anzusehen sind.
 Hier unten unsere Favoriten, aber achten Sie darauf, Ihren Lieblingsplatz zu suchen.
 

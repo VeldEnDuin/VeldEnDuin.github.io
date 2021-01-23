@@ -16,8 +16,6 @@ insert:
 
 ---
 
-# Hospitable
-
 Children, youngsters, families, senior citizens,...everybody welcome at Veld & Duin!<br>
 In our opinion, one of the key words to spend a nice holiday together is mutual respect.
 

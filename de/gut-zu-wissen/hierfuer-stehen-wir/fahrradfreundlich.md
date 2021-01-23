@@ -25,8 +25,6 @@ remove:
 
 {% include links.md %}
 
-# Fahrradfreundlich
-
 Entdecken Sie die anderen Badeorte oder die Polder hinter ihnen mit dem Rad. Für eine Kombination aus Kultur und Sport können Sie am Kanal entlang ins historische Brügge radeln.
 
 

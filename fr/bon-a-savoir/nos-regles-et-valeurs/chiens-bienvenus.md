@@ -21,8 +21,6 @@ remove:
     
 ---
 
-# Chiens bienvenus
-
 Nous serons ravis de vous accueillir au camping accompagné de votre chien!<br>
 Votre compagnon à quatre pattes est également le bienvenu dans les chalets de location et dans les caravanes. Il n’est cependant pas admis dans les appartements (de luxe).<br>
 

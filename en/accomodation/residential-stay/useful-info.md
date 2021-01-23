@@ -8,8 +8,6 @@ icon: info-sign
 
 {% include links.md %}
 
-# USEFUL INFORMATION
-
 ## Assets residential stay Veld & Duin
 
 - open throughout the year – come as much as you like

@@ -30,8 +30,6 @@ insert:
 ---
 {% include links.md %}
 
-# KAMPEERPLAATS 10x8
-
 Voor de trekcaravans hebben we de keuze uit een verharde plaats met groen ervoor of een volledige grasplaats. Geef uw voorkeur door bij reservatie.
 
 ## Goed om weten

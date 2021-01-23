@@ -8,8 +8,6 @@ icon: info-sign
 
 {% include links.md %}
 
-# PRAKTISCHE INFOS
-
 ## Vorteile des Dauercampings bei Veld & Duin
 
 - Ganzjährig geöffnet –  Sie können sooft kommen, wie Sie wollen

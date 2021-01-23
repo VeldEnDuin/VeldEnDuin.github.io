@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Appartement Comfort 4 Plus
+title: Appartement Comfort 4+
 preview: 
     title: Appartement Comfort 4+
     button:
@@ -36,8 +36,6 @@ insert:
 ---
 
 {% include links.md %}
-
-# Appartement Comfort 4+
 
 Die Appartements liegen neben dem Campingplatz. So genießen Sie den Platz eines Appartements und Sie können trotzdem die Annehmlichkeiten des Campingplatzes nutzen.
 

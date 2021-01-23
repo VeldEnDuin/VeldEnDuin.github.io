@@ -1,5 +1,5 @@
 ---
-title: Praktisch
+title: Praktische Info
 layout: page
 
 images:
@@ -17,9 +17,6 @@ preview:
 ---
 
 {% include links.md %}
-
-# PRAKTISCHE INFO
-
 
 ## Openingsuren receptie
 

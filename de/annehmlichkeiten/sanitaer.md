@@ -21,8 +21,6 @@ remove:
 
 ---
 
-# Sanitäranlagen  
-
 Kurzzeitcamper können unsere Sanitäranlagen nutzen:
 
 * 5 Duschen

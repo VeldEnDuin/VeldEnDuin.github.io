@@ -1,6 +1,7 @@
 ---
 layout: page
 title: eigen stekje aan zee
+description: 
 
 preview:
     title: eigen stekje aan zee
@@ -17,8 +18,6 @@ insert:
 ---
 
 {% include links.md %}
-
-# Eigen stekje aan zee
 
 De nieuwe en ruime percelen die we aanlegden werden heel snel ingenomen. Op dit moment is er nog 1 perceel vrij tot maximaal 10 meter, kom dus snel een kijkje nemen.
 

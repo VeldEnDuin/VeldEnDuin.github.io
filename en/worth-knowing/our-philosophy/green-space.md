@@ -24,7 +24,6 @@ remove:
 
 {% include links.md %}
 
-# Green area
 
 ## Plants and flowers
 

@@ -8,8 +8,6 @@ icon: info-sign
 
 {% include links.md %}
 
-# Infos pratiques
-
 {% include fr/paiement-cxd-reuse.md %}
 
 ## Heures de départ et d’arrivée

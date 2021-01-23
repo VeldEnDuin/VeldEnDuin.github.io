@@ -24,8 +24,6 @@ remove:
 
 {% include links.md %}
 
-# Cyclisme
-
 Partez en vélo à la découverte des autres stations balnéaires ou des polders de l’arrière-pays. Les amateurs de culture et de sport peuvent longer le canal jusqu’au cœur historique de Bruges.
 
 

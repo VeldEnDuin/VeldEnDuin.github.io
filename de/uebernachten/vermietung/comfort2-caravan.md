@@ -35,8 +35,6 @@ insert:
 
 {% include links.md %}
 
-# Caravan Comfort 2 
-
 Dieser Miniwohnwagen mit Privatgärtchen ist ideal für Menschen, die sich gern im Freien aufhalten, aber abends doch gern gemütlich kochen oder sich mit einer Dusche erfrischen.
 
 ## Günstigster Preis

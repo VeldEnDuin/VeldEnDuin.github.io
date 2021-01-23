@@ -1,5 +1,5 @@
 ---
-title: Respect de la vie privée
+title: Déclaration de respect de la vie privée
 layout: page
 
 images:

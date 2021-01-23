@@ -36,8 +36,6 @@ insert:
 
 {% include links.md %}
 
-# Studio comfort 2 
-
 Need a break, just for the two of you? Make yourself at home in this cosy studio.
 
 ## Cheapest price

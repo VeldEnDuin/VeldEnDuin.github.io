@@ -27,8 +27,6 @@ remove:
 ---
 {% include links.md %}
 
-# Spielplatz
-
 Der Spielplatz ist der ideale Ort, um Altersgenossen zu treffen und viele Stunden einen Riesenspaß zu haben.
 
 Das Air Trampolin (14 bis 22 Uhr) ist bei allen Altersgruppen beliebt: die Allerkleinsten lachen bei jedem Sprung mit ihren Eltern und die Jugendlichen bringen sich gegenseitig neue Tricks bei.

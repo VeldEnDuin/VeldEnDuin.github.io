@@ -10,6 +10,9 @@ preview:
 images: 
     - /img/covid/corona.jpg
 
+
+remove:
+    - h1title
 ---
 
 {% include links.md %}

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Info
+title: Touristische Informationen
 picto: /img/svg/voorzieningen/info.svg
 
 images:
@@ -23,8 +23,6 @@ remove:
 ---
 
 {% include links.md %}
-
-# Touristische Informationen
 
 Wir informieren Sie gern darüber, was in der Umgebung so alles zu erleben ist. Das tun wir unter anderem auf folgenden Wegen:
 

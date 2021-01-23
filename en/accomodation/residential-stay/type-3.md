@@ -23,8 +23,6 @@ insert:
 
 {% include links.md %}
 
-# Type 3 - caravan
-
 Would you like a big plot? Choose one of our luxurious places and enjoy the extra space.
 
 ## Worth knowing

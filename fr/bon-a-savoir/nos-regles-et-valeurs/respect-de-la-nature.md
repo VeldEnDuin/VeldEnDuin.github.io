@@ -24,8 +24,6 @@ remove:
 
 {% include links.md %}
 
-# Respect de la nature
-
 ## Plantations
 
 Vous remarquerez dès votre arrivée à quel point nous attachons de l’importance à vous proposer un cadre naturel à la végétation variée. Les fleurs et les plantes locales sont soigneusement sélectionnées et font l’objet d’un entretien quotidien afin que tous les occupants puissent en profiter pleinement.<br>

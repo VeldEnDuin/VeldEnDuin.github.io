@@ -23,8 +23,6 @@ remove:
 ---
 {% include links.md %}
 
-# Pop-up-Bibliothek
-
 Urlaub – endlich Zeit, sich in ein Buch zu vertiefen! 
 
 In unserer Pop-up-Bibliothek finden Sie ein großes Angebot an Büchern und Comics, die Sie kostenlos ausleihen können.

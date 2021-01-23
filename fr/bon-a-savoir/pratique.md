@@ -1,5 +1,5 @@
 ---
-title: Pratique
+title: Info Pratique
 layout: page
 
 images:
@@ -17,8 +17,6 @@ preview:
 ---
 
 {% include links.md %}
-
-# INFO PRATIQUE
 
 ## Horaires de la réception
 

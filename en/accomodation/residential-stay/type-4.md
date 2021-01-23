@@ -28,8 +28,6 @@ insert:
 
 {% include links.md %}
 
-# Type 4 - caravan
-
 Would you like a big plot overlooking the wadi? Choose one of our luxurious places and enjoy the extra space.
 
 ## Worth knowing

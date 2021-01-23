@@ -15,8 +15,6 @@ images:
 
 {% include links.md %}
 
-# Neues Projekt
-
 Bei diesem ehrgeizigen Projekt wird die Gesamtzahl der Plätze von 83 auf 53 vermindert. Dadurch können wir unseren Campern noch mehr Platz und Komfort bieten.
 
 Die Arbeiten erfolgen jeweils im Winter und in Phasen. 

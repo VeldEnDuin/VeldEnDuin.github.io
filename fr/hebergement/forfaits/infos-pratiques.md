@@ -1,13 +1,12 @@
 ---
 layout: page
+title: infos pratiques
 
 preview: no
 icon: info-sign
 ---
 
 {% include links.md %}
-
-# INFOS PRATIQUES
 
 ## Conditions de paiement
 

@@ -33,8 +33,6 @@ insert:
 ---
 {% include links.md %}
 
-# CAMPER PITCH 10x8
-
 Combine the freedom of travelling with a camper with the comfort of our campsite
 
 ## Worth knowing

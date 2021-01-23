@@ -38,8 +38,6 @@ insert:
 
 {% include links.md %}
 
-# Luxury Apartment
-
 Located above the reception these new and luxurious apartments overlook the floral beauty at the entrance of the campsite.
 
 ## Cheapest price

@@ -21,8 +21,6 @@ remove:
 
 ---
 
-# Sanitair 
-
 De trekkers kunnen gebruik maken van onze sanitaire voorzieningen:
 
 * 5 douches

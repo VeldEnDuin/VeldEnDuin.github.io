@@ -1,5 +1,5 @@
 ---
-title: Datenschutz
+title: Datenschutzerkläung
 layout: page
 
 images:
@@ -12,8 +12,6 @@ insert:
 ---
 
 {% include links.md %}
-
-# DATENSCHUTZERKLÄRUNG
 
 Wir respektieren die Privatsphäre der Besucher der Website und sorgen dafür, dass die persönlichen Informationen, die Sie uns anvertrauen, vertraulich behandelt werden. Die Verarbeitung von personenbezogenen Daten in unserem Unternehmen erfolgt in Übereinstimmung mit den gesetzlichen Vorschriften laut den EU-Rechtsvorschriften ab dem 25. Mai 2018.
 

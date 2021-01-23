@@ -22,8 +22,6 @@ remove:
 ---
 {% include links.md %}
 
-# Bibliothèque éphémère
-
 Les vacances sont l’occasion idéale de dévorer un bon bouquin! 
 
 Notre bibliothèque éphémère vous propose une grande sélection de livres et bandes dessinées mis gratuitement à votre disposition.

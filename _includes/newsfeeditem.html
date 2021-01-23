@@ -1,4 +1,4 @@
-<div class="vd-news-item clearfix {{page.class.news.item}} {{newsclass}} col-lg-3 col-md-4 col-sm-6 col-xs-6" role="vctrl-item">
+<div class="vd-news-item clearfix {{page.class.news.item}} {{newsclass}} col-lg-3 col-md-4 col-sm-6 col-xs-6" role="vctrl-item"><div>
   <a href="{{newsitem.url}}" class="notd">
     <div class="vd-news-item-inner clearfix">
       <div class="vd-news-item-label">
@@ -10,10 +10,10 @@
         </div>
         <div class="vd-news-title ">{{ newsitem.title }}</div>
         <div class="vd-news-teaser notd"><p>{{ newsitem.description }}</p></div>
-        <button class="btn btn-lg btn-info">{{site.data.langs[pgLang].dict.readmore}}</button>
+        <button class="btn btn-info">{{site.data.langs[pgLang].dict.readmore}}</button>
       {% else %}&nbsp;
       {% endif %}
       </div>
     </div>
   </a>
-</div>
+</div></div>

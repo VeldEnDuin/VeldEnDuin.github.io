@@ -22,8 +22,6 @@ remove:
 
 {% include links.md %}
 
-# Internet
-
 Postez vos plus belles photos de vacances sur les réseaux sociaux et restez en contact permanent avec votre famille et vos amis.
 
 ## Internet dans nos accommodations de location

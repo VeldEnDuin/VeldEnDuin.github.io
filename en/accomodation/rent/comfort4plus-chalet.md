@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Chalet Comfort 4 Plus
+title: Chalet Comfort 4+
 preview: 
-    title: Chalet comfort 4 +
+    title: Chalet comfort 4+
     button:
         price: 126
         for: 2 nights
@@ -40,8 +40,6 @@ insert:
 ---
 
 {% include links.md %}
-
-# Chalet comfort 4 +
 
 Sit down and relax. Have a glass of wine on the terrace of your chalet after a long day at the beach or an excursion in the neighbourhood. Think about your plans for tomorrow...
 

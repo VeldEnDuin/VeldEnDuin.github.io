@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Luxe Appartementen
+
 preview: 
     title: Luxe Appartement
     button:
@@ -37,10 +38,7 @@ insert:
 
 ---
 
-
 {% include links.md %}
-
-# Luxe Appartement
 
 Gelegen boven de receptie bieden deze nieuwe en luxueuze appartementen een mooi zicht op de bloemenpracht aan de ingang van de camping. 
 

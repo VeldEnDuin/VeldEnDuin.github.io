@@ -21,9 +21,6 @@ insert:
 
 {% include links.md %}
 
-
-# Chèque-cadeau
-
 Vous êtes à la recherche d’un chouette cadeau ? Grâce au chèque-cadeau de Veld & Duin d’une valeur au choix, vous serez toujours certain de faire plaisir.  
 
     

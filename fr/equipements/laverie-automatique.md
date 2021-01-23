@@ -21,8 +21,6 @@ remove:
 ---
 {% include links.md %}
 
-# Laverie automatique
-
 Vous souhaitez laver vos vêtements durant votre séjour ou prendre un peu d’avance pour éviter une pile de lessive à votre retour à la maison?
 
 Nos lave-linge et sèche-linge professionnels sont à votre disposition dans nos 3 bâtiments sanitaires.

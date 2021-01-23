@@ -31,7 +31,6 @@ insert:
 ---
 {% include links.md %}
 
-# EMPLACEMENT MOBILE HOME 10x8
 Combinez la liberté de vacances en mobile home au confort offert par notre camping.
 
 ## Bon à savoir

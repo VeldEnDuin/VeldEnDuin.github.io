@@ -14,8 +14,6 @@ tile-background-size: contain
 
 {% include links.md %}
 
-# Qualität
-
 ## Q-Zeichen
 
 Das [Q-Zeichen][q-label.de] steht für Quality Service bei den Tourismusunternehmen an der flämischen Küste. Das Qualitätsprojekt besteht aus einer Ausbildung und einer individuellen Begleitung. Das Zeichen ist drei Jahre gültig.

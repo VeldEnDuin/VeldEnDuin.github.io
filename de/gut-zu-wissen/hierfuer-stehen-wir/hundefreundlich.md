@@ -21,8 +21,6 @@ remove:
     
 ---
 
-# Hundefreundlich
-
 Ihr Hund ist auf dem Campingplatz recht herzlich willkommen.<br>
 Auch in den Mietchalets und Wohnwagen sind Hunde willkommen, nicht jedoch in den (Luxus-)Appartements.<br>
 

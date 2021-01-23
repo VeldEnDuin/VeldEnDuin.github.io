@@ -22,8 +22,6 @@ remove:
 
 {% include links.md %}
 
-# Internet
-
 Posten Sie Ihre schönsten Urlaubsfotos und lassen Sie Ihre Familie und Freunde an den aktuellsten Urlaubserlebnissen teilhaben.
 
 ## Internet Mietunterkünfte

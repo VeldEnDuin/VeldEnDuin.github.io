@@ -23,8 +23,6 @@ insert:
 
 {% include links.md %}
 
-# Typ 3 – Wohnwagen
-
 Wünschen Sie eine besonders große Parzelle? Dann sollten Sie einen unserer Luxusplätze wählen und den zusätzlichen Platz genießen.
 
 ## Gut zu wissen:

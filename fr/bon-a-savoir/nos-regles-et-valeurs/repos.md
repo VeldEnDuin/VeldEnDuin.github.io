@@ -21,10 +21,6 @@ remove:
 
 ---
 
-
-# Repos
-
-
 Un séjour à Veld & Duin est synonyme de repos loin de l’agitation quotidienne afin de recharger ses batteries.<br>
 Si vous préférez des vacances placées sous le signe de la fête jusqu’aux petites heures ou si vous cherchez un programme d’animations tout au long de la journée, nous ne serons pas en mesure de répondre à vos besoins.
 

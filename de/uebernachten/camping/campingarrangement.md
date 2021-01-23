@@ -29,8 +29,6 @@ insert:
 
 {% include links.md %}
 
-# Campingarrangement
-
 Sie haben einen Monat oder länger Zeit? Dann sehen Sie sich doch die verschiedenen Campingarrangements an. Sicher ist auch für Sie ein geeignetes Konzept dabei.
 
 ## Gut zu wissen

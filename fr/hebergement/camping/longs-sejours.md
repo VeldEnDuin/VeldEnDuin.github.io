@@ -25,8 +25,6 @@ insert:
 
 {% include links.md %}
 
-# SÉJOUR RÉSIDENTIEL
-
 Votre caravane équipée de tout le confort reste sur son emplacement toute l’année. Vous pouvez ainsi y séjourner dès que vous le souhaitez. Emportez quelques affaires et vous voilà déjà en vacances. 
 
 ## Bon à savoir

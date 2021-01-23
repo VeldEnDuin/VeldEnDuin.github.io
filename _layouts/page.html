@@ -12,6 +12,12 @@ layout: default
   <div class="{{ sizeleft }}">
     <div class="vd-layout-page">
 
+{% unless page.remove contains 'h1title' %}
+      <h1 class="vd-news-title">{{ page.title }}
+      {% include socialshare.html %}
+      </h1>
+{% endunless %}
+        
 {{ content }}
 
     </div>

@@ -21,9 +21,6 @@ insert:
 
 {% include links.md %}
 
-
-# Geschenkgutschein
-
 Suchen Sie ein attraktives Geschenk? Ein schöner Geschenkgutschein von Veld & Duin über einen Betrag nach Wahl ist immer ein Volltreffer.  
 
     

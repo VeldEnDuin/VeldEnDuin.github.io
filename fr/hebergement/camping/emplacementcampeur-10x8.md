@@ -29,7 +29,6 @@ insert:
 ---
 {% include links.md %}
 
-# EMPLACEMENT CAMPEUR 10x8
 Combinez la liberté de vacances en caravane au confort offert par notre camping.
 
 ## Bon à savoir

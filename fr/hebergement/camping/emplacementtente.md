@@ -31,8 +31,6 @@ insert:
 ---
 {% include links.md %}
 
-# EMPLACEMENT TENTE
-
 Les emplacements de 7x8 mètres conviennent parfaitement aux petites tentes (à montage rapide).  
 
 Les emplacements de 10x8 mètres coenviennent aux grandes tentes familiales.

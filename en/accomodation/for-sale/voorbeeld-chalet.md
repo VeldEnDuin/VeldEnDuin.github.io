@@ -27,7 +27,7 @@ insert:
 
 
 
-# Information sheet
+## Information sheet
 
 CHALET B 75                | INFORMATION       | 
 :---------------------------|:------------|

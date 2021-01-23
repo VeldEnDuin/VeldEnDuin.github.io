@@ -16,8 +16,6 @@ insert:
 
 ---
 
-# Gastfreundlich
-
 Kinder, Jugendliche, Familien, Senioren: Sie alle heißen wir gern herzlich willkommen bei Veld & Duin!<br>
 Das Schlüsselwort für einen angenehmen Urlaub mit anderen ist gegenseitiger Respekt und der ist daher für uns entscheidend.
 

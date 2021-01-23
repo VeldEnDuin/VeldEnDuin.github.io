@@ -8,8 +8,6 @@ icon: info-sign
 
 {% include links.md %}
 
-# PRAKTISCHE INFO
-
 {% include nl/betaling-cxd-reuse.md %}
 
 ## Aankomst- en vertrekregeling

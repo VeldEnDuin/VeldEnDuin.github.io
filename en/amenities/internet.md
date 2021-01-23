@@ -22,8 +22,6 @@ remove:
 
 {% include links.md %}
 
-# Internet
-
 Post your most beautiful holiday picture and keep your family up to date with the latest holiday news.
 
 ## Internet rental accommodations

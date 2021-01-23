@@ -1,13 +1,12 @@
 ---
 layout: page
+title: Praktische Infos
 
 preview: no
 icon: info-sign
 ---
 
 {% include links.md %}
-
-# PRAKTISCHE INFOS
 
 ## Zahlungsmodalitäten
 - Anzahlung 25% innerhalb von 10 Tagen nach der Reservierung

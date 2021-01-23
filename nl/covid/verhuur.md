@@ -2,7 +2,8 @@
 title: Verhuur
 layout: page
     
-
+remove:
+  - h1title
 ---
 
 {% include links.md %}

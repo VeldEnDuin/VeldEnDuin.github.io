@@ -27,8 +27,6 @@ remove:
 ---
 {% include links.md %}
 
-# Playground
-
 The playground is the ideal location for our youngest campers to meet up and have fun
 
 The air trampoline (14hrs – 22hrs) is popular with all ages: it’s nice to see how toddlers are roaring with laughter at very jump and how teenagers try out some new tricks.

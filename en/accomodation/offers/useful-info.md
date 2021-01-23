@@ -1,13 +1,12 @@
 ---
 layout: page
+title: Useful info
 
 preview: no
 icon: info-sign
 ---
 
 {% include links.md %}
-
-# USEFUL INFO
 
 ## Payment conditions
 

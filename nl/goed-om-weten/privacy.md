@@ -1,5 +1,5 @@
 ---
-title: Privacy
+title: Privacyverklaring
 layout: page
 
 images:
@@ -10,8 +10,6 @@ insert:
 ---
 
 {% include links.md %}
-
-# PRIVACYVERKLARING
 
 Wij respecteren de privacy van bezoekers van de website en dragen er zorg voor dat de persoonlijke informatie die u ons verschaft vertrouwelijk wordt behandeld. Verwerking van de persoonsgegevens in ons bedrijf gebeurt op een wijze, die in overeenstemming is met de wettelijke eisen zoals voorzien in de EU-regelgeving vanaf 25 mei 2018.
 

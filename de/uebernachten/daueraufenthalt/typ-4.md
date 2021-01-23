@@ -28,8 +28,6 @@ insert:
 
 {% include links.md %}
 
-# Typ 4 – Wohnwagen
-
 Wünschen Sie eine besonders große Parzelle mit Blick auf das zentral gelegene Wadi? Dann sollten Sie einen unserer Luxusplätze wählen und den zusätzlichen Platz genießen.
 
 ## Gut zu wissen:

@@ -21,10 +21,7 @@ remove:
     
 ---
 
-
 {% include links.md %}
-
-# Bike friendly
 
 Discover the other seaside resorts or the polder landscape by bike. For culture and sport adepts we advise a cycling tour to historical Bruges along the canal.
 

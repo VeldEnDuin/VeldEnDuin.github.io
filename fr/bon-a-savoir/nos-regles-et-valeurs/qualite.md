@@ -14,7 +14,6 @@ tile-background-size: contain
 
 {% include links.md %}
 
-# Qualité
 
 ## Label Q
 Le [label Q][q-label.fr] est synonyme de service de qualité dans le secteur touristique à la côte belge. Les étapes liées à l’obtention de ce label, valable 3 ans, prévoient une formation et un accompagnement individuel.

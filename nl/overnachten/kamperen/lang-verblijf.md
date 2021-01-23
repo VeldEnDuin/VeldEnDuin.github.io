@@ -24,8 +24,6 @@ insert:
 
 {% include links.md %}
 
-# VASTE KAMPEERPLAATS
-
 Uw trekcaravan met alle basisvoorzieningen blijft het hele jaar staan. Zo kunt u optimaal genieten van alle vrije momenten. Enkel nog wat extra spullen inladen en  u bent meteen in vakantiestemming. 
 
 ## Goed om weten

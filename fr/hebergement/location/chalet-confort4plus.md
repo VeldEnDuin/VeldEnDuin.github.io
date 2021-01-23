@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Chalet Confort 4 Plus
+title: Chalet Confort 4+
 preview: 
-    title: Chalet confort 4 +
+    title: Chalet confort 4+
     button:
         price: 126
         for: 2 nuits
@@ -40,8 +40,6 @@ insert:
 ---
 
 {% include links.md %}
-
-# Chalet confort 4 +
 
 De retour d’une agréable journée à la plage ou d’une balade dans les environs, installez-vous sur la terrasse couverte pour prendre l’apéritif et vous remémorer les bons moments que vous venez de passer ou planifier les activités des prochains jours.  
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Info
+title: Tourist Information
 picto: /img/svg/voorzieningen/info.svg
 
 images:
@@ -23,8 +23,6 @@ remove:
 ---
 
 {% include links.md %}
-
-# Tourist information
 
 We will inform you about what’s going on in Bredene and surroundings on a regular basis. You can find this information on the following spots:
 

@@ -21,8 +21,6 @@ remove:
 ---
 {% include links.md %}
 
-# Laundrette
-
 Do you want to wash some clothes in between and to avoid heaps of laundry upon your return?
 
 There are washing machines and tumble driers at your disposal in each of our 3 sanitary buildings.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chalet Comfort 4 Plus
+title: Chalet Comfort 4+
 preview: 
     title: Chalet comfort 4+
     button:
@@ -40,8 +40,6 @@ insert:
 ---
 
 {% include links.md %}
-
-# Chalet comfort 4 +
 
 Na een heerlijk dagje strand of een uitstapje in de buurt lonkt het overdekte terras (en de aperitief) om nog even terug te blikken of al plannen te maken voor de komende dagen. 
 

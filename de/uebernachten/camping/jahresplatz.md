@@ -24,8 +24,6 @@ insert:
 
 {% include links.md %}
 
-# JAHRESPLATZ
-
 Ihr Wohnwagen mit allen Grundannehmlichkeiten bleibt das ganze Jahr über stehen. So können Sie Ihre Freizeit optimal genießen. Nur noch ein paar Sachen einladen – schon sind Sie in Urlaubsstimmung 
 
 ## Gut zu wissen

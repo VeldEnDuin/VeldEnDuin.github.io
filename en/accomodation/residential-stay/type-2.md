@@ -33,8 +33,6 @@ insert:
 
 {% include links.md %}
 
-# TYPE 2 - CARAVAN OR CHALET
-
 Do you secretly dream about a place to settle along the coast? Make your dream come true, buy your own caravan or chalet and come as often as you like. 
 
 

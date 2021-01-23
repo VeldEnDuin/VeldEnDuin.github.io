@@ -21,8 +21,6 @@ remove:
 
 ---
 
-# Sanitary facilities
-
 All campers can make use of our sanitary facilities:
 
 * 5 showers

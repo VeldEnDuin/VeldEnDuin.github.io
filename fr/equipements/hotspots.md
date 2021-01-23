@@ -23,8 +23,6 @@ remove:
 ---
 {% include links.md %}
 
-# POINTS D'INTERET
-
 Il y a un certain nombre d'endroits sur Veld & Duin qui nous sont très chers et dont nous sommes très fiers. Parce qu'ils sont très spéciaux, qu'ils ont de beaux souvenirs ou simplement beaux à regarder.
 Ci-dessous nos favoris, mais assurez-vous de rechercher votre endroit préféré.
 

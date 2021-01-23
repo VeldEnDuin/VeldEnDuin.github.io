@@ -14,8 +14,6 @@ tile-background-size: contain
 
 {% include links.md %}
 
-# Quality
-
 ## Q-label
 
 The [Q-label][q-label.en] stands for Quality Service among the tourism enterpreneurs along the Flemish coast.  The quality process consists of training sessions and personal coaching. The Q-label is valid for three years.

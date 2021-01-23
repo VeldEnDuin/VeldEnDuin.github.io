@@ -24,8 +24,6 @@ remove:
 
 {% include links.md %}
 
-# Bicycle shed
-
 Putting your bicycle inside after an inspiring tour might be a good idea. In our covered bicycle shed there is room for 116 bikes.
 
 Our residents can rent a stand for an entire year. Tenants or backpackers can rent a stand for the length of their stay.

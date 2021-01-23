@@ -22,8 +22,6 @@ insert:
 
 {% include links.md %}
 
-# TYPE 1 - CARAVANE 
-
 Ces emplacements sont un peu plus petits mais vous vous y sentirez immédiatement en vacances. 
 
 

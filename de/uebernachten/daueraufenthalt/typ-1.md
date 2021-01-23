@@ -22,8 +22,6 @@ insert:
 
 {% include links.md %}
 
-# TYP 1 - WOHNWAGEN 
-
 Diese Plätze haben eine etwas kleinere Fläche, bieten aber ebenso gut im Handumdrehen ein Urlaubsgefühl.  
 
 

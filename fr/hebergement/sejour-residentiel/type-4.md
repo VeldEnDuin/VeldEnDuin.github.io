@@ -27,8 +27,6 @@ insert:
 
 {% include links.md %}
 
-# Type 4 - CARAVANE
-
 Vous cherchez un grand emplacement avec vue sur la pièce d’eau au centre du camping? Optez pour l’un de nos emplacements de luxe plus spacieux.
 
 ## Bon à savoir

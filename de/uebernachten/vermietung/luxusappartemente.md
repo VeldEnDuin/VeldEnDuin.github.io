@@ -38,8 +38,6 @@ insert:
 
 {% include links.md %}
 
-# Luxusappartement
-
 Diese neuen Luxusappartements liegen über der Rezeption und bieten einen herrlichen Ausblick auf die Blumenpracht an der Zufahrt zum Campingplatz.
 
 ## Günstigster Preis

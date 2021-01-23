@@ -35,8 +35,6 @@ insert:
 
 {% include links.md %}
 
-# Caravan comfort 2 
-
 This mini-caravan with private garden is suitable for those who love being outdoors but still love to cook their own meals or have a refreshing shower.
 
 ## Cheapest price

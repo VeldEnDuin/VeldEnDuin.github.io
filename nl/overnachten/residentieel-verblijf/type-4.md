@@ -28,8 +28,6 @@ insert:
 
 {% include links.md %}
 
-# Type 4 - CARAVAN
-
 Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Ga dan voor één van onze luxueuze plaatsen en geniet van de extra ruimte.
 
 ## Goed om weten

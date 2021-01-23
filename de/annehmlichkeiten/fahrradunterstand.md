@@ -24,8 +24,6 @@ remove:
 
 {% include links.md %}
 
-# Fahrradunterstand
-
 Sie wissen Ihr Fahrrad nach einer schönen Radtour gern hinter Schloss und Riegel? Unser überdachter Fahrradunterstand hat insgesamt 116 Plätze für Ihre Räder.
 
 Unsere Dauercamper können dort einen Platz für ein ganzes Jahr mieten. Für Mieter oder Kurzzeitcamper ist es möglich, einen Platz für die Dauer ihres Aufenthalts zu buchen.

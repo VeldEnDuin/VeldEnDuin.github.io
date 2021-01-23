@@ -29,8 +29,6 @@ insert:
 ---
 {% include links.md %}
 
-# CAMPINGPLATZ 10x8
-
 Kombinieren Sie die Freiheit des Reisens mit einem Wohnwagen mit dem Komfort unseres Campingplatzes.
 
 ## Gut zu wissen
