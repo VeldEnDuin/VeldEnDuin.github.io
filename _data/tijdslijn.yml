@@ -1,8 +1,8 @@
 class:
-  item: "vd-group-timeline-item col-lg-6 col-md-6 col-sm-12 col-xs-12"
+  item: "vd-group-timeline-item col-lg-3 col-md-4 col-sm-6 col-xs-12"
   list: "vd-group-timeline row"
 style:
-  spacer: true
+  spacer: false
 sort:
     key: date
     reverse: true

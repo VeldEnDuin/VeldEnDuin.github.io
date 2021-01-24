@@ -337,6 +337,10 @@ h3 {
 }
 .vd-layout-page h2 {
     padding-top: 1em;
+    text-decoration-line: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: #555;
+    text-decoration-skip-ink: auto;
 }
 .vd-layout-page  h3 {
     padding-top: 1em;
@@ -505,60 +509,6 @@ h3 {
 .vd-group-timeline.row {
 }
 
-.vd-group-timeline .timeline {
-    margin: 0 auto;
-    height: 100% !important;
-    width: 34px;
-}
-
-.timeline .timeline-line {
-    margin: 0 auto;
-    height: 100% !important;
-    width: 7px;
-    border: 1px solid rgb(237,127,43);
-    background-color: rgb(237,127,43);
-    border-radius: 15px;
-}
-
-/*
-new colours  // veld & duin secundair
-  // primair
-    rgb(186, 189, 140);  // greyish green
-    rgb(146, 200, 65);   // bright green
-    rgba(146, 200, 65, 0.1);   // bright green - at 10%
-  // secundair
-    rgb(67,182,73);      // grass-bright green
-    rgb(240,197,31);     // sunny yellow
-    rgb(237,127,43);     // orange like the fruit
-    rgb(212,71,39);      // darker orange-red-brown
-    rgb(237,226,210);    // bg pale redish 
-    rgb(242, 248, 233);  // bg pale green 
-*/
-
-
-.timeline .timeline-dot {
-    position: absolute;
-    margin: 0 auto;
-    display: block;
-    padding: 4px;
-    height: 20px !important;
-    width: 20px !important;
-    background-color: rgba(255,255,255,1);
-    border-radius: 50%;
-    padding: 1em;
-}
-
-.timeline .timeline-dot > span{
-    background-color: rgb(67,182,73);
-    position: absolute;
-    display: block;
-    width: 18px !important;
-    height: 18px !important;
-    border-radius: 50%;
-    top: 7px;
-    left: 7px;
-}
-
 .vd-group-timeline-item .img-rounded {
     padding: 0;
     background-color: transparent;
@@ -571,8 +521,7 @@ new colours  // veld & duin secundair
 }
 
 .vd-group-timeline .vd-group-timeline-item {
-    padding-left: 30px;
-    padding-right: 30px;
+    padding: 15px 15px 15px 15px;
     display: inline-block;
 }
 
@@ -609,6 +558,7 @@ new colours  // veld & duin secundair
 .vd-group-timeline-item .vd-group-item-inner {
     padding: 2em;
     background-color: rgba(255,255,255,1);
+/*    border: 1px solid rgba(67,182,73,0.5);*/
     border-radius: 5px;
     display: block;
     position: relative;
@@ -616,10 +566,11 @@ new colours  // veld & duin secundair
 
 .vd-group-timeline-item .vd-group-item-inner .vd-group-title {
     color: rgb(79, 81, 55);
-}
-
-.vd-group-timeline-item .vd-group-item-inner .vd-group-title {
     font-size: 1.3em;
+    text-decoration-line: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: #555;
+    text-decoration-skip-ink: auto;
 }
 
 .vd-group-timeline-item .vd-group-item-inner:after {
@@ -643,28 +594,6 @@ new colours  // veld & duin secundair
 .vd-group-timeline-item.timeline-left .vd-group-item-inner:after {
 	left: 100%;
 	border-left-color: rgba(255,255,255,1);
-}
-
-/*
- *     ~~~~~~~~~  responsive timeline ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- */
-@media (max-width: 991px) {                           /*  'xs' ans 'sm'  */
-    .vd-group-timeline .timeline {
-        margin: 0;
-    }
-}
-
-/*
- *   -------------------------------------------------------------------------------
- *   [group :: tagcloud]
- */
-.vd-group-tagcloud.row {
-    display:none;
-}
-
-svg.tagcloud {
-    display: block;
-    margin: auto;
 }
 
 
@@ -1690,6 +1619,7 @@ span.glyphicon {
 
 .page-header {
     margin-bottom: 2px;
+    border-bottom: 1px solid #ccc;
 }
 
 /* ===================================================================================

@@ -376,30 +376,14 @@
      * =======================================================================
      */
     $(function () {
-        var $groupList = $('#vd-group-tijdslijn'),
+        if (isMobile) {
+            return; // no fancy formatting on small devices
+        } 
+        // else
+        
+        let $groupList = $('#vd-group-tijdslijn'),
             $items = $('.vd-group-timeline-item', $groupList),
-            $grid,
-            $tl = $("<div class='timeline'>");
-
-        $tl.append($("<div class='timeline-line'>"));
-
-        function allNonSpacerItems(fn) {
-            $items.each(function () {
-                var $it = $(this);
-                if ($it.hasClass('vd-group-item-spacer')) {
-                    return;
-                } //else
-                return fn($it, $it.data('tl-dot'));
-            });
-        }
-
-
-        $groupList.prepend($tl);
-        allNonSpacerItems(function ($it) {
-            var $dot = $('<span class="timeline-dot"><span>&nbsp;</span></span>'), imgs;
-            $tl.append($dot);
-            $it.data('tl-dot', $dot);
-        });
+            $grid;
 
         function startMasonry() {
             $grid = $groupList.isotope({ // apply the masonry (default) layout.
@@ -408,26 +392,6 @@
                 columnWidth: '.vd-group-timeline-item',
                 percentPosition: true
             });
-
-
-            function postlayout(event, items) {
-                var tlpos = $tl.position(), tloff = $tl.offset();
-                allNonSpacerItems(function ($it, $dot) {
-                    var itpos = $it.position(), itoff = $it.offset(), dh = Number($dot.css("height").replace(/\D/g, "")) || 0;
-                    $it.removeClass('timeline-left').removeClass('timeline-right');
-                    // note the extra -1 is required because the timeline is
-                    // sometimes positione at fraction through 50%
-                    if (itoff.left < (tloff.left - 1)) {
-                        $it.addClass('timeline-left');
-                    } else {
-                        $it.addClass('timeline-right');
-                    }
-                    $dot.css("top", (itpos.top + dh) + "px");
-                });
-            }
-
-            $grid.on('layoutComplete', postlayout);
-            postlayout();
         }
         $(window).on("load", function () {
             setTimeout(startMasonry, 0);
