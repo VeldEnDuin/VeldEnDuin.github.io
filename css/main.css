@@ -1133,7 +1133,7 @@ button.vd-callout-btn:hover {
 }
 .vd-news-list {
     overflow-y: hidden;
-    overflow-x: scroll;
+    overflow-x: auto;
     position: relative;
 }
 .vd-news-list >div {
@@ -1444,10 +1444,6 @@ a.vd-barelink, a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.
     /* background-color: rgba(255, 255, 255, 0.5); */
     margin: 1em 0 0 0;
     height: 160px;
-    overflow-x: scroll;
-    overflow-y: hidden;
-}
-.vd-group-item-inner .vd-img-strip {
     overflow-x: auto;
     overflow-y: hidden;
 }
