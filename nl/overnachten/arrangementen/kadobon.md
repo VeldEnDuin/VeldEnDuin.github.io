@@ -30,7 +30,7 @@ Op zoek naar een leuk geschenk? Een mooie kadobon van Veld & Duin voor een bedra
 - geldig voor elk verhuurtype of voor een trekkersplaats
 - het hele jaar door bruikbaar volgens beschikbaarheid
 - onbeperkt geldig
-- kies zelf uw bedrag (minimum € 20)
+- kies zelf het bedrag (minimum € 20)
 
 
 
