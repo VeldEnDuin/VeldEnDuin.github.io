@@ -27,7 +27,7 @@ remove:
 ---
 {% include links.md %}
 
-## Entertainment Veld & Duin summer 2020
+## Entertainment Veld & Duin summer 2021
 
 At this moment it is still uncertain if entertainment will be possible on the campsite and on what conditions. 
 
@@ -39,5 +39,6 @@ We will keep you posted through facebook and our chalkboard.
 
 ## Entertainment Bredene and surroundings
 
-All big summer events have been cancelled. On our [to do-page][doen.en] and facebook we will inform you on smaller initiatives that will be allowed to take place. 
+Here, too, it remains to be seen what may or may not be possible in the coming summer. You will find all the latest news about this via our [to do-page][doen.en] and facebook.
+
 

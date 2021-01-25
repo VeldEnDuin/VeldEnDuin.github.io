@@ -26,7 +26,7 @@ remove:
 ---
 {% include links.md %}
 
-## Animation Veld & Duin Sommer 2020
+## Animation Veld & Duin Sommer 2021
 
 Im Moment ist es noch unsicher ob Animation überhaupt möglich sein wird auf dem Camping und unter welchen Bedingungen. 
 
@@ -37,4 +37,5 @@ Wir halten Sie auf dem Laufenden über Facebook und unserem Kreidetafel.
 
 ## Animation Bredene und Umgebung
 
-Alle grosse Sommerevents wurden storniert. Auf unserer [Aktivitätenseite][doen.de] werden wir Sie über kleinere Initiativen, die stattfinden dürfen, informieren. 
+Auch hier bleibt abzuwarten, was im kommenden Sommer möglich oder nicht möglich sein wird. Die neuesten Nachrichten dazu finden Sie auf unserer [Aktivitätenseite][doen.de] und auf Facebook.
+

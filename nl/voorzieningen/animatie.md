@@ -29,9 +29,8 @@ Op dit moment is het nog niet helemaal duidelijk of er animatie op de camping za
 
 We bekijken zeker de mogelijkheden voor wat kleinere en veilige mogelijkheden. We zullen deze last minute inplannen in functie van de richtlijnen, de mogelijkheden en het weer.
 
-We houden u op de hoogte via facebook en ons krijtbord.
-
+Via facebook en ons krijtbord houden we iedereen op de hoogte.
 
 ## Animatie Bredene en omgeving
 
-Ook hier is het nog even afwachten wat er al dan niet zal kunnen in de komende zomer. Via onze [doen-pagina][doen.nl] en facebook houden we u ook hiervan op de hoogte.
+Ook hier is het nog even afwachten wat er al dan niet zal kunnen in de komende zomer. Via onze [doen-pagina][doen.nl] en facebook vind je alle laatste nieuws hierover.
