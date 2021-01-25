@@ -33,7 +33,7 @@ Wünschen Sie eine besonders große Parzelle mit Blick auf das zentral gelegene 
 ## Gut zu wissen:
 
 - Alle Parzellen vom Typ 4 liegen rund um das Wadi
-- Betonplatte von 12 x 4 m – geeignet für große Wohnwagen
+- Betonplatte von 12 x 4 m 
 - Getrennte Zähler für Gas, Wasser und Strom
 - Unterirdische Gasversorgung – keine Gasflaschen
 - Winterfester Wasseranschluss

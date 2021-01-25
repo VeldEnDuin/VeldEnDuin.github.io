@@ -33,7 +33,7 @@ insert:
 
 {% include links.md %}
 
-Do you secretly dream about a place to settle along the coast? Make your dream come true, buy your own caravan or chalet and come as often as you like. 
+Do you secretly dream about a place to settle along the coast? Make this dream come true, buy your own caravan or chalet and come as often as you like. 
 
 
 ## Worth knowing

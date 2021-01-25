@@ -32,7 +32,7 @@ Vous cherchez un grand emplacement avec vue sur la pièce d’eau au centre du c
 ## Bon à savoir
 
 - toutes les parcelles de type 4 sont situées autour de la pièce d’eau
-- dalle de béton de 12x4 m – adaptée aux grandes caravanes
+- dalle de béton de 12x4 m
 - compteurs séparés pour le gaz – l’eau – l’électricité
 - réseau de gaz souterrain – pas de bonbonnes de gaz
 - raccordement à l’eau pendant l’hiver

@@ -33,7 +33,7 @@ insert:
 
 {% include links.md %}
 
-Een vaste stek aan de kust om steeds opnieuw naar terug te keren, wie droomt daar niet van? Maak uw droom waar met een eigen caravan of chalet om heel vaak van te genieten.
+Een vaste stek aan de kust om steeds opnieuw naar terug te keren, wie droomt daar niet van? Maak deze droom waar met een eigen caravan of chalet om heel vaak van te genieten.
 
 
 ## Goed om weten

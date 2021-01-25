@@ -33,7 +33,7 @@ Would you like a big plot overlooking the wadi? Choose one of our luxurious plac
 ## Worth knowing
 
 - all type 4 plots are situated around the wadi
-- concrete slab of 12x4 m – suitable for big caravans
+- concrete slab of 12x4 m 
 - separate meters for gas – water – electricity consumption
 - underground gas network – no bottled gas
 - winter proof gas connection

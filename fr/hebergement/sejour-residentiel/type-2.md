@@ -32,7 +32,7 @@ insert:
 
 {% include links.md %}
 
-Qui n’a jamais rêvé d’un pied-à-terre à la mer pour s’y rendre dès que l’envie vous prend? Réalisez votre rêve en ayant votre propre caravane ou chalet.
+Qui n’a jamais rêvé d’un pied-à-terre à la mer pour s’y rendre dès que l’envie vous prend? Réalisez ce rêve en ayant votre propre caravane ou chalet.
 
 
 ## Bon à savoir

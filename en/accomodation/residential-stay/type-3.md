@@ -23,11 +23,11 @@ insert:
 
 {% include links.md %}
 
-Would you like a big plot? Choose one of our luxurious places and enjoy the extra space.
+A caravan up to 12 meters can be placed on our type 3 plots. These spacious plots offer all the freedom to fully enjoy and relax with your family.
 
 ## Worth knowing
 
-- concrete slab of 12x4 m – suitable for big caravans
+- concrete slab of 12x4 m 
 - separate meters for gas – water – electricity consumption
 - underground gas network – no bottled gas
 - winter proof gas connection

@@ -23,11 +23,11 @@ insert:
 
 {% include links.md %}
 
-Wünschen Sie eine besonders große Parzelle? Dann sollten Sie einen unserer Luxusplätze wählen und den zusätzlichen Platz genießen.
+Auf unseren Parzellen vom Typ 3 kann ein Wohnwagen bis zu 12 Metern aufgestellt werden. Diese geräumigen Parzellen bieten die Freiheit, mit Ihre Familie in vollen Zügen zu genießen und zu entspannen.
 
 ## Gut zu wissen:
 
-- Betonplatte von 12 x 4 m – geeignet für große Wohnwagen
+- Betonplatte von 12 x 4 m 
 - Getrennte Zähler für Gas, Wasser und Strom
 - Unterirdische Gasversorgung – keine Gasflaschen
 - Winterfester Wasseranschluss

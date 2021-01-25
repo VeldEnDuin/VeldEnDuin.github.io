@@ -33,7 +33,7 @@ insert:
 
 {% include links.md %}
 
-Ein festes Zuhause an der Küste, in das man immer wieder zurückkehrt, wer träumt nicht davon? Machen Sie Ihren Traum mit einem eigenen Wohnwagen oder Chalet wahr, den oder das Sie häufig genießen können.
+Ein festes Zuhause an der Küste, in das man immer wieder zurückkehrt, wer träumt nicht davon? Machen Sie diesen Traum mit einem eigenen Wohnwagen oder Chalet wahr, den oder das Sie häufig genießen können.
 
 
 ## Gut zu wissen:

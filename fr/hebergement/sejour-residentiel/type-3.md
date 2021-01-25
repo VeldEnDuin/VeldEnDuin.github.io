@@ -22,11 +22,11 @@ insert:
 
 {% include links.md %}
 
-Vous cherchez un grand emplacement? Optez pour l’un de nos emplacements de luxe plus spacieux.
+Une caravane jusqu'à 12 mètres peut être placée sur nos parcelles de type 3. Ces parcelles spacieuses offrent la liberté de profiter pleinement et de se détendre avec votre famille.
 
 ## Bon à savoir
 
-- dalle de béton de 12x4 m – adaptée aux grandes caravanes
+- dalle de béton de 12x4 m 
 - compteurs séparés pour le gaz – l’eau – l’électricité
 - réseau de gaz souterrain – pas de bonbonnes de gaz
 - raccordement à l’eau pendant l’hiver
