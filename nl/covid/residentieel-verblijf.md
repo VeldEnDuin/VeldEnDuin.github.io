@@ -12,7 +12,7 @@ remove:
 
 ## SANITAIR
 
-Elke eigenaar moet gebruik maken van het santair in zijn of haar chalet of caravan, het gemeenschappelijke sanitair is verplicht gesloten tot 1 maart.
+Elke eigenaar moet gebruik maken van het sanitair in zijn of haar chalet of caravan, het gemeenschappelijke sanitair is verplicht gesloten tot 1 maart.
 
 ## VERHUUR VAN UW CARAVAN OF CHALET
 

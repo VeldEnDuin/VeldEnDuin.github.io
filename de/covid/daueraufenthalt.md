@@ -12,15 +12,8 @@ remove:
 
 ## SANITÄR
 
-Eigentümer mit eigenem Sanitär in ihrem Chalet oder Wohnwagen sollen dieses
-maximal verwenden.
+Jeder Eigentümer muss die sanitären Einrichtungen in seinem Chalet oder Wohnwagen nutzen. Die kommunalen sanitären Einrichtungen sind bis zum 1. März geschlossen.
 
 ## IHR WOHNWAGEN ODER CHALET VERMIETEN
 
-Wegen COVID-19 gibt es besondere Vorschriften für Vermietung, die von allen befolgt
-werden sollen.
-
-Wir haben ein Informationsblatt erstellt für alle, die ihr Chalet oder Wohnwagen vermieten.
-Dieses Informationsblatt wurde schon per Email geschickt an alle Eigentümer die vermieten.
-Vermieten Sie selber auch und haben Sie dieses noch nicht bekommen? Bitte nehmen
-Sie schnellstmöglich Kontakt mit uns auf.
+Bis zum 1. März dürfen nur die Besitzer eines Chalets oder Wohnwagens den Campingplatz betreten. Es ist verboten, das Chalet oder den Wohnwagen zu vermieten oder Besucher zu empfangen.

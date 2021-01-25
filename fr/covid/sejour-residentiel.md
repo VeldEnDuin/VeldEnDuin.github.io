@@ -12,10 +12,8 @@ remove:
 
 ## SANITAIRE
 
-Chaque propriétaire avec son propre sanitaire dans sa caravane ou chalet doit l’utiliser au maximum.
+Chaque propriétaire doit utiliser le santair dans son chalet ou sa caravane, les sanitaires communaux sont fermés jusqu'au 1er mars.
 
 ## LOCATION DE VOTRE CARAVANE OU CHALET
 
-A cause de COVID-19 la location est soumise à des règles spéciaux qui doivent être respectés par tout le monde.
-
-Nous avons établi une fiche d’information séparée pour tous les propriétaires qui louentleur caravane ou chalet. Cette fiche a été envoyé par email à tous les propriétaires qui louent. Est-ce que vous louez aussi et vous ne l’avez pas reçu? Veuillez nous contacter le plus vite possible.
+Jusqu'au 1er mars, seuls les propriétaires d'un chalet ou d'une caravane sont autorisés à entrer dans le camping. Il est interdit de louer le chalet ou la caravane ou recevoir des visiteurs.
