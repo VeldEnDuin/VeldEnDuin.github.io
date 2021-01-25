@@ -28,7 +28,7 @@ Meteen bij het binnenrijden wordt duidelijk dat we een verzorgde en gevarieerde 
 
 ## Duurzaamheid
 
-Groen betekent ook streven naar een zo duurzaam mogelijke werking. Hier dragen we ons steentje bij door onder meer:
+Green also means striving for the most sustainable operation possible. Here we contribute by, among other things:
 
 - gebruik te maken van zonneboilers voor de luxe-appartementen en het vernieuwde sanitair
 - in te zetten op gescheiden afvalophaling
@@ -37,6 +37,6 @@ Groen betekent ook streven naar een zo duurzaam mogelijke werking. Hier dragen w
 
 Elke residentiële plaats beschikt bovendien over aparte water-elektriciteits-en gasmeters zodat onze gasten aangespoord worden om hun ecologische voetafdruk te verkleinen. Ook in de verhuuraccommodaties doen we een warme oproep om niet onnodig energie te verspillen.
 
-Om ons engagement nog te versterken, namen we als één van de pilootbedrijven in de recreatiesector deel aan een project rond **maatschappelijk verantwoord ondernemen**. In een notendop: we kregen een doorlichting van onze werking en praktische instrumenten om in de toekomst verder het pad van het duurzaam ondernemen te bewandelen.<br>
-Het resultaat hiervan vindt u terug in ons [duurzaamheidsverslag] [pdf_mvo.nl]. 
+Om ons engagement nog te versterken, namen we als één van de pilootbedrijven in de recreatiesector deel aan een project rond maatschappelijk verantwoord ondernemen. In een notendop: we kregen een doorlichting van onze werking en praktische instrumenten om in de toekomst verder het pad van het duurzaam ondernemen te bewandelen.<br>
+Het resultaat hiervan is terug te vinden in ons [duurzaamheidsverslag] [pdf_mvo.nl]. 
 

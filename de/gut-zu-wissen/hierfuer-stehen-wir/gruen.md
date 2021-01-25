@@ -30,9 +30,9 @@ remove:
 Gleich beim Betreten des Geländes wird deutlich, dass wir eine gepflegte vielseitige Bepflanzung enorm wichtig finden. Die für unsere Region typischen Bäume und Pflanzen werden sorgfältig ausgewählt und täglich gepflegt, damit jeder viel Freude an ihnen hat.<br>
 
 
-## Ökologie
+## Nachhaltigkeit
 
-Grün bedeutet auch, dass wir nach einem möglichst umweltfreundlichen Betrieb streben. Wir versuchen unter anderem mit folgenden Maßnahmen, einen Beitrag für unsere Umwelt zu leisten:
+Grün bedeutet auch, nach einem möglichst nachhaltigen Betrieb zu streben. Hier tragen wir unter anderem bei:
 
 - bei den Luxusappartements und den erneuerten Sanitäranlagen verwenden wir Solarboiler
 - wir setzen auf Abfalltrennung
@@ -41,6 +41,6 @@ Grün bedeutet auch, dass wir nach einem möglichst umweltfreundlichen Betrieb s
 
 Jeder Dauercampingplatz verfügt darüber hinaus über getrennte Wasser-, Strom- und Gaszähler, sodass unsere Gäste angespornt werden, ihren ökologischen Fußabdruck zu verkleinern. Auch bei den Mietunterkünften werben wir dafür, nicht unnötig Energie zu verschwenden.
 
-Um unsere Engagement noch zu intensivieren, haben wir uns als eines der Pilotunternehmen in der Freizeitbranche an einem Projekt rund um die **soziale Verantwortung der Unternehmen (SVU)** beteiligt. Das Projekt in Kürze: Unsere Arbeitsweise wurde durchleuchtet und wir erhielten praktische Instrumente, damit wir auch in Zukunft nachhaltig unternehmerisch tätig sein können.<br>
+Um unsere Engagement noch zu intensivieren, haben wir uns als eines der Pilotunternehmen in der Freizeitbranche an einem Projekt rund um die soziale Verantwortung der Unternehmen (SVU) beteiligt. Das Projekt in Kürze: Unsere Arbeitsweise wurde durchleuchtet und wir erhielten praktische Instrumente, damit wir auch in Zukunft nachhaltig unternehmerisch tätig sein können.<br>
 Das Ergebnis finden Sie in unserem [Nachhaltigkeitsbericht] [pdf_mvo.de].
 

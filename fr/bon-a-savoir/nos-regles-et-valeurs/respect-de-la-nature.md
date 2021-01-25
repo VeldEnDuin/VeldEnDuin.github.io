@@ -29,9 +29,9 @@ remove:
 Vous remarquerez dès votre arrivée à quel point nous attachons de l’importance à vous proposer un cadre naturel à la végétation variée. Les fleurs et les plantes locales sont soigneusement sélectionnées et font l’objet d’un entretien quotidien afin que tous les occupants puissent en profiter pleinement.<br>
 
 
-## Écologie
+## Durabilité
 
-Nous tenons également à organiser nos activités dans le respect de l'environnement. Voici quelques mesures que nous avons prises en ce sens:
+Nous tenons également à organiser nos activités le plus durable possible. Voici quelques mesures que nous avons prises en ce sens:
 
 - l’utilisation de chauffe-eau solaires dans les appartements de luxe et les nouveaux sanitaires
 - le recours à la collecte séparée des déchets
@@ -40,6 +40,6 @@ Nous tenons également à organiser nos activités dans le respect de l'environn
 
 De plus, chaque emplacement résidentiel dispose de compteurs séparés pour l’eau, l’électricité et le gaz, de sorte à encourager nos résidents à réduire leur empreinte écologique. Nous invitons aussi chaleureusement les occupants de logements de location à ne pas gaspiller inutilement l’énergie.
 
-Afin de renforcer son engagement, Veld&Duin a participé, aux côtés d'autres entreprises du secteur récréatif, à un projet pilote en matière d’**responsabilité sociétale des entreprises**. Pour résumer, notre mode de fonctionnement a été radiographié et nous avons reçu des instruments pratiques afin de poursuivre sur la voie de l’entreprenariat durable.<br>
+Afin de renforcer son engagement, Veld&Duin a participé, aux côtés d'autres entreprises du secteur récréatif, à un projet pilote en matière de responsabilité sociétale des entreprises. Pour résumer, notre mode de fonctionnement a été radiographié et nous avons reçu des instruments pratiques afin de poursuivre sur la voie de l’entreprenariat durable.<br>
 Découvrez le résultat dans notre [rapport de durabilité] [pdf_mvo.fr]. 
 
