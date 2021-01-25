@@ -9,9 +9,20 @@ remove:
 
 {% include links.md %}
 
+## AKTUELLE INFO
+
+Die Vermietung von Chalets ist derzeit bis zum 1. März verboten. Natürlich hoffen wir, ab diesem Zeitpunkt wieder öffnen zu können. Hierunter allen Richtlinien und Maßnahmen, die wir ergreifen, um unsere Gäste sicher willkommen zu heißen.
+
+## WAS IST, WENN AUFGRUND VON COVID-19 STORNIERT WERDEN MUSS
+
+* Wenn Ihr Aufenthalt nicht fortgesetzt werden kann, weil der Campingplatz immer noch geschlossen ist, können Sie den bereits bezahlten Betrag für eine neue Reservierung behalten (Gültigkeitsdauer: 1 Jahr).
+* Im Falle einer Infektion von sich selbst oder Ihren Familienmitgliedern müssen Sie natürlich zu Hause bleiben. Dann gelten die gleichen Regeln wie für die obligatorische Schließung des Campingplatzes.
+
+<!--
 ## PUBLIC HEALTH PASSENGER LOCATOR FORM
 
 Seit dem 1. August 2020 müssen sich unsere ausländischen Gäste 48 Stunden vor ihrer Ankunft in Belgien über das sogenannte [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/de/public-health-passenger-locator-form) anmelden. Bitte machen Sie dies vor Ihrer Ankunft.
+-->
 
 ## CHECK-IN UND CHECK-OUT
 
