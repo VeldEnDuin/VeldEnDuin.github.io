@@ -31,4 +31,4 @@ Nos installations sanitaires sont à la disposition des campeurs:
 * 3 lavabos
 * station-service avec tuyau d’évacuation et d’arrivée d’eau
 
-**Prix du jeton de douche:** 1 € pour 6 minutes d’eau chaude - jetons vendus à la réception.
+Prix du jeton de douche: 1 € pour 6 minutes d’eau chaude - jetons vendus à la réception.

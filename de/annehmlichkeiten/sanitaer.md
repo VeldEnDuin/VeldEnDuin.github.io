@@ -31,4 +31,4 @@ Kurzzeitcamper können unsere Sanitäranlagen nutzen:
 * 3 Abwaschbecken
 * Servicestation mit Abwasserentsorgungs- und Wasserzapfstelle
 
-**Preis Duschmarke:** € 1 für 6 Minuten warmes Wasser – Marken an der Rezeption erhältlich.
+Preis Duschmarke: € 1 für 6 Minuten warmes Wasser – Marken an der Rezeption erhältlich.
