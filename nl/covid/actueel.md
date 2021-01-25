@@ -5,6 +5,7 @@ layout: page
 preview:
     title: Covid-19 Nieuws
     text:
+        - De richtlijnen rond COVID-19 wijzigen regelmatig. 
         - Wat op dit moment wel en niet kan evenals al onze voorzorgsmaatregelen en richtlijnen zetten we graag op een rijtje.
         
 images: 

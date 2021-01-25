@@ -5,6 +5,7 @@ layout: page
 preview:
     title: current Covid-19 situation
     text:
+        - The guidelines around COVID-19 change regularly.
         - We would like to list what is and what is not possible at the moment, as well as all our precautions and guidelines.
         
 images: 

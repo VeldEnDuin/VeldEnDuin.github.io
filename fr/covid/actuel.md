@@ -5,6 +5,7 @@ layout: page
 preview:
     title: actualités Covid-19
     text:
+        - Les directives concernant le COVID-19 changent régulièrement
         - Nous aimerions énumérer ce qui est et ce qui n'est pas possible pour le moment, ainsi que toutes nos précautions et directives.
         
 images: 

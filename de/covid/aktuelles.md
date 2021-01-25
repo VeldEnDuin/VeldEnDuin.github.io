@@ -5,6 +5,7 @@ layout: page
 preview:
     title: Covid-19 Nachrichten
     text:
+        - Die Richtlinien zu COVID-19 ändern sich regelmäßig.
         - Wir möchten auflisten, was derzeit möglich ist und was nicht, sowie alle unsere Vorsichtsmaßnahmen und Richtlinien.
         
 images: 
