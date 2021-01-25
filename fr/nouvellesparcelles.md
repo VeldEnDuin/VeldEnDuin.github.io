@@ -22,7 +22,7 @@ insert:
 
 Les nouvelles et spacieuses parcelles que nous avons construites ont été rapidement occupées. Pour le moment, il y a encore 1 parcelle libre jusqu'à un maximum de 10 mètres, alors venez jeter un œil.
 
-- [Type parcelle 2][type_2.nl]
+- [Type parcelle 2][type_2.fr]
 - plein sud
 - parcelle H9
 - caravane jusqu'à 10 mètres
