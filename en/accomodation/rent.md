@@ -9,8 +9,8 @@ class:
 preview:
     title: Book now
     text: 
-        - Book your chalet, caravan or (luxury)apartment online and enjoy a careless and comfortable stay.
-        - We also welcome campers who have a caravan, motorhome or tent of their own. Camping pitches can also be booked online. 
+        - Shake off winter and book your stay for spring or summer now. This beautiful prospect is sure to give you extra energy in these dark months.
+        - Tip: book your stay directly and pay 10% less than via Booking or AirBnB.
     image: /img/overnachten/logiestypes.jpg
         
 images:

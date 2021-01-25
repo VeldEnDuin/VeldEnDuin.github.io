@@ -9,8 +9,8 @@ class:
 preview:
     title: Reserve maintenant
     text: 
-        - Réservez votre chalet, caravane ou appartement (de luxe) en ligne et offrez-vous un séjour confortable et sans souci. 
-        - Nous sommes également ravis d’accueillir les campeurs qui disposent de leur propre caravane, mobilhome ou tente. Pour les campeurs c'est aussi possible de réserver un emplacement en ligne. 
+        - Secouez hiver et réservez votre séjour pour le printemps ou l'été maintenant. Cette belle perspective ne manquera pas de vous donner plus d'énergie en ces mois sombres.
+        - Astuce: réservez votre séjour directement et payez 10% de moins que via Booking ou AirBnB.
     image: /img/overnachten/logiestypes.jpg    
         
 images:

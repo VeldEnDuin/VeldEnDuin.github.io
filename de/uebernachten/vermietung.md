@@ -9,8 +9,8 @@ class:
 preview:
     title: Jetzt buchen
     text: 
-        - Buchen Sie online Ihr Chalet, Caravan oder (Luxus-)Appartement und genießen Sie ganz und gar einen sorgenfreien und komfortablen Aufenthalt. 
-        - Auch Camper mit eigenem Wohnmobil, Wohnwagen oder Zelt sind bei uns recht herzlich willkommen. Auch Campingplätze können online gebucht werden.    
+        - Schütteln Sie den Winter ab und buchen Sie jetzt Ihren Aufenthalt für Frühling oder Sommer. Diese schöne Aussicht wird Ihnen in diesen dunklen Monaten mit Sicherheit zusätzliche Energie geben.
+        - Tipp: Buchen Sie Ihren Aufenthalt direkt und zahlen Sie 10% weniger als über Buchung oder AirBnB.    
     image: /img/overnachten/logiestypes.jpg
     
 images:
