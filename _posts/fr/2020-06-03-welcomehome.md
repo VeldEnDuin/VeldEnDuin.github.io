@@ -1,7 +1,7 @@
 ---
 title: WELCOME HOME SONG
 layout: post
-description: avec cette chanson de notre réceptionniste Sander, nous vous souhaitons à nouveau la bienvenue
+description: avec cette chanson de notre réceptionist Sander, nous vous souhaitons à nouveau la bienvenue
 permalink: /fr/2020-06-03-welcomehomesong.html
     
 images: 
