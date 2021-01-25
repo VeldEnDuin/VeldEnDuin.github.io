@@ -1698,6 +1698,7 @@ span.glyphicon {
     height: 450px;
     overflow: hidden;
     max-width: 100%;
+    margin-bottom: 1em;
 }
 .embed-container iframe, 
 .embed-container object, 
