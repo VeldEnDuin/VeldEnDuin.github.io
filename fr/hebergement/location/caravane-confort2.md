@@ -35,7 +35,7 @@ insert:
 
 {% include links.md %}
 
-Cette mini-caravane et son jardinet privé sont parfaitement adaptés amoureux du grand air mais qui désirent tout de même cuisiner de bons petits plats et prendre une douche revigorante.
+Notre charmante petite maison avec jardin privé est parfaitement adapté pour amoureux du grand air mais qui désirent tout de même cuisiner de bons petits plats et prendre une douche revigorante.
 
 *Bon conseil: réservez votre séjour directement et payez 10% de moins que via Booking ou AirBnB.*
 

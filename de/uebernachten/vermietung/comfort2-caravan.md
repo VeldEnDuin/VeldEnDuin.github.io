@@ -35,7 +35,7 @@ insert:
 
 {% include links.md %}
 
-Dieser Miniwohnwagen mit Privatgärtchen ist ideal für Menschen, die sich gern im Freien aufhalten, aber abends doch gern gemütlich kochen oder sich mit einer Dusche erfrischen.
+Unser charmantes kleines Haus mit privatem Garten ist ideal für Menschen, die sich gern im Freien aufhalten, aber abends doch gern gemütlich kochen oder sich mit einer Dusche erfrischen.
 
 *Tipp: Buchen Sie Ihren Aufenthalt direkt und zahlen Sie 10% weniger als über Booking oder AirBnB.*
 

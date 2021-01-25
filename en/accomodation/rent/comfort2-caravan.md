@@ -35,7 +35,7 @@ insert:
 
 {% include links.md %}
 
-This mini-caravan with private garden is suitable for those who love being outdoors but still love to cook their own meals or have a refreshing shower.
+Our charming tiny house with private garden is suitable for those who love being outdoors but still love to cook their own meals or have a refreshing shower.
 
 *Tip: book your stay directly and pay 10% less than via Booking or AirBnB.*
 
