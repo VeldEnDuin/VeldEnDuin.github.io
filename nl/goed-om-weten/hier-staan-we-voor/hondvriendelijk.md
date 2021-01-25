@@ -18,7 +18,7 @@ insert:
 
 ---
 
-Uw hond is van harte welkom op de camping!<br>
+Ook je hond is van harte welkom op de camping!<br>
 Ook in de verhuurchalets en caravans zijn honden welkom, in de (luxe)appartementen zijn ze echter niet toegelaten.<br>
 
 
@@ -40,7 +40,7 @@ De hond uitlaten kan in het tegenoverliggende park Paelsteenveld of op het stran
 
 - 15/10 - 15/03: honden mogen vrij rondlopen op het strand en in het water
 - 15/03 - 30/06 & 01/09 - 15/10: honden toegelaten maar ze moeten aangelijnd zijn
-- 1/7 - 31/8: honden zijn **niet toegelaten** op het strand **tussen 10u30 en 18u30**. Uitzonderingen hierop:    
+- 1/7 - 31/8: honden zijn niet toegelaten op het strand tussen 10u30 en 18u30. Uitzonderingen hierop:    
     - de strandzones voorbij strandpost 1 (Twinsclub) tot aan de grens van Oostende
     - de zone tussen strandpost 6 en het naaktstrand
 
