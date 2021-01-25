@@ -29,7 +29,7 @@ insert:
 
 {% include links.md %}
 
-U hebt een maand of langer te spenderen? Bekijk dan de verschillende kampeerarrangementen, er zit vast een geschikte formule voor u bij.
+Kun je langere tijd aan de kust verblijven? Bekijk dan de verschillende kampeerarrangementen, er zit vast een geschikte formule bij.
 
 ## Goed om weten
 
