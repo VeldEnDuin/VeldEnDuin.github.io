@@ -16,10 +16,12 @@ insert:
 
 ---
 
-Kinder, Jugendliche, Familien, Senioren: Sie alle heißen wir gern herzlich willkommen bei Veld & Duin!<br>
-Das Schlüsselwort für einen angenehmen Urlaub mit anderen ist gegenseitiger Respekt und der ist daher für uns entscheidend.
+An der Rezeption stehen Sander und Els mit einem Lächeln bereit, um alle Fragen zu beantworten und die besten Urlaubstipps auszutauschen.
+Bei technischen Problemen hilft Ihnen Stefaan.
 
-Einige Regeln, an die sich jeder halten muss:
+Wir erwarten von unseren Gästen Respekt gegenüber den anderen Campern, damit jeder einen angenehmen Aufenthalt genießen kann.
+
+Eine Reihe von Regeln, um dies zu ermöglichen:
 
 - Nachtruhe (22 bis 8 Uhr)
 - Ballspiele: auf dem Campingplatz untersagt; gehen Sie dazu in den gegenüberliegenden Park oder an den Strand.

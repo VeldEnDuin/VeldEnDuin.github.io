@@ -16,10 +16,12 @@ insert:
 
 ---
 
-Children, youngsters, families, senior citizens,...everybody welcome at Veld & Duin!<br>
-In our opinion, one of the key words to spend a nice holiday together is mutual respect.
+In the reception, Sander and Els are ready with a smile to answer all questions and share the best holiday tips.
+If there are technical problems you will be helped by Stefaan.
 
-Our house rules:
+We expect respect from our guests towards the other campers so that everyone can enjoy a pleasant stay.
+
+A number of rules to make this possible:
 
 - night’s rest (22.00hrs – 08.00 hrs)
 - ball games are not allowed on the campsite – you are welcome to play on the beach or in the park opposite Veld&Duin

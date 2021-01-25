@@ -16,10 +16,11 @@ insert:
 
 ---
 
-Enfants, jeunes, familles, seniors... vous êtes toutes et tous les bienvenus au camping Veld & Duin!<br>
-Le principe de base pour des vacances agréables est le respect mutuel. Nous y veillons dès lors scrupuleusement. 
+A la réception, Sander et Els sont prêts avec le sourire à répondre à toutes les questions et à partager les meilleurs conseils de vacances.
+En cas de problèmes techniques, Stefaan vous aidera.
 
-Voici quelques règles qui s’imposent à l’ensemble des occupants:
+Nous attendons du respect de nos hôtes envers les autres campeurs afin que chacun puisse passer un agréable séjour.
+Un certain nombre de règles pour rendre cela possible:
 
 - repos nocturne (22h – 8h)
 - jeux de ballon: interdits sur le camping – vous trouverez tout l’espace nécessaire dans le parc en face du camping ou à la plage 
