@@ -26,7 +26,7 @@ Postez vos plus belles photos de vacances sur les réseaux sociaux et restez en 
 
 ## Internet dans nos accommodations de location
 
-Si vous louez un chalet ou appartement chez nous, vous recevez 2 tickets d'internet pour la durée de votre séjour. Un ticket connecte 1 appareil. Si vous avez besoin de plus vous pouvez acheter des tickets supplémentaires à la réception. 
+Si vous louez un chalet ou appartement chez nous, l'internet est inclus dans le prix pour la durée de votre séjour. 
 
 Un modem dans chaque de nos accommodations garantit une connexion rapide et stable dedans. 
 

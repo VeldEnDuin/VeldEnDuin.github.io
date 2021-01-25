@@ -26,7 +26,7 @@ Posten Sie Ihre schönsten Urlaubsfotos und lassen Sie Ihre Familie und Freunde 
 
 ## Internet Mietunterkünfte
 
-Wenn Sie eine Unterkunft bei uns mieten sind 2 Internettickets für die Dauer Ihres Aufenthalts inbegriffen im Mietpreis. Jedes Ticket verbindet 1 Gerät. Wenn Sie mehr Tickets brauchen können Sie diese an der Rezeption kaufen. 
+Wenn Sie eine Unterkunft bei uns mieten ist Internet für die Dauer Ihres Aufenthalts inbegriffen im Mietpreis. 
 
 In jeder Mietunterkunft garantiert ein Modem eine stabile und schnelle Verbindung. 
 

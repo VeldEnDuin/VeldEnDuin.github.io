@@ -26,7 +26,7 @@ Post your most beautiful holiday picture and keep your family up to date with th
 
 ## Internet rental accommodations
 
-When you rent a rental accommodation with us 2 internet tickets for the lenghth of your stay are included in the price. Each ticket connects one device. If you need extra tickets, you can buy these at the reception. 
+When you rent a rental accommodation with us internet is included for the lenghth of your stay.
 
 In each of our rental accommodations a modem guarantees a fast and stable connection inside. 
 
