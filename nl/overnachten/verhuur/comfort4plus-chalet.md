@@ -43,7 +43,7 @@ insert:
 
 Na een heerlijk dagje strand of een uitstapje in de buurt lonkt het overdekte terras (en de aperitief) om nog even terug te blikken of al plannen te maken voor de komende dagen. 
 
-**Tip: Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.**
+*Tip: Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.*
 
 ## Inrichting chalet:
 - ruime woonkamer met flatscreen en digitale tv

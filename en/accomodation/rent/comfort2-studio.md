@@ -38,8 +38,7 @@ insert:
 
 Need a break, just for the two of you? Make yourself at home in this cosy studio.
 
-## Cheapest price
-**Tip:** booking directly through our site or by phone / e-mail is **10% cheaper** than booking or AirBnb.
+*Tip: book your stay directly and pay 10% less than via Booking or AirBnB.*
 
 ## Facilities studio
 

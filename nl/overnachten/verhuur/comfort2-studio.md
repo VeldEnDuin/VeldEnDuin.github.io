@@ -39,7 +39,7 @@ insert:
 
 Kom een paar dagjes alleen of met z’n tweeën genieten van de zeelucht. Na een fikse strandwandeling of fietstocht  is het heerlijk vertoeven op het afgesloten en zuidgerichte terras.
 
-**Tip: Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.**
+*Tip: Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.*
 
 ## Inrichting studio
 

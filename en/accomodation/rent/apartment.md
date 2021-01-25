@@ -39,8 +39,7 @@ insert:
 
 The apartments are situated next to the campsite. This means that you can enjoy the space of an apartment and use the facilities of our campsite at the same time.
 
-## Cheapest price
-**Tip:** booking directly through our site or by phone / e-mail is **10% cheaper** than booking or AirBnb.
+*Tip: book your stay directly and pay 10% less than via Booking or AirBnB.*
 
 
 ## Facilities apartment

@@ -40,7 +40,7 @@ insert:
 
 Even alleen komen uitwaaien of met z'n tweetjes? In deze chalet is het heerlijk thuiskomen na een dagje genieten aan onze kust.
 
-**Tip: Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.**
+*Tip: Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.*
 
 ## Inrichting chalet
 

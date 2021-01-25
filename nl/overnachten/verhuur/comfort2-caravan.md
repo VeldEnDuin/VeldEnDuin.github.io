@@ -38,7 +38,7 @@ insert:
 
 Ons charmante tiny house met privé-tuintje is ideaal voor wie houdt van het buitenleven maar 's avonds toch graag z'n eigen potje kookt of een verkwikkende douche neemt.
 
-**Tip: Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.**
+*Tip: Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.*
 
 ## Inrichting caravan
 - kleine woonruimte met flatscreen en digitale tv

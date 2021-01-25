@@ -38,7 +38,7 @@ insert:
 
 Situés au-dessus de la réception, ces nouveaux appartements luxueux offrent une vue imprenable sur les magnifiques parterres de fleur de l’entrée du camping.  
 
-*Conseil: réserver directement sur notre site, par téléphone ou par e-mail coûte 10% moins cher que via Booking ou AirBnb.*
+* Bon conseil: réservez votre séjour directement et payez 10% de moins que via Booking ou AirBnB. *
 
 ## Aménagement de l’appartement de luxe
 

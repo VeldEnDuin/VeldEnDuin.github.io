@@ -37,8 +37,7 @@ insert:
 
 Cette mini-caravane et son jardinet privé sont parfaitement adaptés amoureux du grand air mais qui désirent tout de même cuisiner de bons petits plats et prendre une douche revigorante.
 
-## Prix le moins cher
-**Astuce:** réserver directement sur notre site ou par téléphone / e-mail coûte **10% moins cher** que via Booking ou AirBnb.
+*Bon conseil: réservez votre séjour directement et payez 10% de moins que via Booking ou AirBnB.*
 
 ## Aménagement de la caravane
 

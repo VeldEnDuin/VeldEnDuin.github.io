@@ -37,8 +37,7 @@ insert:
 
 This mini-caravan with private garden is suitable for those who love being outdoors but still love to cook their own meals or have a refreshing shower.
 
-## Cheapest price
-**Tip:** booking directly through our site or by phone / e-mail is **10% cheaper** than booking or AirBnb.
+*Tip: book your stay directly and pay 10% less than via Booking or AirBnB.*
 
 ## Facilities caravan
 

@@ -42,9 +42,7 @@ insert:
 {% include links.md %}
 
 De retour d’une agréable journée à la plage ou d’une balade dans les environs, installez-vous sur la terrasse couverte pour prendre l’apéritif et vous remémorer les bons moments que vous venez de passer ou planifier les activités des prochains jours.  
-
-## Prix le moins cher
-**Astuce:** réserver directement sur notre site ou par téléphone / e-mail coûte **10% moins cher** que via Booking ou AirBnb.
+*Bon conseil: réservez votre séjour directement et payez 10% de moins que via Booking ou AirBnB.*
 
 ## Aménagement du chalet:
 

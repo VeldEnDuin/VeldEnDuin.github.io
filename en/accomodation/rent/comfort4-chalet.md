@@ -39,8 +39,7 @@ insert:
 
 These chalets are situated in front, close to the playground. Well situated for families with children.
 
-## Cheapest price
-**Tip:** booking directly through our site or by phone / e-mail is **10% cheaper** than booking or AirBnb.
+*Tip: book your stay directly and pay 10% less than via Booking or AirBnB.*
 
 ## Facilities chalet
 

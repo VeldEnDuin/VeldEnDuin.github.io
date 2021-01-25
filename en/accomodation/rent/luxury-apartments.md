@@ -38,7 +38,7 @@ insert:
 
 Located above the reception these new and luxurious apartments overlook the floral beauty at the entrance of the campsite.
 
-*Tip: booking directly through our site, by phone or e-mail is 10% cheaper than booking or AirBnb.*
+*Tip: book your stay directly and pay 10% less than via Booking or AirBnB.*
 
 ## Facilities luxury apartment
 

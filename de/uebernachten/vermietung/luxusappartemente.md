@@ -38,7 +38,7 @@ insert:
 
 Diese neuen Luxusappartements liegen über der Rezeption und bieten einen herrlichen Ausblick auf die Blumenpracht an der Zufahrt zum Campingplatz.
 
-*Tipp: Die Buchung direkt über unsere Website, per Telefon oder Email ist 10% günstiger als über Booking oder AirBnb.*
+*Tipp: Buchen Sie Ihren Aufenthalt direkt und zahlen Sie 10% weniger als über Booking oder AirBnB.*
 
 ## Einrichtung Luxusappartement
 

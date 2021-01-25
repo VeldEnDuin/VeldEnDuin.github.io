@@ -43,8 +43,7 @@ insert:
 
 Nach einem herrlichen Tag am Strand oder einem Ausflug in die Umgebung lockt die überdachte Terrasse (und der Aperitif), um den Tag noch einmal Revue passieren zu lassen oder schon Pläne für die nächsten Tage zu schmieden.  
 
-## Günstigster Preis
-**Tipp:** Die Buchung direkt über unsere Website oder per Telefon / Email ist **10% günstiger** als über Buchung oder AirBnb.
+*Tipp: Buchen Sie Ihren Aufenthalt direkt und zahlen Sie 10% weniger als über Booking oder AirBnB.*
 
 ## Einrichtung Chalet
 

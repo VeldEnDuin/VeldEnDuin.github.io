@@ -37,8 +37,7 @@ insert:
 
 Dieser Miniwohnwagen mit Privatgärtchen ist ideal für Menschen, die sich gern im Freien aufhalten, aber abends doch gern gemütlich kochen oder sich mit einer Dusche erfrischen.
 
-## Günstigster Preis
-**Tipp:** Die Buchung direkt über unsere Website oder per Telefon / Email ist **10% günstiger** als über Buchung oder AirBnb.
+*Tipp: Buchen Sie Ihren Aufenthalt direkt und zahlen Sie 10% weniger als über Booking oder AirBnB.*
 
 ## Einrichtung Caravan
 
