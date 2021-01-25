@@ -36,8 +36,8 @@ We hebben de keuze uit 2 types tentplaatsen.  Op de plaatsen van 7x8 is het heer
 
 ## Goed om weten
 
-- Tentplaats 7x8: max 4 personen / plaats 
-- Tentplaats 10x8: max 6 personen / plaats
+- tentplaats 7x8: max 4 personen / plaats 
+- tentplaats 10x8: max 6 personen / plaats
 - honden toegelaten - max 2 - geen gevaarlijke rassen
 - toegankelijk  het hele jaar behalve van 15 januari tot 1 maart en 15 november tot 15 december
 

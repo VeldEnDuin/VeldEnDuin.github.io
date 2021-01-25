@@ -31,9 +31,7 @@ insert:
 ---
 {% include links.md %}
 
-Die Plätze von 7x8 Metern sind ideal für Ihr kleines (Wurf-)Zelt.   
-
-Die Plätze von 10x8 Metern sind geeichnet für grossere Familienzelte. 
+Wir haben die Wahl zwischen 2 Arten von Zeltplätzen. Die 7x8 Stellplätze eignen sich hervorragend für Camping zu zweit. Mit mehr Leuten oder möchten Sie mehr Platz? Dann wählen Sie den großen Zeltplatz.
 
 ## Gut zu wissen
 

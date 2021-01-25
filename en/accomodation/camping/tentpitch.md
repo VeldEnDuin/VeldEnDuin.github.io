@@ -32,15 +32,13 @@ insert:
 ---
 {% include links.md %}
 
-The pitches of 7x8 m are convenient for small (self-constructing) tents.   
-
-The pitches of 10x8 m are ideal for bigger family tents. 
+We have a choice of 2 types of tent pitches. The 7x8 pitches are great for camping as a couple. With more people or would you like more space? Then choose the large tent pitch.
 
 
 ## Worth knowing
 
-- Tent pitch 7x8: max 4 persons/ pitch
-- Tent pitch 10x8: max 6 persons/ pitch
+- tent pitch 7x8: max 4 persons/ pitch
+- tent pitch 10x8: max 6 persons/ pitch
 - dogs allowed - max 2 – no dangerous breeds
 - accessible all year round except from January 15th to March 1st and November 15th to December 15th
 

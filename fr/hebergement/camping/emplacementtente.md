@@ -31,15 +31,13 @@ insert:
 ---
 {% include links.md %}
 
-Les emplacements de 7x8 mètres conviennent parfaitement aux petites tentes (à montage rapide).  
-
-Les emplacements de 10x8 mètres coenviennent aux grandes tentes familiales.
+Nous avons le choix entre 2 types d'emplacements de tente. Les emplacements 7x8 sont parfaits pour camper en couple. Avec plus de monde ou souhaitez-vous plus d'espace? Choisissez ensuite le grand emplacement pour tente.
 
 
 ## Bon à savoir
 
-- Emplacement 7x8: max. 4 personnes / emplacement
-- Emplacement 10x8: max. 6 personnes / emplacement
+- emplacement 7x8: max. 4 personnes / emplacement
+- emplacement 10x8: max. 6 personnes / emplacement
 - chiens admis – max. 2 – pas de races dangereuses
 - accessible toute l'année sauf du 15 janvier au 1er mars et du 15 novembre au 15 décembre
 
