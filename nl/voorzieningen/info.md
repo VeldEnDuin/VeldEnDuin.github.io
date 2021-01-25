@@ -24,12 +24,12 @@ remove:
 
 {% include links.md %}
 
-We informeren u graag over wat er in de omgeving zoal te beleven is. Dit doen we onder meer via volgende kanalen:
+We informeren graag over wat er in de omgeving zoal te beleven is. Dit doen we onder meer via volgende kanalen:
 
 ## Infomuur
 
 - infobord met alle praktische info zoals prijzen, noodnummers, plattegrond,...
-- brievenkast voor uw post of krant
+- brievenkast voor post en kranten
 - de meest actuele tip op het krijtbord
 
 ## Receptie
@@ -38,7 +38,7 @@ We informeren u graag over wat er in de omgeving zoal te beleven is. Dit doen we
 
 ## [Doen-pagina][doen.nl]
 
-- op onze site vindt u een uitgebreid overzicht van allerhande activiteiten, handig onderverdeeld in rubrieken
+- op onze site staat een uitgebreid overzicht van allerhande activiteiten, handig onderverdeeld in rubrieken
 
 
 ## Dienst voor Toerisme
