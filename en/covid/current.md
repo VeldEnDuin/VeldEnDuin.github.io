@@ -22,6 +22,8 @@ According to the Ministerial Decree, campsites are closed to the public until Ma
 
 In concrete terms, our second residence owners can come as well as the campers that have their own sanitary facilities. Our rental accommodations are on hold for a while, but we hope to be able to reopen it as soon as possible.
 
+Non-essential travel to and from abroad is prohibited from January 27 to March 1.
+
 ## Mouth mask duty
 Mouth masks remain mandatory in shops and shopping streets, public buildings, public transport and everywhere where no distance can be kept.
 

@@ -24,6 +24,8 @@ Selon l'arrêté ministériel, les campings sont fermés au public jusqu'au 1er 
 
 Plus précisément, nos propriétaires d'une résidence secondaire sont autorisés à venir et les campeurs qui ont leurs propres installations sanitaires. Notre location est toujours en attente, mais nous espérons pouvoir la rouvrir le plus rapidement possible.
 
+Les voyages non essentiels à destination et en provenance de l'étranger sont interdits du 27 janvier au 1er mars.
+
 ## Obligation de masque
 
 Les masques restent obligatoires dans les magasins et les rues commerçantes, les bâtiments publics, les transports publics et partout où aucune distance ne peut être maintenue.

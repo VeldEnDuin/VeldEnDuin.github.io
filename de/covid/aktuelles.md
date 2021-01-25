@@ -23,6 +23,8 @@ Gemäß dem Ministerialdekret sind Campingplätze bis zum 1. März für die Öff
 
 Insbesondere dürfen unsere Zweitwohnsitzinhaber und die Camper, die über eigene sanitäre Einrichtungen verfügen, kommen. Unsere Vermietung wird für eine Weile ausgesetzt, aber wir hoffen, sie so bald wie möglich wieder öffnen zu können.
 
+Nicht wesentliche Reisen ins und aus dem Ausland sind vom 27. Januar bis 1. März verboten.
+
 ## Mundmaskenpflicht
 Mundmasken sind in Geschäften und Einkaufsstraßen, öffentlichen Gebäuden, öffentlichen Verkehrsmitteln und überall dort, wo kein Abstand eingehalten werden kann, weiterhin obligatorisch.
 

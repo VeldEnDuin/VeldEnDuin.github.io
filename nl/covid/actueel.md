@@ -21,6 +21,8 @@ remove:
 Volgens het Ministrieel Besluit zijn campings gesloten voor het publiek tot 1 maart. Een uitzondering op deze verplichte sluiting geldt voor de vakantiewoningen, chalets, stacaravans en kampeervoorzieningen (campers en tourcaravans die zelfvoorzienend zijn) die dienen voor het gebruik door de eigenaar en/of diens huishouden.
 
 Concreet mogen onze tweedeverblijvers komen én de campers die over eigen sanitair beschikken. Onze verhuur staat nog even op hold maar we hopen die zo snel mogelijk weer te kunnen heropenen.
+
+Van 27 januari tot 1 maart zijn niet-essentiële reizen van en naar het buitenland verboden.
  
 
 ## MONDMASKERPLICHT
