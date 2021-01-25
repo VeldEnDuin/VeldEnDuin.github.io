@@ -42,7 +42,7 @@ Envie de vous ressourcer seul ou à deux? Vous vous sentirez comme à la maison 
 
 ## Aménagement du chalet
 
-- grande salle de séjour avec écran plat et digibox
+- grande salle de séjour avec écran plat et TV numérique
 - cuisine équipée avec four à micro-ondes
 - salle de bains avec douche, lavabo et toilettes
 - chambre à coucher dans le chalet:

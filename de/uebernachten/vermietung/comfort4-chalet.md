@@ -43,7 +43,7 @@ Diese Chalets liegen vorn auf dem Campingplatz in der Nähe des Spielplatzes. Id
 
 ## Einrichtung Chalet
 
-- Großes Wohnzimmer mit Flachbildschirm-TV und Digibox
+- Großes Wohnzimmer mit Flachbildschirm und Digitalfernseher
 - Eingerichtete Küche mit Mikrowelle
 - Badezimmer mit Dusche, Waschbecken und Toilette
 - Schlafzimmer Chalet:

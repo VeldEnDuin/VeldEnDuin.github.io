@@ -41,7 +41,7 @@ Cette mini-caravane et son jardinet privé sont parfaitement adaptés amoureux d
 
 ## Aménagement de la caravane
 
-- coin salon avec télévision et digibox
+- coin salon avec avec écran plat et TV numérique
 - cuisine avec cuisinière à deux plaques et petit four à micro-ondes
 - salle de bains avec douche et lavabo
 - toilettes séparées

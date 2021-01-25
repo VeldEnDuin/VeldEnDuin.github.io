@@ -43,7 +43,7 @@ Ces chalets sont situés à l’entrée du camping, à proximité du terrain de 
 
 ## Aménagement du chalet
 
-- grande salle de séjour avec écran plat et digibox
+- grande salle de séjour avec écran plat et TV numérique
 - cuisine équipée avec four à micro-ondes
 - salle de bains avec douche, lavabo et toilettes
 - chambres à coucher dans le chalet:

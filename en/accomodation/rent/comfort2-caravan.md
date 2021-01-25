@@ -41,7 +41,7 @@ This mini-caravan with private garden is suitable for those who love being outdo
 
 ## Facilities caravan
 
-- small living room with TV and set top box
+- small living room with flat screen and digital TV
 - kitchen with cooker (2 hot plates) and small microwave
 - bathroom with shower and washbasin
 - separate toilet

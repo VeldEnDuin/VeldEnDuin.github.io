@@ -57,7 +57,7 @@ Die Appartements liegen neben dem Campingplatz. So genießen Sie den Platz eines
 - Appartement vorgesehen für 4-5 Personen
 - Check-in: ab 14 Uhr - Check-out: bis 10 Uhr
 - Haustiere nicht zugelassen, jedoch möglich in Chalets oder Caravans
-- Aufzug vorhanden
+- Aufzug
 - Gemeinsamer Fahrradraum
 - Vermietung das ganze Jahr über außer vom 15. Januar bis 1. März und vom 15. November bis 15. Dezember
 - 50 € Kaution bei Ankunft in bar zu zahlen

@@ -41,7 +41,7 @@ Dieser Miniwohnwagen mit Privatgärtchen ist ideal für Menschen, die sich gern 
 
 ## Einrichtung Caravan
 
-- Kleines Wohnzimmer mit TV und Digibox
+- Kleines Wohnzimmer mit Flachbildschirm und Digitalfernseher
 - Küche mit 2-flammigem Herd und kleiner Mikrowelle
 - Badezimmer mit Dusche und Waschbecken 
 - Getrennte Toilette

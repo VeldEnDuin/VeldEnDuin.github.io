@@ -46,7 +46,7 @@ De retour d’une agréable journée à la plage ou d’une balade dans les envi
 
 ## Aménagement du chalet:
 
-- grande salle de séjour avec écran plat et digibox
+- grande salle de séjour avec écran plat et TV numérique
 - cuisine équipée avec four à micro-ondes
 - salle de bains avec douche, lavabo et toilettes
 - chambres à coucher du chalet:

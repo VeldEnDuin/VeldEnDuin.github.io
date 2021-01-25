@@ -47,7 +47,7 @@ Sit down and relax. Have a glass of wine on the terrace of your chalet after a l
 
 ## Facilities chalet
 
-- spacious living room with flat screen and set top box
+- spacious living room with flat screen and digital TV
 - fully equipped kitchen and microwave
 - bathroom with shower, washbasin and toilet 
 – bedrooms chalet:

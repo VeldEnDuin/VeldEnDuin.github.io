@@ -42,7 +42,7 @@ Sie wollen sich ein wenig allein oder zu zweit den Wind um die Nase wehen lassen
 
 ## Einrichtung Chalet
 
-- Großes Wohnzimmer mit Flachbildschirm-TV und Digibox
+- Großes Wohnzimmer mit Flachbildschirm und Digitalfernseher
 - Eingerichtete Küche mit Mikrowelle
 - Badezimmer mit Dusche, Waschbecken und Toilette
 - Schlafzimmer Chalet:
