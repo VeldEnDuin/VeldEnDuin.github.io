@@ -14,8 +14,8 @@ options:
     
 select:
     - verhuur
+    - nieuwepercelen
     - covid-actueel
-#    - nieuwepercelen
     
 class:
     select:

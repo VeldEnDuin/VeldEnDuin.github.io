@@ -6,7 +6,8 @@ description:
 preview:
     title: eigen stekje aan zee
     text: 
-        - Ook interesse in een vast verblijf aan zee? Van de 22 percelen die we recent aanlegden voor residentiële caravans is er nog één ruim en zuidgericht vrij.
+        - Ook interesse in een vast verblijf aan zee? Van de 22 percelen die we recent aanlegden voor residentiële caravans is er nog één ruime en zuidgerichte plaats vrij. 
+        - Kom snel een kijkje nemen.
 
         
 images:

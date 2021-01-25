@@ -1,30 +1,34 @@
 ---
 layout: page
-title: New spaces
+title: own place by the sea
+description: 
 
 preview:
-    title: New spaces
+    title: own place by the sea
     text: 
-        - This winter, 9 brand-new spaces are being set up for residential caravans. 
-        - Available from May 2020.
+        - Also interested in a permanent stay by the sea? Of the 22 plots that we recently built for residential caravans, there is still one spacious and south-facing site available.
+        - Come and have a look.
+
         
 images:
-    - /img/nieuwepercelen.jpg
+    - /img/plan-3d-nieuwproject.jpg
 
 insert:
     - page-images-top
-    
-
 
 ---
 
 {% include links.md %}
 
-This winter, 9 brand-new spaces are being set up for residential caravans up to 12 m. Available from may 2020.
+The new and spacious plots that we built were quickly occupied. At the moment there is still 1 plot free up to a maximum of 10 meters, so come and have a look.
 
-The spaces are designed for new caravans up to 12 m long and are on average about 175 m².
-These spaces have a 16 kW electricity hook-up, an underground gas line, optional water supply during the winter and digital TV.
-Make an appointment for a visit and come and take a look for yourself. We will be happy to give you a more detailed explanation.
+- [plot type 2][type_2.en]
+- completely south-facing
+- plot H9
+- caravan up to 10 meters
+- for new caravans we work together with [Ideal Caravans](https://ideal-caravans.be/) and [EDC](http://www.stacaravancentrum-edc.be/)
+
+Did you know that, from September 2021, we will be building plots for caravans up to 12 meters? More details as from the Easter holidays 2021.
 
 
 

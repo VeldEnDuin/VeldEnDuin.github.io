@@ -1,26 +1,31 @@
 ---
 layout: page
-title: Neue Parzellen
+title: eigener Platz am Meer
+description: 
 
 preview:
-    title: Neue Parzellen
+    title: eigener Platz am Meer
     text: 
-        - Diesen Winter werden 9 brandneue Parzellen für Dauerstandplätze angelegt.
-        - Verfügbar ab Mai 2020.
+        - Auch an einem dauerhaften Aufenthalt am Meer interessiert? Von den 22 Parzellen, die wir kürzlich für Wohnwagen gebaut haben, ist noch eine geräumige und nach Süden ausgerichtete Parzelle verfügbar.
+        - Komm und schau mal.
+
         
 images:
-    - /img/nieuwepercelen.jpg
+    - /img/plan-3d-nieuwproject.jpg
 
 insert:
     - page-images-top
-
 
 ---
 
 {% include links.md %}
 
-Diesen Winter werden 9 brandneue Parzellen für Dauerstandplätze bis 12 m angelegt. Verfügbar ab Mai 2020.
+Die neuen und geräumigen Parzellen, die wir gebaut haben, waren schnell besetzt. Im Moment ist noch 1 Parzelle bis maximal 10 Meter frei, also kommen Sie und schauen Sie.
 
-Die Parzellen sind für neue Wohnwagen bis zu 12 m gedacht und haben im Durchschnitt rund 175 m².
-Diese Plätze haben einen Stromanschluss (16 kW), eine unterirdische Gasleitung, die Möglichkeit der Wasserversorgung im Winter und Digitalfernsehen.
-Vereinbaren Sie einen Besuchstermin und sehen Sie sich die Plätze vor Ort an. Wir geben Ihnen gern alle weiteren Erläuterungen.
+- [Parzellentyp 2][type_2.de]
+- komplett nach Süden ausgerichtet
+- Parzelle H9
+- Wohnwagen bis 10 Meter
+- Für neue Caravans arbeiten wir mit [Ideal Caravans](https://ideal-caravans.be/) und [EDC](http://www.stacaravancentrum-edc.be/)
+
+Wussten Sie, dass wir ab September 2021 Parzellen für Wohnwagen bis zu 12 Metern bauen werden? Weitere Details ab den Osterferien 2021.

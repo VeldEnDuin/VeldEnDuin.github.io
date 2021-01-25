@@ -1,15 +1,17 @@
 ---
 layout: page
-title: Nouvelles parcelles
+title: propre place par la mer
+description: 
 
 preview:
-    title: Nouvelles parcelles
+    title: propre place par la mer
     text: 
-        - Cet hiver, 9 parcelles flambant neuves seront aménagées pour les caravanes résidentielles.
-        - Disponibles à partir de mai 2020.
+        - Vous êtes également intéressé par un séjour permanent en bord de mer? Sur les 22 parcelles que nous avons récemment construites pour les caravanes résidentielles, il reste un emplacement spacieux et orienté plein sud. 
+        - Venez jeter un oeil.
+
         
 images:
-    - /img/nieuwepercelen.jpg
+    - /img/plan-3d-nieuwproject.jpg
 
 insert:
     - page-images-top
@@ -18,8 +20,12 @@ insert:
 
 {% include links.md %}
 
-Cet hiver, 9 parcelles flambant neuves seront aménagées pour les caravanes résidentielles jusque 12 m. Disponibles à partir de mai 2020.
+Les nouvelles et spacieuses parcelles que nous avons construites ont été rapidement occupées. Pour le moment, il y a encore 1 parcelle libre jusqu'à un maximum de 10 mètres, alors venez jeter un œil.
 
-Les parcelles peuvent accueillir des nouvelles caravanes jusqu’à 12 m et ont une superficie de 175 m² en moyenne.
-Elles sont équipées de bornes d'électricité de 16 kW, d’une conduite de gaz souterraine. Il est également possible de les alimenter en eau et d’y installer un récepteur de télévision numérique.
-Prenez rendez-vous et venez nous rendre une petite visite sur place. Nous nous ferons un plaisir de vous donner de plus amples explications.
+- [Type parcelle 2][type_2.nl]
+- plein sud
+- parcelle H9
+- caravane jusqu'à 10 mètres
+- pour les nouvelles caravanes, nous travaillons avec [Ideal Caravans](https://ideal-caravans.be/) et [EDC](http://www.stacaravancentrum-edc.be/)
+
+Saviez-vous qu'à partir de septembre 2021, nous construirons des parcelles pour caravanes jusqu'à 12 mètres? Plus de détails à partir des vacances de Pâques 2021.
