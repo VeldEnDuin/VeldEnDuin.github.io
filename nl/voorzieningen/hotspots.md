@@ -25,10 +25,10 @@ remove:
 {% include links.md %}
 
 Er zijn een aantal plekjes op Veld & Duin die ons erg dierbaar zijn en waar we extra fier op zijn. Omdat ze heel bijzonder zijn, er een mooie herinneringen aan vasthangt of gewoon mooi om naar te kijken. 
-Hieronder onze toppers maar ga zeker op zoek naar uw favoriete plekje. 
+Hieronder onze toppers maar ga zeker op zoek naar jouw favoriete plekje. 
 
 ## CARAVAN OP Z’N KOP
-Deze niet te missen trekpleister bij het binnenrijden is een mooie herinnering aan de tentoonstelling die we organiseerden voor ons 50-jarig jubileum. Benieuwd naar het verhaal? Kom langs, we vertellen het u graag.
+Deze niet te missen trekpleister bij het binnenrijden is een mooie herinnering aan de tentoonstelling die we organiseerden voor ons 50-jarig jubileum. Benieuwd naar het verhaal? Kom langs, we vertellen het graag.
 
 ## DE DUIKERS EN DE REDDER
 Twee kunstwerkjes gemaakt door Sylvie Crutelle en Peter De Blieck. 
