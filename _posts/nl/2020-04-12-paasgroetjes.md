@@ -12,7 +12,6 @@ images:
 {% include links.md %}
 
 {% assign youtube-code = 'UeeMwHetiwc'%}
-{% assign youtube-title= 'Paasgroetjes'%}
 {% include youtube-embed.html %}
 
 Een paasvakantie zonder gasten en onze traditionele paaseierenraap voelt erg bevreemdend aan. Met deze video laten we jullie graag weten dat we jullie missen en een fijne Pasen toewensen.

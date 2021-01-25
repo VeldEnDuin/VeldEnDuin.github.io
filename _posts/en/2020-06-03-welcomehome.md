@@ -11,7 +11,6 @@ images:
 {% include links.md %}
 
 {% assign youtube-code = 'iFgFx_OrZd4'%}
-{% assign youtube-title= 'Welcome Home Away from Home'%}
 {% include youtube-embed.html %}
 
 We hebben er lang naar uitgekeken maar hebben nu  eindelijk groen licht gekregen om ons toeristisch verhuur op te starten vanaf 8 juni.
