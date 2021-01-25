@@ -29,7 +29,7 @@ insert:
 ---
 {% include links.md %}
 
-Combine the freedom of travelling with a caravan with the comfort of our campsite
+For the towing caravans, we have the choice of a paved pitch with grass in front or a full grass pitch. Preference can be communicated when booking.
 
 ## Worth knowing
 

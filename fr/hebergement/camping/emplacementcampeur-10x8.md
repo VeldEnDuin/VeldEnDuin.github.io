@@ -29,7 +29,7 @@ insert:
 ---
 {% include links.md %}
 
-Combinez la liberté de vacances en caravane au confort offert par notre camping.
+Pour les caravanes tractables, nous avons le choix entre un emplacement pavé avec verdure devant ou un emplacement en herbe. La préférence peut être communiquée lors de la réservation.
 
 ## Bon à savoir
 

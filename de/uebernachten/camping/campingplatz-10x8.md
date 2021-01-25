@@ -29,7 +29,7 @@ insert:
 ---
 {% include links.md %}
 
-Kombinieren Sie die Freiheit des Reisens mit einem Wohnwagen mit dem Komfort unseres Campingplatzes.
+Für die Ziehwohnwagen haben wir die Wahl zwischen einem verharteten Platz mit viel Grün vor oder einem vollen Rasenplatz. Präferenzen können bei der Buchung mitgeteilt werden.
 
 ## Gut zu wissen
 

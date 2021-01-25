@@ -30,7 +30,7 @@ insert:
 ---
 {% include links.md %}
 
-Voor de trekcaravans hebben we de keuze uit een verharde plaats met groen ervoor of een volledige grasplaats. Geef uw voorkeur door bij reservatie.
+Voor de trekcaravans hebben we de keuze uit een verharde plaats met groen ervoor of een volledige grasplaats. Voorkeur kan doorgegeven worden bij reservatie.
 
 ## Goed om weten
 
