@@ -73,7 +73,6 @@ Outre vos affaires personnelles, vous devez emporter vos propres serviettes, tor
 Le linge de lit peut être loué au camping.
 
 
-
 ## Suppléments
 
 SUPPLÉMENTS               | PRIX

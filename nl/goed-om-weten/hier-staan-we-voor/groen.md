@@ -28,7 +28,7 @@ Meteen bij het binnenrijden wordt duidelijk dat we een verzorgde en gevarieerde 
 
 ## Duurzaamheid
 
-Green also means striving for the most sustainable operation possible. Here we contribute by, among other things:
+Groen betekent ook streven naar een zo duurzaam mogelijke werking. Hier dragen we ons steentje bij door onder meer:
 
 - gebruik te maken van zonneboilers voor de luxe-appartementen en het vernieuwde sanitair
 - in te zetten op gescheiden afvalophaling

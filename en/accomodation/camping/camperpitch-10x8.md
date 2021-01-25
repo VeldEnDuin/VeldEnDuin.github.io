@@ -52,9 +52,8 @@ NUMBER OF PERSONS | LOW SEASON | HIGH SEASON
 5 persons     |€ 31          |€ 35
 6 persons     |€ 34          |€ 38
 
-15/7 - 15/8: upon reservation as from 7 nights
-
-High season: July - August - long weekends
+* 15/7 - 15/8: upon reservation as from 7 nights
+* high season: July - August - long weekends
 
 ## Discounts low season
 
