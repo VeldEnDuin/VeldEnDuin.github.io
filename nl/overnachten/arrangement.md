@@ -1,5 +1,5 @@
 ---
-title: Arrangementen
+title: Kadobon
 layout: default
  
 class:

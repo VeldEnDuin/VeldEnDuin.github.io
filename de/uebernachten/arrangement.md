@@ -1,5 +1,5 @@
 ---
-title: Arrangements
+title: Geschenkgutschein
 layout: default
  
 class:

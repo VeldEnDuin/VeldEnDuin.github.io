@@ -1,5 +1,5 @@
 ---
-title: Offers
+title: Gift voucher
 layout: default
     
 class:
