@@ -34,21 +34,11 @@ santé sont toujours prioritaire.
 
 ## RÉCEPTION PENDANT VOTRE SÉJOUR
 
-* désinfectez les mains à l’entrée
-* le nombre des personnes dans la réception est limité à 2 en même temps
-* téléphonez la réception si possible
+* la réception n'est actuellement disponible que sur rendez-vous
+* appelez ou envoyez un e-mail à la réception pour prendre rendez-vous
+* l'enregistrement s'effectue de préférence sans contact via l'auto-enregistrement
+* désinfectez vos mains en entrant dans la réception
 
-A cause des procédures supplémentaires que nous devons suivre le temps d’attente peut s’augmenter. 
-
-Merci de votre compréhension.
-
-## VISITE - QUI PEUT VENIR?
-
-Ces règles peuvent se modifier selon les directives du gouvernement.
-
-Le bon sens prévaut, voici les règles principaux:
-* limitez autant que possible vos contacts
-* n’acceptez pas des visiteurs qui se sentent malades
 
 ## PARC À CONTENEURS
 
@@ -58,8 +48,4 @@ Les points de contact de main sont désinfectés régulièrement.
 
 Lavez-vous ou désinfectez les mains avant et après chaque visite.
 
-## ÉVÉNEMENTS - EXCURSIONS
 
-Les grands événements de cet été sont tous annulés mais à notre côte il reste toujours beaucoup à faire.
-
-Vous trouvez un aperçu des attractions principales sur notre site web. Évidemment ces attractions doivent aussi prendre des mesures spéciales afin de garantir une visite en sécurité. Informez-vous bien et consultez toujours le site web officiel de l’attraction avant.

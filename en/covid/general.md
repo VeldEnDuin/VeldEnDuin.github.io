@@ -30,21 +30,11 @@ we expect of our guests. Your and our well-being are always the priority.
 
 ## RECEPTION DURING YOUR STAY
 
-* Disinfect your hands when coming inside
-* The number of guests allowed at the same time inside is limited to 2
-* Call the reception is possible
+* the reception is currently only available by appointment
+* call or email the reception to make an appointment
+* check-in is preferably contactless via self check-in
+* disinfect your hands when entering the reception
 
-Because of the extra procedures we need to take the waiting time can increase.
-
-Thank you for your understanding.
-
-## VISITORS - WHO CAN COME?
-
-These rules can vary depending on the guidelines we receive from the government.
-
-Common sense takes precedence but the following stays important:
-* Limit your contacts to a minimum
-* Don’t accept visitors who feel ill
 
 ## CONTAINERPARK
 
@@ -54,10 +44,3 @@ The hand contact points are regularly disinfected.
 
 Wash your hands before and after each visit.
 
-## EVENTS - EXCURSIONS
-
-All big summer events were cancelled but there is still a lot to do at our coast.
-
-You can find an overview of all main attractions on our website. Obviously these attractions
-also need to take precautionary measures to guarantee a safe visit. Please be informed and
-always check the official website of the attraction in advance.

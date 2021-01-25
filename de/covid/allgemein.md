@@ -33,21 +33,11 @@ stehen an erster Stelle.
 
 ## REZEPTION WÄHREND AUFENTHALT
 
-* Hände desinfizieren beim Reinkommen
-* die Anzahl Gäste in der Rezeption wird bis max. 2 gleichzeitig beschränkt
-* Rufen Sie die Rezeption an wenn möglich
+* Die Rezeption ist derzeit nur nach Vereinbarung verfügbar
+* Rufen Sie an der Rezeption an oder senden Sie eine E-Mail, um einen Termin zu vereinbaren
+* Das Einchecken erfolgt vorzugsweise kontaktlos über das Selbsteinchecken
+* Desinfizieren Sie Ihre Hände beim Betreten der Rezeption
 
-Die Wartezeit kann etwas länger sein wegen der zusätzlichen Verfahren.
-
-Vielen Dank für Ihr Verständnis.
-
-## BESUCH - WER DARF KOMMEN?
-
-Diese Regel können sich ändern gemäss den Richtlinien der Regierung.
-
-Verwenden Sie Ihr gesunden Menschenverstand aber wichtig bleibt:
-* Sozialkontakte so viel wie möglich beschränken
-* keine Besucher empfangen, die sich krank fühlen
 
 ## ENTSORGUNGSPARK
 
@@ -57,11 +47,4 @@ Die Handkontaktstellen werden regelmäßig desinfiziert.
 
 Vor und nach jedem Besuch sollen die Hände gewaschen und desinfiziert werden.
 
-## VERANSTALTUNGEN - AUSFLÜGE
 
-Die grosse Veranstaltungen für diesen Sommer wurden alle abgesagt aber an unserer Küste
-gibt es noch immer viel zu tun.
-
-Eine Übersicht der wichtigsten Sehenswürdigkeiten und Attraktionen finden Sie auf unserer
-Webseite zurück. Selbstverständlich werden auch da besondere Maßnahmen genommen für
-einen sicheren Besuch. Informieren Sie sich immer im Voraus auf der Webseite der Attraktion.

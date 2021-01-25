@@ -39,10 +39,6 @@ daarin steeds voorop.
 * ontsmet uw handen bij het binnenkomen van de receptie
 
 
-Door de extra procedures die we moeten naleven, kan de wachttijd wat oplopen.
-
-Bedankt voor uw begrip.
-
 ## CONTAINERPARK
 
 Bij het containerpark wordt het gebruik van handschoenen geadviseerd.
