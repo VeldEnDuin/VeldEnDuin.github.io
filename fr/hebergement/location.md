@@ -11,13 +11,12 @@ preview:
     text: 
         - Secouez hiver et réservez votre séjour pour le printemps ou l'été maintenant. Cette belle perspective ne manquera pas de vous donner plus d'énergie en ces mois sombres.
         - Astuce! Réservez votre séjour directement et payez 10% de moins que via Booking ou AirBnB.
-    image: /img/overnachten/logiestypes.jpg    
+    image: /img/overnachten/chalet-comfort-4-plus.jpg
         
-images:
-    - /img/prevverhuur.jpg
-    
+option:
+    title: "Types d'hébergement"
+    image: /img/overnachten/logiestypes.jpg    
+
 insert:
     - level3-tiles
-    
-
 ---

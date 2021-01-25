@@ -1,12 +1,19 @@
-{% assign previewTitle = linkPage.title %}
+{% assign useTitle = linkPage.title %}
 {% if linkPage.preview.title %}
-    {% assign previewTitle = linkPage.preview.title %}
+    {% assign useTitle = linkPage.preview.title %}
+{% endif %}
+{% if linkPage.option.title %}
+    {% assign useTitle = linkPage.option.title %}
 {% endif %}
 
-{% assign previewImg = pg.images[0] %}
+{% assign useImg = pg.images[0] %}
 {% if linkPage.preview.image %}
-    {% assign previewImg = linkPage.preview.image %}
+    {% assign useImg = linkPage.preview.image %}
 {% endif %}
+{% if linkPage.option.image %}
+    {% assign useImg = linkPage.option.image %}
+{% endif %}
+
 
 <div class="vd-select-item vd-option-landing {{page.class.option.item}}">
   <a href="{{pg.url}}" class="notd">
@@ -14,13 +21,13 @@
       <div class="vd-select-content col-xs-3">
       {% capture _style %}
         background-color: #fff;
-        background-image: url({{previewImg}});
+        background-image: url({{ useImg }});
         background-size: cover;
         background-repeat: no-repeat; 
         background-position: center center;
       {% endcapture %}
         <div class="vd-select-img" style="{{ _style }}" >&nbsp;</div>
-        <h2 class="vd-select-title">{{ previewTitle }}</h2>
+        <h2 class="vd-select-title">{{ useTitle }}</h2>
       </div>
     </div>
   </a>
