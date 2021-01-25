@@ -23,9 +23,9 @@ remove:
 ---
 {% include links.md %}
 
-Holiday at last... time to immerge yourself in a good book! 
+Vacation ... finally time to read a good book.
 
-You can borrow a wide range of books from our pop-up library, for free.
+In our pop-up library we offer a wide and diverse range of books and comics to borrow.
 
-Should you want to add a book of yours to our library, feel free to do so. Our guests will certainly appreciate new arrivals. 
+There is also a lot of nice beach stuff for the little ones to play in the sand in the library while mom or dad on the bench reads that exciting thriller.
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bibliothèque éphémère
+title: Bibliothèque pop-up
 picto: /img/svg/voorzieningen/pop-up-bib.svg
 
 images:
@@ -22,10 +22,10 @@ remove:
 ---
 {% include links.md %}
 
-Les vacances sont l’occasion idéale de dévorer un bon bouquin! 
+Vacances ... enfin le temps de lire un bon livre.
 
-Notre bibliothèque éphémère vous propose une grande sélection de livres et bandes dessinées mis gratuitement à votre disposition.
+Dans notre bibliothèque pop-up, nous proposons une gamme large et diversifiée de livres et de bandes dessinées à emprunter.
 
-Si vous souhaitez donner un livre que vous avez déjà lu à plusieurs reprises, n’hésitez pas à le déposer dans notre bibliothèque. Vous ravirez certainement d’autres campeurs!
+Dans la bibliothèque, il y a aussi beaucoup de beaux équipements de plage pour que les plus petits puissent jouer dans le sable pendant que maman ou papa sur le banc lit ce thriller passionnant.
 
 

@@ -23,9 +23,9 @@ remove:
 ---
 {% include links.md %}
 
-Urlaub – endlich Zeit, sich in ein Buch zu vertiefen! 
+Urlaub ... endlich Zeit, ein gutes Buch zu lesen.
 
-In unserer Pop-up-Bibliothek finden Sie ein großes Angebot an Büchern und Comics, die Sie kostenlos ausleihen können.
+In unserer Popup-Bibliothek bieten wir eine breite und vielfältige Auswahl an Büchern und Comics zum Ausleihen.
 
-Haben Sie selbst ein schönes Buch, das Sie gelesen haben und loswerden wollen? Stellen Sie es einfach in unsere Bibliothek. Damit machen Sie anderen Gästen ganz sicher eine Freude!
+Es gibt auch viele schöne Strandartikel für die Kleinen, die in der Bibliothek im Sand spielen können, während Mama oder Papa auf dem Bank diesen aufregenden Thriller lesen.
 

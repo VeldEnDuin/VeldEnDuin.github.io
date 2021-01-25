@@ -24,9 +24,10 @@ remove:
 ---
 {% include links.md %}
 
-Vakantie... eindelijk tijd om u te verdiepen in een boek! 
+Vakantie...eindelijk tijd om een goed boek te lezen.
 
-Wij bieden u met onze pop-up bib een ruim aanbod aan boeken en strips die u kostenloos kunt uitlenen.
+In onze pop-up bib bieden we een ruim en divers aanbod aan boeken en strips om uit te lenen.
 
-Hebt u zelf een mooi boek dat u uitgelezen hebt en kwijt wil? U mag die gerust in onze bib plaatsen, u doet er andere gasten zeker een plezier mee!
+Er liggen in de bib ook heel wat leuke strandspullen voor de kleinsten om te spelen in het zand terwijl mama of papa op de bank die spannende thriller uitleest.
+
 
