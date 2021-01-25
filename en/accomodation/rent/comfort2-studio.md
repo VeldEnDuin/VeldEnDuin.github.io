@@ -36,7 +36,7 @@ insert:
 
 {% include links.md %}
 
-Need a break, just for the two of you? Make yourself at home in this cosy studio.
+Come and enjoy the sea air for a few days alone or in pairs. After a long walk on the beach or bike ride, you can relax on the enclosed and south-facing terrace.
 
 *Tip: book your stay directly and pay 10% less than via Booking or AirBnB.*
 
@@ -53,7 +53,7 @@ Need a break, just for the two of you? Make yourself at home in this cosy studio
 
 - studio for 2 people
 - check-in: from 2 pm - check-out: until 10 am
-- no dogs allowed
+- pets not allowed in the apartments, pets are allowed in the chalets or caravans
 - rental all year round except from January 15 to March 1 and November 15 to December 15
 - € 50 deposit to be paid in cash on arrival
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 

@@ -36,7 +36,7 @@ insert:
 
 {% include links.md %}
 
-Envie de vous ressourcer seul ou à deux? Vous vous sentirez comme à la maison dans ce confortable studio après une agréable journée à la côte.
+Venez profiter de l'air marin pendant quelques jours seul ou à deux. Après une longue promenade sur la plage ou à vélo, vous pourrez vous détendre sur la terrasse fermée et exposée plein sud.
 
 *Bon conseil: réservez votre séjour directement et payez 10% de moins que via Booking ou AirBnB.*
 
@@ -53,7 +53,7 @@ Envie de vous ressourcer seul ou à deux? Vous vous sentirez comme à la maison 
 
 - studio d’une capacité de 2 personnes
 - check-in: à partir de 14h00 - check-out: jusqu'à 10h00
-- chiens non admis
+- animaux de compagnie non admis – admis dans les chalets ou caravanes
 - location toute l'année sauf du 15 janvier au 1er mars et du 15 novembre au 15 décembre
 - caution de 50 € à payer en espèces à l'arrivée
 - la caution est restituée au départ si le studio a été bien nettoyée et si elle se trouve dans un bon état

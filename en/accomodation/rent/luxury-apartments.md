@@ -60,7 +60,7 @@ Located above the reception these new and luxurious apartments overlook the flor
 - apartment first floor: max 5 persons
 - apartment second floor: max 6 persons
 - check-in: from 2 pm - check-out: until 10 am
-- pets not allowed in the apartments
+- pets not allowed in the apartments, pets are allowed in the chalets or caravans
 - staircase - no lift
 - rental all year round except from January 15 to March 1 and November 15 to December 15
 - € 50 deposit to be paid in cash on arrival
