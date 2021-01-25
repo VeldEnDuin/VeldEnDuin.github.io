@@ -1,7 +1,7 @@
 ---
 title: MDUE ON THE MOVE
 layout: post
-description: vaste ijsjes-stop bij Veld & Duin
+description: escale régulière de glace au camping pendant l'été
 permalink: /fr/2020-06-29-mdueonthemove.html
     
 images: 
@@ -12,8 +12,8 @@ images:
 
 {% include links.md %}
 
-Dat de Mdue de beste ijsjes heeft van Bredene moeten we niet meer vertellen. Nog fijner is dat ze vanaf 30 juni de hele zomer lang elke dag om 19u30 bij ons langskomen. 
-De kick-of is op 29/6 om 16u, dan krijgen de eerste 50 personen een gratis vanille ijsje.
+Il n'est plus nécessaire de dire que le Mdue a les meilleures glaces de Bredene. Mieux encore, à partir du 30 juin, tout l'été, ils viennent nous voir tous les jours à 19h30.
+Le coup d'envoi aura lieu le 29/6 à 16h, puis les 50 premières personnes recevront une glace à la vanille gratuite.
 
 
 

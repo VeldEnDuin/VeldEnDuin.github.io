@@ -1,7 +1,7 @@
 ---
 title: WELCOME HOME SONG
 layout: post
-description: we  heten jullie graag opnieuw welkom met dit hartverwarmende lied en videoclip
+description: Mit diesem Lied von unserem Rezeptionist Sander heißen wir Sie wieder herzlich willkommen
 permalink: /de/2020-06-03-welcomehomesong.html
     
 images: 
@@ -13,9 +13,9 @@ images:
 {% assign youtube-code = 'iFgFx_OrZd4'%}
 {% include youtube-embed.html %}
 
-We hebben er lang naar uitgekeken maar hebben nu  eindelijk groen licht gekregen om ons toeristisch verhuur op te starten vanaf 8 juni.
-Dit welkom-terug filmpje maakten we samen met een aantal kustcollega’s om te laten weten hoe blij we zijn om opnieuw veilig te kunnen openen.
-Het lied werd geschreven en gezongen door onze receptionist Sander wat ons extra fier maakt. Hij haalde er de krant mee én het filmpje werd massaal gedeeld (meer dan 50.000 clicks).
+Wir haben uns schon lange darauf gefreut, aber jetzt endlich grünes Licht erhalten, um ab dem 8. Juni mit der Vermietung unserer Touristen zu beginnen.
+Wir haben dieses Begrüßungsvideo zusammen mit einer Reihe von Küstenkollegen gemacht, um uns mitzuteilen, wie glücklich wir sind, wieder sicher öffnen zu können.
+Das Lied wurde von unserem Rezeptionist Sander geschrieben und gesungen, was uns besonders stolz macht. Er erschien in [de Zeewacht][pdf_zeewacht.de] und das Video wurde massenhaft geteilt (mehr als 50.000 Klicks).
 
 
 

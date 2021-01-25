@@ -1,7 +1,7 @@
 ---
-title: PAASGROETJES UIT BREDENE
+title: EASTER GREETINGS FROM BREDENE
 layout: post
-description: Een paasboodschap en een fotopaaseierenzoektocht
+description: an Easter message and a photo hunt with Easter eggs
 permalink: /en/2020-04-12-paasgroetjes.html
     
 images: 
@@ -14,8 +14,8 @@ images:
 {% assign youtube-code = 'UeeMwHetiwc'%}
 {% include youtube-embed.html %}
 
-Een paasvakantie zonder gasten en onze traditionele paaseierenraap voelt erg bevreemdend aan. Met deze video laten we jullie graag weten dat we jullie missen en een fijne Pasen toewensen.
-De paaseierenraap vervangen we ditmaal door een fotozoektocht. Bekijk de foto’s aandachtig, kun je de verstopte paaseieren terugvinden?
+An Easter holiday without guests and our traditional Easter egg hunt feels very strange. With this video we would like to let you know that we miss you and wish you a happy Easter.
+This time we replace the Easter egg hunt by a photo hunt. Look carefully at the photos, can you find the hidden Easter eggs?
 
 
 

@@ -1,7 +1,7 @@
 ---
-title: AANDACHT UIT WALLONIE
+title: BESUCH AUS WALLONIA
 layout: post
-description: bekijk de filmpjes van Destination Flandre en La Grande Balade
+description: Sehen Sie sich die Filme von Destination Flandre und La Grande Balade an
 permalink: /de/2020-10-15-destinationflandre.html
     
 images:   
@@ -10,15 +10,15 @@ images:
 
 {% include links.md %}
 
-[Uitzending Destination Flandre](https://youtu.be/L4Ts-1XkAeE)
+[Sendung Destination Flandre](https://youtu.be/L4Ts-1XkAeE)
 
-Destination Flandre noemt de Bredense duinen de mooiste van de hele kust, wie zijn wij om dit tegen te spreken?
-Een aantal vaste gasten van Veld & Duin getuigen er bovendien over hun jarenlange verblijf hier, zeker kijken dus.
+Destination Flandre nennt die Bredense-Dünen die schönsten an der gesamten Küste. Wem sollen wir dem widersprechen?
+Christophe Deborsu stellt uns eine Reihe von Fragen zum Campingleben, die wir gerne beantworten.
 
 
-[Uitzending La Grande Balade au littoral](https://www.rtlplay.be/la-grande-balade-p_8539/la-grande-balade-au-littoral-c_12779159)
+[Sendung La Grande Balade au littoral](https://www.rtlplay.be/la-grande-balade-p_8539/la-grande-balade-au-littoral-c_12779159)
 
-Een uitzending van RTL-play dat helemaal gewijd is aan Bredene met heel wat fijne tips en ideeën.
+Eine Sendung von RTL-Play, die ganz Bredene gewidmet ist, mit vielen tollen Tipps, Ideen und einem Besuch auf unserem Campingplatz.
 
 
 

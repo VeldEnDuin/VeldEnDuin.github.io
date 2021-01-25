@@ -1,7 +1,7 @@
 ---
-title: BEZOEK VAN THE GUARDIAN
+title: VISIT OF THE GUARDIAN
 layout: post
-description: lovende woorden voor Bredene en Veld & Duin
+description: words of praise for Bredene and Veld & Duin
 permalink: /en/2020-07-18-theguardian.html
     
 images:   
@@ -10,9 +10,8 @@ images:
 
 {% include links.md %}
 
-Very exiting vonden we dit bezoekje van [The Guardian](https://www.theguardian.com/travel/2020/jul/18/summer-belgium-coast-endless-beaches-sand-dunes-nature-reserves-resorts). 
-Omdat ze Bredene ‘may be the coast’s best-kept secret’ noemden én omdat we een fijne vermelding kregen.
-
+We found this visit from [The Guardian](https://www.theguardian.com/travel/2020/jul/18/summer-belgium-coast-endless-beaches-sand-dunes-nature-reserves-resorts) very exiting. 
+Because they called Bredene 'maybe the coast's best-kept secret' and because we received a nice mention.
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: MDUE ON THE MOVE
 layout: post
-description: vaste ijsjes-stop bij Veld & Duin
+description: regular ice cream stop at the campsite during the summer
 permalink: /en/2020-06-29-mdueonthemove.html
     
 images: 
@@ -12,9 +12,8 @@ images:
 
 {% include links.md %}
 
-Dat de Mdue de beste ijsjes heeft van Bredene moeten we niet meer vertellen. Nog fijner is dat ze vanaf 30 juni de hele zomer lang elke dag om 19u30 bij ons langskomen. 
-De kick-of is op 29/6 om 16u, dan krijgen de eerste 50 personen een gratis vanille ijsje.
-
+We no longer have to say that the Mdue has the best ice creams in Bredene. Even better is that from June 30, they will visit us every day at 7.30 pm all summer long.
+The kick-of is on 29/6 at 4 pm, then the first 50 people will receive a free vanilla ice cream.
 
 
 

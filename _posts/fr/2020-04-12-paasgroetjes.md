@@ -1,7 +1,7 @@
 ---
-title: PAASGROETJES UIT BREDENE
+title: VOEUX DE PÂQUES DE BREDENE
 layout: post
-description: Een paasboodschap en een fotopaaseierenzoektocht
+description: un message de Pâques et une chasse aux photos avec des œufs de Pâques
 permalink: /fr/2020-04-12-paasgroetjes.html
     
 images: 
@@ -14,8 +14,8 @@ images:
 {% assign youtube-code = 'UeeMwHetiwc'%}
 {% include youtube-embed.html %}
 
-Een paasvakantie zonder gasten en onze traditionele paaseierenraap voelt erg bevreemdend aan. Met deze video laten we jullie graag weten dat we jullie missen en een fijne Pasen toewensen.
-De paaseierenraap vervangen we ditmaal door een fotozoektocht. Bekijk de foto’s aandachtig, kun je de verstopte paaseieren terugvinden?
+Des vacances de Pâques sans invités et notre chasse aux œufs de Pâques est très étrange. Avec cette vidéo, nous aimerions vous faire savoir que vous nous manquez et vous souhaitons de joyeuses Pâques.
+Cette fois, nous remplaçons la chasse aux œufs de Pâques par une chasse photo. Regardez attentivement les photos, pouvez-vous trouver les œufs de Pâques cachés?
 
 
 
