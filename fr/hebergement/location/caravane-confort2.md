@@ -50,22 +50,20 @@ Cette mini-caravane et son jardinet privé sont parfaitement adaptés amoureux d
     
 ## Bon à savoir
 
+- check-in: à partir de 14h00 - check-out: jusqu'à 10h00
 - petit chien admis mais veuillez tenir compte de l’espace réduit
-- pas de réservation possible entre le 15/11 et le 01/03
-
-## Caution
-
-- € 50 – à payer en liquide à l’arrivée
+- location toute l'année sauf du 15 novembre au 1er mars
+- caution de 50 € à payer en espèces à l'arrivée
 - la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état
-
-## Que faut-il emporter?
-Outre vos affaires personnelles, vous devez emporter votre linge de bain et votre linge de lit.
-Le linge de lit peut être loué au camping.
 
 ## Inclus
 - wifi
 - parking 1 voiture
 - consommation gaz - eau - électricité 
+
+## Que faut-il emporter?
+Outre vos affaires personnelles, vous devez emporter votre linge de bain et votre linge de lit.
+Le linge de lit peut être loué au camping.
 
 
 ## Suppléments

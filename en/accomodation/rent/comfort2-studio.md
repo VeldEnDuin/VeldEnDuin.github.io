@@ -52,22 +52,21 @@ Need a break, just for the two of you? Make yourself at home in this cosy studio
 ## Worth knowing
 
 - studio for 2 people
+- check-in: from 2 pm - check-out: until 10 am
 - no dogs allowed
-- not available between 15/11 and 01/03 
-
-## Warranty
-
-- € 50 – to be paid in cash upon arrival
+- rental all year round except from January 15 to March 1 and November 15 to December 15
+- € 50 deposit to be paid in cash on arrival
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
-
-## Things to bring along
-Besides your personal belongings you need to bring along towels, kitchen towels and bed linen.
-Bed linen can also be rented at the reception.
 
 ## Included
 - wifi
 - parking 1 car
-- consumption gas-water-electricity 
+- consumption gas-water-electricity
+- exception: flat-rate energy cost 15/12 - 15/01: € 10 / night
+
+## Things to bring along
+Besides your personal belongings you need to bring along towels, kitchen towels and bed linen.
+Bed linen can also be rented at the reception.
 
 
 ## Extra Services

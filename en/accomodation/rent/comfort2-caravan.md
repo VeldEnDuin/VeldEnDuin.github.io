@@ -50,22 +50,21 @@ This mini-caravan with private garden is suitable for those who love being outdo
     
 ## Worth knowing
 
+- check-in: from 2 pm - check-out: until 10 am
 - a small pet is allowed but keep in mind that the space is limited
-- not available between 15/11 and 01/03
-
-## Warranty
-
-- € 50 – to be paid in cash upon arrival
+- rental all year round except from 15 November to 1 March
+- € 50 deposit to be paid in cash on arrival
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
-
-## Things to bring along
-Besides your personal belongings you need to bring along towels, kitchen towels and bed linen.
-Bed linen can also be rented at the reception.
 
 ## Included
 - wifi
 - parking 1 car
 - consumption gas-water-electricity
+
+
+## Things to bring along
+Besides your personal belongings you need to bring along towels, kitchen towels and bed linen.
+Bed linen can also be rented at the reception.
 
 
 ## Extra Services

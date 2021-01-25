@@ -59,24 +59,25 @@ Diese neuen Luxusappartements liegen über der Rezeption und bieten einen herrli
 
 - Appartement 1. Stock: höchstens 5 Personen
 - Appartement 2. Stock: höchstens 6 Personen
+- Check-in: ab 14 Uhr - Check-out: bis 10 Uhr
 - Haustiere nicht zugelassen, jedoch möglich in Chalets oder Caravans
-- kein Aufzug
-- keine Vermietung möglich in folgenden Zeiträumen 15/01 - 01/03 und 15/11 - 15/12
-
-## Kaution
-
-- € 50, bar zu bezahlen bei der Anreise
+- Treppe - kein Aufzug
+- Vermietung das ganze Jahr über außer vom 15. Januar bis 1. März und vom 15. November bis 15. Dezember
+- 50 € Kaution bei Ankunft in bar zu zahlen
 - Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
-
-## Was Sie mitbringen müssen
-Neben Ihren persönlichen Dingen müssen Sie noch Handtücher, Küchenhandtücher und Bettbezüge mitbringen.
-Bettbezüge können Sie auch bei uns mieten.
 
 ## Inbegriffen
 - W-lan
 - Parkplatz für 1 Auto
 - Verbrauch von Wasser und Strom
 - Ausnahme: Energiekostenpauschale 15/12 - 15/01: € 10 / Nacht
+
+
+## Was Sie mitbringen müssen
+Neben Ihren persönlichen Dingen müssen Sie noch Handtücher, Küchenhandtücher und Bettbezüge mitbringen.
+Bettbezüge können Sie auch bei uns mieten.
+
+
 
 ## Extras
 

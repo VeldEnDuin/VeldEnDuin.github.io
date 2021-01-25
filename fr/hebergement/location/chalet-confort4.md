@@ -54,23 +54,22 @@ Ces chalets sont situés à l’entrée du camping, à proximité du terrain de 
 ## Bon à savoir
 
 - chalet d’une capacité de 4 personnes
+- check-in: à partir de 14h00 - check-out: jusqu'à 10h00
 - chiens admis – max. 2 – pas de races dangereuses
-- pas de location possible entre 15/01 - 01/03 et 15/11 - 15/12
-
-## Caution
-
-- € 50 – à payer en liquide à l’arrivée
+- location toute l'année sauf du 15 janvier au 1er mars et du 15 novembre au 15 décembre
+- caution de 50 € à payer en espèces à l'arrivée
 - la caution est restituée au départ si le chalet a été bien nettoyée et si elle se trouve dans un bon état
-
-## Que faut-il emporter?
-Outre vos affaires personnelles, vous devez emporter vos propres serviettes, torchons et linge de lit.
-Le linge de lit peut être loué au camping.
 
 ## Inclus
 - wifi
 - parking 1 voiture
 - consommation gaz - eau - électricité 
-- **exception** forfait pour les frais énergétiques 15/12 - 15/01: € 10 / nuit
+- exception: forfait pour les frais énergétiques 15/12 - 15/01: € 10 / nuit
+
+## Que faut-il emporter?
+Outre vos affaires personnelles, vous devez emporter vos propres serviettes, torchons et linge de lit.
+Le linge de lit peut être loué au camping.
+
 
 ## Suppléments
 

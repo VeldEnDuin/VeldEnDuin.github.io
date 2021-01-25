@@ -54,23 +54,22 @@ These chalets are situated in front, close to the playground. Well situated for 
 ## Worth knowing
 
 - chalet for 4 persons
+- check-in: from 2 pm - check-out: until 10 am
 - dogs allowed - max 2 – no dangerous breeds
-- no rental possible between 15/01 - 01/03 and 15/11 - 15/12
-
-## Warranty
-
-- € 50 – to be paid in cash upon arrival
+- rental all year round except from January 15 to March 1 and November 15 to December 15
+- € 50 deposit to be paid in cash on arrival
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
-
-## Things to bring along
-Besides your personal belongings you need to bring along towels, kitchen towels and bed linen.
-Bed linen can also be rented at the reception.
 
 ## included
 - wifi
 - parking 1 car
 - consumption gas - water - electricity
-- **exception** flat-rate energy cost 15/12 - 15/01: € 10 / night
+- exception: flat-rate energy cost 15/12 - 15/01: € 10 / night
+
+## Things to bring along
+Besides your personal belongings you need to bring along towels, kitchen towels and bed linen.
+Bed linen can also be rented at the reception.
+
 
 ## Extra Services
 

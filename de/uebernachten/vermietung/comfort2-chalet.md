@@ -52,22 +52,22 @@ Sie wollen sich ein wenig allein oder zu zweit den Wind um die Nase wehen lassen
 ## Gut zu wissen
 
 - Chalet vorgesehen für 2 Personen
+- Check-in: ab 14 Uhr - Check-out: bis 10 Uhr
 - 1 Hund zulässig – keine gefährliche Rassen
-- Nicht buchbar zwischen 15.11. und 01.03.
-
-## Kaution
-
-- € 50, bar zu bezahlen bei der Anreise
+- Vermietung das ganze Jahr über außer vom 15. November bis 1. März
+- 50 € Kaution bei Ankunft in bar zu zahlen
 - Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
 
-## Was Sie mitbringen müssen
-Neben Ihren persönlichen Dingen müssen Sie noch Handtücher, Küchenhandtücher und Bettbezüge mitbringen.
-Bettbezüge können Sie auch bei uns mieten.
 
 ## Inbegriffen
 - W-lan
 - Parkplatz für 1 Auto
 - Verbrauch von Gas, Wasser und Strom 
+
+## Was Sie mitbringen müssen
+Neben Ihren persönlichen Dingen müssen Sie noch Handtücher, Küchenhandtücher und Bettbezüge mitbringen.
+Bettbezüge können Sie auch bei uns mieten.
+
 
 
 ## Extras
