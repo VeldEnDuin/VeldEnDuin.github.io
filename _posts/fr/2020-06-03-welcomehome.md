@@ -2,7 +2,7 @@
 title: WELCOME HOME SONG
 layout: post
 description: we  heten jullie graag opnieuw welkom met dit hartverwarmende lied en videoclip
-permalink: /nl/2020-06-03-welcomehomesong.html
+permalink: /fr/2020-06-03-welcomehomesong.html
     
 images: 
     

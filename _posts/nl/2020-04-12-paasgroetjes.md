@@ -1,7 +1,7 @@
 ---
 title: PAASGROETJES UIT BREDENE
 layout: post
-description: Een paasboodschap en een fotopaaseierenzoektocht
+description: een paasboodschap en een fotozoektocht met paaseieren
 permalink: /nl/2020-04-12-paasgroetjes.html
     
 images: 

@@ -2,7 +2,7 @@
 title: BEZOEK VAN THE GUARDIAN
 layout: post
 description: lovende woorden voor Bredene en Veld & Duin
-permalink: /nl/2020-07-18-theguardian.html
+permalink: /en/2020-07-18-theguardian.html
     
 images:   
     

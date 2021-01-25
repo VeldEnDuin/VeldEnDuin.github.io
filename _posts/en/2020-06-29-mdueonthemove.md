@@ -2,7 +2,7 @@
 title: MDUE ON THE MOVE
 layout: post
 description: vaste ijsjes-stop bij Veld & Duin
-permalink: /nl/2020-06-29-mdueonthemove.html
+permalink: /en/2020-06-29-mdueonthemove.html
     
 images: 
     - /img/nieuws/20200629-mdue-01.jpg

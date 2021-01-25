@@ -2,7 +2,7 @@
 title: AANDACHT UIT WALLONIE
 layout: post
 description: bekijk de filmpjes van Destination Flandre en La Grande Balade
-permalink: /nl/2020-10-15-destinationflandre.html
+permalink: /en/2020-10-15-destinationflandre.html
     
 images:   
     
