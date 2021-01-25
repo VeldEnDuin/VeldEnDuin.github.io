@@ -1,7 +1,7 @@
 ---
 title: Emplacements de camping-cars
 layout: post
-description: avec nouvelle sanistation 
+description: nos emplacements camping-cars sont équipés d'un nouveau sanitstation 
 permalink: /fr/2017-01-01-emplacementscamping.html
 
     

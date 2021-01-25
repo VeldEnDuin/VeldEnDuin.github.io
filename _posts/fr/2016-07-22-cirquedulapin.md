@@ -1,7 +1,7 @@
 ---
 title: Cirque du Lapin
 layout: post
-description: animation d'été
+description: spectacle plein d'énergie et d'arts du cirque
 permalink: /fr/2016-07-22-cirquedulapin.html
 
     
@@ -17,6 +17,5 @@ images:
 
 {% include links.md %}
 
-Une vrai invasion de lapins chez Veld & Duin avec un show spectaculaire de Cirque du Lapin!
+Un groupe de jeunes artistes de cirque enthousiastes a émerveillé petits et grands avec leurs trampolines audacieux, leurs numéros de jonglerie et bien d'autres techniques de cirque.
 
-Vous trouvez tous les photos dans nos [archives photo][pics.fr]

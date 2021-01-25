@@ -1,7 +1,7 @@
 ---
 title: Marbel De Luxe
 layout: post
-description: animation d'été
+description: une piste de marbre géante maison
 permalink: /fr/2016-07-15-marbeldeluxe.html
 
     
@@ -16,6 +16,4 @@ images:
 
 {% include links.md %}
 
-Les jeunes et les adultes se sont bien amusés avec Marbel De Luxe! Merci Olapaloma!
-
-Vous trouvez tous les photos dans nos [archives photo][pics.fr]
+Double plaisir: tout d'abord pour aider à assembler cette gigantesque piste de marbre, puis des heures de plaisir pour la tester.

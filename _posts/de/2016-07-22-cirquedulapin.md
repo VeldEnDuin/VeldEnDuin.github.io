@@ -1,7 +1,7 @@
 ---
 title: Cirque du Lapin
 layout: post
-description: Sommeranimation
+description: Show voller Energie und Zirkuskunst
 permalink: /de/2016-07-22-cirquedulapin.html
 
     
@@ -17,7 +17,4 @@ images:
 
 {% include links.md %}
 
-Eine wahre Kanincheninvasion bei Veld & Duin, mit ein hervorragender Show von Cirque du Lapin!
-
-Alle Fotos finden Sie zurück in unserem [Fotoarchiv][pics.de]
-
+Eine Gruppe begeisterter junger Zirkusartisten begeisterte Jung und Alt mit ihren gewagten Trampolinen, Jonglier-Acts und vielem mehr Zirkusfähigkeiten.

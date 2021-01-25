@@ -1,7 +1,7 @@
 ---
-title: Successful mulled wine evening
+title: Atmospheric mulled wine evening
 layout: post
-description: cosy get-together with our campers 
+description: nice end to the camping year
 permalink: /en/2016-12-29-succesful-mulled-wine-evening.html
 
     
@@ -17,7 +17,5 @@ images:
 ---
 
 We look back on a successful mulled wine evening: cosy atmosphere, chilled drinks and tasty tidbits and last but not least, the presence of many loyal campers.
-
-Thanks for your presence! Here are some pictures and souvenirs.
 
 

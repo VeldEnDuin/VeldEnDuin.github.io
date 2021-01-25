@@ -1,7 +1,7 @@
 ---
 title: Marbel De Luxe
 layout: post
-description: Sommeranimation
+description: eine hausgemachte riesige Marmorspur
 permalink: /de/2016-07-15-marbeldeluxe.html
 
     
@@ -16,7 +16,4 @@ images:
 
 {% include links.md %}
 
-Sowohl die Kinder als die Erwachsene haben sich köstlich amüsiert mit Marbel De Luxe! Vielen Dank an Olapaloma!
-
-Alle Fotos finden Sie zurück in unserem [Fotoarchiv][pics.de]
-
+Doppelter Spaß: Zuerst helfen Sie beim Zusammenbau dieser gigantischen Marmorspur und dann stundenlang beim Testen.

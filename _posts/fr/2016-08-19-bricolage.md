@@ -1,7 +1,7 @@
 ---
-title: Bricolage
+title: la créativité à son meilleur
 layout: post
-description: animation d'été
+description: faire des chefs-d'œuvre ensemble pour une matinée
 permalink: /fr/2016-08-19-bricolage.html
 
     
@@ -22,6 +22,4 @@ images:
 
 {% include links.md %}
 
-Ce matin nous avons conclus l’animation d’été chez Veld & Duin créativement avec une matinée de bricolage!
-
-Vous trouvez tous les photos dans nos [archives photo][pics.fr]
+Couper, coller, peindre, ... une matinée de bricolage produit de beaux résultats.

@@ -1,7 +1,7 @@
 ---
 title: Cirque du Lapin
 layout: post
-description: summer animation
+description: show full of energy and circus arts
 permalink: /en/2016-07-22-cirquedulapin.html
 
     
@@ -17,7 +17,4 @@ images:
 
 {% include links.md %}
 
-A true rabbit invasion at Veld & Duin, with a brilliant show by Cirque du Lapin!
-
-All photos can be found in our [photo archive][pics.en] 
-
+A group of enthusiastic young circus performers amazed young and old with their daring trampolines, juggling acts and so many more circus skills.

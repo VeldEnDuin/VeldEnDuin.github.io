@@ -1,7 +1,7 @@
 ---
 title: Wohnmobilstellplätze 
 layout: post
-description: mit neuem Sani-Station
+description: unsere Wohnmobilstellplätze sind mit einer neuen sanitstation ausgestattet
 permalink: /de/2017-01-01-wohnmobilstellplätze.html
 
     

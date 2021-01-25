@@ -1,7 +1,7 @@
 ---
 title: Ausstellung ’Die Welt als Campingplatz’
 layout: post
-description: 1. April 2017
+description: Besuchen Sie unsere spielerische Ausstellung
 permalink: /de/2017-03-31-ausstellung.html
 
     

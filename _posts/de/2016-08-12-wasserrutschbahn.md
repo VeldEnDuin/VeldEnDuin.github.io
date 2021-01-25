@@ -1,7 +1,7 @@
 ---
 title: Wasserrutschbahn
 layout: post
-description: Sommeranimation
+description: schönes Wetter und viel Wasserspaß
 permalink: /de/2016-08-12-wasserrutschbahn.html
 
     
@@ -19,6 +19,3 @@ images:
 {% include links.md %}
 
 Das Wetter war gut auf Veld & Duin und die Wasserrutschbahn war also wieder ein Erfolg dieses Jahr!
-
-Alle Fotos finden Sie zurück in unserem [Fotoarchiv][pics.de]
-

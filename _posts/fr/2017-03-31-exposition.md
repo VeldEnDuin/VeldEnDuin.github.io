@@ -1,7 +1,7 @@
 ---
 title: Exposition ’le monde en tant que camping’
 layout: post
-description: 1 avril 2017
+description: visitez notre exposition ludique
 permalink: /fr/2017-03-31-exposition.html
 
     

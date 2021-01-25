@@ -1,7 +1,7 @@
 ---
-title: Auberge Espagnole & Saddle for Sale
+title: Auberge Espagnole 
 layout: post
-description: Sommeranimation
+description: gutes Essen und eine großartige Leistung von Saddle for Sale
 permalink: /de/2016-07-29-aubergeespagnole.html
 
     
@@ -19,9 +19,7 @@ images:
 
 {% include links.md %}
 
-Es war sehr gemütlich gestern bei Veld & Duin! Vielen Dank an alle Teilnehmer der Auberge Espagnole für al die Delikatessen und vielen Dank an Saddle for Sale um den Abend mit einem musikalischen Knall abzuschliessen!
-
-Alle Fotos finden Sie zurück in unserem [Fotoarchiv][pics.de]
+In einer Auberge Espagnole bringt jeder etwas zu essen zum Teilen mit. Nach dem Abendessen folgte die Aufführung von Saddle for Sale, die den Abend zu einem unvergesslichen Erfolg machte.
 
 
 

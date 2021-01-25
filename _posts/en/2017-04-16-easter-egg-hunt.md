@@ -1,7 +1,7 @@
 ---
 title: Easter Egg Hunt
 layout: post
-description: the easter bunny visits Veld & Duin...
+description: the Easter bunny visiting Veld & Duin
 permalink: /en/2017-04-16-easter-egg-hunt.html
 
     
@@ -19,9 +19,8 @@ images:
 
 {% include links.md %}
 
-Our yearly easter egg hunt at Veld & Duin was again a true success! This year it was again the yellow team that found most eggs. Many thanks to all the kids and their parents for making this a fun-tastic morning with us!
+Our yearly easter egg hunt at Veld & Duin was again a true success! This year it was again the yellow team that found most eggs. 
 
-All photos of the easter egg hunt can be found in our [photo archive][pics.en] 
 
 
 

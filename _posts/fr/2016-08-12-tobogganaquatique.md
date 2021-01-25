@@ -1,7 +1,7 @@
 ---
 title: Toboggan Aquatique
 layout: post
-description: animation d'été
+description: beau temps et beaucoup de plaisir aquatique
 permalink: /fr/2016-08-12-tobogganaquatique.html
 
     
@@ -20,4 +20,3 @@ images:
 
 Un beau temps chez Veld & Duin donc le toboggan aquatique était de nouveau un succès!
 
-Vous trouvez tous les photos dans nos [archives photo][pics.fr]

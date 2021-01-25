@@ -1,7 +1,7 @@
 ---
 title: Camper pitches
 layout: post
-description: with new sanistation
+description: our camper pitches are equipped with a new sanitstation
 permalink: /en/2017-01-01-campingpitches.html
 
     

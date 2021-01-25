@@ -1,7 +1,7 @@
 ---
 title: Marbel De Luxe
 layout: post
-description: summer animation
+description: a homemade giant marble track
 permalink: /en/2016-07-15-marbeldeluxe.html
 
     
@@ -16,7 +16,5 @@ images:
 
 {% include links.md %}
 
-Young and old had lots of fun with Marbel De Luxe, thanks Olapaloma!
-
-All photos can be found in our [photo archive][pics.en] 
+Double fun: first to help assemble this gigantic marble track and then hours of fun to test it out.
 

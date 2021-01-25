@@ -1,7 +1,7 @@
 ---
-title: Erfolgreicher Glühweinabend
+title: Atmosphärischer Glühweinabend
 layout: post
-description: Gemütliches Beisammensein mit unseren Campern
+description: schönes Ende des Campingjahres
 permalink: /de/2016-12-29-erfolgreicher-gluehweinabend.html
 
     
@@ -18,7 +18,6 @@ images:
 
 Wir blicken mit großer Freude zurück auf einen erfolgreichen Glühweinabend: gemütliche Atmosphäre, köstliche Drinks, ein leckerer Imbiss und die Anwesenheit etlicher treuer Camper.
 
-Wir bedanken uns recht herzlich bei allen Teilnehmern! Mit einigen Stimmungsfotos lassen wir Sie diesen Abend noch einmal erleben.
 
 
 

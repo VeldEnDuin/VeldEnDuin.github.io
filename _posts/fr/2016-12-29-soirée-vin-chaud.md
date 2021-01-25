@@ -1,7 +1,7 @@
 ---
 title: Une excellente soirée vin chaud
 layout: post
-description: nos campeurs se sont réunis dans une ambiance chaleureuse
+description: belle fin d'année de camping
 permalink: /fr/2016-12-29-excellente-soirée-vin-chaud.html
 
     
@@ -18,7 +18,6 @@ images:
 
 Nous garderons un merveilleux souvenir de cette soirée vin chaud: une ambiance conviviale, de délicieux en-cas et boissons et la présence de nombreux fidèles campeurs.
 
-Merci à tous les participants! Voici quelques photos pour vous remémorer cette superbe soirée.
 
 
 

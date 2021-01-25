@@ -1,7 +1,7 @@
 ---
 title: Ostereiersuche
 layout: post
-description: der Osterhase zu Besuch bei Veld & Duin...
+description: der Osterhase besucht Veld & Duin
 permalink: /de/2017-04-16-ostereiersuche.html
 
     
@@ -19,9 +19,7 @@ images:
 
 {% include links.md %}
 
-Die jährliche Ostereiersuche bei Veld & Duin war wieder erfolgreich! Dieses Jahr war es wieder das gelbe Team, das die meiste Eier gefunden hat. Nochmals vielen Dank an alle Kinder und Ihre Eltern um mit uns einen supertollen Morgen davon zu machen!
-
-Alle Fotos der Ostereisersuche finden Sie zurück in unserem [Fotoarchiv][pics.de]
+Die jährliche Ostereiersuche bei Veld & Duin war wieder erfolgreich! Dieses Jahr war es wieder das gelbe Team, das die meiste Eier gefunden hat. 
 
 
 
