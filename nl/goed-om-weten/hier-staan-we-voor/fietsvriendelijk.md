@@ -21,15 +21,15 @@ insert:
 
 {% include links.md %}
 
-Ontdek de andere badplaatsen of de achterliggende polders met de fiets. Voor een combinatie van cultuur en sport kunt u langs het kanaal tot in het historische Brugge fietsen.
+Ontdek de andere badplaatsen of de achterliggende polders met de fiets. Voor een combinatie van cultuur en sport kun je langs het kanaal tot in het historische Brugge fietsen.
 
 
 ## Fietsroutenetwerk
 
-De kust en polders worden volledig ontsloten door het wijdvertakte [fietsroutenetwerk][fietsnet.nl] waarbij u makkelijk zelf uw tocht kunt uitstippelen.<br>
+De kust en polders worden volledig ontsloten door het wijdvertakte [fietsroutenetwerk][fietsnet.nl] waarbij je makkelijk zelf je tocht kunt uitstippelen.<br>
 Veld & Duin ligt op 200 meter van het dichtstbijzijnde fietsknooppunt (fietsnetwerk De Kust - knooppunt nummer 56).
 
-Aan de receptie beschikken we over de fietsroutenetwerken van de omgeving. U kunt deze uitlenen aan de receptie (waarborg: € 10) of kopen bij de Dienst voor Toerisme.
+Aan de receptie beschikken we over de fietsroutenetwerken van de omgeving. Je kunt deze uitlenen aan de receptie (waarborg: € 10) of kopen bij de Dienst voor Toerisme.
 
 
 ## Fietsvriendelijk logies
@@ -37,7 +37,7 @@ Aan de receptie beschikken we over de fietsroutenetwerken van de omgeving. U kun
 Toerisme Vlaanderen kent het label ‘Fietsvriendelijk Logies’ toe aan logies die inspanningen doen voor fietstoeristen.
 We haalden dit label voor het eerst in 2004 en blijven ons graag verder inzetten voor onze sportieve gasten.
 
-U kunt onder meer gebruik maken van:
+Maak gebruik van:
 
 
 - onze overdekte fietsberging (€ 2 / fiets / nacht) - reservaties aan de receptie
@@ -46,6 +46,6 @@ U kunt onder meer gebruik maken van:
 
 ## Fietstip
 
-Wist u trouwens dat uw fiets gratis meekan op het [overzetbootje][overzetboot.nl] tussen Bredene en Oostende?
+Wist je trouwens dat fietsen gratis mee mogen op het [overzetbootje][overzetboot.nl] tussen Bredene en Oostende?
 
 
