@@ -3,7 +3,7 @@
 - voorschot: 25% binnen de 10 dagen na reservatie
 - saldo: uiterlijk 14 dagen voor start verblijf
 
-**De reservatie is pas definitief na ontvangst van het voorschot.**
+De reservatie is pas definitief na ontvangst van het voorschot.
 
 ## Annuleren
 - annulatie meer dan 4 weken voor aankomst: 25% van het totale huurbedrag is verschuldigd

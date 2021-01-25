@@ -4,7 +4,7 @@
 - Anzahlung 25% innerhalb von 10 Tagen nach der Reservierung
 - Rest: spätestens 14 Tage vor Beginn des Aufenthalts
 
-**Die Reservierung ist erst definitiv, wenn die Anzahlung bezahlt ist.**
+Die Reservierung ist erst definitiv, wenn die Anzahlung bezahlt ist.
 
 ## Stornieren
 

@@ -5,7 +5,7 @@
 - remaining balance: no later than 14 days before
 the beginning of the stay
 
-**Your reservation is confirmed when your deposit has been paid.**
+Your reservation is confirmed when your deposit has been paid.
 
 ## Cancellations
 
