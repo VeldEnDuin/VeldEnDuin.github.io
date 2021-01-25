@@ -39,7 +39,7 @@ Combine the freedom of travelling with a camper with the comfort of our campsite
 
 - max 6 persons / pitch
 - dogs allowed - max 2 – no dangerous breeds
-- not accessible between 15/01 - 01/03 and 15/11 - 15/12
+- accessible all year round except from January 15th to March 1st and November 15th to December 15th
 
 ## Prices 2021 per night
 
@@ -56,9 +56,8 @@ NUMBER OF PERSONS | LOW SEASON | HIGH SEASON
 
 High season: July - August - long weekends
 
-## Arrangements low season
+## Discounts low season
 
-Discounts:
 - Stay ≥ 7 nights: -7%
 - Stay ≥ 10 nights: -10%
 

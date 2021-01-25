@@ -41,7 +41,7 @@ Les emplacements de 10x8 mètres coenviennent aux grandes tentes familiales.
 - Emplacement 7x8: max. 4 personnes / emplacement
 - Emplacement 10x8: max. 6 personnes / emplacement
 - chiens admis – max. 2 – pas de races dangereuses
-- fermé entre 15/01 - 01/03 et 15/11 - 15/12
+- accessible toute l'année sauf du 15 janvier au 1er mars et du 15 novembre au 15 décembre
 
 ## Prix 2021 par nuit
 
@@ -66,13 +66,12 @@ NOMBRE DE PERSONNES | BASSE SAISON | HAUTE SAISON
 6 personnes     |€ 34         |€ 38
 
 
-15/7 - 15/8: réservation à partir de 7 nuits
+* 15/7 - 15/8: réservation à partir de 7 nuits
+* haute saison: juillet - août - week-ends prolongés
 
-Haute saison: juillet - août - week-ends prolongés
 
-## Forfaits Basse Saison
+## Réductions Basse Saison
 
-Réductions:
 - séjour ≥ 7 nuits: -7%
 - séjour ≥ 10 nuits: -10%
 

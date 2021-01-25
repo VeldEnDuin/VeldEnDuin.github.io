@@ -65,11 +65,10 @@ AANTAL PERSONEN | LAAGSEIZOEN | HOOGSEIZOEN
 6 personen     |€ 34         |€ 38
 
 * 15/7 - 15/8: reservatie vanaf 7 nachten
-* Hoogseizoen: juli - augustus - verlengde weekends
+* hoogseizoen: juli - augustus - verlengde weekends
 
 ## Kortingen laagseizoen
 
-Kortingen:
 - verblijf ≥ 7 nachten: -7%
 - verblijf ≥ 10 nachten: -10%
 

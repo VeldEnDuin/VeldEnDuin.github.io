@@ -42,7 +42,7 @@ The pitches of 10x8 m are ideal for bigger family tents.
 - Tent pitch 7x8: max 4 persons/ pitch
 - Tent pitch 10x8: max 6 persons/ pitch
 - dogs allowed - max 2 – no dangerous breeds
-- not accessible between 15/01 - 01/03 and 15/11 - 15/12
+- accessible all year round except from January 15th to March 1st and November 15th to December 15th
 
 ## Prices 2021 per night
 
@@ -67,13 +67,11 @@ NUMBER OF PERSONS | LOW SEASON | HIGH SEASON
 6 persons     |€ 34          |€ 38
 
 
-15/7 - 15/8: reservations as from 7 nights only
+* 15/7 - 15/8: upon reservation as from 7 nights
+* high season: July - August - long weekends
 
-High season: July - August - long weekends
+## Discounts low season
 
-## Arrangements low season
-
-Discounts:
 - Stay ≥ 7 nights: -7%
 - Stay ≥ 10 nights: -10%
 

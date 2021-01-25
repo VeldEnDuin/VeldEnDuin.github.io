@@ -35,7 +35,7 @@ Combine the freedom of travelling with a caravan with the comfort of our campsit
 
 - max 6 persons / pitch
 - dogs allowed - max 2 – no dangerous breeds
-- not accessible between 15/01 - 01/03 and 15/11 - 15/12
+- accessible all year round except from January 15th to March 1st and November 15th to December 15th
 
 ## Prices 2021 per night
 
@@ -48,16 +48,13 @@ NUMBER OF PERSONS | LOW SEASON | HIGH SEASON
 5 persons     |€ 31          |€ 35
 6 persons     |€ 34          |€ 38
 
-15/7 - 15/8: upon reservation as from 7 nights
+* 15/7 - 15/8: upon reservation as from 7 nights
+* high season: July - August - long weekends
 
-High season: July - August - long weekends
+## Discounts low season
 
-## Arrangements low season
-
-Discounts:
 - Stay ≥ 7 nights: -7%
 - Stay ≥ 10 nights: -10%
-
 {% include en/hiker-reuse.md %}
 
 

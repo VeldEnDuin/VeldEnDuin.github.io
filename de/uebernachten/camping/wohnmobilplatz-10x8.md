@@ -40,7 +40,8 @@ Kombinieren Sie die Freiheit des Reisens mit einem Wohnmobil mit dem Komfort uns
 
 - Höchstens 6 Personen/Platz
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
-- Kein Zugang in folgenden Zeiträumen 15/01 - 01/03 und 15/11 - 15/12
+- ganzjährig zugänglich, außer vom 15. Januar bis 1. März und vom 15. November bis 15. Dezember
+
 
 ## Preise 2021 pro Nacht
 
@@ -53,13 +54,11 @@ ANZAHL PERSONEN | NEBENSAISON | HOCHSAISON
 5 Personen     |€ 31         |€ 35 
 6 Personen     |€ 34         |€ 38 
 
-15.7. bis 15.8.: Reservierung ab 7 Nächten
+* 15.7. bis 15.8.: Reservierung ab 7 Nächten
+* Hochsaison: Juli - August - verlängerte Wochenenden
 
-Hochsaison: Juli - August - verlängerte Wochenenden
+## Rabatte Nebensaison
 
-## Arrangements Nebensaison
-
-Rabatte:
 - Aufenthalt ≥ 7 Nächte: -7%
 - Aufenthalt ≥ 10 Nächte: -10%
 
