@@ -7,7 +7,7 @@ class:
         list: "properties-grid"
 
 preview:
-    title: Types d'hébergement
+    title: Reserve maintenant
     text: 
         - Réservez votre chalet, caravane ou appartement (de luxe) en ligne et offrez-vous un séjour confortable et sans souci. 
         - Nous sommes également ravis d’accueillir les campeurs qui disposent de leur propre caravane, mobilhome ou tente. Pour les campeurs c'est aussi possible de réserver un emplacement en ligne. 
