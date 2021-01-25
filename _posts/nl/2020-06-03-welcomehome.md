@@ -11,7 +11,6 @@ images:
 {% include links.md %}
 
 {% assign youtube-code = 'iFgFx_OrZd4'%}
-{% assign youtube-title= 'Welcome Home Away from Home'%}
 {% include youtube-embed.html %}
 
 
