@@ -18,4 +18,4 @@ images:
 {% include links.md %}
 
 
-Een toffe knutseldag op Veld & Duin: knutselen  met afval!
+Ons afval gooien we niet weg maar wordt omgetoverd tot een prachtig knutselwerkje.

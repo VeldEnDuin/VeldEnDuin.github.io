@@ -19,5 +19,5 @@ images:
 
 {% include links.md %}
 
-De waterglijbaan was ook dit jaar weer een groot succes! 
+Mooi weer, een glijbaan en veel water blijken elk jaar opnieuw een succesverhaal
 

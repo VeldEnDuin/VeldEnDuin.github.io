@@ -23,4 +23,4 @@ images:
 {% include links.md %}
 
 
-Deze morgen sloten we de paasanimatie bij Veld & Duin creatief af met een leuk ochtendje knutselen!
+Een ochtend knutselen met  als thema Pasen leverde erg mooie resultaten op.

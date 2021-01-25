@@ -22,4 +22,4 @@ images:
 {% include links.md %}
 
 
-Bedankt aan alle kinderen die deelnamen aan onze paaseierenzoektocht! Vrolijk Pasen!
+Ook dit jaar werden alle paaseieren gevonden en werd er enthousiast meegespeeld.

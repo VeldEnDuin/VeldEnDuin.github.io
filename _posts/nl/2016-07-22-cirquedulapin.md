@@ -17,7 +17,7 @@ images:
 
 {% include links.md %}
 
-Een ware konijneninvasie bij Veld & Duin met een spetterend optreden van Cirque du Lapin!
+Een groep enthousiaste, jonge circusartiesten verbaasden jong en oud met hun gewaagde trampolinesprongen,  jongleeracts en nog zoveel meer circuskunsten.
 
 
 

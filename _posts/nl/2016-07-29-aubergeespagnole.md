@@ -19,7 +19,7 @@ images:
 
 {% include links.md %}
 
-Een supergezellige avond gisteren op Veld & Duin! Bedankt aan alle deelnemers van de Auberge Espagnole voor al de lekkernijen en bedankt aan Saddle for Sale om de avond met een muzikale knal af te sluiten!
+Bij een Auberge Espagnole brengt iedereen iets te eten mee om dan samen te delen. Na het eten volgde het optreden van Saddle for Sale die van de avond een onvergetelijk succes maakten.
 
 
 

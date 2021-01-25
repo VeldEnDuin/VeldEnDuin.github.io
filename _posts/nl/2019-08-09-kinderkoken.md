@@ -20,4 +20,4 @@ images:
 {% include links.md %}
 
 
-Gisteren hebben onze topchefs lekkere hamermoutkoekjes, pralines en chocoladeschilderijen gemaakt. 
+Onze jonge sterrenkoks maakten heerlijke havermoutkoekjes, pralines en schilderijtjes van chocolade. Das was echt smullen.

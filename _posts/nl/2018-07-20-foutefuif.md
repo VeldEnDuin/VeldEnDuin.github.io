@@ -21,5 +21,6 @@ images:
 
 {% include links.md %}
 
-Bedankt aan alle aanwezigen op onze foute fuif om er een spetterende avond van te maken!
+De knotsgekke foute kledij en dito muziek zorgden voor een geweldig sfeertje waarbij niemand stil kon blijven zitten.
+
 

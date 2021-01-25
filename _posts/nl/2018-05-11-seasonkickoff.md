@@ -20,4 +20,4 @@ images:
 {% include links.md %}
 
 
-Seagulls gaf een geweldige optreden op onze Season Kickoff en DJ Hawai zorgde voor een spetterende afterparty, bedankt!
+Het gratis vat en de zwoele zomervibes van de Seagulls brachten iedereen in de juiste stemming. DJ Hawai zorgde voor een spetterende afterparty.

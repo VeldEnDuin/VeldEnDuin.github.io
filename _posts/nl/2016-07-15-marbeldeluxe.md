@@ -1,7 +1,7 @@
 ---
 title: Marbel De Luxe
 layout: post
-description: zomeranimatie
+description: een zelfgemaakte reuzeknikkerbaan
 permalink: /nl/2016-07-15-marbeldeluxe.html
 
     
@@ -16,6 +16,6 @@ images:
 
 {% include links.md %}
 
-Zowel jong als oud hebben zich creatief uitgeleefd met Marbel De Luxe! Bedankt Olapaloma!
+Dubbel plezier: eerst om te helpen deze gigantische knikkerbaan in elkaar te steken en nadien uren speelplezier om hem uit te testen.
 
 

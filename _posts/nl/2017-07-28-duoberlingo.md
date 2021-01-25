@@ -21,7 +21,7 @@ images:
 
 {% include links.md %}
 
-Bedankt aan Duo Berlingo voor de schitterende voorstelling!
+Met kinderlijk enthousiasme bouwen 2 artiesten gewaagde constructies met 56 blauwe groentenbakken wat een een prachtige voorstelling oplevert.
 
 
 

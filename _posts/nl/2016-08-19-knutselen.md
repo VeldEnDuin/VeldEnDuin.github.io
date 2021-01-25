@@ -1,5 +1,5 @@
 ---
-title: Knutselen
+title: creativiteit ten top 
 layout: post
 description: een ochtend samen meesterwerkjes maken
 permalink: /nl/2016-08-19-knutselen.html
@@ -24,6 +24,7 @@ images:
 
 {% include links.md %}
 
-Deze morgen sloten we de zomeranimatie bij Veld & Duin creatief af met een leuk ochtendje knutselen!
+Knippen, plakken, schilderen,...een ochtendje knutselen levert prachtige resultaten op.
+
 
 

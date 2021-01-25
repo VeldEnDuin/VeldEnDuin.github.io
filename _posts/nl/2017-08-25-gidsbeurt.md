@@ -21,7 +21,7 @@ images:
 
 {% include links.md %}
 
-De laatste zomeranimatie zit er weer al op, het was een zeer leerrijke gidsbeurt in het natuurgebied D'Heye.
+Het natuurgebied D’Heye in Bredene kan enkel met een natuurgids bezocht worden. Een fijne ontdekking voor alle natuurliefhebber.
 
 
 

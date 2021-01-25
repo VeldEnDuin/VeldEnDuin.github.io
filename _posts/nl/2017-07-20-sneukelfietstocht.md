@@ -20,7 +20,7 @@ images:
 
 {% include links.md %}
 
-Onze moedige deelnemers trotseerden weer en wind tijdens de Veld & Duin sneukelfietstocht! 
+Het weertje zat niet helemaal mee op onze sneukeltocht maar deze dappere fietsers lieten zich hierdoor niet tegenhouden.
 
 
 

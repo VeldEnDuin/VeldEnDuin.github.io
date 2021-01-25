@@ -17,4 +17,4 @@ images:
 {% include links.md %}
 
 
-Verfrissing bij Veld & Duin met de waterglijbaan!
+Het water was heerlijk verfrissend op deze snikhete dag.

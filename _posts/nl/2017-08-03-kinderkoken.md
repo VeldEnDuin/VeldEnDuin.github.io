@@ -25,8 +25,7 @@ images:
 
 {% include links.md %}
 
-Het kinderkoken deze morgen was een succes! Met 32 hebben ze voor een heerlijke receptie gezorgd, bedankt!
-
+Er werd hard gewerkt deze morgen door onze koks in spé. Het resultaat mocht er zijn en alle aanwezige (groot)ouders mochten komen proeven van al dat lekkers op de receptie.
 
 
 
