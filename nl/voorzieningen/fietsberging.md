@@ -24,7 +24,7 @@ remove:
 
 {% include links.md %}
 
-U wenst uw fiets na een mooie fietstocht graag binnen te zetten? In onze overdekte fietsberging hebben we in totaal 116 plaatsen voor fietsliefhebbers.
+Zet je na een mooie fietstocht je fiets bij voorkeur binnen? In onze overdekte fietsberging hebben we in totaal 116 plaatsen voor fietsliefhebbers.
 
 Onze residentiële kampeerders kunnen er een plaats huren voor een volledig jaar. Voor onze huurders of trekkers is het mogelijk om een plaats vast te leggen voor de duur van het verblijf.
 Reservatie mogelijk via de receptie.
@@ -35,7 +35,7 @@ Reservatie mogelijk via de receptie.
 | plaats huurders / trekkers | € 2 / nacht - waarborg sleutel € 25 |
 
 
-Aan de receptie en het speelplein is er een fietsenrek zodat u ook daar makkelijk met uw fiets terecht kan. 
+Aan de receptie en het speelplein is er een fietsenrek zodat je ook daar je fiets makkelijk kwijt kan. 
 
-Veld & Duin ligt op 200 meter van het dichtstbijzijnde knooppunt van het [fietsroutenetwerk][fietsnet.nl]. Kaarten van dit netwerk kunt u uitlenen aan de receptie.
+Veld & Duin ligt op 200 meter van het dichtstbijzijnde knooppunt van het [fietsroutenetwerk][fietsnet.nl]. Kaarten van dit netwerk zijn uit te lenen aan de receptie.
 
