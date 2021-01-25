@@ -1,7 +1,7 @@
 ---
 title: Abenteuerparcours
 layout: post
-description: Sommeranimation
+description: Klettern, Hängen und Klettern auf einem hausgemachten Pfad
 permalink: /de/2018-07-27-abenteuerparcours.html
 
     

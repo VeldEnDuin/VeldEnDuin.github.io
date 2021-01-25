@@ -1,7 +1,7 @@
 ---
-title: Duo Berlingo
+title: Cirque Duo Berlingo
 layout: post
-description: animations d'été
+description: constructions audacieuses avec des bacs à légumes bleus
 permalink: /fr/2017-07-28-duoberlingo.html
 
     
@@ -20,7 +20,5 @@ images:
 
 {% include links.md %}
 
-Merci à Duo Berlingo pour le show spectaculaire!
-
-Vous trouvez tous les photos dans nos [archives photo][pics.fr]
+Avec un enthousiasme enfantin, 2 artistes construisent des constructions audacieuses avec 56 plateaux de légumes bleus, résultant en une belle performance.
 

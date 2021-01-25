@@ -19,5 +19,4 @@ images:
 
 {% include links.md %}
 
-
-Onze jonge sterrenkoks maakten heerlijke havermoutkoekjes, pralines en schilderijtjes van chocolade. Das was echt smullen.
+Nos jeunes chefs célèbres ont préparé de délicieux biscuits à l'avoine, des pralines et des peintures au chocolat. C'était vraiment savoureux.

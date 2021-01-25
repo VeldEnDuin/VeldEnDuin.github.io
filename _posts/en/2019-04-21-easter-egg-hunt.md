@@ -1,7 +1,7 @@
 ---
 title: Easter egg hunt
 layout: post
-description: Easter animation at Veld & Duin 
+description: who will find the most Easter eggs?
 permalink: /en/2019-04-21-easter-egg-hunt.html
 
     

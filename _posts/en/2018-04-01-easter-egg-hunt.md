@@ -1,7 +1,7 @@
 ---
 title: Easter egg hunt
 layout: post
-description: Easter animation at Veld & Duin 
+description: find the eggs and earn extra with fun games
 permalink: /en/2018-04-01-easter-egg-hunt.html
 
     
@@ -21,6 +21,7 @@ images:
     
 ---
 
-{% include links.md %}
+{% include links.md %
 
-Many thanks to all the children who participated at our Easter egg hunt! Happy Easter!
+
+Also this year, all Easter eggs were found and they played enthusiastically.

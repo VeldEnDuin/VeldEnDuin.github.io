@@ -1,7 +1,7 @@
 ---
 title: Waffle fest
 layout: post
-description: Summer animation 2019
+description: enjoy a mountain of waffles together
 permalink: /en/2019-08-15-wafflefest.html
 
     

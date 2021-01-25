@@ -1,7 +1,7 @@
 ---
 title: Wasserrutsche
 layout: post
-description: Sommeranimation
+description: der Klassiker unserer Sommerunterhaltung
 permalink: /de/2017-08-11-wasserrutsche.html
 
     
@@ -21,6 +21,5 @@ images:
 
 Toller Wasserspaß auf Veld & Duin!
 
-Alle Fotos finden Sie zurück in unserem [Fotoarchiv][pics.de]
 
 

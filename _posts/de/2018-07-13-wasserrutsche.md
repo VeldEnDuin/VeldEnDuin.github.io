@@ -1,7 +1,7 @@
 ---
 title: Wasserrutschbahn
 layout: post
-description: Sommeranimation
+description: der Wasserfavorit des Jahres
 permalink: /de/2018-07-13-wasserrutsche.html
 
     
@@ -19,6 +19,6 @@ images:
 
 {% include links.md %}
 
-Die Wasserrutschbahn war wieder ein Erfolg dieses Jahr!
+Gutes Wetter, eine Rutsche und viel Wasser werden jedes Jahr zu einer Erfolgsgeschichte
 
 

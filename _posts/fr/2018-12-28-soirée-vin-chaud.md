@@ -1,7 +1,7 @@
 ---
-title: Une excellente soirée vin chaud
+title: une soirée vin chaud réussie
 layout: post
-description: nos campeurs se sont réunis dans une ambiance chaleureuse
+description: un toast ensemble pour un merveilleux 2019
 permalink: /fr/2018-12-28-excellente-soirée-vin-chaud.html
 
     

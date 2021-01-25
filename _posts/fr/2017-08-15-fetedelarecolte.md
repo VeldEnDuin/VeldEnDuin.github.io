@@ -1,7 +1,7 @@
 ---
 title: Fête de la récolte
 layout: post
-description: animations d'été
+description: top ambiance sur le plateau de gaufres et fête des récoltes
 permalink: /fr/2017-08-15-fetedelarecolte.html
 
     
@@ -22,6 +22,4 @@ images:
 {% include links.md %}
 
 C’était agréablement animé sur notre fête de récolte. Avec les gaufres nous avons collecté € 430 pour nos deux bonnes causes! Merci beaucoup!
-
-Vous trouvez tous les photos dans nos [archives photo][pics.fr]
 

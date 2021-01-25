@@ -1,7 +1,7 @@
 ---
-title: Duo Berlingo
+title: Zirkus Duo Berlingo
 layout: post
-description: Sommeranimation
+description: gewagte Konstruktionen mit blauen Gemüsetabletts
 permalink: /de/2017-07-28-duoberlingo.html
 
     
@@ -19,8 +19,5 @@ images:
 
 {% include links.md %}
 
-Vielen Dank an Duo Berlingo für den spektakulären Show!
-
-Alle Fotos finden Sie zurück in unserem [Fotoarchiv][pics.de]
-
+Mit kindlicher Begeisterung bauen 2 Künstler gewagte Konstruktionen mit 56 blauen Gemüsetabletts, was zu einer wunderschönen Aufführung führt.
 

@@ -1,7 +1,7 @@
 ---
 title: Tobbogan Aquatique
 layout: post
-description: animations d'été
+description: le classique de nos animations estivales
 permalink: /fr/2017-08-11-tobogganaquatique.html
 
     
@@ -21,6 +21,4 @@ images:
 {% include links.md %}
 
 Plaisir d'eau chez Veld & Duin!
-
-Vous trouvez tous les photos dans nos [archives photo][pics.fr]
 

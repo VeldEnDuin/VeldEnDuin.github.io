@@ -1,7 +1,7 @@
 ---
 title: Schnabuliereradtour
 layout: post
-description: Sommeranimation
+description: eine unwiderstehliche Kombination aus Sport und Essen
 permalink: /de/2017-07-20-schnabuliereradtour.html
 
     
@@ -18,6 +18,6 @@ images:
 
 {% include links.md %}
 
-Noch Regen noch Wind konnten unsere Teilnehmer entmutigen während dem Veld & Duin Schnabuliereradtour!
+Das Wetter war auf unserer Rodeltour nicht ganz richtig, aber diese mutigen Radfahrer ließen sich davon nicht aufhalten.
 
 

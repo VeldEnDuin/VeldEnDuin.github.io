@@ -1,7 +1,7 @@
 ---
 title: Toboggan Aquatique
 layout: post
-description: animation d'été
+description: le surmatelas de l'année
 permalink: /fr/2018-07-13-tobogganaquatique.html
 
     
@@ -19,5 +19,5 @@ images:
 
 {% include links.md %}
 
-Le toboggan aquatique était de nouveau un succès!
+Le beau temps, un toboggan et beaucoup d'eau se révèlent être une réussite chaque année
 

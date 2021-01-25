@@ -1,7 +1,7 @@
 ---
-title: Duo Berlingo
+title: Circus Act Duo Berlingo
 layout: post
-description: summer animation
+description: daring constructions with blue vegetable trays
 permalink: /en/2017-07-28-duoberlingo.html
 
     
@@ -21,8 +21,6 @@ images:
 
 {% include links.md %}
 
-Many thanks to Duo Berlingo for the spectacular show!
-
-All photos can be found in our [photo archive][pics.en] 
+With childlike enthusiasm, 2 artists build daring constructions with 56 blue vegetable trays, resulting in a beautiful performance.
 
 

@@ -1,7 +1,7 @@
 ---
 title: Chasse aux oeufs
 layout: post
-description: animations de Pâques chez Veld & Duin
+description: qui trouvera le plus d'oeufs de Pâques?
 permalink: /fr/2019-04-21-chasse-aux-oeufs.html
 
     

@@ -1,7 +1,7 @@
 ---
 title: Bricolage de Pâques
 layout: post
-description: belles créations de Pâques
+description: poussins de Pâques branchés et autres créations amusantes de Pâques
 permalink: /fr/2018-04-06-bricolage-de-paques.html
 
     
@@ -22,4 +22,4 @@ images:
 
 {% include links.md %}
 
-Ce matin nous avons conclus l’animation de Pâques chez Veld & Duin créativement avec une matinée de bricolage!
+Une matinée de bricolage sur le thème de Pâques a produit de très beaux résultats.

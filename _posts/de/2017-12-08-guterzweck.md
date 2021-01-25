@@ -1,7 +1,7 @@
 ---
 title: Gute Zwecke
 layout: post
-description: € 10.000 gesammelt
+description: zusammen 10.000 € gesammelt
 permalink: /de/2017-12-08-gutezwecke.html
 
     

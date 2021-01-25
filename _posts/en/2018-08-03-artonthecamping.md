@@ -1,7 +1,7 @@
 ---
 title: Art on the camping
 layout: post
-description: summer animation
+description: create your own artwork
 permalink: /en/2018-08-03-artonthecamping.html
 
     

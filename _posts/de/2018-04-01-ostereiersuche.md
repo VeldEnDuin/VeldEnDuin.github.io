@@ -1,7 +1,7 @@
 ---
 title: Ostereiersuche
 layout: post
-description: Osteranimation bei Veld & Duin
+description: Finde die Eier und verdiene extra mit lustigen Spielen
 permalink: /de/2018-04-01-ostereiersuche.html
 
     
@@ -22,6 +22,6 @@ images:
 
 {% include links.md %}
 
-Vielen Dank an alle Kinder die teilnahmen an unsere Ostereiersuche! Frohe Ostern!
+Auch in diesem Jahr wurden alle Ostereier gefunden und sie spielten begeistert.
 
 

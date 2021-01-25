@@ -1,7 +1,7 @@
 ---
 title: Fête des gaufres
 layout: post
-description: Animations d'été 2019
+description: profitez d'une montagne de gaufres ensemble
 permalink: /fr/2019-08-15-fetedesgaufres.html
 
     

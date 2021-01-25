@@ -1,7 +1,7 @@
 ---
 title: Kinderkochen
 layout: post
-description: Sommeranimation 2019
+description: Unsere jüngsten Köche setzen sich voll und ganz für die Arbeit ein
 permalink: /de/2019-08-09-kinderkochen.html
 
     
@@ -21,4 +21,4 @@ images:
 
 {% include links.md %}
 
-Unsere Küchenchefs haben leckere Kekse, Pralinen und Schokoladenmalereien gemacht. 
+Unsere jungen Starköche haben köstliche Haferkekse, Pralinen und Schokoladengemälde hergestellt. Das war wirklich lecker.

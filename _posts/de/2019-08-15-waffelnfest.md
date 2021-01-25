@@ -1,7 +1,7 @@
 ---
 title: Waffelbackfest
 layout: post
-description: Sommeranimation 2019
+description: gemeinsam einen Berg Waffeln genießen
 permalink: /de/2019-08-15-waffelbackfest.html
 
     

@@ -1,7 +1,7 @@
 ---
-title: Shit Happens
+title: Cirque Shit Happens
 layout: post
-description: animation d'été
+description: situations folles dans et autour des toilettes
 permalink: /fr/2018-08-14-shithappens.html
 
     

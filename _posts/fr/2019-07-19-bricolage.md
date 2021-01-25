@@ -1,7 +1,7 @@
 ---
 title: Bricolage avec déchets
 layout: post
-description: Animations d'été 2019
+description: les matières résiduelles ont une nouvelle destination
 permalink: /fr/2019-07-19-bricolage.html
 
     
@@ -16,4 +16,4 @@ images:
 
 {% include links.md %}
 
-Un jour de bricolage amusant à Veld & Duin: bricoler avec déchets!
+Nous ne jetons pas nos déchets, mais ils se transforment en un beau projet artisanal.

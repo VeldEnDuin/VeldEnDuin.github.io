@@ -1,7 +1,7 @@
 ---
 title: Erfolgreicher Glühweinabend
 layout: post
-description: Gemütliches Beisammensein mit unseren Campern
+description: stoßen Sie gemeinsam auf ein wundervolles Jahr 2019 an
 permalink: /de/2018-12-28-erfolgreicher-gluehweinabend.html
 
     

@@ -1,7 +1,7 @@
 ---
 title: Easter crafting
 layout: post
-description: Beautiful Easter creations
+description: hip Easter chicks and other fun Easter creations
 permalink: /en/2018-04-06-easter-crafting.html
 
     
@@ -24,4 +24,4 @@ images:
 
 {% include links.md %}
 
-This moring we closed the Easter animation at Veld & Duin creatively with a nice morning of crafting!
+A morning of tinkering on the theme of Easter produced very nice results.

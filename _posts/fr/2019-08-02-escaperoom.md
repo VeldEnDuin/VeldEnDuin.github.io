@@ -1,7 +1,7 @@
 ---
 title: Escape Caravan
 layout: post
-description: Animations d'été 2019
+description: qui s'échappe de cette caravane vintage à temps?
 permalink: /fr/2019-08-02-escaperoom.html
 
     

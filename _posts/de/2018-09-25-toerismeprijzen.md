@@ -1,7 +1,7 @@
 ---
 title: West-Vlaamse Toerismeprijzen
 layout: post
-description: Veld & Duin Laureat
+description: Veld & Duin nominiert
 permalink: /de/2018-09-25-toerismeprijzen.html
 
     

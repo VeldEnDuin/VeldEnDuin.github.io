@@ -1,7 +1,7 @@
 ---
 title: Erntefest
 layout: post
-description: Sommeranimation
+description: Top-Stimmung auf dem Waffeltablett und Erntefest
 permalink: /de/2017-08-15-erntefest.html
 
     
@@ -22,6 +22,5 @@ images:
 
 Es war gemütlich belebt auf unser Erntefest. Mit dem Waffeln wurde € 430 gesammelt für unsere zwei guten Zwecke! Vielen Dank!
 
-Alle Fotos finden Sie zurück in unserem [Fotoarchiv][pics.de]
 
 

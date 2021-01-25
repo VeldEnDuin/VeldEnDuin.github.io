@@ -1,7 +1,7 @@
 ---
 title: Cooking for children
 layout: post
-description: summer animation
+description: all snacks are then served together at the children's reception
 permalink: /en/2017-08-03-cookingforchildren.html
 
     
@@ -24,8 +24,6 @@ images:
 
 {% include links.md %}
 
-The child cooking this morning was a succes! With 32 they created a wonderful reception, many thanks!
-
-All photos can be found in our [photo archive][pics.en] 
+Our would-be chefs worked hard this morning. The result was there and all present (grand) parents were allowed to taste all those goodies at the reception.
 
 

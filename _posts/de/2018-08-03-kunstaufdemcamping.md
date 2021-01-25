@@ -1,7 +1,7 @@
 ---
 title: Kunst auf dem Camping
 layout: post
-description: Sommeranimation
+description: Erstellen Sie Ihre eigenen Kunstwerke
 permalink: /de/2018-08-03-kunstaufdemcamping.html
 
     

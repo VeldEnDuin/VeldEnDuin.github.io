@@ -1,7 +1,7 @@
 ---
 title: Cooking Workshop
 layout: post
-description: Summer animation 2019
+description: our youngest chefs are fully committed to work
 permalink: /en/2019-08-09-cookingworkshop.html
 
     
@@ -22,4 +22,4 @@ images:
 
 {% include links.md %}
 
-Our chefs have made delicious cookies, pralines and chocolate paintings. 
+Our young celebrity chefs made delicious oatmeal cookies, pralines and chocolate paintings. That was really tasty.

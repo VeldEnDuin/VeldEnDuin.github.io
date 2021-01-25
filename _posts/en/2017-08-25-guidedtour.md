@@ -1,7 +1,7 @@
 ---
 title: Guided tour
 layout: post
-description: summer animation
+description: fascinating stories in the nature reserve D’Heye
 permalink: /en/2017-08-25-guidedtour.html
 
     
@@ -21,6 +21,6 @@ images:
 
 {% include links.md %}
 
-The last summer animation was a very informative guided tour in nature reserve D’Heye. 
+The nature reserve D’Heye in Bredene can only be visited with a nature guide. A great discovery for all nature lovers.
 
 

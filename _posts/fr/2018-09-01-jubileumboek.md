@@ -1,7 +1,7 @@
 ---
-title: Livre d'anniversaire
+title: livre 50 ans Veld & Duin
 layout: post
-description: 50 ans de Veld & Duin sous forme de livre
+description: toutes les histoires et images sur 50 ans de camping
 permalink: /fr/2018-09-01-livre-anniversaire.html
 
     

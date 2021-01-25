@@ -1,7 +1,7 @@
 ---
 title: Soirée vin chaud
 layout: post
-description: se réunir dans une ambiance chaleureuse
+description: retour ensemble sur une année anniversaire très réussie
 permalink: /fr/2017-12-28-vin-chaud.html
 
     

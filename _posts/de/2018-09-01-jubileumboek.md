@@ -1,7 +1,7 @@
 ---
-title: Jubiläumbuch
+title: Buch 50 Jahre Veld & Duin
 layout: post
-description: 50 Jahre Veld & Duin in Buchform
+description: alle Geschichten und Bilder über 50 Jahre Camping
 permalink: /de/2018-09-01-jubilaumbuch.html
 
     

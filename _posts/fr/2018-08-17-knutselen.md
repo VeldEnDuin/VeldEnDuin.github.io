@@ -1,7 +1,7 @@
 ---
 title: Bricolage
 layout: post
-description: animation d'été
+description: beaux objets artisanaux de nos plus jeunes invités
 permalink: /fr/2018-08-17-bricolage.html
 
     

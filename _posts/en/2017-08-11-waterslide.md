@@ -1,7 +1,7 @@
 ---
 title: Water slide
 layout: post
-description: summer animation
+description: the classic in our summer entertainment
 permalink: /en/2017-08-11-waterslide.html
 
     
@@ -23,6 +23,5 @@ images:
 
 Water fun at Veld & Duin!
 
-All photos can be found in our [photo archive][pics.en] 
 
 

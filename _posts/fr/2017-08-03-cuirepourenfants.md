@@ -1,7 +1,7 @@
 ---
 title: Cuire pour enfants
 layout: post
-description: animations d'été
+description: toutes les collations sont ensuite servies ensemble à l'accueil des enfants
 permalink: /fr/2017-08-03-cuirepourenfants.html
 
     
@@ -23,7 +23,5 @@ images:
 
 {% include links.md %}
 
-L’atelier cuisine pour enfants ce matin était un grand succès! Avec 32 enfants ils ont créé une réception savoureuse! Merci!
-
-Vous trouvez tous les photos dans nos [archives photo][pics.fr]
+Nos futurs chefs ont travaillé dur ce matin. Le résultat était là et tous les (grands) parents présents ont pu goûter toutes ces friandises à la réception.
 

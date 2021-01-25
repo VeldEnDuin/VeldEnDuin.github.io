@@ -1,7 +1,7 @@
 ---
 title: Atelier cuisine pour enfants
 layout: post
-description: Animations d'été 2019
+description: nos plus jeunes chefs sont pleinement engagés dans le travail
 permalink: /fr/2019-08-09-cuisinerpourenfants.html
 
     

@@ -1,7 +1,7 @@
 ---
 title: Season Kickoff
 layout: post
-description: 11/05
+description: Die Saison begann stilvoll mit der Leistung von Seagulls
 permalink: /de/2018-05-11-seasonkickoff.html
 
     
@@ -19,6 +19,6 @@ images:
 
 {% include links.md %}
 
-Seagulls gab ein ausgezeichnetes Konzert auf unser Season Kickoff und DJ Hawai sorgte für ein super tolles Afterparty! Vielen Dank!
+Das freie Fass und die schwüle Sommerstimmung von Seagulls brachten alle in die richtige Stimmung. DJ Hawai sorgte für eine fantastische After-Party.
 
 

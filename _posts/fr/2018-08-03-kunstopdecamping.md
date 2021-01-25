@@ -1,7 +1,7 @@
 ---
-title: Art sur le camping
+title: atelier d'art au camping
 layout: post
-description: animation d'été
+description: créez votre propre oeuvre
 permalink: /fr/2018-08-03-artsurlecamping.html
 
     

@@ -33,8 +33,6 @@ MERCI!
 Nous avons fêté les cinquante ans d’existence du camping pendant le week-end de la Pentecôte. Vous trouverez ci-dessous le compte rendu ainsi que des photos de l’événement.
 Si vous avez fait des clichés ou des vidéos des festivités, nous vous serions très reconnaissants de nous les envoyer.
 
-Vous trouvez tous les photos de notre fête de jubilé dans nos [archives photo][pics.fr]
-
 
 VISITES GUIDÉES DE L’EXPOSITION
 

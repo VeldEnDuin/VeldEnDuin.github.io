@@ -1,7 +1,7 @@
 ---
 title: Season Kickoff
 layout: post
-description: 11/05
+description: the season started in style with Seagulls performance
 permalink: /en/2018-05-11-seasonkickoff.html
 
     
@@ -21,4 +21,4 @@ images:
 
 {% include links.md %}
 
-Seagulls gave a magnificent show at our Season Kickoff, which we closed off with a splendid afterparty by DJ Hawai. Many thanks!
+The Seagulls' free barrel and sultry summer vibes put everyone in the right mood. DJ Hawai provided a fantastic after party.

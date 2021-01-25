@@ -1,7 +1,7 @@
 ---
-title: Shit Happens
+title: Circus Act Shit Happens
 layout: post
-description: summer animation
+description: crazy situations in and around the toilet
 permalink: /en/2018-08-14-shithappens.html
 
     

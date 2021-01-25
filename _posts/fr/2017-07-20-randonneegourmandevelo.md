@@ -1,7 +1,7 @@
 ---
 title: Randonnée gourmande à vélo
 layout: post
-description: animations d'été
+description: une combinaison irrésistible de sport et de nourriture
 permalink: /fr/2017-07-20-randonneegourmandeavelo.html
 
     
@@ -19,7 +19,7 @@ images:
 
 {% include links.md %}
 
-Ni le vent ni la pluie ont découragé nos participants pendant le randonnée gourmande à vélo de Veld & Duin!
+Le temps n'était pas tout à fait propice lors de notre randonnée en traîneau, mais ces courageux cyclistes n'ont pas laissé cela les arrêter.
 
 
 

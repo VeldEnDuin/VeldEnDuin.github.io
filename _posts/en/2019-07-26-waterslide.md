@@ -1,7 +1,7 @@
 ---
 title: Water slide
 layout: post
-description: Summer animation 2019
+description: water fun guaranteed with our water slide
 permalink: /en/2019-07-26-waterslide.html
 
     
@@ -16,4 +16,4 @@ images:
 
 {% include links.md %}
 
-Refreshment at Veld & Duin with our water slide!
+The water was wonderfully refreshing on this sweltering day.

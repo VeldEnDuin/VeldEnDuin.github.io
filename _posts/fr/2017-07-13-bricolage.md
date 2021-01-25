@@ -1,7 +1,7 @@
 ---
 title: Bricolage
 layout: post
-description: animations d'été
+description: créer ensemble un globe unique
 permalink: /fr/2017-07-13-bricolage.html
 
     
@@ -22,7 +22,6 @@ images:
 
 Les enfants étaient vraiment créative et ont bricolé un monde fantastique!
 
-Vous trouvez tous les photos dans nos [archives photo][pics.fr]
 
 
 

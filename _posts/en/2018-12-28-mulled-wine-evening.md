@@ -1,7 +1,7 @@
 ---
 title: Successful mulled wine evening
 layout: post
-description: cosy get-together with our campers 
+description: toast together to a wonderful 2019
 permalink: /en/2018-12-28-succesful-mulled-wine-evening.html
 
     

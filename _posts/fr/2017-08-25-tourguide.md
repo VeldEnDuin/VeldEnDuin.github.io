@@ -1,7 +1,7 @@
 ---
 title: Tour guidé 
 layout: post
-description: animations d'été
+description: histoires fascinantes dans la réserve naturelle D’Heye
 permalink: /fr/2017-08-25-tourguide.html
 
     
@@ -20,5 +20,5 @@ images:
 
 {% include links.md %}
 
-La dernière animation d’été est de nouveau passé. C’était un tour guidé très informative dans la réserve naturelle D’Heye. 
+La réserve naturelle D’Heye à Bredene ne peut être visitée qu’avec un guide nature. Une belle découverte pour tous les amoureux de la nature.
 

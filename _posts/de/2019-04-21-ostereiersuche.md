@@ -1,7 +1,7 @@
 ---
 title: Ostereiersuche
 layout: post
-description: Osteranimation bei Veld & Duin
+description: wer findet die meisten Ostereier?
 permalink: /de/2019-04-21-ostereiersuche.html
 
     

@@ -1,7 +1,7 @@
 ---
 title: Snack and bike tour
 layout: post
-description: summer animation
+description: an irresistible combination of sports and food
 permalink: /en/2017-07-20-snackbiketour.html
 
     
@@ -20,6 +20,6 @@ images:
 
 {% include links.md %}
 
-Nor weather nor rain could discourage our participants of the Veld & Duin bike & snack tour!
+The weather was not quite right on our sledding tour, but these brave cyclists did not let this stop them.
 
 

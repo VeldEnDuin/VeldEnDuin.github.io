@@ -1,7 +1,7 @@
 ---
-title: Bonne cause
+title: actions caritatives
 layout: post
-description: € 10.000 collecté
+description: collectées ensemble 10000 €
 permalink: /fr/2017-12-08-bonnecause.html
 
     

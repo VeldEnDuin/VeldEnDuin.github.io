@@ -1,7 +1,7 @@
 ---
 title: Foute fuif
 layout: post
-description: summer animation
+description: wrong clothes and wrong music on a great dance night
 permalink: /en/2018-07-20-foutefuif.html
 
     
@@ -21,5 +21,5 @@ images:
 
 {% include links.md %}
 
-Thanks to all participants at our "foute fuif", it was awesome!
+The crazy bad clothes and ditto music created a great atmosphere where no one could sit still.
 

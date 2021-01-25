@@ -1,7 +1,7 @@
 ---
 title: Kinderkochen
 layout: post
-description: Sommeranimation
+description: Alle Snacks werden dann zusammen an der Kinderrezeption serviert
 permalink: /de/2017-08-03-kinderkochen.html
 
     
@@ -22,8 +22,6 @@ images:
 
 {% include links.md %}
 
-Das Kinderkochen diesen Morgen war ein Erfolg! Mit 32 haben die Kinder für eine herrliche Rezeption gesorgt! Vielen Dank!
-
-Alle Fotos finden Sie zurück in unserem [Fotoarchiv][pics.de]
+Unsere angehenden Köche haben heute Morgen hart gearbeitet. Das Ergebnis war da und alle anwesenden (Groß-) Eltern durften all diese Leckereien an der Rezeption probieren.
 
 

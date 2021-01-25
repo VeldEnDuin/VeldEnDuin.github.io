@@ -1,7 +1,7 @@
 ---
 title: Chasse aux oeufs
 layout: post
-description: animations de Pâques chez Veld & Duin
+description: Trouvez les œufs et gagnez plus avec des jeux amusants
 permalink: /fr/2018-04-01-chasse-aux-oeufs.html
 
     
@@ -21,4 +21,4 @@ images:
 
 {% include links.md %}
 
-Merci à tous les enfants qui ont participé à notre chasse aux oeufs! Joyeuses Pâques!
+Cette année aussi, tous les œufs de Pâques ont été trouvés et ils ont joué avec enthousiasme.

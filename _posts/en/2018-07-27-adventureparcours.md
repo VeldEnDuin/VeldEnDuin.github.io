@@ -1,7 +1,7 @@
 ---
 title: Adventure parcours
 layout: post
-description: summer animation
+description: climbing, hanging and scrambling on a homemade trail
 permalink: /en/2018-07-27-parcours.html
 
     

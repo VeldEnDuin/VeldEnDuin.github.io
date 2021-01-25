@@ -1,7 +1,7 @@
 ---
 title: Mulled wine eve
 layout: post
-description: cosy get-together with our campers 
+description: looking back together on a very successful anniversary year
 permalink: /en/2017-12-28-mulled-wine-eve.html
 
     

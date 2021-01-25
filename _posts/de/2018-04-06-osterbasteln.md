@@ -1,7 +1,7 @@
 ---
 title: Osterbasteln
 layout: post
-description: schöne Osterkreationen
+description: angesagte Osterküken und andere lustige Osterkreationen
 permalink: /de/2018-04-06-osterbasteln.html
 
     
@@ -23,6 +23,6 @@ images:
 
 {% include links.md %}
 
-Wir haben die Osteranimation bei Veld & Duin diesen morgen kreativ abgeschlossen mit einem tollen Bastelaktivität!
+Ein Morgen des Bastelns am Thema Ostern brachte sehr schöne Ergebnisse.
 
 

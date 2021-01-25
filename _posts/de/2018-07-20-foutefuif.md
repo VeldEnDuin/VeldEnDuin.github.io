@@ -1,7 +1,7 @@
 ---
 title: Voll-Daneben Fest
 layout: post
-description: Sommeranimation
+description: falsche Kleidung und falsche Musik an einem tollen Tanzabend
 permalink: /de/2018-07-20-volldanebenfest.html
 
     
@@ -21,6 +21,6 @@ images:
 
 {% include links.md %}
 
-Vielen Dank an allen Anwesenden auf unserem "foute fuif", es war wirklich phänomenal!
+Die verrückten schlechten Klamotten und die gleiche Musik haben eine großartige Atmosphäre geschaffen, in der niemand still sitzen konnte.
 
 

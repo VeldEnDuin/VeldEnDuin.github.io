@@ -1,7 +1,7 @@
 ---
 title: Geführte Tour
 layout: post
-description: Sommeranimation
+description: faszinierende Geschichten im Naturschutzgebiet D'Heye
 permalink: /de/2017-08-25-gefuhrtetour.html
 
     
@@ -19,7 +19,7 @@ images:
 
 {% include links.md %}
 
-Die letzte Sommeranimation ist auch wieder vorbei. Es war eine sehr informative gehührte Tour durch Naturschutzgebiet D’Heye. 
+Das Naturschutzgebiet D'Heye in Bredene kann nur mit einem Naturführer besichtigt werden. Eine großartige Entdeckung für alle Naturliebhaber.
 
 
 

@@ -1,7 +1,7 @@
 ---
-title: Anniversary Book 
+title: book 50 years Veld & Duin
 layout: post
-description: 50 years Veld & Duin in book form
+description: all stories and images about 50 years camping
 permalink: /en/2018-09-01-anniversary-book.html
 
     

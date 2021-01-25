@@ -1,7 +1,7 @@
 ---
 title: Soiree n'importe quoi
 layout: post
-description: animation d'été
+description: mauvais vêtements et mauvaise musique lors d'une bonne soirée dansante
 permalink: /fr/2018-07-20-soireenimportequoi.html
 
     
@@ -21,5 +21,5 @@ images:
 
 {% include links.md %}
 
-Merci à toutes les participants de notre "foute fuif" pour créer une soirée magnifique!
+Les mauvais vêtements fous et la musique idem ont créé une super atmosphère où personne ne pouvait rester assis.
 

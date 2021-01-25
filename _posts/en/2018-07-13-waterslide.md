@@ -1,7 +1,7 @@
 ---
 title: Waterslide
 layout: post
-description: summer animation
+description: the water topper of the year
 permalink: /en/2018-07-13-waterslide.html
 
     
@@ -19,5 +19,5 @@ images:
 
 {% include links.md %}
 
-The water slide was again a success this year!
+Good weather, a slide and lots of water turn out to be a success story every year
 

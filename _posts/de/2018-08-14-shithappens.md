@@ -1,7 +1,7 @@
 ---
 title: Shit Happens
 layout: post
-description: Sommeranimation
+description: verrückte Situationen in und um die Toilette
 permalink: /de/2018-08-14-shithappens.html
 
     

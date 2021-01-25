@@ -1,7 +1,7 @@
 ---
-title: Augustijn
+title: Video Clip Augustijn
 layout: post
-description: GVD Joat
+description: recording video clip of the CD "GVD Joat" on Veld & Duin
 permalink: /en/2019-07-07-augustijn.html
 
     

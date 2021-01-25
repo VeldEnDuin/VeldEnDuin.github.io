@@ -1,7 +1,7 @@
 ---
 title: Wasserrutsche
 layout: post
-description: Sommeranimation 2019
+description: Wasserspaß garantiert mit unserer Wasserrutsche
 permalink: /de/2019-07-26-wasserrutsche.html
 
     
@@ -15,4 +15,4 @@ images:
 
 {% include links.md %}
 
-Erfrischung auf Veld & Duin mit der Wasserrutsche!
+Das Wasser war an diesem heißen Tag wunderbar erfrischend.

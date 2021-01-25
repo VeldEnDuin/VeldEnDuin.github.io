@@ -1,7 +1,7 @@
 ---
 title: Pique-nique géant
 layout: post
-description: animations d'été
+description: savourez un délicieux dîner buffet ensemble
 permalink: /fr/2017-07-08-pique-nique-géant.html
 
     
@@ -22,9 +22,7 @@ images:
 
 {% include links.md %}
 
-Le pique-nique géant était super hier! Un grand merci à tous les participants pour les délicatesses et merci à Floris de Cirque Magique pour le spectacle de magie!
-
-Vous trouvez tous les photos dans nos [archives photo][pics.fr]
+Tous les participants ont apporté des friandises faites maison à partager les uns avec les autres, ce qui a donné un délicieux buffet. Floris du Cirque Magique a créé un enthousiasme supplémentaire à table avec ses tours de magie.
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: Harvest fest
 layout: post
-description: summer animation
+description: top vibe on the waffle tray and harvest festival
 permalink: /en/2017-08-15-harvestfest.html
 
     
@@ -23,7 +23,4 @@ images:
 {% include links.md %}
 
 We had a big cosy crowd at our harvest fest. With the waffles we collected € 430 for our 2 good causes! Many thanks!
-
-All photos can be found in our [photo archive][pics.en] 
-
 
