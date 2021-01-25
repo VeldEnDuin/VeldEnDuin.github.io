@@ -1,7 +1,7 @@
 ---
 title: MDUE ON THE MOVE
 layout: post
-description: vaste ijsjes-stop op de camping tijdens de zomer
+description: vaste ijsjes-stop bij Veld & Duin
 permalink: /nl/2020-06-29-mdueonthemove.html
     
 images: 

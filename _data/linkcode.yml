@@ -373,6 +373,11 @@ fotos:
 
 
 # [7] links pdf
+pdf_zeewacht:
+    nl: /nl/pdf/zeewacht.pdf
+    fr: /fr/pdf/zeewacht.pdf
+    de: /de/pdf/zeewacht.pdf
+    en: /en/pdf/zeewacht.pdf
 pdf_mvo:
     nl: /nl/pdf/mvo-rapport.pdf
     fr: /fr/pdf/mvo-rapport.pdf
