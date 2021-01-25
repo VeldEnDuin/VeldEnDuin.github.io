@@ -32,4 +32,4 @@ Our sauna room consists of:
 - a shower
 - wellness products (salt scrub and body lotion)
 
-**Private hire**: € 30 for 2 hours.
+Private hire: € 30 for 2 hours.

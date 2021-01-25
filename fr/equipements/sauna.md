@@ -32,4 +32,4 @@ Notre espace sauna compte:
 - une douche
 - des produits bien-être (gommage au sel et lotion pour le corps)
 
-**Tarif de location du sauna**: € 30 pour 2 heures.
+Tarif de location du sauna: € 30 pour 2 heures.

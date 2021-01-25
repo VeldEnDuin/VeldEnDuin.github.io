@@ -22,9 +22,9 @@ remove:
 
 {% include links.md %}
 
-Verwen uw lichaam na een lange strandwandeling of uitputtende koopjesjacht met een weldadige sauna. 
+Verwen je lichaam na een lange strandwandeling of uitputtende koopjesjacht met een weldadige sauna. 
 
-In onze saunaruimte vindt u:
+In onze saunaruimte vind je:
 
 - een sauna voor max 4 personen
 - 4 relaxzetels
@@ -32,4 +32,4 @@ In onze saunaruimte vindt u:
 - douche
 - wellnessprodukten (scrubzout en bodylotion)
 
-**Prijs afhuren sauna**: € 30 voor 2 uur.
+Prijs afhuren sauna: € 30 voor 2 uur.
