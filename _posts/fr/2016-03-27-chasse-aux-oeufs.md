@@ -18,7 +18,7 @@ images:
 
 La chasse aux oeufs annuelle chez Veld & Duin était de nouveau un succès! Cette année c'était le team jaune qui a collecté la plupart des oeufs. Un grand merci à tous les enfant et leurs parents pour en faire avec nous une matinée très amusante! 
 
-Vous trouvez tous les photos de la chasse aux oeufs dans nos [archives photo][pics.fr]
+
 
 
 

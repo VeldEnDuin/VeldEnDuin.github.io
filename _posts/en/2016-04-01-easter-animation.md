@@ -19,7 +19,5 @@ images:
 
 The kids have shown their creativity in crafting and under guidance of our animators they made delicious cakes that were enjoyed during one of the many games. 
 
-All photos of the easter animation can be found in our [photo archive][pics.en] 
-
 
 

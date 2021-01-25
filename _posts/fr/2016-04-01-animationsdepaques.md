@@ -19,7 +19,6 @@ images:
 
 Les enfants ont montré leur créativité en bricolant et sous la direction de nos animateurs ils ont fait des gâteaux délicieux qu'ils ont savouré pendant les jeux de société. 
 
-Vous trouvez tous les photos de la chasse aux oeufs dans nos [archives photo][pics.fr]
 
 
 
