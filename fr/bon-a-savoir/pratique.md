@@ -1,5 +1,5 @@
 ---
-title: Info Pratique
+title: Pratique
 layout: page
 
 images:
