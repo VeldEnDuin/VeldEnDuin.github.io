@@ -26,5 +26,5 @@ class:
 
 ## Willkommen!
 
-Als Familienunternehmen garantiert **Veld & Duin** bereits seit Jahren einen gastfreundlichen Empfang auf unserem grünen, gepflegten und modernen Campingplatz.
-Wir haben das ganze Jahr über geöffnet, sodass Sie in jeder Saison einen erholsamen Aufenthalt genießen können.
+Als Familienunternehmen garantiert Veld & Duin seit mehr als 50 Jahren einen gastfreundlichen Empfang auf unserem grünen, gepflegten und modernen Campingplatz, nur wenige Gehminuten vom Meer entfernt.
+Bredene weiß, wie man jeden Naturliebhaber mit seinem wunderschönen Dünengürtel bezaubert und ist der ideale Ausgangspunkt für Ausflüge in andere Küstenstädte, Brügge und das umliegende Polder.

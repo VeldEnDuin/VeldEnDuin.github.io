@@ -26,5 +26,5 @@ class:
 
 ## Welcome!
 
-Veld & Duin is a family run business and stands for a warm and personalized welcome on our green and comtemporary campsite.
-We are open all year.
+As a family business, Veld & Duin has guaranteed a hospitable welcome for more than 50 years at our green, well-kept and contemporary campsite within walking distance of the sea.
+Bredene knows how to charm every nature lover with its beautiful dune belt and is the ideal base for trips to other coastal towns, Bruges and the surrounding polder.
