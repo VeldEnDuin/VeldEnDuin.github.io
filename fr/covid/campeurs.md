@@ -8,9 +8,16 @@ remove:
 
 {% include links.md %}
 
+## SI ON DOIT ANNULER A CAUSE DU COVID-19
+
+* Si votre séjour ne peut pas continuer car le camping est toujours obligatoirement fermé, vous pouvez conserver le montant déjà payé pour une nouvelle réservation (durée de validité: 1 an).
+* En cas d'infection de vous-même ou des membres de votre famille, vous devez bien entendu rester à la maison. Ensuite, les mêmes règles s'appliquent que pour la fermeture obligatoire du camping.
+
+<!--
 ## PUBLIC HEALTH PASSENGER LOCATOR FORM
 
 Depuis le 1er août 2020, nos clients étrangers doivent s'inscrire 48 heures avant leur arrivée en Belgique via le [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/fr/public-health-passenger-locator-form). Veuillez organiser cela avant votre arrivée.
+-->
 
 ## CHECK-IN ET CHECK-OUT
 
@@ -33,12 +40,5 @@ Veuillez nous contacter quand votre emplacement est libéré.
 
 ## DIRECTIVES SANITAIRE ET STATION-SERVICE
 
-* Les facilités sanitaires seront ouvert de nouveau à partir de 25/06.
-
-* Nous demandons à chacun avec son propre sanitaire de l’utiliser au maximum.
-
-* Le bloc sanitaire et le station-service sont nettoyés régulièrement et les points de contact sont désinfectés.
-
-* Nettoyez le station-service après vider votre toilette chimique. L’utilisation de gants est recommandé.
-
-* Lavez-vous les mains avant et après d’utiliser le station-service ou le bloc sanitaire.
+* Les sanitaires communaux sont fermés jusqu'au 1er mars.
+* Seuls les campeurs disposant de leurs propres sanitaires peuvent séjourner.

@@ -8,9 +8,16 @@ remove:
 
 {% include links.md %}
 
+## WAS IST, WENN AUFGRUND VON COVID-19 STORNIERT WERDEN MUSS
+
+* Wenn Ihr Aufenthalt nicht fortgesetzt werden kann, weil der Campingplatz immer noch geschlossen ist, können Sie den bereits bezahlten Betrag für eine neue Reservierung behalten (Gültigkeitsdauer: 1 Jahr).
+* Im Falle einer Infektion von sich selbst oder Ihren Familienmitgliedern müssen Sie natürlich zu Hause bleiben. Dann gelten die gleichen Regeln wie für die obligatorische Schließung des Campingplatzes.
+
+<!--
 ## PUBLIC HEALTH PASSENGER LOCATOR FORM
 
 Seit dem 1. August 2020 müssen sich unsere ausländischen Gäste 48 Stunden vor ihrer Ankunft in Belgien über das sogenannte [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/de/public-health-passenger-locator-form) anmelden. Bitte machen Sie dies vor Ihrer Ankunft.
+-->
 
 ## CHECK-IN UND CHECK-OUT
 
@@ -36,14 +43,5 @@ Bitte rufen Sie uns an wenn der Platz frei ist.
 
 ## RICHTLINIEN SANITÄR UND SERVICESTATION
 
-* Die Sanitäranlagen sind wieder geöffnet ab 25/06. 
-
-* Alle Gäste mit eigenem Sanitär bitten wir um dieses vorzugsweise zu verwenden.
-
-* Das Sanitär und Servicestation werden regelmäßig sauber gemacht und alle Kontaktstellen
-werden desinfiziert.
-
-* Bitte reinigen Sie das Servicestation nach Entleeren der chemischen Toilette.
-Die Anwendung von Handschuhe wird empfohlen.
-
-* Die Hände gründlich waschen vor und nach Gebrauch des Sanitärs oder Servicestations.
+* Die kommunalen Sanitäranlagen sind bis zum 1. März geschlossen.
+* Nur Camper mit eigenen sanitären Einrichtungen können bleiben.

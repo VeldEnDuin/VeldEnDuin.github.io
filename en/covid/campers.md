@@ -9,9 +9,16 @@ remove:
 {% include links.md %}
 
 
+## WHAT IF YOU NEED TO CANCEL DUE TO COVID-19
+
+* If your stay cannot continue because the campsite is still compulsorily closed, you can keep the amount already paid for a new reservation (validity period: 1 year).
+* In case of infection of yourself or your family members, you must of course stay at home. Then the same rules apply as for mandatory closure of the campsite.
+
+<!--
 ## PUBLIC HEALTH PASSENGER LOCATOR FORM
 
 Since 1 August 2020, our foreign guests must register 48 hours before arrival in Belgium via the so-called [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/public-health-passenger-locator-form). Please arrange this before your arrival.
+-->
 
 ## CHECK-IN AND CHECK-OUT
 
@@ -37,14 +44,5 @@ Please give us a call to let us know the pitch is free again.
 
 ## GUIDELINES SANITARY BLOCK AND SERVICE STATION
 
-* The sanitary facilities will be opened again from 25/06. 
-
-* We ask everyone with their own sanitary facilities to use these as much as possible.
-
-* The sanitary block and service station are cleaned thoroughly and regularly
-and all contact points are disinfected.
-
-* Clean the service station after emptying your chemical toilet. The use of gloves is advised.
-
-* Wash your hands thoroughly before and after each use of the sanitary facilities
-and service station.
+* The communal sanitary facilities are closed until March 1st.
+* Only campers with their own sanitary facilities can stay.
