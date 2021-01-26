@@ -3,7 +3,15 @@ title: Qualität
 description: wir haben das Westtoer Q-Label bereits viermal hintereinander erhalten
 layout: page
 images: 
-    - /img/labels/qlab-01.png
+    - /img/hierstaanwevoor/kwaliteit/kwaliteit-01.jpg
+    - /img/hierstaanwevoor/kwaliteit/kwaliteit-02.jpg
+    - /img/hierstaanwevoor/kwaliteit/kwaliteit-03.jpg
+    - /img/hierstaanwevoor/kwaliteit/kwaliteit-04.jpg
+    - /img/hierstaanwevoor/kwaliteit/kwaliteit-05.jpg
+    - /img/hierstaanwevoor/kwaliteit/kwaliteit-06.jpg
+    - /img/hierstaanwevoor/kwaliteit/kwaliteit-07.jpg
+    - /img/hierstaanwevoor/kwaliteit/kwaliteit-08.jpg
+    - /img/hierstaanwevoor/kwaliteit/kwaliteit-09.jpg
 
 insert:
     - page-images-top
