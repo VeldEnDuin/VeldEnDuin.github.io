@@ -26,7 +26,6 @@ images:
     - /img/overnachten/verhuring-C2-caravan/c2c-08.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-09.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-10.jpg
-    - /img/overnachten/verhuring-C2-caravan/c2c-11.jpg
     
     
 insert:
@@ -51,6 +50,7 @@ Unser charmantes kleines Haus mit privatem Garten ist ideal für Menschen, die s
     
 ## Gut zu wissen
 
+- Caravan vorgesehen für max. 2 Personen
 - Check-in: ab 14 Uhr - Check-out: bis 10 Uhr
 - Ein kleiner Hund ist zulässig. Bitte beachten Sie jedoch, dass der Wohnraum nicht groß ist
 - Vermietung das ganze Jahr über außer vom 15. November bis 1. März

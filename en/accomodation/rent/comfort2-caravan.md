@@ -26,7 +26,6 @@ images:
     - /img/overnachten/verhuring-C2-caravan/c2c-08.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-09.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-10.jpg
-    - /img/overnachten/verhuring-C2-caravan/c2c-11.jpg
     
     
 insert:
@@ -51,6 +50,7 @@ Our charming tiny house with private garden is suitable for those who love being
     
 ## Worth knowing
 
+- caravan for max. 2 people
 - check-in: from 2 pm - check-out: until 10 am
 - a small pet is allowed but keep in mind that the space is limited
 - rental all year round except from 15 November to 1 March

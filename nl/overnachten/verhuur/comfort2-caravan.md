@@ -26,7 +26,6 @@ images:
     - /img/overnachten/verhuring-C2-caravan/c2c-08.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-09.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-10.jpg
-    - /img/overnachten/verhuring-C2-caravan/c2c-11.jpg
     
     
     
@@ -50,6 +49,7 @@ Ons charmante tiny house met privé-tuintje is ideaal voor wie houdt van het bui
 - privé-tuintje met tuinmeubilair
     
 ## Goed om weten
+- caravan voorzien voor max. 2 personen
 - check-in: vanaf 14u - check-out: tot 10u 
 - kleine hond toegelaten maar houd er rekening mee dat de woonruimte beperkt is
 - verhuur het hele jaar behalve van 15 november tot 1 maart
