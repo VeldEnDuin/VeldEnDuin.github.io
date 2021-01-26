@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Playground
+description: attraction for children with the air trampoline and play equipment
 picto: /img/svg/voorzieningen/speelplein.svg
 
 images:

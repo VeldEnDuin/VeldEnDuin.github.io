@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Type 4
+description: extra spacious plots located around a wadi
 preview: 
     title: Type 4
     button:

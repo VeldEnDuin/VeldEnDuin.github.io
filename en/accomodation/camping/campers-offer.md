@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Campers’ offer 
+description: special prices for long stays
 preview: 
     title: Campers’ offer
     button:

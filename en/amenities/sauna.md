@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sauna
+description: relax in our sauna with plunge bath
 picto: /img/svg/voorzieningen/sauna.svg
 
 images:

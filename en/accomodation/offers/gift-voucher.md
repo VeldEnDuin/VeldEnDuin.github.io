@@ -1,6 +1,7 @@
 ---
 layout: page
 title: gift voucher
+description: surprise your loved ones with a gift certificate from Veld & Duin
 preview: 
     title: gift voucher
     button:

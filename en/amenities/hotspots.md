@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hotspots
+description: the top spots of Veld & Duin
 picto:  /img/svg/voorzieningen/hotspots.svg
 
 images:

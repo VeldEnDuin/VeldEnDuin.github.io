@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tent pitch
+description: choice between a tent pitch of 7x8 or 10x8
 preview: 
     title: Tent pitch
     button:

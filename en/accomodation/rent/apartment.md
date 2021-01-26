@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Apartment Comfort 4+
+description: comfortable apartment just next to the campsite
 preview: 
     title: Apartment Comfort 4+
     button:

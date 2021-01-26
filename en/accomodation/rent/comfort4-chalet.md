@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Chalet Comfort 4 
+description: comfortable 4-person chalet near the playground
 preview: 
     title: Chalet comfort 4 
     button:

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Type 1
+description: beautiful plots up to 80 m²
 preview: 
     title: Type 1
     button:

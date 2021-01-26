@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Chalet Comfort 2 
+description: well-equipped chalet for 1 to 2 people
 preview: 
     title: Chalet Comfort 2
     button:

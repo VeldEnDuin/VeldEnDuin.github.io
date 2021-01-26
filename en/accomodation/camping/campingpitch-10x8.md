@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Camping pitch 10x8
+description: choice between a paved pitch or grass pitch
 preview: 
     title: Camping pitch 10x8
     button:

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Camper pitch 10x8
+description: spacious and paved pitches for campers
 preview: 
     title: Camper pitch 10x8
     button:

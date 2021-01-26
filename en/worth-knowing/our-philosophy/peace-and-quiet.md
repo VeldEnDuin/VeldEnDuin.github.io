@@ -1,5 +1,6 @@
 ---
 title: Peace and quiet
+description: come here to escape the daily grind and recharge your batteries
 layout: page
 
 images:

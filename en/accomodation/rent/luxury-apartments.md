@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Luxury Apartment
+description: blissfully relax in these luxurious apartments
 preview: 
     title: Luxury Apartment
     button:

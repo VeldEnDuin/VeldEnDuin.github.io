@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Type 3
+description: plots where caravans can stand up to 12 meters
 preview: 
     title: Type 3
     button:

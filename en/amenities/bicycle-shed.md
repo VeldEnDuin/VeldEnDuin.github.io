@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bicycle shed
+description: rent a place in our covered bicycle shed
 picto: /img/svg/voorzieningen/fietsberging.svg
 
 images:

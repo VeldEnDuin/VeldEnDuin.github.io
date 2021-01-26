@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sanitary facilities
+description: our sanitary facilities at a glance
 picto: /img/svg/voorzieningen/sanitair.svg
 
 images:

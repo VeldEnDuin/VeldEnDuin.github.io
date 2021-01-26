@@ -1,5 +1,6 @@
 ---
 title: Hospitable
+description: we wish you a warm welcome to our family business
 layout: page
 
 images:

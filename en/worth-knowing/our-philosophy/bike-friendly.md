@@ -1,5 +1,6 @@
 ---
 title: Bike friendly
+description: Veld & Duin is the ideal base for beautiful cycling trips
 layout: page
 
 preview:

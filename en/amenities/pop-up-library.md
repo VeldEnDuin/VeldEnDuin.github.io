@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Pop-Up Bib
+title: Pop-Up Library
+description: come here to lend your book for free
 picto: /img/svg/voorzieningen/pop-up-bib.svg
 
 images:

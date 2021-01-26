@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Type 2
+description: spacious and renovated pitches
 preview: 
     title: Type 2
     button:

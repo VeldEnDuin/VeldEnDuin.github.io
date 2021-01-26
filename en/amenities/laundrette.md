@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Laundrette
+description: professional washing machines and dryer available
 picto: /img/svg/voorzieningen/wassalon.svg
 
 images:

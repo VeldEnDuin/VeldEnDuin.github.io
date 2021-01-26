@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Studio Comfort 2 
+description: residence with closed and south-facing terrace
 preview: 
     title: Studio Comfort 2
     button:

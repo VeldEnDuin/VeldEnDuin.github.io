@@ -1,5 +1,6 @@
 ---
 title: Green area
+description: a sustainable residence to keep your footprint as small as possible
 layout: page
 
 images:

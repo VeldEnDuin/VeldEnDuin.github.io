@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Entertainment
+description: a nice mix of activities for young and old
 picto: /img/svg/voorzieningen/animatie.svg
 
 images:

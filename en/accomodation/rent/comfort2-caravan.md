@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Caravan Comfort 2 
+description: tiny house with every comfort
 preview: 
     title: Caravan Comfort 2
     button:

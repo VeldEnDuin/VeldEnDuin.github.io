@@ -1,7 +1,7 @@
 ---
 layout: page
 title: own place by the sea
-description: 
+description: 1 spacious plot free
 
 preview:
     title: own place by the sea

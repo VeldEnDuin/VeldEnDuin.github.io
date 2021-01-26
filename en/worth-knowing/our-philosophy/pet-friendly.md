@@ -1,5 +1,6 @@
 ---
 title: Pet friendly
+description: dogs welcome on the campsite and the beach
 layout: page
 
 images:
