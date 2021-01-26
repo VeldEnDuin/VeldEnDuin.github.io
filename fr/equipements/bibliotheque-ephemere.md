@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bibliothèque pop-up
+description: venez ici pour prêter votre livre gratuitement
 picto: /img/svg/voorzieningen/pop-up-bib.svg
 
 images:

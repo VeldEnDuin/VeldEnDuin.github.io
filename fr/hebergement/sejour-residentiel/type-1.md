@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Type 1
+description: belles parcelles jusqu'à 80 m²
 preview: 
     title: Type 1
     button:

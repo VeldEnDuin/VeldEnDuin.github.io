@@ -1,5 +1,6 @@
 ---
 title: Acceuillant
+description: nous vous souhaitons la bienvenue dans notre entreprise familiale
 layout: page
 
 images:

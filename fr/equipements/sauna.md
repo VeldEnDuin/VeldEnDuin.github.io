@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sauna
+description: détendez-vous dans notre sauna avec bassin d'eau froide
 picto: /img/svg/voorzieningen/sauna.svg
 
 images:

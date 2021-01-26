@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Laverie automatique
+description: lave-linge et sèche-linge professionnels à disposition
 picto: /img/svg/voorzieningen/wassalon.svg
 
 images:

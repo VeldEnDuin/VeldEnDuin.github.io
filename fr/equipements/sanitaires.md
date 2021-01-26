@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sanitaires
+description: nos sanitaires en un coup d'œil
 picto: /img/svg/voorzieningen/sanitair.svg
 
 images:

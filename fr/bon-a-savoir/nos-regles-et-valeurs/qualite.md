@@ -1,5 +1,6 @@
 ---
 title: Qualité
+description: nous avons déjà obtenu le Q-abel de Westtoer 4 fois de suite
 layout: page
 images: 
     - /img/labels/qlab-01.png

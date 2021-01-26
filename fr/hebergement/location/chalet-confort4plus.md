@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Chalet Confort 4+
+description: beau chalet 4 personnes avec terrasse couverte
 preview: 
     title: Chalet confort 4+
     button:

@@ -1,5 +1,6 @@
 ---
 title: Cyclisme
+description: Veld & Duin est la base idéale pour de belles randonnées à vélo
 layout: page
 
 preview:

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Terrain de jeu
+description: attraction pour les enfants avec le trampoline à air et les équipements de jeux
 picto: /img/svg/voorzieningen/speelplein.svg
 
 images:

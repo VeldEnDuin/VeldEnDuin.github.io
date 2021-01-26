@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Chalet Confort 2 
+description: chalet bien équipé pour 1 à 2 personnes
 preview: 
     title: Chalet Confort 2
     button:
@@ -26,7 +27,6 @@ images:
     - /img/overnachten/verhuring-C2-chalet/c2ch-09.jpg
     - /img/overnachten/verhuring-C2-chalet/c2ch-10.jpg
     - /img/overnachten/verhuring-C2-chalet/c2ch-11.jpg
-    - /img/overnachten/verhuring-C2-chalet/c2ch-12.jpg
     
     
 insert:

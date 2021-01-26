@@ -1,7 +1,7 @@
 ---
 layout: page
 title: propre place par la mer
-description: 
+description: 1 grand emplacement libre
 
 preview:
     title: propre place par la mer

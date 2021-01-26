@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Appartement de luxe
+description: détendez-vous dans ces luxueux appartements
 preview: 
     title: Appartement de luxe
     button:

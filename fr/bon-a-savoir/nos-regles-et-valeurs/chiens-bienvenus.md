@@ -1,5 +1,6 @@
 ---
 title: Chiens bienvenus
+description: chiens bienvenus sur le camping et sur la plage
 layout: page
 
 images:

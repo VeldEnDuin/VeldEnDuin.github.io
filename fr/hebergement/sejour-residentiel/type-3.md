@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Type 3
+description: parcelles où les caravanes peuvent tenir jusqu'à 12 mètres
 preview: 
     title: Type 3
     button:

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Chalet Confort 4 
+description: confortable chalet 4 personnes à proximité de l'aire de jeux
 preview: 
     title: Chalet confort 4 
     button:

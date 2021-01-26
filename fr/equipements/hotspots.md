@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Points d'intérêt
+description: les meilleurs spots de Veld & Duin
 picto:  /img/svg/voorzieningen/hotspots.svg
 
 images:

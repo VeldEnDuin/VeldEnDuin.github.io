@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Animations
+description: un joli mélange d'activités pour petits et grands
 picto: /img/svg/voorzieningen/animatie.svg
 
 images:

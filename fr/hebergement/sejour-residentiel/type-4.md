@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Type 4
+description: parcelles très spacieuses situées autour d'une pièce d'eau
 preview: 
     title: Type 4
     button:

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Studio Confort 2 
+description: résidence avec terrasse fermée et exposée sud
 preview: 
     title: Studio Confort 2
     button:

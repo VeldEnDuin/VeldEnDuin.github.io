@@ -1,5 +1,6 @@
 ---
 title: Respect de la nature
+description: une résidence durable pour garder votre empreinte aussi petite que possible
 layout: page
 
 images:

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Chèque-cadeau
+description: surprenez vos proches avec un chèque-cadeau de Veld & Duin
 preview: 
     title: Chèque-cadeau
     button:

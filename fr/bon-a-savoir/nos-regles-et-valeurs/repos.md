@@ -1,5 +1,6 @@
 ---
 title: Repos
+description: venez ici pour échapper au quotidien et recharger vos batteries
 layout: page
 
 images:

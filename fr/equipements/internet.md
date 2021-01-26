@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Internet
+description: informez vos proches de votre séjour à Veld & Duin
 picto: /img/svg/voorzieningen/internet.svg
 
 images:

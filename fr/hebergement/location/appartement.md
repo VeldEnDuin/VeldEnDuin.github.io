@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Appartement Confort 4+
+description: appartement confortable juste à côté du camping
 preview: 
     title: Appartement Confort 4+
     button:

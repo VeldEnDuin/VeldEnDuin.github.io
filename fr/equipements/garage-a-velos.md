@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Garage à vélos
+description: louez une place dans notre garage à vélos couvert
 picto: /img/svg/voorzieningen/fietsberging.svg
 
 images:

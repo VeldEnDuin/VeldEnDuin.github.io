@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Forfait Camping 
+description: prix spéciaux pour les longs séjours
 preview: 
     title: Forfait Camping
     button:

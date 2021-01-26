@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Caravane Confort 2 
+description: petite maison avec tout le confort
 preview: 
     title: Caravane Confort 2
     button:

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Emplacement Tente
+description: choix entre un emplacement tente de 7x8 ou 10x8
 preview: 
     title: Emplacement Tente
     button:

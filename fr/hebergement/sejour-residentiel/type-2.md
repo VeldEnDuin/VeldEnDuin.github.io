@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Type 2
+description: emplacements spacieux et rénovés
 preview: 
     title: Type 2
     button:
