@@ -1,7 +1,7 @@
 ---
 layout: page
 title: eigener Platz am Meer
-description: 
+description: 1 geräumige Parzelle frei
 
 preview:
     title: eigener Platz am Meer

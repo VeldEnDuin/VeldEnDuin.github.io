@@ -1,5 +1,6 @@
 ---
 title: Grün
+description: eine nachhaltige Aufenthalt, um Ihren Fußabdruck so klein wie möglich zu halten
 layout: page
 
 images:

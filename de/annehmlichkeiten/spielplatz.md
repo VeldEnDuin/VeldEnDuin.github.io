@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Spielplatz
+description: Attraktion für Kinder mit Lufttrampolin und Spielgeräten
 picto: /img/svg/voorzieningen/speelplein.svg
 
 images:

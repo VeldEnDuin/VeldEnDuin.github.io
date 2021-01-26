@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Zeltplatz
+description: Wahl zwischen einem Zeltplatz von 7x8 oder 10x8
 preview: 
     title: Zeltplatz
     button:

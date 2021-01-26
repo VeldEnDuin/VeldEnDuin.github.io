@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Internet
+description: halten Sie Ihre Lieben über Ihren Aufenthalt bei Veld & Duin auf dem Laufenden
 picto: /img/svg/voorzieningen/internet.svg
 
 images:

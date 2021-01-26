@@ -1,5 +1,6 @@
 ---
 title: Hundefreundlich
+description: Hunde sind auf dem Campingplatz und am Strand willkommen
 layout: page
 
 images:

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Typ 3
+description: Parzellen, auf denen Wohnwagen bis zu 12 Meter stehen können
 preview: 
     title: Typ 3
     button:

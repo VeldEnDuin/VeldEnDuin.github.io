@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Typ 1
+description: schöne Grundstücke bis 80 m²
 preview: 
     title: Typ 1
     button:

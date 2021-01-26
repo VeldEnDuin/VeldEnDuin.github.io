@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Geschenkgutschein
+description: überraschen Sie Ihre Lieben mit einem Geschenkgutschein von Veld & Duin
 preview: 
     title: Geschenkgutschein
     button:

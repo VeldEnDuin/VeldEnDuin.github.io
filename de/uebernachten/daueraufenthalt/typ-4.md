@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Typ 4
+description: besonders geräumige Parzellen rund um ein Wadi
 preview: 
     title: Typ 4
     button:

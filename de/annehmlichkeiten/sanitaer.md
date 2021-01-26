@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sanitäranlagen
+description: unsere Sanitäranlagen auf einen Blick
 picto: /img/svg/voorzieningen/sanitair.svg
 
 images:

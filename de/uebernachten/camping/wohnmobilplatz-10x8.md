@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Wohnmobilplatz 10x8
+description: geräumige und gepflasterte Stellplätze für Camper
 preview: 
     title: Wohnmobilplatz 10x8
     button:

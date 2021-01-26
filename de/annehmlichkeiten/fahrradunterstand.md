@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fahrradunterstand
+description: mieten Sie einen Platz in unserem überdachten Fahrradunterstand
 picto: /img/svg/voorzieningen/fietsberging.svg
 
 images:

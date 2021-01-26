@@ -1,5 +1,6 @@
 ---
 title: Fahrradfreundlich
+description: Veld & Duin ist der ideale Ausgangspunkt für schöne Radtouren
 layout: page
 
 preview:

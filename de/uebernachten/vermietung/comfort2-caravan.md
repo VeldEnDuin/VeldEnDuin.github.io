@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Caravan Comfort 2 
+description: kleines Haus mit allem Komfort
 preview: 
     title: Caravan Comfort 2
     button:

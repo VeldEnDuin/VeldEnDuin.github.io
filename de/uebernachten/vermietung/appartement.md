@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Appartement Comfort 4+
+description: komfortable Wohnung direkt neben dem Campingplatz
 preview: 
     title: Appartement Comfort 4+
     button:

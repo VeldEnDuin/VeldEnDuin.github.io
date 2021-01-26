@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Animation
+description: eine schöne Mischung aus Aktivitäten für Jung und Alt
 picto: /img/svg/voorzieningen/animatie.svg
 
 images:

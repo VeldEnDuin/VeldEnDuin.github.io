@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Campingarrangement 
+description: Sonderpreise für längere Aufenthalte
 preview: 
     title: Campingarrangement 
     button:

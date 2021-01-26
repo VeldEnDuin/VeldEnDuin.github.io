@@ -1,5 +1,6 @@
 ---
 title: Ruhe
+description: komm hierher, um dem Alltag zu entfliehen und deine Batterien wieder aufzuladen
 layout: page
 
 images:

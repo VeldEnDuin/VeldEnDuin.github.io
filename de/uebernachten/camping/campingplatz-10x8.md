@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Campingplatz 10x8
+description: Wahl zwischen verhartetem Platz oder Rasenplatz
 preview: 
     title: Campingplatz 10x8
     button:

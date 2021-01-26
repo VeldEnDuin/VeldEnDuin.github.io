@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Waschsalon
+description: professionelle Waschmaschinen und Trockner vorhanden
 picto: /img/svg/voorzieningen/wassalon.svg
 
 images:

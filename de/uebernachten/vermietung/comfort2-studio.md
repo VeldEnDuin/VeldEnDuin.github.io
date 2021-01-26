@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Studio Comfort 2 
+description: Residenz mit geschlossener und nach Süden ausgerichteter Terrasse
 preview: 
     title: Studio Comfort 2
     button:

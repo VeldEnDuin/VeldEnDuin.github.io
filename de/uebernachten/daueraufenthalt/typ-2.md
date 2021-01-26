@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Typ 2
+description: geräumige und renovierte Stellplätze
 preview: 
     title: Typ 2
     button:

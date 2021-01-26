@@ -1,5 +1,6 @@
 ---
 title: Gastfreundlich
+description: wir wünschen Ihnen ein herzliches Willkommen in unserem Familienunternehmen
 layout: page
 
 images:

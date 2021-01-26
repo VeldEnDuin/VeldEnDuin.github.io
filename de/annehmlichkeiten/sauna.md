@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sauna
+description: entspannen Sie in unserer Sauna mit Tauchbad
 picto: /img/svg/voorzieningen/sauna.svg
 
 images:

@@ -1,5 +1,6 @@
 ---
 title: Qualität
+description: wir haben das Westtoer Q-Label bereits viermal hintereinander erhalten
 layout: page
 images: 
     - /img/labels/qlab-01.png

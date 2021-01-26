@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Chalet Comfort 4 
+description: komfortables 4-Personen-Chalet in der Nähe des Spielplatzes
 preview: 
     title: Chalet comfort 4 
     button:

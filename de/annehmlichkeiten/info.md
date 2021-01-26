@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Touristische Informationen
+description: gerne teilen wir Ihnen alle Tipps zu Bredene und Umgebung mit
 picto: /img/svg/voorzieningen/info.svg
 
 images:
