@@ -1,5 +1,6 @@
 ---
 title: Hondvriendelijk
+description: honden welkom op de camping en het strand
 layout: page
 
 images:

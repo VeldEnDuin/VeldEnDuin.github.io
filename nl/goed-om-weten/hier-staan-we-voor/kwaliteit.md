@@ -1,5 +1,6 @@
 ---
 title: Kwaliteit
+description: we behaalden reeds 4x op rij het Q-label van Westtoer
 layout: page
 images: 
     - /img/labels/qlab-01.png

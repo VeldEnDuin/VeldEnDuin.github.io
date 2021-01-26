@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Chalet Comfort 4 
+description: comfortabele 4-persoonschalet in de buurt van het speelplein
 preview: 
     title: Chalet comfort 4 
     button:

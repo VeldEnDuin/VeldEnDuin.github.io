@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Speelplein
+description: trekpleister voor kinderen met de airtrampoline en speeltoestel
 picto: /img/svg/voorzieningen/speelplein.svg
 
 images:

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Type 1
+description: mooie percelen tot 80 m²
 preview: 
     title: Type 1
     button:

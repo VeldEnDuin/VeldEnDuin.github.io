@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Type 3
+description: percelen waar caravans tot 12 meter kunnen staan
 preview: 
     title: Type 3
     button:

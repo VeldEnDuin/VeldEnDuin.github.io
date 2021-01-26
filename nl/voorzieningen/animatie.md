@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Animatie
+description: een fijne mix aan activiteiten voor groot en klein
 picto: /img/svg/voorzieningen/animatie.svg
 
 images:

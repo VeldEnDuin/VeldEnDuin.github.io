@@ -1,5 +1,6 @@
 ---
 title: Rust
+description: kom hier ontsnappen aan de dagelijkse sleur en je batterijen opladen
 layout: page
 
 images:

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Kampeerplaats 10x8
+description: keuze tussen een verharde plaats of grasplaats
 preview: 
     title: Kampeerplaats 10x8
     button:

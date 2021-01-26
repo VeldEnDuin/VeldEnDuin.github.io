@@ -1,7 +1,7 @@
 ---
 layout: page
 title: eigen stekje aan zee
-description: 
+description: nog 1 ruim perceel vrij
 
 preview:
     title: eigen stekje aan zee

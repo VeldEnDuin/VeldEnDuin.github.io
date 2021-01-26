@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Type 4
+description: extra ruime percelen gelegen rond een wadi
 preview: 
     title: Type 4
     button:

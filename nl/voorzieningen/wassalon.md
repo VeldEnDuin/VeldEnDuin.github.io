@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Wassalon
+description: professionele wasmachines en droogkast ter beschikking
 picto: /img/svg/voorzieningen/wassalon.svg
 
 images:

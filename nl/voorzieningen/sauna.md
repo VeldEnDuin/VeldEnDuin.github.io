@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sauna
+description: heerlijk ontspannen in onze sauna met dompelton
 picto: /img/svg/voorzieningen/sauna.svg
 
 images:

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tentplaats
+description: keuze tussen tentplaats van 7x8 of 10x8
 preview: 
     title: Tentplaats
     button:

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Studio Comfort 2 
+description: verblijf met afgesloten en zuidgericht terras
 preview: 
     title: Studio Comfort 2
     button:

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: kadobon
+description: verras je geliefden met een kadobon van Veld & Duin 
 preview: 
     title: kadobon
     button:

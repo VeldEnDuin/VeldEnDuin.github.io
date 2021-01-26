@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Kampeerarrangement 
+description: speciale prijzen voor lang verblijf
 preview: 
     title: Kampeerarrangement
     button:

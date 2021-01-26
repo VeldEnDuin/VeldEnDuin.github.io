@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Chalet Comfort 4+
+description: mooie 4-persoonschalet met overdekt terras
 preview: 
     title: Chalet comfort 4+
     button:

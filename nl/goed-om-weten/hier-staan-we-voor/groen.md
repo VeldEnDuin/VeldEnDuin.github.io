@@ -1,5 +1,6 @@
 ---
 title: Groen
+description: een duurzaam verblijf om je voetafdruk zo klein mogelijk te houden
 layout: page
 
 images:

@@ -1,5 +1,6 @@
 ---
 title: Fietsvriendelijk
+description: Veld & Duin is de ideale uitvalsbasis voor mooie fietstochten
 layout: page
 
 preview:

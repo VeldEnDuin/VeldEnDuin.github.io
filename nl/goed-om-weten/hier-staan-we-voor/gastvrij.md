@@ -1,5 +1,6 @@
 ---
 title: Gastvrij
+description: we heten je van harte welkom op ons familiebedrijf
 layout: page
 
 images:

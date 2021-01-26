@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Chalet Comfort 2 
+description: goed uitgeruste chalet  voor 1 tot 2 personen
 preview: 
     title: Chalet Comfort 2
     button:

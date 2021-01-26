@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Type 2
+description: ruime en vernieuwde plaatsen
 preview: 
     title: Type 2
     button:

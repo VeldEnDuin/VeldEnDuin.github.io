@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Pop-Up Bib
+description: kom hier gratis je boek uitlenen
 picto: /img/svg/voorzieningen/pop-up-bib.svg
 
 images:

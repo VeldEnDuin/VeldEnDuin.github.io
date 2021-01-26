@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Luxe Appartementen
+description: zalig ontspannen in deze luxueuze appartementen
 
 preview: 
     title: Luxe Appartement

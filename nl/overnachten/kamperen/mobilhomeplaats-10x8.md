@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mobilhomeplaats 10x8
+description: ruime en verharde percelen voor campers
 preview: 
     title: Mobilhomeplaats 10x8
     button:

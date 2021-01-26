@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hotspots
+description: de topplekjes van Veld & Duin
 picto: /img/svg/voorzieningen/hotspots.svg
 
 

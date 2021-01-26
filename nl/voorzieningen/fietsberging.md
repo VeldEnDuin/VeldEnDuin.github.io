@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fietsberging
+description: huur een plek in onze overdekte fietsberging
 picto: /img/svg/voorzieningen/fietsberging.svg
 
 images:
