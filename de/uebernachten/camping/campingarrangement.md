@@ -21,7 +21,6 @@ images:
     - /img/overnachten/trekkers-arr/kamparr-05.jpg
     - /img/overnachten/trekkers-arr/kamparr-06.jpg
     - /img/overnachten/trekkers-arr/kamparr-07.jpg
-    - /img/overnachten/trekkers-arr/kamparr-08.jpg
     
     
 insert:
