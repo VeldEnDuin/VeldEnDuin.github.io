@@ -5,14 +5,14 @@ description: an Easter message and a photo hunt with Easter eggs
 permalink: /en/2020-04-12-paasgroetjes.html
     
 images: 
-    - img/nieuws/20200412-paasgroetjes-01.jpg
-    - img/nieuws/20200412-paasgroetjes-02.jpg
-    - img/nieuws/20200412-paasgroetjes-03.jpg
-    - img/nieuws/20200412-paasgroetjes-04.jpg
-    - img/nieuws/20200412-paasgroetjes-05.jpg
-    - img/nieuws/20200412-paasgroetjes-06.jpg
-    - img/nieuws/20200412-paasgroetjes-07.jpg
-    - img/nieuws/20200412-paasgroetjes-08.jpg
+    - /img/nieuws/20200412-paasgroetjes-01.jpg
+    - /img/nieuws/20200412-paasgroetjes-02.jpg
+    - /img/nieuws/20200412-paasgroetjes-03.jpg
+    - /img/nieuws/20200412-paasgroetjes-04.jpg
+    - /img/nieuws/20200412-paasgroetjes-05.jpg
+    - /img/nieuws/20200412-paasgroetjes-06.jpg
+    - /img/nieuws/20200412-paasgroetjes-07.jpg 
+    - /img/nieuws/20200412-paasgroetjes-08.jpg
 
     
 ---

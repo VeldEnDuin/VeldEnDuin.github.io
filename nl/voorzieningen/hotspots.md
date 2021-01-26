@@ -14,6 +14,7 @@ images:
     - /img/voorzieningen/hotspots/hotspot-06.jpg
     - /img/voorzieningen/hotspots/hotspot-07.jpg
     - /img/voorzieningen/hotspots/hotspot-08.jpg
+    - /img/voorzieningen/hotspots/hotspot-09.jpg
     
 insert:
     - page-images-top
