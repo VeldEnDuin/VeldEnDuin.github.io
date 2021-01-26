@@ -1,10 +1,19 @@
 ---
-title: VISIT OF THE GUARDIAN
+title: ARTICLE IN THE GUARDIAN
 layout: post
 description: words of praise for Bredene and Veld & Duin
 permalink: /en/2020-07-18-theguardian.html
     
 images:   
+    - /img/nieuws/20200718-guardian-01.jpg
+    - /img/nieuws/20200718-guardian-02.jpg
+    - /img/nieuws/20200718-guardian-03.jpg
+    - /img/nieuws/20200718-guardian-04.jpg
+    - /img/nieuws/20200718-guardian-05.jpg
+    - /img/nieuws/20200718-guardian-06.jpg
+    - /img/nieuws/20200718-guardian-07.jpg
+    - /img/nieuws/20200718-guardian-08.jpg
+    - /img/nieuws/20200718-guardian-09.jpg
     
 ---
 

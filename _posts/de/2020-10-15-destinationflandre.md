@@ -5,6 +5,14 @@ description: Sehen Sie sich die Filme von Destination Flandre und La Grande Bala
 permalink: /de/2020-10-15-destinationflandre.html
     
 images:   
+    - /img/nieuws/20201015-nieuwswallonie-01.jpg
+    - /img/nieuws/20201015-nieuwswallonie-02.jpg
+    - /img/nieuws/20201015-nieuwswallonie-03.jpg
+    - /img/nieuws/20201015-nieuwswallonie-04.jpg
+    - /img/nieuws/20201015-nieuwswallonie-05.jpg
+    - /img/nieuws/20201015-nieuwswallonie-06.jpg
+    - /img/nieuws/20201015-nieuwswallonie-07.jpg
+    - /img/nieuws/20201015-nieuwswallonie-08.jpg
     
 ---
 

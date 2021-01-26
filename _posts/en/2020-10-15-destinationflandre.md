@@ -4,7 +4,15 @@ layout: post
 description: watch the films of Destination Flandre and La Grande Balade
 permalink: /en/2020-10-15-destinationflandre.html
     
-images:   
+images:  
+    - /img/nieuws/20201015-nieuwswallonie-01.jpg
+    - /img/nieuws/20201015-nieuwswallonie-02.jpg
+    - /img/nieuws/20201015-nieuwswallonie-03.jpg
+    - /img/nieuws/20201015-nieuwswallonie-04.jpg
+    - /img/nieuws/20201015-nieuwswallonie-05.jpg
+    - /img/nieuws/20201015-nieuwswallonie-06.jpg
+    - /img/nieuws/20201015-nieuwswallonie-07.jpg
+    - /img/nieuws/20201015-nieuwswallonie-08.jpg
     
 ---
 

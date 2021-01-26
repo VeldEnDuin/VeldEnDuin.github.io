@@ -5,6 +5,14 @@ description: with this song by our receptionist Sander we warmly welcome you aga
 permalink: /en/2020-06-03-welcomehomesong.html
     
 images: 
+    - /img/nieuws/20200603-welcomehome-01.jpg
+    - /img/nieuws/20200603-welcomehome-02.jpg
+    - /img/nieuws/20200603-welcomehome-03.jpg
+    - /img/nieuws/20200603-welcomehome-04.jpg
+    - /img/nieuws/20200603-welcomehome-05.jpg
+    - /img/nieuws/20200603-welcomehome-06.jpg
+    - /img/nieuws/20200603-welcomehome-07.jpg
+    - /img/nieuws/20200603-welcomehome-08.jpg
     
 ---
 

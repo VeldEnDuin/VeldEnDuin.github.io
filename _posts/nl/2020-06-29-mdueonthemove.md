@@ -7,6 +7,12 @@ permalink: /nl/2020-06-29-mdueonthemove.html
 images: 
     - /img/nieuws/20200629-mdue-01.jpg
     - /img/nieuws/20200629-mdue-02.jpg
+    - /img/nieuws/20200629-mdue-03.jpg
+    - /img/nieuws/20200629-mdue-04.jpg
+    - /img/nieuws/20200629-mdue-05.jpg
+    - /img/nieuws/20200629-mdue-06.jpg
+    - /img/nieuws/20200629-mdue-07.jpg
+    - /img/nieuws/20200629-mdue-08.jpg
     
 ---
 

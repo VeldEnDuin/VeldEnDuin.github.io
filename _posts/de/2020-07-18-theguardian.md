@@ -1,10 +1,20 @@
 ---
-title: BESUCH VOM GUARDIAN
+title: ARTIKEL IM GUARDIAN
 layout: post
 description: Lob für Bredene und Veld & Duin
 permalink: /de/2020-07-18-theguardian.html
     
 images:   
+    - /img/nieuws/20200718-guardian-01.jpg
+    - /img/nieuws/20200718-guardian-02.jpg
+    - /img/nieuws/20200718-guardian-03.jpg
+    - /img/nieuws/20200718-guardian-04.jpg
+    - /img/nieuws/20200718-guardian-05.jpg
+    - /img/nieuws/20200718-guardian-06.jpg
+    - /img/nieuws/20200718-guardian-07.jpg
+    - /img/nieuws/20200718-guardian-08.jpg
+    - /img/nieuws/20200718-guardian-09.jpg
+    
     
 ---
 
