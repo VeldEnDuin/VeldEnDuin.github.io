@@ -11,7 +11,7 @@ preview:
 
         
 images:
-    - /img/plan-3d-nieuwproject.jpg
+    - /img/eigenstekje.jpg
 
 insert:
     - page-images-top
