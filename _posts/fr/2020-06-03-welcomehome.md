@@ -12,7 +12,6 @@ images:
     - /img/nieuws/20200603-welcomehome-05.jpg
     - /img/nieuws/20200603-welcomehome-06.jpg
     - /img/nieuws/20200603-welcomehome-07.jpg
-    - /img/nieuws/20200603-welcomehome-08.jpg
     
 ---
 
