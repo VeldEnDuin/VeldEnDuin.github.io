@@ -17,13 +17,13 @@ if [[ "$1" == "help" || "$1" == "-h" || "$1" == "--help" ]]; then
 fi
 
 if [[ "$1" == "clean" ]]; then
-  (cd $DIR/.. && rm -rf ./_site) 
+  (cd $DIR/.. && rm -rf ./_site .jekyll-metadata) 
 fi
 
 flags="--incremental" #normal mode
 if [[ "$1" == "slow" ]]; then
-  flags=""  
+  flags="--watch"  
 fi
 
 echo "flags == ${flags}"
-(cd $DIR/.. && bundle exec jekyll serve --port 4444 -w ${flags})
+(cd $DIR/.. && bundle exec jekyll serve --port 4444 ${flags})
