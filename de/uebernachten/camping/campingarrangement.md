@@ -50,7 +50,7 @@ September - Oktober - November | € 400 / Monat
 
 ## Inbegriffen
 
-- Gemeinde- und Aufenthaltssteuern
+- Gemeinde- und Aufenthaltssteuern (ausgenommen für 1/1 - 31/8 und 1/4 - 31/8)
 - Parkplatz für 1 Auto
 - Müllsäcke: 1 / Woche
 

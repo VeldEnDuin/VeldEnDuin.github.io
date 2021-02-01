@@ -50,7 +50,7 @@ september - oktober - november | € 400 / maand
 
 ## Inbegrepen
 
-- gemeente- en verblijfstaksen
+- gemeente- en verblijfstaksen (behalve voor 1/1 - 31/8 en 1/4 - 31/8)
 - parking 1 auto
 - vuilniszakken: 1 / week
 

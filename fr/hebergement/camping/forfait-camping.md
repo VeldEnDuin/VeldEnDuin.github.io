@@ -51,7 +51,7 @@ septembre - octobre - novembre | € 400 / mois
 
 ## Inclus
 
-- taxes communales et de séjour
+- taxes communales et de séjour (sauf pour 1/1 - 31/8 et 1/4 - 31/8)
 - parking pour 1 voiture
 - sacs poubelles: 1 / semaine
 

@@ -49,7 +49,7 @@ September - October - November | € 400 / month
 
 ## Included
 
-- municipal and residence taxes
+- municipal and residence taxes (except for 1/1 - 31/8 and 1/4 - 31/8)
 - parking place for 1 car
 - litter bags: 1 / week
 
