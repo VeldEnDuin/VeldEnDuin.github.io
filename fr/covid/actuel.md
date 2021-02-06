@@ -5,8 +5,8 @@ layout: page
 preview:
     title: actualités Covid-19
     text:
-        - Les directives concernant le COVID-19 changent régulièrement
-        - Nous aimerions énumérer ce qui est et ce qui n'est pas possible pour le moment, ainsi que toutes nos précautions et directives.
+        - Bonne nouvelle! les campings peuvent rouvrir à partir du 8 février. 
+        - Nous avons énuméré toutes les précautions et directives pour un séjour en toute sécurité.
         
 images: 
     - /img/covid/corona.jpg
@@ -20,9 +20,11 @@ remove:
 
 ## Lignes directrices actuelles
 
-Selon l'arrêté ministériel, les campings sont fermés au public jusqu'au 1er mars. Une exception à cette fermeture obligatoire s'applique aux maisons de vacances, chalets, mobile homes et campings (camping-cars et caravanes autosuffisantes) qui sont utilisés par le propriétaire et / ou de son ménage.
+Le comité de consultation a décidé que les campings pourront rouvrir complètement à partir du 8 février.
 
-Plus précisément, nos propriétaires d'une résidence secondaire sont autorisés à venir et les campeurs qui ont leurs propres installations sanitaires. Notre location est toujours en attente, mais nous espérons pouvoir la rouvrir le plus rapidement possible.
+Plus précisément, nos propriétaires d'une résidence secondaire de vacances pourraient continuer à venir. De plus, notre location peut désormais également être ouverte et les campeurs et caravanes tractables avec leurs propres installations sanitaires sont à nouveau les bienvenus.
+
+Les équipements collectifs (sanitaires, laverie, ...) doivent rester fermés.
 
 Les voyages non essentiels à destination et en provenance de l'étranger sont interdits du 27 janvier au 1er mars.
 
@@ -31,5 +33,6 @@ Les voyages non essentiels à destination et en provenance de l'étranger sont i
 Les masques restent obligatoires dans les magasins et les rues commerçantes, les bâtiments publics, les transports publics et partout où aucune distance ne peut être maintenue.
 
 ## Plage et dunes
+
 
 Il n'y a pas d'obligation de masque sur la plage. La marche est possible avec un maximum de 4 personnes.
