@@ -10,7 +10,7 @@ remove:
 
 ## ACTUELE INFO
 
-De verhuur van chalets is momenteel verboden tot 1 maart. We hopen uiteraard vanaf die tijd weer open te kunnen, hieronder alle richtlijnen en maatregelen die wij dan nemen op onze gasten veilig te kunnen verwelkomen.
+We mogen iedereen opnieuw verwelkomen in onze verhuurchalets en appartementen. Hier vindt u alle richtlijnen en maatregelen die we nemen voor een veilig verblijf.
 
 ## WAT BIJ ANNULATIE OMWILLE VAN COVID-19
 

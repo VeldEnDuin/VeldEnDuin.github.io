@@ -10,7 +10,7 @@ remove:
 
 ## INFORMATIONS ACTUELLES
 
-La location de chalets est actuellement interdite jusqu'au 1er mars. Bien sûr, nous espérons pouvoir rouvrir à partir de ce moment. En dessous de toutes les directives et mesures que nous prenons pour accueillir en toute sécurité nos clients.
+Nous pouvons à nouveau accueillir tout le monde dans nos chalets et appartements en location. Vous trouverez ici toutes les directives et mesures que nous prenons pour un séjour en toute sécurité.
 
 ## SI ON DOIT ANNULER A CAUSE DU COVID-19
 

@@ -11,7 +11,7 @@ remove:
 
 ## AKTUELLE INFO
 
-Die Vermietung von Chalets ist derzeit bis zum 1. März verboten. Natürlich hoffen wir, ab diesem Zeitpunkt wieder öffnen zu können. Hierunter allen Richtlinien und Maßnahmen, die wir ergreifen, um unsere Gäste sicher willkommen zu heißen.
+Wir können alle wieder in unseren Mietchalets und Apartments begrüßen. Hier finden Sie alle Richtlinien und Maßnahmen, die wir für einen sicheren Aufenthalt ergreifen.
 
 ## WAS IST, WENN AUFGRUND VON COVID-19 STORNIERT WERDEN MUSS
 
