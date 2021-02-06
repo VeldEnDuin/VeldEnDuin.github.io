@@ -40,7 +40,7 @@ Combine the freedom of travelling with a camper with the comfort of our campsite
 
 - max 6 persons / pitch
 - dogs allowed - max 2 – no dangerous breeds
-- accessible all year round except from January 15th to March 1st and November 15th to December 15th
+- accessible all year round except from January 15 to February 12
 
 ## Prices 2021 per night
 

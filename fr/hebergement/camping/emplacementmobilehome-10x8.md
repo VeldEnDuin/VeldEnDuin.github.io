@@ -38,7 +38,7 @@ Combinez la liberté de vacances en mobile home au confort offert par notre camp
 
 - max. 6 personnes / emplacement
 - chiens admis – max. 2 – pas de races dangereuses
-- accessible toute l'année sauf du 15 janvier au 1er mars et du 15 novembre au 15 décembre
+- accessible toute l'année sauf du 15 janvier au 12 février
 
 ## Prix 2021 par nuit
 

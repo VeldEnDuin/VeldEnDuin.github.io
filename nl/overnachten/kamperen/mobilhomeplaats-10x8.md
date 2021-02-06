@@ -40,7 +40,7 @@ Combineer de vrijheid van het reizen met een mobilhome met het comfort van onze 
 
 - max 6 personen / plaats
 - honden toegelaten: max 2 - geen gevaarlijke rassen
-- toegankelijk  het hele jaar behalve van 15 januari tot 1 maart en 15 november tot 15 december
+- toegankelijk  het hele jaar behalve van 15 januari tot 12 februari
 
 ## Prijzen 2021 per nacht
  

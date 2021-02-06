@@ -63,7 +63,7 @@ Situés au-dessus de la réception, ces nouveaux appartements luxueux offrent un
 - check-in: à partir de 14h00 - check-out: jusqu'à 10h00
 - animaux de compagnie non admis – admis dans les chalets ou caravanes
 - escalier - sans ascenseur
-- location toute l'année sauf du 15 janvier au 1er mars et du 15 novembre au 15 décembre
+- location toute l'année sauf du 15 janvier au 12 février
 - caution de 50 € à payer en espèces à l'arrivée
 - la caution est restituée au départ si l'appartement a été bien nettoyée et si elle se trouve dans un bon état
 

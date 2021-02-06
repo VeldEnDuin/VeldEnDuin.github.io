@@ -60,7 +60,7 @@ De retour d’une agréable journée à la plage ou d’une balade dans les envi
 - chalet d’une capacité de 4 personnes
 - check-in: à partir de 14h00 - check-out: jusqu'à 10h00
 - chiens admis – max. 2 – pas de races dangereuses
-- location toute l'année sauf du 15 janvier au 1er mars et du 15 novembre au 15 décembre
+- location toute l'année sauf du 15 janvier au 12 février
 - caution de 50 € à payer en espèces à l'arrivée
 - la caution est restituée au départ si le chalet a été bien nettoyée et si elle se trouve dans un bon état
 

@@ -57,7 +57,7 @@ Diese Chalets liegen vorn auf dem Campingplatz in der Nähe des Spielplatzes. Id
 - Chalet vorgesehen für 4 Personen
 - Check-in: ab 14 Uhr - Check-out: bis 10 Uhr
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
-- Vermietung das ganze Jahr über außer vom 15. Januar bis 1. März und vom 15. November bis 15. Dezember
+- Vermietung das ganze Jahr über außer vom 15. Januar bis 12. Februar
 - 50 € Kaution bei Ankunft in bar zu zahlen
 - Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
 
