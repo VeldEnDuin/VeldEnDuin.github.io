@@ -24,7 +24,7 @@ In concrete terms, our second residents can continue to come. In addition, our r
 
 The communal facilities (sanitary facilities, laundromat, ...) must still remain closed.
 
-Non-essential travel to and from abroad is prohibited from January 27 to March 1.
+Non-essential travel to and from abroad is prohibited from January 27 to April 1.
 
 ## Mouth mask duty
 Mouth masks remain mandatory in shops and shopping streets, public buildings, public transport and everywhere where no distance can be kept.
