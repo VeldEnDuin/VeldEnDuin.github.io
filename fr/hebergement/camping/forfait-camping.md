@@ -46,12 +46,11 @@ juillet - août | € 700 / mois
 septembre - octobre - novembre | € 400 / mois
 1/4 - 30/6 | € 750 / 3 mois
 1/9 - 30/11 | € 750 / 3 mois
-1/1 - 31/8 | € 2175
-1/4 - 31/8 | € 1995
+1/3 - 31/8 | € 1995
 
 ## Inclus
 
-- taxes communales et de séjour (sauf pour 1/1 - 31/8 et 1/4 - 31/8)
+- taxes communales et de séjour (sauf pour 1/3 - 31/8)
 - parking pour 1 voiture
 - sacs poubelles: 1 / semaine
 

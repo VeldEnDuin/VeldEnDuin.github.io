@@ -44,12 +44,11 @@ July - August | € 700 / month
 September - October - November | € 400 / month
 1/4 - 30/6 | € 750 / 3 months
 1/9 - 30/11 | € 750 / 3 months
-1/1 - 31/8 | € 2175
-1/4 - 31/8 | € 1995
+1/3 - 31/8 | € 1995
 
 ## Included
 
-- municipal and residence taxes (except for 1/1 - 31/8 and 1/4 - 31/8)
+- municipal and residence taxes (except for 1/3 - 31/8)
 - parking place for 1 car
 - litter bags: 1 / week
 

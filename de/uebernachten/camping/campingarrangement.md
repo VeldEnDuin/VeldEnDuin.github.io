@@ -45,12 +45,11 @@ Juli  - August | € 700 / Monat
 September - Oktober - November | € 400 / Monat
 1/4 - 30/6 | € 750 / 3 Monate
 1/9 - 30/11 | € 750 / 3 Monate
-1/1 - 31/8 | € 2175
-1/4 - 31/8 | € 1995
+1/3 - 31/8 | € 1995
 
 ## Inbegriffen
 
-- Gemeinde- und Aufenthaltssteuern (ausgenommen für 1/1 - 31/8 und 1/4 - 31/8)
+- Gemeinde- und Aufenthaltssteuern (ausgenommen für 1/3 - 31/8)
 - Parkplatz für 1 Auto
 - Müllsäcke: 1 / Woche
 
