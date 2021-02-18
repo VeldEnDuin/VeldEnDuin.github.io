@@ -10,7 +10,7 @@ remove:
 
 ## CURRENT INFO
 
-The rental of chalets is currently prohibited until March 1. Of course we hope to be able to open again from that time. Below all the guidelines and measures we take to safely welcome our guests.
+We can welcome everyone again in our rental chalets and apartments. Here you will find all the guidelines and measures we take for a safe stay.
 
 ## WHAT IF YOU NEED TO CANCEL DUE TO COVID-19
 

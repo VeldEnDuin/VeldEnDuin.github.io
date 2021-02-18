@@ -57,7 +57,7 @@ De appartementen liggen net naast de camping. Zo geniet u van de ruimte van een 
 - huisdieren niet toegelaten - wel mogelijk in de chalets of caravans
 - lift
 - gemeenschappelijke ruimte voor fietsen
-- verhuur het hele jaar behalve van 15 januari tot 1 maart en 15 november tot 15 december
+- verhuur het hele jaar behalve van 15 januari tot 12 februari
 - € 50 waarborg contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
 

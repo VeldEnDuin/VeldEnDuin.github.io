@@ -60,7 +60,7 @@ The apartments are situated next to the campsite. This means that you can enjoy 
 - pets not allowed – possible in chalets or caravans
 - lift 
 - shared bike storage
-- rental all year round except from January 15 to March 1 and November 15 to December 15
+- rental all year round except from January 15 to February 12
 - € 50 deposit to be paid in cash on arrival
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
 

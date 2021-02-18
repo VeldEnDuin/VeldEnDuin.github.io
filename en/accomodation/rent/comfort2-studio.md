@@ -55,7 +55,7 @@ Come and enjoy the sea air for a few days alone or in pairs. After a long walk o
 - studio for 2 people
 - check-in: from 2 pm - check-out: until 10 am
 - pets not allowed in the apartments, pets are allowed in the chalets or caravans
-- rental all year round except from January 15 to March 1 and November 15 to December 15
+- rental all year round except from January 15 to February 12
 - € 50 deposit to be paid in cash on arrival
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
 

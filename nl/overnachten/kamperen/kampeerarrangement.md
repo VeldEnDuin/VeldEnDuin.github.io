@@ -45,12 +45,11 @@ juli - augustus | € 700 / maand
 september - oktober - november | € 400 / maand
 1/4 - 30/6 | € 750 / 3 maanden
 1/9 - 30/11 | € 750 / 3 maanden
-1/1 - 31/8 | € 2175 
-1/4 - 31/8 | € 1995
+1/3 - 31/8 | € 1995
 
 ## Inbegrepen
 
-- gemeente- en verblijfstaksen (behalve voor 1/1 - 31/8 en 1/4 - 31/8)
+- gemeente- en verblijfstaksen (behalve voor 1/3 - 31/8)
 - parking 1 auto
 - vuilniszakken: 1 / week
 

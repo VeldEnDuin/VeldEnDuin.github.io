@@ -66,7 +66,7 @@ Gelegen boven de receptie bieden deze nieuwe en luxueuze appartementen een mooi 
 - check-in: vanaf 14u - check-out: tot 10u 
 - huisdieren niet toegelaten - wel mogelijk in de chalets of caravans
 - trappenhal - geen lift
-- verhuur het hele jaar behalve van 15 januari tot 1 maart en 15 november tot 15 december
+- verhuur het hele jaar behalve van 15 januari tot 12 februari
 - € 50 waarborg contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is 
 

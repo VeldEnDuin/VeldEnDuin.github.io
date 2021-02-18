@@ -56,7 +56,7 @@ Kom een paar dagjes alleen of met z’n tweeën genieten van de zeelucht. Na een
 - studio voorzien voor 2 personen
 - check-in: vanaf 14u - check-out: tot 10u 
 - huisdieren niet toegelaten - wel mogelijk in de chalets of caravans
-- verhuur het hele jaar behalve van 15 november tot 1 maart
+- verhuur het hele jaar behalve van 15 januari tot 12 februari
 - € 50 waarborg contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
 

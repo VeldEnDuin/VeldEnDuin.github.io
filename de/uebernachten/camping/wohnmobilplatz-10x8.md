@@ -41,7 +41,7 @@ Kombinieren Sie die Freiheit des Reisens mit einem Wohnmobil mit dem Komfort uns
 
 - Höchstens 6 Personen/Platz
 - Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
-- ganzjährig zugänglich, außer vom 15. Januar bis 1. März und vom 15. November bis 15. Dezember
+- ganzjährig zugänglich, außer vom 15. Januar bis 12. Februar
 
 
 ## Preise 2021 pro Nacht

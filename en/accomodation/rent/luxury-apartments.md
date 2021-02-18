@@ -63,7 +63,7 @@ Located above the reception these new and luxurious apartments overlook the flor
 - check-in: from 2 pm - check-out: until 10 am
 - pets not allowed in the apartments, pets are allowed in the chalets or caravans
 - staircase - no lift
-- rental all year round except from January 15 to March 1 and November 15 to December 15
+- rental all year round except from January 15 to February 12
 - € 50 deposit to be paid in cash on arrival
 - will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
 

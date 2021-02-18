@@ -59,7 +59,7 @@ Les appartements sont situés à deux pas du camping. Tout en profitant de l’e
 - animaux de compagnie non admis – ils sont admis dans les chalets ou caravanes
 - ascenseur
 - espace commun pour vélos
-- location toute l'année sauf du 15 janvier au 1er mars et du 15 novembre au 15 décembre
+- location toute l'année sauf du 15 janvier au 12 février
 - caution de 50 € à payer en espèces à l'arrivée
 - la caution est restituée au départ si l'appartement a été bien nettoyée et si elle se trouve dans un bon état
 

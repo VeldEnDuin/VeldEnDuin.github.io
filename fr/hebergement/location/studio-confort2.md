@@ -55,7 +55,7 @@ Venez profiter de l'air marin pendant quelques jours seul ou à deux. Après une
 - studio d’une capacité de 2 personnes
 - check-in: à partir de 14h00 - check-out: jusqu'à 10h00
 - animaux de compagnie non admis – admis dans les chalets ou caravanes
-- location toute l'année sauf du 15 janvier au 1er mars et du 15 novembre au 15 décembre
+- location toute l'année sauf du 15 janvier au 12 février
 - caution de 50 € à payer en espèces à l'arrivée
 - la caution est restituée au départ si le studio a été bien nettoyée et si elle se trouve dans un bon état
 

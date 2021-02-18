@@ -5,8 +5,8 @@ layout: page
 preview:
     title: Covid-19 Nachrichten
     text:
-        - Die Richtlinien zu COVID-19 ändern sich regelmäßig.
-        - Wir möchten auflisten, was derzeit möglich ist und was nicht, sowie alle unsere Vorsichtsmaßnahmen und Richtlinien.
+        - Gute Nachrichten! Campingplätze können ab dem 8. Februar wieder geöffnet werden. 
+        - Wir haben alle Vorsichtsmaßnahmen und Richtlinien für einen sicheren Aufenthalt aufgelistet.
         
 images: 
     - /img/covid/corona.jpg
@@ -19,11 +19,13 @@ remove:
 {% include links.md %}
 
 ## Aktuelle Richtlinien
-Gemäß dem Ministerialdekret sind Campingplätze bis zum 1. März für die Öffentlichkeit geschlossen. Eine Ausnahme von dieser obligatorischen Schließung gilt für Ferienhäuser, Chalets, Mobilheime und Campingeinrichtungen (Wohnmobile und Wohnwagen, die selbständig sind), die vom Eigentümer und / oder seinem Haushalt genutzt werden.
+Der Konsultationsausschuss hat beschlossen, dass die Campingplätze ab dem 8. Februar wieder vollständig geöffnet werden können.
 
-Insbesondere dürfen unsere Zweitwohnsitzinhaber und die Camper, die über eigene sanitäre Einrichtungen verfügen, kommen. Unsere Vermietung wird für eine Weile ausgesetzt, aber wir hoffen, sie so bald wie möglich wieder öffnen zu können.
+Unsere Eigentümer von einem Zweitwohnsitz auf dem Camping könnten weiterhin kommen. Darüber hinaus kann unsere Vermietung jetzt auch eröffnet werden und Wohnmobile und Ziehwohnwagen mit eigener Sanitärausstattung sind wieder willkommen.
 
-Nicht wesentliche Reisen ins und aus dem Ausland sind vom 27. Januar bis 1. März verboten.
+Die kommunalen Einrichtungen (Sanitäranlagen, Waschsalon, ...) müssen weiterhin geschlossen bleiben.
+
+Nicht wesentliche Reisen ins und aus dem Ausland sind vom 27. Januar bis 1. April verboten.
 
 ## Mundmaskenpflicht
 Mundmasken sind in Geschäften und Einkaufsstraßen, öffentlichen Gebäuden, öffentlichen Verkehrsmitteln und überall dort, wo kein Abstand eingehalten werden kann, weiterhin obligatorisch.

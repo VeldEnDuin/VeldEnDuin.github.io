@@ -60,7 +60,7 @@ Na een heerlijk dagje strand of een uitstapje in de buurt lonkt het overdekte te
 - chalet voorzien voor 4 personen
 - check-in: vanaf 14u - check-out: tot 10u 
 - honden toegelaten - max 2 - geen gevaarlijke rassen
-- verhuur het hele jaar behalve van 15 januari tot 1 maart en 15 november tot 15 december
+- verhuur het hele jaar behalve van 15 januari tot 12 februari
 - € 50 waarborg contant te betalen bij aankomst
 - terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
 

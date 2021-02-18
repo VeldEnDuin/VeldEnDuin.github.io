@@ -5,8 +5,8 @@ layout: page
 preview:
     title: current Covid-19 situation
     text:
-        - The guidelines around COVID-19 change regularly.
-        - We would like to list what is and what is not possible at the moment, as well as all our precautions and guidelines.
+        - Good news! Campsites can reopen from 8 February.
+        - We have listed all precautions and guidelines for a safe stay.
         
 images: 
     - /img/covid/corona.jpg
@@ -18,11 +18,13 @@ remove:
 {% include links.md %}
 
 ## Current guidelines
-According to the Ministerial Decree, campsites are closed to the public until March 1. An exception to this mandatory closure applies to the holiday homes, chalets, mobile homes and camping facilities (campers and touring caravans that are self-sufficient) that are used by the owner and / or his household.
+The consultation committee has decided that campsites can reopen fully from 8 February.
 
-In concrete terms, our second residence owners can come as well as the campers that have their own sanitary facilities. Our rental accommodations are on hold for a while, but we hope to be able to reopen it as soon as possible.
+In concrete terms, our second residents can continue to come. In addition, our rental accommodations are now also open and campers and caravans with their own sanitary facilities are again welcome.
 
-Non-essential travel to and from abroad is prohibited from January 27 to March 1.
+The communal facilities (sanitary facilities, laundromat, ...) must still remain closed.
+
+Non-essential travel to and from abroad is prohibited from January 27 to April 1.
 
 ## Mouth mask duty
 Mouth masks remain mandatory in shops and shopping streets, public buildings, public transport and everywhere where no distance can be kept.

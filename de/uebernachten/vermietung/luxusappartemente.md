@@ -63,7 +63,7 @@ Diese neuen Luxusappartements liegen über der Rezeption und bieten einen herrli
 - Check-in: ab 14 Uhr - Check-out: bis 10 Uhr
 - Haustiere nicht zugelassen, jedoch möglich in Chalets oder Caravans
 - Treppe - kein Aufzug
-- Vermietung das ganze Jahr über außer vom 15. Januar bis 1. März und vom 15. November bis 15. Dezember
+- Vermietung das ganze Jahr über außer vom 15. Januar bis 12. Februar
 - 50 € Kaution bei Ankunft in bar zu zahlen
 - Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
 

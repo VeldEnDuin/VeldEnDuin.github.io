@@ -61,11 +61,14 @@ newsfeed:
     max: 50
 
 bannerimg:
-    - /img/banner/banner-residentieel-01.jpg
-    - /img/banner/banner-bib-02.jpg
-    - /img/banner/banner-camp-07.jpg
-    - /img/banner/banner-camp-10.jpg
-    - /img/banner/banner-promo-04.jpg
-    - /img/banner/banner-ingang-01.jpg
-    - /img/banner/banner-camp-13.jpg
-    - /img/banner/banner-camp-05.jpg
+    - /img/banner/banner-01.jpg
+    - /img/banner/banner-02.jpg
+    - /img/banner/banner-06.jpg
+    - /img/banner/banner-13.jpg
+    - /img/banner/banner-15.jpg
+    - /img/banner/banner-17.jpg
+    - /img/banner/banner-21.jpg
+    - /img/banner/banner-26.jpg
+
+
+
