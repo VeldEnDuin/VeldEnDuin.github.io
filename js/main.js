@@ -691,23 +691,45 @@
             .sort((a,b) => a.sort - b.sort)
             .map((wrap) => wrap.element);
         
-        //preload images
+        //build rotator-projector
+        let $projector=$('<div class="projector">'),
+            $spacer=$('<div class="projector">'),
+            bheight = $banner.height();
+        
+        $spacer.height(bheight);
+        $banner.prepend($spacer);
+        
+        $projector.height(bheight);
         imgs.forEach((imgurl) => {
-            let img = new Image();
-            img.src = imgurl;
+            let $dia = $('<div class="dia">');
+            $dia.height(bheight);
+            $dia.css('background-image', `url(${imgurl})`);
+            $projector.append($dia);
         });
         
-        //regularly rotate
-        let showNdx = 0;
-        function showNext() {
-            showNdx = (showNdx +1) % imgs.length;
-            let url = imgs[showNdx];
-            $banner.css('background-image', `url('${url}')`);
-        }
-        setInterval(showNext, 7000);
+        let effectmillis = 2000,
+            waitmillis = 7000;
         
-        // allow forced interaction
-        $banner.click(showNext);
+        //handle the projector-rotate-effect
+        function rotate() {
+            let $dia = $('.dia', $projector).last();
+            $dia.fadeOut(effectmillis, () => { // 2 second fade duration
+                $dia.remove().css('display','block'); // remove the faded element
+                $projector.prepend($dia); // put it as the first element
+            });
+        }
+        
+        //then wait first, before bringing in the projector in slowly, only then start rotate and activate banner-click
+        setTimeout(() =>{
+            //start with projector hidden
+            $projector.hide();
+            $spacer.remove();
+            $banner.prepend($projector);
+            $projector.fadeIn(effectmillis, () => {
+                setInterval(rotate, waitmillis);
+                $projector.click(rotate);
+            });
+        }, waitmillis);
     });
     
 }(window.jQuery));

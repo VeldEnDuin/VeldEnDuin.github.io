@@ -175,12 +175,29 @@ span.socmed-pinterest {
 .vd-banner {
     height: 330px;
     border-top: 3px solid #fff;
+    position: relative;
+}
+
+.vd-banner,
+.vd-banner .projector,
+.vd-banner .projector .dia {
+    background-repeat: no-repeat;
     background-position: center center; 
     background-size: cover;
+    width: 100%;
+}
+
+.vd-banner .projector {
+    position: relative;
+}
+.vd-banner .projector .dia {
+    position: absolute;
+    top: 0px;
+    left: 0px;
 }
 
 .vd-banner .push-down {
-    margin-top: 300px;
+    margin-top: -30px;
 }
 .spaced {
     margin-top: 2em;
@@ -1661,6 +1678,16 @@ span.glyphicon {
     color: rgb(67,182,73);
     font-size: 18px;
 }
+
+.vd-booking-form select#type{
+    font-weight: bold;
+    color: rgb(67,182,73);
+}
+
+.vd-booking-form .has-error select#type{
+    background-color: rgba(212, 71, 39, 0.2);
+}
+
 .datepicker.dropdown-menu {
     background-color: white;
 }
