@@ -74,7 +74,7 @@
         });
         if (key === "start") {
             dp.on('changeDate', function (e) {
-                console.log("change date", e);
+//                console.log("change date", e);
                 var dtStart = moment(e.date);
                 //     --> update first possible on datepicker for end-date to start-date +1
                 $dpi["end"].datepicker('setStartDate', moment(dtStart).add(1,"days").format(DT_EU_FMT));
@@ -84,22 +84,22 @@
 
         } else if (key === "end") {
             dp.on('changeDate', function (e) {
-                console.log("change date", e);
+//                console.log("change date", e);
                 var dtEndDate = e.date,
                     dtStartStr = $dpi["start"].val();
                 //     --> update length by end-date
                 if (dtStartStr && dtEndDate) {
                     lenghtOfStay = moment(dtEndDate).diff(moment(dtStartStr, DT_EU_FMT), "days");
-                    console.log("updated length of stay", lenghtOfStay);
+//                    console.log("updated length of stay", lenghtOfStay);
                 }
             });
         }
     });
 
-    console.log("$btn", $btn.length);
+//    console.log("$btn", $btn.length);
     // register form-submit handling - convert dates, inject location and room id into url, submit, return false
     $bkfrm.submit(function() {
-        console.log("push");
+//        console.log("push");
         var params = {
             "LocationId" : $("option",$type).filter(":selected").data("location"),
             "Arrival"    : fmtEU2ISO($dpi['start'].val()),
