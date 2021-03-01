@@ -12,7 +12,7 @@ remove:
 
 ## SANITÄR
 
-Jeder Eigentümer muss die sanitären Einrichtungen in seinem Chalet oder Wohnwagen nutzen. Die kommunalen sanitären Einrichtungen sind bis zum 1. März geschlossen.
+Jeder Eigentümer muss die sanitären Einrichtungen in seinem Chalet oder Wohnwagen nutzen. Die kommunalen sanitären Einrichtungen sind bis zum 15. März geschlossen.
 
 ## IHR WOHNWAGEN ODER CHALET VERMIETEN
 

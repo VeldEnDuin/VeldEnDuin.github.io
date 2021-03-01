@@ -43,5 +43,5 @@ Bitte rufen Sie uns an wenn der Platz frei ist.
 
 ## RICHTLINIEN SANITÄR UND SERVICESTATION
 
-* Die kommunalen Sanitäranlagen sind bis zum 1. März geschlossen.
+* Die kommunalen Sanitäranlagen sind bis zum 15. März geschlossen.
 * Nur Camper mit eigenen sanitären Einrichtungen können bleiben.

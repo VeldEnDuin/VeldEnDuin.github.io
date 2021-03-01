@@ -23,7 +23,7 @@ Der Konsultationsausschuss hat beschlossen, dass die Campingplätze ab dem 8. Fe
 
 Unsere Eigentümer von einem Zweitwohnsitz auf dem Camping könnten weiterhin kommen. Darüber hinaus kann unsere Vermietung jetzt auch eröffnet werden und Wohnmobile und Ziehwohnwagen mit eigener Sanitärausstattung sind wieder willkommen.
 
-Die kommunalen Einrichtungen (Sanitäranlagen, Waschsalon, ...) müssen weiterhin geschlossen bleiben.
+Die kommunalen Einrichtungen (Sanitäranlagen, Waschsalon, ...) sind derzeit noch geschlossen. Diese werden am 15. März wieder geöffnet.
 
 Nicht wesentliche Reisen ins und aus dem Ausland sind vom 27. Januar bis 1. April verboten.
 

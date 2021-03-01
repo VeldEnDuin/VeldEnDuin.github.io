@@ -40,5 +40,5 @@ Veuillez nous contacter quand votre emplacement est libéré.
 
 ## DIRECTIVES SANITAIRE ET STATION-SERVICE
 
-* Les sanitaires communaux sont fermés jusqu'au 1er mars.
+* Les sanitaires communaux sont fermés jusqu'au 15 mars.
 * Seuls les campeurs disposant de leurs propres sanitaires peuvent séjourner.

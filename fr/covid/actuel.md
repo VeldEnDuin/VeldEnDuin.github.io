@@ -24,7 +24,7 @@ Le comité de consultation a décidé que les campings pourront rouvrir complèt
 
 Plus précisément, nos propriétaires d'une résidence secondaire de vacances pourraient continuer à venir. De plus, notre location peut désormais également être ouverte et les campeurs et caravanes tractables avec leurs propres installations sanitaires sont à nouveau les bienvenus.
 
-Les équipements collectifs (sanitaires, laverie, ...) doivent rester fermés.
+Les installations communes (sanitaires, laverie, ...) sont actuellement encore fermées. Ceux-ci ouvriront à nouveau le 15 mars.
 
 Les voyages non essentiels à destination et en provenance de l'étranger sont interdits du 27 janvier au 1er avril.
 

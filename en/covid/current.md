@@ -22,7 +22,7 @@ The consultation committee has decided that campsites can reopen fully from 8 Fe
 
 In concrete terms, our second residents can continue to come. In addition, our rental accommodations are now also open and campers and caravans with their own sanitary facilities are again welcome.
 
-The communal facilities (sanitary facilities, laundromat, ...) must still remain closed.
+The communal facilities (sanitary facilities, laundromat, ...) are currently still closed. These will open again on March 15th.
 
 Non-essential travel to and from abroad is prohibited from January 27 to April 1.
 

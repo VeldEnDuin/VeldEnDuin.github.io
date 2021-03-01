@@ -12,7 +12,7 @@ remove:
 
 ## SANITARY
 
-Every owner must use the sanitary in his or her chalet or caravan, the communal sanitary facilities are closed until 1 March.
+Every owner must use the sanitary in his or her chalet or caravan, the communal sanitary facilities are closed until 15 March.
 
 ## RENTING YOU CARAVAN OR CHALET
 

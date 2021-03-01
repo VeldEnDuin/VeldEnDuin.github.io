@@ -22,7 +22,7 @@ Het overlegcomité heeft beslist dat campings opnieuw volledig open mogen vanaf 
 
 Concreet mogen onze tweede verblijvers verder blijven komen. Daarnaast mag nu ook onze verhuur open en zijn campers en trekcaravans met eigen voorzieningen opnieuw welkom. 
 
-De gemeenschappelijke voorzieningen (sanitair, wassalon,...) moeten nog steeds gesloten blijven.
+De gemeenschappelijke voorzieningen (sanitair, wassalon,...) zijn momenteel nog steeds gesloten. Deze openen opnieuw op 15 maart. 
 
 Van 27 januari tot 1 april zijn niet-essentiële reizen van en naar het buitenland verboden.
 

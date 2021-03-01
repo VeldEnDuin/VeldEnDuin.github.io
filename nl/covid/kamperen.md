@@ -44,6 +44,6 @@ Gelieve ons op te bellen om te melden dat de plaats vrij is.
 
 ## RICHTLIJNEN SANITAIR EN SERVICESTATION
 
-* Het gemeenschappelijk sanitair is verplicht gesloten tot 1 maart.
+* Het gemeenschappelijk sanitair is verplicht gesloten tot 15 maart.
 * Enkel kampeerders met eigen sanitaire voorzieningen kunnen verblijven
 

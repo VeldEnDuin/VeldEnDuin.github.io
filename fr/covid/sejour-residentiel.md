@@ -12,7 +12,7 @@ remove:
 
 ## SANITAIRE
 
-Chaque propriétaire doit utiliser le sanitaire dans son chalet ou sa caravane, les sanitaires communaux sont fermés jusqu'au 1er mars.
+Chaque propriétaire doit utiliser le sanitaire dans son chalet ou sa caravane, les sanitaires communaux sont fermés jusqu'au 15 mars.
 
 ## LOCATION DE VOTRE CARAVANE OU CHALET
 
