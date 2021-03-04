@@ -52,6 +52,4 @@ compteur              | € 22
 
 ⑴ prix sous réserve de modifications des prix de l’énergie
 
-## Plan du camping
 
-![Plan du camping][plan.fr]

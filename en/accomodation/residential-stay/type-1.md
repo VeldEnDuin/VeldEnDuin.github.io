@@ -52,6 +52,3 @@ counter               | € 22
 
 ⑴ price subject to changing energy charges
 
-## Plan campsite
-
-![Plan campsite][plan.en]

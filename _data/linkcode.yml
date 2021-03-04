@@ -24,16 +24,56 @@ plan:
     de:  /img/plan-camping.png
     fr:  /img/plan-camping.png
     en:  /img/plan-camping.png
-plan_verhuur:
-    nl:  /img/plan-camping.png
-    de:  /img/plan-camping.png
-    fr:  /img/plan-camping.png
-    en:  /img/plan-camping.png
-plan_trekkers:
-    nl:  /img/plan-camping.png
-    de:  /img/plan-camping.png
-    fr:  /img/plan-camping.png
-    en:  /img/plan-camping.png
+plan_kampeerplaats:
+    nl:  /img/plan-camping-kampeerplaats.png
+    de:  /img/plan-camping-kampeerplaats.png
+    fr:  /img/plan-camping-kampeerplaats.png
+    en:  /img/plan-camping-kampeerplaats.png
+plan_mobilhome:
+    nl:  /img/plan-camping-mobilhome.png
+    de:  /img/plan-camping-mobilhome.png
+    fr:  /img/plan-camping-mobilhome.png
+    en:  /img/plan-camping-mobilhome.png
+plan_tent:
+    nl:  /img/plan-camping-tent.png
+    de:  /img/plan-camping-tent.png
+    fr:  /img/plan-camping-tent.png
+    en:  /img/plan-camping-tent.png
+plan_appcomf4plus:
+    nl:  /img/plan-camping-appcomf4plus.png
+    de:  /img/plan-camping-appcomf4plus.png
+    fr:  /img/plan-camping-appcomf4plus.png
+    en:  /img/plan-camping-appcomf4plus.png
+plan_carcomf2:
+    nl:  /img/plan-camping-carcomf2.png
+    de:  /img/plan-camping-carcomf2.png
+    fr:  /img/plan-camping-carcomf2.png
+    en:  /img/plan-camping-carcomf2.png
+plan_chaletcomf2:
+    nl:  /img/plan-camping-chaletcomf2.png
+    de:  /img/plan-camping-chaletcomf2.png
+    fr:  /img/plan-camping-chaletcomf2.png
+    en:  /img/plan-camping-chaletcomf2.png
+plan_chaletcomf4:
+    nl:  /img/plan-camping-chaletcomf4.png
+    de:  /img/plan-camping-chaletcomf4.png
+    fr:  /img/plan-camping-chaletcomf4.png
+    en:  /img/plan-camping-chaletcomf4.png
+plan_chaletcomf4plus:
+    nl:  /img/plan-camping-chaletcomf4plus.png
+    de:  /img/plan-camping-chaletcomf4plus.png
+    fr:  /img/plan-camping-chaletcomf4plus.png
+    en:  /img/plan-camping-chaletcomf4plus.png
+plan_luxeapp:
+    nl:  /img/plan-camping-luxeapp.png
+    de:  /img/plan-camping-luxeapp.png
+    fr:  /img/plan-camping-luxeapp.png
+    en:  /img/plan-camping-luxeapp.png
+plan_studiocomf2:
+    nl:  /img/plan-camping-studiocomf2.png
+    de:  /img/plan-camping-studiocomf2.png
+    fr:  /img/plan-camping-studiocomf2.png
+    en:  /img/plan-camping-studiocomf2.png
 plan3d:
     nl:  /img/plan-3d-nieuwproject.jpg
     de:  /img/plan-3d-nieuwproject.jpg

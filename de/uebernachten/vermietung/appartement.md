@@ -90,4 +90,4 @@ Parkplatz extra Auto  | € 4 / angefangenem Tag
 
 ## Plan Campingplatz
 
-![Plan Campingplatz][plan_verhuur.de]
+![Plan van de camping][plan_appcomf4plus.de]

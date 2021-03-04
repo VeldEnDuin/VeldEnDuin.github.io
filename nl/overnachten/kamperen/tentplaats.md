@@ -78,4 +78,4 @@ AANTAL PERSONEN | LAAGSEIZOEN | HOOGSEIZOEN
 
 ## Plan camping
 
-![Plan van de camping][plan_trekkers.nl]
+![Plan van de camping][plan_tent.nl]

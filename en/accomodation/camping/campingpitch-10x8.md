@@ -64,4 +64,4 @@ NUMBER OF PERSONS | LOW SEASON | HIGH SEASON
 
 ## Plan campsite
 
-![Plan campsite][plan_trekkers.en]
+![Plan campsite][plan_kampeerplaats.en]

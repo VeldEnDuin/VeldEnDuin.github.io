@@ -52,7 +52,4 @@ tellervergoeding      | € 22
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven
 
-## Plan camping
-
-![Plan van de camping][plan.nl]
 

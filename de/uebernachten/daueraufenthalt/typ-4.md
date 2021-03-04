@@ -60,6 +60,3 @@ Zähler                | € 22 / Zähler
 
 ⑴ Preis vorbehaltlich Änderungen der Energiepreise
 
-## Plan Campingplatz
-
-![Plan Campingplatz][plan.de]

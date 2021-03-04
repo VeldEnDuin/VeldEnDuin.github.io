@@ -83,4 +83,4 @@ parking voiture supplémentaire  | € 4 / jour entamé
 
 ## Plan du camping
 
-![Plan du camping][plan_verhuur.fr]
+![Plan du camping][plan_carcomf2.fr]

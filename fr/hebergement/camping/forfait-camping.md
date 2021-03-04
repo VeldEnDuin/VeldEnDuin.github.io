@@ -67,4 +67,4 @@ parking 2ème voiture  |€ 4 / jour entamé
 
 ## Plan du camping
 
-![Plan du camping][plan_trekkers.fr]
+![Plan du camping][plan_kampeerplaats.fr]

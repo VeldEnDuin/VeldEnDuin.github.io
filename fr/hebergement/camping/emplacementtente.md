@@ -79,4 +79,4 @@ NOMBRE DE PERSONNES | BASSE SAISON | HAUTE SAISON
 
 ## Plan camping
 
-![Plan du camping][plan_trekkers.fr]
+![Plan du camping][plan_tent.fr]

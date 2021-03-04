@@ -76,4 +76,4 @@ ANZAHL PERSONEN | NEBENSAISON | HOCHSAISON
 
 ## Plan Campingplatz
 
-![Plan Campingplatz][plan_trekkers.de]
+![Plan Campingplatz][plan_tent.de]

@@ -90,4 +90,4 @@ parking place extra car  | € 4 / started day
 
 ## Plan campsite
 
-![Plan campsite][plan_verhuur.en]
+![Plan van de camping][plan_appcomf4plus.en]
