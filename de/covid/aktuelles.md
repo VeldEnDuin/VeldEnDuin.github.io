@@ -25,7 +25,7 @@ Unsere Eigentümer von einem Zweitwohnsitz auf dem Camping könnten weiterhin ko
 
 Die kommunalen Einrichtungen (Sanitäranlagen, Waschsalon, ...) sind derzeit noch geschlossen. Diese werden am 15. März wieder geöffnet.
 
-Nicht wesentliche Reisen ins und aus dem Ausland sind vom 27. Januar bis 1. April verboten.
+Nicht wesentliche Reisen ins und aus dem Ausland sind vom 27. Januar bis 18. April verboten.
 
 ## Mundmaskenpflicht
 Mundmasken sind in Geschäften und Einkaufsstraßen, öffentlichen Gebäuden, öffentlichen Verkehrsmitteln und überall dort, wo kein Abstand eingehalten werden kann, weiterhin obligatorisch.

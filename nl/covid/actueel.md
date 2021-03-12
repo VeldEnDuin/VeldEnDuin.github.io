@@ -24,7 +24,7 @@ Concreet mogen onze tweede verblijvers verder blijven komen. Daarnaast mag nu oo
 
 De gemeenschappelijke voorzieningen (sanitair, wassalon,...) zijn momenteel nog steeds gesloten. Deze openen opnieuw op 15 maart. 
 
-Van 27 januari tot 1 april zijn niet-essentiële reizen van en naar het buitenland verboden.
+Van 27 januari tot 18 april zijn niet-essentiële reizen van en naar het buitenland verboden.
 
 ## MONDMASKERPLICHT
 Mondmaskers blijven verplicht in de winkels en de winkelstraten, openbare gebouwen,  het openbaar vervoer en overal waar geen afstand kan gehouden worden.

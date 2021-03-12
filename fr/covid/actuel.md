@@ -26,7 +26,7 @@ Plus précisément, nos propriétaires d'une résidence secondaire de vacances p
 
 Les installations communes (sanitaires, laverie, ...) sont actuellement encore fermées. Ceux-ci ouvriront à nouveau le 15 mars.
 
-Les voyages non essentiels à destination et en provenance de l'étranger sont interdits du 27 janvier au 1er avril.
+Les voyages non essentiels à destination et en provenance de l'étranger sont interdits du 27 janvier au 18 avril.
 
 ## Obligation de masque
 
