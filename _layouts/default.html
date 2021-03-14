@@ -71,18 +71,11 @@
           style="background-image: url('{{bannerimg}}');"
           data-banners='{{bannerdata}}'
       >
-        {%if page.insert contains 'booking' or lvl2.booking_form_group %}
-        <div class="container-fluid push-down"><div class="row">
-          <div class="container hidden-sm hidden-xs"><div class="row">
-              {% include booking-form.html %}
-          </div></div>
-        </div></div>
-        {%endif%}
       </div>
       <!-- the same but not nested in banner for smaller devices -->    
         {%if page.insert contains 'booking' or lvl2.booking_form_group %}
         <div class="container-fluid push-down"><div class="row">
-          <div class="container hidden-md hidden-lg"><div class="row">
+          <div class="container"><div class="row">
               {% include booking-form.html %}
           </div></div>
         </div></div>

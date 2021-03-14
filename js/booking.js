@@ -48,13 +48,15 @@
         $dpi[key].datepicker('update', dtStr);
     };
 
-    //add 2 days to avoid sunday (0) as a start-day, ie when today == saturday (6)
-    initial_dates.start = moment(today).add(today.day() == 6 ? 2:1,"days");
+    // earlier we had no auto-checkin on sunday:  add 2 days to avoid sunday (0) as a start-day, ie when today == saturday (6)
+    // initial_dates.start = moment(today).add(today.day() == 6 ? 2:1,"days");
+    // but now we do:
+    initial_dates.start = moment(today).add(1,"days");
     initial_dates.end = moment(initial_dates.start).add(STANDARD_LENGTH_STAY,"days");
 
 
     dp_cfg.start = Object.assign({}, dp_std_cfg, {
-        daysOfWeekDisabled: [0],
+        // disabling sundays no longer needed -- daysOfWeekDisabled: [0],
         startDate: '+1d',
     });
     dp_cfg.end = Object.assign({}, dp_std_cfg, {
