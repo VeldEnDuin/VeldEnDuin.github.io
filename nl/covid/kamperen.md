@@ -42,8 +42,3 @@ langskomen bij de receptie voor het ophalen van uw jetons, vuilniszakken,...
 Het perceel dient tijdig vrijgemaakt te worden voor de volgende reservatie.
 Gelieve ons op te bellen om te melden dat de plaats vrij is.
 
-## RICHTLIJNEN SANITAIR EN SERVICESTATION
-
-* Het gemeenschappelijk sanitair is verplicht gesloten tot 15 maart.
-* Enkel kampeerders met eigen sanitaire voorzieningen kunnen verblijven
-

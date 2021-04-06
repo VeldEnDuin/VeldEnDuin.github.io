@@ -42,7 +42,4 @@ at the reception to collect shower coins, garbage bags, ...
 Please clear your pitch in time for the next reservation.
 Please give us a call to let us know the pitch is free again.
 
-## GUIDELINES SANITARY BLOCK AND SERVICE STATION
 
-* The communal sanitary facilities are closed until March 15th.
-* Only campers with their own sanitary facilities can stay.

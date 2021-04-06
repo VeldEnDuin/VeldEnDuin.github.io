@@ -40,8 +40,3 @@ einen ruhigen Moment in der Rezeption aus zum Erhalten der Duschmarken, Müllsä
 
 Ihr Standplatz soll rechtzeitig freigemacht werden für die nächste Reservierung.
 Bitte rufen Sie uns an wenn der Platz frei ist.
-
-## RICHTLINIEN SANITÄR UND SERVICESTATION
-
-* Die kommunalen Sanitäranlagen sind bis zum 15. März geschlossen.
-* Nur Camper mit eigenen sanitären Einrichtungen können bleiben.

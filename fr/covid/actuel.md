@@ -22,9 +22,7 @@ remove:
 
 Le comité de consultation a décidé que les campings pourront rouvrir complètement à partir du 8 février.
 
-Plus précisément, nos propriétaires d'une résidence secondaire de vacances pourraient continuer à venir. De plus, notre location peut désormais également être ouverte et les campeurs et caravanes tractables avec leurs propres installations sanitaires sont à nouveau les bienvenus.
-
-Les installations communes (sanitaires, laverie, ...) sont actuellement encore fermées. Ceux-ci ouvriront à nouveau le 15 mars.
+Plus précisément, nos propriétaires d'une résidence secondaire de vacances pourraient continuer à venir. De plus, notre location peut désormais également être ouverte et les campeurs et caravanes tractables sont à nouveau les bienvenus.
 
 Les voyages non essentiels à destination et en provenance de l'étranger sont interdits du 27 janvier au 18 avril.
 
@@ -33,6 +31,5 @@ Les voyages non essentiels à destination et en provenance de l'étranger sont i
 Les masques restent obligatoires dans les magasins et les rues commerçantes, les bâtiments publics, les transports publics et partout où aucune distance ne peut être maintenue.
 
 ## Plage et dunes
-
 
 Il n'y a pas d'obligation de masque sur la plage. La marche est possible avec un maximum de 4 personnes.

@@ -20,9 +20,7 @@ remove:
 ## HUIDIGE RICHTLIJNEN
 Het overlegcomité heeft beslist dat campings opnieuw volledig open mogen vanaf 8 februari.
 
-Concreet mogen onze tweede verblijvers verder blijven komen. Daarnaast mag nu ook onze verhuur open en zijn campers en trekcaravans met eigen voorzieningen opnieuw welkom. 
-
-De gemeenschappelijke voorzieningen (sanitair, wassalon,...) zijn momenteel nog steeds gesloten. Deze openen opnieuw op 15 maart. 
+Concreet mogen onze tweede verblijvers verder blijven komen. Daarnaast mag nu ook onze verhuur open en zijn campers en trekcaravans opnieuw welkom. 
 
 Van 27 januari tot 18 april zijn niet-essentiële reizen van en naar het buitenland verboden.
 
