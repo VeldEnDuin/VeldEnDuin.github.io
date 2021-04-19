@@ -14,9 +14,10 @@ remove:
 * Im Falle einer Infektion von sich selbst oder Ihren Familienmitgliedern müssen Sie natürlich zu Hause bleiben. Dann gelten die gleichen Regeln wie für die obligatorische Schließung des Campingplatzes.
 
 
-## PUBLIC HEALTH PASSENGER LOCATOR FORM
-
-Seit dem 1. August 2020 müssen sich unsere ausländischen Gäste 48 Stunden vor ihrer Ankunft in Belgien über das sogenannte [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/de/public-health-passenger-locator-form) anmelden. Bitte machen Sie dies vor Ihrer Ankunft.
+## AUSLÄNDISCHE GÄSTE
+Ausländische Gäste müssen sich 48 Stunden vor Anreise über das [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/de/public-health-passenger-locator-form)  anmelden und einen negativen PCR-Test (<72 Stunden alt) durchführen, wenn sie nach Belgien reisen.
+Alle Details zu den aktuellen Bestimmungen finden Sie auf [dieser Webseite](https://www.info-coronavirus.be/de/reisen/).
+Die Maßnahmen, die Sie bei der Rückkehr einhalten müssen, hängen vom Land ab. Am besten fordern Sie diese im Voraus an.
 
 ## CHECK-IN UND CHECK-OUT
 

@@ -10,12 +10,7 @@ remove:
 
 {% include links.md %}
 
-Belgien hat entschieden, dass ab 19. April 2021 nicht unbedingt notwendige Reisen nach Belgien wieder erlaubt sind.
-
-
-Weitere Details sind noch nicht bekannt, aber Reisende müssen mindestens ein ausgefülltes [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/de/public-health-passenger-locator-form) mitbringen.
-
-Sobald wir weitere Informationen haben, werden wir dies auch auf dieser Website bekannt geben.
-
-In Bezug auf die Quarantänepflicht empfehlen wir Ihnen, sich in Deutschland nach den aktuellsten Informationen zu erkundigen.
-
+## AUSLÄNDISCHE GÄSTE
+Ausländische Gäste müssen sich 48 Stunden vor Anreise über das [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/de/public-health-passenger-locator-form)  anmelden und einen negativen PCR-Test (<72 Stunden alt) durchführen, wenn sie nach Belgien reisen.
+Alle Details zu den aktuellen Bestimmungen finden Sie auf [dieser Webseite](https://www.info-coronavirus.be/de/reisen/).
+Die Maßnahmen, die Sie bei der Rückkehr einhalten müssen, hängen vom Land ab. Am besten fordern Sie diese im Voraus an.

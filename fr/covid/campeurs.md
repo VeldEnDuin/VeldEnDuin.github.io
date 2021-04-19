@@ -14,9 +14,10 @@ remove:
 * En cas d'infection de vous-même ou des membres de votre famille, vous devez bien entendu rester à la maison. Ensuite, les mêmes règles s'appliquent que pour la fermeture obligatoire du camping.
 
 
-## PUBLIC HEALTH PASSENGER LOCATOR FORM
-
-Depuis le 1er août 2020, nos clients étrangers doivent s'inscrire 48 heures avant leur arrivée en Belgique via le [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/fr/public-health-passenger-locator-form). Veuillez organiser cela avant votre arrivée.
+## CLIENTS ETRANGERS
+Les clients étrangers doivent s'inscrire 48 heures avant l'arrivée via le [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/fr/public-health-passenger-locator-form) et avoir un test PCR négatif (<72 heures) lors de leur voyage en Belgique.
+Tous les détails sur la réglementation en vigueur sont disponibles sur [cette site web](https://www.info-coronavirus.be/fr/voyages/).
+Les mesures à respecter lors du retour dépendent d'un pays à l'autre et il est préférable de les demander à l'avance.
 
 ## CHECK-IN ET CHECK-OUT
 

@@ -15,9 +15,11 @@ remove:
 * In case of infection of yourself or your family members, you must of course stay at home. Then the same rules apply as for mandatory closure of the campsite.
 
 
-## PUBLIC HEALTH PASSENGER LOCATOR FORM
+## FOREIGN GUESTS
 
-Since 1 August 2020, our foreign guests must register 48 hours before arrival in Belgium via the so-called [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/public-health-passenger-locator-form). Please arrange this before your arrival.
+Foreign guests must register 48 hours before arrival via the [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/public-health-passenger-locator-form) and have a negative PCR test (<72 hours old) when traveling to Belgium.
+All details about the current regulations can be found on [this website](https://www.info-coronavirus.be/en/travels/).
+The measures you must respect when returning depend on the country and it is best to request them in advance.
 
 ## CHECK-IN AND CHECK-OUT
 

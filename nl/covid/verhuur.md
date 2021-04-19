@@ -19,9 +19,11 @@ We mogen iedereen opnieuw verwelkomen in onze verhuurchalets en appartementen. H
 
 
 
-## PUBLIC HEALTH PASSENGER LOCATOR FORM
+## BUITENLANDSE GASTEN
+Buitenlandse gasten moeten zich bij een reis naar België 48 uur voor aankomst  registreren via het [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/nl/public-health-passenger-locator-form) en over een negatieve PCR-test beschikken (< 72 u oud).
+Alle details over de actuele regelgeving is terug te vinden op [deze website](https://www.info-coronavirus.be/nl/reizen/).
 
-Sinds 1 augustus 2020 moeten onze buitenlandse gasten zich laten registreren 48 uur voor aankomst in België via het zogenaamde [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/nl/public-health-passenger-locator-form). Gelieve dit voor uw aankomst in orde te brengen.
+De maatregelen die u moet respecteren bij terugkeer zijn afhankelijk van land tot land en kunt u best vooraf opvragen.
 
 ## CHECK-IN EN CHECK-OUT
 
