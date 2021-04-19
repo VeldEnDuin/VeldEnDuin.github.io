@@ -13,11 +13,10 @@ remove:
 * Si votre séjour ne peut pas continuer car le camping est toujours obligatoirement fermé, vous pouvez conserver le montant déjà payé pour une nouvelle réservation (durée de validité: 1 an).
 * En cas d'infection de vous-même ou des membres de votre famille, vous devez bien entendu rester à la maison. Ensuite, les mêmes règles s'appliquent que pour la fermeture obligatoire du camping.
 
-<!--
+
 ## PUBLIC HEALTH PASSENGER LOCATOR FORM
 
 Depuis le 1er août 2020, nos clients étrangers doivent s'inscrire 48 heures avant leur arrivée en Belgique via le [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/fr/public-health-passenger-locator-form). Veuillez organiser cela avant votre arrivée.
--->
 
 ## CHECK-IN ET CHECK-OUT
 

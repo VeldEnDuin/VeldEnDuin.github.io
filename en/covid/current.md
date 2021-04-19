@@ -22,8 +22,6 @@ The consultation committee has decided that campsites can reopen fully from 8 Fe
 
 In concrete terms, our second residents can continue to come. In addition, our rental accommodations are now also open and campers and caravans are again welcome.
 
-Non-essential travel to and from abroad is prohibited from January 27 to April 18.
-
 ## Mouth mask duty
 Mouth masks remain mandatory in shops and shopping streets, public buildings, public transport and everywhere where no distance can be kept.
 

@@ -22,11 +22,8 @@ Het overlegcomité heeft beslist dat campings opnieuw volledig open mogen vanaf 
 
 Concreet mogen onze tweede verblijvers verder blijven komen. Daarnaast mag nu ook onze verhuur open en zijn campers en trekcaravans opnieuw welkom. 
 
-Van 27 januari tot 18 april zijn niet-essentiële reizen van en naar het buitenland verboden.
-
 ## MONDMASKERPLICHT
 Mondmaskers blijven verplicht in de winkels en de winkelstraten, openbare gebouwen,  het openbaar vervoer en overal waar geen afstand kan gehouden worden.
-
 
 ## STRAND & DUINEN
 Op het strand geldt er geen mondmaskerplicht. Wandelen kan met maximum 4 personen.

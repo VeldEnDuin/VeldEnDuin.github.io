@@ -13,11 +13,10 @@ remove:
 * Wenn Ihr Aufenthalt nicht fortgesetzt werden kann, weil der Campingplatz immer noch geschlossen ist, können Sie den bereits bezahlten Betrag für eine neue Reservierung behalten (Gültigkeitsdauer: 1 Jahr).
 * Im Falle einer Infektion von sich selbst oder Ihren Familienmitgliedern müssen Sie natürlich zu Hause bleiben. Dann gelten die gleichen Regeln wie für die obligatorische Schließung des Campingplatzes.
 
-<!--
+
 ## PUBLIC HEALTH PASSENGER LOCATOR FORM
 
 Seit dem 1. August 2020 müssen sich unsere ausländischen Gäste 48 Stunden vor ihrer Ankunft in Belgien über das sogenannte [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/de/public-health-passenger-locator-form) anmelden. Bitte machen Sie dies vor Ihrer Ankunft.
--->
 
 ## CHECK-IN UND CHECK-OUT
 

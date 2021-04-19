@@ -14,11 +14,10 @@ remove:
 * If your stay cannot continue because the campsite is still compulsorily closed, you can keep the amount already paid for a new reservation (validity period: 1 year).
 * In case of infection of yourself or your family members, you must of course stay at home. Then the same rules apply as for mandatory closure of the campsite.
 
-<!--
+
 ## PUBLIC HEALTH PASSENGER LOCATOR FORM
 
 Since 1 August 2020, our foreign guests must register 48 hours before arrival in Belgium via the so-called [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/public-health-passenger-locator-form). Please arrange this before your arrival.
--->
 
 ## CHECK-IN AND CHECK-OUT
 

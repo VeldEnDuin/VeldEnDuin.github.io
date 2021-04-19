@@ -23,8 +23,6 @@ Der Konsultationsausschuss hat beschlossen, dass die Campingplätze ab dem 8. Fe
 
 Unsere Eigentümer von einem Zweitwohnsitz auf dem Camping könnten weiterhin kommen. Darüber hinaus kann unsere Vermietung jetzt auch eröffnet werden und Wohnmobile und Ziehwohnwagen sind wieder willkommen.
 
-Nicht wesentliche Reisen ins und aus dem Ausland sind vom 27. Januar bis 18. April verboten.
-
 ## Mundmaskenpflicht
 Mundmasken sind in Geschäften und Einkaufsstraßen, öffentlichen Gebäuden, öffentlichen Verkehrsmitteln und überall dort, wo kein Abstand eingehalten werden kann, weiterhin obligatorisch.
 
