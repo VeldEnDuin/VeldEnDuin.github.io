@@ -21,7 +21,10 @@ We mogen iedereen opnieuw verwelkomen in onze verhuurchalets en appartementen. H
 
 ## BUITENLANDSE GASTEN
 Buitenlandse gasten moeten zich bij een reis naar België 48 uur voor aankomst  registreren via het [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/nl/public-health-passenger-locator-form) en over een negatieve PCR-test beschikken (< 72 u oud).
+
 Alle details over de actuele regelgeving is terug te vinden op [deze website](https://www.info-coronavirus.be/nl/reizen/).
+
+Personen die met de auto aankomen en minder dan 48 uur in België verblijven, zijn vrijgesteld van de PCR- en quarantainevereisten.
 
 De maatregelen die u moet respecteren bij terugkeer zijn afhankelijk van land tot land en kunt u best vooraf opvragen.
 
