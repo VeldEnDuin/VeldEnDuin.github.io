@@ -26,7 +26,7 @@ The new and spacious plots that we built were quickly occupied. At the moment th
 - completely south-facing
 - plot H9
 - caravan up to 10 meters
-- for new caravans we work together with [Ideal Caravans](https://ideal-caravans.be/) and [EDC](http://www.stacaravancentrum-edc.be/)
+- for new caravans we work together with [Decopa](https://www.decopa.be/).
 
 Did you know that, from September 2021, we will be building plots for caravans up to 12 meters? More details as from the Easter holidays 2021.
 

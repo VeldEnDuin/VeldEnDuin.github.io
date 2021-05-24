@@ -26,6 +26,6 @@ Die neuen und geräumigen Parzellen, die wir gebaut haben, waren schnell besetzt
 - komplett nach Süden ausgerichtet
 - Parzelle H9
 - Wohnwagen bis 10 Meter
-- Für neue Caravans arbeiten wir mit [Ideal Caravans](https://ideal-caravans.be/) und [EDC](http://www.stacaravancentrum-edc.be/)
+- Für neue Caravans arbeiten wir mit [Decopa](https://www.decopa.be/).
 
 Wussten Sie, dass wir ab September 2021 Parzellen für Wohnwagen bis zu 12 Metern bauen werden? Weitere Details ab den Osterferien 2021.

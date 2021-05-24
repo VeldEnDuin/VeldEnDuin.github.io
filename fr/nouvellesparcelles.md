@@ -26,6 +26,6 @@ Les nouvelles et spacieuses parcelles que nous avons construites ont été rapid
 - plein sud
 - parcelle H9
 - caravane jusqu'à 10 mètres
-- pour les nouvelles caravanes, nous travaillons avec [Ideal Caravans](https://ideal-caravans.be/) et [EDC](http://www.stacaravancentrum-edc.be/)
+- pour les nouvelles caravanes, nous travaillons avec [Decopa](https://www.decopa.be/).
 
 Saviez-vous qu'à partir de septembre 2021, nous construirons des parcelles pour caravanes jusqu'à 12 mètres? Plus de détails à partir des vacances de Pâques 2021.

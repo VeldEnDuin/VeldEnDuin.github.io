@@ -26,7 +26,7 @@ De nieuwe en ruime percelen die we aanlegden werden heel snel ingenomen. Op dit 
 - volledig zuidgericht
 - perceel H9
 - caravan tot 10 meter
-- voor nieuwe caravans werken we samen met [Ideal Caravans](https://ideal-caravans.be/) en [EDC](http://www.stacaravancentrum-edc.be/)
+- voor nieuwe caravans werken we samen met [Decopa](https://www.decopa.be/).
 
 Wist je dat we vanaf september 2021 opnieuw percelen aanleggen voor caravans tot 12 meter? Meer details vanaf de Paasvakantie 2021.
 
