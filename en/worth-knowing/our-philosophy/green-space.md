@@ -39,6 +39,7 @@ Green also means striving for the most sustainable operation possible. Here we c
 - separate waste collection
 - separate waste water to be provided when new plots are being constructed
 - energy-saving shower heads
+- 70 solar panels on the bicycle shed
 
 Each resident disposes of separate water, electricity and gas meters. In this way you are being encouraged to reduce your ecological foot print. We also do a warm appeal to our tenants not to waste any energy.
 

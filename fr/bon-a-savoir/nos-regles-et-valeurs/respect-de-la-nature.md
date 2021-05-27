@@ -38,6 +38,7 @@ Nous tenons également à organiser nos activités le plus durable possible. Voi
 - le recours à la collecte séparée des déchets
 - l’évacuation distincte des eaux usées lors de la construction de nouveaux emplacements
 - l’installation de pommeaux de douche économiques
+- 70 panneaux solaires sur le garage à vélos
 
 De plus, chaque emplacement résidentiel dispose de compteurs séparés pour l’eau, l’électricité et le gaz, de sorte à encourager nos résidents à réduire leur empreinte écologique. Nous invitons aussi chaleureusement les occupants de logements de location à ne pas gaspiller inutilement l’énergie.
 

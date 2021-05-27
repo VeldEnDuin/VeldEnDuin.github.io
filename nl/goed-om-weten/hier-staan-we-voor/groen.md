@@ -35,6 +35,7 @@ Groen betekent ook streven naar een zo duurzaam mogelijke werking. Hier dragen w
 - in te zetten op gescheiden afvalophaling
 - gescheiden afvalwater te voorzien bij de aanleg van nieuwe percelen
 - spaardouchekoppen
+- 70 zonnepannelen op de fietsberging
 
 Elke residentiële plaats beschikt bovendien over aparte water-elektriciteits-en gasmeters zodat onze gasten aangespoord worden om hun ecologische voetafdruk te verkleinen. Ook in de verhuuraccommodaties doen we een warme oproep om niet onnodig energie te verspillen.
 
