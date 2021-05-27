@@ -9,7 +9,7 @@ class:
 preview:
     title: Jetzt buchen
     text: 
-        - Schütteln Sie den Winter ab und buchen Sie jetzt Ihren Aufenthalt für Frühling oder Sommer. Diese schöne Aussicht wird Ihnen in diesen dunklen Monaten mit Sicherheit zusätzliche Energie geben.
+        - Lust auf eine Pause vom Alltag? Buchen Sie jetzt einen Aufenthalt in einem unserer komfortablen Chalets oder Apartments und genießen Sie einen unbeschwerten Aufenthalt.
         - Tipp! Buchen Sie Ihren Aufenthalt direkt und zahlen Sie 10% weniger als über Buchung oder AirBnB.    
     image: /img/overnachten/chalet-comfort-4-plus.jpg
     

@@ -9,7 +9,7 @@ class:
 preview:
     title: Book now
     text: 
-        - Shake off winter and book your stay for spring or summer now. This beautiful prospect is sure to give you extra energy in these dark months.
+        - Fancy a break from the daily routine? Book a stay in one of our comfortable chalets or apartments and enjoy a carefree stay.
         - Tip! Book your stay directly and pay 10% less than via Booking or AirBnB.
     image: /img/overnachten/chalet-comfort-4-plus.jpg
         
