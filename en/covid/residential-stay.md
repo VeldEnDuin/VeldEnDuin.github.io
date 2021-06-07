@@ -12,7 +12,7 @@ remove:
 
 ## FOREIGN GUESTS
 ### MEASURES UNTIL 30/06/21
-Foreign guests must register 48 hours before arrival via the [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/public-health-passenger-locator-form) and have a negative PCR test (<72 hours old) when traveling to Belgium.
+Foreign guests must register 48 hours before arrival via the [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/public-health-passenger-locator-form) and have a negative PCR test (<72 hours old) when traveling to Belgium from a red zone. The color codes per country can be found [here](https://www.info-coronavirus.be/en/colour-codes-by-country/).
 
 All details about the current regulations can be found on [this website](https://www.info-coronavirus.be/en/travels/).
 

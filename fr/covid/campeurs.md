@@ -16,7 +16,7 @@ remove:
 
 ## CLIENTS ETRANGERS
 ### MESURES JUSQUE 30/06/21
-Les clients étrangers doivent s'inscrire 48 heures avant l'arrivée via le [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/fr/public-health-passenger-locator-form) et avoir un test PCR négatif (<72 heures) lors de leur voyage en Belgique.
+Les clients étrangers doivent s'inscrire 48 heures avant l'arrivée via le [PUBLIC HEALTH PASSENGER LOCATOR FORM](https://travel.info-coronavirus.be/fr/public-health-passenger-locator-form) et avoir un test PCR négatif (<72 heures) lors de leur voyage en Belgique lorsque vous voyagez depuis une zone rouge. Les codes couleurs par pays vous trouvez [ici](https://www.info-coronavirus.be/fr/code-couleur-par-pays/). 
 
 Tous les détails sur la réglementation en vigueur sont disponibles sur [cette site web](https://www.info-coronavirus.be/fr/voyages/).
 
