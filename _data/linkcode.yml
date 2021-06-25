@@ -295,6 +295,11 @@ te_koop:
     fr: /fr/hebergement/a-vendre.html
     de: /de/uebernachten/zu-kaufen.html
     en: /en/accomodation/for-sale.html
+h_13:
+    nl: /nl/overnachten/te-koop/h-13.html
+    fr: /fr/hebergement/a-vendre/h-13.html
+    de: /de/uebernachten/zu-kaufen/h-13.html
+    en: /en/accomodation/for-sale/h-13.html
 
 
 # [3] menu - voorzieningen
