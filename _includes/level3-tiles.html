@@ -1,10 +1,10 @@
 {% if lvl2.submenu %}
 <div class="container"><div class="row">
 <div class="col-xs-12">
-  <div class="vd-select-list {{page.class.select.list}} clearfix" 
+  <div class="vd-select-list {{page.class.select.list}} clearfix"
        id="vd-select-list">
     {% assign itemcls = 'col-lg-4 col-md-4 col-sm-6 col-xs-12' %}
-
+    {% assign item_count = 0 %}
     {% for link in lvl2.submenu %}
         {% assign select = link.linkcode %}
         {% for pg in site.pages %}
@@ -12,10 +12,14 @@
                 {% unless pg.insert contains 'level3-tiles' or pg.preview == false %}
                     {% assign linkPage = pg %}
                     {% include linkPageStyleSubMenu.html %}
+                    {% assign item_count=item_count|plus:1 %}
                 {% endunless %}
             {% endif %}
         {% endfor %}
     {% endfor %}
+    {% if item_count == 0 and page.fallback.no-tiles %}
+        {{page.fallback.no-tiles}}
+    {% endif %}
   </div>
 </div>
 </div></div>
