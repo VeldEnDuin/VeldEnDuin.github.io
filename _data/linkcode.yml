@@ -295,11 +295,21 @@ te_koop:
     fr: /fr/hebergement/a-vendre.html
     de: /de/uebernachten/zu-kaufen.html
     en: /en/accomodation/for-sale.html
-#c_36:
-    #nl: /nl/overnachten/te-koop/c-36.html
-    #fr: /fr/hebergement/a-vendre/c-36.html
-    #de: /de/uebernachten/zu-kaufen/c-36.html
-    #en: /en/accomodation/for-sale/c-36.html
+b_66:
+    nl: /nl/overnachten/te-koop/b-66.html
+    fr: /fr/hebergement/a-vendre/b-66.html
+    de: /de/uebernachten/zu-kaufen/b-66.html
+    en: /en/accomodation/for-sale/b-66.html
+c_23:
+    nl: /nl/overnachten/te-koop/c-23.html
+    fr: /fr/hebergement/a-vendre/c-23.html
+    de: /de/uebernachten/zu-kaufen/c-23.html
+    en: /en/accomodation/for-sale/c-23.html
+d_25:
+    nl: /nl/overnachten/te-koop/d-25.html
+    fr: /fr/hebergement/a-vendre/d-25.html
+    de: /de/uebernachten/zu-kaufen/d-25.html
+    en: /en/accomodation/for-sale/d-25.html
 
 
 # [3] menu - voorzieningen
