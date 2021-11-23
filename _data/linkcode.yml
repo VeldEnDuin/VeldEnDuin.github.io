@@ -83,7 +83,7 @@ jubisite:
     nl: /img/jubisite.jpg
     fr: /img/jubisite.jpg
     de: /img/jubisite.jpg
-    
+
 
 # [1] menu - goed om weten
 hier_staan_we_voor:
@@ -295,21 +295,11 @@ te_koop:
     fr: /fr/hebergement/a-vendre.html
     de: /de/uebernachten/zu-kaufen.html
     en: /en/accomodation/for-sale.html
-b_66:
-    nl: /nl/overnachten/te-koop/b-66.html
-    fr: /fr/hebergement/a-vendre/b-66.html
-    de: /de/uebernachten/zu-kaufen/b-66.html
-    en: /en/accomodation/for-sale/b-66.html
-c_23:
-    nl: /nl/overnachten/te-koop/c-23.html
-    fr: /fr/hebergement/a-vendre/c-23.html
-    de: /de/uebernachten/zu-kaufen/c-23.html
-    en: /en/accomodation/for-sale/c-23.html
-d_25:
-    nl: /nl/overnachten/te-koop/d-25.html
-    fr: /fr/hebergement/a-vendre/d-25.html
-    de: /de/uebernachten/zu-kaufen/d-25.html
-    en: /en/accomodation/for-sale/d-25.html
+#b_66:
+    #nl: /nl/overnachten/te-koop/b-66.html
+    #fr: /fr/hebergement/a-vendre/b-66.html
+    #de: /de/uebernachten/zu-kaufen/b-66.html
+    #en: /en/accomodation/for-sale/b-66.html
 
 
 # [3] menu - voorzieningen
@@ -369,7 +359,7 @@ pop_up_bib:
     de: /de/annehmlichkeiten/pop-up-bibliothek.html
     en: /en/amenities/pop-up-library.html
 
-# [4] menu covid 
+# [4] menu covid
 covid:
     nl: /nl/covid/algemeen.html
     fr: /fr/covid/general.html
@@ -387,7 +377,7 @@ covid-kamperen:
     fr: /fr/covid/campeurs.html
     de: /de/covid/camper.html
     en: /en/covid/campers.html
-    
+
 covid-verhuur:
     nl: /nl/covid/verhuur.html
     fr: /fr/covid/location.html
@@ -405,8 +395,8 @@ covid-richtlijn-pictos:
     fr: /img/covid/fr-directives-générales.png
     de: /img/covid/de-allgemeine-richtlinien.png
     en: /img/covid/en-general-guidelines.png
-    
-    
+
+
 # [5] menu doen
 doen:
     nl: /nl/doen.html
@@ -521,9 +511,8 @@ overzetboot:
     de: http://www.visitoostende.be/de/overzetboot-visserskaai-oosteroever
     en: http://www.visitoostende.be/en/overzetboot-visserskaai-oosteroever
 
-   
+
 # [9] bijzondere posts -> permalink
 welcome-back:
     nl: /nl/covid/welcome-back.html
     fr: /fr/covid/welcome-back.html
-

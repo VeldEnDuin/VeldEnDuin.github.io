@@ -24,7 +24,7 @@
         - linkcode: verhuur_comfort2_caravan
           booking_form_room: comfort2_caravan
 
-       
+
     - linkcode: trekkers
       booking_form_group: kamperen
       submenu:
@@ -56,9 +56,7 @@
     - linkcode: te_koop
       submenu:
         - linkcode: te_koop
-        - linkcode: b_66
-        - linkcode: c_23
-        - linkcode: d_25
+        #- linkcode: b_66
 
 
 - linkcode: voorzieningen
@@ -85,7 +83,7 @@
 
 
 - linkcode: praktisch
-  menutekst: 
+  menutekst:
     nl: Praktisch
     fr: Pratique
     de: Praktish
