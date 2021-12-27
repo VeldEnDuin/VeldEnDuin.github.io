@@ -2,15 +2,14 @@
 layout: page
 title: Mobilhomeplaats 10x8
 description: ruime en verharde percelen voor campers
-preview: 
-    title: Mobilhomeplaats 10x8
+preview:
+    title: Mobilhomeplaats
     button:
-        price: 19
+        price: 21
         for: per nacht
     list:
-        - "afmetingen verharding: 8x3 m"
-        - "verharde plaatsen met gras voor"
-        - "servicestation"
+        - "verharde plaatsen"
+        - "mobilhomes max 8 m"
         - "dichtbij sanitair"
 images:
     - /img/overnachten/trekkers-mob-10x8/mob10x8-01.jpg
@@ -24,13 +23,13 @@ images:
     - /img/overnachten/trekkers-mob-10x8/mob10x8-09.jpg
     - /img/overnachten/trekkers-mob-10x8/mob10x8-10.jpg
     - /img/overnachten/trekkers-mob-10x8/mob10x8-11.jpg
-    
-    
-    
-    
+
+
+
+
 insert:
     - page-images-top
-    
+
 ---
 {% include links.md %}
 
@@ -39,19 +38,19 @@ Combineer de vrijheid van het reizen met een mobilhome met het comfort van onze 
 ## Goed om weten
 
 - max 6 personen / plaats
-- honden toegelaten: max 2 - geen gevaarlijke rassen
-- toegankelijk  het hele jaar behalve van 15 januari tot 12 februari
+- honden toegelaten: max 2 - aan de leiband - geen gevaarlijke rassen
+- winterperiode 15/11-15/3: enkel open voor trekkers tijdens de kerstvakantie
 
-## Prijzen 2021 per nacht
- 
+## Prijzen 2022 per nacht
+
 AANTAL PERSONEN | LAAGSEIZOEN | HOOGSEIZOEN      
 :-------------:|:-----------:|:-----------:|
-1 persoon      |€ 19         |€ 23     
-2 personen     |€ 22         |€ 26          
-3 personen     |€ 25         |€ 29
-4 personen     |€ 28         |€ 32    
-5 personen     |€ 31         |€ 35
-6 personen     |€ 34         |€ 38
+1 persoon      |€ 21         |€ 26    
+2 personen     |€ 23         |€ 28          
+3 personen     |€ 25         |€ 30
+4 personen     |€ 27         |€ 32    
+5 personen     |€ 29         |€ 34
+6 personen     |€ 31         |€ 36
 
 * 15/7 - 15/8: reservatie vanaf 7 nachten
 * hoogseizoen: juli - augustus - verlengde weekends
