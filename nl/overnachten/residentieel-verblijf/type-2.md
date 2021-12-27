@@ -2,17 +2,17 @@
 layout: page
 title: Type 2
 description: ruime en vernieuwde plaatsen
-preview: 
+preview:
     title: Type 2
     button:
-        price: 2175
+        price: 2235
         for: per jaar
     list:
         - "gemiddelde opp: 120 m²"
         - "vernieuwde plaatsen"
         - "hele jaar toegankelijk"
-       
-        
+
+
 images:
     - /img/overnachten/residentieel-type2/restyp2-01.jpg
     - /img/overnachten/residentieel-type2/restyp2-02.jpg
@@ -25,11 +25,11 @@ images:
     - /img/overnachten/residentieel-type2/restyp2-09.jpg
     - /img/overnachten/residentieel-type2/restyp2-10.jpg
     - /img/overnachten/residentieel-type2/restyp2-11.jpg
-    
+
 insert:
     - page-images-top
-    
-    
+
+
 ---
 
 {% include links.md %}
@@ -43,25 +43,24 @@ Een vaste stek aan de kust om steeds opnieuw naar terug te keren, wie droomt daa
 - aparte tellers voor gas - water - elektriciteit
 - ondergronds gasnetwerk - geen gasflessen
 - wintervaste wateraansluiting
-- prijs inclusief [digitale tv en wifi][pdf_tvwifi.nl] voor 4 toestellen 
+- prijs inclusief [digitale tv en wifi][pdf_tvwifi.nl] voor 4 toestellen
 - onderhoud gras door Veld & Duin
 
 
-## Prijzen 2021
+## Prijzen 2022
 
 TYPE 2                |PRIJS           |
 :--------------------:|:--------------:|
-standplaatsvergoeding |€ 2175              
-gemeentetaks          |€ 421,88
-huisvuilbijdrage<br>incl 25 zakken<br> | € 80    
+standplaatsvergoeding |€ 2235             
+gemeentetaks          |€ 430,36
+huisvuilbijdrage<br>incl 25 zakken<br> | € 90    
 [brandverzekering][pdf_brandverzekering.nl]      |afhankelijk van <br>waarde caravan / chalet
 
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
-elektriciteit         | € 0,39 / kw        
-water                 | € 7,5 / m³  
-gas                   | € 6,85 / m³       
+elektriciteit         | € 0,41 / kw        
+water                 | € 7,6 / m³  
+gas                   | € 7,5 / m³       
 tellervergoeding      | € 22 / teller
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven
-
