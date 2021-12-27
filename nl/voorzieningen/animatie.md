@@ -16,7 +16,7 @@ images:
     - /img/voorzieningen/animatie/anim-09.jpg
     - /img/voorzieningen/animatie/anim-10.jpg
     - /img/voorzieningen/animatie/anim-11.jpg
-    
+
 insert:
     - page-images-top
 
@@ -24,7 +24,7 @@ insert:
 ---
 {% include links.md %}
 
-## Animatie Veld & Duin zomer 2021
+## Animatie Veld & Duin zomer 2022
 
 Op dit moment is het nog niet helemaal duidelijk of er animatie op de camping zal mogelijk zijn en onder welke voorwaarden.
 
