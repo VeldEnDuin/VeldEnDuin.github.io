@@ -1,5 +1,5 @@
 #!/bin/bash
 
-brackets &
+atom &
 launchsite &
 #launchjubi &
