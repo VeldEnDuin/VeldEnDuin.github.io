@@ -66,7 +66,7 @@ Even alleen komen uitwaaien of met z'n tweetjes? In deze chalet is het heerlijk 
 - **uitzondering** forfait energiekost 23/12 - 8/01: € 10 / nacht
 
 
-## schoonmaak
+## Schoonmaak
 U dient de afwas te doen, het afval naar ons containerpark te brengen en het verblijf netjes achter te laten.
 
 

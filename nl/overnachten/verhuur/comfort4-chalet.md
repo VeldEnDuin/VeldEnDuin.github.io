@@ -66,7 +66,7 @@ Deze chalets liggen vooraan op de camping en dicht bij het speelplein. Ideaal du
 - verbruik gas-water-elektriciteit
 - **uitzondering** forfait energiekost 23/12 - 8/01: € 10 / nacht
 
-## schoonmaak
+## Schoonmaak
 U dient de afwas te doen, het afval naar ons containerpark te brengen en het verblijf netjes achter te laten.
 
 
