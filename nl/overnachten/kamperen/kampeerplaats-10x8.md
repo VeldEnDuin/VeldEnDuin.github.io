@@ -5,12 +5,11 @@ description: keuze tussen een verharde plaats of grasplaats
 preview:
     title: Kampeerplaats 10x8
     button:
-        price: 19
+        price: 21
         for: per nacht
     list:
-        - "80 m² plaatsen"
+        - "grasplaats 80 m²"
         - "voor trekcaravans"
-        - "gras of verharde plaats"
         - "dichtbij sanitair"
 images:
     - /img/overnachten/trekkers-kamp-10x8/kamp10x8-01.jpg
@@ -36,10 +35,10 @@ Voor de trekcaravans hebben we de keuze uit een verharde plaats met groen ervoor
 ## Goed om weten
 
 - max 6 personen / plaats
-- honden toegelaten: max 2 - geen gevaarlijke rassen
-- toegankelijk  het hele jaar behalve van 15 januari tot 12 februari
+- honden toegelaten: max 2 - aan de leiband - geen gevaarlijke rassen
+- winterperiode 15/11-15/3: enkel open voor trekkers tijdens de kerstvakantie
 
-## Prijzen 2021 per nacht
+## Prijzen 2022 per nacht
 
 AANTAL PERSONEN | LAAGSEIZOEN | HOOGSEIZOEN      
 :-------------:|:-----------:|:-----------:|
