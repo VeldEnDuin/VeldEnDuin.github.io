@@ -43,12 +43,12 @@ Voor de trekcaravans hebben we de keuze uit een verharde plaats met groen ervoor
 
 AANTAL PERSONEN | LAAGSEIZOEN | HOOGSEIZOEN      
 :-------------:|:-----------:|:-----------:|
-1 persoon      |€ 19         |€ 23     
-2 personen     |€ 22         |€ 26          
-3 personen     |€ 25         |€ 29
-4 personen     |€ 28         |€ 32    
-5 personen     |€ 31         |€ 35
-6 personen     |€ 34         |€ 38
+1 persoon      |€ 21         |€ 26     
+2 personen     |€ 23         |€ 28         
+3 personen     |€ 25         |€ 30
+4 personen     |€ 27         |€ 32    
+5 personen     |€ 29         |€ 34
+6 personen     |€ 31         |€ 36
 
 * 15/7 - 15/8: reservatie vanaf 7 nachten
 * hoogseizoen: juli - augustus - verlengde weekends
