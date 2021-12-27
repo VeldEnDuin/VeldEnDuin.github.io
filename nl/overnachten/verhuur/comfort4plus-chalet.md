@@ -68,6 +68,11 @@ Na een heerlijk dagje strand of een uitstapje in de buurt lonkt het overdekte te
 - verbruik gas-water-elektriciteit
 - **uitzondering** forfait energiekost 23/12 - 8/01: € 10 / nacht
 
+
+## Schoonmaak
+U dient de afwas te doen, het afval naar ons containerpark te brengen en het verblijf netjes achter te laten.
+
+
 ## Wat mee te brengen?
 Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
 Lakenpakketten kunt u ook huren.
