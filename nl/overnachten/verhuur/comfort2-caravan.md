@@ -52,14 +52,17 @@ Ons charmante tiny house met privé-tuintje is ideaal voor wie houdt van het bui
 - caravan voorzien voor max. 2 personen
 - check-in: vanaf 14u - check-out: tot 10u
 - kleine hond toegelaten maar houd er rekening mee dat de woonruimte beperkt is
-- verhuur het hele jaar behalve van 15 november tot 1 maart
-- € 50 waarborg contant te betalen bij aankomst
-- terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
+- winterperiode 15/11-15/3: geen verhuur
+
 
 ## Inbegrepen
 - wifi
 - parking 1 auto
 - verbruik gas-water-elektriciteit
+
+## Schoonmaak
+U dient de afwas te doen, het afval naar ons containerpark te brengen en het verblijf netjes achter te laten.
+
 
 ## Wat mee te brengen?
 Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
@@ -70,8 +73,7 @@ Lakenpakketten kunt u ook huren.
 
 EXTRA               | PRIJS
 :-------------------|:-----------|
-schoonmaak          | € 45 - zelf schoonmaken kan
-hond                | € 4 / nacht - max 1
+hond                | € 5 / nacht - max 1
 lakenpakket         | € 10 / dubbelbed
 kinderbed           | € 2 / nacht
 kinderstoel         | € 2 / nacht
