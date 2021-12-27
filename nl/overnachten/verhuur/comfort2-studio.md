@@ -56,15 +56,19 @@ Kom een paar dagjes alleen of met z’n tweeën genieten van de zeelucht. Na een
 - studio voorzien voor 2 personen
 - check-in: vanaf 14u - check-out: tot 10u
 - huisdieren niet toegelaten - wel mogelijk in de chalets of caravans
-- verhuur het hele jaar behalve van 15 januari tot 12 februari
-- € 50 waarborg contant te betalen bij aankomst
-- terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
+- winterperiode 15/11-15/3: enkel open voor verhuur tijdens de kerstvakantie
+
 
 ## Inbegrepen
 - wifi
 - parking 1 auto
 - verbruik gas-water-elektriciteit
-- **uitzondering** forfait energiekost 15/12 - 15/01: € 10 / nacht
+- **uitzondering** forfait energiekost 23/12 - 8/01: € 10 / nacht
+
+
+## Schoonmaak
+U dient de afwas te doen, het afval naar ons containerpark te brengen en het verblijf netjes achter te laten.
+
 
 ## Wat mee te brengen?
 Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
@@ -75,8 +79,6 @@ Lakenpakketten kunt u ook huren.
 
 EXTRA               | PRIJS
 :-------------------|:-----------|
-schoonmaak          | € 45 - zelf schoonmaken kan
-hond                | € 4 / nacht - max 1
 lakenpakket         | € 10 / dubbelbed
 kinderbed           | € 2 / nacht
 kinderstoel         | € 2 / nacht
