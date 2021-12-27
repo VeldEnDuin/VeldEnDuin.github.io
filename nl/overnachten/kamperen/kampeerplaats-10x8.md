@@ -2,7 +2,7 @@
 layout: page
 title: Kampeerplaats 10x8
 description: keuze tussen een verharde plaats of grasplaats
-preview: 
+preview:
     title: Kampeerplaats 10x8
     button:
         price: 19
@@ -21,13 +21,13 @@ images:
     - /img/overnachten/trekkers-kamp-10x8/kamp10x8-06.jpg
     - /img/overnachten/trekkers-kamp-10x8/kamp10x8-07.jpg
     - /img/overnachten/trekkers-kamp-10x8/kamp10x8-08.jpg
-    
-    
-    
-    
+
+
+
+
 insert:
     - page-images-top
-    
+
 ---
 {% include links.md %}
 
@@ -40,7 +40,7 @@ Voor de trekcaravans hebben we de keuze uit een verharde plaats met groen ervoor
 - toegankelijk  het hele jaar behalve van 15 januari tot 12 februari
 
 ## Prijzen 2021 per nacht
- 
+
 AANTAL PERSONEN | LAAGSEIZOEN | HOOGSEIZOEN      
 :-------------:|:-----------:|:-----------:|
 1 persoon      |€ 19         |€ 23     
