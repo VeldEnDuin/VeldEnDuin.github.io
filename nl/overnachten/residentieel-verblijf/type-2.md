@@ -59,8 +59,8 @@ huisvuilbijdrage<br>incl 25 zakken<br> | € 90
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
 elektriciteit         | € 0,41 / kw        
-water                 | € 7,6 / m³  
-gas                   | € 7,5 / m³       
+water                 | € 7,60 / m³  
+gas                   | € 7,50 / m³       
 tellervergoeding      | € 22 / teller
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven

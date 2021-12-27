@@ -2,17 +2,17 @@
 layout: page
 title: Type 4
 description: extra ruime percelen gelegen rond een wadi
-preview: 
+preview:
     title: Type 4
     button:
-        price: 2915
+        price: 3000
         for: per jaar
     list:
         - "gemiddelde opp: 190 m²"
         - "luxeplaatsen"
         - "hele jaar toegankelijk"
-        
-        
+
+
 images:
     - /img/overnachten/residentieel-type4/restyp4-01.jpg
     - /img/overnachten/residentieel-type4/restyp4-02.jpg
@@ -23,8 +23,8 @@ images:
 
 insert:
     - page-images-top
-    
-    
+
+
 ---
 
 {% include links.md %}
@@ -38,26 +38,24 @@ Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Ga 
 - aparte tellers voor gas - water - elektriciteit
 - ondergronds gasnetwerk - geen gasflessen
 - wintervaste wateraansluiting
-- prijs inclusief [digitale tv en wifi][pdf_tvwifi.nl] voor 4 toestellen 
+- prijs inclusief [digitale tv en wifi][pdf_tvwifi.nl] voor 4 toestellen
 - onderhoud gras door Veld & Duin
 
 
-## Prijzen 2021
+## Prijzen 2022
 
 TYPE 4                |PRIJS           |
 :--------------------:|:--------------:|
-standplaatsvergoeding |€ 2915              
-gemeentetaks          |€ 421,88
-huisvuilbijdrage<br>incl 25 zakken<br> | € 80   
+standplaatsvergoeding |€ 3000             
+gemeentetaks          |€ 430,36
+huisvuilbijdrage<br>incl 25 zakken<br> | € 90   
 [brandverzekering][pdf_brandverzekering.nl]     |afhankelijk van <br>waarde caravan
 
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
-elektriciteit         | € 0,39 / kw        
-water                 | € 7,5 / m³  
-gas                   | € 6,85 / m³       
+elektriciteit         | € 0,41 / kw        
+water                 | € 7,60 / m³  
+gas                   | € 7,50 / m³       
 tellervergoeding      | € 22 / teller
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven
-
-
