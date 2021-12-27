@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Caravan Comfort 2 
+title: Caravan Comfort 2
 description: tiny house met alle comfort
-preview: 
+preview:
     title: Caravan Comfort 2
     button:
-        price: 102
+        price: 118
         for: 2 nachten
     list:
         - "2 personen"
         - "20 m²"
         - "privé-tuintje"
         - "comfort in mini-formaat"
-        
-   
+
+
 
 images:
     - /img/overnachten/verhuring-C2-caravan/c2c-01.jpg
@@ -26,9 +26,9 @@ images:
     - /img/overnachten/verhuring-C2-caravan/c2c-08.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-09.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-10.jpg
-    
-    
-    
+
+
+
 insert:
     - page-images-top
 
@@ -43,14 +43,14 @@ Ons charmante tiny house met privé-tuintje is ideaal voor wie houdt van het bui
 ## Inrichting caravan
 - kleine woonruimte met flatscreen en digitale tv
 - keuken met 2-pits kookvuur en kleine microgolf
-- badkamer met douche en wastafel 
+- badkamer met douche en wastafel
 - apart toilet
 - 1 slaapkamer met dubbelbed (140x200)
 - privé-tuintje met tuinmeubilair
-    
+
 ## Goed om weten
 - caravan voorzien voor max. 2 personen
-- check-in: vanaf 14u - check-out: tot 10u 
+- check-in: vanaf 14u - check-out: tot 10u
 - kleine hond toegelaten maar houd er rekening mee dat de woonruimte beperkt is
 - verhuur het hele jaar behalve van 15 november tot 1 maart
 - € 50 waarborg contant te betalen bij aankomst
@@ -59,7 +59,7 @@ Ons charmante tiny house met privé-tuintje is ideaal voor wie houdt van het bui
 ## Inbegrepen
 - wifi
 - parking 1 auto
-- verbruik gas-water-elektriciteit 
+- verbruik gas-water-elektriciteit
 
 ## Wat mee te brengen?
 Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
@@ -68,7 +68,7 @@ Lakenpakketten kunt u ook huren.
 
 ## Extra's
 
-EXTRA               | PRIJS 
+EXTRA               | PRIJS
 :-------------------|:-----------|
 schoonmaak          | € 45 - zelf schoonmaken kan
 hond                | € 4 / nacht - max 1

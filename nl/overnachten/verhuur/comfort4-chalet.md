@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Chalet Comfort 4 
+title: Chalet Comfort 4
 description: comfortabele 4-persoonschalet in de buurt van het speelplein
-preview: 
-    title: Chalet comfort 4 
+preview:
+    title: Chalet comfort 4
     button:
-        price: 116
+        price: 132
         for: 2 nachten
     list:
         - "4 personen"
@@ -28,9 +28,9 @@ images:
     - /img/overnachten/verhuring-C4-chalet/c4ch-13.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-14.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-15.jpg
-    
-    
-    
+
+
+
 insert:
     - page-images-top
 
@@ -49,13 +49,13 @@ Deze chalets liggen vooraan op de camping en dicht bij het speelplein. Ideaal du
 - badkamer met douche, wastafel en toilet
 - slaapkamers chalet:
     - 1 kamer met dubbelbed (140x200)
-    - 1 kamer met stapelbed 2x (90x200) 
+    - 1 kamer met stapelbed 2x (90x200)
 - tuinmeubilair
-    
+
 ## Goed om weten
 
 - chalet voorzien voor 4 personen
-- check-in: vanaf 14u - check-out: tot 10u 
+- check-in: vanaf 14u - check-out: tot 10u
 - honden toegelaten - max 2 - geen gevaarlijke rassen
 - verhuur het hele jaar behalve van 15 januari tot 12 februari
 - € 50 waarborg contant te betalen bij aankomst
@@ -64,7 +64,7 @@ Deze chalets liggen vooraan op de camping en dicht bij het speelplein. Ideaal du
 ## Inbegrepen
 - wifi
 - parking 1 auto
-- verbruik gas-water-elektriciteit 
+- verbruik gas-water-elektriciteit
 - **uitzondering** forfait energiekost 15/12 - 15/01: € 10 / nacht
 
 
@@ -75,7 +75,7 @@ Lakenpakketten kunt u ook huren.
 
 ## Extra's
 
-EXTRA               | PRIJS 
+EXTRA               | PRIJS
 :-------------------|:-----------|
 schoonmaak          | € 45 - zelf schoonmaken kan
 hond                | € 4 / nacht - max 2

@@ -2,17 +2,17 @@
 layout: page
 title: Appartement Comfort 4+
 description: comfortabel appartement net naast de camping
-preview: 
-    title: Appartement Comfort 4+ 
+preview:
+    title: Appartement Comfort 4+
     button:
-        price: 126
+        price: 144
         for: 2 nachten
     list:
         - "4-5 personen"
         - "65 m²"
         - "zicht op duinen"
         - "lift"
-       
+
 images:
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-01.jpg
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-02.jpg
@@ -29,8 +29,8 @@ images:
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-13.jpg
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-14.jpg
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-15.jpg
-    
-    
+
+
 insert:
     - page-images-top
 
@@ -50,10 +50,10 @@ De appartementen liggen net naast de camping. Zo geniet u van de ruimte van een 
     - 1 kamer met dubbelbed (140x200)
     - 1 kamer met stapelbed 2x (90x200) + zetelbed 1 persoon
 - balkon vooraan (zicht op duinen) en achteraan (zicht op speelplein)
-    
+
 ## Goed om weten
 - appartement voorzien voor 4-5 personen
-- check-in: vanaf 14u - check-out: tot 10u 
+- check-in: vanaf 14u - check-out: tot 10u
 - huisdieren niet toegelaten - wel mogelijk in de chalets of caravans
 - lift
 - gemeenschappelijke ruimte voor fietsen
@@ -65,7 +65,7 @@ De appartementen liggen net naast de camping. Zo geniet u van de ruimte van een 
 ## Inbegrepen
 - wifi
 - parking 1 auto
-- verbruik water en elektriciteit 
+- verbruik water en elektriciteit
 - **uitzondering** forfait energiekost 15/12 - 15/01: € 10 / nacht
 
 ## Wat mee te brengen?
@@ -75,10 +75,10 @@ Lakenpakketten kunt u ook huren.
 
 ## Extra's
 
-EXTRA               | PRIJS 
+EXTRA               | PRIJS
 :-------------------|:-----------|
 schoonmaak          | € 45 - zelf schoonmaken kan
-lakenpakket         | € 10 / dubbelbed - € 9 / enkel bed 
+lakenpakket         | € 10 / dubbelbed - € 9 / enkel bed
 kinderbed           | € 2 / nacht
 kinderstoel         | € 2 / nacht
 parking extra auto  | € 4 / begonnen dag

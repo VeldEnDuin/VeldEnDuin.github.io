@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Chalet Comfort 2 
+title: Chalet Comfort 2
 description: goed uitgeruste chalet  voor 1 tot 2 personen
-preview: 
+preview:
     title: Chalet Comfort 2
     button:
-        price: 102
+        price: 118
         for: 2 nachten
     list:
         - "gezelligheid voor 2"
         - "32 m²"
         - "alle comfort"
         - "hond toegelaten"
-       
-       
+
+
 
 images:
     - /img/overnachten/verhuring-C2-chalet/c2ch-01.jpg
@@ -27,9 +27,9 @@ images:
     - /img/overnachten/verhuring-C2-chalet/c2ch-09.jpg
     - /img/overnachten/verhuring-C2-chalet/c2ch-10.jpg
     - /img/overnachten/verhuring-C2-chalet/c2ch-11.jpg
-    
-    
-    
+
+
+
 insert:
     - page-images-top
 
@@ -50,11 +50,11 @@ Even alleen komen uitwaaien of met z'n tweetjes? In deze chalet is het heerlijk 
 - slaapkamer chalet:
     - 1 kamer met dubbelbed (140x200)
 - tuinmeubilair
-    
+
 ## Goed om weten
 
 - chalet voorzien voor 2 personen
-- check-in: vanaf 14u - check-out: tot 10u 
+- check-in: vanaf 14u - check-out: tot 10u
 - 1 hond toegelaten - geen gevaarlijke rassen
 - verhuur het hele jaar behalve van 15 januari tot 1 maart en 15 november tot 15 december
 - € 50 waarborg contant te betalen bij aankomst
@@ -63,7 +63,7 @@ Even alleen komen uitwaaien of met z'n tweetjes? In deze chalet is het heerlijk 
 ## Inbegrepen
 - wifi
 - parking 1 auto
-- verbruik gas-water-elektriciteit 
+- verbruik gas-water-elektriciteit
 
 ## Wat mee te brengen?
 Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
@@ -72,7 +72,7 @@ Lakenpakketten kunt u ook huren.
 
 ## Extra's
 
-EXTRA               | PRIJS 
+EXTRA               | PRIJS
 :-------------------|:-----------|
 schoonmaak          | € 45 - zelf schoonmaken kan
 hond                | € 4 / nacht - max 1

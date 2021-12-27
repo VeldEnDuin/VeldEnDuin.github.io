@@ -2,17 +2,17 @@
 layout: page
 title: Chalet Comfort 4+
 description: mooie 4-persoonschalet met overdekt terras
-preview: 
+preview:
     title: Chalet comfort 4+
     button:
-        price: 126
+        price: 144
         for: 2 nachten
     list:
         - "4 personen"
         - "42 m²"
         - "overdekt terras"
         - "honden toegelaten"
-        
+
 images:
     - /img/overnachten/verhuring-C4pl-chalet/c4plch-01.jpg
     - /img/overnachten/verhuring-C4pl-chalet/c4plch-02.jpg
@@ -31,9 +31,9 @@ images:
     - /img/overnachten/verhuring-C4pl-chalet/c4plch-15.jpg
     - /img/overnachten/verhuring-C4pl-chalet/c4plch-16.jpg
     - /img/overnachten/verhuring-C4pl-chalet/c4plch-17.jpg
-    
-    
-    
+
+
+
 
 insert:
     - page-images-top
@@ -42,7 +42,7 @@ insert:
 
 {% include links.md %}
 
-Na een heerlijk dagje strand of een uitstapje in de buurt lonkt het overdekte terras (en de aperitief) om nog even terug te blikken of al plannen te maken voor de komende dagen. 
+Na een heerlijk dagje strand of een uitstapje in de buurt lonkt het overdekte terras (en de aperitief) om nog even terug te blikken of al plannen te maken voor de komende dagen.
 
 *Tip: Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.*
 
@@ -52,13 +52,13 @@ Na een heerlijk dagje strand of een uitstapje in de buurt lonkt het overdekte te
 - badkamer met douche, wastafel en toilet
 - slaapkamers chalet:
     - 1 kamer met dubbelbed (140x200)
-    - 1 kamer met stapelbed 2x (90x200) 
+    - 1 kamer met stapelbed 2x (90x200)
 - overdekt en afgesloten terras met tuinmeubilair
-    
+
 ## Goed om weten
 
 - chalet voorzien voor 4 personen
-- check-in: vanaf 14u - check-out: tot 10u 
+- check-in: vanaf 14u - check-out: tot 10u
 - honden toegelaten - max 2 - geen gevaarlijke rassen
 - verhuur het hele jaar behalve van 15 januari tot 12 februari
 - € 50 waarborg contant te betalen bij aankomst
@@ -67,7 +67,7 @@ Na een heerlijk dagje strand of een uitstapje in de buurt lonkt het overdekte te
 ## Inbegrepen
 - wifi
 - parking 1 auto
-- verbruik gas-water-elektriciteit 
+- verbruik gas-water-elektriciteit
 - **uitzondering** forfait energiekost 15/12 - 15/01: € 10 / nacht
 
 ## Wat mee te brengen?
@@ -77,10 +77,10 @@ Lakenpakketten kunt u ook huren.
 
 ## Extra's
 
-EXTRA               | PRIJS 
+EXTRA               | PRIJS
 :-------------------|:-----------|
 schoonmaak          | € 45 - zelf schoonmaken kan
-hond                | € 4 / nacht - max 2 
+hond                | € 4 / nacht - max 2
 lakenpakket         | € 10 / dubbelbed - € 9 / enkel bed
 kinderbed           | € 2 / nacht
 kinderstoel         | € 2 / nacht
