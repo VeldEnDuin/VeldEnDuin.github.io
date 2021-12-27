@@ -57,16 +57,17 @@ De appartementen liggen net naast de camping. Zo geniet u van de ruimte van een 
 - huisdieren niet toegelaten - wel mogelijk in de chalets of caravans
 - lift
 - gemeenschappelijke ruimte voor fietsen
-- verhuur het hele jaar behalve van 15 januari tot 12 februari
-- € 50 waarborg contant te betalen bij aankomst
-- terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
-
+- winterperiode 15/11-15/3: enkel open voor verhuur tijdens de kerstvakantie
 
 ## Inbegrepen
 - wifi
 - parking 1 auto
 - verbruik water en elektriciteit
-- **uitzondering** forfait energiekost 15/12 - 15/01: € 10 / nacht
+- **uitzondering** forfait energiekost 23/12 - 8/1: € 10 / nacht
+
+## schoonmaak
+U dient de afwas te doen, het afval naar ons containerpark te brengen en het verblijf netjes achter te laten.
+
 
 ## Wat mee te brengen?
 Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
@@ -76,8 +77,7 @@ Lakenpakketten kunt u ook huren.
 ## Extra's
 
 EXTRA               | PRIJS
-:-------------------|:-----------|
-schoonmaak          | € 45 - zelf schoonmaken kan
+:-------------------|:-----------|   
 lakenpakket         | € 10 / dubbelbed - € 9 / enkel bed
 kinderbed           | € 2 / nacht
 kinderstoel         | € 2 / nacht
