@@ -56,16 +56,18 @@ Deze chalets liggen vooraan op de camping en dicht bij het speelplein. Ideaal du
 
 - chalet voorzien voor 4 personen
 - check-in: vanaf 14u - check-out: tot 10u
-- honden toegelaten - max 2 - geen gevaarlijke rassen
-- verhuur het hele jaar behalve van 15 januari tot 12 februari
-- € 50 waarborg contant te betalen bij aankomst
-- terugbetaling waarborg bij vertrek indien uw verblijf goed schoongemaakt werd en er geen schade is
+- honden toegelaten - max 2 - aan de leiband - geen gevaarlijke rassen
+- winterperiode 15/11-15/3: enkel open voor verhuur tijdens de kerstvakantie
+
 
 ## Inbegrepen
 - wifi
 - parking 1 auto
 - verbruik gas-water-elektriciteit
-- **uitzondering** forfait energiekost 15/12 - 15/01: € 10 / nacht
+- **uitzondering** forfait energiekost 23/12 - 8/01: € 10 / nacht
+
+## schoonmaak
+U dient de afwas te doen, het afval naar ons containerpark te brengen en het verblijf netjes achter te laten.
 
 
 ## Wat mee te brengen?
@@ -77,8 +79,7 @@ Lakenpakketten kunt u ook huren.
 
 EXTRA               | PRIJS
 :-------------------|:-----------|
-schoonmaak          | € 45 - zelf schoonmaken kan
-hond                | € 4 / nacht - max 2
+hond                | € 5 / nacht - max 2
 lakenpakket         | € 10 / dubbelbed - € 9 / enkel bed
 kinderbed           | € 2 / nacht
 kinderstoel         | € 2 / nacht
