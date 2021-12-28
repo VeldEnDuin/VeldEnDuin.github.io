@@ -62,7 +62,7 @@ Our charming tiny house with private garden is suitable for those who love being
 
 
 ## Cleaning
-You have to do the dishes, take the waste to our containerpark and leave the chalet tidy.- consumption gas-water-electricity
+You have to do the dishes, take the waste to our containerpark and leave the chalet tidy.
 
 
 ## Things to bring along

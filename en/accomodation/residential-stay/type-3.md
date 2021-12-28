@@ -36,7 +36,7 @@ A caravan up to 12 meters can be placed on our type 3 plots. These spacious plot
 - grass maintenance by Veld & Duin
 
 
-## Prices 2021
+## Prices 2022
 
 TYPE 3                |PRICE           |
 :--------------------:|:--------------:|
