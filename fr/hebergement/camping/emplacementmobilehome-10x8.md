@@ -8,7 +8,7 @@ preview:
         price: 21
         for: par nuit
     list:
-        - "emplacement asphalté avec pelouse devant"
+        - "emplacement endurci"
         - "mobilhomes max 8m"
         - "à proximité des sanitaires"
 images:

@@ -8,9 +8,8 @@ preview:
         price: 19
         for: par nuit
     list:
-        - "dimensions : 7x8 ou 10x8 mètres"
-        - "idéal pour petites ou grandes tentes"
-        - "emplacements dans l’herbe"
+        - "petits emplacements: 7x8"
+        - "grands emplacements: 10x8"
         - "à proximité des sanitaires"
 
 images:
