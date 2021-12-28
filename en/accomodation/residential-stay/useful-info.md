@@ -28,10 +28,10 @@ second parking place           |€ 125 / year
 
 DAILY TAX ⑴              |PRICE PER NIGHT|
 :------------------:|:-------------:|
-1 person           | € 2,50        
-2 persons          | € 5  
-family (up to 5 pers.)  | € 10     
-extra person     | € 2,50
+1 person           | € 3        
+2 persons          | € 6  
+family (up to 5 pers.)  | € 11     
+extra person     | € 3
 
 
 ⑴ **Daily Tax:**<br> (Grand)children and (grand)parents can stay overnight without any charges. We kindly request other visitors and tenants who would like to stay overnight to come to the reception and to pay a daily fee.

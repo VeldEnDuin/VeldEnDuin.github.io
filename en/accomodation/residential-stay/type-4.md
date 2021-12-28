@@ -2,17 +2,17 @@
 layout: page
 title: Type 4
 description: extra spacious plots located around a wadi
-preview: 
+preview:
     title: Type 4
     button:
-        price: 2915
+        price: 3000
         for: per year
     list:
         - "average surface: 190 m²"
         - "luxurious pitches"
         - "accessible throughout the year"
-        
-        
+
+
 images:
     - /img/overnachten/residentieel-type4/restyp4-01.jpg
     - /img/overnachten/residentieel-type4/restyp4-02.jpg
@@ -23,8 +23,8 @@ images:
 
 insert:
     - page-images-top
-    
-    
+
+
 ---
 
 {% include links.md %}
@@ -34,7 +34,7 @@ Would you like a big plot overlooking the wadi? Choose one of our luxurious plac
 ## Worth knowing
 
 - all type 4 plots are situated around the wadi
-- concrete slab of 12x4 m 
+- concrete slab of 12x4 m
 - separate meters for gas – water – electricity consumption
 - underground gas network – no bottled gas
 - winter proof gas connection
@@ -42,21 +42,20 @@ Would you like a big plot overlooking the wadi? Choose one of our luxurious plac
 - grass maintenance by Veld & Duin
 
 
-## Prices 2021
+## Prices 2022
 
 TYPE 4                |PRICE           |
 :--------------------:|:--------------:|
-stand price per year  |€ 2915            
-municipal taxes       |€ 421,88 
-contribution for household refuse<br>incl. 25 bags<br> | € 80  
+stand price per year  |€ 3000           
+municipal taxes       |€ 430,36
+contribution for household refuse<br>incl. 25 bags<br> | € 90  
 [fire insurance][pdf_brandverzekering.en]     |depending on <br>the worth of the caravan
 
 CONSUMPTION ⑴        |PRICE          |
 :--------------------:|:-------------:|
-electricity           | € 0,39 / kw        
-water                 | € 7,5 / m³  
-gas                   | € 6,85 / m³       
+electricity           | € 0,41 / kw        
+water                 | € 7,60 / m³  
+gas                   | € 7,50 / m³       
 counter               | € 22 / counter
 
 ⑴ price subject to changing energy charges
-
