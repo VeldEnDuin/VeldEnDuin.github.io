@@ -2,17 +2,17 @@
 layout: page
 title: Type 4
 description: parcelles très spacieuses situées autour d'une pièce d'eau
-preview: 
+preview:
     title: Type 4
     button:
-        price: 2915
+        price: 3000
         for: par an
     list:
         - "surface moyenne : 190 m²"
         - "emplacements de luxe"
         - "accessible toute l’année"
-        
-        
+
+
 images:
     - /img/overnachten/residentieel-type4/restyp4-01.jpg
     - /img/overnachten/residentieel-type4/restyp4-02.jpg
@@ -20,10 +20,10 @@ images:
     - /img/overnachten/residentieel-type4/restyp4-04.jpg
     - /img/overnachten/residentieel-type4/restyp4-05.jpg
     - /img/overnachten/residentieel-type4/restyp4-06.jpg
-    
+
 insert:
     - page-images-top
-    
+
 ---
 
 {% include links.md %}
@@ -41,22 +41,20 @@ Vous cherchez un grand emplacement avec vue sur la pièce d’eau au centre du c
 - entretien du gazon par Veld & Duin
 
 
-## Prix 2021
+## Prix 2022
 
 TYPE 4                |PRIX           |
 :--------------------:|:--------------:|
-indemnité de résidence par an |€ 2915            
-taxe communale                |€ 421,88
-déchets ménagers<br>incl 25 sacs poubelles<br> | € 80   
+indemnité de résidence par an |€ 3000           
+taxe communale                |€ 430,36
+déchets ménagers<br>incl 25 sacs poubelles<br> | € 90   
 [assurance incendie][pdf_brandverzekering.fr]     |selon la<br>valeur de la caravane
 
 CONSOMMATION ⑴           |PRIX          |
 :--------------------:|:-------------:|
-électricité           | € 0,39 / kw        
-eau                   | € 7,5 / m³
-gaz                   | € 6,85 / m³       
+électricité           | € 0,41 / kw        
+eau                   | € 7,60 / m³
+gaz                   | € 7,50 / m³       
 compteur              | € 22 / compteur      
 
 ⑴ prix sous réserve de modifications des prix de l’énergie
-
-

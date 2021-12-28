@@ -2,17 +2,17 @@
 layout: page
 title: Type 2
 description: emplacements spacieux et rénovés
-preview: 
+preview:
     title: Type 2
     button:
-        price: 2175
+        price: 2235
         for: per an
     list:
         - "surface moyenne : 120 m²"
         - "emplacements rénovés"
         - "accessible toute l’année"
-       
-        
+
+
 images:
     - /img/overnachten/residentieel-type2/restyp2-01.jpg
     - /img/overnachten/residentieel-type2/restyp2-02.jpg
@@ -25,10 +25,10 @@ images:
     - /img/overnachten/residentieel-type2/restyp2-09.jpg
     - /img/overnachten/residentieel-type2/restyp2-10.jpg
     - /img/overnachten/residentieel-type2/restyp2-11.jpg
-    
+
 insert:
     - page-images-top
-    
+
 ---
 
 {% include links.md %}
@@ -46,22 +46,20 @@ Qui n’a jamais rêvé d’un pied-à-terre à la mer pour s’y rendre dès qu
 - entretien du gazon par Veld & Duin
 
 
-## Prix 2021
+## Prix 2022
 
 TYPE 2                |PRIX           |
 :--------------------:|:--------------:|
-indemnité de résidence par an |€ 2175              
-taxe communale                |€ 421,88 
-déchets ménagers<br>incl 25 sacs poubelles<br> | € 80   
+indemnité de résidence par an |€ 2235             
+taxe communale                |€ 430,36
+déchets ménagers<br>incl 25 sacs poubelles<br> | € 90
 [assurance incendie][pdf_brandverzekering.fr]     |selon la<br>valeur de la caravane / chalet
 
 CONSOMMATION ⑴        |PRIX        |
 :--------------------:|:-------------:|
-électricité           | € 0,39 / kw        
-eau                   | € 7,5 / m³
-gaz                   | € 6,85 / m³       
+électricité           | € 0,41 / kw        
+eau                   | € 7,60 / m³
+gaz                   | € 7,50 / m³       
 compteur              | € 22 / compteur  
 
 ⑴ prix sous réserve de modifications des prix de l’énergie
-
-
