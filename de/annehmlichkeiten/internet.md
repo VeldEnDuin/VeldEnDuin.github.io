@@ -14,10 +14,10 @@ images:
 
 insert:
     - page-images-top
-    
+
 remove:
     - imgstrip
-    
+
 
 ---
 
@@ -25,31 +25,29 @@ remove:
 
 Posten Sie Ihre schönsten Urlaubsfotos und lassen Sie Ihre Familie und Freunde an den aktuellsten Urlaubserlebnissen teilhaben.
 
-## Internet Mietunterkünfte
+## Internet Mietunterkünfte und Campingplätze
 
-Wenn Sie eine Unterkunft bei uns mieten ist Internet für die Dauer Ihres Aufenthalts inbegriffen im Mietpreis. 
+Wenn Sie eine Unterkunft oder Campingplatz bei uns mieten ist Internet für die Dauer Ihres Aufenthalts inbegriffen im Mietpreis.
 
-In jeder Mietunterkunft garantiert ein Modem eine stabile und schnelle Verbindung. 
+In jeder Mietunterkunft garantiert ein Modem eine stabile und schnelle Verbindung.
 
-Auf dem Camping (Spielplatz, ...) verbindet Ihr Gerät sich automatisch mit dem Wifi-Netz. 
+Auf dem Camping (Spielplatz, ...) verbindet Ihr Gerät sich automatisch mit dem Wifi-Netz.
 
-## Internet Campingplätze
 
-Auf unseren Campingplätzen können Sie unser Wifi-Netz verwenden. Kaufen Sie die Tickets an der Rezeption, loggen Sie ein und Sie sind verbunden!
 
-ZEIT ONLINE         | PREIS       | 
+ZEIT ONLINE         | PREIS       |
 :------------------:|:-----------:|
 2 Tage              |€ 2                
 4 Tage              |€ 4                     
 7 Tage              |€ 6        
 15 Tage             |€ 12        
 3 Wochen            |€ 16        
-1 Monat             |€ 20 
+1 Monat             |€ 20
 
 Jedes Ticket verbindet ein Gerät.
 
 ## Internet Dauercamper
 
-Jeder Eigentümer erhält jedes Jahr bei der Rechnung 4  Internettickets (inbegriffen im Standgeld).  Diese Codes sind streng persönlich und können 4 Geräte (Laptop, Smartphone, Tablet) verbinden. 
+Jeder Eigentümer erhält jedes Jahr bei der Rechnung 4  Internettickets (inbegriffen im Standgeld).  Diese Codes sind streng persönlich und können 4 Geräte (Laptop, Smartphone, Tablet) verbinden.
 
-Mit diesen Codes können Sie entweder das WLAN-Netz nutzen oder sich für schnelles Internet über das Modem entscheiden. Alle Info hierüber finden Sie auf dem [Infoblatt][pdf_tvwifi.de]. 
+Mit diesen Codes können Sie entweder das WLAN-Netz nutzen oder sich für schnelles Internet über das Modem entscheiden. Alle Info hierüber finden Sie auf dem [Infoblatt][pdf_tvwifi.de].

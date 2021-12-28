@@ -22,21 +22,20 @@ insert:
 
 remove:
     - imgstrip
-    
+
 
 ---
 {% include links.md %}
 
-## Animation Veld & Duin Sommer 2021
+## Animation Veld & Duin Sommer 2022
 
-Im Moment ist es noch unsicher ob Animation überhaupt möglich sein wird auf dem Camping und unter welchen Bedingungen. 
+Im Moment ist es noch unsicher ob Animation überhaupt möglich sein wird auf dem Camping und unter welchen Bedingungen.
 
-Wir schauen uns die Möglichkeiten für kleinere und sichere Aktivitäten an. Wir werden diese einplanen müssen in Abhängigkeit von den Richtlinien, Möglichkeiten und Wetter. 
+Wir schauen uns die Möglichkeiten für kleinere und sichere Aktivitäten an. Wir werden diese einplanen müssen in Abhängigkeit von den Richtlinien, Möglichkeiten und Wetter.
 
-Wir halten Sie auf dem Laufenden über Facebook und unserem Kreidetafel. 
+Wir halten Sie auf dem Laufenden über Facebook und unserem Kreidetafel.
 
 
 ## Animation Bredene und Umgebung
 
 Auch hier bleibt abzuwarten, was im kommenden Sommer möglich oder nicht möglich sein wird. Die neuesten Nachrichten dazu finden Sie auf unserer [Aktivitätenseite][doen.de] und auf Facebook.
-
