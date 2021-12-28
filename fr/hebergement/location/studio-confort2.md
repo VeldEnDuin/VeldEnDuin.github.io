@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Studio Confort 2 
+title: Studio Confort 2
 description: résidence avec terrasse fermée et exposée sud
-preview: 
+preview:
     title: Studio Confort 2
     button:
-        price: 102
+        price: 118
         for: 2 nuits
     list:
         - "séjour agréable à 2"
         - "32 m²"
         - "tout le confort nécessaire"
         - "terrasse partagée"
-       
-       
+
+
 
 images:
     - /img/overnachten/verhuring-C2-studio/c2s-01.jpg
@@ -28,8 +28,8 @@ images:
     - /img/overnachten/verhuring-C2-studio/c2s-10.jpg
     - /img/overnachten/verhuring-C2-studio/c2s-11.jpg
     - /img/overnachten/verhuring-C2-studio/c2s-12.jpg
-    
-    
+
+
 insert:
     - page-images-top
 
@@ -49,21 +49,23 @@ Venez profiter de l'air marin pendant quelques jours seul ou à deux. Après une
 - chambre à coucher dans le studio:
     - 1 chambre avec lit double (140x200)
 - terrasse partagée avec mobilier de jardin
-    
+
 ## Bon à savoir
 
 - studio d’une capacité de 2 personnes
 - check-in: à partir de 14h00 - check-out: jusqu'à 10h00
 - animaux de compagnie non admis – admis dans les chalets ou caravanes
-- location toute l'année sauf du 15 janvier au 12 février
-- caution de 50 € à payer en espèces à l'arrivée
-- la caution est restituée au départ si le studio a été bien nettoyée et si elle se trouve dans un bon état
+- période hiver 15/11-15/3: la location n'est ouverte que pendant les vacances de Noël
+
 
 ## Inclus
 - wifi
 - parking 1 voiture
-- consommation gaz - eau - électricité 
+- consommation gaz - eau - électricité
 - exception: forfait pour les frais énergétiques 15/12 - 15/01: € 10 / nuit
+
+## Nettoyage
+Vous devez faire la vaisselle, mettre les déchets dans notre parc à conteneurs et laisser votre logement rangé.
 
 ## Que faut-il emporter?
 Outre vos affaires personnelles, vous devez emporter vos propres serviettes, torchons et linge de lit.
@@ -74,8 +76,6 @@ Le linge de lit peut être loué au camping.
 
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
-nettoyage           | € 45 - le locataire est autorisé à faire le nettoyage lui-même
-chien               | € 4 / nuit - max 1
 draps               | € 10 / lit double
 lit d'enfant        | € 2 / nuit
 chaise haute        | € 2 / nuit
