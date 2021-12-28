@@ -2,17 +2,17 @@
 layout: page
 title: Appartement Comfort 4+
 description: komfortable Wohnung direkt neben dem Campingplatz
-preview: 
+preview:
     title: Appartement Comfort 4+
     button:
-        price: 126
+        price: 144
         for: 2 Nächte
     list:
         - "4-5 Personen"
         - "65 m²"
         - "Blick auf die Dünen"
         - "Aufzug"
-       
+
 images:
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-01.jpg
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-02.jpg
@@ -29,8 +29,8 @@ images:
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-13.jpg
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-14.jpg
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-15.jpg
-    
-    
+
+
 insert:
     - page-images-top
 
@@ -52,7 +52,7 @@ Die Appartements liegen neben dem Campingplatz. So genießen Sie den Platz eines
     - 1 Zimmer mit Doppelbett (140 x 200)
     - 1 Zimmer mit zwei Etagenbetten (90 x 200) + Umbausessel (Bett für 1 Person)
 - Balkons nach vorn (Blick auf die Dünen) und hinten (Blick auf den Spielplatz)
-    
+
 ## Gut zu wissen
 
 - Appartement vorgesehen für 4-5 Personen
@@ -60,15 +60,18 @@ Die Appartements liegen neben dem Campingplatz. So genießen Sie den Platz eines
 - Haustiere nicht zugelassen, jedoch möglich in Chalets oder Caravans
 - Aufzug
 - Gemeinsamer Fahrradraum
-- Vermietung das ganze Jahr über außer vom 15. Januar bis 12. Februar
-- 50 € Kaution bei Ankunft in bar zu zahlen
-- Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
+- Winterzeitraum 15.11 - 15.03: nur während der Weihnachtsferien zu mieten
+
 
 ## Inbegriffen
 - W-lan
 - Parkplatz für 1 Auto
 - Verbrauch von Wasser und Strom
-- Ausnahme: Energiekostenpauschale 15/12 - 15/01: € 10 / Nacht
+- Ausnahme: Energiekostenpauschale 23/12 - 8/01: € 10 / Nacht
+
+## Reinigung
+Sie brauchen den Abwasch zu erledigen, Abfall nach unserem Containerpark zu bringen und Ihre Unterkunft aufgeräumt zu hinterlassen.
+
 
 ## Was Sie mitbringen müssen
 Neben Ihren persönlichen Dingen müssen Sie noch Handtücher, Küchenhandtücher und Bettbezüge mitbringen.
@@ -78,9 +81,8 @@ Bettbezüge können Sie auch bei uns mieten.
 
 ## Extras
 
-EXTRA               | PREIS 
+EXTRA               | PREIS
 :-------------------|:-----------|
-Reinigung          | € 45 - selbst reinigen ist gestattet
 Betttuchpaket         | € 10 / Doppelbett - € 9 / Einzelbett
 Kinderbett           | € 2 / Nacht
 Kinderstuhl         | € 2 / Nacht

@@ -2,18 +2,18 @@
 layout: page
 title: Luxusappartement
 description: Entspannen Sie sich in diesen luxuriösen Apartments
-preview: 
+preview:
     title: Luxusappartement
     button:
-        price: 143
+        price: 162
         for: 2 Nächte
     list:
         - "5-6 Personen"
         - "65 m²"
         - "Sonnenterrasse oder Balkon"
         - "Geschirrspülmaschine"
-        
-        
+
+
 images:
     - /img/overnachten/verhuring-luxe-appartement/lx-01.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-02.jpg
@@ -29,7 +29,7 @@ images:
     - /img/overnachten/verhuring-luxe-appartement/lx-12.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-13.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-14.jpg
-    
+
 
 insert:
     - page-images-top
@@ -55,7 +55,7 @@ Diese neuen Luxusappartements liegen über der Rezeption und bieten einen herrli
 - Appartement 1. Stock: große Sonnenterrasse
 - Appartement 2. Stock: Balkon
 
-    
+
 ## Gut zu wissen:
 
 - Appartement 1. Stock: höchstens 5 Personen
@@ -63,15 +63,18 @@ Diese neuen Luxusappartements liegen über der Rezeption und bieten einen herrli
 - Check-in: ab 14 Uhr - Check-out: bis 10 Uhr
 - Haustiere nicht zugelassen, jedoch möglich in Chalets oder Caravans
 - Treppe - kein Aufzug
-- Vermietung das ganze Jahr über außer vom 15. Januar bis 12. Februar
-- 50 € Kaution bei Ankunft in bar zu zahlen
-- Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
+- Winterzeitraum 15.11 - 15.03: nur während der Weihnachtsferien zu mieten
+
 
 ## Inbegriffen
 - W-lan
 - Parkplatz für 1 Auto
 - Verbrauch von Wasser und Strom
-- Ausnahme: Energiekostenpauschale 15/12 - 15/01: € 10 / Nacht
+- Ausnahme: Energiekostenpauschale 23/12 - 8/01: € 10 / Nacht
+
+
+## Reinigung
+Sie brauchen den Abwasch zu erledigen, Abfall nach unserem Containerpark zu bringen und Ihre Unterkunft aufgeräumt zu hinterlassen.
 
 
 ## Was Sie mitbringen müssen
@@ -82,9 +85,8 @@ Bettbezüge können Sie auch bei uns mieten.
 
 ## Extras
 
-EXTRA               | PREIS 
+EXTRA               | PREIS
 :-------------------|:-----------|
-Reinigung          | € 45 - selbst reinigen ist gestattet
 Betttuchpaket         | € 10 / Doppelbett - € 9 / Einzelbett
 Kinderbett           | € 2 / Nacht
 Kinderstuhl         | € 2 / Nacht

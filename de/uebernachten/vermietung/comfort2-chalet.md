@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Chalet Comfort 2 
+title: Chalet Comfort 2
 description: gut ausgestattetes chalet für 1 bis 2 personen
-preview: 
+preview:
     title: Chalet Comfort 2
     button:
-        price: 102
+        price: 118
         for: 2 Nächte
     list:
         - "Gemütlichkeit für 2"
         - "32 m²"
         - "Aller Komfort"
         - "Hund zulässig"
-       
-       
+
+
 
 images:
     - /img/overnachten/verhuring-C2-chalet/c2ch-01.jpg
@@ -27,8 +27,8 @@ images:
     - /img/overnachten/verhuring-C2-chalet/c2ch-09.jpg
     - /img/overnachten/verhuring-C2-chalet/c2ch-10.jpg
     - /img/overnachten/verhuring-C2-chalet/c2ch-11.jpg
-    
-    
+
+
 insert:
     - page-images-top
 
@@ -48,21 +48,26 @@ Sie wollen sich ein wenig allein oder zu zweit den Wind um die Nase wehen lassen
 - Schlafzimmer Chalet:
     - 1 Zimmer mit Doppelbett (140 x 200)
 - Gartenmöbel
-    
+
 ## Gut zu wissen
 
 - Chalet vorgesehen für 2 Personen
 - Check-in: ab 14 Uhr - Check-out: bis 10 Uhr
-- 1 Hund zulässig – keine gefährliche Rassen
-- Vermietung das ganze Jahr über außer vom 15. November bis 1. März
-- 50 € Kaution bei Ankunft in bar zu zahlen
-- Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
+- 1 Hund zulässig – angeleint – keine gefährliche Rassen
+- Winterzeitraum 15.11 - 15.03: nur während der Weihnachtsferien zu mieten
+
 
 
 ## Inbegriffen
 - W-lan
 - Parkplatz für 1 Auto
-- Verbrauch von Gas, Wasser und Strom 
+- Verbrauch von Gas, Wasser und Strom
+- Ausnahme: Energiekostenpauschale 23/12 - 8/01: € 10 / Nacht
+
+
+## Reinigung
+Sie brauchen den Abwasch zu erledigen, Abfall nach unserem Containerpark zu bringen und Ihre Unterkunft aufgeräumt zu hinterlassen.
+
 
 ## Was Sie mitbringen müssen
 Neben Ihren persönlichen Dingen müssen Sie noch Handtücher, Küchenhandtücher und Bettbezüge mitbringen.
@@ -72,10 +77,9 @@ Bettbezüge können Sie auch bei uns mieten.
 
 ## Extras
 
-EXTRA               | PREIS 
+EXTRA               | PREIS
 :-------------------|:-----------|
-Reinigung          | € 45 - selbst reinigen ist gestattet
-Hund                | € 4 / Nacht - max 1
+Hund                | € 5 / Nacht - max 1
 Betttuchpaket         | € 10 / Doppelbett
 Kinderbett           | € 2 / Nacht
 Kinderstuhl         | € 2 / Nacht

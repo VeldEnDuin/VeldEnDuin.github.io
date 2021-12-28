@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Studio Comfort 2 
+title: Studio Comfort 2
 description: Residenz mit geschlossener und nach Süden ausgerichteter Terrasse
-preview: 
+preview:
     title: Studio Comfort 2
     button:
-        price: 102
+        price: 118
         for: 2 Nächte
     list:
         - "Gemütlichkeit für 2"
         - "32 m²"
         - "Aller Komfort"
         - "geteilte Terrasse"
-       
-       
+
+
 
 images:
     - /img/overnachten/verhuring-C2-studio/c2s-01.jpg
@@ -28,8 +28,8 @@ images:
     - /img/overnachten/verhuring-C2-studio/c2s-10.jpg
     - /img/overnachten/verhuring-C2-studio/c2s-11.jpg
     - /img/overnachten/verhuring-C2-studio/c2s-12.jpg
-    
-    
+
+
 insert:
     - page-images-top
 
@@ -49,21 +49,23 @@ Kommen Sie und genießen Sie die Seeluft für ein paar Tage allein oder zu zweit
 - Schlafzimmer Studio:
     - 1 Zimmer mit Doppelbett (140 x 200)
 - geteilte Terrasse mit Gartenmöbel
-    
+
 ## Gut zu wissen
 
 - Studio vorgesehen für 2 Personen
 - Check-in: ab 14 Uhr - Check-out: bis 10 Uhr
 - Haustiere nicht zugelassen, jedoch möglich in Chalets oder Caravans
-- Vermietung das ganze Jahr über außer vom 15. Januar bis 12. Februar
-- 50 € Kaution bei Ankunft in bar zu zahlen
-- Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
+- Winterzeitraum 15.11 - 15.03: nur während der Weihnachtsferien zu vermieten
+
 
 ## Inbegriffen
 - W-lan
 - Parkplatz für 1 Auto
-- Verbrauch von Gas, Wasser und Strom 
-- Ausnahme: Energiekostenpauschale 15/12 - 15/01: € 10 / Nacht
+- Verbrauch von Gas, Wasser und Strom
+- Ausnahme: Energiekostenpauschale 23/12 - 8/01: € 10 / Nacht
+
+## Reinigung
+Sie brauchen den Abwasch zu erledigen, Abfall nach unserem Containerpark zu bringen und Ihre Unterkunft aufgeräumt zu hinterlassen.
 
 ## Was Sie mitbringen müssen
 Neben Ihren persönlichen Dingen müssen Sie noch Handtücher, Küchenhandtücher und Bettbezüge mitbringen.
@@ -74,10 +76,8 @@ Bettbezüge können Sie auch bei uns mieten.
 
 ## Extras
 
-EXTRA               | PREIS 
+EXTRA               | PREIS
 :-------------------|:-----------|
-Reinigung          | € 45 - selbst reinigen ist gestattet
-Hund                | € 4 / Nacht - max 1
 Betttuchpaket         | € 10 / Doppelbett
 Kinderbett           | € 2 / Nacht
 Kinderstuhl         | € 2 / Nacht

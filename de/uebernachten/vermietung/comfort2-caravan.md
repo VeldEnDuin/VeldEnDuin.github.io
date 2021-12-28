@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Caravan Comfort 2 
+title: Caravan Comfort 2
 description: kleines Haus mit allem Komfort
-preview: 
+preview:
     title: Caravan Comfort 2
     button:
-        price: 102
+        price: 118
         for: 2 Nächte
     list:
         - "2 Personen"
         - "20 m²"
         - "Privatgärtchen"
         - "Komfort im Miniformatt"
-        
-   
+
+
 
 images:
     - /img/overnachten/verhuring-C2-caravan/c2c-01.jpg
@@ -26,8 +26,8 @@ images:
     - /img/overnachten/verhuring-C2-caravan/c2c-08.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-09.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-10.jpg
-    
-    
+
+
 insert:
     - page-images-top
 
@@ -43,24 +43,23 @@ Unser charmantes kleines Haus mit privatem Garten ist ideal für Menschen, die s
 
 - Kleines Wohnzimmer mit Flachbildschirm und Digitalfernseher
 - Küche mit 2-flammigem Herd und kleiner Mikrowelle
-- Badezimmer mit Dusche und Waschbecken 
+- Badezimmer mit Dusche und Waschbecken
 - Getrennte Toilette
 - 1 Schlafzimmer mit Doppelbett (140 x 200)
 - Privatgärtchen mit Gartenmöbeln
-    
+
 ## Gut zu wissen
 
 - Caravan vorgesehen für max. 2 Personen
 - Check-in: ab 14 Uhr - Check-out: bis 10 Uhr
 - Ein kleiner Hund ist zulässig. Bitte beachten Sie jedoch, dass der Wohnraum nicht groß ist
-- Vermietung das ganze Jahr über außer vom 15. November bis 1. März
-- 50 € Kaution bei Ankunft in bar zu zahlen
-- Rückzahlung der Kaution bei Abreise, wenn Ihre Unterkunft gut gereinigt wurde und keine Schäden entstanden sind
+- Vermietung das ganze Jahr über außer vom 15. November bis 15.
+
 
 ## Inbegriffen
 - W-lan
 - Parkplatz für 1 Auto
-- Verbrauch von Gas, Wasser und Strom 
+- Verbrauch von Gas, Wasser und Strom
 
 ## Was Sie mitbringen müssen
 Neben Ihren persönlichen Dingen müssen Sie noch Handtücher, Küchenhandtücher und Bettbezüge mitbringen.
@@ -70,10 +69,9 @@ Bettbezüge können Sie auch bei uns mieten.
 
 ## Extras
 
-EXTRA               | PREIS 
+EXTRA               | PREIS
 :-------------------|:-----------|
-Reinigung          | € 45 - selbst reinigen ist gestattet
-Hund                | € 4 / Nacht - max 1
+Hund                | € 5 / Nacht - max 1
 Betttuchpaket         | € 10 / Doppelbett
 Kinderbett           | € 2 / Nacht
 Kinderstuhl         | € 2 / Nacht
