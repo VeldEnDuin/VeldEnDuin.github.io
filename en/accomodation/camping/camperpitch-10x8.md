@@ -2,15 +2,14 @@
 layout: page
 title: Camper pitch 10x8
 description: spacious and paved pitches for campers
-preview: 
+preview:
     title: Camper pitch 10x8
     button:
-        price: 19
+        price: 21
         for: per night
     list:
-        - "paved surface dimensions: 8x3m"
-        - "paved areas with grass in front"
-        - "service station"
+        - "paved areas"
+        - "mobilhomes max 8m"
         - "sanitary block nearby"
 images:
     - /img/overnachten/trekkers-mob-10x8/mob10x8-01.jpg
@@ -24,13 +23,13 @@ images:
     - /img/overnachten/trekkers-mob-10x8/mob10x8-09.jpg
     - /img/overnachten/trekkers-mob-10x8/mob10x8-10.jpg
     - /img/overnachten/trekkers-mob-10x8/mob10x8-11.jpg
-    
-    
-    
-    
+
+
+
+
 insert:
     - page-images-top
-    
+
 ---
 {% include links.md %}
 
@@ -39,19 +38,19 @@ Combine the freedom of travelling with a camper with the comfort of our campsite
 ## Worth knowing
 
 - max 6 persons / pitch
-- dogs allowed - max 2 – no dangerous breeds
-- accessible all year round except from January 15 to February 12
+- dogs allowed - max 2 – on the leash – no dangerous breeds
+- winter period 15/11-15/03: only open for rental during the Christmas Holidays
 
-## Prices 2021 per night
+## Prices 2022 per night
 
 NUMBER OF PERSONS | LOW SEASON | HIGH SEASON      
 :-------------:|:-----------:|:-----------:|
-1 person      |€ 19          |€ 23     
-2 persons     |€ 22          |€ 26         
-3 persons     |€ 25          |€ 29
-4 persons     |€ 28          |€ 32   
-5 persons     |€ 31          |€ 35
-6 persons     |€ 34          |€ 38
+1 person      |€ 21          |€ 26   
+2 persons     |€ 23          |€ 28         
+3 persons     |€ 25          |€ 30
+4 persons     |€ 27          |€ 32   
+5 persons     |€ 29          |€ 34
+6 persons     |€ 31          |€ 36
 
 * 15/7 - 15/8: upon reservation as from 7 nights
 * high season: July - August - long weekends

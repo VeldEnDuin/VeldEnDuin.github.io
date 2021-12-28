@@ -2,15 +2,14 @@
 layout: page
 title: Camping pitch 10x8
 description: choice between a paved pitch or grass pitch
-preview: 
+preview:
     title: Camping pitch 10x8
     button:
-        price: 19
+        price: 21
         for: per night
     list:
-        - "80m² pitches"
+        - "grass pitches"
         - "for caravans"
-        - "grass or paved pitches"
         - "sanitary block nearby"
 images:
     - /img/overnachten/trekkers-kamp-10x8/kamp10x8-01.jpg
@@ -21,33 +20,33 @@ images:
     - /img/overnachten/trekkers-kamp-10x8/kamp10x8-06.jpg
     - /img/overnachten/trekkers-kamp-10x8/kamp10x8-07.jpg
     - /img/overnachten/trekkers-kamp-10x8/kamp10x8-08.jpg
-    
-    
-    
+
+
+
 insert:
     - page-images-top
-    
+
 ---
 {% include links.md %}
 
-For the towing caravans, we have the choice of a paved pitch with grass in front or a full grass pitch. Preference can be communicated when booking.
+Our grass pitches invite you for a wonderfully relaxing stay with your tow caravan.
 
 ## Worth knowing
 
 - max 6 persons / pitch
 - dogs allowed - max 2 – no dangerous breeds
-- accessible all year round except from January 15 to February 12
+- winter period 15/11-15/03: only open for rental during the Christmas Holidays
 
-## Prices 2021 per night
+## Prices 2022 per night
 
 NUMBER OF PERSONS | LOW SEASON | HIGH SEASON      
 :-------------:|:-----------:|:-----------:|
-1 person      |€ 19          |€ 23     
-2 persons     |€ 22          |€ 26         
-3 persons     |€ 25          |€ 29
-4 persons     |€ 28          |€ 32   
-5 persons     |€ 31          |€ 35
-6 persons     |€ 34          |€ 38
+1 person      |€ 21          |€ 26   
+2 persons     |€ 23          |€ 28         
+3 persons     |€ 25          |€ 30
+4 persons     |€ 27          |€ 32   
+5 persons     |€ 29          |€ 34
+6 persons     |€ 31          |€ 36
 
 * 15/7 - 15/8: upon reservation as from 7 nights
 * high season: July - August - long weekends
