@@ -2,18 +2,18 @@
 layout: page
 title: Luxury Apartment
 description: blissfully relax in these luxurious apartments
-preview: 
+preview:
     title: Luxury Apartment
     button:
-        price: 143
+        price: 162
         for: 2 nights
     list:
         - "5-6 persons"
         - "65 m²"
         - "sun terrace or balcony"
         - "dishwasher"
-        
-        
+
+
 images:
     - /img/overnachten/verhuring-luxe-appartement/lx-01.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-02.jpg
@@ -29,7 +29,7 @@ images:
     - /img/overnachten/verhuring-luxe-appartement/lx-12.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-13.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-14.jpg
-    
+
 
 insert:
     - page-images-top
@@ -44,7 +44,7 @@ Located above the reception these new and luxurious apartments overlook the flor
 ## Facilities luxury apartment
 
 - spacious living room with flat screen and set top box
-- equipped kitchen with dishwasher and microwave 
+- equipped kitchen with dishwasher and microwave
 - bathroom with shower, washbasin and toilet
 - bedrooms apartment on the first floor:
     - 1 room with a big double bed (180x200)
@@ -55,7 +55,7 @@ Located above the reception these new and luxurious apartments overlook the flor
 - apartment on the first floor: big sun terrace
 - apartment on the second floor: balcony
 
-    
+
 ## Worth knowing
 
 - apartment first floor: max 5 persons
@@ -63,15 +63,16 @@ Located above the reception these new and luxurious apartments overlook the flor
 - check-in: from 2 pm - check-out: until 10 am
 - pets not allowed in the apartments, pets are allowed in the chalets or caravans
 - staircase - no lift
-- rental all year round except from January 15 to February 12
-- € 50 deposit to be paid in cash on arrival
-- will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
+- winter period 15/11-15/03: only open for rental during the Christmas Holidays
 
 ## included
 - wifi
 - parking 1 car
 - consumption water & electricity
-- exception: flat-rate energy cost 15/12 - 15/01: € 10 / night
+- exception: flat-rate energy cost 23/12 - 8/01: € 10 / night
+
+## Cleaning
+You have to do the dishes, take the waste to our containerpark and leave the chalet tidy.
 
 
 ## Things to bring along
@@ -84,7 +85,6 @@ Bed linen can also be rented at the reception.
 
 EXTRA SERVICE             | PRICE
 :-------------------|:-----------|
-cleaning          | € 45 - final cleaning by tenants is allowed
 bed linen        | € 10 / double bed - € 9 / single bed
 baby cot          | € 2 / night
 baby chair         | € 2 / night

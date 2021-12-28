@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Chalet Comfort 4 
+title: Chalet Comfort 4
 description: comfortable 4-person chalet near the playground
-preview: 
-    title: Chalet comfort 4 
+preview:
+    title: Chalet comfort 4
     button:
-        price: 116
+        price: 132
         for: 2 nights
     list:
         - "4 persons"
@@ -28,9 +28,9 @@ images:
     - /img/overnachten/verhuring-C4-chalet/c4ch-13.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-14.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-15.jpg
-    
-    
-    
+
+
+
 insert:
     - page-images-top
 
@@ -46,26 +46,28 @@ These chalets are situated in front, close to the playground. Well situated for 
 
 - spacious living room with flat screen and digital TV
 - equipped kitchen with microwave
-- bathroom with shower, washbasin and toilet 
+- bathroom with shower, washbasin and toilet
 – bedrooms chalet:
     - 1 room with double bed (140x200)
-    - 1 room with bunk beds 2x (90x200) 
+    - 1 room with bunk beds 2x (90x200)
 - garden furniture
-    
+
 ## Worth knowing
 
 - chalet for 4 persons
 - check-in: from 2 pm - check-out: until 10 am
 - dogs allowed - max 2 – no dangerous breeds
-- rental all year round except from January 15 to February 12
-- € 50 deposit to be paid in cash on arrival
-- will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
+- winter period 15/11-15/03: only open for rental during the Christmas Holidays
+
 
 ## included
 - wifi
 - parking 1 car
 - consumption gas - water - electricity
-- exception: flat-rate energy cost 15/12 - 15/01: € 10 / night
+- exception: flat-rate energy cost 23/12 - 8/01: € 10 / night
+
+## Cleaning
+You have to do the dishes, take the waste to our containerpark and leave the chalet tidy.
 
 ## Things to bring along
 Besides your personal belongings you need to bring along towels, kitchen towels and bed linen.
@@ -76,8 +78,7 @@ Bed linen can also be rented at the reception.
 
 EXTRA SERVICE               | PRICE
 :-------------------|:-----------|
-cleaning          | € 45 - final cleaning by tenants is allowed
-dogs               | € 4 / night - max 2
+dogs               | € 5 / night - max 2
 bed linen        | € 10 / double bed - € 9 / single bed
 baby cot          | € 2 / night
 baby chair         | € 2 / night

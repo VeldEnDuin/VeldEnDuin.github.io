@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Caravan Comfort 2 
+title: Caravan Comfort 2
 description: tiny house with every comfort
-preview: 
+preview:
     title: Caravan Comfort 2
     button:
-        price: 102
+        price: 118
         for: 2 nights
     list:
         - "2 persons"
         - "20 m²"
         - "private-garden"
         - "comfort in mini-format"
-        
-   
+
+
 
 images:
     - /img/overnachten/verhuring-C2-caravan/c2c-01.jpg
@@ -26,8 +26,8 @@ images:
     - /img/overnachten/verhuring-C2-caravan/c2c-08.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-09.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-10.jpg
-    
-    
+
+
 insert:
     - page-images-top
 
@@ -47,20 +47,22 @@ Our charming tiny house with private garden is suitable for those who love being
 - separate toilet
 - 1 bedroom with a double bed (140x200)
 - private garden with garden furniture
-    
+
 ## Worth knowing
 
 - caravan for max. 2 people
 - check-in: from 2 pm - check-out: until 10 am
 - a small pet is allowed but keep in mind that the space is limited
-- rental all year round except from 15 November to 1 March
-- € 50 deposit to be paid in cash on arrival
-- will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
+- winter period 15/11-15/03: closed for rental
 
 ## Included
 - wifi
 - parking 1 car
 - consumption gas-water-electricity
+
+
+## Cleaning
+You have to do the dishes, take the waste to our containerpark and leave the chalet tidy.- consumption gas-water-electricity
 
 
 ## Things to bring along
@@ -70,10 +72,9 @@ Bed linen can also be rented at the reception.
 
 ## Extra Services
 
-EXTRA SERVICE            | PRICE 
+EXTRA SERVICE            | PRICE
 :-------------------|:-----------|
-cleaning          | € 45 - final cleaning by tenants is allowed
-dogs               | € 4 / night - max 1
+dogs               | € 5 / night - max 1
 bed linen        | € 10 / double bed
 baby cot          | € 2 / night
 baby chair         | € 2 / night
