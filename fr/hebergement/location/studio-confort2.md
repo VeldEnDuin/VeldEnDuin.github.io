@@ -62,7 +62,7 @@ Venez profiter de l'air marin pendant quelques jours seul ou à deux. Après une
 - wifi
 - parking 1 voiture
 - consommation gaz - eau - électricité
-- exception: forfait pour les frais énergétiques 15/12 - 15/01: € 10 / nuit
+- exception: forfait pour les frais énergétiques 23/12 - 8/01: € 10 / nuit
 
 ## Nettoyage
 Vous devez faire la vaisselle, mettre les déchets dans notre parc à conteneurs et laisser votre logement rangé.
