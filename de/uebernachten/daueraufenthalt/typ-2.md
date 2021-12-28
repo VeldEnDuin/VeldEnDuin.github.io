@@ -2,17 +2,17 @@
 layout: page
 title: Typ 2
 description: geräumige und renovierte Stellplätze
-preview: 
+preview:
     title: Typ 2
     button:
-        price: 2175
+        price: 2235
         for: pro Jahr
     list:
         - "Durchschnittl. Fläche: 120 m²"
         - "renovierte Plätze"
         - "ganzjährig zugänglich"
-       
-        
+
+
 images:
     - /img/overnachten/residentieel-type2/restyp2-01.jpg
     - /img/overnachten/residentieel-type2/restyp2-02.jpg
@@ -25,11 +25,11 @@ images:
     - /img/overnachten/residentieel-type2/restyp2-09.jpg
     - /img/overnachten/residentieel-type2/restyp2-10.jpg
     - /img/overnachten/residentieel-type2/restyp2-11.jpg
-    
+
 insert:
     - page-images-top
-    
-    
+
+
 ---
 
 {% include links.md %}
@@ -47,22 +47,20 @@ Ein festes Zuhause an der Küste, in das man immer wieder zurückkehrt, wer trä
 - Graspflege von Veld & Duin
 
 
-## Preise 2021
+## Preise 2022
 
 TYP 2                                         |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
-Stellplatzkosten                         | € 2175         
-Gemeindesteuer                                   | € 421,88
-Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 80    
+Stellplatzkosten                         | € 2235       
+Gemeindesteuer                                   | € 430,36
+Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 90  
  [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens / Chalets
 
 VERBRAUCH ⑴           |PREIS          |
 :--------------------:|:-------------:|
-Strom                 | € 0,39 / Kw        
-Wasser                | € 7,5 / m³
-Gas                   | € 6,85 / m³
+Strom                 | € 0,41 / Kw        
+Wasser                | € 7,60 / m³
+Gas                   | € 7,50 / m³
 Zähler                | € 22 / Zähler
 
 ⑴ Preis vorbehaltlich Änderungen der Energiepreise
-
-

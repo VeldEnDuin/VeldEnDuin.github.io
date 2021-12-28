@@ -28,10 +28,10 @@ Parkplatz 2. Auto      |€ 4 / angefangenem Tag
 
 KURTAXE ⑴          |PREIS PRO NACHT|
 :------------------:|:-------------:|
-1 Person          | € 2,50        
-2 Personen          | € 5  
-Familie (bis 5 pers)  | € 10    
-Extra Person       | € 2,50
+1 Person          | € 3        
+2 Personen          | € 6  
+Familie (bis 5 pers)  | € 11    
+Extra Person       | € 3
 
 
 ⑴ **Kurtaxe:**<br> (Enkel-)Kinder und (Groß-)Eltern des Eigentümers dürfen gratis übernachten.. Andere Personen oder Mieter, die über Nacht bleiben, müssen sich an der Rezeption anmelden und den Tagestarif bezahlen.
