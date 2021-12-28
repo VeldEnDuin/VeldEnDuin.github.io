@@ -2,17 +2,17 @@
 layout: page
 title: Chalet Confort 4+
 description: beau chalet 4 personnes avec terrasse couverte
-preview: 
+preview:
     title: Chalet confort 4+
     button:
-        price: 126
+        price: 144
         for: 2 nuits
     list:
         - "4 personnes"
         - "42 m²"
         - "terrasse couverte"
         - "chiens admis"
-        
+
 images:
     - /img/overnachten/verhuring-C4pl-chalet/c4plch-01.jpg
     - /img/overnachten/verhuring-C4pl-chalet/c4plch-02.jpg
@@ -31,9 +31,9 @@ images:
     - /img/overnachten/verhuring-C4pl-chalet/c4plch-15.jpg
     - /img/overnachten/verhuring-C4pl-chalet/c4plch-16.jpg
     - /img/overnachten/verhuring-C4pl-chalet/c4plch-17.jpg
-    
-    
-    
+
+
+
 
 insert:
     - page-images-top
@@ -53,23 +53,26 @@ De retour d’une agréable journée à la plage ou d’une balade dans les envi
 - salle de bains avec douche, lavabo et toilettes
 - chambres à coucher du chalet:
     - 1 chambre avec lit double (140x200)
-    - 1 chambre avec lits superposés 2x (90x200) 
+    - 1 chambre avec lits superposés 2x (90x200)
 - terrasse couverte et fermée avec mobilier de jardin
-    
+
 ## Bon à savoir
 
 - chalet d’une capacité de 4 personnes
 - check-in: à partir de 14h00 - check-out: jusqu'à 10h00
 - chiens admis – max. 2 – pas de races dangereuses
-- location toute l'année sauf du 15 janvier au 12 février
-- caution de 50 € à payer en espèces à l'arrivée
-- la caution est restituée au départ si le chalet a été bien nettoyée et si elle se trouve dans un bon état
+- période hiver 15/11-15/3: la location n'est ouverte que pendant les vacances de Noël
+
 
 ## Inclus
 - wifi
 - parking 1 voiture
-- consommation gaz - eau - électricité 
-- exception: forfait pour les frais énergétiques 15/12 - 15/01: € 10 / nuit
+- consommation gaz - eau - électricité
+- exception: forfait pour les frais énergétiques 23/12 - 8/01: € 10 / nuit
+
+## Nettoyage
+Vous devez faire la vaisselle, mettre les déchets dans notre parc à conteneurs et laisser votre logement rangé.
+
 
 ## Que faut-il emporter?
 Outre vos affaires personnelles, vous devez emporter vos propres serviettes, torchons et linge de lit.
@@ -80,8 +83,7 @@ Le linge de lit peut être loué au camping.
 
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
-nettoyage           | € 45 - le locataire est autorisé à faire le nettoyage lui-même
-chien               | € 4 / nuit - max 2
+chien               | € 5 / nuit - max 2
 draps               | € 10 / lit double - € 9 / lit simple
 lit d'enfant        | € 2 / nuit
 chaise haute        | € 2 / nuit
