@@ -22,18 +22,18 @@ insert:
 
 remove:
     - imgstrip
-    
+
 
 ---
 {% include links.md %}
 
-## Animations Veld & Duin été 2021
+## Animations Veld & Duin été 2022
 
-A ce moment ce n'est pas certain si des animations sur le camping seront possible et sous quelles conditions. 
+A ce moment ce n'est pas certain si des animations sur le camping seront possible et sous quelles conditions.
 
 Nous étudons les possibilites pour des activités à petite échelle en toute sécurité. Nous devrons les programmer à dernière minute en fonction des directives, les possibilités et le temps. 
 
-Nous vous tenons au courant par facebook et par notre tableau noir. 
+Nous vous tenons au courant par facebook et par notre tableau noir.
 
 
 ## Animations à Bredene et dans les environs

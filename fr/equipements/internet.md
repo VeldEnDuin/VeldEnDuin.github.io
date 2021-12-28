@@ -14,10 +14,10 @@ images:
 
 insert:
     - page-images-top
-    
+
 remove:
     - imgstrip
-    
+
 
 ---
 
@@ -25,27 +25,25 @@ remove:
 
 Postez vos plus belles photos de vacances sur les réseaux sociaux et restez en contact permanent avec votre famille et vos amis.
 
-## Internet dans nos accommodations de location
+## Internet dans nos accommodations de location et emplcaments campig
 
-Si vous louez un chalet ou appartement chez nous, l'internet est inclus dans le prix pour la durée de votre séjour. 
+Si vous louez un chalet, appartement ou emplacement de camping chez nous, l'internet est inclus dans le prix pour la durée de votre séjour.
 
-Un modem dans chaque de nos accommodations garantit une connexion rapide et stable dedans. 
+Un modem dans chaque de nos accommodations garantit une connexion rapide et stable dedans.
 
-Sur le camping (terrain de jeu, ...) votre appareil se connecte automatiquement au réseau wifi. 
+Sur le camping (terrain de jeu, ...) votre appareil se connecte automatiquement au réseau wifi.
 
-## Internet terrain de camping
 
-Sur nos emplacements de camping vous pouvez utiliser notre réseau wifi. Achetez vos tickets à la réception, connectez-vous et vous êtes en ligne.  
 
-DURÉE DE CONNEXION  | Tarif       | 
+DURÉE DE CONNEXION  | Tarif       |
 :------------------:|:-----------:|
 2 jours             |€ 2                
 4 jours             |€ 4                     
 7 jours             |€ 6        
 15 jours            |€ 12        
 3 semaines          |€ 16        
-1 mois              |€ 20 
- 
+1 mois              |€ 20
+
 Un ticket par appareil.
 
 
@@ -53,6 +51,4 @@ Un ticket par appareil.
 
 Chaque propriétaire reçoit 4 codes d’accès à Internet par an, annexés à la facture (inclus dans l'indemnité de résidence). Ces codes sont strictement personnels et connectent 4 appareils (ordinateur portable, smartphone, tablette).
 
-Ces codes vous permettent soit d’utiliser le réseau Wi-Fi, soit d’opter pour un Internet rapide via le modem. Vous trouvez toutes les informations sur la [fiche d'info][pdf_tvwifi.fr]. 
-
-
+Ces codes vous permettent soit d’utiliser le réseau Wi-Fi, soit d’opter pour un Internet rapide via le modem. Vous trouvez toutes les informations sur la [fiche d'info][pdf_tvwifi.fr].
