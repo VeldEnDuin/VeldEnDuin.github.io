@@ -2,17 +2,17 @@
 layout: page
 title: Apartment Comfort 4+
 description: comfortable apartment just next to the campsite
-preview: 
+preview:
     title: Apartment Comfort 4+
     button:
-        price: 126
+        price: 144
         for: 2 nights
     list:
         - "4-5 persons"
         - "65 m²"
         - "overlooking the dunes"
         - "lift"
-       
+
 images:
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-01.jpg
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-02.jpg
@@ -29,8 +29,8 @@ images:
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-13.jpg
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-14.jpg
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-15.jpg
-    
-    
+
+
 insert:
     - page-images-top
 
@@ -47,28 +47,30 @@ The apartments are situated next to the campsite. This means that you can enjoy 
 
 - spacious living room with flat screen and set top box
 - equipped kitchen with microwave
-- bathroom with shower, washbasin and toilet 
+- bathroom with shower, washbasin and toilet
 – bedrooms apartment:
     - 1 room with double bed (140x200)
     - 1 room with bunk beds 2x (90x200) + sofa bed
 - balcony in front overlooking the dunes and with a view of the playground at the back
-    
+
 ## Worth knowing
 
 - apartment for 4-5 persons
 - check-in: from 2 pm - check-out: until 10 am
 - pets not allowed – possible in chalets or caravans
-- lift 
+- lift
 - shared bike storage
-- rental all year round except from January 15 to February 12
-- € 50 deposit to be paid in cash on arrival
-- will be refunded upon departure if the final cleaning has been done properly and if there’s no damage 
+- winter period 15/11-15/03: only open for rental during the Christmas Holidays
 
-## included
+
+## Included
 - wifi
 - parking 1 car
 - consumption water & electricity
-- exception: flat-rate energy cost 15/12 - 15/01: € 10 / night
+- exception: flat-rate energy cost 23/12 - 8/01: € 10 / night
+
+## Cleaning
+You have to do the dishes, take the waste to our containerpark and leave the chalet tidy.
 
 ## Things to bring along
 Besides your personal belongings you need to bring along towels, kitchen towels and bed linen.
@@ -80,7 +82,6 @@ Bed linen can also be rented at the reception.
 
 EXTRA SERVICE               | PRICE
 :-------------------|:-----------|
-cleaning          | € 45 - final cleaning by tenants is allowed
 bed linen        | € 10 / double bed - € 9 / single bed
 baby cot          | € 2 / night
 baby chair         | € 2 / night

@@ -40,7 +40,7 @@ Kombinieren Sie die Freiheit des Reisens mit einem Wohnmobil mit dem Komfort uns
 
 - Höchstens 6 Personen/Platz
 - Hunde zugelassen (höchstens 2) - angeleint -  keine gefährlichen Rassen
-- Winterzeitraum 15.11 - 15.03: nur während der Weihnachtsferien zu vermieten
+- Winterzeitraum 15.11 - 15.03: nur während der Weihnachtsferien zu mieten
 
 
 ## Preise 2022 pro Nacht
@@ -52,7 +52,7 @@ ANZAHL PERSONEN | NEBENSAISON | HOCHSAISON
 3 Personen     |€ 25         |€ 30
 4 Personen     |€ 27         |€ 32     
 5 Personen     |€ 29         |€ 34
-6 Personen     |€ 31         |€ 36 
+6 Personen     |€ 31         |€ 36
 
 * 15.7. bis 15.8.: Reservierung ab 7 Nächten
 * Hochsaison: Juli - August - verlängerte Wochenenden
