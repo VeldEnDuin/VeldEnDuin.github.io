@@ -2,17 +2,17 @@
 layout: page
 title: Appartement Confort 4+
 description: appartement confortable juste à côté du camping
-preview: 
+preview:
     title: Appartement Confort 4+
     button:
-        price: 126
+        price: 144
         for: 2 nuits
     list:
         - "4-5 personnes"
         - "65 m²"
         - "vue sur les dunes"
         - "ascenseur"
-       
+
 images:
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-01.jpg
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-02.jpg
@@ -29,8 +29,8 @@ images:
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-13.jpg
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-14.jpg
     - /img/overnachten/verhuring-C4pl-appartement/c4pla-15.jpg
-    
-    
+
+
 insert:
     - page-images-top
 
@@ -51,7 +51,7 @@ Les appartements sont situés à deux pas du camping. Tout en profitant de l’e
     - 1 chambre avec lit double (140x200)
     - 1 chambre avec lits superposés 2x (90x200) + fauteuil convertible 1 personne
 - balcon à l’avant (vue sur les dunes) et à l’arrière (vue sur le terrain de jeux)
-    
+
 ## Bon à savoir
 
 - appartement d’une capacité de 4 à 5 personnes
@@ -59,15 +59,17 @@ Les appartements sont situés à deux pas du camping. Tout en profitant de l’e
 - animaux de compagnie non admis – ils sont admis dans les chalets ou caravanes
 - ascenseur
 - espace commun pour vélos
-- location toute l'année sauf du 15 janvier au 12 février
-- caution de 50 € à payer en espèces à l'arrivée
-- la caution est restituée au départ si l'appartement a été bien nettoyée et si elle se trouve dans un bon état
+- période hiver 15/11-15/3: la location n'est ouverte que pendant les vacances de Noël
+
 
 ## Inclus
 - wifi
 - parking 1 voiture
-- consommation eau - électricité 
-- exception: forfait pour les frais énergétiques 15/12 - 15/01: € 10 / nuit
+- consommation eau - électricité
+- exception: forfait pour les frais énergétiques 23/12 - 8/01: € 10 / nuit
+
+## Nettoyage
+Vous devez faire la vaisselle, mettre les déchets dans notre parc à conteneurs et laisser votre logement rangé.
 
 ## Que faut-il emporter?
 Outre vos affaires personnelles, vous devez emporter vos propres serviettes, torchons et linge de lit.
@@ -76,9 +78,8 @@ Le linge de lit peut être loué au camping.
 
 ## Suppléments
 
-SUPPLÉMENTS               | PRIX
+SUPPLÉMENTS         | PRIX
 :-------------------|:-----------|
-nettoyage           | € 45 - le locataire est autorisé à faire le nettoyage lui-même
 draps               | € 10 / lit double - € 9 / lit simple
 lit d'enfant        | € 2 / nuit
 chaise haute        | € 2 / nuit
