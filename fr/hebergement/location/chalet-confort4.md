@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Chalet Confort 4 
+title: Chalet Confort 4
 description: confortable chalet 4 personnes à proximité de l'aire de jeux
-preview: 
-    title: Chalet confort 4 
+preview:
+    title: Chalet confort 4
     button:
-        price: 116
+        price: 132
         for: 2 nuits
     list:
         - "4 personnes"
@@ -28,9 +28,9 @@ images:
     - /img/overnachten/verhuring-C4-chalet/c4ch-13.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-14.jpg
     - /img/overnachten/verhuring-C4-chalet/c4ch-15.jpg
-    
-    
-    
+
+
+
 insert:
     - page-images-top
 
@@ -49,23 +49,26 @@ Ces chalets sont situés à l’entrée du camping, à proximité du terrain de 
 - salle de bains avec douche, lavabo et toilettes
 - chambres à coucher dans le chalet:
     - 1 chambre avec lit double (140x200)
-    - 1 chambre avec lits superposés 2x (90x200) 
+    - 1 chambre avec lits superposés 2x (90x200)
 - mobilier de jardin
-    
+
 ## Bon à savoir
 
 - chalet d’une capacité de 4 personnes
 - check-in: à partir de 14h00 - check-out: jusqu'à 10h00
-- chiens admis – max. 2 – pas de races dangereuses
-- location toute l'année sauf du 15 janvier au 12 février
-- caution de 50 € à payer en espèces à l'arrivée
-- la caution est restituée au départ si le chalet a été bien nettoyée et si elle se trouve dans un bon état
+- chiens admis – max. 2 – en laisse - pas de races dangereuses
+- période hiver 15/11-15/3: la location n'est ouverte que pendant les vacances de Noël
+
 
 ## Inclus
 - wifi
 - parking 1 voiture
-- consommation gaz - eau - électricité 
-- exception: forfait pour les frais énergétiques 15/12 - 15/01: € 10 / nuit
+- consommation gaz - eau - électricité
+- exception: forfait pour les frais énergétiques 28/12 - 8/01: € 10 / nuit
+
+## Nettoyage
+Vous devez faire la vaisselle, mettre les déchets dans notre parc à conteneurs et laisser votre logement rangé.
+
 
 ## Que faut-il emporter?
 Outre vos affaires personnelles, vous devez emporter vos propres serviettes, torchons et linge de lit.
@@ -76,8 +79,7 @@ Le linge de lit peut être loué au camping.
 
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
-nettoyage           | € 45 - le locataire est autorisé à faire le nettoyage lui-même
-chien               | € 4 / nuit - max 2
+chien               | € 5 / nuit - max 2
 draps               | € 10 / lit double - € 9 / lit simple
 lit d'enfant        | € 2 / nuit
 chaise haute        | € 2 / nuit
