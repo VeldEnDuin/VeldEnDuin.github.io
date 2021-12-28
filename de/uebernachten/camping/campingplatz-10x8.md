@@ -2,15 +2,14 @@
 layout: page
 title: Campingplatz 10x8
 description: Wahl zwischen verhartetem Platz oder Rasenplatz
-preview: 
+preview:
     title: Campingplatz 10x8
     button:
-        price: 19
+        price: 21
         for: pro Nacht
     list:
-        - "Plätze von 80m²"
-        - "Für Wohnwagen"
-        - "Gras- oder befestigter Platz"
+        - "Grasplatz"
+        - "für Ziehewohnwagen"
         - "Nahe bei Sanitäranlagen"
 images:
     - /img/overnachten/trekkers-kamp-10x8/kamp10x8-01.jpg
@@ -21,33 +20,33 @@ images:
     - /img/overnachten/trekkers-kamp-10x8/kamp10x8-06.jpg
     - /img/overnachten/trekkers-kamp-10x8/kamp10x8-07.jpg
     - /img/overnachten/trekkers-kamp-10x8/kamp10x8-08.jpg
-    
-    
-    
+
+
+
 insert:
     - page-images-top
-    
+
 ---
 {% include links.md %}
 
-Für die Ziehwohnwagen haben wir die Wahl zwischen einem verharteten Platz mit viel Grün vor oder einem vollen Rasenplatz. Präferenzen können bei der Buchung mitgeteilt werden.
+Unsere Rasenplätze laden Sie zu einem herrlich entspannten Aufenthalt mit Ihrem Wohnwagen ein.
 
 ## Gut zu wissen
 
 - Höchstens 6 Personen/Platz
-- Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
-- ganzjährig zugänglich, außer vom 15. Januar bis 12. Februar
+- Hunde zugelassen (höchstens 2) - angeleint - keine gefährlichen Rassen
+- Winterzeitraum 15.11 - 15.03: nur während der Weihnachtsferien zu vermieten
 
-## Preise 2021 pro Nacht
+## Preise 2022 pro Nacht
 
 ANZAHL PERSONEN | NEBENSAISON | HOCHSAISON      
 :-------------:|:-----------:|:-----------:|
-1 Person       |€ 19         |€ 23       
-2 Personen     |€ 22         |€ 26           
-3 Personen     |€ 25         |€ 29 
-4 Personen     |€ 28         |€ 32     
-5 Personen     |€ 31         |€ 35 
-6 Personen     |€ 34         |€ 38 
+1 Person       |€ 21         |€ 26      
+2 Personen     |€ 23         |€ 28           
+3 Personen     |€ 25         |€ 30
+4 Personen     |€ 27         |€ 32     
+5 Personen     |€ 29         |€ 34
+6 Personen     |€ 31         |€ 36 
 
 * 15.7. bis 15.8.: Reservierung ab 7 Nächten
 * Hochsaison: Juli - August - verlängerte Wochenenden

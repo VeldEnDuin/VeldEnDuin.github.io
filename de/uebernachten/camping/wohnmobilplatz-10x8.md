@@ -2,15 +2,14 @@
 layout: page
 title: Wohnmobilplatz 10x8
 description: geräumige und gepflasterte Stellplätze für Camper
-preview: 
+preview:
     title: Wohnmobilplatz 10x8
     button:
-        price: 19
+        price: 21
         for: pro Nacht
     list:
-        - "Abmessungen befestigter Boden 8x3m"
-        - "befestigte Plätze mit Gras davor"
-        - "Servicestation"
+        - "befestigte Plätze"
+        - "Wohnmobil max 8m"
         - "Nahe bei Sanitäranlagen"
 images:
     - /img/overnachten/trekkers-mob-10x8/mob10x8-01.jpg
@@ -24,14 +23,14 @@ images:
     - /img/overnachten/trekkers-mob-10x8/mob10x8-09.jpg
     - /img/overnachten/trekkers-mob-10x8/mob10x8-10.jpg
     - /img/overnachten/trekkers-mob-10x8/mob10x8-11.jpg
-    
-    
-    
-    
-    
+
+
+
+
+
 insert:
     - page-images-top
-    
+
 ---
 {% include links.md %}
 
@@ -40,20 +39,20 @@ Kombinieren Sie die Freiheit des Reisens mit einem Wohnmobil mit dem Komfort uns
 ## Gut zu wissen
 
 - Höchstens 6 Personen/Platz
-- Hunde zugelassen (höchstens 2), keine gefährlichen Rassen
-- ganzjährig zugänglich, außer vom 15. Januar bis 12. Februar
+- Hunde zugelassen (höchstens 2) - angeleint -  keine gefährlichen Rassen
+- Winterzeitraum 15.11 - 15.03: nur während der Weihnachtsferien zu vermieten
 
 
-## Preise 2021 pro Nacht
+## Preise 2022 pro Nacht
 
 ANZAHL PERSONEN | NEBENSAISON | HOCHSAISON      
 :-------------:|:-----------:|:-----------:|
-1 Person       |€ 19         |€ 23       
-2 Personen     |€ 22         |€ 26           
-3 Personen     |€ 25         |€ 29 
-4 Personen     |€ 28         |€ 32     
-5 Personen     |€ 31         |€ 35 
-6 Personen     |€ 34         |€ 38 
+1 Person       |€ 21         |€ 26      
+2 Personen     |€ 23         |€ 28           
+3 Personen     |€ 25         |€ 30
+4 Personen     |€ 27         |€ 32     
+5 Personen     |€ 29         |€ 34
+6 Personen     |€ 31         |€ 36 
 
 * 15.7. bis 15.8.: Reservierung ab 7 Nächten
 * Hochsaison: Juli - August - verlängerte Wochenenden
