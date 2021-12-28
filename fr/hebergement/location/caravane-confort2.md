@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Caravane Confort 2 
+title: Caravane Confort 2
 description: petite maison avec tout le confort
-preview: 
+preview:
     title: Caravane Confort 2
     button:
-        price: 102
+        price: 118
         for: 2 nuits
     list:
         - "2 personnes"
         - "20 m²"
         - "jardinet privé"
         - "le confort dans un espace réduit"
-        
-   
+
+
 
 images:
     - /img/overnachten/verhuring-C2-caravan/c2c-01.jpg
@@ -26,8 +26,8 @@ images:
     - /img/overnachten/verhuring-C2-caravan/c2c-08.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-09.jpg
     - /img/overnachten/verhuring-C2-caravan/c2c-10.jpg
-    
-    
+
+
 insert:
     - page-images-top
 
@@ -47,20 +47,22 @@ Notre charmante petite maison avec jardin privé est parfaitement adapté pour a
 - toilettes séparées
 - 1 chambre équipée d’un lit double (140x200)
 - un jardinet privé avec mobilier de jardin
-    
+
 ## Bon à savoir
 
 - caravane d’une capacité de max. 2 personnes
 - check-in: à partir de 14h00 - check-out: jusqu'à 10h00
 - petit chien admis mais veuillez tenir compte de l’espace réduit
-- location toute l'année sauf du 15 novembre au 1er mars
-- caution de 50 € à payer en espèces à l'arrivée
-- la caution est restituée au départ si la caravane a été bien nettoyée et si elle se trouve dans un bon état
+- période hiver 15/11-15/3: la location n'est ouverte que pendant les vacances de Noël
+
 
 ## Inclus
 - wifi
 - parking 1 voiture
-- consommation gaz - eau - électricité 
+- consommation gaz - eau - électricité
+
+## Nettoyage
+Vous devez faire la vaisselle, mettre les déchets dans notre parc à conteneurs et laisser votre logement rangé.
 
 ## Que faut-il emporter?
 Outre vos affaires personnelles, vous devez emporter votre linge de bain et votre linge de lit.
@@ -71,8 +73,7 @@ Le linge de lit peut être loué au camping.
 
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
-nettoyage           | € 45 - le locataire est autorisé à faire le nettoyage lui-même
-chien               | € 4 / nuit - max 1
+chien               | € 5 / nuit - max 1
 draps               | € 10 / lit double
 lit d'enfant        | € 2 / nuit
 chaise haute        | € 2 / nuit
