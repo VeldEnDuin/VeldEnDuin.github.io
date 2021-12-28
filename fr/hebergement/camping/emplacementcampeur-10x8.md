@@ -8,7 +8,7 @@ preview:
         price: 21
         for: par nuit
     list:
-        - "emplacement recouvert de gazon"
+        - "emplacement gazon"
         - "pour caravanes tractables"
         - "à proximité des sanitaires"
 images:
