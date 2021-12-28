@@ -28,10 +28,10 @@ parking 2ème voiture    |€ 4 / jour entamé
 
 TAXE JOURNALIÈRE ⑴          |PRIX PAR NUIT|
 :------------------:|:-------------:|
-1 personne               | € 2,50        
-2 personnes              | € 5  
-famille (jusque 5 pers)  | € 10    
-personne supplémentaire  | € 2,50
+1 personne               | € 3       
+2 personnes              | € 6  
+famille (jusque 5 pers)  | € 11    
+personne supplémentaire  | € 3
 
 
 ⑴ **Taxe journalière :**<br> Les (petits-)enfants et les (grands-)parents du propriétaire peuvent loger gratuitement. Les autres personnes ou locataires qui restent la nuit doivent s’enregistrer à la réception et s’acquitter d’une taxe journalière.  

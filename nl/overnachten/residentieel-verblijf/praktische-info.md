@@ -28,10 +28,10 @@ parking extra auto      |€ 4 / begonnen dag
 
 DAGTAKS ⑴          |PRIJS PER NACHT|
 :------------------:|:-------------:|
-1 persoon           | € 2,50        
-2 personen          | € 5  
-gezin (tot 5 pers)  | € 10     
-extra persoon       | € 2,50
+1 persoon           | € 3       
+2 personen          | € 6  
+gezin (tot 5 pers)  | € 11     
+extra persoon       | € 3
 
 
-⑴ **Dagtaks:**<br> De (klein)kinderen en (groot)ouders van de eigenaar kunnen gratis blijven slapen. Andere personen of huurders die blijven overnachten moeten zich komen aanmelden aan de receptie en dagtaks betalen. 
+⑴ **Dagtaks:**<br> De (klein)kinderen en (groot)ouders van de eigenaar kunnen gratis blijven slapen. Andere personen of huurders die blijven overnachten moeten zich komen aanmelden aan de receptie en dagtaks betalen.
