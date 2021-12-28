@@ -53,7 +53,7 @@ Notre charmante petite maison avec jardin privé est parfaitement adapté pour a
 - caravane d’une capacité de max. 2 personnes
 - check-in: à partir de 14h00 - check-out: jusqu'à 10h00
 - petit chien admis mais veuillez tenir compte de l’espace réduit
-- période hiver 15/11-15/3: la location n'est ouverte que pendant les vacances de Noël
+- période hiver 15/11-15/3: fermé pour location 
 
 
 ## Inclus
