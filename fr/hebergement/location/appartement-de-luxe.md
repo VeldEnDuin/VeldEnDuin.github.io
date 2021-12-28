@@ -2,18 +2,18 @@
 layout: page
 title: Appartement de luxe
 description: détendez-vous dans ces luxueux appartements
-preview: 
+preview:
     title: Appartement de luxe
     button:
-        price: 143
+        price: 162
         for: 2 nuits
     list:
         - "5-6 personnes"
         - "65 m²"
         - "terrasse ou balcon"
         - "lave-vaisselle "
-        
-        
+
+
 images:
     - /img/overnachten/verhuring-luxe-appartement/lx-01.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-02.jpg
@@ -29,7 +29,7 @@ images:
     - /img/overnachten/verhuring-luxe-appartement/lx-12.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-13.jpg
     - /img/overnachten/verhuring-luxe-appartement/lx-14.jpg
-    
+
 
 insert:
     - page-images-top
@@ -55,7 +55,7 @@ Situés au-dessus de la réception, ces nouveaux appartements luxueux offrent un
 - appartement premier étage: grande terrasse au soleil
 - appartement deuxième étage: balcon
 
-    
+
 ## Bon à savoir
 
 - appartement premier étage: max. 5 personnes
@@ -63,17 +63,18 @@ Situés au-dessus de la réception, ces nouveaux appartements luxueux offrent un
 - check-in: à partir de 14h00 - check-out: jusqu'à 10h00
 - animaux de compagnie non admis – admis dans les chalets ou caravanes
 - escalier - sans ascenseur
-- location toute l'année sauf du 15 janvier au 12 février
-- caution de 50 € à payer en espèces à l'arrivée
-- la caution est restituée au départ si l'appartement a été bien nettoyée et si elle se trouve dans un bon état
+- période hiver 15/11-15/3: la location n'est ouverte que pendant les vacances de Noël
+
 
 
 ## Inclus
 - wifi
 - parking 1 voiture
-- consommation eau - électricité 
-- exception: forfait pour les frais énergétiques 15/12 - 15/01: € 10 / nuit
+- consommation eau - électricité
+- exception: forfait pour les frais énergétiques 23/12 - 8/01: € 10 / nuit
 
+## Nettoyage
+Vous devez faire la vaisselle, mettre les déchets dans notre parc à conteneurs et laisser votre logement rangé.
 
 ## Que faut-il emporter?
 Outre vos affaires personnelles, vous devez emporter vos propres serviettes, torchons et linge de lit.
@@ -84,7 +85,6 @@ Le linge de lit peut être loué au camping.
 
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
-nettoyage           | € 45 - le locataire est autorisé à faire le nettoyage lui-même
 draps               | € 10 / lit double - € 9 / lit simple
 lit d'enfant        | € 2 / nuit
 chaise haute        | € 2 / nuit
