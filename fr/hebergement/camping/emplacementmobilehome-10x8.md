@@ -2,15 +2,14 @@
 layout: page
 title: Emplacement pour mobile home 10x8
 description: emplacements spacieux et pavés pour les campeurs
-preview: 
+preview:
     title: Emplacement pour mobile home 10x8
     button:
-        price: 19
+        price: 21
         for: par nuit
     list:
-        - "dimensions du revêtement en asphalte: 8x3m"
         - "emplacement asphalté avec pelouse devant"
-        - "station-service"
+        - "mobilhomes max 8m"
         - "à proximité des sanitaires"
 images:
     - /img/overnachten/trekkers-mob-10x8/mob10x8-01.jpg
@@ -24,11 +23,11 @@ images:
     - /img/overnachten/trekkers-mob-10x8/mob10x8-09.jpg
     - /img/overnachten/trekkers-mob-10x8/mob10x8-10.jpg
     - /img/overnachten/trekkers-mob-10x8/mob10x8-11.jpg
-    
-    
+
+
 insert:
     - page-images-top
-    
+
 ---
 {% include links.md %}
 
@@ -37,20 +36,20 @@ Combinez la liberté de vacances en mobile home au confort offert par notre camp
 ## Bon à savoir
 
 - max. 6 personnes / emplacement
-- chiens admis – max. 2 – pas de races dangereuses
-- accessible toute l'année sauf du 15 janvier au 12 février
+- chiens admis – max. 2 – en laisse – pas de races dangereuses
+- période hiver 15/11-15/3: ouvert uniquement pendant les vacances de Noël
 
-## Prix 2021 par nuit
+## Prix 2022 par nuit
 
 
 NOMBRE DE PERSONNES |BASSE SAISON |HAUTE SAISON
 :------------------:|:-----------:|:-----------:|
-1 personne          |€ 19         |€ 23     
-2 personnes         |€ 22         |€ 26          
-3 personnes         |€ 25         |€ 29
-4 personnes         |€ 28         |€ 32
-5 personnes         |€ 31         |€ 35
-6 personnes         |€ 34         |€ 38
+1 personne          |€ 21         |€ 26    
+2 personnes         |€ 23         |€ 28          
+3 personnes         |€ 25         |€ 30
+4 personnes         |€ 27         |€ 32
+5 personnes         |€ 29         |€ 34
+6 personnes         |€ 31         |€ 36
 
 
 * 15/7 - 15/8: réservation à partir de 7 nuits
