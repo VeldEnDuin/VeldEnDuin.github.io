@@ -438,15 +438,15 @@ pdf_tvwifi:
     de: /de/pdf/tvwifi.pdf
     en: /en/pdf/tvwifi.pdf
 resainfoverhuur:
-    nl: /files/nlresainfo-verhuur2021.pdf
-    fr: /files/frresainfo-verhuur2021.pdf
-    de: /files/deresainfo-verhuur2021.pdf
-    en: /files/enresainfo-verhuur2021.pdf
+    nl: /files/NL_resainfo_verhuur2022.pdf
+    fr: /files/FR_resainfo_verhuur2022.pdf
+    de: /files/DE_resainfo_verhuur2022.pdf
+    en: /files/EN_resainfo_verhuur2022.pdf
 resainfotrekkers:
-    nl: /files/nlresainfo-trekkers2021.pdf
-    fr: /files/frresainfo-trekkers2021.pdf
-    de: /files/deresainfo-trekkers2021.pdf
-    en: /files/enresainfo-trekkers2021.pdf
+    nl: /files/NL_resainfo_trekkers2022.pdf
+    fr: /files/FR_resainfo_trekkers2022.pdf
+    de: /files/DE_resainfo_trekkers2022.pdf
+    en: /files/EN_resainfo_trekkers2022.pdf
 
 covideigenaars:
     nl: /files/nlcovideigenaars.pdf
