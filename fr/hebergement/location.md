@@ -3,16 +3,17 @@ layout: default
 title: Location
 
 class:
-    select: 
+    select:
         list: "properties-grid"
 
 preview:
-    title: Reserve maintenant
-    text: 
-        - Envie de rompre avec la routine quotidienne? Réservez un séjour dans l'un de nos chalets ou appartements confortables et profitez d'un séjour sans soucis.
-        - Bon conseil! Réservez votre séjour directement et payez 10% de moins que via Booking ou AirBnB.
+    title: s'évader un moment?
+    text:
+        - Réservez en ligne un séjour confortable dans nos chalets ou appartements et profitez d'un séjour agréable et sans soucis.
+        - "Bon conseil: réserver directement est 10 % plus avantageux que via Booking ou Airbnb."
+
     image: /img/overnachten/chalet-comfort-4-plus.jpg
-        
+
 option:
     title: "Types d'hébergement"
     image: /img/overnachten/logiestypes.jpg    

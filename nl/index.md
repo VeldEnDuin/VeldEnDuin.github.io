@@ -6,7 +6,6 @@ insert:
     - banner
     - booking
 
-
 options:
     - praktisch
     - doen
@@ -16,7 +15,6 @@ options:
 select:
     - verhuur
     - nieuwepercelen
-    - covid-actueel
 
 class:
     select:

@@ -10,12 +10,11 @@ options:
     - praktisch
     - doen
     - verhuur
-    - voorzieningen    
+    - voorzieningen
 
 select:
     - verhuur
     - nieuwepercelen
-    - covid-actueel
 
 class:
     select:

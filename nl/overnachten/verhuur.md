@@ -3,21 +3,22 @@ layout: default
 title: Verhuur
 
 class:
-    select: 
+    select:
         list: "properties-grid"
 
 preview:
-    title: Boek nu
-    text: 
-        - Zin om even te ontsnappen aan de dagelijkse routine? Boek dan nu een verblijf in één van onze comfortabele chalets of appartementen en geniet van een zorgeloos verblijf.
-        - Tip! Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.
+    title: Er even tussenuit?
+    text:
+        - Boek nu online een comfortabel verblijf in onze chalets of appartementen en geniet straks van een zalig en zorgeloos verblijf.
+        - "Tip: rechtstreeks boeken is 10% goedkoper dan via Booking of Airbnb."
+
     image: /img/overnachten/chalet-comfort-4-plus.jpg
 
 option:
     title: Logiestypes
     image: /img/overnachten/logiestypes.jpg
-        
+
 insert:
     - level3-tiles
-    
+
 ---
