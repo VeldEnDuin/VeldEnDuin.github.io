@@ -7,10 +7,10 @@
 <html lang="{{ pgLang }}">
   <head>
     <meta charset="utf-8">
-    
+
     <!-- layout == {{page.layout}} -->
     {% if page.layout == 'redirect' and page.link %}
-    <meta http-equiv="refresh" content="0;URL='{{page.link}}'" /> 
+    <meta http-equiv="refresh" content="0;URL='{{page.link}}'" />
     {% endif %}
 
     <title>{{ page.title }}</title>
@@ -59,11 +59,11 @@
         {% if page.bannerimg %}
             {% assign bannerimg = page.bannerimg %}
         {% endif %}
-        
+
         {% if bannerimg.first %}
             {% assign bannerdata = bannerimg  | jsonify %}
             {% assign bannerimg = bannerimg.first %}
-        {% else %} 
+        {% else %}
             {% assign bannerdata = '[]' %}
         {%endif%}
       <div id="vd-banner"
@@ -72,7 +72,7 @@
           data-banners='{{bannerdata}}'
       >
       </div>
-      <!-- the same but not nested in banner for smaller devices -->    
+      <!-- the same but not nested in banner for smaller devices -->
         {%if page.insert contains 'booking' or lvl2.booking_form_group %}
         <div class="container-fluid push-down"><div class="row">
           <div class="container"><div class="row">
@@ -80,7 +80,7 @@
           </div></div>
         </div></div>
         {%endif%}
-      <!-- same not nested in banner for smaller devices -->    
+      <!-- same not nested in banner for smaller devices -->
     {%endif%}
 
     {% include secondary-menu.html %}
@@ -90,19 +90,19 @@
       <div class="subsub container"><div class="spaced row">
         {% if page.insert contains 'booking' or lvl2.booking_form_group %}
             {% include booking-form.html %}
-        {%endif%}      
+        {%endif%}
       </div></div>
       </div></div>
     {% endunless %}
     </header>
-      
+
     <article>
       <div class="container-fluid">
         <div id="content" class="row">
 
     {% if page.insert contains 'level3-tiles' %}
         {% include level3-tiles.html  %}
-    {% endif %}  
+    {% endif %}
 
     {% if page.insert contains 'page-images-top' %}
         {% assign imgs = page.images %}
@@ -110,7 +110,7 @@
             <div class="row">
         {% include imgs_as_strip.html %}
             </div>
-          </div>  
+          </div>
     {% endif %}
 
     {{ content }}
@@ -146,7 +146,7 @@
                       <span>{{ site.contact["site-url"] }}</span>
                     </a> -
                     <a href="mailto:{{ site.contact.email }}" class="vd-barelink">
-                      <span class="" itemprop="email" title="email" target="_blank"> 
+                      <span class="" itemprop="email" title="email" target="_blank">
                           {{ site.contact.email }}
                       </span>
                     </a>
@@ -156,17 +156,18 @@
                     <a href="tel:{{ site.contact.phone }}" class="vd-barelink">
                       <span class="" itemprop="telephone">{{ site.contact.phone }}</span>
                     </a>
-                  </div> 
+                  </div>
 
-                  <div class="col-xs-12 copyr">&copy; 2015 - {{ 'now' | date: '%Y' }}</div> 
+                  <div class="col-xs-12 copyr">&copy; 2015 - {{ 'now' | date: '%Y' }}</div>
                 </div>
               </div>
 
               <div class="col-md-2 hidden-sm hidden-xs">&nbsp</div>
-              
+
               <div class="col-md-4 col-sm-6 hidden-xs">
                 {% include mailchimp-form.html %}
                 {% include socialmedia-links.html %}
+                {% include covid-info-link.html %}
               </div>
             </div>
           </div>

@@ -117,11 +117,11 @@
     de: Aktivitäten
     en: Do
 
-- linkcode: covid
-  menutekst: no
-  submenu:
-    - linkcode: covid-actueel
-    - linkcode: covid
-    - linkcode: covid-kamperen
-    - linkcode: covid-verhuur
-    - linkcode: covid-resientieel
+#- linkcode: covid
+#  menutekst: no
+#  submenu:
+#    - linkcode: covid-actueel
+#    - linkcode: covid
+#    - linkcode: covid-kamperen
+#    - linkcode: covid-verhuur
+#    - linkcode: covid-resientieel

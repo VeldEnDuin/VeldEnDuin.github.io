@@ -44,6 +44,7 @@ nl:
         comfort2_caravan:         Comfort 2 Caravan
         comfort4_chalet:          Comfort 4 Chalet
         comfort4plus_chalet:      Comfort 4+ Chalet
+        covid_info:               Covid Info
         luxe_appartementen_5p:    Luxe Appartement 5p
         luxe_appartementen_6p:    Luxe Appartement 6p
         studio:                   Studio
@@ -94,6 +95,7 @@ fr:
         comfort2_caravan:         Caravane Confort 2
         comfort4_chalet:          Chalet Confort 4
         comfort4plus_chalet:      Chalet Confort 4+
+        covid_info:               Covid Info
         luxe_appartementen_5p:    Appartement de luxe 5p
         luxe_appartementen_6p:    Appartement de luxe 6p
         studio:                   Studio
@@ -145,6 +147,7 @@ de:
         comfort2_caravan:         Caravan Comfort 2
         comfort4_chalet:          Chalet Comfort 4
         comfort4plus_chalet:      Comfort 4+ Chalet
+        covid_info:               Covid Info
         luxe_appartementen_5p:    Luxusapartment 5p
         luxe_appartementen_6p:    Luxusapartment 6p
         studio:                   Studio
@@ -196,6 +199,7 @@ en:
         comfort2_caravan:         Caravan Comfort 2
         comfort4_chalet:          Chalet Comfort 4
         comfort4plus_chalet:      Chalet Comfort 4+
+        covid_info:               Covid Info
         luxe_appartementen_5p:    Luxury Apartment 5p
         luxe_appartementen_6p:    Luxury Apartment 6p
         studio:                   Studio
