@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Kampeerplaats 10x8
+title: Kampeerplaats
 description: keuze tussen een verharde plaats of grasplaats
 preview:
-    title: Kampeerplaats 10x8
+    title: Kampeerplaats 
     button:
         price: 21
         for: per nacht

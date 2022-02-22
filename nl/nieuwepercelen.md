@@ -5,13 +5,17 @@ description: nog 1 ruim perceel vrij
 
 preview:
     title: eigen stekje aan zee
-    text: 
-        - Ook interesse in een vast verblijf aan zee? Van de 22 percelen die we recent aanlegden voor residentiële caravans is er nog één ruime en zuidgerichte plaats vrij. 
-        - Kom snel een kijkje nemen.
+    text:
+        - Een vast verblijf biedt de kans om in alle seizoenen te komen genieten van de kust.
+        - Momenteel hebben we 2 vrije percelen voor nieuwe caravans.
 
-        
+
+
 images:
     - /img/eigenstekje.jpg
+    - /img/percelen/residentieel1.jpg
+    - /img/percelen/residentieel2.jpg
+    - /img/percelen/residentieel3.jpg
 
 insert:
     - page-images-top
@@ -20,13 +24,10 @@ insert:
 
 {% include links.md %}
 
-De nieuwe en ruime percelen die we aanlegden werden heel snel ingenomen. Op dit moment is er nog 1 perceel vrij tot maximaal 10 meter, kom dus snel een kijkje nemen.
+Volgende mooie en ruime percelen zijn momenteel nog beschikbaar, steeds welkom om een kijkje te komen nemen:
 
+- perceel A16 en H6
 - [perceeltype 2][type_2.nl]
-- volledig zuidgericht
-- perceel H9
-- caravan tot 10 meter
-- voor nieuwe caravans werken we samen met [Decopa](https://www.decopa.be/).
-
-Wist je dat we vanaf september 2021 opnieuw percelen aanleggen voor caravans tot 12 meter? Meer details vanaf de Paasvakantie 2021.
-
+- perceel A16: caravan tot max 9m50
+- perceel H6: caravan tot max 10 meter
+- voor nieuwe caravans werken we samen met [Decopa](https://www.decopa.be/) en [Caravancentrum Roels](https://www.caravancentrumroels.be/)

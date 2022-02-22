@@ -5,7 +5,7 @@ title: Camping Veld & Duin
 insert:
     - banner
     - booking
-  
+
 options:
     - praktisch
     - doen
@@ -15,7 +15,6 @@ options:
 select:
     - verhuur
     - nieuwepercelen
-    - covid-actueel
 
 class:
     select:
@@ -26,5 +25,5 @@ class:
 
 ## Welkom!
 
-Als familiebedrijf staat Veld & Duin al meer dan 50 jaar garant voor een gastvrij onthaal op onze groene, verzorgde en eigentijdse camping op wandelafstand van de zee.
+Als familiebedrijf staat Veld & Duin al meer dan 55 jaar garant voor een gastvrij onthaal op onze groene, verzorgde en eigentijdse camping op wandelafstand van de zee.
 Bredene weet met z’n mooie duinengordel elke natuurliefhebber te bekoren en is de ideale uitvalsbasis voor uitstapjes naar andere kustplaatsen, Brugge en de omliggende polder.
