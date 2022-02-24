@@ -396,6 +396,17 @@ covid-richtlijn-pictos:
     de: /img/covid/de-allgemeine-richtlinien.png
     en: /img/covid/en-general-guidelines.png
 
+covid-actueel-web:
+    nl: https://www.info-coronavirus.be/nl/
+    fr: https://www.info-coronavirus.be/fr/
+    de: https://www.info-coronavirus.be/de/
+    en: https://www.info-coronavirus.be/en/
+
+covid-plf-web:
+    nl: https://www.info-coronavirus.be/nl/plf/
+    fr: https://www.info-coronavirus.be/fr/plf/
+    de: https://www.info-coronavirus.be/de/plf/
+    en: https://www.info-coronavirus.be/en/plf/
 
 # [5] menu doen
 doen:
@@ -448,24 +459,24 @@ resainfotrekkers:
     de: /files/DE_resainfo_trekkers2022.pdf
     en: /files/EN_resainfo_trekkers2022.pdf
 
-covideigenaars:
-    nl: /files/nlcovideigenaars.pdf
-    fr: /files/frcovideigenaars.pdf
-    de: /files/decovideigenaars.pdf
-covidhuurders:
-    nl: /files/nlcovidhuurders.pdf
-    fr: /files/frcovidhuurders.pdf
-    de: /files/decovidhuurders.pdf
-    en: /files/encovidhuurders.pdf
-covidtrekkers:
-    nl: /files/nlcovidtrekkers.pdf
-    fr: /files/frcovidtrekkers.pdf
-    de: /files/decovidtrekkers.pdf
-    en: /files/encovidtrekkers.pdf
-coviddagtaks:
-    nl: /files/nlcoviddagtaks.pdf
-    fr: /files/frcoviddagtaks.pdf
-    de: /files/decoviddagtaks.pdf
+#covideigenaars:
+#    nl: /files/nlcovideigenaars.pdf
+#    fr: /files/frcovideigenaars.pdf
+#    de: /files/decovideigenaars.pdf
+#covidhuurders:
+#    nl: /files/nlcovidhuurders.pdf
+#    fr: /files/frcovidhuurders.pdf
+#    de: /files/decovidhuurders.pdf
+#    en: /files/encovidhuurders.pdf
+#covidtrekkers:
+#    nl: /files/nlcovidtrekkers.pdf
+#    fr: /files/frcovidtrekkers.pdf
+#    de: /files/decovidtrekkers.pdf
+#    en: /files/encovidtrekkers.pdf
+#coviddagtaks:
+#    nl: /files/nlcoviddagtaks.pdf
+#    fr: /files/frcoviddagtaks.pdf
+#    de: /files/decoviddagtaks.pdf
 
 
 
