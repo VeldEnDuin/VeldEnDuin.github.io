@@ -1,8 +1,8 @@
 ---
-title: Paasspel
+title: Zonnepannelen
 layout: post
-description: topspeurneuzen
-permalink: /nl/2021-04-15-paasspel.html
+description: nieuwe stap richting duurzaamheid
+permalink: /nl/2021-05-18-zonnepannelen.html
 
 images:   
     - /img/nieuws/20210415-paasspel-01.jpg
@@ -15,4 +15,4 @@ images:
 
 {% include links.md %}
 
-Het is geweldig om al die kindjes enthousiast te zien zoeken naar het juiste figuurtje. Jullie zijn topspeurneuzen!
+Op het dak van de fietsberging plaatsen we 70 zonnepannelen om de ecologische voetafdruk van de camping verder te verkleinen.

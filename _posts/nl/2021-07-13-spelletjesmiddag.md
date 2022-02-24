@@ -1,8 +1,8 @@
 ---
-title: Paasspel
+title: Spelletjesmiddag
 layout: post
-description: topspeurneuzen
-permalink: /nl/2021-04-15-paasspel.html
+description: spelplezier voor jong en oud
+permalink: /nl/2021-07-13-spelletjesmiddag.html
 
 images:   
     - /img/nieuws/20210415-paasspel-01.jpg
@@ -15,4 +15,4 @@ images:
 
 {% include links.md %}
 
-Het is geweldig om al die kindjes enthousiast te zien zoeken naar het juiste figuurtje. Jullie zijn topspeurneuzen!
+Onze nieuwe lading volksspelen en XL-games werden met plezier uitgetest door onze kampeerders.
