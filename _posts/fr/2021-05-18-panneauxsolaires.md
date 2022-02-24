@@ -5,8 +5,8 @@ description: nouvelle étape vers la durabilité
 permalink: /fr/2021-05-18-panneauxsolaires.html
 
 images:  
-      - img/nieuws/20210518-zonnepannelen-1.jpg
-      - img/nieuws/20210518-zonnepannelen-2.jpg
+      - /img/nieuws/20210518-zonnepannelen-1.jpg
+      - /img/nieuws/20210518-zonnepannelen-2.jpg
 
 ---
 

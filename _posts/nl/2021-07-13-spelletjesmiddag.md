@@ -5,11 +5,11 @@ description: spelplezier voor jong en oud
 permalink: /nl/2021-07-13-spelletjesmiddag.html
 
 images:   
-    - /img/nieuws/20210415-paasspel-01.jpg
-    - /img/nieuws/20210415-paasspel-02.jpg
-    - /img/nieuws/20210415-paasspel-03.jpg
-    - /img/nieuws/20210415-paasspel-04.jpg
-    - /img/nieuws/20210415-paasspel-05.jpg
+
+    - /img/nieuws/20210713-spelletjesmiddag-01.jpg
+    - /img/nieuws/20210713-spelletjesmiddag-02.jpg
+    - /img/nieuws/20210713-spelletjesmiddag-03.jpg
+    - /img/nieuws/20210713-spelletjesmiddag-04.jpg
 
 ---
 

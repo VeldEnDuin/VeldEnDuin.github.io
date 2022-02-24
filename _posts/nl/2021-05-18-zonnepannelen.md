@@ -5,11 +5,8 @@ description: nieuwe stap richting duurzaamheid
 permalink: /nl/2021-05-18-zonnepannelen.html
 
 images:   
-    - /img/nieuws/20210415-paasspel-01.jpg
-    - /img/nieuws/20210415-paasspel-02.jpg
-    - /img/nieuws/20210415-paasspel-03.jpg
-    - /img/nieuws/20210415-paasspel-04.jpg
-    - /img/nieuws/20210415-paasspel-05.jpg
+    - /img/nieuws/20210518-zonnepannelen-1.jpg
+    - /img/nieuws/20210518-zonnepannelen-2.jpg
 
 ---
 
