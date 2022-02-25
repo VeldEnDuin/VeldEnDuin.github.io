@@ -15,6 +15,11 @@ preview:
 
 images:
     - /img/overnachten/residentieel-type3/restyp3-01.jpg
+    - /img/overnachten/residentieel-type3/restyp3-02.jpg
+    - /img/overnachten/residentieel-type3/restyp3-03.jpg
+    - /img/overnachten/residentieel-type3/restyp3-04.jpg
+    - /img/overnachten/residentieel-type3/restyp3-05.jpg
+    - /img/overnachten/residentieel-type3/restyp3-06.jpg
 
 insert:
     - page-images-top

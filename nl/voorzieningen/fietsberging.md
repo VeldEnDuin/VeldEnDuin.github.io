@@ -12,18 +12,20 @@ images:
     - /img/voorzieningen/fietsberging/fietsberg-05.jpg
     - /img/voorzieningen/fietsberging/fietsberg-06.jpg
     - /img/voorzieningen/fietsberging/fietsberg-07.jpg
-    
-    
+
+
 insert:
     - page-images-top
 
 remove:
     - imgstrip
-    
+
 
 ---
 
 {% include links.md %}
+
+Plan je fietstocht met behulp van de extra large fietsknooppuntenkaart op de gevel van de fietsberging.
 
 Zet je na een mooie fietstocht je fiets bij voorkeur binnen? In onze overdekte fietsberging hebben we in totaal 116 plaatsen voor fietsliefhebbers.
 
@@ -32,11 +34,10 @@ Reservatie mogelijk via de receptie.
 
 | Formule                 | Prijs |
 |-------------------------|:-----:|
-| jaarplaats fietsberging |€ 45 / fiets   |
+| jaarplaats fietsberging |€ 50 / fiets   |
 | plaats huurders / trekkers | € 2 / nacht - waarborg sleutel € 25 |
 
 
-Aan de receptie en het speelplein is er een fietsenrek zodat je ook daar je fiets makkelijk kwijt kan. 
+Aan de receptie en het speelplein is er een fietsenrek zodat je ook daar je fiets makkelijk kwijt kan.
 
 Veld & Duin ligt op 200 meter van het dichtstbijzijnde knooppunt van het [fietsroutenetwerk][fietsnet.nl]. Kaarten van dit netwerk zijn uit te lenen aan de receptie.
-

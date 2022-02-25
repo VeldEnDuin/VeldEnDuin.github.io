@@ -11,7 +11,7 @@
 
 
 /*
-new colours  // veld & duin 
+new colours  // veld & duin
   // primair
     rgb(186, 189, 140);  // greyish green
     rgb(146, 200, 65);   // bright green
@@ -21,8 +21,8 @@ new colours  // veld & duin
     rgb(240,197,31);     // sunny yellow
     rgb(237,127,43);     // orange like the fruit
     rgb(212,71,39);      // darker orange-red-brown
-    rgb(237,226,210);    // bg pale redish 
-    rgb(242, 248, 233);  // bg pale green 
+    rgb(237,226,210);    // bg pale redish
+    rgb(242, 248, 233);  // bg pale green
 */
 
 
@@ -43,7 +43,7 @@ new colours  // veld & duin
     color: #fff;
 }
 .navbar-inverse .navbar-nav>li>a:hover {
-    color: rgb(67,182,73); 
+    color: rgb(67,182,73);
 }
 
 .navbar-toggle {
@@ -51,15 +51,15 @@ new colours  // veld & duin
     border: none;
 }
 
-.navbar-inverse .navbar-toggle:hover, 
+.navbar-inverse .navbar-toggle:hover,
 .navbar-inverse .navbar-toggle:focus {
     background-color: rgb(67,182,73);
 }
 
-.dropdown-menu>.active>a, 
-.dropdown-menu>.active>a:hover, 
+.dropdown-menu>.active>a,
+.dropdown-menu>.active>a:hover,
 .dropdown-menu>.active>a:focus {
-    background-color: rgb(67,182,73); 
+    background-color: rgb(67,182,73);
 }
 
 /* ==========================================================================
@@ -182,7 +182,7 @@ span.socmed-pinterest {
 .vd-banner .projector,
 .vd-banner .projector .dia {
     background-repeat: no-repeat;
-    background-position: center center; 
+    background-position: center center;
     background-size: cover;
     width: 100%;
 }
@@ -208,7 +208,7 @@ span.socmed-pinterest {
 .booking-wrapper {
     margin-top: -30px;
 }
-  
+
 .btn.btn-primary {
     background-color: rgb(67,182,73);
     border: none;
@@ -422,7 +422,7 @@ h3 {
     font-weight: 600;
 }
 .vd-group-filter-nav.nav-pills>li.active>a {
-    background-color: rgb(67,182,73); 
+    background-color: rgb(67,182,73);
     color: #fff;
 }
 .vd-group-item
@@ -650,6 +650,7 @@ h3 {
 }
 .vd-select-submenu .vd-select-title {
     font-size: 1.5em;
+    min-height: 3.5em;
 }
 
 .vd-select-submenu .vd-select-content ul li{
@@ -707,7 +708,7 @@ h3 {
 }
 
 .vd-select-item.vd-select-landing:nth-child(even) .vd-select-item-inner {
-    background-color: rgb(67,182,73);   
+    background-color: rgb(67,182,73);
 }
 
 .vd-landing-options {
@@ -742,7 +743,7 @@ h3 {
 }
 
 .vd-select-item.vd-option-landing:nth-child(even) .vd-select-title {
-    background-color: rgb(67,182,73);   
+    background-color: rgb(67,182,73);
 }
 
 .vd-bg-img {
@@ -773,7 +774,7 @@ h3 {
 
 .vd-select-list > :nth-child(even) .vd-bg-pictomask,
 .vd-select-list > :nth-child(even) .vd-select-title-fill {
-    background-color: rgb(237,127,43); 
+    background-color: rgb(237,127,43);
 }
 
 .vd-select-title {
@@ -817,7 +818,7 @@ h2.vd-select-title-fill {
 }
 
 .vd-select-list > :nth-child(even) .vd-button {
-    background-color: rgb(67,182,73);   
+    background-color: rgb(67,182,73);
 }
 
 .vd-button span {
@@ -1094,8 +1095,8 @@ button.vd-callout-btn:hover {
     padding: 1em;
 }
 
-.vd-display div.vd-flex-col,    
-.vd-display div.vd-flex-row {    
+.vd-display div.vd-flex-col,
+.vd-display div.vd-flex-row {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -1103,11 +1104,11 @@ button.vd-callout-btn:hover {
     flex-wrap: nowrap;
 }
 
-.vd-display div.vd-flex-col {    
+.vd-display div.vd-flex-col {
     flex-direction: column;
     height: 100%;
 }
-.vd-display div.vd-flex-row {    
+.vd-display div.vd-flex-row {
     flex-direction: row;
     flex-grow: 1;
     width: 100%;
@@ -1421,7 +1422,7 @@ footer {
     line-height: 3em;
     text-transform: uppercase;
     text-align: center;
-    color: rgb(67,182,73); 
+    color: rgb(67,182,73);
     font-weight: 900;
 }
 .vd-virtualtour-link .btn {
@@ -1728,8 +1729,8 @@ span.glyphicon {
     max-width: 100%;
     margin-bottom: 1em;
 }
-.embed-container iframe, 
-.embed-container object, 
+.embed-container iframe,
+.embed-container object,
 .embed-container embed {
     position: absolute;
     top: 0;
@@ -1737,4 +1738,3 @@ span.glyphicon {
     width: 100%;
     height: 100%;
 }
-

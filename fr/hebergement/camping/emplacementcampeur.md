@@ -3,7 +3,7 @@ layout: page
 title: Emplacement Campeur 10x8
 description: choix entre un emplacement pavé ou un emplacement gazonné
 preview:
-    title: Emplacement Campeur 10x8
+    title: Emplacement Campeur 
     button:
         price: 21
         for: par nuit

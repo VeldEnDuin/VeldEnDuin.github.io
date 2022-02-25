@@ -527,6 +527,32 @@ items:
       de: "Ein großes Projekt, bei dem wir nun allen unseren Gästen perfekte Bildqualität bieten können. Die Installation von Glasfasern ermöglicht es uns auch, ein ordnungsgemäß funktionierendes Internet anzubieten."
       en: "A large project in which we can now offer all our guests perfect image quality. The installation of fiber optics also enables us to offer properly functioning internet."
 
+  - date: 2021-05-31
+    label: 2021
+    title:
+      nl: "vernieuwing fietsberging"
+      fr: "rénovation abri à vélos"
+      de: "Renovierung Fahrradunterstand"
+      en: "bicycle shed renovation"
+    description:
+      nl: "Onze fietsberging kreeg een complete facelift met een nieuwe gevelbekleding, zonnepannelen en een extra large fietskaart."
+      fr: "Notre abri à vélos a reçu un lifting complet avec un nouveau revêtement de façade, des panneaux solaires et une carte vélo extra large."
+      de: "Unser Fahrradunterstand erhielt ein komplettes Facelift mit neuer Fassadenverkleidung, Solarpanels und einer extra großen Fahrradkarte."
+      en: "Our bicycle shed received a complete facelift with a new facade, solar panels and an extra large bicycle map."
+    images:
+      - /img/tijdslijn/2021/fietskaart.jpg
 
-
-
+  - date: 2021-06-30
+    label: 2021
+    title:
+      nl: "Openbare verlichting"
+      fr: "Eclairage public"
+      de: "Öffentliche Beleuchtung"
+      en: "Public lighting"
+    description:
+      nl: "Deze nieuwe houten, duurzame verlichtingsarmaturen zorgen voor heldere en sfeervolle verlichting op de camping."
+      fr: "Ces nouveaux luminaires en bois durables fournissent un éclairage lumineux et d'ambiance sur le camping."
+      de: "Dieses neue hölzerne, ökologische Lichtmasten sorgen für eine klare und stimmungsvolle Beleuchtung auf dem Campingplatz."
+      en: "These new wooden, sustainable lighting poles provide bright and atmospheric lighting on the campsite."
+    images:
+      - /img/tijdslijn/2021/verlichting.jpg

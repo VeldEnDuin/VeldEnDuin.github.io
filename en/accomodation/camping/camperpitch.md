@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Camper pitch 10x8
+title: Camper pitch 
 description: spacious and paved pitches for campers
 preview:
-    title: Camper pitch 10x8
+    title: Camper pitch
     button:
         price: 21
         for: per night

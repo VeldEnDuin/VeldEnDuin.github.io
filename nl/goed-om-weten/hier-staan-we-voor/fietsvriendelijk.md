@@ -5,7 +5,7 @@ layout: page
 
 preview:
     title: Fietsvriendelijk
-    
+
 images:
     - /img/hierstaanwevoor/fietsvriendelijk/fietsvr-01.jpg
     - /img/hierstaanwevoor/fietsvriendelijk/fietsvr-02.jpg
@@ -16,7 +16,7 @@ images:
 
 insert:
     - page-images-top
-    
+
 ---
 
 
@@ -28,6 +28,9 @@ Ontdek de andere badplaatsen of de achterliggende polders met de fiets. Voor een
 ## Fietsroutenetwerk
 
 De kust en polders worden volledig ontsloten door het wijdvertakte [fietsroutenetwerk][fietsnet.nl] waarbij je makkelijk zelf je tocht kunt uitstippelen.<br>
+
+Om het onze sportieve gasten makkelijk te maken hebben we een maxi versie van de kaart met fietsknooppunten aan de gevel gehangen. Ideaal dus om je tocht voor te bereiden.
+
 Veld & Duin ligt op 200 meter van het dichtstbijzijnde fietsknooppunt (fietsnetwerk De Kust - knooppunt nummer 56).
 
 Aan de receptie beschikken we over de fietsroutenetwerken van de omgeving. Je kunt deze uitlenen aan de receptie (waarborg: € 10) of kopen bij de Dienst voor Toerisme.
@@ -48,5 +51,3 @@ Maak gebruik van:
 ## Fietstip
 
 Wist je trouwens dat fietsen gratis mee mogen op het [overzetbootje][overzetboot.nl] tussen Bredene en Oostende?
-
-

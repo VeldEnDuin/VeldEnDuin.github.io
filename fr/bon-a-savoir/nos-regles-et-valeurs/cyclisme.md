@@ -5,7 +5,7 @@ layout: page
 
 preview:
     title: Cyclisme
-    
+
 images:
     - /img/hierstaanwevoor/fietsvriendelijk/fietsvr-01.jpg
     - /img/hierstaanwevoor/fietsvriendelijk/fietsvr-02.jpg
@@ -16,10 +16,10 @@ images:
 
 insert:
     - page-images-top
-    
+
 remove:
     - imgstrip
-    
+
 ---
 
 
@@ -31,6 +31,10 @@ Partez en vélo à la découverte des autres stations balnéaires ou des polders
 ## Réseau de pistes cyclables
 
 La côte et les polders sont intégralement parcourus par le [réseau de pistes cyclables] [fietsnet.fr] vous permettant de tracer aisément votre propre parcours.<br>
+
+
+Pour faciliter nos hôtes sportifs, nous avons accroché une maxi version de la carte avec les jonctions vélo sur la façade. Idéal pour préparer votre balade à vélo.
+
 Veld & Duin se situe à 200 mètres du point nodal le plus proche (réseau de pistes cyclables du littoral – point nodal numéro 56).
 
 Vous pourrez emprunter à la réception les cartes du réseau de pistes cyclables (caution: 10 €). Elles sont également vendues à l’office du tourisme.
@@ -50,5 +54,3 @@ Nous mettons notamment à votre disposition:
 ## Info pratique
 
 Saviez-vous que vous pouviez emmener gratuitement votre vélo à bord du [bac][overzetboot.fr] entre Bredene et Ostende?
-
-

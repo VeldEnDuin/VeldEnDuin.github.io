@@ -5,7 +5,7 @@ layout: page
 
 preview:
     title: Fahrradfreundlich
-    
+
 images:
     - /img/hierstaanwevoor/fietsvriendelijk/fietsvr-01.jpg
     - /img/hierstaanwevoor/fietsvriendelijk/fietsvr-02.jpg
@@ -13,14 +13,14 @@ images:
     - /img/hierstaanwevoor/fietsvriendelijk/fietsvr-04.jpg
     - /img/hierstaanwevoor/fietsvriendelijk/fietsvr-05.jpg
     - /img/hierstaanwevoor/fietsvriendelijk/fietsvr-06.jpg
-    
+
 
 insert:
     - page-images-top
-    
+
 remove:
     - imgstrip
-    
+
 ---
 
 
@@ -32,6 +32,9 @@ Entdecken Sie die anderen Badeorte oder die Polder hinter ihnen mit dem Rad. Fü
 ## Radwegenetz
 
 Die Küste und die Polder werden durch das weitverzweigte [Radwegenetz][fietsnet.de] erschlossen, bei dem Sie Ihre Tour ganz einfach selbst gestalten können.<br>
+
+Um es unseren sportlichen Gästen zu erleichtern, haben wir eine Maxi-Version der Karte mit Fahrradknotenpunkten an der Fassade aufgehängt. Ideal zur Vorbereitung Ihrer Radtour.
+
 Veld & Duin liegt etwa 200 Meter vom nächsten Radknotenpunkt (Radwegenetz Küste – Knotenpunkt Nummer 56).
 
 An der Rezeption verfügen wir über Karten der Radwegenetze in der Umgebung. Sie können Sie an der Rezeption ausleihen (Pfand: € 10) oder beim Tourismusamt kaufen.
@@ -52,5 +55,3 @@ Unter anderem können Sie folgende Einrichtungen nutzen:
 ## Radtipp
 
 Wussten Sie übrigens, dass Ihr Rad gratis auf dem [Fährboot][overzetboot.de] zwischen Bredene und Ostende mitfahren darf?
-
-

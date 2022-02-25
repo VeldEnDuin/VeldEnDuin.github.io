@@ -3,7 +3,7 @@ layout: page
 title: Emplacement pour mobile home 10x8
 description: emplacements spacieux et pavés pour les campeurs
 preview:
-    title: Emplacement pour mobile home 10x8
+    title: Emplacement pour mobile home 
     button:
         price: 21
         for: par nuit
