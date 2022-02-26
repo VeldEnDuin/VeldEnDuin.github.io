@@ -29,14 +29,12 @@
       booking_form_group: kamperen
       submenu:
         - linkcode: trekkers_info
-        - linkcode: trekkers_mobilhome10x8
+        - linkcode: trekkers_mobilhome
           booking_form_room: mobilhome10x8
-        - linkcode: trekkers_trekker10x8
+        - linkcode: trekkers_trekker
           booking_form_room: trekker10x8
         - linkcode: trekkers_tent
           booking_form_room: tent10x8
-        - linkcode: trekkers_arrangement
-#        - linkcode: trekkers_lang
 
 
     - linkcode: residentieel
@@ -78,7 +76,7 @@
         - linkcode: sanitair
         - linkcode: wassalon
         - linkcode: fietsberging
-        - linkcode: sauna
+#        - linkcode: sauna
 
 
 

@@ -4,14 +4,14 @@
 - Gemeinde- und Aufenthaltssteuern
 - Parkplatz für 1 Auto
 - Strom
+- Internet
 
 ## Extras
 
-EXTRA             | PREIS 
+EXTRA             | PREIS
 :------------------|:-----------|
 Dusche       | € 1 / Jeton
-Hund              | € 2 / Nacht - max 2 
+Hund              | € 2 / Nacht - max 2
 Parkplatz extra Auto  | € 4 / angefangenem Tag
 [Platz im Fahrradunterstand][fietsberging.de]| € 2 / Rad / Nacht
 [Sauna][sauna.de]   | € 30
-[Internet][internet.de]| abhängig von der Zeit online
