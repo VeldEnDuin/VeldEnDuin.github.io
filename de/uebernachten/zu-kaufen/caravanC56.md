@@ -1,20 +1,19 @@
 ---
 layout: page
-title: Caravan C 38
+title: Caravan C 56
 preview:
-    title: Caravan C 38
+    title: Caravan C 56
     list:
         - "Preis: € 5.000"
-
+        - "darf nicht mehr verkauft werden"
 
 images:
-    - /img/overnachten/te-koop/C38/C38-01.jpg
-    - /img/overnachten/te-koop/C38/C38-02.jpg
-    - /img/overnachten/te-koop/C38/C38-03.jpg
-    - /img/overnachten/te-koop/C38/C38-04.jpg
-    - /img/overnachten/te-koop/C38/C38-05.jpg
-    - /img/overnachten/te-koop/C38/C38-06.jpg
-
+    - /img/overnachten/te-koop/C56/C56-living.jpg
+    - /img/overnachten/te-koop/C56/C56-buiten.jpg
+    - /img/overnachten/te-koop/C56/C56-keuken.jpg
+    - /img/overnachten/te-koop/C56/C56-badkamer.jpg
+    - /img/overnachten/te-koop/C56/C56-SK1.jpg
+    - /img/overnachten/te-koop/C56/C56-SK2.jpg
 
 insert:
     - page-images-top
@@ -27,11 +26,11 @@ insert:
 
 ## Infoformular
 
-CARAVAN C 38                | INFO        |
+CARAVAN C 56                | INFO        |
 :---------------------------|:------------|
-Marke                       |
-Typ                         |Torbay 28
-Baujahr                     |
+Marke                       |Ideal Caravans
+Typ                         |Holiday Homes
+Baujahr                     |2000
 Abmessungen Caravan         |8,50 x 3 m
 Caravan unten fertiggestellt|nein
 Schubladen unter caravan    |nein

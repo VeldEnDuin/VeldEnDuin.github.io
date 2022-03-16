@@ -56,7 +56,9 @@
     - linkcode: te_koop
       submenu:
         - linkcode: te_koop
-        #- linkcode: b_66
+        - linkcode: b_11
+        - linkcode: c_49
+        - linkcode: c_56
 
 
 - linkcode: voorzieningen

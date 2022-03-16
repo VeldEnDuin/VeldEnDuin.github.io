@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Chalet B 75
-preview: 
+preview:
     title: Chalet B 75
     list:
         - "Preis: € 7.500"
-        
-        
+
+
 images:
     - /img/overnachten/te-koop/B75/B75-01.jpg
     - /img/overnachten/te-koop/B75/B75-02.jpg
@@ -16,20 +16,20 @@ images:
     - /img/overnachten/te-koop/B75/B75-06.jpg
     - /img/overnachten/te-koop/B75/B75-07.jpg
     - /img/overnachten/te-koop/B75/B75-08.jpg
-    
-    
+
+
 insert:
     - page-images-top
-    
+
 ---
 
 {% include links.md %}
 
 
 
-## Infoformular 
+## Infoformular
 
-CHALET B 75                 | INFO        | 
+CHALET B 75                 | INFO        |
 :---------------------------|:------------|
 Fläche Chalet               |
 Terrasse                    |nicht überdachte Terrasse  
@@ -40,4 +40,4 @@ Badezimmer                  |Dusche, Wachbecken, WC
 Anzahl Schlafzimmer         |2
 Aufteilung Betten           |1 Doppelbett + Etagenbett
 Hausrat Chalet              |inbegriffen, ausser Fernseher, Garden Shed, Gartenmöbilar (übernahme eventuell möglich)
-Vergütung Standplatz 2017   |inbegriffen
+Vergütung Standplatz 2022   |inbegriffen
