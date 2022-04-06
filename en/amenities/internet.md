@@ -38,7 +38,7 @@ TIME ONLINE         | PRICE      |
 :------------------:|:-----------:|
 2 days            	|€ 2                
 4 days             	|€ 4                     
-7 days             	|€ 6        
+7 days             	|€ 7       
 15 days           	|€ 12        
 3 weeks            	|€ 16        
 1 month            	|€ 20

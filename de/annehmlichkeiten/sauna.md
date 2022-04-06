@@ -18,12 +18,12 @@ insert:
 
 remove:
     - imgstrip
-    
+
 ---
 
 {% include links.md %}
 
-Verwöhnen Sie Ihren Körper nach einem langen Strandspaziergang oder einem anstrengenden Einkaufsbummel mit einer wohltuenden Sauna. 
+Verwöhnen Sie Ihren Körper nach einem langen Strandspaziergang oder einem anstrengenden Einkaufsbummel mit einer wohltuenden Sauna.
 
 Unser Saunaraum bietet folgende Annehmlichkeiten:
 
@@ -33,4 +33,4 @@ Unser Saunaraum bietet folgende Annehmlichkeiten:
 - Dusche
 - Wellnessprodukte (Peelingsalz und Bodylotion)
 
-Preis Saunamiete: € 30 für 2 Stunden.
+Preis Saunamiete: € 40 für 2 Stunden.

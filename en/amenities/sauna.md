@@ -18,12 +18,12 @@ insert:
 
 remove:
     - imgstrip
-    
+
 ---
 
 {% include links.md %}
 
-A relaxing sauna can do wonders after an exhaustive shopping spree or a good brisk walk on the beach. 
+A relaxing sauna can do wonders after an exhaustive shopping spree or a good brisk walk on the beach.
 
 Our sauna room consists of:
 
@@ -33,4 +33,4 @@ Our sauna room consists of:
 - a shower
 - wellness products (salt scrub and body lotion)
 
-Private hire: € 30 for 2 hours.
+Private hire: € 40 for 2 hours.

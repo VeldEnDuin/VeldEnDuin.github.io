@@ -39,7 +39,7 @@ ZEIT ONLINE         | PREIS       |
 :------------------:|:-----------:|
 2 Tage              |€ 2                
 4 Tage              |€ 4                     
-7 Tage              |€ 6        
+7 Tage              |€ 7       
 15 Tage             |€ 12        
 3 Wochen            |€ 16        
 1 Monat             |€ 20

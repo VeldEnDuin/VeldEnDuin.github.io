@@ -18,12 +18,12 @@ insert:
 
 remove:
     - imgstrip
-    
+
 ---
 
 {% include links.md %}
 
-Venez vous reposer dans notre agréable sauna après une longue balade sur la plage ou une épuisante séance de shopping. 
+Venez vous reposer dans notre agréable sauna après une longue balade sur la plage ou une épuisante séance de shopping.
 
 Notre espace sauna compte:
 
@@ -33,4 +33,4 @@ Notre espace sauna compte:
 - une douche
 - des produits bien-être (gommage au sel et lotion pour le corps)
 
-Tarif de location du sauna: € 30 pour 2 heures.
+Tarif de location du sauna: € 40 pour 2 heures.

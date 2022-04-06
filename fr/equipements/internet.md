@@ -39,7 +39,7 @@ DURÉE DE CONNEXION  | Tarif       |
 :------------------:|:-----------:|
 2 jours             |€ 2                
 4 jours             |€ 4                     
-7 jours             |€ 6        
+7 jours             |€ 7       
 15 jours            |€ 12        
 3 semaines          |€ 16        
 1 mois              |€ 20
