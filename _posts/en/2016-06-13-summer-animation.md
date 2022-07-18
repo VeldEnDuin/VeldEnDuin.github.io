@@ -2,7 +2,7 @@
 title: Summer Animation
 layout: post
 description: a summer full of fun!
-permalink: /en/2016-04-01-easter-animation.html
+permalink: /en/2016-06-13-summer-animation.html
 
     
 images: 
