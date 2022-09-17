@@ -35,7 +35,7 @@ Nos emplacements en herbe vous invitent à un merveilleur séjour de détente av
 
 - max. 6 personnes / emplacement
 - chiens admis – max. 2 – en laisse – pas de races dangereuses
-- période hiver 15/11-15/3: ouvert uniquement pendant les vacances de Noël
+- période hiver 15/11-15/3: fermé
 
 ## Prix 2022 par nuit
 

@@ -39,7 +39,7 @@ Nous avons le choix entre 2 types d'emplacements de tente. Les emplacements 7x8 
 - emplacement 7x8: max. 4 personnes / emplacement
 - emplacement 10x8: max. 6 personnes / emplacement
 - chiens admis – max. 2 – en laisse – pas de races dangereuses
-- période hiver 15/11-15/3: ouvert uniquement pendant les vacances de Noël
+- période hiver 15/11-15/3: fermé
 
 ## Prix 2022 par nuit
 

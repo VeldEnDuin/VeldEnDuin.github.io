@@ -27,9 +27,8 @@ insert:
 
 Folgende schöne Grundstücke sind derzeit noch verfügbar, Sie können gerne vorbeikommen zu schauen:
 
-- Grundstück A16 und H6
+- Grundstück A61 und A62
 - [Parzellentyp 2][type_2.de]
-- Grundstück A16: Wohnwagen bis maximal  9m50
-- Grundstück H6: Wohnwagen bis maximal 10 Meter
+- Wohnwagen bis maximal 9m
 - Für neue Caravans arbeiten wir mit [Decopa](https://www.decopa.be/) und [Caravancentrum Roels](https://www.caravancentrumroels.be/
 )

@@ -39,7 +39,7 @@ Combine the freedom of travelling with a camper with the comfort of our campsite
 
 - max 6 persons / pitch
 - dogs allowed - max 2 – on the leash – no dangerous breeds
-- winter period 15/11-15/03: only open for rental during the Christmas Holidays
+- winter period 15/11-15/03: closed
 
 ## Prices 2022 per night
 

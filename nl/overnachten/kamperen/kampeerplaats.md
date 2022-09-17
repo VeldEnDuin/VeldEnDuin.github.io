@@ -36,7 +36,7 @@ Onze grasplaatsen nodigen uit voor een heerlijk ontspannen verblijf met uw trekc
 
 - max 6 personen / plaats
 - honden toegelaten: max 2 - aan de leiband - geen gevaarlijke rassen
-- winterperiode 15/11-15/3: enkel open voor trekkers tijdens de kerstvakantie
+- winterperiode 15/11-15/3: gesloten
 
 ## Prijzen 2022 per nacht
 

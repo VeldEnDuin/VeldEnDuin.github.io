@@ -26,8 +26,7 @@ insert:
 
 Volgende mooie en ruime percelen zijn momenteel nog beschikbaar, steeds welkom om een kijkje te komen nemen:
 
-- perceel A16 en H6
+- perceel A61 en A62
 - [perceeltype 2][type_2.nl]
-- perceel A16: caravan tot max 9m50
-- perceel H6: caravan tot max 10 meter
+- caravan tot max 9m
 - voor nieuwe caravans werken we samen met [Decopa](https://www.decopa.be/) en [Caravancentrum Roels](https://www.caravancentrumroels.be/)

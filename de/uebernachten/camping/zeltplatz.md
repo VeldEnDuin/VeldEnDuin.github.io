@@ -38,7 +38,7 @@ Wir haben die Wahl zwischen 2 Arten von Zeltplätzen. Die 7x8 Stellplätze eigne
 - Zeltplatz 7x8: Höchstens 4 Personen/Platz
 - Zeltplatz 10x8: Höchstens 6 Personen/Platz
 - Hunde zugelassen (höchstens 2) - angeleint - keine gefährlichen Rassen
-- Winterzeitraum 15.11 - 15.03: nur während der Weihnachtsferien zu mieten
+- Winterzeitraum 15.11 - 15.03: geschlossen
 
 
 ## Preise 2022 pro Nacht

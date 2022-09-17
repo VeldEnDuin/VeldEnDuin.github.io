@@ -35,7 +35,7 @@ Our grass pitches invite you for a wonderfully relaxing stay with your tow carav
 
 - max 6 persons / pitch
 - dogs allowed - max 2 – no dangerous breeds
-- winter period 15/11-15/03: only open for rental during the Christmas Holidays
+- winter period 15/11-15/03: closed
 
 ## Prices 2022 per night
 

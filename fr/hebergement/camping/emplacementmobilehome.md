@@ -37,7 +37,7 @@ Combinez la liberté de vacances en mobile home au confort offert par notre camp
 
 - max. 6 personnes / emplacement
 - chiens admis – max. 2 – en laisse – pas de races dangereuses
-- période hiver 15/11-15/3: ouvert uniquement pendant les vacances de Noël
+- période hiver 15/11-15/3: fermé
 
 ## Prix 2022 par nuit
 

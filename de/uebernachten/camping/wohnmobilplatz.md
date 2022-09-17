@@ -40,7 +40,7 @@ Kombinieren Sie die Freiheit des Reisens mit einem Wohnmobil mit dem Komfort uns
 
 - Höchstens 6 Personen/Platz
 - Hunde zugelassen (höchstens 2) - angeleint -  keine gefährlichen Rassen
-- Winterzeitraum 15.11 - 15.03: nur während der Weihnachtsferien zu mieten
+- Winterzeitraum 15.11 - 15.03: geschlossen
 
 
 ## Preise 2022 pro Nacht

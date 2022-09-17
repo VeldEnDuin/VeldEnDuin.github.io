@@ -299,14 +299,6 @@ te_koop:
 #    nl: /nl/overnachten/te-koop/chaletB11.html
 #    fr: /fr/hebergement/a-vendre/chaletB11.html
 #    de: /de/uebernachten/zu-kaufen/chaletB11.html
-#c_49:
-#    nl: /nl/overnachten/te-koop/caravanC49.html
-#    fr: /fr/hebergement/a-vendre/caravanC49.html
-#    de: /de/uebernachten/zu-kaufen/caravanC49.html
-c_33:
-    nl: /nl/overnachten/te-koop/caravanC33.html
-    fr: /fr/hebergement/a-vendre/caravanC33.html
-    de: /de/uebernachten/zu-kaufen/caravanC33.html
 
 
 # [3] menu - voorzieningen

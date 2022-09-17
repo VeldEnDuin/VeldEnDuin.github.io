@@ -26,8 +26,7 @@ insert:
 
 Les belles et spacieuses parcelles suivantes sont actuellement encore disponibles, vous êtes la bienvenue pour venir visiter:
 
-- parcelle A16 et H6
+- parcelle A61 et A62
 - [Type parcelle 2][type_2.fr]
-- parcelle A16: caravane jusqu'à max 9m50
-- parcelle H6: caravane jusqu'à 10 mètres maximum
+- caravane jusqu'à max 9m
 - pour les nouvelles caravanes, nous travaillons avec [Decopa](https://fr.decopa.be/) et [Caravancentrum Roels](https://www.caravancentrumroels.be/?lang=fr)

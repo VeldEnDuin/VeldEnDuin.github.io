@@ -39,7 +39,7 @@ We hebben de keuze uit 2 types tentplaatsen.  Op de plaatsen van 7x8 is het heer
 - tentplaats 7x8: max 4 personen / plaats
 - tentplaats 10x8: max 6 personen / plaats
 - honden toegelaten - max 2 - aan de leiband - geen gevaarlijke rassen
-- winterperiode 15/11-15/3: enkel open voor trekkers tijdens de kerstvakantie
+- winterperiode 15/11-15/3: gesloten
 
 
 ## Prijzen 2022 per nacht
