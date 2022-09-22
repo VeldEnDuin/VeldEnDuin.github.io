@@ -20,11 +20,13 @@ preview:
 
 ## Openingsuren receptie
 
-<B>15/03 - 15/11</B>
-- maandag tot en met zaterdag + zondagen juli en augustus
+<B>receptie gesloten van 23/09 - 06/10</B>
+
+<B>01/09 - 15/11</B>
+- maandag - vrijdag- zaterdag 
     - 09u00 - 12u00
     - 13u30 - 17u00
-- alle andere zondagen
+- dinsdag - woensdag - donderdag - zondag
     - 09u00 - 12u00
 
 <B>15/11 - 15/03</B>

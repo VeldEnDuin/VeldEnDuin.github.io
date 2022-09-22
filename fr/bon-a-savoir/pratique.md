@@ -20,11 +20,13 @@ preview:
 
 ## Horaires de la réception
 
-<B>15/03 - 15/11</B>
-- lundi au samedi + dimanches juillet et août
+<B>réception fermé du 23/09 - 06/10</B>
+
+<B>01/09 - 15/11</B>
+- lundi - vendredi - samedi
     - 09h00 - 12h00
     - 13h30 - 17h00
-- tous les autres dimanches
+- mardi - mercredi - jeudi - dimanche
     - 09h00 - 12h00
 
 <B>15/11 - 15/03</B>
