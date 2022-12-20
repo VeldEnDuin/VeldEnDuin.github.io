@@ -5,7 +5,7 @@ description: ruime en vernieuwde plaatsen
 preview:
     title: Type 2
     button:
-        price: 2235
+        price: 2460
         for: per jaar
     list:
         - "gemiddelde opp: 120 m²"
@@ -47,20 +47,20 @@ Een vaste stek aan de kust om steeds opnieuw naar terug te keren, wie droomt daa
 - onderhoud gras door Veld & Duin
 
 
-## Prijzen 2022
+## Prijzen 2023
 
 TYPE 2                |PRIJS           |
 :--------------------:|:--------------:|
-standplaatsvergoeding |€ 2235             
-gemeentetaks          |€ 430,36
-huisvuilbijdrage<br>incl 25 zakken<br> | € 90    
+standplaatsvergoeding |€ 2460
+gemeentetaks          |€ 439,11
+huisvuilbijdrage<br>incl 25 zakken<br> | € 100    
 [brandverzekering][pdf_brandverzekering.nl]      |afhankelijk van <br>waarde caravan / chalet
 
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
-elektriciteit         | € 0,41 / kw        
-water                 | € 7,60 / m³  
-gas                   | € 7,50 / m³       
-tellervergoeding      | € 22 / teller
+elektriciteit         | € 0,78 / kW        
+water                 | € 8,50 / m³  
+gas                   | € 10,75 / m³       
+tellervergoeding      | € 25 / teller
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven

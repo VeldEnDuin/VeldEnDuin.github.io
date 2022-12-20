@@ -5,7 +5,7 @@ description: beautiful plots up to 80 m²
 preview:
     title: Type 1
     button:
-        price: 2010
+        price: 2210
         for: per year
     list:
         - "average surface: 80 m²"
@@ -35,19 +35,19 @@ These pitches are smaller but give you an instant holiday feeling, regardless of
 - grass maintenance by Veld & Duin
 
 
-## Prices 2022
+## Prices 2023
 
 TYPE 1                                         |PRICE                               |
 :---------------------------------------------:|:----------------------------------:|
-stand price per year                           | € 2010
-municipal taxes                                | € 430,36
-contribution for household refuse<br>incl. 25 bags<br>         | € 90  
+stand price per year                           | € 2210
+municipal taxes                                | € 439,11
+contribution for household refuse<br>incl. 25 bags<br>         | € 100  
  [fire insurance][pdf_brandverzekering.en]   | depending on <br>the worth of the caravan
 
 CONSUMPTION ⑴           |PRICE          |
 :--------------------:|:-------------:|
-electricity           | € 0,41 / kw        
-fixed price water     | € 85
-counter               | € 22
+electricity           | € 0,78 / kW        
+fixed price water     | € 95
+counter               | € 25
 
 ⑴ price subject to changing energy charges

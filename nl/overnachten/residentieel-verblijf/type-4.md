@@ -5,7 +5,7 @@ description: extra ruime percelen gelegen rond een wadi
 preview:
     title: Type 4
     button:
-        price: 3000
+        price: 3300
         for: per jaar
     list:
         - "gemiddelde opp: 190 m²"
@@ -42,20 +42,20 @@ Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Ga 
 - onderhoud gras door Veld & Duin
 
 
-## Prijzen 2022
+## Prijzen 2023
 
 TYPE 4                |PRIJS           |
 :--------------------:|:--------------:|
-standplaatsvergoeding |€ 3000             
-gemeentetaks          |€ 430,36
-huisvuilbijdrage<br>incl 25 zakken<br> | € 90   
+standplaatsvergoeding | € 3300             
+gemeentetaks          | € 439,11
+huisvuilbijdrage<br>incl 25 zakken<br> | € 100   
 [brandverzekering][pdf_brandverzekering.nl]     |afhankelijk van <br>waarde caravan
 
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
-elektriciteit         | € 0,41 / kw        
-water                 | € 7,60 / m³  
-gas                   | € 7,50 / m³       
-tellervergoeding      | € 22 / teller
+elektriciteit         | € 0,78 / kW        
+water                 | € 8,50 / m³  
+gas                   | € 10,75 / m³       
+tellervergoeding      | € 25 / teller
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven

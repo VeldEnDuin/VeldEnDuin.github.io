@@ -5,7 +5,7 @@ description: schöne Grundstücke bis 80 m²
 preview:
     title: Typ 1
     button:
-        price: 2010
+        price: 2210
         for: pro Jahr
     list:
         - "Durchschnittl. Fläche: 80 m²"
@@ -35,19 +35,19 @@ Diese Plätze haben eine etwas kleinere Fläche, bieten aber ebenso gut im Handu
 - Graspflege von Veld & Duin
 
 
-## Preise 2022
+## Preise 2023
 
-TYP 1                                         |PREIS                               |
+TYP 1                                          |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
-Stellplatzkosten                         | € 2010     
-Gemeindesteuer                                   | € 430,36
-Hausmüllgebühr<br>inkl 25 Müllsäcke<br>         | € 90
+Stellplatzkosten                               | € 2210     
+Gemeindesteuer                                 | € 439,11
+Hausmüllgebühr<br>inkl 25 Müllsäcke<br>        | € 100
  [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens
 
 VERBRAUCH ⑴           |PREIS          |
 :--------------------:|:-------------:|
-Strom                 | € 0,41 / Kw        
-Pauschal Wasser       | € 85
-Zähler                | € 22
+Strom                 | € 0,78 / kW
+Pauschal Wasser       | € 95
+Zähler                | € 25
 
 ⑴ Preis vorbehaltlich Änderungen der Energiepreise

@@ -5,7 +5,7 @@ description: belles parcelles jusqu'à 80 m²
 preview:
     title: Type 1
     button:
-        price: 2010
+        price: 2210
         for: par an
     list:
         - "surface moyenne : 80 m²"
@@ -35,19 +35,19 @@ Ces emplacements sont un peu plus petits mais vous vous y sentirez immédiatemen
 - entretien du gazon par Veld & Duin
 
 
-## Prix 2022
+## Prix 2023
 
 TYPE 1                                         |PRIX                               |
 :---------------------------------------------:|:----------------------------------:|
-indemnité de résidence par an                         | € 2010      
-taxe communale                                 | € 430,36
-déchets ménagers<br>incl 25 sacs poubelles<br>         | € 90   
+indemnité de résidence par an                  | € 2210      
+taxe communale                                 | € 439,11
+déchets ménagers<br>incl 25 sacs poubelles<br> | € 100   
  [assurance incendie][pdf_brandverzekering.fr]    | selon la<br>valeur de la caravane
 
 CONSOMMATION ⑴           |PRIX          |
 :--------------------:|:-------------:|
-électricité           | € 0,41 / kw        
-forfait eau           | € 85
-compteur              | € 22
+électricité           | € 0,78 / kW        
+forfait eau           | € 95
+compteur              | € 25
 
 ⑴ prix sous réserve de modifications des prix de l’énergie

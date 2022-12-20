@@ -5,7 +5,7 @@ description: extra spacious plots located around a wadi
 preview:
     title: Type 4
     button:
-        price: 3000
+        price: 3300
         for: per year
     list:
         - "average surface: 190 m²"
@@ -42,20 +42,20 @@ Would you like a big plot overlooking the wadi? Choose one of our luxurious plac
 - grass maintenance by Veld & Duin
 
 
-## Prices 2022
+## Prices 2023
 
 TYPE 4                |PRICE           |
 :--------------------:|:--------------:|
-stand price per year  |€ 3000           
-municipal taxes       |€ 430,36
-contribution for household refuse<br>incl. 25 bags<br> | € 90  
+stand price per year  | € 3300           
+municipal taxes       | € 439,11
+contribution for household refuse<br>incl. 25 bags<br> | € 100  
 [fire insurance][pdf_brandverzekering.en]     |depending on <br>the worth of the caravan
 
 CONSUMPTION ⑴        |PRICE          |
 :--------------------:|:-------------:|
-electricity           | € 0,41 / kw        
-water                 | € 7,60 / m³  
-gas                   | € 7,50 / m³       
-counter               | € 22 / counter
+electricity           | € 0,78 / kW        
+water                 | € 8,50 / m³  
+gas                   | € 10,75 / m³       
+counter               | € 25 / counter
 
 ⑴ price subject to changing energy charges

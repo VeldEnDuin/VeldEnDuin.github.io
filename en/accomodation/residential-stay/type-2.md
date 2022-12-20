@@ -5,7 +5,7 @@ description: spacious and renovated pitches
 preview:
     title: Type 2
     button:
-        price: 2235
+        price: 2460
         for: per year
     list:
         - "average surface: 120 m²"
@@ -51,16 +51,16 @@ Do you secretly dream about a place to settle along the coast? Make this dream c
 
 TYPE 2                |PRICE           |
 :--------------------:|:--------------:|
-stand price per year  |€ 2235         
-municipal taxes       |€ 430,36
-contribution for household refuge<br>incl. 25 bags<br> | € 90  
+stand price per year  | € 2460         
+municipal taxes       | € 439,11
+contribution for household refuge<br>incl. 25 bags<br> | € 100  
 [fire insurance][pdf_brandverzekering.en]      |depending on <br>worth of the caravan / chalet
 
-CONSUMPTION ⑴           |PRICE         |
+CONSUMPTION ⑴        |PRICE          |
 :--------------------:|:-------------:|
-electricity         | € 0,41 / kw        
-water                 | € 7,60 / m³  
-gas                   | € 7,50 / m³       
-counter     | € 22 / counter
+electricity           | € 0,78 / kW        
+water                 | € 8,50 / m³  
+gas                   | € 10,75 / m³       
+counter               | € 25 / counter
 
 ⑴ price subject to changing energy charges
