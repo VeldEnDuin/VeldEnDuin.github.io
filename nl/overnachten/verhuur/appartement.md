@@ -57,13 +57,13 @@ De appartementen liggen net naast de camping. Zo geniet u van de ruimte van een 
 - huisdieren niet toegelaten - wel mogelijk in de chalets of caravans
 - lift
 - gemeenschappelijke ruimte voor fietsen
-- winterperiode 15/11-15/3: enkel open voor verhuur tijdens de kerstvakantie
+- open voor verhuur van 15/3 - 15/11
+
 
 ## Inbegrepen
 - wifi
 - parking 1 auto
 - verbruik water en elektriciteit
-- **uitzondering** forfait energiekost 23/12 - 8/1: € 10 / nacht
 
 ## schoonmaak
 U dient de afwas te doen, het afval naar ons containerpark te brengen en het verblijf netjes achter te laten.
@@ -78,11 +78,10 @@ Lakenpakketten kunt u ook huren.
 
 EXTRA               | PRIJS
 :-------------------|:-----------|   
-lakenpakket         | € 10 / dubbelbed - € 9 / enkel bed
+lakenpakket         | € 12 / dubbelbed - € 10 / enkel bed
 kinderbed           | € 2 / nacht
 kinderstoel         | € 2 / nacht
 parking extra auto  | € 4 / begonnen dag
-[sauna][sauna.nl]   | € 30
 
 
 ## Plan camping

@@ -61,14 +61,13 @@ Nach einem herrlichen Tag am Strand oder einem Ausflug in die Umgebung lockt die
 - Chalet vorgesehen für 4 Personen
 - Check-in: ab 14 Uhr - Check-out: bis 10 Uhr
 - Hunde zugelassen (höchstens 2) - angeleint - keine gefährlichen Rassen
-- Winterzeitraum 15.11 - 15.03: nur während der Weihnachtsferien zu mieten
+- Vermietung geöffnet von 15/3 - 15/11
 
 
 ## Inbegriffen
 - W-lan
 - Parkplatz für 1 Auto
 - Verbrauch von Gas, Wasser und Strom
-- Ausnahme: Energiekostenpauschale 23/12 - 8/01: € 10 / Nacht
 
 ## Reinigung
 Sie brauchen den Abwasch zu erledigen, Abfall nach unserem Containerpark zu bringen und Ihre Unterkunft aufgeräumt zu hinterlassen.
@@ -84,12 +83,11 @@ Bettbezüge können Sie auch bei uns mieten.
 EXTRA               | PREIS
 :-------------------|:-----------|
 Hund                  | € 5 / Nacht - max 2     
-Betttuchpaket         | € 10 / Doppelbett - € 9 / Einzelbett
+Betttuchpaket       | € 12 / Doppelbett - € 10 / Einzelbett
 Kinderbett           | € 2 / Nacht
 Kinderstuhl         | € 2 / Nacht
 Parkplatz extra Auto  | € 4 / angefangenem Tag
 [Platz im Fahrradunterstand][fietsberging.de]| € 2 / Rad / Nacht
-[Sauna][sauna.de]   | € 30
 
 
 ## Plan Campingplatz

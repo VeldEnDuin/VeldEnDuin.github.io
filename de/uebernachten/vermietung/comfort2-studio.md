@@ -55,14 +55,13 @@ Kommen Sie und genießen Sie die Seeluft für ein paar Tage allein oder zu zweit
 - Studio vorgesehen für 2 Personen
 - Check-in: ab 14 Uhr - Check-out: bis 10 Uhr
 - Haustiere nicht zugelassen, jedoch möglich in Chalets oder Caravans
-- Winterzeitraum 15.11 - 15.03: nur während der Weihnachtsferien zu vermieten
+- Vermietung geöffnet von 15/3 - 15/11
 
 
 ## Inbegriffen
 - W-lan
 - Parkplatz für 1 Auto
 - Verbrauch von Gas, Wasser und Strom
-- Ausnahme: Energiekostenpauschale 23/12 - 8/01: € 10 / Nacht
 
 ## Reinigung
 Sie brauchen den Abwasch zu erledigen, Abfall nach unserem Containerpark zu bringen und Ihre Unterkunft aufgeräumt zu hinterlassen.
@@ -78,12 +77,11 @@ Bettbezüge können Sie auch bei uns mieten.
 
 EXTRA               | PREIS
 :-------------------|:-----------|
-Betttuchpaket         | € 10 / Doppelbett
+Betttuchpaket       | € 12 / Doppelbett
 Kinderbett           | € 2 / Nacht
 Kinderstuhl         | € 2 / Nacht
 Parkplatz extra Auto  | € 4 / angefangenem Tag
 [Platz im Fahrradunterstand][fietsberging.de]| € 2 / Rad / Nacht
-[Sauna][sauna.de]   | € 30
 
 
 ## Plan Campingplatz

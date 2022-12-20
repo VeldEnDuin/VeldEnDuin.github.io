@@ -53,7 +53,7 @@ Unser charmantes kleines Haus mit privatem Garten ist ideal für Menschen, die s
 - Caravan vorgesehen für max. 2 Personen
 - Check-in: ab 14 Uhr - Check-out: bis 10 Uhr
 - Ein kleiner Hund ist zulässig. Bitte beachten Sie jedoch, dass der Wohnraum nicht groß ist
-- Vermietung das ganze Jahr über außer vom 15. November bis 15. März
+- Vermietung geöffnet von 15/3 - 15/11
 
 
 ## Inbegriffen
@@ -72,12 +72,11 @@ Bettbezüge können Sie auch bei uns mieten.
 EXTRA               | PREIS
 :-------------------|:-----------|
 Hund                | € 5 / Nacht - max 1
-Betttuchpaket         | € 10 / Doppelbett
+Betttuchpaket       | € 12 / Doppelbett
 Kinderbett           | € 2 / Nacht
 Kinderstuhl         | € 2 / Nacht
 Parkplatz extra Auto  | € 4 / angefangenem Tag
 [Platz im Fahrradunterstand][fietsberging.de]| € 2 / Rad / Nacht
-[Sauna][sauna.de]   | € 30
 
 
 

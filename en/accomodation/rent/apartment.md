@@ -60,14 +60,12 @@ The apartments are situated next to the campsite. This means that you can enjoy 
 - pets not allowed – possible in chalets or caravans
 - lift
 - shared bike storage
-- winter period 15/11-15/03: only open for rental during the Christmas Holidays
-
+- Open for rentals from 15/3 - 15/3
 
 ## Included
 - wifi
 - parking 1 car
 - consumption water & electricity
-- exception: flat-rate energy cost 23/12 - 8/01: € 10 / night
 
 ## Cleaning
 You have to do the dishes, take the waste to our containerpark and leave the chalet tidy.
@@ -82,11 +80,10 @@ Bed linen can also be rented at the reception.
 
 EXTRA SERVICE               | PRICE
 :-------------------|:-----------|
-bed linen        | € 10 / double bed - € 9 / single bed
+bed linen           | € 12 / double bed - € 10 / single bed
 baby cot          | € 2 / night
 baby chair         | € 2 / night
 parking place extra car  | € 4 / started day
-[sauna][sauna.en]   | € 30
 
 
 ## Plan campsite

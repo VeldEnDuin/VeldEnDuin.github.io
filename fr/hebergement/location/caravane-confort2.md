@@ -53,8 +53,7 @@ Notre charmante petite maison avec jardin privé est parfaitement adapté pour a
 - caravane d’une capacité de max. 2 personnes
 - check-in: à partir de 14h00 - check-out: jusqu'à 10h00
 - petit chien admis mais veuillez tenir compte de l’espace réduit
-- période hiver 15/11-15/3: fermé pour location 
-
+- Location ouvert du 15/3 - 15/11
 
 ## Inclus
 - wifi
@@ -74,12 +73,11 @@ Le linge de lit peut être loué au camping.
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
 chien               | € 5 / nuit - max 1
-draps               | € 10 / lit double
+draps               | € 12 / lit double
 lit d'enfant        | € 2 / nuit
 chaise haute        | € 2 / nuit
 parking voiture supplémentaire  | € 4 / jour entamé
 [emplacement vélo][fietsberging.fr]| € 2 / vélo / nuit
-[sauna][sauna.fr]   | € 30
 
 
 ## Plan du camping

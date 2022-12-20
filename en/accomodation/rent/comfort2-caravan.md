@@ -53,7 +53,7 @@ Our charming tiny house with private garden is suitable for those who love being
 - caravan for max. 2 people
 - check-in: from 2 pm - check-out: until 10 am
 - a small pet is allowed but keep in mind that the space is limited
-- winter period 15/11-15/03: closed for rental
+- Open for rentals from 15/3 - 15/3
 
 ## Included
 - wifi
@@ -75,12 +75,11 @@ Bed linen can also be rented at the reception.
 EXTRA SERVICE            | PRICE
 :-------------------|:-----------|
 dogs               | € 5 / night - max 1
-bed linen        | € 10 / double bed
+bed linen        | € 12 / double bed
 baby cot          | € 2 / night
 baby chair         | € 2 / night
 parking place extra car  | € 4 / started day
 [bicycle shed][fietsberging.en]| € 2 / bike / night
-[sauna][sauna.en]   | € 30
 
 
 ## Plan campsite

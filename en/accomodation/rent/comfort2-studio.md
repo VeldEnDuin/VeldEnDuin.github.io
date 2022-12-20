@@ -55,14 +55,13 @@ Come and enjoy the sea air for a few days alone or in pairs. After a long walk o
 - studio for 2 people
 - check-in: from 2 pm - check-out: until 10 am
 - pets not allowed in the studio, pets are allowed in the chalets or caravans
-- winter period 15/11-15/03: only open for rental during the Christmas Holidays
+- Open for rentals from 15/3 - 15/3
 
 
 ## Included
 - wifi
 - parking 1 car
 - consumption gas-water-electricity
-- exception: flat-rate energy cost 15/12 - 15/01: € 10 / night
 
 ## Cleaning
 You have to do the dishes, take the waste to our containerpark and leave the chalet tidy.
@@ -77,12 +76,11 @@ Bed linen can also be rented at the reception.
 EXTRA SERVICE            | PRICE
 :-------------------|:-----------|
 dogs               | € 5 / night - max 1
-bed linen        | € 10 / double bed
+bed linen        | € 12 / double bed
 baby cot          | € 2 / night
 baby chair         | € 2 / night
 parking place extra car  | € 4 / started day
 [bicycle shed][fietsberging.en]| € 2 / bike / night
-[sauna][sauna.en]   | € 30
 
 
 ## Plan campsite

@@ -52,7 +52,7 @@ Ons charmante tiny house met privé-tuintje is ideaal voor wie houdt van het bui
 - caravan voorzien voor max. 2 personen
 - check-in: vanaf 14u - check-out: tot 10u
 - kleine hond toegelaten maar houd er rekening mee dat de woonruimte beperkt is
-- winterperiode 15/11-15/3: geen verhuur
+- open voor verhuur van 15/3 - 15/11
 
 
 ## Inbegrepen
@@ -74,12 +74,11 @@ Lakenpakketten kunt u ook huren.
 EXTRA               | PRIJS
 :-------------------|:-----------|
 hond                | € 5 / nacht - max 1
-lakenpakket         | € 10 / dubbelbed
+lakenpakket         | € 12 / dubbelbed
 kinderbed           | € 2 / nacht
 kinderstoel         | € 2 / nacht
 parking extra auto  | € 4 / begonnen dag
 [plaats fietsberging][fietsberging.nl]| € 2 / fiets / nacht
-[sauna][sauna.nl]   | € 30
 
 
 ## Plan camping

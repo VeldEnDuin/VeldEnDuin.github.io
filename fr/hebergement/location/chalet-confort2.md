@@ -54,14 +54,12 @@ Envie de vous ressourcer seul ou à deux? Vous vous sentirez comme à la maison 
 - chalet d’une capacité de 2 personnes
 - check-in: à partir de 14h00 - check-out: jusqu'à 10h00
 - 1 chien admis – en laisse - pas de races dangereuses
-- période hiver 15/11-15/3: la location n'est ouverte que pendant les vacances de Noël
-
+- Location ouvert du 15/3 - 15/11
 
 ## Inclus
 - wifi
 - parking 1 voiture
 - consommation gaz - eau - électricité
-- exception: forfait pour les frais énergétiques 23/12 - 8/01: € 10 / nuit
 
 ## Nettoyage
 Vous devez faire la vaisselle, mettre les déchets dans notre parc à conteneurs et laisser votre logement rangé.
@@ -77,12 +75,11 @@ Le linge de lit peut être loué au camping.
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
 chien               | € 5 / nuit - max 1
-draps               | € 10 / lit double
+draps               | € 12 / lit double
 lit d'enfant        | € 2 / nuit
 chaise haute        | € 2 / nuit
 parking voiture supplémentaire  | € 4 / jour entamé
 [emplacement vélo][fietsberging.fr]| € 2 / vélo / nuit
-[sauna][sauna.fr]   | € 30
 
 
 ## Plan du camping

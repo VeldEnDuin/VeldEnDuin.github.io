@@ -59,14 +59,12 @@ Les appartements sont situés à deux pas du camping. Tout en profitant de l’e
 - animaux de compagnie non admis – ils sont admis dans les chalets ou caravanes
 - ascenseur
 - espace commun pour vélos
-- période hiver 15/11-15/3: la location n'est ouverte que pendant les vacances de Noël
-
+- Location ouvert du 15/3 - 15/11
 
 ## Inclus
 - wifi
 - parking 1 voiture
 - consommation eau - électricité
-- exception: forfait pour les frais énergétiques 23/12 - 8/01: € 10 / nuit
 
 ## Nettoyage
 Vous devez faire la vaisselle, mettre les déchets dans notre parc à conteneurs et laisser votre logement rangé.
@@ -80,11 +78,10 @@ Le linge de lit peut être loué au camping.
 
 SUPPLÉMENTS         | PRIX
 :-------------------|:-----------|
-draps               | € 10 / lit double - € 9 / lit simple
+draps               | € 12 / lit double - € 10 / lit simple
 lit d'enfant        | € 2 / nuit
 chaise haute        | € 2 / nuit
 parking voiture supplémentaire  | € 4 / jour entamé
-[sauna][sauna.fr]   | € 30
 
 
 ## Plan du camping

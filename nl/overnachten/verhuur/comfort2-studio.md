@@ -56,14 +56,13 @@ Kom een paar dagjes alleen of met z’n tweeën genieten van de zeelucht. Na een
 - studio voorzien voor 2 personen
 - check-in: vanaf 14u - check-out: tot 10u
 - huisdieren niet toegelaten - wel mogelijk in de chalets of caravans
-- winterperiode 15/11-15/3: enkel open voor verhuur tijdens de kerstvakantie
+- open voor verhuur van 15/3 - 15/11
 
 
 ## Inbegrepen
 - wifi
 - parking 1 auto
 - verbruik gas-water-elektriciteit
-- **uitzondering** forfait energiekost 23/12 - 8/01: € 10 / nacht
 
 
 ## Schoonmaak
@@ -79,12 +78,11 @@ Lakenpakketten kunt u ook huren.
 
 EXTRA               | PRIJS
 :-------------------|:-----------|
-lakenpakket         | € 10 / dubbelbed
+lakenpakket         | € 12 / dubbelbed
 kinderbed           | € 2 / nacht
 kinderstoel         | € 2 / nacht
 parking extra auto  | € 4 / begonnen dag
 [plaats fietsberging][fietsberging.nl]| € 2 / fiets / nacht
-[sauna][sauna.nl]   | € 30
 
 ## Plan camping
 
