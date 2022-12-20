@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Camper pitch 
+title: Paved pitch camper / caravan
 description: spacious and paved pitches for campers
 preview:
-    title: Camper pitch
+    title: Paved pitch 10x8
     button:
-        price: 21
+        price: 23
         for: per night
     list:
         - "paved areas"
-        - "mobilhomes max 8m"
+        - "mobilhomes / caravans max 8m"
         - "sanitary block nearby"
 images:
     - /img/overnachten/trekkers-mob-10x8/mob10x8-01.jpg
@@ -41,19 +41,19 @@ Combine the freedom of travelling with a camper with the comfort of our campsite
 - dogs allowed - max 2 – on the leash – no dangerous breeds
 - winter period 15/11-15/03: closed
 
-## Prices 2022 per night
+## Prices 2023 per night
 
 NUMBER OF PERSONS | LOW SEASON | HIGH SEASON      
 :-------------:|:-----------:|:-----------:|
-1 person      |€ 21          |€ 26   
-2 persons     |€ 23          |€ 28         
-3 persons     |€ 25          |€ 30
-4 persons     |€ 27          |€ 32   
-5 persons     |€ 29          |€ 34
-6 persons     |€ 31          |€ 36
+1 person      |€ 23          |€ 29   
+2 persons     |€ 25          |€ 31
+3 persons     |€ 27          |€ 33
+4 persons     |€ 29          |€ 35   
+5 persons     |€ 31          |€ 37
+6 persons     |€ 33          |€ 39
 
 * 15/7 - 15/8: upon reservation as from 7 nights
-* high season: July - August - long weekends
+* high season: Easter holiday - July - August - long weekends
 
 ## Discounts low season
 

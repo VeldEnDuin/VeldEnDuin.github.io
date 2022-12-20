@@ -10,8 +10,7 @@
 
 EXTRA             | PREIS
 :------------------|:-----------|
-Dusche       | € 1 / Jeton
+Dusche            | € 1,5 / Jeton
 Hund              | € 2 / Nacht - max 2
 Parkplatz extra Auto  | € 4 / angefangenem Tag
 [Platz im Fahrradunterstand][fietsberging.de]| € 2 / Rad / Nacht
-[Sauna][sauna.de]   | € 30

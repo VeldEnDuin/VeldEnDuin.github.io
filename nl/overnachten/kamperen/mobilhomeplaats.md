@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Mobilhomeplaats 10x8
-description: ruime en verharde percelen voor campers
+title: Verharde plaats mobilhome / trekcaravan 10x8
+description: ruime en verharde percelen voor campers of trekcaravans
 preview:
-    title: Mobilhomeplaats
+    title: Verharde plaats 10x8
     button:
-        price: 21
+        price: 23
         for: per nacht
     list:
         - "verharde plaatsen"
-        - "mobilhomes max 8 m"
+        - "mobilhomes / trekcaravans max 8 m"
         - "dichtbij sanitair"
 images:
     - /img/overnachten/trekkers-mob-10x8/mob10x8-01.jpg
@@ -41,19 +41,19 @@ Combineer de vrijheid van het reizen met een mobilhome met het comfort van onze 
 - honden toegelaten: max 2 - aan de leiband - geen gevaarlijke rassen
 - winterperiode 15/11-15/3: gesloten
 
-## Prijzen 2022 per nacht
+## Prijzen 2023 per nacht
 
 AANTAL PERSONEN | LAAGSEIZOEN | HOOGSEIZOEN      
 :-------------:|:-----------:|:-----------:|
-1 persoon      |€ 21         |€ 26    
-2 personen     |€ 23         |€ 28          
-3 personen     |€ 25         |€ 30
-4 personen     |€ 27         |€ 32    
-5 personen     |€ 29         |€ 34
-6 personen     |€ 31         |€ 36
+1 persoon      |€ 23         |€ 29    
+2 personen     |€ 25         |€ 31          
+3 personen     |€ 27         |€ 33
+4 personen     |€ 29         |€ 35    
+5 personen     |€ 31         |€ 37
+6 personen     |€ 33         |€ 39
 
 * 15/7 - 15/8: reservatie vanaf 7 nachten
-* hoogseizoen: juli - augustus - verlengde weekends
+* hoogseizoen: paasvakantie, juli - augustus - verlengde weekends
 
 ## Kortingen laagseizoen
 
