@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Campingplatz 
+title: Grasplatz Ziehewohnwagen 
 description: Wahl zwischen verhartetem Platz oder Rasenplatz
 preview:
-    title: Campingplatz 10x8
+    title: Grasplatz 10x8
     button:
-        price: 21
+        price: 23
         for: pro Nacht
     list:
         - "Grasplatz"
@@ -37,19 +37,19 @@ Unsere Rasenplätze laden Sie zu einem herrlich entspannten Aufenthalt mit Ihrem
 - Hunde zugelassen (höchstens 2) - angeleint - keine gefährlichen Rassen
 - Winterzeitraum 15.11 - 15.03: geschlossen
 
-## Preise 2022 pro Nacht
+## Preise 2023 pro Nacht
 
 ANZAHL PERSONEN | NEBENSAISON | HOCHSAISON      
 :-------------:|:-----------:|:-----------:|
-1 Person       |€ 21         |€ 26      
-2 Personen     |€ 23         |€ 28           
-3 Personen     |€ 25         |€ 30
-4 Personen     |€ 27         |€ 32     
-5 Personen     |€ 29         |€ 34
-6 Personen     |€ 31         |€ 36
+1 Person       |€ 23         |€ 29      
+2 Personen     |€ 25         |€ 31           
+3 Personen     |€ 27         |€ 33
+4 Personen     |€ 29         |€ 35     
+5 Personen     |€ 31         |€ 37
+6 Personen     |€ 33         |€ 39
 
 * 15.7. bis 15.8.: Reservierung ab 7 Nächten
-* Hochsaison: Juli - August - verlängerte Wochenenden
+* Hochsaison: Osterurlaub - Juli - August - verlängerte Wochenenden
 
 ## Rabatte Nebensaison
 

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Emplacement Campeur 10x8
+title: Emplacement gazon caravane tractable 10x8
 description: choix entre un emplacement pavé ou un emplacement gazonné
 preview:
-    title: Emplacement Campeur 
+    title: Emplacement gazon 
     button:
-        price: 21
+        price: 23
         for: par nuit
     list:
         - "emplacement gazon"
@@ -37,21 +37,22 @@ Nos emplacements en herbe vous invitent à un merveilleur séjour de détente av
 - chiens admis – max. 2 – en laisse – pas de races dangereuses
 - période hiver 15/11-15/3: fermé
 
-## Prix 2022 par nuit
+## Prix 2023 par nuit
 
 
 NOMBRE DE PERSONNES |BASSE SAISON |HAUTE SAISON
 :------------------:|:-----------:|:-----------:|
-1 personne          |€ 21         |€ 26     
-2 personnes         |€ 23         |€ 28          
-3 personnes         |€ 25         |€ 30
-4 personnes         |€ 27         |€ 32
-5 personnes         |€ 29         |€ 34
-6 personnes         |€ 31         |€ 36
+1 personne          |€ 23         |€ 29    
+2 personnes         |€ 25         |€ 31
+3 personnes         |€ 27         |€ 33
+4 personnes         |€ 29         |€ 35
+5 personnes         |€ 31         |€ 37
+6 personnes         |€ 33         |€ 39
 
 
 * 15/7 - 15/8: réservation à partir de 7 nuits
-* haute saison: juillet - août - week-ends prolongés
+* haute saison: vacances de Pâques - juillet - août - week-ends prolongés
+
 
 ## Réductions Basse Saison
 
