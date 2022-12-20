@@ -5,7 +5,7 @@ description: choix entre un emplacement tente de 7x8 ou 10x8
 preview:
     title: Emplacement Tente
     button:
-        price: 19
+        price: 21
         for: par nuit
     list:
         - "petits emplacements: 7x8"
@@ -41,31 +41,31 @@ Nous avons le choix entre 2 types d'emplacements de tente. Les emplacements 7x8 
 - chiens admis – max. 2 – en laisse – pas de races dangereuses
 - période hiver 15/11-15/3: fermé
 
-## Prix 2022 par nuit
+## Prix 2023 par nuit
 
 ### Emplacement 7x8m
 
 NOMBRE DE PERSONNES |BASSE SAISON |HAUTE SAISON
 :------------------:|:-----------:|:-----------:|
-1 personne          |€ 19         |€ 22     
-2 personnes         |€ 21         |€ 24          
-3 personnes         |€ 23         |€ 26
-4 personnes         |€ 25         |€ 28
+1 personne          |€ 21         |€ 24     
+2 personnes         |€ 23         |€ 26          
+3 personnes         |€ 25         |€ 28
+4 personnes         |€ 27         |€ 30
 
 ### Emplacement 10x8m
 
-NOMBRE DE PERSONNES | BASSE SAISON | HAUTE SAISON     
-:-------------:|:-----------:|:-----------:|
-1 personne      |€ 21         |€ 26    
-2 personnes     |€ 23         |€ 28          
-3 personnes     |€ 25         |€ 30
-4 personnes     |€ 27         |€ 32    
-5 personnes     |€ 29         |€ 34
-6 personnes     |€ 31         |€ 36
+NOMBRE DE PERSONNES |BASSE SAISON |HAUTE SAISON
+:------------------:|:-----------:|:-----------:|
+1 personne          |€ 23         |€ 29    
+2 personnes         |€ 25         |€ 31
+3 personnes         |€ 27         |€ 33
+4 personnes         |€ 29         |€ 35
+5 personnes         |€ 31         |€ 37
+6 personnes         |€ 33         |€ 39
 
 
 * 15/7 - 15/8: réservation à partir de 7 nuits
-* haute saison: juillet - août - week-ends prolongés
+* haute saison: vacances de Pâques - juillet - août - week-ends prolongés
 
 
 ## Réductions Basse Saison

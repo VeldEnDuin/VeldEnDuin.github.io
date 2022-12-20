@@ -5,7 +5,7 @@ description: keuze tussen tentplaats van 7x8 of 10x8
 preview:
     title: Tentplaats
     button:
-        price: 19
+        price: 21
         for: per nacht
     list:
         - "kleine tentplaats: 7x8"
@@ -42,30 +42,30 @@ We hebben de keuze uit 2 types tentplaatsen.  Op de plaatsen van 7x8 is het heer
 - winterperiode 15/11-15/3: gesloten
 
 
-## Prijzen 2022 per nacht
+## Prijzen 2023 per nacht
 
 ### Tentplaats 7x8
 
 AANTAL PERSONEN | LAAGSEIZOEN | HOOGSEIZOEN      
 :-------------:|:-----------:|:-----------:|
-1 persoon      |€ 19         |€ 22   
-2 personen     |€ 21         |€ 24          
-3 personen     |€ 23         |€ 26
-4 personen     |€ 25         |€ 28    
+1 persoon      |€ 21         |€ 24   
+2 personen     |€ 23         |€ 26          
+3 personen     |€ 25         |€ 28
+4 personen     |€ 27         |€ 30    
 
 ### Tentplaats 10x8
 
 AANTAL PERSONEN | LAAGSEIZOEN | HOOGSEIZOEN      
 :-------------:|:-----------:|:-----------:|
-1 persoon      |€ 21         |€ 26     
-2 personen     |€ 23         |€ 28          
-3 personen     |€ 25         |€ 30
-4 personen     |€ 27         |€ 32    
-5 personen     |€ 29         |€ 34
-6 personen     |€ 31         |€ 36
+1 persoon      |€ 23         |€ 29     
+2 personen     |€ 25         |€ 31          
+3 personen     |€ 27         |€ 33
+4 personen     |€ 29         |€ 35    
+5 personen     |€ 31         |€ 37
+6 personen     |€ 33         |€ 39
 
 * 15/7 - 15/8: reservatie vanaf 7 nachten
-* hoogseizoen: juli - augustus - verlengde weekends
+* hoogseizoen: paasvakantie juli - augustus - verlengde weekends
 
 ## Kortingen laagseizoen
 

@@ -5,7 +5,7 @@ description: choice between a tent pitch of 7x8 or 10x8
 preview:
     title: Tent pitch
     button:
-        price: 19
+        price: 21
         for: per night     
     list:
         - "small pitch: 7x8"
@@ -42,7 +42,7 @@ We have a choice of 2 types of tent pitches. The 7x8 pitches are great for campi
 - dogs allowed - max 2 – no dangerous breeds
 - winter period 15/11-15/03: closed
 
-## Prices 2022 per night
+## Prices 2023 per night
 
 ### Tent pitch 7x8m
 
@@ -57,16 +57,15 @@ NUMBER OF PERSONS | LOW SEASON | HIGH SEASON
 
 NUMBER OF PERSONS | LOW SEASON | HIGH SEASON      
 :-------------:|:-----------:|:-----------:|
-1 person      |€ 21          |€ 26   
-2 persons     |€ 23          |€ 28         
-3 persons     |€ 25          |€ 30
-4 persons     |€ 27          |€ 32   
-5 persons     |€ 29          |€ 34
-6 persons     |€ 31          |€ 36
-
+1 person      |€ 23          |€ 29   
+2 persons     |€ 25          |€ 31
+3 persons     |€ 27          |€ 33
+4 persons     |€ 29          |€ 35   
+5 persons     |€ 31          |€ 37
+6 persons     |€ 33          |€ 39
 
 * 15/7 - 15/8: upon reservation as from 7 nights
-* high season: July - August - long weekends
+* high season: Easter holiday - July - August - long weekends
 
 ## Discounts low season
 

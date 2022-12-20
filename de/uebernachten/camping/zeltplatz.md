@@ -5,7 +5,7 @@ description: Wahl zwischen einem Zeltplatz von 7x8 oder 10x8
 preview:
     title: Zeltplatz
     button:
-        price: 19
+        price: 21
         for: pro Nacht
     list:
         - "kleine Plätze: 7x8"
@@ -41,30 +41,30 @@ Wir haben die Wahl zwischen 2 Arten von Zeltplätzen. Die 7x8 Stellplätze eigne
 - Winterzeitraum 15.11 - 15.03: geschlossen
 
 
-## Preise 2022 pro Nacht
+## Preise 2023 pro Nacht
 
 ### Zeltplatz 7x8m
 
 ANZAHL PERSONEN | NEBENSAISON | HOCHSAISON      
 :-------------:|:-----------:|:-----------:|
-1 Person       |€ 19         |€ 22     
-2 Personen     |€ 21         |€ 24           
-3 Personen     |€ 23         |€ 26
-4 Personen     |€ 25         |€ 28     
+1 Person       |€ 21         |€ 24     
+2 Personen     |€ 23         |€ 26           
+3 Personen     |€ 25         |€ 28
+4 Personen     |€ 27         |€ 30     
 
 ### Zeltplatz 10x8m
 
 ANZAHL PERSONEN | NEBENSAISON | HOCHSAISON      
 :-------------:|:-----------:|:-----------:|
-1 Person       |€ 21         |€ 26     
-2 Personen     |€ 23         |€ 28           
-3 Personen     |€ 25         |€ 30
-4 Personen     |€ 27         |€ 32     
-5 Personen     |€ 29         |€ 34
-6 Personen     |€ 31         |€ 36
+1 Person       |€ 23         |€ 29      
+2 Personen     |€ 25         |€ 31           
+3 Personen     |€ 27         |€ 33
+4 Personen     |€ 29         |€ 35     
+5 Personen     |€ 31         |€ 37
+6 Personen     |€ 33         |€ 39
 
 * 15.7. bis 15.8.: Reservierung ab 7 Nächten
-* Hochsaison: Juli - August - verlängerte Wochenenden
+* Hochsaison: Osterurlaub - Juli - August - verlängerte Wochenenden
 
 ## Rabatte Nebensaison
 
