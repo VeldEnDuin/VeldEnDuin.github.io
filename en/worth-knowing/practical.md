@@ -20,7 +20,7 @@ insert:
 
 ## Opening hours reception
 
-<B>Reception closed from 23/09 until 06/10</B>
+<B>Reception closed from 19/09 until 28/09</B>
 
 <B>01/09 - 15/11</B>
 - monday - friday - saturday
@@ -30,8 +30,7 @@ insert:
     - 09u00 - 12u00
 
 <B>15/11 - 15/03</B>
-- by appointment
-- Christmas Holidays: 09u00 - 12u00
+- by appointment (by phone or e-mail)
 - closed on 25/12 and 1/1
 
 

@@ -20,7 +20,7 @@ preview:
 
 ## Openingsuren receptie
 
-<B>receptie gesloten van 23/09 - 06/10</B>
+<B>receptie gesloten van 19/09 - 28/09</B>
 
 <B>01/09 - 15/11</B>
 - maandag - vrijdag- zaterdag 
@@ -30,8 +30,7 @@ preview:
     - 09u00 - 12u00
 
 <B>15/11 - 15/03</B>
-- open op afspraak
-- kerstvakantie: 9u-12u
+- open op afspraak (telefonisch of via mail)
 - gesloten op 25/12 en 1/1
 
 

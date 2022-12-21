@@ -20,7 +20,7 @@ preview:
 
 ## Horaires de la réception
 
-<B>réception fermé du 23/09 - 06/10</B>
+<B>réception fermé du 19/09 - 28/09</B>
 
 <B>01/09 - 15/11</B>
 - lundi - vendredi - samedi
@@ -30,8 +30,7 @@ preview:
     - 09h00 - 12h00
 
 <B>15/11 - 15/03</B>
-- sur rendez-vous
-- vacances de Noël: 09h00 - 12h00
+- sur rendez-vous (par téléphone ou par mail)
 - fermé le 25/12 et 1/1
 
 

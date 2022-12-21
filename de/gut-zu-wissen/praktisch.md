@@ -21,7 +21,7 @@ preview:
 
 ## Öffnungszeiten Rezeption
 
-<B>Rezeption geschlossen von 23/09 bis 06/10 </B>
+<B>Rezeption geschlossen von 19/09 bis 28/09 </B>
 
 <B>01/09 - 15/11</B>
 - Montag - Freitag - Samstag
@@ -31,8 +31,7 @@ preview:
     - 09:00 - 12:00 Uhr
 
 <B>15/11 - 15/03</B>
-- nach Vereinbarung
-- Weihnachtsferien: 09:00 - 12:00 Uhr
+- nach Vereinbarung (telefonisch oder pro Mail)
 - geschlossen am 25/12 und 1/1
 
 
