@@ -39,7 +39,8 @@ Grün bedeutet auch, nach einem möglichst nachhaltigen Betrieb zu streben. Hier
 - wir setzen auf Abfalltrennung
 - bei der Anlage neuer Parzellen sehen wir eine Abwassertrennung vor
 - wir haben Sparduschköpfe installiert
-- 70 Sonnenkollektoren auf dem Fahrradstellplatz
+- Sonnenkollektoren auf dem Fahrradschuppen und dem Sanitärgebäude
+- ab Frühjahr 2023: 2 Ladestationen für Elektroautos
 
 
 Jeder Dauercampingplatz verfügt darüber hinaus über getrennte Wasser-, Strom- und Gaszähler, sodass unsere Gäste angespornt werden, ihren ökologischen Fußabdruck zu verkleinern. Auch bei den Mietunterkünften werben wir dafür, nicht unnötig Energie zu verschwenden.
