@@ -37,4 +37,4 @@ In jedem unserer drei Sanitärgebäude stehen unsere Profiwaschmaschinen und -tr
 
 Bezahlen ist mit folgenden Münzen möglich: € 0,50, € 1 oder € 2.
 
-Waschpulver (€ 1,70) und Weichspüler (€ 0,60) an der Rezeption erhältlich.
+Waschpulver (€ 1,90) und Weichspüler (€ 0,80) an der Rezeption erhältlich.

@@ -37,4 +37,4 @@ Nos lave-linge et sèche-linge professionnels sont à votre disposition dans nos
 
 Paiement avec des pièces de 0,50 €, 1 € ou 2 €.
 
-Poudre à lessiver (1,70 €) et adoucissant (0,60 €) disponibles à la réception.
+Poudre à lessiver (1,90 €) et adoucissant (0,80 €) disponibles à la réception.
