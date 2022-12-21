@@ -28,14 +28,13 @@ remove:
 ---
 {% include links.md %}
 
-## Entertainment Veld & Duin summer 2022
+## Entertainment Veld & Duin summer 2023
 
-At this moment it is still uncertain if entertainment will be possible on the campsite and on what conditions.
+We are still preparing to offer fun entertainment in the summer of 2023 as well.
 
-We are looking into the possibilities for smaller and safer activities. We will have to plan these last minute in function of the guidelines, possibilities and the weather.
+We like to keep it small-scale and look for a nice mix of activities to interest young and not so young.
 
-We will keep you posted through facebook and our chalkboard.
-
+So keep an eye on this website and our facebook page.
 
 
 ## Entertainment Bredene and surroundings

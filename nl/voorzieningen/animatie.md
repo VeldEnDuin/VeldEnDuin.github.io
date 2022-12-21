@@ -24,13 +24,14 @@ insert:
 ---
 {% include links.md %}
 
-## Animatie Veld & Duin zomer 2022
+## Animatie Veld & Duin zomer 2023
 
-Op dit moment is het nog niet helemaal duidelijk of er animatie op de camping zal mogelijk zijn en onder welke voorwaarden.
+We zijn nog volop aan het plannen om ook in de zomer van 2023 leuke animatie aan te bieden.
 
-We bekijken zeker de mogelijkheden voor wat kleinere en veilige mogelijkheden. We zullen deze last minute inplannen in functie van de richtlijnen, de mogelijkheden en het weer.
+Daarbij houden we het graag kleinschalig en zoeken we naar een fijne mix van activiteiten om jong en wat minder jong te boeien.
 
-Via facebook en ons krijtbord houden we iedereen op de hoogte.
+Hou deze website en onze facebookpagina dus zeker in de gaten.
+
 
 ## Animatie Bredene en omgeving
 
