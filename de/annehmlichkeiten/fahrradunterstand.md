@@ -34,7 +34,7 @@ Reservieren Sie bitte an der Rezeption.
 
 | Konzept                | Preis |
 |-------------------------|:-----:|
-| Jahresplatz Fahrradunterstand |€ 50 / Rad   |
+| Jahresplatz Fahrradunterstand |€ 55 / Rad   |
 | Platz Mieter/Kurzzeitcamper | € 2 / Nacht - Kaution Schlüssel € 25 |
 
 

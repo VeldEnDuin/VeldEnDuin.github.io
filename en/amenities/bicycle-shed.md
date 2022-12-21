@@ -34,7 +34,7 @@ For any of the above, contact the reception.
 
 | Formula                 | Price |
 |-------------------------|:-----:|
-| annual rent 		   |€ 50 / bike   |
+| annual rent 		      |€ 55 / bike   |
 | backpackers/tenants | € 2 / night – warranty per key € 25 |
 
 
