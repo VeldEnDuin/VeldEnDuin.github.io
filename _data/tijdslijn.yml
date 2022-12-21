@@ -556,3 +556,21 @@ items:
       en: "These new wooden, sustainable lighting poles provide bright and atmospheric lighting on the campsite."
     images:
       - /img/tijdslijn/2021/verlichting.jpg
+
+  - date: 2022-11-15
+    label: 2022
+    title:
+      nl: "Groene investeringen"
+      fr: "Investissements verts"
+      de: "Grüne Investitionen"
+      en: "Green investments"
+    description: 
+      nl: "Ook in 2022 investeren we verder in groen energie in de vorm van 180 zonnepannelen op ons sanitairgebouw."
+      fr: "En 2022, nous continuerons à investir dans l'énergie verte en installant 180 panneaux solaires sur notre bâtiment sanitaire."
+      de: "Im Jahr 2022 werden wir weiter in grüne Energie investieren in Form von 180 Sonnenkollektoren auf unserem Sanitärgebäude."
+      en: "In 2022, we will continue to invest in green energy in the form of 180 solar panels on our sanitary building."
+    images: 
+      - /img/tijdslijn/20221115-panelen-01.jpg
+      - /img/tijdslijn/20221115-panelen-02.jpg
+      - /img/tijdslijn/20221115-panelen-03.jpg
+      - /img/tijdslijn/20221115-panelen-04.jpg
