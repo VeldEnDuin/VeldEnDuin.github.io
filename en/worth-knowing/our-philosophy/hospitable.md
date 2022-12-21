@@ -17,7 +17,7 @@ insert:
 
 ---
 
-In the reception, Sander and Els are ready with a smile to answer all questions and share the best holiday tips.
+In the reception, we are ready with a smile to answer all questions and share the best holiday tips.
 If there are technical problems you will be helped by Stefaan.
 
 We expect respect from our guests towards the other campers so that everyone can enjoy a pleasant stay.

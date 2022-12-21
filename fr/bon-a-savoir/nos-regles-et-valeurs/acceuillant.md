@@ -17,7 +17,7 @@ insert:
 
 ---
 
-A la réception, Sander et Els sont prêts avec le sourire à répondre à toutes les questions et à partager les meilleurs conseils de vacances.
+A la réception, nous sommes prêts avec le sourire à répondre à toutes les questions et à partager les meilleurs conseils de vacances.
 En cas de problèmes techniques, Stefaan vous aidera.
 
 Nous attendons du respect de nos hôtes envers les autres campeurs afin que chacun puisse passer un agréable séjour.

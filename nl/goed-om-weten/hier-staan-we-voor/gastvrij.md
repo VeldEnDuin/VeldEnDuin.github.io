@@ -17,7 +17,7 @@ insert:
 
 ---
 
-In de receptie staan Sander en Els met de glimlach klaar voor het beantwoorden van alle vragen en het delen van de leukste vakantietips. 
+In de receptie staan we met de glimlach klaar voor het beantwoorden van alle vragen en het delen van de leukste vakantietips. 
 Zijn er technische problemen dan word je geholpen door Stefaan.
 
 Van onze gasten verwachten we respect naar de andere kampeerders toe zodat iedereen van een fijn verblijf kan genieten. 

@@ -17,7 +17,7 @@ insert:
 
 ---
 
-An der Rezeption stehen Sander und Els mit einem Lächeln bereit, um alle Fragen zu beantworten und die besten Urlaubstipps auszutauschen.
+An der Rezeption stehen wir mit einem Lächeln bereit, um alle Fragen zu beantworten und die besten Urlaubstipps auszutauschen.
 Bei technischen Problemen hilft Ihnen Stefaan.
 
 Wir erwarten von unseren Gästen Respekt gegenüber den anderen Campern, damit jeder einen angenehmen Aufenthalt genießen kann.
