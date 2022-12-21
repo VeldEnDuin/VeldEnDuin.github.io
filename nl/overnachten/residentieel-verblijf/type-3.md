@@ -5,7 +5,7 @@ description: percelen waar caravans tot 12 meter kunnen staan
 preview:
     title: Type 3
     button:
-        price: 2575
+        price: 2835
         for: per jaar
     list:
         - "gemiddelde opp: 170 m²"
