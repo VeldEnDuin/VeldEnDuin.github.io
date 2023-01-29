@@ -47,7 +47,7 @@ Do you secretly dream about a place to settle along the coast? Make this dream c
 - grass maintenance by Veld & Duin
 
 
-## Prices 2022
+## Prices 2023
 
 TYPE 2                |PRICE           |
 :--------------------:|:--------------:|
