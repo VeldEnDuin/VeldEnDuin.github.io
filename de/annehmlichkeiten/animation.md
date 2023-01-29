@@ -38,4 +38,5 @@ Behalten Sie also diese Website und unsere Facebook-Seite im Auge.
 
 ## Animation Bredene und Umgebung
 
-Auch hier bleibt abzuwarten, was im kommenden Sommer möglich oder nicht möglich sein wird. Die neuesten Nachrichten dazu finden Sie auf unserer [Aktivitätenseite][doen.de] und auf Facebook.
+In Bredene und an der übrigen belgischen Küste gibt es das ganze Jahr über viel zu erleben.
+Die neuesten Nachrichten dazu finden Sie auf unserer [Aktivitätenseite][doen.de] und auf Facebook.

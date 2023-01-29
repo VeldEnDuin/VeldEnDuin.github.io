@@ -38,4 +38,5 @@ Gardez donc un œil sur ce site web et notre page Facebook.
 
 ## Animations à Bredene et dans les environs
 
-Ici aussi, il reste à voir ce qui sera possible ou non au cours de l'été prochain. Vous pouvez trouver toutes les dernières nouvelles à ce sujet via notre [page-activités][doen.fr] et facebook.
+A Bredene et sur le reste de la côte belge, de nombreuses activités sont organisées tout au long de l'année.
+Vous pouvez trouver toutes les dernières nouvelles à ce sujet via notre [page-activités][doen.fr] et facebook.

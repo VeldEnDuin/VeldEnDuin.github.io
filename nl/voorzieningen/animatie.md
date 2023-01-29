@@ -35,4 +35,5 @@ Hou deze website en onze facebookpagina dus zeker in de gaten.
 
 ## Animatie Bredene en omgeving
 
-Ook hier is het nog even afwachten wat er al dan niet zal kunnen in de komende zomer. Via onze [doen-pagina][doen.nl] en facebook vind je alle laatste nieuws hierover.
+In Bredene en langs de rest van de Belgische kust valt er het hele jaar door veel te beleven.
+Via onze [doen-pagina][doen.nl] en facebook vind je alle laatste nieuws hierover.

@@ -39,4 +39,5 @@ So keep an eye on this website and our facebook page.
 
 ## Entertainment Bredene and surroundings
 
-Here, too, it remains to be seen what may or may not be possible in the coming summer. You will find all the latest news about this via our [to do-page][doen.en] and facebook.
+In Bredene and along the rest of the Belgian coast, there is plenty to do all year round.
+You will find all the latest news about this via our [to do-page][doen.en] and facebook.
