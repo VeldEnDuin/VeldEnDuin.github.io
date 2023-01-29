@@ -55,7 +55,7 @@ Venez profiter de l'air marin pendant quelques jours seul ou à deux. Après une
 - studio d’une capacité de 2 personnes
 - check-in: à partir de 14h00 - check-out: jusqu'à 10h00
 - animaux de compagnie non admis – admis dans les chalets ou caravanes
-- Location ouvert du 15/3 - 15/11
+- location ouvert du 15/3 - 15/11
 
 ## Inclus
 - wifi

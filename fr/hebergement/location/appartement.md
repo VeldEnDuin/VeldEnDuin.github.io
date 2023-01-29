@@ -59,7 +59,7 @@ Les appartements sont situés à deux pas du camping. Tout en profitant de l’e
 - animaux de compagnie non admis – ils sont admis dans les chalets ou caravanes
 - ascenseur
 - espace commun pour vélos
-- Location ouvert du 15/3 - 15/11
+- location ouvert du 15/3 - 15/11
 
 ## Inclus
 - wifi

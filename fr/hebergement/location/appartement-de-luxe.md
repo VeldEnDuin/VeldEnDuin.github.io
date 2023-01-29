@@ -63,7 +63,7 @@ Situés au-dessus de la réception, ces nouveaux appartements luxueux offrent un
 - check-in: à partir de 14h00 - check-out: jusqu'à 10h00
 - animaux de compagnie non admis – admis dans les chalets ou caravanes
 - escalier - sans ascenseur
-- Location ouvert du 15/3 - 15/11
+- location ouvert du 15/3 - 15/11
 
 
 

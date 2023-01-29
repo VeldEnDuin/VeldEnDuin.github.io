@@ -57,7 +57,7 @@ Ces chalets sont situés à l’entrée du camping, à proximité du terrain de 
 - chalet d’une capacité de 4 personnes
 - check-in: à partir de 14h00 - check-out: jusqu'à 10h00
 - chiens admis – max. 2 – en laisse - pas de races dangereuses
-- Location ouvert du 15/3 - 15/11
+- location ouvert du 15/3 - 15/11
 
 
 ## Inclus

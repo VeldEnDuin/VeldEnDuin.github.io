@@ -54,7 +54,7 @@ Envie de vous ressourcer seul ou à deux? Vous vous sentirez comme à la maison 
 - chalet d’une capacité de 2 personnes
 - check-in: à partir de 14h00 - check-out: jusqu'à 10h00
 - 1 chien admis – en laisse - pas de races dangereuses
-- Location ouvert du 15/3 - 15/11
+- location ouvert du 15/3 - 15/11
 
 ## Inclus
 - wifi
