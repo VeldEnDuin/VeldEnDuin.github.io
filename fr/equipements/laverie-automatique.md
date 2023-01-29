@@ -35,6 +35,6 @@ Nos lave-linge et sèche-linge professionnels sont à votre disposition dans nos
 | sèche-linge 8 kg         | € 4,50 |
 
 
-Paiement avec des pièces de 0,50 €, 1 € ou 2 €.
+Paiement avec des pièces de € 0,50 , € 1  ou € 2.
 
-Poudre à lessiver (1,90 €) et adoucissant (0,80 €) disponibles à la réception.
+Poudre à lessiver (€ 2,00) et adoucissant (€ 1,00) disponibles à la réception.

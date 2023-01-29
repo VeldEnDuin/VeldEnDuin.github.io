@@ -37,4 +37,4 @@ In elk van onze 3 sanitaire gebouwen staan onze professionele wasmachines en dro
 
 Betaling met munten van € 0,50, € 1 of € 2.
 
-Waspoeder (€ 1,90) en wasverzachter (€ 0,80) verkrijgbaar aan de receptie.
+Waspoeder (€ 2,00) en wasverzachter (€ 1,00) verkrijgbaar aan de receptie.

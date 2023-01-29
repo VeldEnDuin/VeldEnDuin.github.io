@@ -37,4 +37,4 @@ There are washing machines and tumble driers at your disposal in each of our 3 s
 
 To be paid with coins € 0,50, € 1 of € 2.
 
-Washing powder (€ 1,90) and fabric softener (€ 0,80) available at the reception.
+Washing powder (€ 2,00) and fabric softener (€ 1,00) available at the reception.
