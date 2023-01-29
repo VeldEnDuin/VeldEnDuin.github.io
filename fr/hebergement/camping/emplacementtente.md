@@ -68,11 +68,6 @@ NOMBRE DE PERSONNES |BASSE SAISON |HAUTE SAISON
 * haute saison: vacances de Pâques - juillet - août - week-ends prolongés
 
 
-## Réductions Basse Saison
-
-- séjour ≥ 7 nuits: -7%
-- séjour ≥ 10 nuits: -10%
-
 {% include fr/camping-reuse.md %}
 
 

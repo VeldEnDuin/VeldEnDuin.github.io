@@ -57,15 +57,8 @@ ANZAHL PERSONEN | NEBENSAISON | HOCHSAISON
 * 15.7. bis 15.8.: Reservierung ab 7 Nächten
 * Hochsaison: Osterurlaub - Juli - August - verlängerte Wochenenden
 
-## Rabatte Nebensaison
-
-- Aufenthalt ≥ 7 Nächte: -7%
-- Aufenthalt ≥ 10 Nächte: -10%
 
 {% include de/kurzzeitcamper-reuse.md %}
-
-
-
 
 
 ## Plan Campingplatz

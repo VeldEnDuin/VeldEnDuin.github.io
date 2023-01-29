@@ -51,14 +51,8 @@ NUMBER OF PERSONS | LOW SEASON | HIGH SEASON
 * 15/7 - 15/8: upon reservation as from 7 nights
 * high season: Easter holiday - July - August - long weekends
 
-## Discounts low season
 
-- Stay ≥ 7 nights: -7%
-- Stay ≥ 10 nights: -10%
 {% include en/hiker-reuse.md %}
-
-
-
 
 
 ## Plan campsite

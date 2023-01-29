@@ -48,10 +48,10 @@ We have a choice of 2 types of tent pitches. The 7x8 pitches are great for campi
 
 NUMBER OF PERSONS | LOW SEASON | HIGH SEASON      
 :-------------:|:-----------:|:-----------:|
-1 person      |€ 19          |€ 22    
-2 persons     |€ 21          |€ 24         
-3 persons     |€ 23          |€ 26
-4 persons     |€ 25          |€ 28   
+1 person      |€ 21          |€ 24    
+2 persons     |€ 23          |€ 26         
+3 persons     |€ 25          |€ 28
+4 persons     |€ 27          |€ 30
 
 ### Tent pitch 10x8m
 
@@ -67,10 +67,6 @@ NUMBER OF PERSONS | LOW SEASON | HIGH SEASON
 * 15/7 - 15/8: upon reservation as from 7 nights
 * high season: Easter holiday - July - August - long weekends
 
-## Discounts low season
-
-- Stay ≥ 7 nights: -7%
-- Stay ≥ 10 nights: -10%
 
 {% include en/hiker-reuse.md %}
 

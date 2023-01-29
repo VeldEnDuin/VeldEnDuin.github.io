@@ -52,14 +52,8 @@ AANTAL PERSONEN | LAAGSEIZOEN | HOOGSEIZOEN
 * 15/7 - 15/8: reservatie vanaf 7 nachten
 * hoogseizoen: paasvakantie - juli - augustus - verlengde weekends
 
-## Kortingen laagseizoen
-
-- verblijf ≥ 7 nachten: -7%
-- verblijf ≥ 10 nachten: -10%
-
 
 {% include nl/trekker-reuse.md %}
-
 
 
 ## Plan camping
