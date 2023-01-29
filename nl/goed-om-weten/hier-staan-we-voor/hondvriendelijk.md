@@ -19,7 +19,7 @@ insert:
 
 ---
 
-Ook je hond is van harte welkom op de camping!<br>
+Honden zijn van harte welkom op de camping!<br>
 Ook in de verhuurchalets en caravans zijn honden welkom, in de (luxe)appartementen zijn ze echter niet toegelaten.<br>
 
 
