@@ -30,6 +30,5 @@ De trekkers kunnen gebruik maken van onze sanitaire voorzieningen:
 * 2 toiletten voor personen met een beperking
 * 3 uitgietbakken voor chemische toiletten
 * 3 afwasbakken
-* servicestation met lozings-en watertappunt
 
 Prijs douchejeton: € 1,50 voor 6 minuten warm water - jetons verkrijgbaar aan de receptie.

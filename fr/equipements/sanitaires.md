@@ -30,6 +30,5 @@ Nos installations sanitaires sont à la disposition des campeurs:
 * 2 toilettes pour personnes à mobilité réduite
 * 3 déversoirs pour toilettes chimiques
 * 3 lavabos
-* station-service avec tuyau d’évacuation et d’arrivée d’eau
 
 Prix du jeton de douche: 1,50 € pour 6 minutes d’eau chaude - jetons vendus à la réception.
