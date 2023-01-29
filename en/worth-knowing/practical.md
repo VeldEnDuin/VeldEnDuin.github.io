@@ -22,7 +22,7 @@ insert:
 
 <B>Reception closed from 19/09 until 28/09</B>
 
-<B>01/09 - 15/11</B>
+<B>15/03 - 15/11</B>
 - monday - friday - saturday
     - 09u00 - 12u00
     - 13u30 - 17u00
@@ -31,7 +31,6 @@ insert:
 
 <B>15/11 - 15/03</B>
 - by appointment (by phone or e-mail)
-- closed on 25/12 and 1/1
 
 
 The campsite is always accessible for owners of a chalet, a caravan or a fixed hiking pitch.

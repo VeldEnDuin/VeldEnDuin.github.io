@@ -23,7 +23,7 @@ preview:
 
 <B>Rezeption geschlossen von 19/09 bis 28/09 </B>
 
-<B>01/09 - 15/11</B>
+<B>15/03 - 15/11</B>
 - Montag - Freitag - Samstag
     - 09:00 - 12:00 Uhr
     - 13:30 - 17:00 Uhr
@@ -32,7 +32,6 @@ preview:
 
 <B>15/11 - 15/03</B>
 - nach Vereinbarung (telefonisch oder pro Mail)
-- geschlossen am 25/12 und 1/1
 
 
 

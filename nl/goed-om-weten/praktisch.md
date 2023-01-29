@@ -22,7 +22,7 @@ preview:
 
 <B>receptie gesloten van 19/09 - 28/09</B>
 
-<B>01/09 - 15/11</B>
+<B>15/03 - 15/11</B>
 - maandag - vrijdag- zaterdag 
     - 09u00 - 12u00
     - 13u30 - 17u00
@@ -31,7 +31,6 @@ preview:
 
 <B>15/11 - 15/03</B>
 - open op afspraak (telefonisch of via mail)
-- gesloten op 25/12 en 1/1
 
 
 De camping is steeds toegankelijk voor de eigenaars van een chalet,
