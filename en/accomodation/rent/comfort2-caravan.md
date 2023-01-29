@@ -53,7 +53,7 @@ Our charming tiny house with private garden is suitable for those who love being
 - caravan for max. 2 people
 - check-in: from 2 pm - check-out: until 10 am
 - a small pet is allowed but keep in mind that the space is limited
-- Open for rentals from 15/3 - 15/3
+- open for rentals from 15/3 - 15/11
 
 ## Included
 - wifi

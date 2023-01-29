@@ -55,7 +55,7 @@ Come and enjoy the sea air for a few days alone or in pairs. After a long walk o
 - studio for 2 people
 - check-in: from 2 pm - check-out: until 10 am
 - pets not allowed in the studio, pets are allowed in the chalets or caravans
-- Open for rentals from 15/3 - 15/3
+- open for rentals from 15/3 - 15/11
 
 
 ## Included

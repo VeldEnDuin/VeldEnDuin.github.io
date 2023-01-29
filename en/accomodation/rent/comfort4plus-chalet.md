@@ -61,7 +61,7 @@ Sit down and relax. Have a glass of wine on the terrace of your chalet after a l
 - chalet for 4 persons
 - check-in: from 2 pm - check-out: until 10 am
 - dogs allowed - max 2 – no dangerous breeds
-- Open for rentals from 15/3 - 15/3
+- open for rentals from 15/3 - 15/11
 
 ## included
 - wifi

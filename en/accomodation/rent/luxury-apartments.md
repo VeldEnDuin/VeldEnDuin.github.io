@@ -63,7 +63,7 @@ Located above the reception these new and luxurious apartments overlook the flor
 - check-in: from 2 pm - check-out: until 10 am
 - pets not allowed in the apartments, pets are allowed in the chalets or caravans
 - staircase - no lift
-- Open for rentals from 15/3 - 15/3
+- open for rentals from 15/3 - 15/11
 
 ## included
 - wifi

@@ -57,7 +57,7 @@ These chalets are situated in front, close to the playground. Well situated for 
 - chalet for 4 persons
 - check-in: from 2 pm - check-out: until 10 am
 - dogs allowed - max 2 – no dangerous breeds
-- Open for rentals from 15/3 - 15/3
+- open for rentals from 15/3 - 15/11
 
 
 ## included

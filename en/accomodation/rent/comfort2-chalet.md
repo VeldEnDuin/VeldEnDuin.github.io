@@ -54,7 +54,7 @@ Need a break, just for the two of you? Make yourself at home in this cosy chalet
 - chalet for 2 people
 - check-in: from 2 pm - check-out: until 10 am
 - 1 dog allowed – no dangerous breeds
-- Open for rentals from 15/3 - 15/3
+- open for rentals from 15/3 - 15/11
 
 ## Included
 - wifi

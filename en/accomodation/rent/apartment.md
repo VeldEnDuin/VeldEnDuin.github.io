@@ -60,7 +60,7 @@ The apartments are situated next to the campsite. This means that you can enjoy 
 - pets not allowed – possible in chalets or caravans
 - lift
 - shared bike storage
-- Open for rentals from 15/3 - 15/3
+- open for rentals from 15/3 - 15/11
 
 ## Included
 - wifi
