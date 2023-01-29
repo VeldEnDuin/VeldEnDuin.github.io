@@ -5,7 +5,7 @@ description: verblijf met afgesloten en zuidgericht terras
 preview:
     title: Studio Comfort 2
     button:
-        price: 118
+        price: 136
         for: 2 nachten
     list:
         - "gezelligheid voor 2"

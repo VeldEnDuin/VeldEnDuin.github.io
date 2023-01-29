@@ -5,7 +5,7 @@ description: petite maison avec tout le confort
 preview:
     title: Caravane Confort 2
     button:
-        price: 118
+        price: 136
         for: 2 nuits
     list:
         - "2 personnes"

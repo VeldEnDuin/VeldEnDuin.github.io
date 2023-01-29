@@ -5,7 +5,7 @@ description: komfortables 4-Personen-Chalet in der Nähe des Spielplatzes
 preview:
     title: Chalet comfort 4
     button:
-        price: 132
+        price: 154
         for: 2 Nächte
     list:
         - "4 Personen"

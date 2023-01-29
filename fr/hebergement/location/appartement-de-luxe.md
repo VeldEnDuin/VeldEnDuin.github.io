@@ -5,7 +5,7 @@ description: détendez-vous dans ces luxueux appartements
 preview:
     title: Appartement de luxe
     button:
-        price: 162
+        price: 188
         for: 2 nuits
     list:
         - "5-6 personnes"

@@ -5,7 +5,7 @@ description: comfortabele 4-persoonschalet in de buurt van het speelplein
 preview:
     title: Chalet comfort 4
     button:
-        price: 132
+        price: 154
         for: 2 nachten
     list:
         - "4 personen"

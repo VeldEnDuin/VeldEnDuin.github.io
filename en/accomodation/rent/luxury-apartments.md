@@ -5,7 +5,7 @@ description: blissfully relax in these luxurious apartments
 preview:
     title: Luxury Apartment
     button:
-        price: 162
+        price: 188
         for: 2 nights
     list:
         - "5-6 persons"

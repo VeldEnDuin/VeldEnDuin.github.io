@@ -5,7 +5,7 @@ description: residence with closed and south-facing terrace
 preview:
     title: Studio Comfort 2
     button:
-        price: 118
+        price: 136
         for: 2 nights
     list:
         - "cosiness for 2"

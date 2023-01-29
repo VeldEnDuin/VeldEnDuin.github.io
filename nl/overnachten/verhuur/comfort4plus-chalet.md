@@ -5,7 +5,7 @@ description: mooie 4-persoonschalet met overdekt terras
 preview:
     title: Chalet comfort 4+
     button:
-        price: 144
+        price: 168
         for: 2 nachten
     list:
         - "4 personen"

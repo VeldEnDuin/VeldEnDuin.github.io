@@ -5,7 +5,7 @@ description: beau chalet 4 personnes avec terrasse couverte
 preview:
     title: Chalet confort 4+
     button:
-        price: 144
+        price: 168
         for: 2 nuits
     list:
         - "4 personnes"

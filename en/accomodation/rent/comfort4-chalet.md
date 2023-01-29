@@ -5,7 +5,7 @@ description: comfortable 4-person chalet near the playground
 preview:
     title: Chalet comfort 4
     button:
-        price: 132
+        price: 154
         for: 2 nights
     list:
         - "4 persons"

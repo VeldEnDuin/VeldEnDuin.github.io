@@ -6,7 +6,7 @@ description: zalig ontspannen in deze luxueuze appartementen
 preview:
     title: Luxe Appartement
     button:
-        price: 162
+        price: 188
         for: 2 nachten
     list:
         - "5-6 personen"

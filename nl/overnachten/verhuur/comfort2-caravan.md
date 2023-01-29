@@ -5,7 +5,7 @@ description: tiny house met alle comfort
 preview:
     title: Caravan Comfort 2
     button:
-        price: 118
+        price: 136
         for: 2 nachten
     list:
         - "2 personen"

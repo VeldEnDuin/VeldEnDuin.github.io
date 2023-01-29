@@ -5,7 +5,7 @@ description: komfortable Wohnung direkt neben dem Campingplatz
 preview:
     title: Appartement Comfort 4+
     button:
-        price: 144
+        price: 168
         for: 2 Nächte
     list:
         - "4-5 Personen"

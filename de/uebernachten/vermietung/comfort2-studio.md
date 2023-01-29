@@ -5,7 +5,7 @@ description: Residenz mit geschlossener und nach Süden ausgerichteter Terrasse
 preview:
     title: Studio Comfort 2
     button:
-        price: 118
+        price: 136
         for: 2 Nächte
     list:
         - "Gemütlichkeit für 2"

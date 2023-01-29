@@ -5,7 +5,7 @@ description: comfortable apartment just next to the campsite
 preview:
     title: Apartment Comfort 4+
     button:
-        price: 144
+        price: 168
         for: 2 nights
     list:
         - "4-5 persons"

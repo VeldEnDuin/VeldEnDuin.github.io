@@ -5,7 +5,7 @@ description: chalet bien équipé pour 1 à 2 personnes
 preview:
     title: Chalet Confort 2
     button:
-        price: 118
+        price: 136
         for: 2 nuits
     list:
         - "séjour agréable à 2"

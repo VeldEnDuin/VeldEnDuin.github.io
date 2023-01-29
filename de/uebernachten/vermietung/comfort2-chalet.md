@@ -5,7 +5,7 @@ description: gut ausgestattetes chalet für 1 bis 2 personen
 preview:
     title: Chalet Comfort 2
     button:
-        price: 118
+        price: 136
         for: 2 Nächte
     list:
         - "Gemütlichkeit für 2"

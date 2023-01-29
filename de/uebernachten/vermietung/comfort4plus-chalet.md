@@ -5,7 +5,7 @@ description: schönes 4-Personen-Chalet mit überdachter Terrasse
 preview:
     title: Chalet comfort 4+
     button:
-        price: 144
+        price: 168
         for: 2 Nächte
     list:
         - "4 Personen"

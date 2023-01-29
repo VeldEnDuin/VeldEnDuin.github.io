@@ -5,7 +5,7 @@ description: well-equipped chalet for 1 to 2 people
 preview:
     title: Chalet Comfort 2
     button:
-        price: 118
+        price: 136
         for: 2 nights
     list:
         - "cosiness for 2"

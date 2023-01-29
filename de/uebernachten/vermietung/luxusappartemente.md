@@ -5,7 +5,7 @@ description: Entspannen Sie sich in diesen luxuriösen Apartments
 preview:
     title: Luxusappartement
     button:
-        price: 162
+        price: 188
         for: 2 Nächte
     list:
         - "5-6 Personen"

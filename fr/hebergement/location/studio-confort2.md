@@ -5,7 +5,7 @@ description: résidence avec terrasse fermée et exposée sud
 preview:
     title: Studio Confort 2
     button:
-        price: 118
+        price: 136
         for: 2 nuits
     list:
         - "séjour agréable à 2"
