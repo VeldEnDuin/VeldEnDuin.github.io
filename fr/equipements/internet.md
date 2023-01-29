@@ -25,7 +25,7 @@ remove:
 
 Postez vos plus belles photos de vacances sur les réseaux sociaux et restez en contact permanent avec votre famille et vos amis.
 
-## Internet dans nos accommodations de location et emplcaments campig
+## Internet dans nos accommodations de location et emplcaments camping
 
 Si vous louez un chalet, appartement ou emplacement de camping chez nous, l'internet est inclus dans le prix pour la durée de votre séjour.
 
