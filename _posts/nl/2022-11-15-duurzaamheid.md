@@ -16,5 +16,5 @@ images:
 
 ### sterke focus op ecologie
 
-Een 180-tal zonnepannelen op het sanitairgebouw staan garant voor groene energie voor de camping. Deze winter installeren we ook 2 laadpalen voor elektrische wagens.  
+Een 180-tal zonnepannelen op het sanitairgebouw staan garant voor groene energie op de camping. Deze winter installeren we ook 2 laadpalen voor elektrische wagens.  
 
