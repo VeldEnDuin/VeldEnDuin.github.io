@@ -49,8 +49,8 @@ nl:
         luxe_appartementen_6p:    Luxe Appartement 6p
         studio:                   Studio
         comfort4plus_appartement: Appartement Comfort 4+
-        mobilhome10x8:            Trekkersplaats Mobilhome 10x8
-        trekker10x8:              Trekkersplaats 10x8
+        mobilhome10x8:            Verharde plaats
+        trekker10x8:              Grasplaats
         tent10x8:                 Tentplaats 10x8
         tent7x8:                  Tentplaats 7x8
 
@@ -100,8 +100,8 @@ fr:
         luxe_appartementen_6p:    Appartement de luxe 6p
         studio:                   Studio
         comfort4plus_appartement: Appartement Comfort 4+
-        mobilhome10x8:            Emplacement pour mobilhome 10x8
-        trekker10x8:              Emplacement campeur 10x8
+        mobilhome10x8:            Emplacement endurci
+        trekker10x8:              Emplacement gazon
         tent10x8:                 Emplacement tente 10x8
         tent7x8:                  Emplacement tente 7x8
 
@@ -152,8 +152,8 @@ de:
         luxe_appartementen_6p:    Luxusapartment 6p
         studio:                   Studio
         comfort4plus_appartement: Apartment Comfort 4+
-        mobilhome10x8:            Wohnmobilplatz 10x8
-        trekker10x8:              Campingplatz 10x8
+        mobilhome10x8:            Platz verhardet
+        trekker10x8:              Grasplatz
         tent10x8:                 Zeltplatz 10x8
         tent7x8:                  Zeltplatz 7x8
 
@@ -204,7 +204,7 @@ en:
         luxe_appartementen_6p:    Luxury Apartment 6p
         studio:                   Studio
         comfort4plus_appartement: Apartment Comfort 4+
-        mobilhome10x8:            Camper Pitch 10x8
-        trekker10x8:              Camping Pitch 10x8
+        mobilhome10x8:            Paved pitch
+        trekker10x8:              Camping pitch 
         tent10x8:                 Tent Pitch 10x8
         tent7x8:                  Tent Pitch 7x8
