@@ -52,7 +52,7 @@ Do you secretly dream about a place to settle along the coast? Make this dream c
 TYPE 2                |PRICE           |
 :--------------------:|:--------------:|
 stand price per year  | € 2460         
-municipal taxes       | € 439,11
+municipal taxes       | € 471,70
 contribution for household refuge<br>incl. 25 bags<br> | € 100  
 [fire insurance][pdf_brandverzekering.en]      |depending on <br>worth of the caravan / chalet
 

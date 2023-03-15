@@ -52,7 +52,7 @@ Een vaste stek aan de kust om steeds opnieuw naar terug te keren, wie droomt daa
 TYPE 2                |PRIJS           |
 :--------------------:|:--------------:|
 standplaatsvergoeding |€ 2460
-gemeentetaks          |€ 439,11
+gemeentetaks          |€ 471,70
 huisvuilbijdrage<br>incl 25 zakken<br> | € 100    
 [brandverzekering][pdf_brandverzekering.nl]      |afhankelijk van <br>waarde caravan / chalet
 

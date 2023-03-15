@@ -52,7 +52,7 @@ Ein festes Zuhause an der Küste, in das man immer wieder zurückkehrt, wer trä
 TYP 2                                          |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
 Stellplatzkosten                               | € 2460
-Gemeindesteuer                                 | € 439,11
+Gemeindesteuer                                 | € 471,70
 Hausmüllgebühr<br>inkl 25 Müllsäcke<br>        | € 100  
  [Brandversicherung][pdf_brandverzekering.de]  | abhängig vom <br>Wert des Wohnwagens / Chalets
 

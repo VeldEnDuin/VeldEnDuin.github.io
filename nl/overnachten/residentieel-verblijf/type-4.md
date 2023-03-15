@@ -47,7 +47,7 @@ Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Ga 
 TYPE 4                |PRIJS           |
 :--------------------:|:--------------:|
 standplaatsvergoeding | € 3300             
-gemeentetaks          | € 439,11
+gemeentetaks          | € 471,70
 huisvuilbijdrage<br>incl 25 zakken<br> | € 100   
 [brandverzekering][pdf_brandverzekering.nl]     |afhankelijk van <br>waarde caravan
 

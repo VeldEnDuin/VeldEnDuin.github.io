@@ -40,7 +40,7 @@ These pitches are smaller but give you an instant holiday feeling, regardless of
 TYPE 1                                         |PRICE                               |
 :---------------------------------------------:|:----------------------------------:|
 stand price per year                           | € 2210
-municipal taxes                                | € 439,11
+municipal taxes                                | € 471,70
 contribution for household refuse<br>incl. 25 bags<br>         | € 100  
  [fire insurance][pdf_brandverzekering.en]   | depending on <br>the worth of the caravan
 

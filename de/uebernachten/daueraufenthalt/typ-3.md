@@ -45,7 +45,7 @@ Auf unseren Parzellen vom Typ 3 kann ein Wohnwagen bis zu 12 Metern aufgestellt 
 TYP 3                                          |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
 Stellplatzkosten                               | € 2835
-Gemeindesteuer                                 | € 439,11
+Gemeindesteuer                                 | € 471,70
 Hausmüllgebühr<br>inkl 25 Müllsäcke<br>        | € 100
  [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens
 
