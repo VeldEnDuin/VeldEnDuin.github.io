@@ -7,7 +7,7 @@ preview:
     title: own place by the sea
     text:
         - A residence caravan offers the opportunity to enjoy the coast in all seasons.
-        - We currently have 2 free plots for new caravans.
+        - We currently have 1 free plot for a new caravan.
 
 
 images:
@@ -26,7 +26,7 @@ insert:
 
 Following beautiful and spacious plots are currently still available, so come and have a look:
 
-- plot A61 and A62
+- plot A61 
 - [plot type 2][type_2.en]
 - caravan up to maximum 9m
 - for new caravans we work together with [Decopa](https://www.decopa.be/) and [Caravancentrum Roels](https://www.caravancentrumroels.be/

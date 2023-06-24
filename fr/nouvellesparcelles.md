@@ -7,7 +7,7 @@ preview:
     title: propre place par la mer
     text:
         - Une propre caravane offre la possibilité de profiter de la côte en toutes saisons.
-        - Nous avons actuellement 2 parcelles libres pour de nouvelles caravanes.
+        - Nous avons actuellement une parcelle libre pour une nouvelle caravane.
 
 
 
@@ -26,7 +26,7 @@ insert:
 
 Les belles et spacieuses parcelles suivantes sont actuellement encore disponibles, vous êtes la bienvenue pour venir visiter:
 
-- parcelle A61 et A62
+- parcelle A61
 - [Type parcelle 2][type_2.fr]
 - caravane jusqu'à max 9m
 - pour les nouvelles caravanes, nous travaillons avec [Decopa](https://fr.decopa.be/) et [Caravancentrum Roels](https://www.caravancentrumroels.be/?lang=fr)

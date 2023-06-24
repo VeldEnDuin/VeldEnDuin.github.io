@@ -7,7 +7,7 @@ preview:
     title: eigener Platz am Meer
     text:
         - Ein fester Wohnsitz bietet die Möglichkeit, die Küste zu allen Jahreszeiten zu genießen.
-        - Wir haben derzeit 2 freie Stellplätze für neue Wohnwagen.
+        - Wir haben derzeit 1 freie Stellplatz für ein neue Wohnwagen.
 
 
 
@@ -27,7 +27,7 @@ insert:
 
 Folgende schöne Grundstücke sind derzeit noch verfügbar, Sie können gerne vorbeikommen zu schauen:
 
-- Grundstück A61 und A62
+- Grundstück A61 
 - [Parzellentyp 2][type_2.de]
 - Wohnwagen bis maximal 9m
 - Für neue Caravans arbeiten wir mit [Decopa](https://www.decopa.be/) und [Caravancentrum Roels](https://www.caravancentrumroels.be/
