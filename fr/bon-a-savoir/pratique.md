@@ -29,6 +29,11 @@ preview:
 - mardi - mercredi - jeudi - dimanche
     - 09h00 - 12h00
 
+<B>01/07 - 31/08</B>
+- tous les jours
+    - 09u00 - 12u00
+    - 13u30 - 17u00
+
 <B>15/11 - 15/03</B>
 - sur rendez-vous (par téléphone ou par mail)
 

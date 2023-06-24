@@ -30,6 +30,11 @@ preview:
 - Dienstag - Mittwoch - Donnerstag - Sonntag
     - 09:00 - 12:00 Uhr
 
+<B>01/07 - 31/08</B>
+- täglich
+    - 09u00 - 12u00
+    - 13u30 - 17u00
+
 <B>15/11 - 15/03</B>
 - nach Vereinbarung (telefonisch oder pro Mail)
 

@@ -29,6 +29,11 @@ preview:
 - dinsdag - woensdag - donderdag - zondag
     - 09u00 - 12u00
 
+<B>01/07 - 31/08</B>
+- elke dag
+    - 09u00 - 12u00
+    - 13u30 - 17u00
+
 <B>15/11 - 15/03</B>
 - open op afspraak (telefonisch of via mail)
 
