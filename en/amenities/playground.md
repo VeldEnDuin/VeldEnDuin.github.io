@@ -17,6 +17,8 @@ images:
     - /img/voorzieningen/speelplein/speel-10.jpg
     - /img/voorzieningen/speelplein/speel-11.jpg
     - /img/voorzieningen/speelplein/speel-12.jpg
+    - /img/voorzieningen/speelplein/speel-13.jpg
+    - /img/voorzieningen/speelplein/speel-14.jpg
 
 insert:
     - page-images-top

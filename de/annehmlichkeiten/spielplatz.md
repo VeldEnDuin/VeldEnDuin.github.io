@@ -17,6 +17,8 @@ images:
     - /img/voorzieningen/speelplein/speel-10.jpg
     - /img/voorzieningen/speelplein/speel-11.jpg
     - /img/voorzieningen/speelplein/speel-12.jpg
+    - /img/voorzieningen/speelplein/speel-13.jpg
+    - /img/voorzieningen/speelplein/speel-14.jpg
 
 insert:
     - page-images-top
@@ -28,11 +30,12 @@ remove:
 ---
 {% include links.md %}
 
-Der Spielplatz ist der ideale Ort, um Altersgenossen zu treffen und viele Stunden einen Riesenspaß zu haben.
+Erleben Sie stundenlangen Spielspaß auf dem Spielplatz mit Ihren Freunden.
 
-Das Air Trampolin (14 bis 22 Uhr) ist bei allen Altersgruppen beliebt: die Allerkleinsten lachen bei jedem Sprung mit ihren Eltern und die Jugendlichen bringen sich gegenseitig neue Tricks bei.
+Energiegeladene und akrobatische Kinder können sich auf dem Lufttrampolin austoben und sich gegenseitig die neuesten Tricks beibringen.
 
-Außerdem warten die Springblumen, das Klettergerüst mit Rutschbahn, die "Himmel und Hölle"-Hüpfbahn und die Rasenfläche darauf, entdeckt zu werden.
-Die (Groß-)Eltern können ihre Sprösslinge von einer Bank aus im Auge behalten.
+Wasser und Sand ist die Traumkombination für die Kleinen, um auf dem Wasserspielplatz ihrer Kreativität freien Lauf zu lassen.
+
+Und haben Sie schon die Beeren in unserem Schnauzengarten entdeckt? Ideal, wenn Sie beim Spielen Lust auf einen gesunden Snack haben.
 
 Ballspiele sind im gegenüberliegenden Paelsteenveld-Park oder am Strand möglich. Auf dem Campingplatz sind Ballspiele nicht zugelassen. 

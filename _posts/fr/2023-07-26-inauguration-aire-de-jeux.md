@@ -11,13 +11,6 @@ images:
     - /img/nieuws/20230726-opening4.jpg
     - /img/nieuws/20230726-opening5.jpg
     - /img/nieuws/20230726-opening6.jpg
-    - /img/nieuws/20230726-water1.jpg
-    - /img/nieuws/20230726-water2.jpg
-    - /img/nieuws/20230726-water3.jpg
-    - /img/nieuws/20230726-water4.jpg
-    - /img/nieuws/20230726-water5.jpg
-    - /img/nieuws/20230726-water6.jpg
-    - /img/nieuws/20230726-water7.jpg
 ---
 
 {% include links.md %}

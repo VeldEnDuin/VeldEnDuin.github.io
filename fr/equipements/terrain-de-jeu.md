@@ -17,6 +17,8 @@ images:
     - /img/voorzieningen/speelplein/speel-10.jpg
     - /img/voorzieningen/speelplein/speel-11.jpg
     - /img/voorzieningen/speelplein/speel-12.jpg
+    - /img/voorzieningen/speelplein/speel-13.jpg
+    - /img/voorzieningen/speelplein/speel-14.jpg
 
 insert:
     - page-images-top
@@ -28,11 +30,12 @@ remove:
 ---
 {% include links.md %}
 
-Le terrain de jeu est l’endroit idéal pour s’amuser pendant des heures.
+Passez des heures à vous amuser sur l'aire de jeux avec vos amis.
 
-Le trampoline d’air (14h - 22h) est très populaire tant auprès des petits que des grands: les plus jeunes rient aux éclats à chaque saut avec leurs parents et les ados s’apprennent de nouvelles figures.
+Les enfants énergiques et acrobatiques peuvent se défouler sur le trampoline en s'apprenant les derniers tours.
 
-Ne manquez pas non plus les jeux sur ressort, la cage à poules et son toboggan, la marelle et la zone verte.
-Les (grands-)parents pourront surveiller les enfants tranquillement installés sur un banc.
+L'eau et le sable sont la combinaison parfaite pour que les petits célèbrent leur créativité sur l’aire de jeux aquatique.
+
+Et avez-vous déjà découvert les baies de notre jardin à grignoter ? C'est l'idéal si vous avez envie d'un en-cas sain tout en jouant.
 
 Les amateurs de jeux de ballon pourront se rendre au parc Paelsteenveld situé en face du camping et à la plage. Les jeux de ballon ne sont pas autorisés sur le terrain de camping. 
