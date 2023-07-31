@@ -18,20 +18,13 @@ icon: info-sign
 
 ## Prices extra services
 
-MISCELLANEOUS         |PRICE          
-:--------------------:|:--------------:
-winterservice         |€ 50                    
+MISCELLANEOUS                       |PRICE          
+:----------------------------------:|:---------------
+winterservice                       |€ 55
 barier entrance card (one-time cost)|€ 100          
-parking place 2nd car      |€ 4 / started day  
-second parking place           |€ 125 / year       
+parking place 2nd car               |€ 4 / started day  
+second parking place                |€ 125 / year       
+rental cost ⑴                      |€ 11 / night / lodging <br> € 22 / reservation
 
 
-DAILY TAX ⑴              |PRICE PER NIGHT|
-:------------------:|:-------------:|
-1 person           | € 3        
-2 persons          | € 6  
-family (up to 5 pers.)  | € 11     
-extra person     | € 3
-
-
-⑴ **Daily Tax:**<br> (Grand)children and (grand)parents can stay overnight without any charges. We kindly request other visitors and tenants who would like to stay overnight to come to the reception and to pay a daily fee.
+⑴ **rental cost:**<br> (Grand)children and (grand)parents can stay overnight without any charges. Other persons or tenants staying overnight must be registered and pay the rental fee.

@@ -18,20 +18,13 @@ icon: info-sign
 
 ## Prijzen extra's
 
-ALLERLEI              |PRIJS           
-:--------------------:|:--------------:
-winterservice         |€ 50                   
+ALLERLEI                |PRIJS           
+:----------------------:|:--------------
+winterservice           |€ 55
 slagboomkaart (eenmalig)|€ 100          
 parking extra auto      |€ 4 / begonnen dag  
-2de parking           |€ 125 / jaar       
+2de parking             |€ 125 / jaar       
+verhuurkost ⑴          |€ 11 / nacht / accommodatie <br> € 22 / reservatie
 
 
-DAGTAKS ⑴          |PRIJS PER NACHT|
-:------------------:|:-------------:|
-1 persoon           | € 3       
-2 personen          | € 6  
-gezin (tot 5 pers)  | € 11     
-extra persoon       | € 3
-
-
-⑴ **Dagtaks:**<br> De (klein)kinderen en (groot)ouders van de eigenaar kunnen gratis blijven slapen. Andere personen of huurders die blijven overnachten moeten zich komen aanmelden aan de receptie en dagtaks betalen.
+⑴ **Verhuurkost:**<br> De (klein)kinderen en (groot)ouders van de eigenaar kunnen gratis blijven slapen. Andere personen of huurders die blijven overnachten moeten aangemeld worden en de verhuurkost betalen.

@@ -18,20 +18,13 @@ icon: info-sign
 
 ## Preise Extras
 
-DIVERSE               |PREIS           
-:--------------------:|:--------------:
-Winterservice         |€ 50                   
+DIVERSE                       |PREIS           
+:----------------------------:|:---------------
+Winterservice                 |€ 55
 Karte für Schranke (einmalig) |€ 100          
-Parkplatz 2. Auto      |€ 4 / angefangenem Tag  
-2. Parkplatz           |€ 125 / Jahr       
+Parkplatz 2. Auto             |€ 4 / angefangenem Tag  
+2. Parkplatz                  |€ 125 / Jahr       
+Mietkosten ⑴                 |€ 11 / Nacht / Unterkunft <br> € 22 / Reservierung
 
 
-KURTAXE ⑴          |PREIS PRO NACHT|
-:------------------:|:-------------:|
-1 Person          | € 3        
-2 Personen          | € 6  
-Familie (bis 5 pers)  | € 11    
-Extra Person       | € 3
-
-
-⑴ **Kurtaxe:**<br> (Enkel-)Kinder und (Groß-)Eltern des Eigentümers dürfen gratis übernachten.. Andere Personen oder Mieter, die über Nacht bleiben, müssen sich an der Rezeption anmelden und den Tagestarif bezahlen.
+⑴ **Mietkosten:**<br> (Enkel-)Kinder und (Groß-)Eltern des Eigentümers dürfen gratis übernachten. Andere Personen oder Mieter, die über Nacht bleiben, müssen registriert werden und den Mietkost bezahlen.

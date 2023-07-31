@@ -18,20 +18,13 @@ icon: info-sign
 
 ## Prix des suppléments
 
-DIVERS                |PRIX         
-:--------------------:|:--------------:
-service d'hiver         |€ 50                   
+DIVERS                  |PRIX         
+:----------------------:|:---------------
+service d'hiver         |€ 55
 carte barrière          |€ 100 (unique)           
 parking 2ème voiture    |€ 4 / jour entamé  
 2ème parking            |€ 125 / jaar       
+Coût de loyer ⑴        |€ 11 / nuit / logement <br> € 22 / réservation
 
 
-TAXE JOURNALIÈRE ⑴          |PRIX PAR NUIT|
-:------------------:|:-------------:|
-1 personne               | € 3       
-2 personnes              | € 6  
-famille (jusque 5 pers)  | € 11    
-personne supplémentaire  | € 3
-
-
-⑴ **Taxe journalière :**<br> Les (petits-)enfants et les (grands-)parents du propriétaire peuvent loger gratuitement. Les autres personnes ou locataires qui restent la nuit doivent s’enregistrer à la réception et s’acquitter d’une taxe journalière.  
+⑴ **Coût de loyer**<br> Les (petits-)enfants et les (grands-)parents du propriétaire peuvent loger gratuitement. Les autres personnes ou locataires qui passent la nuit sur place doivent être régistrés et payer le coût de loyer.
