@@ -24,12 +24,11 @@ insert:
 ---
 {% include links.md %}
 
-## Animatie Veld & Duin juli 2023
+## Animatie Veld & Duin augustus 2023
 
-| 8/7  | **BBQ + dansfeest**<br>17u30: barbecue<br>20u-24u: muziek-en dansfeest<br>organisatie: _Vrienden van Veld & Duin_   |
-| 14/7 | **Singalong**<br>zing samen met ons uw favoriete nummers - alle talen<br>19u-22u: open bar<br>20u-21u: samen zingen |
-| 20/7 | **Creadag**<br>10u-12u: knutselen voor kinderen<br>14u-16u: crea-bar voor volwassenen                               |
-| 26/7 | **Inhuldiging vernieuwd speelplein**<br>09u-11u: ontbijtreceptie voor alle kinderen                                 |
+| 5/8  | **Donuts Pimpen**<br>10u: workshop 1<br>11u: workshop 2  |
+| 10/8 | **Spelletjesmiddag**<br>14u-18u <br>volkspelen<br>racecar bouwen + uittesten op de schans |
+| 16/8 | **Creadag**<br>10u-12u: knutselen voor kinderen | 
 
 <!-- behouden voor volgende jaren:
 We zijn nog volop aan het plannen om ook in de zomer van 2023 leuke animatie aan te bieden.

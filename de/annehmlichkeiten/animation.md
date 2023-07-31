@@ -29,10 +29,10 @@ remove:
 
 ## Animation Veld & Duin Sommer 2023
 
-| 8/7  | **BBQ + Tanzabend**<br>17Uhr30: BBQ<br>20-24Uhr: Tanzabend<br>Organisation: _Freunde von Veld & Duin_                       |
-| 14/7 | **Singalong**<br>singen Sie mit uns Ihre Lieblingsmusik - alle Sprachen<br>19-22Uhr: open bar<br>20-21Uhr: gemeinsam singen |
-| 20/7 | **Crea-Tag**<br>10-12Uhr: Basteln für Kinder<br>14u-16u: Crea-Bar für Erwachsene                                            |
-| 26/7 | **Einweihung renovierten Spielplatzes**<br>09-11Uhr: Empfang mit Frühstück                                                  |
+| 5/8  | **Donutverzieren**<br>10u: workshop 1<br>11u: workshop 2  |
+| 10/8 | **Spiele-Nachmittag**<br>14u-18u <br>spiele<br> Bau eines Rennwagens und Test auf einer Rampe |
+| 16/8 | **Crea-Tag**<br>10-12Uhr: Basteln für Kinder|
+
 
 <!-- behouden voor komende jaren
 Wir bereiten uns weiterhin darauf vor, auch im Sommer 2023 lustige Veranstaltungen anzubieten.
