@@ -29,7 +29,7 @@ insert:
 
 ## Fiche info
 
-CARAVANE C 49               | INFO        |
+CARAVANE A 02               | INFO        |
 :---------------------------|:------------|
 Marque                      |Ideal Caravan
 Type                        |Castelane

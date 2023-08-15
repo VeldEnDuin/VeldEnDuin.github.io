@@ -28,7 +28,7 @@ insert:
 
 ## Fiche info
 
-CARAVANE C 49               | INFO        |
+CARAVANE C 10               | INFO        |
 :---------------------------|:------------|
 Marque                      |Tudor
 Type                        |Harlequin
