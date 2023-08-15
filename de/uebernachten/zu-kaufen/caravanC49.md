@@ -4,16 +4,20 @@ title: Caravan C 49
 preview:
     title: Caravan C 49
     list:
-        - "Preis: € 6.500"
+        - "Preis: € 7.000" 
+        - "type 1"
         - "darf nicht mehr verkauft werden"
+        - "Verfügbar: ab sofort"
 
 images:
     - /img/overnachten/te-koop/C49/C49-buiten.jpg
-    - /img/overnachten/te-koop/C49/C49-living.jpg
-    - /img/overnachten/te-koop/C49/C49-keuken.jpg
+    - /img/overnachten/te-koop/C49/C49-living-00.jpg
+    - /img/overnachten/te-koop/C49/C49-living-01.jpg
+    - /img/overnachten/te-koop/C49/C49-keuken-01.jpg
+    - /img/overnachten/te-koop/C49/C49-keuken-00.jpg
     - /img/overnachten/te-koop/C49/C49-badkamer.jpg
-    - /img/overnachten/te-koop/C49/C49-SK1.jpg
-    - /img/overnachten/te-koop/C49/C49-SK2.jpg
+    - /img/overnachten/te-koop/C49/C49-sk-01.jpg
+    - /img/overnachten/te-koop/C49/C49-sk-02.jpg
 
 insert:
     - page-images-top
@@ -40,4 +44,4 @@ Verteilung von Betten       |1 Einzelbett + 1 Etagenbett
 Fenster                     |Doppelverglasung
 Heizung                     |Gas
 Hausrat                     |inbegriffen
-Standgebühr 2022            |nicht inbegriffen
+Standgebühr 2023            |inbegriffen

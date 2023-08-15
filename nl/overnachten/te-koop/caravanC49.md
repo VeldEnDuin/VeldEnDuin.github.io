@@ -4,16 +4,20 @@ title: Caravan C 49
 preview:
     title: Caravan C49
     list:
-        - "prijs: € 6500"
+        - "prijs: € 7.000"
+        - "type 1"
         - "mag niet verder verkocht worden"
+        - "beschikbaar: direct"
 
 images:
     - /img/overnachten/te-koop/C49/C49-buiten.jpg
-    - /img/overnachten/te-koop/C49/C49-living.jpg
-    - /img/overnachten/te-koop/C49/C49-keuken.jpg
+    - /img/overnachten/te-koop/C49/C49-living-00.jpg
+    - /img/overnachten/te-koop/C49/C49-living-01.jpg
+    - /img/overnachten/te-koop/C49/C49-keuken-01.jpg
+    - /img/overnachten/te-koop/C49/C49-keuken-00.jpg
     - /img/overnachten/te-koop/C49/C49-badkamer.jpg
-    - /img/overnachten/te-koop/C49/C49-SK1.jpg
-    - /img/overnachten/te-koop/C49/C49-SK2.jpg
+    - /img/overnachten/te-koop/C49/C49-sk-01.jpg
+    - /img/overnachten/te-koop/C49/C49-sk-02.jpg
 
 insert:
     - page-images-top
@@ -40,4 +44,4 @@ Verdeling bedden            |1x dubbelbed - 1x stapelbed
 Ramen                       |dubbel glas
 Soort verwarming            |gas
 Inboedel caravan            |inbegrepen
-Standplaatsvergoeding 2022  |niet inbegrepen
+Standplaatsvergoeding 2023  |inbegrepen

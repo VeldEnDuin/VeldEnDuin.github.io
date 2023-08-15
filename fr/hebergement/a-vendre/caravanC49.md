@@ -4,16 +4,20 @@ title: Caravane C 49
 preview:
     title: Caravane C 49
     list:
-        - "prix: € 6.500"
+        - "prix: € 7.000"
+        - "type 1"
         - "caravane peut plus être vendu"
+        - "disponible: tout de suite"
 
 images:
     - /img/overnachten/te-koop/C49/C49-buiten.jpg
-    - /img/overnachten/te-koop/C49/C49-living.jpg
-    - /img/overnachten/te-koop/C49/C49-keuken.jpg
+    - /img/overnachten/te-koop/C49/C49-living-00.jpg
+    - /img/overnachten/te-koop/C49/C49-living-01.jpg
+    - /img/overnachten/te-koop/C49/C49-keuken-01.jpg
+    - /img/overnachten/te-koop/C49/C49-keuken-00.jpg
     - /img/overnachten/te-koop/C49/C49-badkamer.jpg
-    - /img/overnachten/te-koop/C49/C49-SK1.jpg
-    - /img/overnachten/te-koop/C49/C49-SK2.jpg
+    - /img/overnachten/te-koop/C49/C49-sk-01.jpg
+    - /img/overnachten/te-koop/C49/C49-sk-02.jpg
 
 insert:
     - page-images-top
@@ -40,4 +44,4 @@ Distribution des lits       |1 lit double + lits superposés
 Fenêtres                    |double vitrage
 Chauffage                   |gaz
 Mobilier de caravane        |inclus
-Indemnité de résidence 2022 |non incluse
+Indemnité de résidence 2023 |inclus
