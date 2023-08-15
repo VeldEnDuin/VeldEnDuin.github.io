@@ -26,4 +26,4 @@ if [[ "$1" == "slow" ]]; then
 fi
 
 echo "flags == ${flags}"
-(cd $DIR/.. && bundle exec jekyll serve --port 4444 ${flags})
+(cd $DIR/.. && bundle exec jekyll serve --port 4444 --livereload --livereload-port 40044 ${flags})
