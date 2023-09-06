@@ -295,6 +295,14 @@ te_koop:
     fr: /fr/hebergement/a-vendre.html
     de: /de/uebernachten/zu-kaufen.html
     en: /en/accomodation/for-sale.html
+d_38:
+    nl: /nl/overnachten/te-koop/caravanD38.html
+    fr: /fr/hebergement/a-vendre/caravanD38.html
+    de: /de/uebernachten/zu-kaufen/caravanD38.html
+c_44:
+    nl: /nl/overnachten/te-koop/caravanC44.html
+    fr: /fr/hebergement/a-vendre/caravanC44.html
+    de: /de/uebernachten/zu-kaufen/caravanC44.html
 e_06:
     nl: /nl/overnachten/te-koop/caravanE06.html
     fr: /fr/hebergement/a-vendre/caravanE06.html

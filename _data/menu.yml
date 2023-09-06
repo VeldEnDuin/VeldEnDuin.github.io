@@ -54,6 +54,8 @@
     - linkcode: te_koop
       submenu:
         - linkcode: te_koop
+        - linkcode: c_44
+        - linkcode: d_38
         - linkcode: e_06
 
 
