@@ -295,18 +295,26 @@ te_koop:
     fr: /fr/hebergement/a-vendre.html
     de: /de/uebernachten/zu-kaufen.html
     en: /en/accomodation/for-sale.html
+a_08:
+    nl: /nl/overnachten/te-koop/caravanA08.html
+    fr: /fr/hebergement/a-vendre/caravanA08.html
+    de: /de/uebernachten/zu-kaufen/caravanA08.html
+b_67:
+    nl: /nl/overnachten/te-koop/chaletB67.html
+    fr: /fr/hebergement/a-vendre/chaletB67.html
+    de: /de/uebernachten/zu-kaufen/chaletB67.html
 d_38:
     nl: /nl/overnachten/te-koop/caravanD38.html
     fr: /fr/hebergement/a-vendre/caravanD38.html
     de: /de/uebernachten/zu-kaufen/caravanD38.html
-c_44:
-    nl: /nl/overnachten/te-koop/caravanC44.html
-    fr: /fr/hebergement/a-vendre/caravanC44.html
-    de: /de/uebernachten/zu-kaufen/caravanC44.html
-e_06:
-    nl: /nl/overnachten/te-koop/caravanE06.html
-    fr: /fr/hebergement/a-vendre/caravanE06.html
-    de: /de/uebernachten/zu-kaufen/caravanE06.html
+#c_44:
+#    nl: /nl/overnachten/te-koop/caravanC44.html
+#    fr: /fr/hebergement/a-vendre/caravanC44.html
+#    de: /de/uebernachten/zu-kaufen/caravanC44.html
+#e_06:
+#    nl: /nl/overnachten/te-koop/caravanE06.html
+#    fr: /fr/hebergement/a-vendre/caravanE06.html
+#    de: /de/uebernachten/zu-kaufen/caravanE06.html
 #a_02:
 #    nl: /nl/overnachten/te-koop/caravanA02.html
 #    fr: /fr/hebergement/a-vendre/caravanA02.html
