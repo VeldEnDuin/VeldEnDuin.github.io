@@ -6,7 +6,7 @@ preview:
     list:
         - "prijs: € 58.000"
         - "type 3"
-        - beschikbaar: direct
+        - "beschikbaar: direct"
 
 images:
     - /img/overnachten/te-koop/G05/01-G5-buiten.jpg
