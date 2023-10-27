@@ -4,7 +4,7 @@ title: Caravan D 38
 preview:
     title: Caravan D 38
     list:
-        - "Preis: € 89.000"
+        - "Preis: € 85.000"
         - "type 2"
         - "Verfügbar: ab sofort"
 
@@ -35,8 +35,8 @@ Abmessungen Caravan         |11 x 4m
 Caravan unten fertiggestellt|ja
 Schubladen unter caravan    |ja
 Terrasse                    |ja
-Anzahl Schlafzimmer         |1 + Abstellraum mit Waschmaschine, Trockner, Gefrierschrank
-Verteilung von Betten       |1x Doppelbett
+Anzahl Schlafzimmer         |2
+Verteilung von Betten       |1x Doppelbett + 2x Einzelbette
 Fenster                     |Doppelverglasung
 Heizung                     |Zentralheizung
 Hausrat                     |inbegriffen

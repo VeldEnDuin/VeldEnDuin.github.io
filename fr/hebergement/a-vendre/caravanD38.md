@@ -4,7 +4,7 @@ title: Caravane D 38
 preview:
     title: Caravane D 38
     list:
-        - "prix: € 89.000"
+        - "prix: € 85.000"
         - "type 2"
         - "disponible: tout de suite"
 
@@ -36,8 +36,8 @@ Dimensions caravane         |11 x 4m
 Dessous de caravane fini    |oui
 Tiroirs sous caravane       |oui
 Terrasse                    |oui
-Nombre de chambres à coucher|1 + stockage avec lave-linge, sèche-linge, congélateur
-Distribution des lits       |1x lit double
+Nombre de chambres à coucher|2
+Distribution des lits       |1x lit double + 2x lits simples
 Fenêtres                    |double vitrage
 Chauffage                   |chauffage central
 Mobilier de caravane        |inclus

@@ -4,7 +4,7 @@ title: Caravan D 38
 preview:
     title: Caravan D 38
     list:
-        - "prijs: € 89.000"
+        - "prijs: € 85.000"
         - "type 2"
         - "beschikbaar: direct"
 
@@ -37,8 +37,8 @@ Afmetingen caravan          |11 x 4m
 Caravan onderaan afgemaakt? |ja
 Lades onder caravan         |ja
 Terras                      |ja
-Aantal slaapkamers          |1 + berging met wasmachine, droogkast, diepvries
-Verdeling bedden            |1x dubbelbed
+Aantal slaapkamers          |2
+Verdeling bedden            |1x dubbelbed + 2x enkel bed
 Ramen                       |dubbel glas
 Soort verwarming            |Centrale Verwarming
 Inboedel caravan            |inbegrepen
