@@ -54,10 +54,10 @@
     - linkcode: te_koop
       submenu:
         - linkcode: te_koop
-        - linkcode: a_08
+        - linkcode: b_51
         - linkcode: b_67
-        - linkcode: d_38
         - linkcode: g_05
+        - linkcode: g_10
 
 
 - linkcode: voorzieningen

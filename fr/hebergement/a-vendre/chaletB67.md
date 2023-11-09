@@ -6,7 +6,7 @@ preview:
     list:
         - "prix: € 11.000"
         - "type 2"
-        - "emplacement garanti jsuque fin 2026"
+        - "emplacement garanti jusque fin 2026"
 
 images:
     - /img/overnachten/te-koop/B67/01-B67_buiten.jpg
