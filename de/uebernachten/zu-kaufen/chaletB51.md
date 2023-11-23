@@ -36,7 +36,7 @@ Terrasse                    |überdachte Terrasse
 Fenster                     |Doppelverglasung
 Heizungsart                 |Gas
 Küche                       |separate Küche
-Badezimmer                  |Dusche, Wachbecken, WC
+Badezimmer                  |Dusche, Waschbecken, WC
 Anzahl Schlafzimmer         |2
 Aufteilung Betten           |2x Doppelbett
 Hausrat Chalet              |inbegriffen
