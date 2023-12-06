@@ -4,7 +4,7 @@ title: Chalet B 32
 preview:
     title: Chalet B 32
     list:
-        - "prix: € 9.000"
+        - "prix: € 7.000"
         - "type 2"
         - "emplacement garanti jusque fin 2026"
 

@@ -4,7 +4,7 @@ title: Chalet B 32
 preview:
     title: Chalet B 32
     list:
-        - "prijs: € 9.000"
+        - "prijs: € 7.000"
         - "type 2"
         - "gegarandeerd tot eind 2026"
 
