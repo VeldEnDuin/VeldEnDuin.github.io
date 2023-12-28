@@ -39,3 +39,5 @@ L'eau et le sable sont la combinaison parfaite pour que les petits célèbrent l
 Et avez-vous déjà découvert les baies de notre jardin à grignoter ? C'est l'idéal si vous avez envie d'un en-cas sain tout en jouant.
 
 Les amateurs de jeux de ballon pourront se rendre au parc Paelsteenveld situé en face du camping et à la plage. Les jeux de ballon ne sont pas autorisés sur le terrain de camping. 
+
+![Met de steun van Provincie West-Vlaanderen](/img/voorzieningen/logo-provincie-westvlaanderen.png){:style="display:block; width:30%; margin: 0 auto;"}

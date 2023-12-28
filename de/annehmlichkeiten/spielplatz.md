@@ -39,3 +39,5 @@ Wasser und Sand ist die Traumkombination für die Kleinen, um auf dem Wasserspie
 Und haben Sie schon die Beeren in unserem Schnauzengarten entdeckt? Ideal, wenn Sie beim Spielen Lust auf einen gesunden Snack haben.
 
 Ballspiele sind im gegenüberliegenden Paelsteenveld-Park oder am Strand möglich. Auf dem Campingplatz sind Ballspiele nicht zugelassen. 
+
+![Met de steun van Provincie West-Vlaanderen](/img/voorzieningen/logo-provincie-westvlaanderen.png){:style="display:block; width:30%; margin: 0 auto;"}

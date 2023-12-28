@@ -39,3 +39,5 @@ Water en zand is dan weer de gedroomde combinatie voor de kleintjes om hun creat
 En heb je de besjes in onze sneukeltuin al ontdekt? Ideaal als je zin hebt in een gezond snoepje tijdens het spelen. 
 
 Voor balspelen is er het tegenoverliggende park Paelsteenveld en op het strand. Op de camping zijn balspelen niet toegelaten. 
+
+![Met de steun van Provincie West-Vlaanderen](/img/voorzieningen/logo-provincie-westvlaanderen.png){:style="display:block; width:30%; margin: 0 auto;"}

@@ -38,3 +38,5 @@ And there is even more to discover: the spring flowers, the climbing frame with 
 Parents and grandparents can keep an eye on their offspring from a short distance.
 
 Ball games are not allowed on the campsite but you are welcome to play on the beach or in Paalsteenveld park opposite the campsite.
+
+![Met de steun van Provincie West-Vlaanderen](/img/voorzieningen/logo-provincie-westvlaanderen.png){:style="display:block; width:30%; margin: 0 auto;"}
