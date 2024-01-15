@@ -5,7 +5,7 @@ description: emplacements spacieux et rénovés
 preview:
     title: Type 2
     button:
-        price: 2460
+        price: 2570
         for: per an
     list:
         - "surface moyenne : 120 m²"
@@ -46,20 +46,20 @@ Qui n’a jamais rêvé d’un pied-à-terre à la mer pour s’y rendre dès qu
 - entretien du gazon par Veld & Duin
 
 
-## Prix 2023
+## Prix 2024
 
 TYPE 2                |PRIX           |
 :--------------------:|:--------------:|
-indemnité de résidence par an |€ 2460
-taxe communale                |€ 471,70
-déchets ménagers<br>incl 25 sacs poubelles<br> | € 100
+indemnité de résidence par an |€ 2570
+taxe communale                |€ 473,82
+déchets ménagers<br>incl 25 sacs poubelles<br> | € 110
 [assurance incendie][pdf_brandverzekering.fr]     |selon la<br>valeur de la caravane / chalet
 
 CONSOMMATION ⑴        |PRIX        |
 :--------------------:|:-------------:|
-électricité           | € 0,78 / kW        
+électricité           | € 0,68 / kW        
 eau                   | € 8,50 / m³
-gaz                   | € 10,75 / m³       
-compteur              | € 25 / compteur  
+gaz                   | € 9,00 / m³       
+compteur              | € 28 / compteur  
 
 ⑴ prix sous réserve de modifications des prix de l’énergie

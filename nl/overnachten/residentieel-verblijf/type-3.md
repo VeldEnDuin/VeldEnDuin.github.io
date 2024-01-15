@@ -5,7 +5,7 @@ description: percelen waar caravans tot 12 meter kunnen staan
 preview:
     title: Type 3
     button:
-        price: 2835
+        price: 2960
         for: per jaar
     list:
         - "gemiddelde opp: 170 m²"
@@ -41,20 +41,20 @@ Op onze type 3 percelen kan een caravan tot 12 meter staan. Deze ruime percelen 
 - onderhoud gras door Veld & Duin
 
 
-## Prijzen 2023
+## Prijzen 2024
 
 TYPE 3                |PRIJS           |
 :--------------------:|:--------------:|
-standplaatsvergoeding | € 2835
-gemeentetaks          | € 471,70
-huisvuilbijdrage<br>incl 25 zakken<br> | € 100  
+standplaatsvergoeding | € 2960
+gemeentetaks          | € 473,82
+huisvuilbijdrage<br>incl 25 zakken<br> | € 110  
 [brandverzekering][pdf_brandverzekering.nl]     |afhankelijk van <br>waarde caravan
 
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
-elektriciteit         | € 0,78 / kW        
+elektriciteit         | € 0,68 / kW        
 water                 | € 8,50 / m³  
-gas                   | € 10,75 / m³       
-tellervergoeding      | € 25 / teller
+gas                   | € 9,00 / m³       
+tellervergoeding      | € 28 / teller
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven

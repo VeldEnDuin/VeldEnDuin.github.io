@@ -5,7 +5,7 @@ description: Parzellen, auf denen Wohnwagen bis zu 12 Meter stehen können
 preview:
     title: Typ 3
     button:
-        price: 2835
+        price: 2960
         for: pro Jahr
     list:
         - "Durchschnittl. Fläche: 170 m²"
@@ -40,20 +40,20 @@ Auf unseren Parzellen vom Typ 3 kann ein Wohnwagen bis zu 12 Metern aufgestellt 
 - Graspflege von Veld & Duin
 
 
-## Preise 2023
+## Preise 2024
 
 TYP 3                                          |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
-Stellplatzkosten                               | € 2835
-Gemeindesteuer                                 | € 471,70
-Hausmüllgebühr<br>inkl 25 Müllsäcke<br>        | € 100
+Stellplatzkosten                               | € 2960
+Gemeindesteuer                                 | € 473,82
+Hausmüllgebühr<br>inkl 25 Müllsäcke<br>        | € 110
  [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens
 
 VERBRAUCH ⑴           |PREIS          |
 :--------------------:|:-------------:|
-Strom                 | € 0,78 / Kw        
+Strom                 | € 0,68 / Kw        
 Wasser                | € 8,50 / m³
-Gas                   | € 10,75 / m³
-Zähler                | € 25 / Zähler
+Gas                   | € 9,00 / m³
+Zähler                | € 28 / Zähler
 
 ⑴ Preis vorbehaltlich Änderungen der Energiepreise

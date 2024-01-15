@@ -5,7 +5,7 @@ description: parcelles très spacieuses situées autour d'une pièce d'eau
 preview:
     title: Type 4
     button:
-        price: 3300
+        price: 3450
         for: par an
     list:
         - "surface moyenne : 190 m²"
@@ -41,20 +41,20 @@ Vous cherchez un grand emplacement avec vue sur la pièce d’eau au centre du c
 - entretien du gazon par Veld & Duin
 
 
-## Prix 2022
+## Prix 2024
 
 TYPE 4                |PRIX           |
 :--------------------:|:--------------:|
-indemnité de résidence par an |€ 3300           
-taxe communale                |€ 471,70
-déchets ménagers<br>incl 25 sacs poubelles<br> | € 100   
+indemnité de résidence par an |€ 3450           
+taxe communale                |€ 473,82
+déchets ménagers<br>incl 25 sacs poubelles<br> | € 110   
 [assurance incendie][pdf_brandverzekering.fr]     |selon la<br>valeur de la caravane
 
 CONSOMMATION ⑴        |PRIX        |
 :--------------------:|:-------------:|
-électricité           | € 0,78 / kW        
+électricité           | € 0,68 / kW        
 eau                   | € 8,50 / m³
-gaz                   | € 10,75 / m³       
-compteur              | € 25 / compteur       
+gaz                   | € 9,00 / m³       
+compteur              | € 28 / compteur       
 
 ⑴ prix sous réserve de modifications des prix de l’énergie
