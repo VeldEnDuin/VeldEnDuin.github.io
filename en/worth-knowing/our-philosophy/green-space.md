@@ -20,7 +20,7 @@ insert:
 
 remove:
     - imgstrip
-    
+
 ---
 
 {% include links.md %}
@@ -40,10 +40,9 @@ Green also means striving for the most sustainable operation possible. Here we c
 - separate waste water to be provided when new plots are being constructed
 - energy-saving shower heads
 - solar panels on the bicycle shed and on the sanitary building
-- from spring 2023: 2 charging stations for electric cars
+- from 2024: 2 charging stations for electric cars
 
 Each resident disposes of separate water, electricity and gas meters. In this way you are being encouraged to reduce your ecological foot print. We also do a warm appeal to our tenants not to waste any energy.
 
 We are really committed! We were one of the pilot companies in the recreational trade to take part in a project about sustainable enterpreneurship. In a nutshell: we got a screening and practical advice to continue in the same direction.<br>
-Please consult our [sustainability report] [pdf_mvo.en]. 
-
+Please consult our [sustainability report] [pdf_mvo.en].

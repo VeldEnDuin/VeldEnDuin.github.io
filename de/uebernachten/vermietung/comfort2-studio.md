@@ -5,7 +5,7 @@ description: Residenz mit geschlossener und nach Süden ausgerichteter Terrasse
 preview:
     title: Studio Comfort 2
     button:
-        price: 136
+        price: 141
         for: 2 Nächte
     list:
         - "Gemütlichkeit für 2"
@@ -39,12 +39,12 @@ insert:
 
 Kommen Sie und genießen Sie die Seeluft für ein paar Tage allein oder zu zweit. Nach einem langen Strandspaziergang oder einer Radtour können Sie auf der geschlossenen Südterrasse entspannen.
 
-*Tipp: Buchen Sie Ihren Aufenthalt direkt und zahlen Sie 10% weniger als über Booking oder AirBnB.*
+*Tipp: Buchen Sie Ihren Aufenthalt direkt und zahlen Sie 12% weniger als über Booking oder AirBnB.*
 
 ## Einrichtung Studio
 
 - Großes Wohnzimmer mit Flachbildschirm-TV und Digibox
-- Eingerichtete Küche mit Mikrowelle
+- Eingerichtete Küche mit Mikrowelle und Philips Barista (Kaffeekapseln)
 - Badezimmer mit Dusche, Waschbecken und Toilette
 - Schlafzimmer Studio:
     - 1 Zimmer mit Doppelbett (140 x 200)
@@ -64,11 +64,11 @@ Kommen Sie und genießen Sie die Seeluft für ein paar Tage allein oder zu zweit
 - Verbrauch von Gas, Wasser und Strom
 
 ## Reinigung
-Sie brauchen den Abwasch zu erledigen, Abfall nach unserem Containerpark zu bringen und Ihre Unterkunft aufgeräumt zu hinterlassen.
+Bei der Abreise verlassen Sie bitte die Unterkunft in aufgeräumten Zustand, bringen alle Abfälle zum Containerpark und spülen das Geschirr. Bitte geben Sie gemietete Bettwässche und Handtücher an der Rezeption ab.
 
 ## Was Sie mitbringen müssen
 Neben Ihren persönlichen Dingen müssen Sie noch Handtücher, Küchenhandtücher und Bettbezüge mitbringen.
-Bettbezüge können Sie auch bei uns mieten.
+Bettwäsche und Handtücher können ebenfalls gemietet werden.
 
 
 
@@ -77,7 +77,8 @@ Bettbezüge können Sie auch bei uns mieten.
 
 EXTRA               | PREIS
 :-------------------|:-----------|
-Betttuchpaket       | € 12 / Doppelbett
+Betttuchpaket       | € 12 / Bett
+Handtuchpaket       | € 6,5 / Paket (1 grosses und 1 kleines Handtuch)
 Kinderbett           | € 2 / Nacht
 Kinderstuhl         | € 2 / Nacht
 Parkplatz extra Auto  | € 4 / angefangenem Tag

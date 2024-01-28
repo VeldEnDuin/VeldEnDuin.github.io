@@ -17,7 +17,7 @@ insert:
 
 remove:
     - imgstrip
-    
+
 
 ---
 {% include links.md %}
@@ -29,10 +29,10 @@ Nos lave-linge et sèche-linge professionnels sont à votre disposition dans nos
 
 | machine                  | tarif  |
 |--------------------------|:------:|
-| lave-linge 6 kg          | € 4,00 |
-| lave-linge 8 kg          | € 5,50 |
-| sèche-linge 6 kg         | € 3,00 |
-| sèche-linge 8 kg         | € 4,50 |
+| lave-linge 6 kg          | € 5,00 |
+| lave-linge 8 kg          | € 6,50 |
+| sèche-linge 6 kg         | € 4,00 |
+| sèche-linge 8 kg         | € 5,50 |
 
 
 Paiement avec des pièces de € 0,50 , € 1  ou € 2.

@@ -5,7 +5,7 @@ description: blissfully relax in these luxurious apartments
 preview:
     title: Luxury Apartment
     button:
-        price: 188
+        price: 194
         for: 2 nights
     list:
         - "5-6 persons"
@@ -39,12 +39,12 @@ insert:
 
 Located above the reception these new and luxurious apartments overlook the floral beauty at the entrance of the campsite.
 
-*Tip: book your stay directly and pay 10% less than via Booking or AirBnB.*
+*Tip: book your stay directly and pay 12% less than via Booking or AirBnB.*
 
 ## Facilities luxury apartment
 
 - spacious living room with flat screen and set top box
-- equipped kitchen with dishwasher and microwave
+- equipped kitchen with dishwasher, microwave and Philips Barista (coffee cups)
 - bathroom with shower, washbasin and toilet
 - bedrooms apartment on the first floor:
     - 1 room with a big double bed (180x200)
@@ -71,12 +71,12 @@ Located above the reception these new and luxurious apartments overlook the flor
 - consumption water & electricity
 
 ## Cleaning
-You have to do the dishes, take the waste to our containerpark and leave the chalet tidy.
+On departure, please leave the accommodation tidy, take all waste to the containerpark and do the dishes. Please return rented sheets and towels to reception.
 
 
 ## Things to bring along
 Besides your personal belongings you need to bring along towels, kitchen towels and bed linen.
-Bed linen can also be rented at the reception.
+Sheet sets and towels can also be rented.
 
 
 
@@ -84,7 +84,8 @@ Bed linen can also be rented at the reception.
 
 EXTRA SERVICE             | PRICE
 :-------------------|:-----------|
-bed linen           | € 12 / double bed - € 10 / single bed
+bed linen           | € 12 / bed
+towel package       | € 6,5 / package (1 large and 1 small towel)
 baby cot          | € 2 / night
 baby chair         | € 2 / night
 parking place extra car  | € 4 / started day

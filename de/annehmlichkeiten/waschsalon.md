@@ -17,7 +17,7 @@ insert:
 
 remove:
     - imgstrip
-    
+
 
 ---
 {% include links.md %}
@@ -29,10 +29,10 @@ In jedem unserer drei Sanitärgebäude stehen unsere Profiwaschmaschinen und -tr
 
 | Gerät                    | Preis  |
 |--------------------------|:------:|
-| 6-kg-Waschmaschine       | € 4,00 |
-| 8-kg-Waschmaschine       | € 5,50 |
-| 6-kg-Trockner            | € 3,00 |
-| 8-kg-Trockner            | € 4,50 |
+| 6-kg-Waschmaschine       | € 5,00 |
+| 8-kg-Waschmaschine       | € 6,50 |
+| 6-kg-Trockner            | € 4,00 |
+| 8-kg-Trockner            | € 5,50 |
 
 
 Bezahlen ist mit folgenden Münzen möglich: € 0,50, € 1 oder € 2.

@@ -5,7 +5,7 @@ description: well-equipped chalet for 1 to 2 people
 preview:
     title: Chalet Comfort 2
     button:
-        price: 136
+        price: 141
         for: 2 nights
     list:
         - "cosiness for 2"
@@ -38,12 +38,12 @@ insert:
 
 Need a break, just for the two of you? Make yourself at home in this cosy chalet.
 
-*Tip: book your stay directly and pay 10% less than via Booking or AirBnB.*
+*Tip: book your stay directly and pay 12% less than via Booking or AirBnB.*
 
 ## Facilities chalet
 
 - spacious living room with flat screen and digital TV
-- fully equipped kitchen and microwave
+- fully equipped kitchen, microwave and Philips Barista (coffee cups)
 - bathroom with shower, washbasin and toilet
 - bedroom chalet:
     - 1 room with a double bed (140x200)
@@ -63,11 +63,11 @@ Need a break, just for the two of you? Make yourself at home in this cosy chalet
 
 
 ## Cleaning
-You have to do the dishes, take the waste to our containerpark and leave the chalet tidy.
+On departure, please leave the accommodation tidy, take all waste to the containerpark and do the dishes. Please return rented sheets and towels to reception.
 
 ## Things to bring along
 Besides your personal belongings you need to bring along towels, kitchen towels and bed linen.
-Bed linen can also be rented at the reception.
+Sheet sets and towels can also be rented.
 
 
 
@@ -77,7 +77,8 @@ Bed linen can also be rented at the reception.
 EXTRA SERVICE            | PRICE
 :-------------------|:-----------|
 dogs               | € 5 / night - max 1
-bed linen           | € 12 / double bed
+bed linen           | € 12 / bed
+towel package       | € 6,5 / package (1 large and 1 small towel)
 baby cot          | € 2 / night
 baby chair         | € 2 / night
 parking place extra car  | € 4 / started day

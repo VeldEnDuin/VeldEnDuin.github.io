@@ -20,7 +20,7 @@ insert:
 
 remove:
     - imgstrip
-    
+
 ---
 
 {% include links.md %}
@@ -39,10 +39,9 @@ Nous tenons également à organiser nos activités le plus durable possible. Voi
 - l’évacuation distincte des eaux usées lors de la construction de nouveaux emplacements
 - l’installation de pommeaux de douche économiques
 - panneaux solaires sur l'abri à vélos et sur le bâtiment sanitaire
-- à partir du printemps 2023 : 2 stations de recharge pour les voitures électriques
+- à partir de 2024 : 2 stations de recharge pour les voitures électriques
 
 De plus, chaque emplacement résidentiel dispose de compteurs séparés pour l’eau, l’électricité et le gaz, de sorte à encourager nos résidents à réduire leur empreinte écologique. Nous invitons aussi chaleureusement les occupants de logements de location à ne pas gaspiller inutilement l’énergie.
 
 Afin de renforcer son engagement, Veld&Duin a participé, aux côtés d'autres entreprises du secteur récréatif, à un projet pilote en matière de responsabilité sociétale des entreprises. Pour résumer, notre mode de fonctionnement a été radiographié et nous avons reçu des instruments pratiques afin de poursuivre sur la voie de l’entreprenariat durable.<br>
-Découvrez le résultat dans notre [rapport de durabilité] [pdf_mvo.fr]. 
-
+Découvrez le résultat dans notre [rapport de durabilité] [pdf_mvo.fr].

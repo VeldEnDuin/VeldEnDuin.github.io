@@ -5,7 +5,7 @@ description: verblijf met afgesloten en zuidgericht terras
 preview:
     title: Studio Comfort 2
     button:
-        price: 136
+        price: 141
         for: 2 nachten
     list:
         - "gezelligheid voor 2"
@@ -40,12 +40,12 @@ insert:
 
 Kom een paar dagjes alleen of met z’n tweeën genieten van de zeelucht. Na een fikse strandwandeling of fietstocht  is het heerlijk vertoeven op het afgesloten en zuidgerichte terras.
 
-*Tip: Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.*
+*Tip: Boek je verblijf rechtstreeks en betaal 12% minder dan via Booking of AirBnB.*
 
 ## Inrichting studio
 
 - woonkamer met flatscreen en digibox
-- ingerichte keuken met microgolf
+- ingerichte keuken met microgolf en Philips Barista (koffiecups)
 - badkamer met douche, wastafel en toilet
 - slaapkamer studio:
     - 1 kamer met dubbelbed (140x200)
@@ -66,19 +66,20 @@ Kom een paar dagjes alleen of met z’n tweeën genieten van de zeelucht. Na een
 
 
 ## Schoonmaak
-U dient de afwas te doen, het afval naar ons containerpark te brengen en het verblijf netjes achter te laten.
+Bij vertrek dient u het verblijf netjes achter te laten, alle afval naar het containerpark te brengen en de afwas te doen. Gehuurde lakens en handdoeken graag terugbrengen naar de receptie.
 
 
 ## Wat mee te brengen?
 Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
-Lakenpakketten kunt u ook huren.
+Lakenpakketten en handdoeken kunt u ook huren.
 
 
 ## Extra's
 
 EXTRA               | PRIJS
 :-------------------|:-----------|
-lakenpakket         | € 12 / dubbelbed
+lakenpakket         | € 12 / bed
+handdoekenpakket    | € 6,5 / pakket (1 grote en 1 kleine handdoek)
 kinderbed           | € 2 / nacht
 kinderstoel         | € 2 / nacht
 parking extra auto  | € 4 / begonnen dag

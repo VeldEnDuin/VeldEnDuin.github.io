@@ -27,12 +27,16 @@ remove:
 ---
 {% include links.md %}
 
-## Animations Veld & Duin août 2023
+## Animations Veld & Duin 2024
 
 
-| 5/8  | **Décoration de donuts**<br>10u: workshop 1<br>11u: workshop 2  |
-| 10/8 | **Après-midi de jeux**<br>14u-18u <br>jeux <br>construire une voiture de course et la tester sur une rampe |
-| 16/8 | **Jour de créa**<br>10h-12h: bricolage pour enfants             |
+| 31/3  | **Jeux de Pâques**<br>11u <br>terrain de Jeux  |
+
+Nous nous préparons toujours à offrir des divertissements amusants au cours de l'été 2024 également.
+
+Nous aimons rester à petite échelle et chercher un bon mélange d'activités pour fasciner les jeunes et les moins jeunes.
+
+Gardez donc un oeil sur ce site web et notre page Facebook.
 
 <!-- behouden voor volgende jaren
 Nous nous préparons toujours à offrir des divertissements amusants au cours de l'été 2023 également.

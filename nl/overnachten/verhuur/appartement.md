@@ -5,7 +5,7 @@ description: comfortabel appartement net naast de camping
 preview:
     title: Appartement Comfort 4+
     button:
-        price: 168
+        price: 174
         for: 2 nachten
     list:
         - "4-5 personen"
@@ -40,11 +40,11 @@ insert:
 
 De appartementen liggen net naast de camping. Zo geniet u van de ruimte van een appartement en kunt u tegelijk vrij gebruik maken van de voorzieningen op onze camping.
 
-*Tip: Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.*
+*Tip: Boek je verblijf rechtstreeks en betaal 12% minder dan via Booking of AirBnB.*
 
 ## Inrichting appartement
 - ruime woonkamer met flatscreen en digibox
-- ingerichte keuken met microgolf
+- ingerichte keuken met microgolf en Philips Barista (koffiecups)
 - badkamer met douche, wastafel en toilet
 - slaapkamers appartement:
     - 1 kamer met dubbelbed (140x200)
@@ -66,19 +66,20 @@ De appartementen liggen net naast de camping. Zo geniet u van de ruimte van een 
 - verbruik water en elektriciteit
 
 ## schoonmaak
-U dient de afwas te doen, het afval naar ons containerpark te brengen en het verblijf netjes achter te laten.
+Bij vertrek dient u het verblijf netjes achter te laten, alle afval naar het containerpark te brengen en de afwas te doen. Gehuurde lakens en handdoeken graag terugbrengen naar de receptie.
 
 
 ## Wat mee te brengen?
 Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
-Lakenpakketten kunt u ook huren.
+Lakenpakketten en handdoeken kunt u ook huren.
 
 
 ## Extra's
 
 EXTRA               | PRIJS
 :-------------------|:-----------|   
-lakenpakket         | € 12 / dubbelbed - € 10 / enkel bed
+lakenpakket         | € 12 / bed
+handdoekenpakket    | € 6,5 / pakket (1 grote en 1 kleine handdoek)
 kinderbed           | € 2 / nacht
 kinderstoel         | € 2 / nacht
 parking extra auto  | € 4 / begonnen dag

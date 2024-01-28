@@ -20,7 +20,6 @@ insert:
 
 ## Opening hours reception
 
-<B>Reception closed from 19/09 until 28/09</B>
 
 <B>15/03 - 15/11</B>
 - monday - friday - saturday

@@ -5,7 +5,7 @@ description: détendez-vous dans ces luxueux appartements
 preview:
     title: Appartement de luxe
     button:
-        price: 188
+        price: 194
         for: 2 nuits
     list:
         - "5-6 personnes"
@@ -39,12 +39,12 @@ insert:
 
 Situés au-dessus de la réception, ces nouveaux appartements luxueux offrent une vue imprenable sur les magnifiques parterres de fleur de l’entrée du camping.  
 
-*Bon conseil: réservez votre séjour directement et payez 10% de moins que via Booking ou AirBnB.*
+*Bon conseil: réservez votre séjour directement et payez 12% de moins que via Booking ou AirBnB.*
 
 ## Aménagement de l’appartement de luxe
 
 - grande salle de séjour avec écran plat et digibox
-- cuisine équipée avec four à micro-ondes
+- cuisine équipée avec four à micro-ondes et Philips Barista (capsules de café)
 - salle de bains avec douche, lavabo et toilettes
 - chambres à coucher de l’appartement au premier étage:
     - 1 chambre avec un grand lit double (180x200)
@@ -74,18 +74,19 @@ Situés au-dessus de la réception, ces nouveaux appartements luxueux offrent un
 - consommation eau - électricité
 
 ## Nettoyage
-Vous devez faire la vaisselle, mettre les déchets dans notre parc à conteneurs et laisser votre logement rangé.
+Lors de votre départ, veuillez laisser le logement en ordre, apporter tous les déchets au parc à conteneurs et faire la vaisselle. Merci de rapporter les draps et serviettes loués à la réception.
 
 ## Que faut-il emporter?
 Outre vos affaires personnelles, vous devez emporter vos propres serviettes, torchons et linge de lit.
-Le linge de lit peut être loué au camping.
+Des draps et des serviettes peuvent également être loués.
 
 
 ## Suppléments
 
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
-draps               | € 12 / lit double - € 10 / lit simple
+draps               | € 12 / lit
+paquet de serviettes| € 6,5 / paquet (1 grande et 1 petite serviette)
 lit d'enfant        | € 2 / nuit
 chaise haute        | € 2 / nuit
 parking voiture supplémentaire  | € 4 / jour entamé

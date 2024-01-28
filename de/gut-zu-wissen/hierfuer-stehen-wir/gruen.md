@@ -14,14 +14,14 @@ images:
     - /img/hierstaanwevoor/groen/groen-08.jpg
     - /img/hierstaanwevoor/groen/groen-09.jpg
     - /img/hierstaanwevoor/groen/groen-10.jpg
-    
+
 
 insert:
     - page-images-top
 
 remove:
     - imgstrip
-    
+
 ---
 
 {% include links.md %}
@@ -40,11 +40,10 @@ Grün bedeutet auch, nach einem möglichst nachhaltigen Betrieb zu streben. Hier
 - bei der Anlage neuer Parzellen sehen wir eine Abwassertrennung vor
 - wir haben Sparduschköpfe installiert
 - Sonnenkollektoren auf dem Fahrradschuppen und dem Sanitärgebäude
-- ab Frühjahr 2023: 2 Ladestationen für Elektroautos
+- ab 2024: 2 Ladestationen für Elektroautos
 
 
 Jeder Dauercampingplatz verfügt darüber hinaus über getrennte Wasser-, Strom- und Gaszähler, sodass unsere Gäste angespornt werden, ihren ökologischen Fußabdruck zu verkleinern. Auch bei den Mietunterkünften werben wir dafür, nicht unnötig Energie zu verschwenden.
 
 Um unsere Engagement noch zu intensivieren, haben wir uns als eines der Pilotunternehmen in der Freizeitbranche an einem Projekt rund um die soziale Verantwortung der Unternehmen (SVU) beteiligt. Das Projekt in Kürze: Unsere Arbeitsweise wurde durchleuchtet und wir erhielten praktische Instrumente, damit wir auch in Zukunft nachhaltig unternehmerisch tätig sein können.<br>
 Das Ergebnis finden Sie in unserem [Nachhaltigkeitsbericht] [pdf_mvo.de].
-

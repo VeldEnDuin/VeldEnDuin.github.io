@@ -20,10 +20,9 @@ preview:
 
 ## Openingsuren receptie
 
-<B>receptie gesloten van 19/09 - 28/09</B>
 
 <B>15/03 - 15/11</B>
-- maandag - vrijdag- zaterdag 
+- maandag - vrijdag- zaterdag
     - 09u00 - 12u00
     - 13u30 - 17u00
 - dinsdag - woensdag - donderdag - zondag
