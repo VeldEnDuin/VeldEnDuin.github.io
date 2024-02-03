@@ -44,10 +44,6 @@ rooms:
         id: 34293
         location: 7772
         group: kamperen
-    trekker10x8:
-        id: 34294
-        location: 7772
-        group: kamperen
     tent10x8:
         id: 34295
         location: 7772

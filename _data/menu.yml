@@ -31,8 +31,6 @@
         - linkcode: trekkers_info
         - linkcode: trekkers_mobilhome
           booking_form_room: mobilhome10x8
-        - linkcode: trekkers_trekker
-          booking_form_room: trekker10x8
         - linkcode: trekkers_tent
           booking_form_room: tent10x8
 

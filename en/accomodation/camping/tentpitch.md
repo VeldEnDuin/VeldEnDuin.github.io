@@ -9,7 +9,7 @@ preview:
         for: per night     
     list:
         - "small pitch: 7x8"
-        - "bit pitch: 10x8"
+        - "big pitch: 10x8"
         - "close to the sanitary block"
 
 images:
