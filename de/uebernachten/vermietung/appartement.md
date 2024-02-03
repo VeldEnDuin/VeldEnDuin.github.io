@@ -5,7 +5,7 @@ description: komfortable Wohnung direkt neben dem Campingplatz
 preview:
     title: Appartement Comfort 4+
     button:
-        price: 168
+        price: 174
         for: 2 Nächte
     list:
         - "4-5 Personen"
@@ -40,13 +40,13 @@ insert:
 
 Die Appartements liegen neben dem Campingplatz. So genießen Sie den Platz eines Appartements und Sie können trotzdem die Annehmlichkeiten des Campingplatzes nutzen.
 
-*Tipp: Buchen Sie Ihren Aufenthalt direkt und zahlen Sie 10% weniger als über Booking oder AirBnB.*
+*Tipp: Buchen Sie Ihren Aufenthalt direkt und zahlen Sie 12% weniger als über Booking oder AirBnB.*
 
 
 ## Einrichtung Appartement
 
 - Großes Wohnzimmer mit Flachbildschirm-TV und Digibox
-- Eingerichtete Küche mit Mikrowelle
+- Eingerichtete Küche mit Mikrowelle und Philips Barista (Kaffeekapseln)
 - Badezimmer mit Dusche, Waschbecken und Toilette
 - Schlafzimmer Appartement
     - 1 Zimmer mit Doppelbett (140 x 200)
@@ -69,12 +69,12 @@ Die Appartements liegen neben dem Campingplatz. So genießen Sie den Platz eines
 - Verbrauch von Wasser und Strom
 
 ## Reinigung
-Sie brauchen den Abwasch zu erledigen, Abfall nach unserem Containerpark zu bringen und Ihre Unterkunft aufgeräumt zu hinterlassen.
+Bei der Abreise verlassen Sie bitte die Unterkunft in aufgeräumten Zustand, bringen alle Abfälle zum Containerpark und spülen das Geschirr. Bitte geben Sie gemietete Bettwässche und Handtücher an der Rezeption ab.
 
 
 ## Was Sie mitbringen müssen
 Neben Ihren persönlichen Dingen müssen Sie noch Handtücher, Küchenhandtücher und Bettbezüge mitbringen.
-Bettbezüge können Sie auch bei uns mieten.
+Bettwäsche und Handtücher können ebenfalls gemietet werden.
 
 
 
@@ -82,7 +82,8 @@ Bettbezüge können Sie auch bei uns mieten.
 
 EXTRA               | PREIS
 :-------------------|:-----------|
-Betttuchpaket       | € 12 / Doppelbett - € 10 / Einzelbett
+Betttuchpaket       | € 12 / Bett
+Handtuchpaket       | € 6,5 / Paket (1 grosses und 1 kleines Handtuch) 
 Kinderbett           | € 2 / Nacht
 Kinderstuhl         | € 2 / Nacht
 Parkplatz extra Auto  | € 4 / angefangenem Tag

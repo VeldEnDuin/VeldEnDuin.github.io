@@ -24,11 +24,15 @@ insert:
 ---
 {% include links.md %}
 
-## Animatie Veld & Duin augustus 2023
+## Animatie Veld & Duin 2024
 
-| 5/8  | **Donuts Pimpen**<br>10u: workshop 1<br>11u: workshop 2  |
-| 10/8 | **Spelletjesmiddag**<br>14u-18u <br>volkspelen<br>racecar bouwen + uittesten op de schans |
-| 16/8 | **Creadag**<br>10u-12u: knutselen voor kinderen | 
+| 31/3  | **Paasspel**<br>11u <br>speelplein  |
+
+We zijn verder nog volop aan het plannen om ook in de zomer van 2024 leuke animatie aan te bieden.
+
+Daarbij houden we het graag kleinschalig en zoeken we naar een fijne mix van activiteiten om jong en wat minder jong te boeien.
+
+Hou deze website en onze facebookpagina dus zeker in de gaten.
 
 <!-- behouden voor volgende jaren:
 We zijn nog volop aan het plannen om ook in de zomer van 2023 leuke animatie aan te bieden.

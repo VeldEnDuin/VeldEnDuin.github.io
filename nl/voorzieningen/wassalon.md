@@ -17,7 +17,7 @@ insert:
 
 remove:
     - imgstrip
-    
+
 
 ---
 {% include links.md %}
@@ -29,10 +29,10 @@ In elk van onze 3 sanitaire gebouwen staan onze professionele wasmachines en dro
 
 | toestel                  | prijs  |
 |--------------------------|:------:|
-| wasmachine 6 kilo        | € 4,00 |
-| wasmachine 8 kilo        | € 5,50 |
-| droogkast 6 kilo         | € 3,00 |
-| droogkast 8 kilo         | € 4,50 |
+| wasmachine 6 kilo        | € 5,00 |
+| wasmachine 8 kilo        | € 6,50 |
+| droogkast 6 kilo         | € 4,00 |
+| droogkast 8 kilo         | € 5,50 |
 
 
 Betaling met munten van € 0,50, € 1 of € 2.

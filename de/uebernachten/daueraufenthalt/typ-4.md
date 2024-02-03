@@ -5,7 +5,7 @@ description: besonders geräumige Parzellen rund um ein Wadi
 preview:
     title: Typ 4
     button:
-        price: 3300
+        price: 3450
         for: pro Jahr
     list:
         - "Durchschnittl. Fläche: 190 m²"
@@ -16,7 +16,6 @@ preview:
 images:
     - /img/overnachten/residentieel-type4/restyp4-01.jpg
     - /img/overnachten/residentieel-type4/restyp4-02.jpg
-    - /img/overnachten/residentieel-type4/restyp4-03.jpg
     - /img/overnachten/residentieel-type4/restyp4-04.jpg
     - /img/overnachten/residentieel-type4/restyp4-05.jpg
     - /img/overnachten/residentieel-type4/restyp4-06.jpg
@@ -42,20 +41,20 @@ Wünschen Sie eine besonders große Parzelle mit Blick auf das zentral gelegene 
 - Graspflege von Veld & Duin
 
 
-## Preise 2023
+## Preise 2024
 
 TYP 4                                          |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
-Stellplatzkosten                               | € 3300
-Gemeindesteuer                                 | € 471,70
-Hausmüllgebühr<br>inkl 25 Müllsäcke<br>        | € 100
+Stellplatzkosten                               | € 3450
+Gemeindesteuer                                 | € 473,82
+Hausmüllgebühr<br>inkl 25 Müllsäcke<br>        | € 110
  [Brandversicherung][pdf_brandverzekering.de]  | abhängig vom <br>Wert des Wohnwagens
 
 VERBRAUCH ⑴           |PREIS          |
 :--------------------:|:-------------:|
-Strom                 | € 0,78 / Kw        
+Strom                 | € 0,68 / Kw        
 Wasser                | € 8,50 / m³
-Gas                   | € 10,75 / m³
-Zähler                | € 25 / Zähler
+Gas                   | € 9,00 / m³
+Zähler                | € 28 / Zähler
 
 ⑴ Preis vorbehaltlich Änderungen der Energiepreise

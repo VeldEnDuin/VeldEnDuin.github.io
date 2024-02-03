@@ -5,7 +5,7 @@ description: kleines Haus mit allem Komfort
 preview:
     title: Caravan Comfort 2
     button:
-        price: 136
+        price: 141
         for: 2 Nächte
     list:
         - "2 Personen"
@@ -37,12 +37,12 @@ insert:
 
 Unser charmantes kleines Haus mit privatem Garten ist ideal für Menschen, die sich gern im Freien aufhalten, aber abends doch gern gemütlich kochen oder sich mit einer Dusche erfrischen.
 
-*Tipp: Buchen Sie Ihren Aufenthalt direkt und zahlen Sie 10% weniger als über Booking oder AirBnB.*
+*Tipp: Buchen Sie Ihren Aufenthalt direkt und zahlen Sie 12% weniger als über Booking oder AirBnB.*
 
 ## Einrichtung Caravan
 
 - Kleines Wohnzimmer mit Flachbildschirm und Digitalfernseher
-- Küche mit 2-flammigem Herd und kleiner Mikrowelle
+- Küche mit 2-flammigem Herd, kleiner Mikrowelle und Philips Barista (Kaffeekapseln)
 - Badezimmer mit Dusche und Waschbecken
 - Getrennte Toilette
 - 1 Schlafzimmer mit Doppelbett (140 x 200)
@@ -61,9 +61,12 @@ Unser charmantes kleines Haus mit privatem Garten ist ideal für Menschen, die s
 - Parkplatz für 1 Auto
 - Verbrauch von Gas, Wasser und Strom
 
+## Reinigung
+Bei der Abreise verlassen Sie bitte die Unterkunft in aufgeräumten Zustand, bringen alle Abfälle zum Containerpark und spülen das Geschirr. Bitte geben Sie gemietete Bettwässche und Handtücher an der Rezeption ab.
+
 ## Was Sie mitbringen müssen
 Neben Ihren persönlichen Dingen müssen Sie noch Handtücher, Küchenhandtücher und Bettbezüge mitbringen.
-Bettbezüge können Sie auch bei uns mieten.
+Bettwäsche und Handtücher können ebenfalls gemietet werden.
 
 
 
@@ -72,7 +75,8 @@ Bettbezüge können Sie auch bei uns mieten.
 EXTRA               | PREIS
 :-------------------|:-----------|
 Hund                | € 5 / Nacht - max 1
-Betttuchpaket       | € 12 / Doppelbett
+Betttuchpaket       | € 12 / Bett
+Handtuchpaket       | € 6,5 / Paket (1 grosses und 1 kleines Handtuch) 
 Kinderbett           | € 2 / Nacht
 Kinderstuhl         | € 2 / Nacht
 Parkplatz extra Auto  | € 4 / angefangenem Tag

@@ -21,7 +21,6 @@ preview:
 
 ## Öffnungszeiten Rezeption
 
-<B>Rezeption geschlossen von 19/09 bis 28/09 </B>
 
 <B>15/03 - 15/11</B>
 - Montag - Freitag - Samstag

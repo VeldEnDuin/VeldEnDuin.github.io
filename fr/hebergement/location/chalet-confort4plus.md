@@ -5,7 +5,7 @@ description: beau chalet 4 personnes avec terrasse couverte
 preview:
     title: Chalet confort 4+
     button:
-        price: 168
+        price: 174
         for: 2 nuits
     list:
         - "4 personnes"
@@ -44,12 +44,12 @@ insert:
 
 De retour d’une agréable journée à la plage ou d’une balade dans les environs, installez-vous sur la terrasse couverte pour prendre l’apéritif et vous remémorer les bons moments que vous venez de passer ou planifier les activités des prochains jours.  
 
-*Bon conseil: réservez votre séjour directement et payez 10% de moins que via Booking ou AirBnB.*
+*Bon conseil: réservez votre séjour directement et payez 12% de moins que via Booking ou AirBnB.*
 
 ## Aménagement du chalet:
 
 - grande salle de séjour avec écran plat et TV numérique
-- cuisine équipée avec four à micro-ondes
+- cuisine équipée avec four à micro-ondes et Philips Barista (capsules de café)
 - salle de bains avec douche, lavabo et toilettes
 - chambres à coucher du chalet:
     - 1 chambre avec lit double (140x200)
@@ -69,12 +69,12 @@ De retour d’une agréable journée à la plage ou d’une balade dans les envi
 - consommation gaz - eau - électricité
 
 ## Nettoyage
-Vous devez faire la vaisselle, mettre les déchets dans notre parc à conteneurs et laisser votre logement rangé.
+Lors de votre départ, veuillez laisser le logement en ordre, apporter tous les déchets au parc à conteneurs et faire la vaisselle. Merci de rapporter les draps et serviettes loués à la réception.
 
 
 ## Que faut-il emporter?
 Outre vos affaires personnelles, vous devez emporter vos propres serviettes, torchons et linge de lit.
-Le linge de lit peut être loué au camping.
+Des draps et des serviettes peuvent également être loués.
 
 
 ## Suppléments
@@ -82,7 +82,8 @@ Le linge de lit peut être loué au camping.
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
 chien               | € 5 / nuit - max 2
-draps               | € 12 / lit double - € 10 / lit simple
+draps               | € 12 / lit 
+paquet de serviettes| € 6,5 / paquet (1 grande et 1 petite serviette)
 lit d'enfant        | € 2 / nuit
 chaise haute        | € 2 / nuit
 parking voiture supplémentaire  | € 4 / jour entamé

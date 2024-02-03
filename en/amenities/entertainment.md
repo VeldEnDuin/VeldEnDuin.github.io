@@ -28,12 +28,16 @@ remove:
 ---
 {% include links.md %}
 
-## Entertainment Veld & Duin July 2023
+## Entertainment Veld & Duin 2024
 
 
-| 5/8  | **Donuts decorating**<br>10u: workshop 1<br>11u: workshop 2  |
-| 10/8 | **Games afternoon**<br>14u-18u <br>games<br>building a race car + testing it on a ramp |
-| 16/8 | **Craftsday**<br>10u-12u: crafts for children | 
+| 31/3  | **Easter game**<br>11u <br>playground  |
+
+We are still preparing to offer fun entertainment in the summer of 2024 as well.
+
+We like to keep it small scale and look for a nice mix of activities to interest young and not so young.
+
+So keep an eye on this website and our facebook page.
 
 
 <!-- behouden voor volgende jaren

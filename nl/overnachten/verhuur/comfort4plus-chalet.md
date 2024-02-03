@@ -5,7 +5,7 @@ description: mooie 4-persoonschalet met overdekt terras
 preview:
     title: Chalet comfort 4+
     button:
-        price: 168
+        price: 174
         for: 2 nachten
     list:
         - "4 personen"
@@ -44,11 +44,11 @@ insert:
 
 Na een heerlijk dagje strand of een uitstapje in de buurt lonkt het overdekte terras (en de aperitief) om nog even terug te blikken of al plannen te maken voor de komende dagen.
 
-*Tip: Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.*
+*Tip: Boek je verblijf rechtstreeks en betaal 12% minder dan via Booking of AirBnB.*
 
 ## Inrichting chalet:
 - ruime woonkamer met flatscreen en digitale tv
-- ingerichte keuken met microgolf
+- ingerichte keuken met microgolf en Philips Barista (koffiecups)
 - badkamer met douche, wastafel en toilet
 - slaapkamers chalet:
     - 1 kamer met dubbelbed (140x200)
@@ -70,12 +70,12 @@ Na een heerlijk dagje strand of een uitstapje in de buurt lonkt het overdekte te
 
 
 ## Schoonmaak
-U dient de afwas te doen, het afval naar ons containerpark te brengen en het verblijf netjes achter te laten.
+Bij vertrek dient u het verblijf netjes achter te laten, alle afval naar het containerpark te brengen en de afwas te doen. Gehuurde lakens en handdoeken graag terugbrengen naar de receptie.
 
 
 ## Wat mee te brengen?
 Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
-Lakenpakketten kunt u ook huren.
+Lakenpakketten en handdoeken kunt u ook huren.
 
 
 ## Extra's
@@ -83,7 +83,8 @@ Lakenpakketten kunt u ook huren.
 EXTRA               | PRIJS
 :-------------------|:-----------|
 hond                | € 5 / nacht - max 2
-lakenpakket         | € 12 / dubbelbed - € 10 / enkel bed
+lakenpakket         | € 12 / bed
+handdoekpakket      | € 6,5 / bed
 kinderbed           | € 2 / nacht
 kinderstoel         | € 2 / nacht
 parking extra auto      | € 4 / begonnen dag

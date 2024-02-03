@@ -5,7 +5,7 @@ description: tiny house with every comfort
 preview:
     title: Caravan Comfort 2
     button:
-        price: 136
+        price: 141
         for: 2 nights
     list:
         - "2 persons"
@@ -37,12 +37,12 @@ insert:
 
 Our charming tiny house with private garden is suitable for those who love being outdoors but still love to cook their own meals or have a refreshing shower.
 
-*Tip: book your stay directly and pay 10% less than via Booking or AirBnB.*
+*Tip: book your stay directly and pay 12% less than via Booking or AirBnB.*
 
 ## Facilities caravan
 
 - small living room with flat screen and digital TV
-- kitchen with cooker (2 hot plates) and small microwave
+- kitchen with cooker (2 hot plates), small microwave and Philips Barista (coffee cups)
 - bathroom with shower and washbasin
 - separate toilet
 - 1 bedroom with a double bed (140x200)
@@ -62,12 +62,12 @@ Our charming tiny house with private garden is suitable for those who love being
 
 
 ## Cleaning
-You have to do the dishes, take the waste to our containerpark and leave the chalet tidy.
+On departure, please leave the accommodation tidy, take all waste to the containerpark and do the dishes. Please return rented sheets and towels to reception.
 
 
 ## Things to bring along
 Besides your personal belongings you need to bring along towels, kitchen towels and bed linen.
-Bed linen can also be rented at the reception.
+Sheet sets and towels can also be rented.
 
 
 ## Extra Services
@@ -75,7 +75,8 @@ Bed linen can also be rented at the reception.
 EXTRA SERVICE            | PRICE
 :-------------------|:-----------|
 dogs               | € 5 / night - max 1
-bed linen        | € 12 / double bed
+bed linen        | € 12 / bed
+towel package       | € 6,5 / package (1 large and 1 small towel)
 baby cot          | € 2 / night
 baby chair         | € 2 / night
 parking place extra car  | € 4 / started day

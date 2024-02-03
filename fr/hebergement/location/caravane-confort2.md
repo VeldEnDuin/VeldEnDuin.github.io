@@ -5,7 +5,7 @@ description: petite maison avec tout le confort
 preview:
     title: Caravane Confort 2
     button:
-        price: 136
+        price: 141
         for: 2 nuits
     list:
         - "2 personnes"
@@ -37,12 +37,12 @@ insert:
 
 Notre charmante petite maison avec jardin privé est parfaitement adapté pour amoureux du grand air mais qui désirent tout de même cuisiner de bons petits plats et prendre une douche revigorante.
 
-*Bon conseil: réservez votre séjour directement et payez 10% de moins que via Booking ou AirBnB.*
+*Bon conseil: réservez votre séjour directement et payez 12% de moins que via Booking ou AirBnB.*
 
 ## Aménagement de la caravane
 
 - coin salon avec avec écran plat et TV numérique
-- cuisine avec cuisinière à deux plaques et petit four à micro-ondes
+- cuisine avec cuisinière à deux plaques et petit four à micro-ondes et Philips Barista (capsules de café)
 - salle de bains avec douche et lavabo
 - toilettes séparées
 - 1 chambre équipée d’un lit double (140x200)
@@ -61,11 +61,11 @@ Notre charmante petite maison avec jardin privé est parfaitement adapté pour a
 - consommation gaz - eau - électricité
 
 ## Nettoyage
-Vous devez faire la vaisselle, mettre les déchets dans notre parc à conteneurs et laisser votre logement rangé.
+Lors de votre départ, veuillez laisser le logement en ordre, apporter tous les déchets au parc à conteneurs et faire la vaisselle. Merci de rapporter les draps et serviettes loués à la réception.
 
 ## Que faut-il emporter?
 Outre vos affaires personnelles, vous devez emporter votre linge de bain et votre linge de lit.
-Le linge de lit peut être loué au camping.
+Des draps et des serviettes peuvent également être loués.
 
 
 ## Suppléments
@@ -73,7 +73,8 @@ Le linge de lit peut être loué au camping.
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
 chien               | € 5 / nuit - max 1
-draps               | € 12 / lit double
+draps               | € 12 
+paquet de serviettes| € 6,5 / paquet (1 grande et 1 petite serviette)
 lit d'enfant        | € 2 / nuit
 chaise haute        | € 2 / nuit
 parking voiture supplémentaire  | € 4 / jour entamé

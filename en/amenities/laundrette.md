@@ -17,7 +17,7 @@ insert:
 
 remove:
     - imgstrip
-    
+
 
 ---
 {% include links.md %}
@@ -29,10 +29,10 @@ There are washing machines and tumble driers at your disposal in each of our 3 s
 
 | appliance                   | price  |
 |--------------------------   |:------:|
-| washing machine 6 kilo      | € 4,00 |
-| washing machine 8 kilo      | € 5,50 |
-| tumble drier 6 kilo         | € 3,00 |
-| tumble drier 8 kilo         | € 4,50 |
+| washing machine 6 kilo      | € 5,00 |
+| washing machine 8 kilo      | € 6,50 |
+| tumble drier 6 kilo         | € 4,00 |
+| tumble drier 8 kilo         | € 5,50 |
 
 
 To be paid with coins € 0,50, € 1 of € 2.

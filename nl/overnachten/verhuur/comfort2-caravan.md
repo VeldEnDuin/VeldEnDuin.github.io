@@ -5,7 +5,7 @@ description: tiny house met alle comfort
 preview:
     title: Caravan Comfort 2
     button:
-        price: 136
+        price: 141
         for: 2 nachten
     list:
         - "2 personen"
@@ -38,11 +38,11 @@ insert:
 
 Ons charmante tiny house met privé-tuintje is ideaal voor wie houdt van het buitenleven maar 's avonds toch graag z'n eigen potje kookt of een verkwikkende douche neemt.
 
-*Tip: Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.*
+*Tip: Boek je verblijf rechtstreeks en betaal 12% minder dan via Booking of AirBnB.*
 
 ## Inrichting caravan
 - kleine woonruimte met flatscreen en digitale tv
-- keuken met 2-pits kookvuur en kleine microgolf
+- keuken met 2-pits kookvuur, kleine microgolf en Philips Barista (koffiecups)
 - badkamer met douche en wastafel
 - apart toilet
 - 1 slaapkamer met dubbelbed (140x200)
@@ -61,12 +61,12 @@ Ons charmante tiny house met privé-tuintje is ideaal voor wie houdt van het bui
 - verbruik gas-water-elektriciteit
 
 ## Schoonmaak
-U dient de afwas te doen, het afval naar ons containerpark te brengen en het verblijf netjes achter te laten.
+ij vertrek dient u het verblijf netjes achter te laten, alle afval naar het containerpark te brengen en de afwas te doen. Gehuurde lakens en handdoeken graag terugbrengen naar de receptie.
 
 
 ## Wat mee te brengen?
 Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
-Lakenpakketten kunt u ook huren.
+Lakenpakketten en handdoeken kunt u ook huren.
 
 
 ## Extra's
@@ -74,7 +74,8 @@ Lakenpakketten kunt u ook huren.
 EXTRA               | PRIJS
 :-------------------|:-----------|
 hond                | € 5 / nacht - max 1
-lakenpakket         | € 12 / dubbelbed
+lakenpakket         | € 12 / bed
+handdoekenpakket    | € 6,5 / bed (1 grote en 1 kleine handdoek)
 kinderbed           | € 2 / nacht
 kinderstoel         | € 2 / nacht
 parking extra auto  | € 4 / begonnen dag

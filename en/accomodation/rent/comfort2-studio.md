@@ -5,7 +5,7 @@ description: residence with closed and south-facing terrace
 preview:
     title: Studio Comfort 2
     button:
-        price: 136
+        price: 141
         for: 2 nights
     list:
         - "cosiness for 2"
@@ -39,12 +39,12 @@ insert:
 
 Come and enjoy the sea air for a few days alone or in pairs. After a long walk on the beach or bike ride, you can relax on the enclosed and south-facing terrace.
 
-*Tip: book your stay directly and pay 10% less than via Booking or AirBnB.*
+*Tip: book your stay directly and pay 12% less than via Booking or AirBnB.*
 
 ## Facilities studio
 
 - spacious living room with flat screen and set top box
-- fully equipped kitchen and microwave
+- fully equipped kitchen, microwave and Philips Barista (coffee cups)
 - bathroom with shower, washbasin and toilet
 - bedroom studio:
     - 1 room with a double bed (140x200)
@@ -64,11 +64,11 @@ Come and enjoy the sea air for a few days alone or in pairs. After a long walk o
 - consumption gas-water-electricity
 
 ## Cleaning
-You have to do the dishes, take the waste to our containerpark and leave the chalet tidy.
+On departure, please leave the accommodation tidy, take all waste to the containerpark and do the dishes. Please return rented sheets and towels to reception.
 
 ## Things to bring along
 Besides your personal belongings you need to bring along towels, kitchen towels and bed linen.
-Bed linen can also be rented at the reception.
+Sheet sets and towels can also be rented.
 
 
 ## Extra Services
@@ -76,7 +76,8 @@ Bed linen can also be rented at the reception.
 EXTRA SERVICE            | PRICE
 :-------------------|:-----------|
 dogs               | € 5 / night - max 1
-bed linen        | € 12 / double bed
+bed linen        | € 12 / bed
+towel package       | € 6,5 / package (1 large and 1 small towel)
 baby cot          | € 2 / night
 baby chair         | € 2 / night
 parking place extra car  | € 4 / started day

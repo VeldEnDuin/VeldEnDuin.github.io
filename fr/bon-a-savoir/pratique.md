@@ -20,7 +20,6 @@ preview:
 
 ## Horaires de la réception
 
-<B>réception fermé du 19/09 - 28/09</B>
 
 <B>15/03 - 15/11</B>
 - lundi - vendredi - samedi

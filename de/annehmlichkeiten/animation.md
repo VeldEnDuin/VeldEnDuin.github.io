@@ -27,11 +27,15 @@ remove:
 ---
 {% include links.md %}
 
-## Animation Veld & Duin Sommer 2023
+## Animation Veld & Duin 2024
 
-| 5/8  | **Donutverzieren**<br>10u: workshop 1<br>11u: workshop 2  |
-| 10/8 | **Spiele-Nachmittag**<br>14u-18u <br>spiele<br> Bau eines Rennwagens und Test auf einer Rampe |
-| 16/8 | **Crea-Tag**<br>10-12Uhr: Basteln für Kinder|
+| 31/3  | **Osterspiel**<br>11 Uhr <br>Spielplatz  |
+
+Wir bereiten uns weiterhin darauf vor, auch im Sommer 2024 lustige Veranstaltungen anzubieten.
+
+Wir halten es gerne klein und suchen nach einer guten Mischung von Aktivitäten, die junge und nicht mehr ganz so junge Leute interessieren.
+
+Behalten Sie also diese Website und unsere Facebook-Seite im Auge.
 
 
 <!-- behouden voor komende jaren

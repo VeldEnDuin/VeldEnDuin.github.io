@@ -6,7 +6,7 @@ description: zalig ontspannen in deze luxueuze appartementen
 preview:
     title: Luxe Appartement
     button:
-        price: 188
+        price: 194
         for: 2 nachten
     list:
         - "5-6 personen"
@@ -42,12 +42,12 @@ insert:
 
 Gelegen boven de receptie bieden deze nieuwe en luxueuze appartementen een mooi zicht op de bloemenpracht aan de ingang van de camping.
 
-*Tip: Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.*
+*Tip: Boek je verblijf rechtstreeks en betaal 12% minder dan via Booking of AirBnB.*
 
 ## Inrichting luxe appartement
 
 - ruime woonkamer met flatscreen en digibox
-- ingerichte keuken met vaatwasmachine en microgolf
+- ingerichte keuken met vaatwasmachine, microgolf en Philips Barista (koffiecups)
 - badkamer met douche, wastafel en toilet
 - slaapkamers appartement eerste verdieping:
     - 1 kamer met groot dubbelbed (180x200)
@@ -76,18 +76,19 @@ Gelegen boven de receptie bieden deze nieuwe en luxueuze appartementen een mooi 
 - verbruik water en elektriciteit
 
 ## Schoonmaak
-U dient de afwas te doen, het afval naar ons containerpark te brengen en het verblijf netjes achter te laten.
+Bij vertrek dient u het verblijf netjes achter te laten, alle afval naar het containerpark te brengen en de afwas te doen. Gehuurde lakens en handdoeken graag terugbrengen naar de receptie.
 
 ## Wat mee te brengen?
 Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
-Lakenpakketten kunt u ook huren.
+Lakenpakketten en handdoeken kunt u ook huren.
 
 
 ## Extra's
 
 EXTRA               | PRIJS
 :-------------------|:-----------|        
-lakenpakket         | € 12 / dubbelbed - € 10 / enkel bed
+lakenpakket         | € 12 / bed
+handdoekenpakket    | € 6,5 / pakket (1 grote en 1 kleine handdoek)
 kinderbed           | € 2 / nacht
 kinderstoel         | € 2 / nacht
 parking extra auto  | € 4 / begonnen dag

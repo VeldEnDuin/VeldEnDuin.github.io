@@ -36,10 +36,9 @@ Groen betekent ook streven naar een zo duurzaam mogelijke werking. Hier dragen w
 - gescheiden afvalwater te voorzien bij de aanleg van nieuwe percelen
 - spaardouchekoppen
 - zonnepannelen op de fietsberging en op het sanitairgebouw
-- vanaf voorjaar 2023: 2 laadpalen voor elektrische auto’s
+- vanaf 2024: 2 laadpalen voor elektrische auto’s
 
 Elke residentiële plaats beschikt bovendien over aparte water-elektriciteits-en gasmeters zodat onze gasten aangespoord worden om hun ecologische voetafdruk te verkleinen. Ook in de verhuuraccommodaties doen we een warme oproep om niet onnodig energie te verspillen.
 
 Om ons engagement nog te versterken, namen we als één van de pilootbedrijven in de recreatiesector deel aan een project rond maatschappelijk verantwoord ondernemen. In een notendop: we kregen een doorlichting van onze werking en praktische instrumenten om in de toekomst verder het pad van het duurzaam ondernemen te bewandelen.<br>
-Het resultaat hiervan is terug te vinden in ons [duurzaamheidsverslag] [pdf_mvo.nl]. 
-
+Het resultaat hiervan is terug te vinden in ons [duurzaamheidsverslag] [pdf_mvo.nl].

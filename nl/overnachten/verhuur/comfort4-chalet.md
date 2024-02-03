@@ -5,7 +5,7 @@ description: comfortabele 4-persoonschalet in de buurt van het speelplein
 preview:
     title: Chalet comfort 4
     button:
-        price: 154
+        price: 160
         for: 2 nachten
     list:
         - "4 personen"
@@ -40,12 +40,12 @@ insert:
 
 Deze chalets liggen vooraan op de camping en dicht bij het speelplein. Ideaal dus voor de kinderen om hun vriendjes steeds in de buurt te hebben.
 
-*Tip: Boek je verblijf rechtstreeks en betaal 10% minder dan via Booking of AirBnB.*
+*Tip: Boek je verblijf rechtstreeks en betaal 12% minder dan via Booking of AirBnB.*
 
 ## Inrichting chalet
 
 - ruime woonkamer met flatscreen en digitale tv
-- ingerichte keuken met microgolf
+- ingerichte keuken met microgolf en Philips Barista (koffiecups)
 - badkamer met douche, wastafel en toilet
 - slaapkamers chalet:
     - 1 kamer met dubbelbed (140x200)
@@ -67,12 +67,12 @@ Deze chalets liggen vooraan op de camping en dicht bij het speelplein. Ideaal du
 - verbruik gas-water-elektriciteit
 
 ## Schoonmaak
-U dient de afwas te doen, het afval naar ons containerpark te brengen en het verblijf netjes achter te laten.
+Bij vertrek dient u het verblijf netjes achter te laten, alle afval naar het containerpark te brengen en de afwas te doen. Gehuurde lakens en handdoeken graag terugbrengen naar de receptie.
 
 
 ## Wat mee te brengen?
 Naast uw persoonlijke spullen, moet u nog handdoeken, keukenhanddoeken en beddegoed zelf meebrengen.
-Lakenpakketten kunt u ook huren.
+Lakenpakketten en handdoeken kunt u ook huren.
 
 
 ## Extra's
@@ -80,7 +80,8 @@ Lakenpakketten kunt u ook huren.
 EXTRA               | PRIJS
 :-------------------|:-----------|
 hond                | € 5 / nacht - max 2
-lakenpakket         | € 12 / dubbelbed - € 10 / enkel bed
+lakenpakket         | € 12 / bed
+handdoekenpakket    | € 6,5 / pakket (1 grote en 1 kleine handdoek)
 kinderbed           | € 2 / nacht
 kinderstoel         | € 2 / nacht
 parking extra auto  | € 4 / begonnen dag
