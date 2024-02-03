@@ -16,13 +16,10 @@ images:
     - /img/overnachten/trekkers-mob-10x8/mob10x8-02.jpg
     - /img/overnachten/trekkers-mob-10x8/mob10x8-03.jpg
     - /img/overnachten/trekkers-mob-10x8/mob10x8-04.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-05.jpg
     - /img/overnachten/trekkers-mob-10x8/mob10x8-06.jpg
     - /img/overnachten/trekkers-mob-10x8/mob10x8-07.jpg
     - /img/overnachten/trekkers-mob-10x8/mob10x8-08.jpg
     - /img/overnachten/trekkers-mob-10x8/mob10x8-09.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-10.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-11.jpg
 
 
 insert:
@@ -35,13 +32,16 @@ Combinez la liberté de vacances en mobile home au confort offert par notre camp
 
 ## Bon à savoir
 
+- convient aux mobil-homes et caravanes tractables d'une longueur maximale de 8 mètres
 - max. 6 personnes / emplacement
 - chiens admis – max. 2 – en laisse – pas de races dangereuses
 - période hiver 15/11-15/3: fermé
 
-## Prix 2023 par nuit
+## Prix 2024 par nuit
 
+Les prix pour 2024 seront publiés à la fin du mois de février. À partir de cette date, il sera également possible de réserver une place en ligne.
 
+<!-- // START VERBERGEN
 NOMBRE DE PERSONNES |BASSE SAISON |HAUTE SAISON
 :------------------:|:-----------:|:-----------:|
 1 personne          |€ 23         |€ 29    
@@ -54,7 +54,7 @@ NOMBRE DE PERSONNES |BASSE SAISON |HAUTE SAISON
 
 * 15/7 - 15/8: réservation à partir de 7 nuits
 * haute saison: vacances de Pâques - juillet - août - week-ends prolongés
-
+// END VERBERGEN -->
 
 {% include fr/camping-reuse.md %}
 
