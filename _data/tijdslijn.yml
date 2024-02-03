@@ -570,7 +570,37 @@ items:
       de: "Im Jahr 2022 werden wir weiter in grüne Energie investieren in Form von 180 Sonnenkollektoren auf unserem Sanitärgebäude."
       en: "In 2022, we will continue to invest in green energy in the form of 180 solar panels on our sanitary building."
     images: 
-      - /img/tijdslijn/20221115-panelen-01.jpg
-      - /img/tijdslijn/20221115-panelen-02.jpg
-      - /img/tijdslijn/20221115-panelen-03.jpg
-      - /img/tijdslijn/20221115-panelen-04.jpg
+      - /img/tijdslijn/2022/zonnepanelen-01.jpg
+      - /img/tijdslijn/2022/zonnepanelen-02.jpg
+      - /img/tijdslijn/2022/zonnepanelen-03.jpg
+      - /img/tijdslijn/2022/zonnepanelen-04.jpg
+
+  - date: 2023-06-21
+    label: 2023
+    title:
+      nl: "Speelplein"
+      fr: "Aire de jeux"
+      de: "Spielplatz"
+      en: "Play area"
+    description: 
+      nl: "Complete vernieuwing van onze speelzone met het waterspeelplein als absolute trekpleister."
+      fr: "Rénovation complète de notre zone de jeux, avec l'aire de jeux aquatiques comme point d'orgue."
+      de: "Komplette Renovierung unseres Spielbereichs mit dem Wasserspielplatz als absoluter Attraktion."
+      en: "Complete renovation of our play area with the water playground as the absolute highlight."
+    images: 
+      - /img/tijdslijn/2023/speelplein-waterpartij.jpg
+
+  - date: 2024-02-01
+    label: 2024
+    title:
+      nl: "12-meter percelen"
+      fr: "parcelles de 12 mètres"
+      de: "12-Meter-Parzellen"
+      en: "12-metre plots"
+    description: 
+      nl: "Aanleg van 4 luxueuze percelen rondom de wadi."
+      fr: "Construction de 4 parcelles de luxe autour de l'oued."
+      de: "Bau von 4 Luxusparzellen rund um das Wadi."
+      en: "Construction of 4 luxury plots around the wadi."
+    images: 
+      - /img/tijdslijn/2024/twaalf-meter-percelen.jpg
