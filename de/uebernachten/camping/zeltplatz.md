@@ -13,36 +13,31 @@ preview:
         - "Nahe bei Sanitäranlagen"
 
 images:
-    - /img/overnachten/trekkers-tent/tent-01.jpg
-    - /img/overnachten/trekkers-tent/tent-02.jpg
-    - /img/overnachten/trekkers-tent/tent-03.jpg
-    - /img/overnachten/trekkers-tent/tent-04.jpg
-    - /img/overnachten/trekkers-tent/tent-05.jpg
-    - /img/overnachten/trekkers-tent/tent-06.jpg
-    - /img/overnachten/trekkers-tent/tent-07.jpg
     - /img/overnachten/trekkers-tent/tent-08.jpg
-    - /img/overnachten/trekkers-tent/tent-09.jpg
+    - /img/overnachten/trekkers-tent/tent-01.jpg
+    - /img/overnachten/trekkers-tent/tent-03.jpg
     - /img/overnachten/trekkers-tent/tent-10.jpg
-
-
 
 insert:
     - page-images-top
 ---
 {% include links.md %}
 
-Wir haben die Wahl zwischen 2 Arten von Zeltplätzen. Die 7x8 Stellplätze eignen sich hervorragend für Camping zu zweit. Mit mehr Leuten oder möchten Sie mehr Platz? Dann wählen Sie den großen Zeltplatz.
+Ab 2024 haben wir noch 1 Zeltplatz für ein kleines bis mittleres Zelt für bis zu 4 Personen. Dieser Stellplatz befindet sich in der Nähe des Spielplatzes, der sanitären Anlagen und gegenüber dem Parkplatz und kann ab der zweiten Februarhälfte online gebucht werden.
 
 ## Gut zu wissen
 
-- Zeltplatz 7x8: Höchstens 4 Personen/Platz
-- Zeltplatz 10x8: Höchstens 6 Personen/Platz
+- Zeltplatz: Höchstens 4 Personen/Platz
 - Hunde zugelassen (höchstens 2) - angeleint - keine gefährlichen Rassen
 - Winterzeitraum 15.11 - 15.03: geschlossen
 
 
-## Preise 2023 pro Nacht
+## Preise 2024 pro Nacht
 
+Die Preise für 2024 werden bis Ende Februar veröffentlicht. Ab diesem Zeitpunkt wird es auch möglich sein, einen Camperplatz online zu buchen.
+
+
+<!-- // START VERBERGEN
 ### Zeltplatz 7x8m
 
 ANZAHL PERSONEN | NEBENSAISON | HOCHSAISON      
@@ -65,6 +60,7 @@ ANZAHL PERSONEN | NEBENSAISON | HOCHSAISON
 
 * 15.7. bis 15.8.: Reservierung ab 7 Nächten
 * Hochsaison: Osterurlaub - Juli - August - verlängerte Wochenenden
+// END VERBERGEN -->
 
 
 {% include de/kurzzeitcamper-reuse.md %}

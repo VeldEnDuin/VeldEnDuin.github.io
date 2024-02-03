@@ -13,36 +13,30 @@ preview:
         - "près des sanitaires"
 
 images:
-    - /img/overnachten/trekkers-tent/tent-01.jpg
-    - /img/overnachten/trekkers-tent/tent-02.jpg
-    - /img/overnachten/trekkers-tent/tent-03.jpg
-    - /img/overnachten/trekkers-tent/tent-04.jpg
-    - /img/overnachten/trekkers-tent/tent-05.jpg
-    - /img/overnachten/trekkers-tent/tent-06.jpg
-    - /img/overnachten/trekkers-tent/tent-07.jpg
     - /img/overnachten/trekkers-tent/tent-08.jpg
-    - /img/overnachten/trekkers-tent/tent-09.jpg
+    - /img/overnachten/trekkers-tent/tent-01.jpg
+    - /img/overnachten/trekkers-tent/tent-03.jpg
     - /img/overnachten/trekkers-tent/tent-10.jpg
-
-
 
 insert:
     - page-images-top
 ---
 {% include links.md %}
 
-Nous avons le choix entre 2 types d'emplacements de tente. Les emplacements 7x8 sont parfaits pour camper en couple. Avec plus de monde ou souhaitez-vous plus d'espace? Choisissez ensuite le grand emplacement pour tente.
+A partir de 2024, il nous reste 1 emplacement pour une tente de taille petite à moyenne pouvant accueillir jusqu'à 4 personnes. Cet emplacement est situé à proximité de l'aire de jeux, des installations sanitaires et en face du parking. Il pourra être réservé en ligne à partir de la deuxième quinzaine de février.
 
 
 ## Bon à savoir
 
-- emplacement 7x8: max. 4 personnes / emplacement
-- emplacement 10x8: max. 6 personnes / emplacement
+- emplacement: max. 4 personnes / emplacement
 - chiens admis – max. 2 – en laisse – pas de races dangereuses
 - période hiver 15/11-15/3: fermé
 
-## Prix 2023 par nuit
+## Prix 2024 par nuit
 
+Les prix pour 2024 seront publiés à la fin du mois de février. À partir de cette date, il sera également possible de réserver une place en ligne.
+
+<!-- // START VERBERGEN
 ### Emplacement 7x8m
 
 NOMBRE DE PERSONNES |BASSE SAISON |HAUTE SAISON
@@ -66,6 +60,7 @@ NOMBRE DE PERSONNES |BASSE SAISON |HAUTE SAISON
 
 * 15/7 - 15/8: réservation à partir de 7 nuits
 * haute saison: vacances de Pâques - juillet - août - week-ends prolongés
+// END VERBERGEN -->
 
 
 {% include fr/camping-reuse.md %}

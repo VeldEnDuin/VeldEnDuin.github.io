@@ -24,21 +24,16 @@ plan:
     de:  /img/plan-camping.png
     fr:  /img/plan-camping.png
     en:  /img/plan-camping.png
-plan_kampeerplaats:
-    nl:  /img/plan-camping-kampeerplaats.png
-    de:  /img/plan-camping-kampeerplaats.png
-    fr:  /img/plan-camping-kampeerplaats.png
-    en:  /img/plan-camping-kampeerplaats.png
 plan_mobilhome:
-    nl:  /img/plan-camping-mobilhome.png
-    de:  /img/plan-camping-mobilhome.png
-    fr:  /img/plan-camping-mobilhome.png
-    en:  /img/plan-camping-mobilhome.png
+    nl:  /img/plan-camping-kampeerplaats.jpg
+    de:  /img/plan-camping-kampeerplaats.jpg
+    fr:  /img/plan-camping-kampeerplaats.jpg
+    en:  /img/plan-camping-kampeerplaats.jpg
 plan_tent:
-    nl:  /img/plan-camping-tent.png
-    de:  /img/plan-camping-tent.png
-    fr:  /img/plan-camping-tent.png
-    en:  /img/plan-camping-tent.png
+    nl:  /img/plan-camping-tent.jpg
+    de:  /img/plan-camping-tent.jpg
+    fr:  /img/plan-camping-tent.jpg
+    en:  /img/plan-camping-tent.jpg
 plan_appcomf4plus:
     nl:  /img/plan-camping-appcomf4plus.png
     de:  /img/plan-camping-appcomf4plus.png

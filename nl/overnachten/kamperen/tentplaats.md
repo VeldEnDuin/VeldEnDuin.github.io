@@ -13,26 +13,17 @@ preview:
         - "dichtbij sanitair"
 
 images:
-    - /img/overnachten/trekkers-tent/tent-01.jpg
-    - /img/overnachten/trekkers-tent/tent-02.jpg
-    - /img/overnachten/trekkers-tent/tent-03.jpg
-    - /img/overnachten/trekkers-tent/tent-04.jpg
-    - /img/overnachten/trekkers-tent/tent-05.jpg
-    - /img/overnachten/trekkers-tent/tent-06.jpg
-    - /img/overnachten/trekkers-tent/tent-07.jpg
     - /img/overnachten/trekkers-tent/tent-08.jpg
-    - /img/overnachten/trekkers-tent/tent-09.jpg
+    - /img/overnachten/trekkers-tent/tent-01.jpg
+    - /img/overnachten/trekkers-tent/tent-03.jpg
     - /img/overnachten/trekkers-tent/tent-10.jpg
-
-
-
 
 insert:
     - page-images-top
 ---
 {% include links.md %}
 
-We hebben de keuze uit 2 types tentplaatsen.  Op de plaatsen van 7x8 is het heerlijk kamperen met  z’n tweetjes. Met meer personen of graag wat meer ruimte? Kies dan voor de grote tentplaats.
+Vanaf 2024 bieden we nog 1 tentplaats aan voor een kleine tot middelgrote tent tot maximum 4 personen. Deze plaats ligt dichtbij het speelplein, het sanitair en tegenover de parking en zal online boekbaar zijn vanaf de tweede helft van februari. 
 
 ## Goed om weten
 
@@ -42,8 +33,11 @@ We hebben de keuze uit 2 types tentplaatsen.  Op de plaatsen van 7x8 is het heer
 - winterperiode 15/11-15/3: gesloten
 
 
-## Prijzen 2023 per nacht
+## Prijzen 2024 per nacht
+ 
+De prijzen 2024 worden tegen eind februari gepubliceerd. Vanaf dat moment zal het ook mogelijk zijn online een plaats te reserveren.
 
+<!-- // START VERBERGEN
 ### Tentplaats 7x8
 
 AANTAL PERSONEN | LAAGSEIZOEN | HOOGSEIZOEN      
@@ -66,6 +60,7 @@ AANTAL PERSONEN | LAAGSEIZOEN | HOOGSEIZOEN
 
 * 15/7 - 15/8: reservatie vanaf 7 nachten
 * hoogseizoen: paasvakantie juli - augustus - verlengde weekends
+// END VERBERGEN -->
 
 
 {% include nl/trekker-reuse.md %}
