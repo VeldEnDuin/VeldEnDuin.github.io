@@ -8,10 +8,11 @@ preview:
     text:
         - Genießen Sie zu jeder Jahreszeit einen wundervollen Aufenthalt an der Küste in einem luxuriösen Wohnwagen. 
         - Zurzeit haben wir einige schöne Stellplätze für Wohnwagen bis zu 10 Metern Länge zur Verfügung.  Bis zum Sommer 2024 werden wir außerdem 4 weitere geräumige Stellplätze rund um das Wadi errichten.
+    image: /img/eigenstekje.jpg
 
 
 images:
-    - /img/eigenstekje.jpg
+    - /img/percelen/residentieel0.jpg
     - /img/percelen/residentieel1.jpg
     - /img/percelen/residentieel2.jpg
     - /img/percelen/residentieel3.jpg

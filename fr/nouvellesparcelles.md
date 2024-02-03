@@ -8,10 +8,10 @@ preview:
     text:
         - Venez profiter d'un merveilleux séjour sur la côte dans une caravane luxueuse en toute saison. 
         - Nous disposons actuellement de quelques belles emplacements pour les caravanes jusqu'à 10 mètres.  D'ici l'été 2024, nous créerons également 4 parcelles plus spacieuses autour de l'oued.
-
+    image: /img/eigenstekje.jpg
 
 images:
-    - /img/eigenstekje.jpg
+    - /img/percelen/residentieel0.jpg
     - /img/percelen/residentieel1.jpg
     - /img/percelen/residentieel2.jpg
     - /img/percelen/residentieel3.jpg

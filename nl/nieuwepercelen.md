@@ -8,9 +8,10 @@ preview:
     text:
         - Kom in elk seizoen genieten van een zalig verblijf aan de kust in een luxueuze caravan. 
         - We hebben momenteel een paar mooie plaatsen vrij voor caravans tot 10 meter.  Tegen de zomer van 2024 leggen we nog 4 extra ruime percelen rond de wadi aan.  
+    image: /img/eigenstekje.jpg
 
 images:
-    - /img/eigenstekje.jpg
+    - /img/percelen/residentieel0.jpg
     - /img/percelen/residentieel1.jpg
     - /img/percelen/residentieel2.jpg
     - /img/percelen/residentieel3.jpg

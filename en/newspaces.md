@@ -8,10 +8,11 @@ preview:
     text:
         - Come enjoy a wonderful stay on the coast in a luxurious caravan in any season. 
         - We currently have a few beautiful pitches available for caravans up to 10 metres.  By the summer of 2024, we will also create 4 extra spacious plots around the wadi.
+    image: /img/eigenstekje.jpg
 
 
 images:
-    - /img/eigenstekje.jpg
+    - /img/percelen/residentieel0.jpg
     - /img/percelen/residentieel1.jpg
     - /img/percelen/residentieel2.jpg
     - /img/percelen/residentieel3.jpg
