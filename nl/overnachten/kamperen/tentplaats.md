@@ -8,8 +8,8 @@ preview:
         price: 21
         for: per nacht
     list:
-        - "kleine tentplaats: 7x8"
-        - "grote tentplaats: 10x8"
+        - "tentplaats max 4 personen"
+        - "dichtbij speelplein"
         - "dichtbij sanitair"
 
 images:

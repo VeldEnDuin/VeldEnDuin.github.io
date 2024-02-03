@@ -3,14 +3,14 @@ layout: page
 title: Platz Wohnmobil / Wohnwagen verhardet
 description: geräumige und gepflasterte Stellplätze für Camper
 preview:
-    title: Platz verhardet 10x8
+    title: Platz verhardet
     button:
         price: 23
         for: pro Nacht
     list:
-        - "befestigte Plätze"
         - "Wohnmobil / Wohnwagen max 8m"
         - "Nahe bei Sanitäranlagen"
+        - "rund um das Wadi"
 images:
     - /img/overnachten/trekkers-mob-10x8/mob10x8-01.jpg
     - /img/overnachten/trekkers-mob-10x8/mob10x8-02.jpg

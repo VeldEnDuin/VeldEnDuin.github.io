@@ -8,8 +8,8 @@ preview:
         price: 21
         for: per night     
     list:
-        - "small pitch: 7x8"
-        - "big pitch: 10x8"
+        - "tent site max 4 persons"
+        - "near playground"
         - "close to the sanitary block"
 
 images:

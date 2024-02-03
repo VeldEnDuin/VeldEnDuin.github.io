@@ -8,8 +8,8 @@ preview:
         price: 21
         for: pro Nacht
     list:
-        - "kleine Plätze: 7x8"
-        - "grosse Plätze: 10x8"
+        - "Zeltplatz max 4 Personen"
+        - "Nahe bei Spielplatz"
         - "Nahe bei Sanitäranlagen"
 
 images:

@@ -3,14 +3,14 @@ layout: page
 title: Emplacement pour mobilhome / caravane 10x8
 description: emplacements spacieux et pavés pour les campeurs
 preview:
-    title: Emplacement endurci 10x8
+    title: Emplacement endurci
     button:
         price: 23
         for: par nuit
     list:
-        - "emplacement endurci"
         - "mobilhomes / caravanes max 8m"
         - "à proximité des sanitaires"
+        - "autour de l'oued"
 images:
     - /img/overnachten/trekkers-mob-10x8/mob10x8-01.jpg
     - /img/overnachten/trekkers-mob-10x8/mob10x8-02.jpg

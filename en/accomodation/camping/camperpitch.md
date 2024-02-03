@@ -3,14 +3,14 @@ layout: page
 title: Paved pitch camper / caravan
 description: spacious and paved pitches for campers
 preview:
-    title: Paved pitch 10x8
+    title: Paved pitch
     button:
         price: 23
         for: per night
     list:
-        - "paved areas"
         - "mobilhomes / caravans max 8m"
         - "sanitary block nearby"
+        - "around the wadi"
 images:
     - /img/overnachten/trekkers-mob-10x8/mob10x8-01.jpg
     - /img/overnachten/trekkers-mob-10x8/mob10x8-02.jpg

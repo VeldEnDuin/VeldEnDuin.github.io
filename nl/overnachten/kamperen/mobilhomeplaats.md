@@ -3,14 +3,14 @@ layout: page
 title: Verharde plaats mobilhome / trekcaravan 10x8
 description: ruime en verharde percelen voor campers of trekcaravans
 preview:
-    title: Verharde plaats 10x8
+    title: Verharde plaats
     button:
         price: 23
         for: per nacht
     list:
-        - "verharde plaatsen"
         - "mobilhomes / trekcaravans max 8 m"
         - "dichtbij sanitair"
+        - "rond de wadi"
 images:
     - /img/overnachten/trekkers-mob-10x8/mob10x8-01.jpg
     - /img/overnachten/trekkers-mob-10x8/mob10x8-02.jpg

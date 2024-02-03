@@ -8,9 +8,9 @@ preview:
         price: 21
         for: par nuit
     list:
-        - "petits emplacements: 7x8"
-        - "grands emplacements: 10x8"
-        - "à proximité des sanitaires"
+        - "emplacement max 4 personnes"
+        - "près de l'aire de jeux"
+        - "près des sanitaires"
 
 images:
     - /img/overnachten/trekkers-tent/tent-01.jpg
