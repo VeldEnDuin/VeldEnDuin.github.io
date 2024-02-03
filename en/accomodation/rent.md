@@ -10,7 +10,7 @@ preview:
     title: Taking a break
     text:
         - Fancy a break from the daily routine? Book a stay in one of our comfortable chalets or apartments and enjoy a wonderful stay soon.
-        - "Tip: booking directly is 10% cheaper than via Booking or Airbnb."
+        - "Tip: booking directly is 12% cheaper than via Booking or Airbnb."
 
     image: /img/overnachten/chalet-comfort-4-plus.jpg
 

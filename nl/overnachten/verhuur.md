@@ -10,7 +10,7 @@ preview:
     title: Er even tussenuit?
     text:
         - Boek nu online een comfortabel verblijf in onze chalets of appartementen en geniet straks van een zalig en zorgeloos verblijf.
-        - "Tip: rechtstreeks boeken is 10% goedkoper dan via Booking of Airbnb."
+        - "Tip: rechtstreeks boeken is 12% goedkoper dan via Booking of Airbnb."
 
     image: /img/overnachten/chalet-comfort-4-plus.jpg
 
