@@ -50,8 +50,7 @@ nl:
         studio:                   Studio
         comfort4plus_appartement: Appartement Comfort 4+
         mobilhome10x8:            Verharde plaats
-        tent10x8:                 Tentplaats 10x8
-        tent7x8:                  Tentplaats 7x8
+        tent10x8:                 Tentplaats
 
 fr:
     label: FR
@@ -100,8 +99,7 @@ fr:
         studio:                   Studio
         comfort4plus_appartement: Appartement Comfort 4+
         mobilhome10x8:            Emplacement endurci
-        tent10x8:                 Emplacement tente 10x8
-        tent7x8:                  Emplacement tente 7x8
+        tent10x8:                 Emplacement tente
 
 
 de:
@@ -151,8 +149,7 @@ de:
         studio:                   Studio
         comfort4plus_appartement: Apartment Comfort 4+
         mobilhome10x8:            Platz verhardet
-        tent10x8:                 Zeltplatz 10x8
-        tent7x8:                  Zeltplatz 7x8
+        tent10x8:                 Zeltplatz
 
 
 en:
@@ -202,5 +199,4 @@ en:
         studio:                   Studio
         comfort4plus_appartement: Apartment Comfort 4+
         mobilhome10x8:            Paved pitch
-        tent10x8:                 Tent Pitch 10x8
-        tent7x8:                  Tent Pitch 7x8
+        tent10x8:                 Tent Pitch

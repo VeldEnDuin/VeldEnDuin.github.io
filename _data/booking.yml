@@ -48,7 +48,3 @@ rooms:
         id: 34295
         location: 7772
         group: kamperen
-    tent7x8:
-        id: 34296
-        location: 7772
-        group: kamperen
