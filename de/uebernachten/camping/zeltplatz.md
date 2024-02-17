@@ -34,33 +34,18 @@ Ab 2024 haben wir noch 1 Zeltplatz für ein kleines bis mittleres Zelt für bis 
 
 ## Preise 2024 pro Nacht
 
-Die Preise für 2024 werden bis Ende Februar veröffentlicht. Ab diesem Zeitpunkt wird es auch möglich sein, einen Camperplatz online zu buchen.
-
-
-<!-- // START VERBERGEN
-### Zeltplatz 7x8m
+### Zeltplatz 
 
 ANZAHL PERSONEN | NEBENSAISON | HOCHSAISON      
-:-------------:|:-----------:|:-----------:|
-1 Person       |€ 21         |€ 24     
-2 Personen     |€ 23         |€ 26           
-3 Personen     |€ 25         |€ 28
-4 Personen     |€ 27         |€ 30     
+:--------------:|:-----------:|:-----------:|
+1 Person        |€ 22         |€ 27
+2 Personen      |€ 24         |€ 29           
+3 Personen      |€ 27         |€ 32
+4 Personen      |€ 30         |€ 35     
 
-### Zeltplatz 10x8m
-
-ANZAHL PERSONEN | NEBENSAISON | HOCHSAISON      
-:-------------:|:-----------:|:-----------:|
-1 Person       |€ 23         |€ 29      
-2 Personen     |€ 25         |€ 31           
-3 Personen     |€ 27         |€ 33
-4 Personen     |€ 29         |€ 35     
-5 Personen     |€ 31         |€ 37
-6 Personen     |€ 33         |€ 39
-
-* 15.7. bis 15.8.: Reservierung ab 7 Nächten
+* 6.7. bis 22.8.: Reservierung ab 7 Nächten
 * Hochsaison: Osterurlaub - Juli - August - verlängerte Wochenenden
-// END VERBERGEN -->
+* Kinder bis zu 2 Jahren: kostenlos
 
 
 {% include de/kurzzeitcamper-reuse.md %}

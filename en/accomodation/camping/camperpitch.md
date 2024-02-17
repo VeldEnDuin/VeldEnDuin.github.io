@@ -38,21 +38,18 @@ Combine the freedom of travelling with a camper with the comfort of our campsite
 
 ## Prices 2024 per night
 
-The 2024 prices will be published by the end of February. From then on, it will also be possible to book a pitch online.
+### Tent Pitch
 
-<!-- // START VERBERGEN
 NUMBER OF PERSONS | LOW SEASON | HIGH SEASON      
-:-------------:|:-----------:|:-----------:|
-1 person      |€ 23          |€ 29   
-2 persons     |€ 25          |€ 31
-3 persons     |€ 27          |€ 33
-4 persons     |€ 29          |€ 35   
-5 persons     |€ 31          |€ 37
-6 persons     |€ 33          |€ 39
+:----------------:|:----------:|:-----------:|
+1 person          |€ 22        |€ 27   
+2 persons         |€ 24        |€ 29
+3 persons         |€ 27        |€ 32
+4 persons         |€ 30        |€ 35   
 
-* 15/7 - 15/8: upon reservation as from 7 nights
+* 6/7 - 22/8: upon reservation as from 7 nights
 * high season: Easter holiday - July - August - long weekends
-// END VERBERGEN -->
+* children up to 2 years: free
 
 
 {% include en/hiker-reuse.md %}

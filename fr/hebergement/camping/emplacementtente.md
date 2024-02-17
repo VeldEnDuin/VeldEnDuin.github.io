@@ -34,33 +34,19 @@ A partir de 2024, il nous reste 1 emplacement pour une tente de taille petite à
 
 ## Prix 2024 par nuit
 
-Les prix pour 2024 seront publiés à la fin du mois de février. À partir de cette date, il sera également possible de réserver une place en ligne.
-
-<!-- // START VERBERGEN
-### Emplacement 7x8m
+### Emplacement tente
 
 NOMBRE DE PERSONNES |BASSE SAISON |HAUTE SAISON
 :------------------:|:-----------:|:-----------:|
-1 personne          |€ 21         |€ 24     
-2 personnes         |€ 23         |€ 26          
-3 personnes         |€ 25         |€ 28
-4 personnes         |€ 27         |€ 30
-
-### Emplacement 10x8m
-
-NOMBRE DE PERSONNES |BASSE SAISON |HAUTE SAISON
-:------------------:|:-----------:|:-----------:|
-1 personne          |€ 23         |€ 29    
-2 personnes         |€ 25         |€ 31
-3 personnes         |€ 27         |€ 33
-4 personnes         |€ 29         |€ 35
-5 personnes         |€ 31         |€ 37
-6 personnes         |€ 33         |€ 39
+1 personne          |€ 22         |€ 27
+2 personnes         |€ 24         |€ 29          
+3 personnes         |€ 27         |€ 32
+4 personnes         |€ 30         |€ 35
 
 
-* 15/7 - 15/8: réservation à partir de 7 nuits
+* 6/7 - 22/8: réservation à partir de 7 nuits
 * haute saison: vacances de Pâques - juillet - août - week-ends prolongés
-// END VERBERGEN -->
+* enfants jusqu'à 2 ans: gratuit
 
 
 {% include fr/camping-reuse.md %}
