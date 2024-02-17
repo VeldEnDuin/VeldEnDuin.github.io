@@ -39,21 +39,18 @@ Kombinieren Sie die Freiheit des Reisens mit einem Wohnmobil mit dem Komfort uns
 
 ## Preise 2024 pro Nacht
 
-Die Preise für 2024 werden bis Ende Februar veröffentlicht. Ab diesem Zeitpunkt wird es auch möglich sein, einen Camperplatz online zu buchen.
-
-<!-- // START VERBERGEN
 ANZAHL PERSONEN | NEBENSAISON | HOCHSAISON      
-:-------------:|:-----------:|:-----------:|
-1 Person       |€ 23         |€ 29      
-2 Personen     |€ 25         |€ 31           
-3 Personen     |€ 27         |€ 33
-4 Personen     |€ 29         |€ 35     
-5 Personen     |€ 31         |€ 37
-6 Personen     |€ 33         |€ 39
+:--------------:|:-----------:|:-----------:|
+1 Person        |€ 25         |€ 32
+2 Personen      |€ 27         |€ 34           
+3 Personen      |€ 30         |€ 37
+4 Personen      |€ 33         |€ 40     
+5 Personen      |€ 36         |€ 43
+6 Personen      |€ 39         |€ 46
 
 * 15.7. bis 15.8.: Reservierung ab 7 Nächten
 * Hochsaison: Osterurlaub - Juli - August - verlängerte Wochenenden
-// END VERBERGEN -->
+* Kinder bis zu 2 Jahren: kostenlos
 
 
 {% include de/kurzzeitcamper-reuse.md %}

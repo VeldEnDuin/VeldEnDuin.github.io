@@ -39,22 +39,19 @@ Combinez la liberté de vacances en mobile home au confort offert par notre camp
 
 ## Prix 2024 par nuit
 
-Les prix pour 2024 seront publiés à la fin du mois de février. À partir de cette date, il sera également possible de réserver une place en ligne.
-
-<!-- // START VERBERGEN
 NOMBRE DE PERSONNES |BASSE SAISON |HAUTE SAISON
 :------------------:|:-----------:|:-----------:|
-1 personne          |€ 23         |€ 29    
-2 personnes         |€ 25         |€ 31
-3 personnes         |€ 27         |€ 33
-4 personnes         |€ 29         |€ 35
-5 personnes         |€ 31         |€ 37
-6 personnes         |€ 33         |€ 39
+1 personne          |€ 25         |€ 32
+2 personnes         |€ 27         |€ 34
+3 personnes         |€ 30         |€ 37
+4 personnes         |€ 33         |€ 40
+5 personnes         |€ 36         |€ 43
+6 personnes         |€ 39         |€ 46
 
 
 * 15/7 - 15/8: réservation à partir de 7 nuits
 * haute saison: vacances de Pâques - juillet - août - week-ends prolongés
-// END VERBERGEN -->
+* enfants jusqu'à 2 ans: gratuit
 
 {% include fr/camping-reuse.md %}
 

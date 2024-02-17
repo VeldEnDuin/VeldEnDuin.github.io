@@ -40,21 +40,18 @@ Onze camperplaatsen worden tegen de zomer van 2024 volledig vernieuwd. Er komen 
 
 ## Prijzen 2024 per nacht
  
-De prijzen 2024 worden tegen eind februari gepubliceerd. Vanaf dat moment zal het ook mogelijk zijn online een plaats te reserveren.
-
-<!-- // START VERBERGEN
 AANTAL PERSONEN | LAAGSEIZOEN | HOOGSEIZOEN      
-:-------------:|:-----------:|:-----------:|
-1 persoon      |€ 23         |€ 29    
-2 personen     |€ 25         |€ 31          
-3 personen     |€ 27         |€ 33
-4 personen     |€ 29         |€ 35    
-5 personen     |€ 31         |€ 37
-6 personen     |€ 33         |€ 39
+:--------------:|:-----------:|:-----------:|
+1 persoon       |€ 25         |€ 32
+2 personen      |€ 27         |€ 34          
+3 personen      |€ 30         |€ 37
+4 personen      |€ 33         |€ 40    
+5 personen      |€ 36         |€ 43
+6 personen      |€ 39         |€ 46
 
 * 15/7 - 15/8: reservatie vanaf 7 nachten
 * hoogseizoen: paasvakantie, juli - augustus - verlengde weekends
-// END VERBERGEN -->
+* kinderen t.e.m 2 jaar: gratis
 
 {% include nl/trekker-reuse.md %}
 

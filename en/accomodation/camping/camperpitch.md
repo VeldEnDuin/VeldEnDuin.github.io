@@ -38,14 +38,15 @@ Combine the freedom of travelling with a camper with the comfort of our campsite
 
 ## Prices 2024 per night
 
-### Tent Pitch
 
 NUMBER OF PERSONS | LOW SEASON | HIGH SEASON      
 :----------------:|:----------:|:-----------:|
-1 person          |€ 22        |€ 27   
-2 persons         |€ 24        |€ 29
-3 persons         |€ 27        |€ 32
-4 persons         |€ 30        |€ 35   
+1 person          |€ 25        |€ 32   
+2 persons         |€ 27        |€ 34
+3 persons         |€ 30        |€ 37
+4 persons         |€ 33        |€ 40   
+5 persons         |€ 36        |€ 43   
+6 persons         |€ 39        |€ 46   
 
 * 6/7 - 22/8: upon reservation as from 7 nights
 * high season: Easter holiday - July - August - long weekends
