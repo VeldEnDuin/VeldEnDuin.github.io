@@ -5,7 +5,7 @@ description: keuze tussen tentplaats van 7x8 of 10x8
 preview:
     title: Tentplaats
     button:
-        price: 21
+        price: 22
         for: per nacht
     list:
         - "tentplaats max 4 personen"
@@ -23,18 +23,17 @@ insert:
 ---
 {% include links.md %}
 
-Vanaf 2024 bieden we nog 1 tentplaats aan voor een kleine tot middelgrote tent tot maximum 4 personen. Deze plaats ligt dichtbij het speelplein, het sanitair en tegenover de parking en zal online boekbaar zijn vanaf de tweede helft van februari. 
+Vanaf 2024 bieden we nog 1 tentplaats aan voor een kleine tot middelgrote tent tot maximum 4 personen. Deze plaats ligt dichtbij het speelplein, het sanitair en tegenover de parking.
 
 ## Goed om weten
 
-- tentplaats 7x8: max 4 personen / plaats
-- tentplaats 10x8: max 6 personen / plaats
+- max 4 personen / plaats
 - honden toegelaten - max 2 - aan de leiband - geen gevaarlijke rassen
 - winterperiode 15/11-15/3: gesloten
 
 
 ## Prijzen 2024 per nacht
- 
+
 ### Tentplaats
 
 AANTAL PERSONEN | LAAGSEIZOEN | HOOGSEIZOEN      

@@ -5,7 +5,7 @@ description: emplacements spacieux et pavés pour les campeurs
 preview:
     title: Emplacement endurci
     button:
-        price: 23
+        price: 25
         for: par nuit
     list:
         - "mobilhomes / caravanes max 8m"
@@ -49,7 +49,7 @@ NOMBRE DE PERSONNES |BASSE SAISON |HAUTE SAISON
 6 personnes         |€ 39         |€ 46
 
 
-* 15/7 - 15/8: réservation à partir de 7 nuits
+* 6/7 - 22/8: réservation à partir de 7 nuits
 * haute saison: vacances de Pâques - juillet - août - week-ends prolongés
 * enfants jusqu'à 2 ans: gratuit
 

@@ -5,7 +5,7 @@ description: Wahl zwischen einem Zeltplatz von 7x8 oder 10x8
 preview:
     title: Zeltplatz
     button:
-        price: 21
+        price: 22
         for: pro Nacht
     list:
         - "Zeltplatz max 4 Personen"
@@ -23,7 +23,7 @@ insert:
 ---
 {% include links.md %}
 
-Ab 2024 haben wir noch 1 Zeltplatz für ein kleines bis mittleres Zelt für bis zu 4 Personen. Dieser Stellplatz befindet sich in der Nähe des Spielplatzes, der sanitären Anlagen und gegenüber dem Parkplatz und kann ab der zweiten Februarhälfte online gebucht werden.
+Ab 2024 haben wir noch 1 Zeltplatz für ein kleines bis mittleres Zelt für bis zu 4 Personen. Dieser Stellplatz befindet sich in der Nähe des Spielplatzes, der sanitären Anlagen und gegenüber dem Parkplatz.
 
 ## Gut zu wissen
 
@@ -34,7 +34,7 @@ Ab 2024 haben wir noch 1 Zeltplatz für ein kleines bis mittleres Zelt für bis 
 
 ## Preise 2024 pro Nacht
 
-### Zeltplatz 
+### Zeltplatz
 
 ANZAHL PERSONEN | NEBENSAISON | HOCHSAISON      
 :--------------:|:-----------:|:-----------:|

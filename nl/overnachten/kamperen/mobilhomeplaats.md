@@ -29,7 +29,7 @@ insert:
 
 Combineer de vrijheid van het reizen met een mobilhome met het comfort van onze camping.
 
-Onze camperplaatsen worden tegen de zomer van 2024 volledig vernieuwd. Er komen 8 erg mooie, ruime en comfortabele plaatsen rond de wadi en dichtbij het sanitair. 
+Onze camperplaatsen worden tegen de zomer van 2024 volledig vernieuwd. Er komen 8 erg mooie, ruime en comfortabele plaatsen rond de wadi en dichtbij het sanitair.
 
 ## Goed om weten
 
@@ -39,7 +39,7 @@ Onze camperplaatsen worden tegen de zomer van 2024 volledig vernieuwd. Er komen 
 - winterperiode 15/11-15/3: gesloten
 
 ## Prijzen 2024 per nacht
- 
+
 AANTAL PERSONEN | LAAGSEIZOEN | HOOGSEIZOEN      
 :--------------:|:-----------:|:-----------:|
 1 persoon       |€ 25         |€ 32
@@ -49,8 +49,8 @@ AANTAL PERSONEN | LAAGSEIZOEN | HOOGSEIZOEN
 5 personen      |€ 36         |€ 43
 6 personen      |€ 39         |€ 46
 
-* 15/7 - 15/8: reservatie vanaf 7 nachten
-* hoogseizoen: paasvakantie, juli - augustus - verlengde weekends
+* 6/7 - 22/8: reservatie vanaf 7 nachten
+* hoogseizoen: paasvakantie - juli - augustus - verlengde weekends
 * kinderen t.e.m 2 jaar: gratis
 
 {% include nl/trekker-reuse.md %}

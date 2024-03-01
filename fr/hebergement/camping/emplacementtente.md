@@ -5,7 +5,7 @@ description: choix entre un emplacement tente de 7x8 ou 10x8
 preview:
     title: Emplacement Tente
     button:
-        price: 21
+        price: 22
         for: par nuit
     list:
         - "emplacement max 4 personnes"
@@ -23,7 +23,7 @@ insert:
 ---
 {% include links.md %}
 
-A partir de 2024, il nous reste 1 emplacement pour une tente de taille petite à moyenne pouvant accueillir jusqu'à 4 personnes. Cet emplacement est situé à proximité de l'aire de jeux, des installations sanitaires et en face du parking. Il pourra être réservé en ligne à partir de la deuxième quinzaine de février.
+A partir de 2024, il nous reste 1 emplacement pour une tente de taille petite à moyenne pouvant accueillir jusqu'à 4 personnes. Cet emplacement est situé à proximité de l'aire de jeux, des installations sanitaires et en face du parking. 
 
 
 ## Bon à savoir

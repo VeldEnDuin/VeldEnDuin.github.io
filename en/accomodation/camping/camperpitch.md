@@ -5,7 +5,7 @@ description: spacious and paved pitches for campers
 preview:
     title: Paved pitch
     button:
-        price: 23
+        price: 25
         for: per night
     list:
         - "mobilhomes / caravans max 8m"
