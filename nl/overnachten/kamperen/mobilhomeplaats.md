@@ -5,7 +5,7 @@ description: ruime en verharde percelen voor campers of trekcaravans
 preview:
     title: Verharde plaats
     button:
-        price: 23
+        price: 25
         for: per nacht
     list:
         - "mobilhomes / trekcaravans max 8 m"
