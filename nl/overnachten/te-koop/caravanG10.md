@@ -28,7 +28,7 @@ insert:
 
 ## Infofiche
 
-CARAVAN G 05                | INFO        |
+CARAVAN G 10                | INFO        |
 :---------------------------|:------------|
 Merk                        |Swift
 Type                        |Adventurer 35/12/2

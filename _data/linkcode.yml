@@ -293,14 +293,22 @@ b_51:
     nl: /nl/overnachten/te-koop/chaletB51.html
     fr: /fr/hebergement/a-vendre/chaletB51.html
     de: /de/uebernachten/zu-kaufen/chaletB51.html
-b_67:
-    nl: /nl/overnachten/te-koop/chaletB67.html
-    fr: /fr/hebergement/a-vendre/chaletB67.html
-    de: /de/uebernachten/zu-kaufen/chaletB67.html
+b_73:
+    nl: /nl/overnachten/te-koop/chaletB73.html
+    fr: /fr/hebergement/a-vendre/chaletB73.html
+    de: /de/uebernachten/zu-kaufen/chaletB73.html
+b_75:
+    nl: /nl/overnachten/te-koop/chaletB75.html
+    fr: /fr/hebergement/a-vendre/chaletB75.html
+    de: /de/uebernachten/zu-kaufen/chaletB75.html
 c_30:
     nl: /nl/overnachten/te-koop/caravanC30.html
     fr: /fr/hebergement/a-vendre/caravanC30.html
     de: /de/uebernachten/zu-kaufen/caravanC30.html
+d_44:
+    nl: /nl/overnachten/te-koop/caravanD44.html
+    fr: /fr/hebergement/a-vendre/caravanD44.html
+    de: /de/uebernachten/zu-kaufen/caravanD44.html
 g_05:
     nl: /nl/overnachten/te-koop/caravanG05.html
     fr: /fr/hebergement/a-vendre/caravanG05.html
