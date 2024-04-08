@@ -42,4 +42,4 @@ Distribution des lits       |1x lit double + 2x lits simples
 Fenêtres                    |double vitrage
 Chauffage                   |chauffage central
 Mobilier de caravane        |pas inclus
-Indemnité de résidence 2023 |inclus
+Indemnité de résidence 2024 |pas inclus

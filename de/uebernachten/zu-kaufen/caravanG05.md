@@ -41,4 +41,4 @@ Verteilung von Betten       |1x Doppelbett + 2x Einzelbette
 Fenster                     |Doppelverglasung
 Heizung                     |Zentralheizung
 Hausrat                     |nicht inbegriffen
-Standgebühr 2022            |inbegriffen
+Standgebühr 2024            |nicht inbegriffen

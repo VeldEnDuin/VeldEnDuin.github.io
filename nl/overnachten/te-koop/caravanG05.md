@@ -43,4 +43,4 @@ Verdeling bedden            |1x dubbelbed + 2x enkel bed
 Ramen                       |dubbel glas
 Soort verwarming            |centrale verwarming
 Inboedel caravan            |niet inbegrepen
-Standplaatsvergoeding 2023  |inbegrepen
+Standplaatsvergoeding 2024  |niet inbegrepen
