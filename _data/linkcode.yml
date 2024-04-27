@@ -285,19 +285,11 @@ te_koop:
     fr: /fr/hebergement/a-vendre.html
     de: /de/uebernachten/zu-kaufen.html
     en: /en/accomodation/for-sale.html
-b_32:
-    nl: /nl/overnachten/te-koop/chaletB32.html
-    fr: /fr/hebergement/a-vendre/chaletB32.html
-    de: /de/uebernachten/zu-kaufen/chaletB32.html
 b_51:
     nl: /nl/overnachten/te-koop/chaletB51.html
     fr: /fr/hebergement/a-vendre/chaletB51.html
     de: /de/uebernachten/zu-kaufen/chaletB51.html
-b_73:
-    nl: /nl/overnachten/te-koop/chaletB73.html
-    fr: /fr/hebergement/a-vendre/chaletB73.html
-    de: /de/uebernachten/zu-kaufen/chaletB73.html
-b_75:
+    b_75:
     nl: /nl/overnachten/te-koop/chaletB75.html
     fr: /fr/hebergement/a-vendre/chaletB75.html
     de: /de/uebernachten/zu-kaufen/chaletB75.html
