@@ -4,7 +4,7 @@ title: Caravan C 30
 preview:
     title: Caravan C 30
     list:
-        - "prijs: € 17.000"
+        - "prijs: € 16.500"
         - "type 2"
         - "beschikbaar: direct"
 

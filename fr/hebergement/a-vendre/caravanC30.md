@@ -4,7 +4,7 @@ title: Caravane C 30
 preview:
     title: Caravane C 30
     list:
-        - "prix: € 17.000"
+        - "prix: € 16.500"
         - "type 2"
         - "disponible: tout de suite"
 
