@@ -285,18 +285,10 @@ te_koop:
     fr: /fr/hebergement/a-vendre.html
     de: /de/uebernachten/zu-kaufen.html
     en: /en/accomodation/for-sale.html
-b_01:
-    nl: /nl/overnachten/te-koop/chaletB01.html
-    fr: /fr/hebergement/a-vendre/chaletB01.html
-    de: /de/uebernachten/zu-kaufen/chaletB01.html
 b_49:
     nl: /nl/overnachten/te-koop/chaletB49.html
     fr: /fr/hebergement/a-vendre/chaletB49.html
     de: /de/uebernachten/zu-kaufen/chaletB49.html
-b_75:
-    nl: /nl/overnachten/te-koop/chaletB75.html
-    fr: /fr/hebergement/a-vendre/chaletB75.html
-    de: /de/uebernachten/zu-kaufen/chaletB75.html
 g_05:
     nl: /nl/overnachten/te-koop/caravanG05.html
     fr: /fr/hebergement/a-vendre/caravanG05.html
@@ -305,6 +297,10 @@ g_18:
     nl: /nl/overnachten/te-koop/caravanG18.html
     fr: /fr/hebergement/a-vendre/caravanG18.html
     de: /de/uebernachten/zu-kaufen/caravanG18.html
+h_09:
+    nl: /nl/overnachten/te-koop/caravanH09.html
+    fr: /fr/hebergement/a-vendre/caravanH09.html
+    de: /de/uebernachten/zu-kaufen/caravanH09.html
 
 
 # [3] menu - voorzieningen
