@@ -38,7 +38,7 @@ Dessous de caravane fini    |non
 Tiroirs sous caravane       |non
 Terrasse                    |non
 Nombre de chambres à coucher|2
-Distribution des lits       |1x lit double + 2x lits simple
+Distribution des lits       |1x lit double + 2x lit simple
 Fenêtres                    |double vitrage
 Chauffage                   |Truma
 Mobilier de caravane        |inclus sauf choses personnels

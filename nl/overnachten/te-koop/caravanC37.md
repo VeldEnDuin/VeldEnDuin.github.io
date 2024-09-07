@@ -40,7 +40,7 @@ Caravan onderaan afgemaakt? |ja
 Lades onder caravan         |ja
 Terras                      |neen
 Aantal slaapkamers          |2
-Verdeling bedden            |2x dubbelbedden
+Verdeling bedden            |2x dubbelbed
 Ramen                       |enkel glas
 Soort verwarming            |Truma
 Inboedel caravan            |inbegrepen muv persoonlijke zaken

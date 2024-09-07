@@ -37,7 +37,7 @@ Caravan unten fertiggestellt|nein
 Schubladen unter caravan    |nein
 Terrasse                    |nein
 Anzahl Schlafzimmer         |2
-Verteilung von Betten       |1x Doppelbett + 2x Einzelbette
+Verteilung von Betten       |1x Doppelbett + 2x Einzelbett
 Fenster                     |Doppelverglasung
 Heizung                     |Truma
 Hausrat                     |inbegriffen ausserhalb persönliche Sachen
