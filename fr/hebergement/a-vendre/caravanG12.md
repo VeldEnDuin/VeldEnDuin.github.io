@@ -5,7 +5,7 @@ preview:
     title: Caravane G 12
     list:
         - "prix: € 49.000"
-        - "type 3"
+        - "type 4"
         - "disponible: tout de suite"
 
 images:
