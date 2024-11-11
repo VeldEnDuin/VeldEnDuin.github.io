@@ -53,8 +53,9 @@
       submenu:
         - linkcode: te_koop
         - linkcode: b_49
+        - linkcode: b_72
         - linkcode: c_37
-        - linkcode: c_57
+        - linkcode: e_05
         - linkcode: f_08
         - linkcode: g_12
 
