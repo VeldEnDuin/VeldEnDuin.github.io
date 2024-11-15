@@ -4,7 +4,7 @@ title: Caravane E 5
 preview:
     title: Caravane E 5
     list:
-        - "prix: € 60.000"
+        - "prix: € 59.000"
         - "type 2"
         - "disponible: tout de suite"
 
@@ -44,4 +44,4 @@ Distribution des lits       |1x lit double + 2 list simples
 Fenêtres                    |double vitrage
 Chauffage                   |Morco GB24
 Mobilier de caravane        |inclus sauf choses personnels
-Indemnité de résidence 2023 |inclus
+Indemnité de résidence 2024 |inclus

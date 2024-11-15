@@ -4,7 +4,7 @@ title: Caravan E 5
 preview:
     title: Caravan E 5
     list:
-        - "Preis: € 60.000"
+        - "Preis: € 59.000 VB"
         - "type 2"
         - "Verfügbar: ab sofort"
 
@@ -44,4 +44,4 @@ Verteilung von Betten       |1x Doppelbett + 2 Einzelbette
 Fenster                     |Doppelverglasung
 Heizung                     |Morco GB24
 Hausrat                     |inbegriffen ausserhalb persönliche Sachen
-Standgebühr 2023            |inbegriffen
+Standgebühr 2024            |inbegriffen

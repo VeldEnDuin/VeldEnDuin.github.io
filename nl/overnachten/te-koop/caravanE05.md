@@ -4,7 +4,7 @@ title: Caravan E 5
 preview:
     title: Caravan E 5
     list:
-        - "prijs: € 60.000"
+        - "prijs: € 59.000"
         - "type 2"
         - "beschikbaar: direct"
 
@@ -43,4 +43,4 @@ Verdeling bedden            |1x dubbelbed - 2 enkele bedden
 Ramen                       |dubbel glas
 Soort verwarming            |Morco GB24
 Inboedel caravan            |inbegrepen muv persoonlijke zaken
-Standplaatsvergoeding 2023  |inbegrepen
+Standplaatsvergoeding 2024  |inbegrepen
