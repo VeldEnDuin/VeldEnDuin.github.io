@@ -32,7 +32,7 @@ Ab 2024 haben wir noch 1 Zeltplatz für ein kleines bis mittleres Zelt für bis 
 - Winterzeitraum 15.11 - 15.03: geschlossen
 
 
-## Preise 2024 pro Nacht
+## Preise 2025 pro Nacht
 
 ### Zeltplatz
 

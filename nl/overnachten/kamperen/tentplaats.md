@@ -32,7 +32,7 @@ Vanaf 2024 bieden we nog 1 tentplaats aan voor een kleine tot middelgrote tent t
 - winterperiode 15/11-15/3: gesloten
 
 
-## Prijzen 2024 per nacht
+## Prijzen 2025 per nacht
 
 ### Tentplaats
 

@@ -5,7 +5,7 @@ description: ruime en verharde percelen voor campers of trekcaravans
 preview:
     title: Verharde plaats
     button:
-        price: 25
+        price: 26
         for: per nacht
     list:
         - "mobilhomes / trekcaravans max 8 m"
@@ -38,16 +38,16 @@ Onze camperplaatsen worden tegen de zomer van 2024 volledig vernieuwd. Er komen 
 - honden toegelaten: max 2 - aan de leiband - geen gevaarlijke rassen
 - winterperiode 15/11-15/3: gesloten
 
-## Prijzen 2024 per nacht
+## Prijzen 2025 per nacht
 
 AANTAL PERSONEN | LAAGSEIZOEN | HOOGSEIZOEN      
 :--------------:|:-----------:|:-----------:|
-1 persoon       |€ 25         |€ 32
-2 personen      |€ 27         |€ 34          
-3 personen      |€ 30         |€ 37
-4 personen      |€ 33         |€ 40    
-5 personen      |€ 36         |€ 43
-6 personen      |€ 39         |€ 46
+1 persoon       |€ 26         |€ 33
+2 personen      |€ 28         |€ 35          
+3 personen      |€ 31         |€ 38
+4 personen      |€ 34         |€ 41    
+5 personen      |€ 37         |€ 44
+6 personen      |€ 40         |€ 47
 
 * 6/7 - 22/8: reservatie vanaf 7 nachten
 * hoogseizoen: paasvakantie - juli - augustus - verlengde weekends

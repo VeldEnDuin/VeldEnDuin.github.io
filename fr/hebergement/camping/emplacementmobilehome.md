@@ -5,7 +5,7 @@ description: emplacements spacieux et pavés pour les campeurs
 preview:
     title: Emplacement endurci
     button:
-        price: 25
+        price: 26
         for: par nuit
     list:
         - "mobilhomes / caravanes max 8m"
@@ -37,16 +37,16 @@ Combinez la liberté de vacances en mobile home au confort offert par notre camp
 - chiens admis – max. 2 – en laisse – pas de races dangereuses
 - période hiver 15/11-15/3: fermé
 
-## Prix 2024 par nuit
+## Prix 2025 par nuit
 
 NOMBRE DE PERSONNES |BASSE SAISON |HAUTE SAISON
 :------------------:|:-----------:|:-----------:|
-1 personne          |€ 25         |€ 32
-2 personnes         |€ 27         |€ 34
-3 personnes         |€ 30         |€ 37
-4 personnes         |€ 33         |€ 40
-5 personnes         |€ 36         |€ 43
-6 personnes         |€ 39         |€ 46
+1 personne          |€ 26         |€ 33
+2 personnes         |€ 28         |€ 35
+3 personnes         |€ 31         |€ 38
+4 personnes         |€ 34         |€ 41
+5 personnes         |€ 37         |€ 44
+6 personnes         |€ 40         |€ 47
 
 
 * 6/7 - 22/8: réservation à partir de 7 nuits

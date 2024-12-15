@@ -5,7 +5,7 @@ description: geräumige und gepflasterte Stellplätze für Camper
 preview:
     title: Platz verhardet
     button:
-        price: 25
+        price: 26
         for: pro Nacht
     list:
         - "Wohnmobil / Wohnwagen max 8m"
@@ -37,16 +37,16 @@ Kombinieren Sie die Freiheit des Reisens mit einem Wohnmobil mit dem Komfort uns
 - Winterzeitraum 15.11 - 15.03: geschlossen
 
 
-## Preise 2024 pro Nacht
+## Preise 2025 pro Nacht
 
 ANZAHL PERSONEN | NEBENSAISON | HOCHSAISON      
 :--------------:|:-----------:|:-----------:|
-1 Person        |€ 25         |€ 32
-2 Personen      |€ 27         |€ 34           
-3 Personen      |€ 30         |€ 37
-4 Personen      |€ 33         |€ 40     
-5 Personen      |€ 36         |€ 43
-6 Personen      |€ 39         |€ 46
+1 Person        |€ 26         |€ 33
+2 Personen      |€ 28         |€ 35           
+3 Personen      |€ 31         |€ 38
+4 Personen      |€ 34         |€ 41     
+5 Personen      |€ 37         |€ 44
+6 Personen      |€ 40         |€ 47
 
 * 6.7. bis 22.8.: Reservierung ab 7 Nächten
 * Hochsaison: Osterurlaub - Juli - August - verlängerte Wochenenden

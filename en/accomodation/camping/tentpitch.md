@@ -5,7 +5,7 @@ description: choice between a tent pitch of 7x8 or 10x8
 preview:
     title: Tent pitch
     button:
-        price: 21
+        price: 22
         for: per night     
     list:
         - "tent site max 4 persons"
@@ -32,9 +32,9 @@ From 2024, we have 1 tent pitch left for a small to medium-sized tent for up to 
 - dogs allowed - max 2 – no dangerous breeds
 - winter period 15/11-15/03: closed
 
-## Prices 2024 per night
+## Prices 2025 per night
 
-### Tent pitch 
+### Tent pitch
 
 NUMBER OF PERSONS | LOW SEASON | HIGH SEASON      
 :----------------:|:----------:|:-----------:|
