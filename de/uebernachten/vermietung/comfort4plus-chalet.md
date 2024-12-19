@@ -50,6 +50,7 @@ Nach einem herrlichen Tag am Strand oder einem Ausflug in die Umgebung lockt die
 
 - Großes Wohnzimmer mit Flachbildschirm und Digitalfernseher
 - Eingerichtete Küche mit Mikrowelle und Philips Barista (Kaffeekapseln)
+- Willkommenspaket mit Kaffee und Tee
 - Badezimmer mit Dusche, Waschbecken und Toilette
 - Schlafzimmer Chalet:
     - 1 Zimmer mit Doppelbett (140 x 200)
@@ -83,7 +84,7 @@ Bettwäsche und Handtücher können ebenfalls gemietet werden.
 EXTRA               | PREIS
 :-------------------|:-----------|
 Hund                  | € 5 / Nacht - max 2     
-Betttuchpaket       | € 12 / Bett 
+Betttuchpaket       | € 12 / Bett
 Handtuchpaket       | € 6,5 / Paket (1 grosses und 1 kleines Handtuch)
 Kinderbett           | € 2 / Nacht
 Kinderstuhl         | € 2 / Nacht

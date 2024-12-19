@@ -34,7 +34,7 @@ Reservatie mogelijk via de receptie.
 
 | Formule                 | Prijs |
 |-------------------------|:-----:|
-| jaarplaats fietsberging |€ 55 / fiets   |
+| jaarplaats fietsberging |€ 60 / fiets   |
 | plaats huurders / trekkers | € 2 / nacht - waarborg sleutel € 25 |
 
 

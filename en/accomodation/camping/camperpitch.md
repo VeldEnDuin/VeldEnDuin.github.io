@@ -32,6 +32,8 @@ Combine the freedom of travelling with a camper with the comfort of our campsite
 ## Worth knowing
 
 - suitable for mobile homes and caravans up to 8 metres
+- electricity: 10 amps
+- each plot is equipped with water, digital TV and drainage
 - max 6 persons / pitch
 - dogs allowed - max 2 – on the leash – no dangerous breeds
 - winter period 15/11-15/03: closed

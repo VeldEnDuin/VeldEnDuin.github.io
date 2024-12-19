@@ -45,6 +45,7 @@ Venez profiter de l'air marin pendant quelques jours seul ou à deux. Après une
 
 - grande salle de séjour avec écran plat et digibox
 - cuisine équipée avec four à micro-ondes et Philips Barista (capsules de café)
+- paquet de bienvenue avec café et thé
 - salle de bains avec douche, lavabo et toilettes
 - chambre à coucher dans le studio:
     - 1 chambre avec lit double (140x200)

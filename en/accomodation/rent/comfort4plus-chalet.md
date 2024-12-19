@@ -50,6 +50,7 @@ Sit down and relax. Have a glass of wine on the terrace of your chalet after a l
 
 - spacious living room with flat screen and digital TV
 - fully equipped kitchen, microwave and Philips Barista (coffee cups)
+- welcome pack with coffee and tea
 - bathroom with shower, washbasin and toilet
 – bedrooms chalet:
     - 1 room with double bed (140x200)

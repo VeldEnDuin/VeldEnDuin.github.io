@@ -45,6 +45,7 @@ Come and enjoy the sea air for a few days alone or in pairs. After a long walk o
 
 - spacious living room with flat screen and set top box
 - fully equipped kitchen, microwave and Philips Barista (coffee cups)
+- welcome pack with coffee and tea
 - bathroom with shower, washbasin and toilet
 - bedroom studio:
     - 1 room with a double bed (140x200)

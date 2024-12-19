@@ -18,15 +18,13 @@ insert:
     - page-images-top
 remove:
     - imgstrip
-    
+
 
 ---
 {% include links.md %}
 
-Vacances ... enfin le temps de lire un bon livre.
+Vacances… enfin du temps pour profiter d’un bon livre!
 
-Dans notre bibliothèque pop-up, nous proposons une gamme large et diversifiée de livres et de bandes dessinées à emprunter.
+Dans notre cabine de plage, vous trouverez une large sélection variée de livres et de bandes dessinées pour petits et grands. Que vous cherchiez un thriller captivant, un roman inspirant ou une bande dessinée amusante, il y a toujours quelque chose pour rêver.
 
-Dans la bibliothèque, il y a aussi beaucoup de beaux équipements de plage pour que les plus petits puissent jouer dans le sable pendant que maman ou papa sur le banc lit ce thriller passionnant.
-
-
+Notre bibliothèque éphémère est également un endroit idéal pour les tout-petits, car elle propose de nombreux jouets de plage amusants. Pendant que les parents se détendent sur le banc avec une histoire palpitante, les plus jeunes peuvent s’amuser avec nos jouets de plage, construire des châteaux de sable ou partir à la recherche de trésors enfouis.

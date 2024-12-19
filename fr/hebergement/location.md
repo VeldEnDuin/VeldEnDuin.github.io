@@ -9,8 +9,8 @@ class:
 preview:
     title: s'évader un moment?
     text:
-        - Réservez en ligne un séjour confortable dans nos chalets ou appartements et profitez d'un séjour agréable et sans soucis.
-        - "Bon conseil: réserver directement est 12 % plus avantageux que via Booking ou Airbnb."
+        - Réservez en ligne un séjour confortable à quelques pas de la plage.
+        - "Profitez non seulement d’un séjour relaxant à la côte, mais économisez également de l’argent : réserver directement est toujours 12 % moins cher que via Booking ou Airbnb!"
 
     image: /img/overnachten/chalet-comfort-4-plus.jpg
 

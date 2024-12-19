@@ -33,6 +33,8 @@ Combinez la liberté de vacances en mobile home au confort offert par notre camp
 ## Bon à savoir
 
 - convient aux mobil-homes et caravanes tractables d'une longueur maximale de 8 mètres
+- électricité : 10 ampères
+- chaque parcelle est équipée de l'eau, de la télévision numérique et de l'évacuation des eaux usées
 - max. 6 personnes / emplacement
 - chiens admis – max. 2 – en laisse – pas de races dangereuses
 - période hiver 15/11-15/3: fermé

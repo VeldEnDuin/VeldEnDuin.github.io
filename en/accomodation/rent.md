@@ -9,8 +9,8 @@ class:
 preview:
     title: Taking a break
     text:
-        - Fancy a break from the daily routine? Book a stay in one of our comfortable chalets or apartments and enjoy a wonderful stay soon.
-        - "Tip: booking directly is 12% cheaper than via Booking or Airbnb."
+        - Book online a comfortable stay within walking distance of the beach.
+        - "This way, you not only enjoy a relaxing coastal getaway but also save money: booking directly is always 12% cheaper than through Booking or Airbnb!"
 
     image: /img/overnachten/chalet-comfort-4-plus.jpg
 

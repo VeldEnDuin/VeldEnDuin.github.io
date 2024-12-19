@@ -43,6 +43,7 @@ Unser charmantes kleines Haus mit privatem Garten ist ideal für Menschen, die s
 
 - Kleines Wohnzimmer mit Flachbildschirm und Digitalfernseher
 - Küche mit 2-flammigem Herd, kleiner Mikrowelle und Philips Barista (Kaffeekapseln)
+- Willkommenspaket mit Kaffee und Tee
 - Badezimmer mit Dusche und Waschbecken
 - Getrennte Toilette
 - 1 Schlafzimmer mit Doppelbett (140 x 200)
@@ -76,7 +77,7 @@ EXTRA               | PREIS
 :-------------------|:-----------|
 Hund                | € 5 / Nacht - max 1
 Betttuchpaket       | € 12 / Bett
-Handtuchpaket       | € 6,5 / Paket (1 grosses und 1 kleines Handtuch) 
+Handtuchpaket       | € 6,5 / Paket (1 grosses und 1 kleines Handtuch)
 Kinderbett           | € 2 / Nacht
 Kinderstuhl         | € 2 / Nacht
 Parkplatz extra Auto  | € 4 / angefangenem Tag

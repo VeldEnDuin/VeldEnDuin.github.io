@@ -48,6 +48,7 @@ Gelegen boven de receptie bieden deze nieuwe en luxueuze appartementen een mooi 
 
 - ruime woonkamer met flatscreen en digibox
 - ingerichte keuken met vaatwasmachine, microgolf en Philips Barista (koffiecups)
+- welkomstpakketje met koffie en thee
 - badkamer met douche, wastafel en toilet
 - slaapkamers appartement eerste verdieping:
     - 1 kamer met groot dubbelbed (180x200)

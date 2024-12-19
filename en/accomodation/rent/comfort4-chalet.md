@@ -46,6 +46,7 @@ These chalets are situated in front, close to the playground. Well situated for 
 
 - spacious living room with flat screen and digital TV
 - equipped kitchen with microwave and Philips Barista (coffee cups)
+- welcome pack with coffee and tea
 - bathroom with shower, washbasin and toilet
 – bedrooms chalet:
     - 1 room with double bed (140x200)
@@ -78,7 +79,7 @@ Sheet sets and towels can also be rented.
 EXTRA SERVICE               | PRICE
 :-------------------|:-----------|
 dogs               | € 5 / night - max 2
-bed linen        | € 12 / bed 
+bed linen        | € 12 / bed
 towel package       | € 6,5 / package (1 large and 1 small towel)
 baby cot          | € 2 / night
 baby chair         | € 2 / night

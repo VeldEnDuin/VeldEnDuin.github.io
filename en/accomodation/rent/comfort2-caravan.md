@@ -43,6 +43,7 @@ Our charming tiny house with private garden is suitable for those who love being
 
 - small living room with flat screen and digital TV
 - kitchen with cooker (2 hot plates), small microwave and Philips Barista (coffee cups)
+- welcome pack with coffee and tea
 - bathroom with shower and washbasin
 - separate toilet
 - 1 bedroom with a double bed (140x200)

@@ -44,6 +44,7 @@ Sie wollen sich ein wenig allein oder zu zweit den Wind um die Nase wehen lassen
 
 - Großes Wohnzimmer mit Flachbildschirm und Digitalfernseher
 - Eingerichtete Küche mit Mikrowelle und Philips Barista (Kaffeekapseln)
+- Willkommenspaket mit Kaffee und Tee
 - Badezimmer mit Dusche, Waschbecken und Toilette
 - Schlafzimmer Chalet:
     - 1 Zimmer mit Doppelbett (140 x 200)
@@ -80,7 +81,7 @@ EXTRA               | PREIS
 :-------------------|:-----------|
 Hund                | € 5 / Nacht - max 1
 Betttuchpaket       | € 12 / Bett
-Handtuchpaket       | € 6,5 / Paket (1 grosses und 1 kleines Handtuch) 
+Handtuchpaket       | € 6,5 / Paket (1 grosses und 1 kleines Handtuch)
 Kinderbett           | € 2 / Nacht
 Kinderstuhl         | € 2 / Nacht
 Parkplatz extra Auto  | € 4 / angefangenem Tag

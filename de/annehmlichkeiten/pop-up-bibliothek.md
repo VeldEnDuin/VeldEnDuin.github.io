@@ -19,14 +19,13 @@ insert:
 
 remove:
     - imgstrip
-    
+
 
 ---
 {% include links.md %}
 
-Urlaub ... endlich Zeit, ein gutes Buch zu lesen.
+Urlaub… endlich Zeit, ein gutes Buch zu genießen!
 
-In unserer Popup-Bibliothek bieten wir eine breite und vielfältige Auswahl an Büchern und Comics zum Ausleihen.
+In unserer Strandkabine finden Sie eine große und abwechslungsreiche Auswahl an Büchern und Comics für Jung und Alt. Egal, ob Sie einen fesselnden Thriller, einen inspirierenden Roman oder einen lustigen Comic suchen – hier finden Sie immer etwas zum Wegträumen.
 
-Es gibt auch viele schöne Strandartikel für die Kleinen, die in der Bibliothek im Sand spielen können, während Mama oder Papa auf dem Bank diesen aufregenden Thriller lesen.
-
+Unsere Pop-up-Bibliothek ist außerdem ein wunderbarer Ort für die Kleinsten, denn es gibt viele lustige Spielsachen für den Strand. Während die Eltern auf der Bank eine spannende Geschichte genießen, können die Kleinen mit unseren Strandspielsachen Spaß haben, Sandburgen bauen oder Schätze ausgraben.

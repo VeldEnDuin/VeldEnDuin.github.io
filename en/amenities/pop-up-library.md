@@ -19,14 +19,13 @@ insert:
 
 remove:
     - imgstrip
-    
+
 
 ---
 {% include links.md %}
 
-Vacation ... finally time to read a good book.
+Holiday… finally time to enjoy a good book!
 
-In our pop-up library we offer a wide and diverse range of books and comics to borrow.
+In our beach cabin, you’ll find a wide and varied selection of books and comics for young and old. Whether you’re looking for a gripping thriller, an inspiring novel, or a funny comic – you’ll always find something to dream away with.
 
-There is also a lot of nice beach stuff for the little ones to play in the sand in the library while mom or dad on the bench reads that exciting thriller.
-
+Our pop-up library is also a great spot for the little ones, as it’s filled with fun beach toys. While the parents relax on the bench with an exciting story, the little ones can have fun with our beach toys, build sandcastles, or dig for treasures.

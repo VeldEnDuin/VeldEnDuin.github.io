@@ -28,12 +28,12 @@ remove:
 ---
 {% include links.md %}
 
-## Entertainment Veld & Duin 2024
+## Entertainment Veld & Duin 2025
 
 
-| 31/3  | **Easter game**<br>11u <br>playground  |
+| 20/4  | **Easter game**<br>11u <br>playground  |
 
-We are still preparing to offer fun entertainment in the summer of 2024 as well.
+We are still preparing to offer fun entertainment in the summer of 2025 as well.
 
 We like to keep it small scale and look for a nice mix of activities to interest young and not so young.
 

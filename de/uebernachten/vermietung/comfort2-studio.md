@@ -45,6 +45,7 @@ Kommen Sie und genießen Sie die Seeluft für ein paar Tage allein oder zu zweit
 
 - Großes Wohnzimmer mit Flachbildschirm-TV und Digibox
 - Eingerichtete Küche mit Mikrowelle und Philips Barista (Kaffeekapseln)
+- Willkommenspaket mit Kaffee und Tee
 - Badezimmer mit Dusche, Waschbecken und Toilette
 - Schlafzimmer Studio:
     - 1 Zimmer mit Doppelbett (140 x 200)

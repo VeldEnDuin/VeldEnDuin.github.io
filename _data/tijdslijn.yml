@@ -564,12 +564,12 @@ items:
       fr: "Investissements verts"
       de: "Grüne Investitionen"
       en: "Green investments"
-    description: 
+    description:
       nl: "Ook in 2022 investeren we verder in groene energie in de vorm van 180 zonnepannelen op ons sanitairgebouw."
       fr: "En 2022, nous continuerons à investir dans l'énergie verte en installant 180 panneaux solaires sur notre bâtiment sanitaire."
       de: "Im Jahr 2022 werden wir weiter in grüne Energie investieren in Form von 180 Sonnenkollektoren auf unserem Sanitärgebäude."
       en: "In 2022, we will continue to invest in green energy in the form of 180 solar panels on our sanitary building."
-    images: 
+    images:
       - /img/tijdslijn/2022/zonnepanelen-01.jpg
       - /img/tijdslijn/2022/zonnepanelen-02.jpg
       - /img/tijdslijn/2022/zonnepanelen-03.jpg
@@ -582,12 +582,12 @@ items:
       fr: "Aire de jeux"
       de: "Spielplatz"
       en: "Play area"
-    description: 
+    description:
       nl: "Complete vernieuwing van onze speelzone met het waterspeelplein als absolute trekpleister."
       fr: "Rénovation complète de notre zone de jeux, avec l'aire de jeux aquatiques comme point d'orgue."
       de: "Komplette Renovierung unseres Spielbereichs mit dem Wasserspielplatz als absoluter Attraktion."
       en: "Complete renovation of our play area with the water playground as the absolute highlight."
-    images: 
+    images:
       - /img/tijdslijn/2023/speelplein-waterpartij.jpg
 
   - date: 2024-02-01
@@ -597,10 +597,25 @@ items:
       fr: "parcelles de 12 mètres"
       de: "12-Meter-Parzellen"
       en: "12-metre plots"
-    description: 
+    description:
       nl: "Aanleg van 4 luxueuze percelen rondom de wadi."
       fr: "Construction de 4 parcelles de luxe autour de l'oued."
       de: "Bau von 4 Luxusparzellen rund um das Wadi."
       en: "Construction of 4 luxury plots around the wadi."
-    images: 
+    images:
       - /img/tijdslijn/2024/twaalf-meter-percelen.jpg
+
+  - date: 2024-08-30
+    label: 2024
+    title:
+      nl: "Wadiparty"
+      fr: "Wadiparty"
+      de: "Wadiparty"
+      en: "Wadiparty"
+    description:
+      nl: "Onze wadi en de zone errond is helemaal vernieuwd,de perfecte reden om dit te vieren met een fantastisch feest!"
+      fr: "Notre oued et la zone qui l'entoure ont été entièrement rénovés. C'est l'occasion rêvée de faire une fête fantastique!"
+      de: "Unser Wadi und die Umgebung wurden komplett erneuert, der perfekte Grund, um mit einer fantastischen Party zu feiern!"
+      en: "Our wadi and the area around it has been completely renewed,the perfect reason to celebrate with a fantastic party!"
+    images:
+      - /img/tijdslijn/2024/wadi.jpg

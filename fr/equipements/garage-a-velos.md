@@ -34,7 +34,7 @@ Réservation possible à la réception.
 
 | Formule                 | Tarif |
 |-------------------------|:-----:|
-| emplacement annuel      |€ 55 / vélo   |
+| emplacement annuel      |€ 60 / vélo   |
 | emplacement locataires / campeurs | 2 € / nuit – garantie pour la clé 25 € |
 
 

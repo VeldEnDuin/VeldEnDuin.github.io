@@ -44,6 +44,7 @@ Need a break, just for the two of you? Make yourself at home in this cosy chalet
 
 - spacious living room with flat screen and digital TV
 - fully equipped kitchen, microwave and Philips Barista (coffee cups)
+- welcome pack with coffee and tea
 - bathroom with shower, washbasin and toilet
 - bedroom chalet:
     - 1 room with a double bed (140x200)

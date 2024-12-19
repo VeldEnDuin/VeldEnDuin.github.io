@@ -45,6 +45,7 @@ Located above the reception these new and luxurious apartments overlook the flor
 
 - spacious living room with flat screen and set top box
 - equipped kitchen with dishwasher, microwave and Philips Barista (coffee cups)
+- welcome pack with coffee and tea
 - bathroom with shower, washbasin and toilet
 - bedrooms apartment on the first floor:
     - 1 room with a big double bed (180x200)

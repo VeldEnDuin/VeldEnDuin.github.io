@@ -36,7 +36,7 @@ Groen betekent ook streven naar een zo duurzaam mogelijke werking. Hier dragen w
 - gescheiden afvalwater te voorzien bij de aanleg van nieuwe percelen
 - spaardouchekoppen
 - zonnepannelen op de fietsberging en op het sanitairgebouw
-- vanaf 2024: 2 laadpalen voor elektrische auto’s
+- 2 laadpalen voor elektrische auto’s
 
 Elke residentiële plaats beschikt bovendien over aparte water-elektriciteits-en gasmeters zodat onze gasten aangespoord worden om hun ecologische voetafdruk te verkleinen. Ook in de verhuuraccommodaties doen we een warme oproep om niet onnodig energie te verspillen.
 

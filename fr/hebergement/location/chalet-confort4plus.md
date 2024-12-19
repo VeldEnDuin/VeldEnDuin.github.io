@@ -50,6 +50,7 @@ De retour d’une agréable journée à la plage ou d’une balade dans les envi
 
 - grande salle de séjour avec écran plat et TV numérique
 - cuisine équipée avec four à micro-ondes et Philips Barista (capsules de café)
+- paquet de bienvenue avec café et thé
 - salle de bains avec douche, lavabo et toilettes
 - chambres à coucher du chalet:
     - 1 chambre avec lit double (140x200)
@@ -82,7 +83,7 @@ Des draps et des serviettes peuvent également être loués.
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
 chien               | € 5 / nuit - max 2
-draps               | € 12 / lit 
+draps               | € 12 / lit
 paquet de serviettes| € 6,5 / paquet (1 grande et 1 petite serviette)
 lit d'enfant        | € 2 / nuit
 chaise haute        | € 2 / nuit

@@ -9,8 +9,8 @@ class:
 preview:
     title: eine Pause machen?
     text:
-        - Buchen Sie jetzt online einen komfortablen Aufenthalt in unseren Chalets oder Appartements und genießen Sie bald einen wunderbare Aufenthalt.
-        - "Tipp: Direkt buchen ist 12% günstiger als über Booking oder Airbnb."
+        - Buchen Sie online einen komfortablen Aufenthalt in Laufnähe zum Strand.
+        - "So genießen Sie nicht nur einen entspannten Urlaub an der Küste, sondern sparen auch Geld: Direkt buchen ist immer 12 % günstiger als über Booking oder Airbnb!"
 
     image: /img/overnachten/chalet-comfort-4-plus.jpg
 

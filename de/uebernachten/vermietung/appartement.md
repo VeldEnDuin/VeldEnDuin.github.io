@@ -47,6 +47,7 @@ Die Appartements liegen neben dem Campingplatz. So genießen Sie den Platz eines
 
 - Großes Wohnzimmer mit Flachbildschirm-TV und Digibox
 - Eingerichtete Küche mit Mikrowelle und Philips Barista (Kaffeekapseln)
+- Willkommenspaket mit Kaffee und Tee
 - Badezimmer mit Dusche, Waschbecken und Toilette
 - Schlafzimmer Appartement
     - 1 Zimmer mit Doppelbett (140 x 200)
@@ -83,7 +84,7 @@ Bettwäsche und Handtücher können ebenfalls gemietet werden.
 EXTRA               | PREIS
 :-------------------|:-----------|
 Betttuchpaket       | € 12 / Bett
-Handtuchpaket       | € 6,5 / Paket (1 grosses und 1 kleines Handtuch) 
+Handtuchpaket       | € 6,5 / Paket (1 grosses und 1 kleines Handtuch)
 Kinderbett           | € 2 / Nacht
 Kinderstuhl         | € 2 / Nacht
 Parkplatz extra Auto  | € 4 / angefangenem Tag

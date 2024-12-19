@@ -45,6 +45,7 @@ Situés au-dessus de la réception, ces nouveaux appartements luxueux offrent un
 
 - grande salle de séjour avec écran plat et digibox
 - cuisine équipée avec four à micro-ondes et Philips Barista (capsules de café)
+- paquet de bienvenue avec café et thé
 - salle de bains avec douche, lavabo et toilettes
 - chambres à coucher de l’appartement au premier étage:
     - 1 chambre avec un grand lit double (180x200)

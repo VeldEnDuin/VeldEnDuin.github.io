@@ -32,6 +32,8 @@ Kombinieren Sie die Freiheit des Reisens mit einem Wohnmobil mit dem Komfort uns
 ## Gut zu wissen
 
 - geeignet für Wohnmobile und Wohnwagen mit einer Länge von bis zu 8 Metern
+- Strom: 10 Ampere
+- jede Parzelle ist mit Wasser, digitalem TV und Abfluss ausgestattet
 - Höchstens 6 Personen/Platz
 - Hunde zugelassen (höchstens 2) - angeleint -  keine gefährlichen Rassen
 - Winterzeitraum 15.11 - 15.03: geschlossen

@@ -45,6 +45,7 @@ De appartementen liggen net naast de camping. Zo geniet u van de ruimte van een 
 ## Inrichting appartement
 - ruime woonkamer met flatscreen en digibox
 - ingerichte keuken met microgolf en Philips Barista (koffiecups)
+- welkomstpakketje met koffie en thee
 - badkamer met douche, wastafel en toilet
 - slaapkamers appartement:
     - 1 kamer met dubbelbed (140x200)

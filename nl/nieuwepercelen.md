@@ -6,8 +6,8 @@ description: nog 1 ruim perceel vrij
 preview:
     title: eigen stekje aan zee
     text:
-        - Kom in elk seizoen genieten van een zalig verblijf aan de kust in een luxueuze caravan. 
-        - We hebben momenteel een paar mooie plaatsen vrij voor caravans tot 10 meter.  Tegen de zomer van 2024 leggen we nog 4 extra ruime percelen rond de wadi aan.  
+        - Droom je van ontspannen verblijf aan de kust in elk seizoen, dan zijn onze residentiële percelen ideaal.
+        - Het aanbod aan vrije percelen verandert soms, neem gerust contact met ons op voor de actuele mogelijkheden of maak een afspraak om zelf de sfeer te komen proeven.
     image: /img/eigenstekje.jpg
 
 images:
@@ -25,7 +25,6 @@ insert:
 
 Volgende mooie en ruime percelen zijn momenteel nog beschikbaar, steeds welkom om een kijkje te komen nemen:
 
-- perceel A54 - [type 2][type_2.nl] - caravan tot max 9 meter 
-- perceel D23 en E9 - [type 2][type_2.nl] - caravan tot max 10 meter
-- perceel F13-F14-F16 - [type 4][type_4.nl] - caravan tot max 12 meter
+- perceel E11 - [type 2][type_2.nl] - caravan tot max 11 meter
+- perceel C28 - [type 2][type_2.nl] - caravan tot max 8m50
 - voor nieuwe caravans werken we samen met [Decopa](https://www.decopa.be/) en [Caravancentrum Roels](https://www.caravancentrumroels.be/)

@@ -6,8 +6,8 @@ description: 1 geräumige Parzelle frei
 preview:
     title: eigener Platz am Meer
     text:
-        - Genießen Sie zu jeder Jahreszeit einen wundervollen Aufenthalt an der Küste in einem luxuriösen Wohnwagen. 
-        - Zurzeit haben wir einige schöne Stellplätze für Wohnwagen bis zu 10 Metern Länge zur Verfügung.  Bis zum Sommer 2024 werden wir außerdem 4 weitere geräumige Stellplätze rund um das Wadi errichten.
+        - Träumen Sie von einem entspannten Aufenthalt an der Küste zu jeder Jahreszeit? Dann sind unsere Wohnparzellen ideal.
+        - Das Angebot an freien Parzellen ändert sich gelegentlich. Kontaktieren Sie uns gerne, um die aktuellen Möglichkeiten zu erfahren, oder vereinbaren Sie einen Termin, um die Atmosphäre selbst zu erleben.
     image: /img/eigenstekje.jpg
 
 
@@ -16,7 +16,7 @@ images:
     - /img/percelen/residentieel1.jpg
     - /img/percelen/residentieel2.jpg
     - /img/percelen/residentieel3.jpg
-    
+
 
 insert:
     - page-images-top
@@ -27,8 +27,7 @@ insert:
 
 Folgende schöne Grundstücke sind derzeit noch verfügbar, Sie können gerne vorbeikommen zu schauen:
 
-- Parzelle A54 - [type 2][type_2.de] - Wohnwagen bis maximal 9 m
-- Parzelle D23 und E9 - [type 2][type_2.de] - Wohnwagen bis maximal 10 m
-- Parzelle F13-F14-F16 - [type 4][type_4.de] - Wohnwagen bis maximal 12 m
+- Parzelle E11 - [type 2][type_2.de] - Wohnwagen bis maximal 11 m
+- Parzelle C28 - [type 2][type_2.de] - Wohnwagen bis maximal 8m50
 - Für neue Caravans arbeiten wir mit [Decopa](https://www.decopa.be/) und [Caravancentrum Roels](https://www.caravancentrumroels.be/
 )

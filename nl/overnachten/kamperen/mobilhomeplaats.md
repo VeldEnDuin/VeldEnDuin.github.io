@@ -34,6 +34,8 @@ Onze camperplaatsen worden tegen de zomer van 2024 volledig vernieuwd. Er komen 
 ## Goed om weten
 
 - voor mobilhomes en caravans tot maximaal 8 meter
+- elektriciteit: 10 ampère
+- elk perceel is voorzien van water, digitale tv en afvoer
 - max 6 personen / plaats
 - honden toegelaten: max 2 - aan de leiband - geen gevaarlijke rassen
 - winterperiode 15/11-15/3: gesloten

@@ -43,6 +43,7 @@ Ons charmante tiny house met privé-tuintje is ideaal voor wie houdt van het bui
 ## Inrichting caravan
 - kleine woonruimte met flatscreen en digitale tv
 - keuken met 2-pits kookvuur, kleine microgolf en Philips Barista (koffiecups)
+- welkomstpakketje met koffie en thee
 - badkamer met douche en wastafel
 - apart toilet
 - 1 slaapkamer met dubbelbed (140x200)

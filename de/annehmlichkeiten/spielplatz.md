@@ -5,39 +5,28 @@ description: Attraktion für Kinder mit Lufttrampolin und Spielgeräten
 picto: /img/svg/voorzieningen/speelplein.svg
 
 images:
-    - /img/voorzieningen/speelplein/speel-01.jpg
-    - /img/voorzieningen/speelplein/speel-02.jpg
-    - /img/voorzieningen/speelplein/speel-03.jpg
-    - /img/voorzieningen/speelplein/speel-04.jpg
-    - /img/voorzieningen/speelplein/speel-05.jpg
-    - /img/voorzieningen/speelplein/speel-06.jpg
-    - /img/voorzieningen/speelplein/speel-07.jpg
-    - /img/voorzieningen/speelplein/speel-08.jpg
-    - /img/voorzieningen/speelplein/speel-09.jpg
-    - /img/voorzieningen/speelplein/speel-10.jpg
-    - /img/voorzieningen/speelplein/speel-11.jpg
-    - /img/voorzieningen/speelplein/speel-12.jpg
-    - /img/voorzieningen/speelplein/speel-13.jpg
-    - /img/voorzieningen/speelplein/speel-14.jpg
+    - /img/voorzieningen/speelplein/speelplein1.jpg
+    - /img/voorzieningen/speelplein/speelplein4.jpg
+    - /img/voorzieningen/speelplein/speelplein5.jpg
+    - /img/voorzieningen/speelplein/speelplein7.jpg
+    - /img/voorzieningen/speelplein/speelplein6.jpg
+
 
 insert:
     - page-images-top
 
 remove:
     - imgstrip
-    
+
 
 ---
 {% include links.md %}
 
-Erleben Sie stundenlangen Spielspaß auf dem Spielplatz mit Ihren Freunden.
+Wodurch unterscheidet sich unser Spielplatz von anderen? Wir bieten eine wunderbare Mischung aus folgenden Spielelementen:
 
-Energiegeladene und akrobatische Kinder können sich auf dem Lufttrampolin austoben und sich gegenseitig die neuesten Tricks beibringen.
+- Unser Air-Trampolin bleibt einer der Favoriten bei den Kindern! Das große Air-Trampolin bietet endlosen Hüpfspaß und lässt die Energie sprudeln.
+- Wasser und Sand kombinieren und sehen, wie Kinder die schönsten Kreationen erschaffen! Unser Wasserspielplatz regt die Kreativität an und sorgt an heißen Tagen für Abkühlung.
+- Für echte Abenteurer gibt es Kletterbäume. Hier können Kinder ihr eigenes Lager bauen und sich wie echte Förster oder Abenteurer fühlen.
+Rund um das Air-Trampolin wachsen Sträucher voller köstlicher Beeren und Himbeeren. Ein gesunder und natürlicher Snack, perfekt, um kurz durchzuatmen.
 
-Wasser und Sand ist die Traumkombination für die Kleinen, um auf dem Wasserspielplatz ihrer Kreativität freien Lauf zu lassen.
-
-Und haben Sie schon die Beeren in unserem Schnauzengarten entdeckt? Ideal, wenn Sie beim Spielen Lust auf einen gesunden Snack haben.
-
-Ballspiele sind im gegenüberliegenden Paelsteenveld-Park oder am Strand möglich. Auf dem Campingplatz sind Ballspiele nicht zugelassen. 
-
-![Met de steun van Provincie West-Vlaanderen](/img/voorzieningen/logo-provincie-westvlaanderen.png){:style="display:block; width:30%; margin: 0 auto;"}
+Ballspiele sind im gegenüberliegenden Paelsteenveld-Park oder am Strand möglich. Auf dem Campingplatz sind Ballspiele nicht zugelassen.

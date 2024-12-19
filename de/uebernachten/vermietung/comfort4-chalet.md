@@ -46,6 +46,7 @@ Diese Chalets liegen vorn auf dem Campingplatz in der Nähe des Spielplatzes. Id
 
 - Großes Wohnzimmer mit Flachbildschirm und Digitalfernseher
 - Eingerichtete Küche mit Mikrowelle und Philips Barista (Kaffeekapseln)
+- Willkommenspaket mit Kaffee und Tee
 - Badezimmer mit Dusche, Waschbecken und Toilette
 - Schlafzimmer Chalet:
     - 1 Zimmer mit Doppelbett (140 x 200)

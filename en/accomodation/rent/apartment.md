@@ -47,6 +47,7 @@ The apartments are situated next to the campsite. This means that you can enjoy 
 
 - spacious living room with flat screen and set top box
 - equipped kitchen with microwave and Philips Barista (coffee cups)
+- welcome pack with coffee and tea
 - bathroom with shower, washbasin and toilet
 – bedrooms apartment:
     - 1 room with double bed (140x200)

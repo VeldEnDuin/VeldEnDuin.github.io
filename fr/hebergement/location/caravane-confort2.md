@@ -43,6 +43,7 @@ Notre charmante petite maison avec jardin privé est parfaitement adapté pour a
 
 - coin salon avec avec écran plat et TV numérique
 - cuisine avec cuisinière à deux plaques et petit four à micro-ondes et Philips Barista (capsules de café)
+- paquet de bienvenue avec café et thé
 - salle de bains avec douche et lavabo
 - toilettes séparées
 - 1 chambre équipée d’un lit double (140x200)
@@ -73,7 +74,7 @@ Des draps et des serviettes peuvent également être loués.
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
 chien               | € 5 / nuit - max 1
-draps               | € 12 
+draps               | € 12
 paquet de serviettes| € 6,5 / paquet (1 grande et 1 petite serviette)
 lit d'enfant        | € 2 / nuit
 chaise haute        | € 2 / nuit

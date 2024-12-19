@@ -20,15 +20,13 @@ insert:
 
 remove:
     - imgstrip
-    
+
 
 ---
 {% include links.md %}
 
-Vakantie...eindelijk tijd om een goed boek te lezen.
+Vakantie… eindelijk tijd om te genieten van een goed boek!
 
-In onze pop-up bib bieden we een ruim en divers aanbod aan boeken en strips om uit te lenen.
+In onze strandcabine vind je een uitgebreid en gevarieerd aanbod aan boeken en strips voor jong en oud. Of je nu op zoek bent naar een meeslepende thriller, een inspirerende roman of een grappige strip – hier vind je altijd iets om in weg te dromen.
 
-Er liggen in de bib ook heel wat leuke strandspullen voor de kleinsten om te spelen in het zand terwijl mama of papa op de bank die spannende thriller uitleest.
-
-
+Onze pop-up bib is bovendien een fijne plek voor voor de allerkleinsten want er liggen ook veel leuke strandspullen. Terwijl de ouders op de bank genieten van een spannend verhaal, kunnen de kleinsten zich uitleven met onze leuke strandspullen, het bouwen van zandkastelen of schatten graven.

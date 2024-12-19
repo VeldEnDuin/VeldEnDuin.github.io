@@ -46,6 +46,7 @@ Deze chalets liggen vooraan op de camping en dicht bij het speelplein. Ideaal du
 
 - ruime woonkamer met flatscreen en digitale tv
 - ingerichte keuken met microgolf en Philips Barista (koffiecups)
+- welkomstpakketje met koffie en thee
 - badkamer met douche, wastafel en toilet
 - slaapkamers chalet:
     - 1 kamer met dubbelbed (140x200)
