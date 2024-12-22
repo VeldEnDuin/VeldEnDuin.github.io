@@ -23,8 +23,7 @@ insert:
 ---
 {% include links.md %}
 
-From 2024, we have 1 tent pitch left for a small to medium-sized tent for up to 4 people. This pitch is close to the playground, sanitary facilities and opposite the car park and will be bookable online from the second half of February.
-
+We have 1 tent pitch available for a small to medium-sized tent (maximum 4 people). This cozy spot is perfectly located: near the playground for children, close to the modern sanitary facilities for your convenience, and directly opposite the parking area for optimal accessibility.
 
 ## Worth knowing
 

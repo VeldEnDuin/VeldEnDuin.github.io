@@ -12,14 +12,14 @@ preview:
         - "à proximité des sanitaires"
         - "autour de l'oued"
 images:
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-01.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-02.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-03.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-04.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-06.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-07.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-08.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-09.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob01.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob02.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob03.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob04.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob05.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob06.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob07.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob08.jpg
 
 
 insert:
@@ -29,6 +29,8 @@ insert:
 {% include links.md %}
 
 Combinez la liberté de vacances en mobile home au confort offert par notre camping.
+
+Nos 8 parcelles spacieuses et pavées sont stratégiquement situées autour de la wadi, vous permettant de profiter pleinement du calme et d’une sensation d’espace infini. Ici, vous trouverez le parfait équilibre entre liberté et détente, avec toutes les commodités à portée de main.
 
 ## Bon à savoir
 

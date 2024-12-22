@@ -23,7 +23,7 @@ insert:
 ---
 {% include links.md %}
 
-A partir de 2024, il nous reste 1 emplacement pour une tente de taille petite à moyenne pouvant accueillir jusqu'à 4 personnes. Cet emplacement est situé à proximité de l'aire de jeux, des installations sanitaires et en face du parking. 
+Nous avons 1 emplacement disponible pour une petite à moyenne tente (maximum 4 personnes). Cet emplacement convivial est idéalement situé : à proximité de l’aire de jeux pour les enfants, tout près des sanitaires modernes pour votre confort, et juste en face du parking pour un accès optimal.
 
 
 ## Bon à savoir

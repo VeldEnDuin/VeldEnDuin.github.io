@@ -23,7 +23,8 @@ insert:
 ---
 {% include links.md %}
 
-Vanaf 2024 bieden we nog 1 tentplaats aan voor een kleine tot middelgrote tent tot maximum 4 personen. Deze plaats ligt dichtbij het speelplein, het sanitair en tegenover de parking.
+We hebben 1  tentplaats beschikbaar voor een kleine tot middelgrote tent (maximaal 4 personen). Deze gezellige plek is perfect gelegen: dichtbij het speelplein voor de kinderen, vlakbij het moderne sanitair voor jouw gemak, en recht tegenover de parking voor optimale toegankelijkheid.
+
 
 ## Goed om weten
 

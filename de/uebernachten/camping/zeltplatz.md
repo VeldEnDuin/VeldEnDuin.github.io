@@ -23,7 +23,7 @@ insert:
 ---
 {% include links.md %}
 
-Ab 2024 haben wir noch 1 Zeltplatz für ein kleines bis mittleres Zelt für bis zu 4 Personen. Dieser Stellplatz befindet sich in der Nähe des Spielplatzes, der sanitären Anlagen und gegenüber dem Parkplatz.
+Wir haben 1 Zeltplatz für ein kleines bis mittelgroßes Zelt (maximal 4 Personen) verfügbar. Dieser gemütliche Platz ist perfekt gelegen: in der Nähe des Spielplatzes für die Kinder, direkt bei den modernen Sanitäranlagen für Ihren Komfort und gegenüber dem Parkplatz für optimale Erreichbarkeit.
 
 ## Gut zu wissen
 

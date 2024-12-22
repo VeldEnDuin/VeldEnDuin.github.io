@@ -12,14 +12,14 @@ preview:
         - "sanitary block nearby"
         - "around the wadi"
 images:
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-01.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-02.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-03.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-04.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-06.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-07.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-08.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-09.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob01.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob02.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob03.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob04.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob05.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob06.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob07.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob08.jpg
 
 insert:
     - page-images-top
@@ -27,7 +27,9 @@ insert:
 ---
 {% include links.md %}
 
-Combine the freedom of travelling with a camper with the comfort of our campsite
+Combine the freedom of travelling with a camper with the comfort of our campsite.
+
+Our 8 spacious, paved plots are strategically located around the wadi, allowing you to fully enjoy the tranquility and a sense of endless space. Here, you’ll find the perfect balance between freedom and relaxation, with all amenities within easy reach.
 
 ## Worth knowing
 

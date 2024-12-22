@@ -12,14 +12,15 @@ preview:
         - "dichtbij sanitair"
         - "rond de wadi"
 images:
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-01.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-02.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-03.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-04.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-06.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-07.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-08.jpg
-    - /img/overnachten/trekkers-mob-10x8/mob10x8-09.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob01.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob02.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob03.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob04.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob05.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob06.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob07.jpg
+    - /img/overnachten/trekkers-mob-10x8/trekkers-mob08.jpg
+
 
 insert:
     - page-images-top
@@ -29,7 +30,8 @@ insert:
 
 Combineer de vrijheid van het reizen met een mobilhome met het comfort van onze camping.
 
-Onze camperplaatsen worden tegen de zomer van 2024 volledig vernieuwd. Er komen 8 erg mooie, ruime en comfortabele plaatsen rond de wadi en dichtbij het sanitair.
+Onze 8 ruime, verharde percelen zijn strategisch gelegen rondom de wadi, waardoor je optimaal geniet van rust en een gevoel van eindeloze ruimte. Hier vind je de perfecte mix van vrijheid en ontspanning, met alle faciliteiten binnen handbereik.
+
 
 ## Goed om weten
 
