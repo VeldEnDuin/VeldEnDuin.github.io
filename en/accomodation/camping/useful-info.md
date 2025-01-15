@@ -12,9 +12,9 @@ icon: info-sign
 
 ## Arrival and departure
 
-- arrival:  as from 14 hrs
+- arrival: as from 14 hrs
 - departure: before 11 hrs
 
 Do you want to check in after opening hours? No problem, but give us a call before you leave.
 
-{% include en/openinghours-reuse.md %}
+{% include en/usefulinfo-reuse.md %}

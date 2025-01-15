@@ -13,24 +13,24 @@ icon: info-sign
 
 ## Aankomst- en vertrekregeling
 
-- aankomst: vanaf 14u 
+- aankomst: vanaf 14u
 - vertrek: voor 10u
 
 Wenst u buiten de openingsuren van de receptie aan te komen? Dat kan, maar geef dan een seintje vooraf zodat we een tijd kunnen afspreken.
 
-{% include nl/openingsuren-reuse.md %}
+{% include nl/praktische-info-reuse.md %}
 
 ## Inventaris
 
-bier/wijn/waterglazen  |kinderbestek |kookpotten     |borstel                              
-borden                 |aardappelmes |pannen         |aftrekker
-tassen                 |slacouvert   |slazwierder    |ruitenaftrekker
-bekers                 |pollepel     |vergiet        |emmer
-dessertkommetjes       |pureestamper |koffiezet      |vuilblik
-eierdopjes             |flesopener   |waterkoker     |dweil
-broodmandje            |kurkentrekker|asbak          |spons
-groentenschalen        |klopper      |vuilnisbak     |vaatdoek
-microgolfpot           |schepper     |kapstokken     |detergent
-snijplank              |blikopener   |donsdekens     |allesreiniger
-maatbeker              |schaar       |hoofdkussens   |azijn
-bestek                 |microgolf    |matrasbeschermer|tuinmeubels
+bier/wijn/waterglazen |kinderbestek |kookpotten |borstel  
+borden |aardappelmes |pannen |aftrekker
+tassen |slacouvert |slazwierder |ruitenaftrekker
+bekers |pollepel |vergiet |emmer
+dessertkommetjes |pureestamper |koffiezet |vuilblik
+eierdopjes |flesopener |waterkoker |dweil
+broodmandje |kurkentrekker|asbak |spons
+groentenschalen |klopper |vuilnisbak |vaatdoek
+microgolfpot |schepper |kapstokken |detergent
+snijplank |blikopener |donsdekens |allesreiniger
+maatbeker |schaar |hoofdkussens |azijn
+bestek |microgolf |matrasbeschermer|tuinmeubels

@@ -12,9 +12,9 @@ icon: info-sign
 
 ## An- und Abreiseregelung
 
-- Anreise ab 14 Uhr 
+- Anreise ab 14 Uhr
 - Abreise bis 11 Uhr
 
 Möchten Sie außerhalb der Öffnungszeiten der Rezeption anreisen? Das ist möglich, aber teilen Sie es uns bitte vorher mit, damit wir eine Uhrzeit vereinbaren können.
 
-{% include de/oeffnungszeiten-reuse.md %}
+{% include de/praktischeinfos-reuse.md %}

@@ -1,3 +1,0 @@
-<!--
-## Öffnungszeiten Rezeption
--->

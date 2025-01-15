@@ -12,9 +12,9 @@ icon: info-sign
 
 ## Aankomst- en vertrekregeling
 
-- aankomst: vanaf 14u 
+- aankomst: vanaf 14u
 - vertrek: voor 11u
 
 Wenst u buiten de openingsuren aan te komen? Dat kan, maar geef dan een seintje vooraf zodat we een tijd kunnen afspreken.
 
-{% include nl/openingsuren-reuse.md %}
+{% include nl/praktische-info-reuse.md %}
