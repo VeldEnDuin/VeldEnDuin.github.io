@@ -1,472 +1,461 @@
 # [0] gelinkt vanuit site-code...
 contact:
-    nl:  /contact.html
-    fr:  /contact.html
-    en:  /contact.html
-    de:  /contact.html
+  nl: /contact.html
+  fr: /contact.html
+  en: /contact.html
+  de: /contact.html
 virtualtour:
-    nl:  /nl/virtueel-bezoek.html
-    fr:  /fr/visite-virtuelle.html
-    en:  /en/virtual-tour.html
-    de:  /de/virtueller-besuch.html
+  nl: /nl/virtueel-bezoek.html
+  fr: /fr/visite-virtuelle.html
+  en: /en/virtual-tour.html
+  de: /de/virtueller-besuch.html
 news:
-    nl:  /nl/nieuws.html
-    fr:  /fr/actualite.html
-    en:  /en/news.html
-    de:  /de/aktuelles.html
+  nl: /nl/nieuws.html
+  fr: /fr/actualite.html
+  en: /en/news.html
+  de: /de/aktuelles.html
 pics:
-    nl:  /nl/foto-archief.html
-    fr:  /fr/archive-photographique.html
-    en:  /en/photo-archive.html
-    de:  /de/fotoarchiv.html
+  nl: /nl/foto-archief.html
+  fr: /fr/archive-photographique.html
+  en: /en/photo-archive.html
+  de: /de/fotoarchiv.html
 plan:
-    nl:  /img/plan-camping.png
-    de:  /img/plan-camping.png
-    fr:  /img/plan-camping.png
-    en:  /img/plan-camping.png
+  nl: /img/plan-camping.png
+  de: /img/plan-camping.png
+  fr: /img/plan-camping.png
+  en: /img/plan-camping.png
 plan_mobilhome:
-    nl:  /img/plan-camping-kampeerplaats.jpg
-    de:  /img/plan-camping-kampeerplaats.jpg
-    fr:  /img/plan-camping-kampeerplaats.jpg
-    en:  /img/plan-camping-kampeerplaats.jpg
+  nl: /img/plan-camping-kampeerplaats.jpg
+  de: /img/plan-camping-kampeerplaats.jpg
+  fr: /img/plan-camping-kampeerplaats.jpg
+  en: /img/plan-camping-kampeerplaats.jpg
 plan_tent:
-    nl:  /img/plan-camping-tent.jpg
-    de:  /img/plan-camping-tent.jpg
-    fr:  /img/plan-camping-tent.jpg
-    en:  /img/plan-camping-tent.jpg
+  nl: /img/plan-camping-tent.jpg
+  de: /img/plan-camping-tent.jpg
+  fr: /img/plan-camping-tent.jpg
+  en: /img/plan-camping-tent.jpg
 plan_appcomf4plus:
-    nl:  /img/plan-camping-appcomf4plus.png
-    de:  /img/plan-camping-appcomf4plus.png
-    fr:  /img/plan-camping-appcomf4plus.png
-    en:  /img/plan-camping-appcomf4plus.png
+  nl: /img/plan-camping-appcomf4plus.png
+  de: /img/plan-camping-appcomf4plus.png
+  fr: /img/plan-camping-appcomf4plus.png
+  en: /img/plan-camping-appcomf4plus.png
 plan_carcomf2:
-    nl:  /img/plan-camping-carcomf2.png
-    de:  /img/plan-camping-carcomf2.png
-    fr:  /img/plan-camping-carcomf2.png
-    en:  /img/plan-camping-carcomf2.png
+  nl: /img/plan-camping-carcomf2.png
+  de: /img/plan-camping-carcomf2.png
+  fr: /img/plan-camping-carcomf2.png
+  en: /img/plan-camping-carcomf2.png
 plan_chaletcomf2:
-    nl:  /img/plan-camping-chaletcomf2.png
-    de:  /img/plan-camping-chaletcomf2.png
-    fr:  /img/plan-camping-chaletcomf2.png
-    en:  /img/plan-camping-chaletcomf2.png
+  nl: /img/plan-camping-chaletcomf2.png
+  de: /img/plan-camping-chaletcomf2.png
+  fr: /img/plan-camping-chaletcomf2.png
+  en: /img/plan-camping-chaletcomf2.png
 plan_chaletcomf4:
-    nl:  /img/plan-camping-chaletcomf4.png
-    de:  /img/plan-camping-chaletcomf4.png
-    fr:  /img/plan-camping-chaletcomf4.png
-    en:  /img/plan-camping-chaletcomf4.png
+  nl: /img/plan-camping-chaletcomf4.png
+  de: /img/plan-camping-chaletcomf4.png
+  fr: /img/plan-camping-chaletcomf4.png
+  en: /img/plan-camping-chaletcomf4.png
 plan_chaletcomf4plus:
-    nl:  /img/plan-camping-chaletcomf4plus.png
-    de:  /img/plan-camping-chaletcomf4plus.png
-    fr:  /img/plan-camping-chaletcomf4plus.png
-    en:  /img/plan-camping-chaletcomf4plus.png
+  nl: /img/plan-camping-chaletcomf4plus.png
+  de: /img/plan-camping-chaletcomf4plus.png
+  fr: /img/plan-camping-chaletcomf4plus.png
+  en: /img/plan-camping-chaletcomf4plus.png
 plan_luxeapp:
-    nl:  /img/plan-camping-luxeapp.png
-    de:  /img/plan-camping-luxeapp.png
-    fr:  /img/plan-camping-luxeapp.png
-    en:  /img/plan-camping-luxeapp.png
+  nl: /img/plan-camping-luxeapp.png
+  de: /img/plan-camping-luxeapp.png
+  fr: /img/plan-camping-luxeapp.png
+  en: /img/plan-camping-luxeapp.png
 plan_studiocomf2:
-    nl:  /img/plan-camping-studiocomf2.png
-    de:  /img/plan-camping-studiocomf2.png
-    fr:  /img/plan-camping-studiocomf2.png
-    en:  /img/plan-camping-studiocomf2.png
+  nl: /img/plan-camping-studiocomf2.png
+  de: /img/plan-camping-studiocomf2.png
+  fr: /img/plan-camping-studiocomf2.png
+  en: /img/plan-camping-studiocomf2.png
 plan3d:
-    nl:  /img/plan-3d-nieuwproject.jpg
-    de:  /img/plan-3d-nieuwproject.jpg
-    fr:  /img/plan-3d-nieuwproject.jpg
-    en:  /img/plan-3d-nieuwproject.jpg
+  nl: /img/plan-3d-nieuwproject.jpg
+  de: /img/plan-3d-nieuwproject.jpg
+  fr: /img/plan-3d-nieuwproject.jpg
+  en: /img/plan-3d-nieuwproject.jpg
 jubisite:
-    nl: /img/jubisite.jpg
-    fr: /img/jubisite.jpg
-    de: /img/jubisite.jpg
-
+  nl: /img/jubisite.jpg
+  fr: /img/jubisite.jpg
+  de: /img/jubisite.jpg
 
 # [1] menu - goed om weten
 hier_staan_we_voor:
-    nl:  /nl/goed-om-weten/hier-staan-we-voor.html
-    fr:  /fr/bon-a-savoir/nos-regles-et-valeurs.html
-    de:  /de/gut-zu-wissen/hierfuer-stehen-wir.html
-    en:  /en/worth-knowing/our-philosophy.html
+  nl: /nl/goed-om-weten/hier-staan-we-voor.html
+  fr: /fr/bon-a-savoir/nos-regles-et-valeurs.html
+  de: /de/gut-zu-wissen/hierfuer-stehen-wir.html
+  en: /en/worth-knowing/our-philosophy.html
 fietsvriendelijk:
-    nl:  /nl/goed-om-weten/hier-staan-we-voor/fietsvriendelijk.html
-    fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/cyclisme.html
-    de:  /de/gut-zu-wissen/hierfuer-stehen-wir/fahrradfreundlich.html
-    en:  /en/worth-knowing/our-philosophy/bike-friendly.html
+  nl: /nl/goed-om-weten/hier-staan-we-voor/fietsvriendelijk.html
+  fr: /fr/bon-a-savoir/nos-regles-et-valeurs/cyclisme.html
+  de: /de/gut-zu-wissen/hierfuer-stehen-wir/fahrradfreundlich.html
+  en: /en/worth-knowing/our-philosophy/bike-friendly.html
 groen:
-    nl:  /nl/goed-om-weten/hier-staan-we-voor/groen.html
-    fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/respect-de-la-nature.html
-    de:  /de/gut-zu-wissen/hierfuer-stehen-wir/gruen.html
-    en:  /en/worth-knowing/our-philosophy/green-space.html
+  nl: /nl/goed-om-weten/hier-staan-we-voor/groen.html
+  fr: /fr/bon-a-savoir/nos-regles-et-valeurs/respect-de-la-nature.html
+  de: /de/gut-zu-wissen/hierfuer-stehen-wir/gruen.html
+  en: /en/worth-knowing/our-philosophy/green-space.html
 kwaliteit:
-    nl:  /nl/goed-om-weten/hier-staan-we-voor/kwaliteit.html
-    fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/qualite.html
-    de:  /de/gut-zu-wissen/hierfuer-stehen-wir/qualitaet.html
-    en:  /en/worth-knowing/our-philosophy/quality.html
+  nl: /nl/goed-om-weten/hier-staan-we-voor/kwaliteit.html
+  fr: /fr/bon-a-savoir/nos-regles-et-valeurs/qualite.html
+  de: /de/gut-zu-wissen/hierfuer-stehen-wir/qualitaet.html
+  en: /en/worth-knowing/our-philosophy/quality.html
 hondvriendelijk:
-    nl:  /nl/goed-om-weten/hier-staan-we-voor/hondvriendelijk.html
-    fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/chiens-bienvenus.html
-    de:  /de/gut-zu-wissen/hierfuer-stehen-wir/hundefreundlich.html
-    en:  /en/worth-knowing/our-philosophy/pet-friendly.html
+  nl: /nl/goed-om-weten/hier-staan-we-voor/hondvriendelijk.html
+  fr: /fr/bon-a-savoir/nos-regles-et-valeurs/chiens-bienvenus.html
+  de: /de/gut-zu-wissen/hierfuer-stehen-wir/hundefreundlich.html
+  en: /en/worth-knowing/our-philosophy/pet-friendly.html
 rust:
-    nl:  /nl/goed-om-weten/hier-staan-we-voor/rust.html
-    fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/repos.html
-    de:  /de/gut-zu-wissen/hierfuer-stehen-wir/ruhe.html
-    en:  /en/worth-knowing/our-philosophy/peace-and-quiet.html
+  nl: /nl/goed-om-weten/hier-staan-we-voor/rust.html
+  fr: /fr/bon-a-savoir/nos-regles-et-valeurs/repos.html
+  de: /de/gut-zu-wissen/hierfuer-stehen-wir/ruhe.html
+  en: /en/worth-knowing/our-philosophy/peace-and-quiet.html
 gastvrij:
-    nl:  /nl/goed-om-weten/hier-staan-we-voor/gastvrij.html
-    fr:  /fr/bon-a-savoir/nos-regles-et-valeurs/acceuillant.html
-    de:  /de/gut-zu-wissen/hierfuer-stehen-wir/gastfreundlich.html
-    en:  /en/worth-knowing/our-philosophy/hospitable.html
+  nl: /nl/goed-om-weten/hier-staan-we-voor/gastvrij.html
+  fr: /fr/bon-a-savoir/nos-regles-et-valeurs/acceuillant.html
+  de: /de/gut-zu-wissen/hierfuer-stehen-wir/gastfreundlich.html
+  en: /en/worth-knowing/our-philosophy/hospitable.html
 
 tijdslijn:
-    nl:  /nl/goed-om-weten/tijdslijn.html
-    fr:  /fr/bon-a-savoir/ligne-du-temps.html
-    de:  /de/gut-zu-wissen/zeitstrahl.html
-    en:  /en/worth-knowing/timeline.html
+  nl: /nl/goed-om-weten/tijdslijn.html
+  fr: /fr/bon-a-savoir/ligne-du-temps.html
+  de: /de/gut-zu-wissen/zeitstrahl.html
+  en: /en/worth-knowing/timeline.html
 praktisch:
-    nl:  /nl/goed-om-weten/praktisch.html
-    fr:  /fr/bon-a-savoir/pratique.html
-    de:  /de/gut-zu-wissen/praktisch.html
-    en:  /en/worth-knowing/practical.html
+  nl: /nl/goed-om-weten/praktisch.html
+  fr: /fr/bon-a-savoir/pratique.html
+  de: /de/gut-zu-wissen/praktisch.html
+  en: /en/worth-knowing/practical.html
 privacy:
-    nl: /nl/goed-om-weten/privacy.html
-    fr: /fr/bon-a-savoir/privee.html
-    de: /de/gut-zu-wissen/datenschutz.html
-    en: /en/worth-knowing/privacy.html
-
+  nl: /nl/goed-om-weten/privacy.html
+  fr: /fr/bon-a-savoir/privee.html
+  de: /de/gut-zu-wissen/datenschutz.html
+  en: /en/worth-knowing/privacy.html
 
 # [2] menu - overnachten
 verhuur:
-    nl:  /nl/overnachten/verhuur.html
-    fr:  /fr/hebergement/location.html
-    de:  /de/uebernachten/vermietung.html
-    en:  /en/accomodation/rent.html
+  nl: /nl/overnachten/verhuur.html
+  fr: /fr/hebergement/location.html
+  de: /de/uebernachten/vermietung.html
+  en: /en/accomodation/rent.html
 trekkers:
-    nl:  /nl/overnachten/kamperen.html
-    fr:  /fr/hebergement/camping.html
-    de:  /de/uebernachten/camping.html
-    en:  /en/accomodation/camping.html
+  nl: /nl/overnachten/kamperen.html
+  fr: /fr/hebergement/camping.html
+  de: /de/uebernachten/camping.html
+  en: /en/accomodation/camping.html
 residentieel:
-    nl:  /nl/overnachten/residentieel-verblijf.html
-    fr:  /fr/hebergement/sejour-residentiel.html
-    de:  /de/uebernachten/daueraufenthalt.html
-    en:  /en/accomodation/residential-stay.html
+  nl: /nl/overnachten/residentieel-verblijf.html
+  fr: /fr/hebergement/sejour-residentiel.html
+  de: /de/uebernachten/daueraufenthalt.html
+  en: /en/accomodation/residential-stay.html
 arrangementen:
-    nl:  /nl/overnachten/arrangement.html
-    fr:  /fr/hebergement/forfait.html
-    de:  /de/uebernachten/arrangement.html
-    en:  /en/accomodation/offer.html
-
+  nl: /nl/overnachten/arrangement.html
+  fr: /fr/hebergement/forfait.html
+  de: /de/uebernachten/arrangement.html
+  en: /en/accomodation/offer.html
 
 # [2.*] extra's overnachten buiten menu
 nieuw_project:
-    nl: /nl/overnachten/nieuw-project.html
-    fr: /fr/hebergement/nouveau-projet.html
-    de: /de/uebernachten/neues-projekt.html
-    en: /en/accomodation/new-project.html
+  nl: /nl/overnachten/nieuw-project.html
+  fr: /fr/hebergement/nouveau-projet.html
+  de: /de/uebernachten/neues-projekt.html
+  en: /en/accomodation/new-project.html
 wedstrijd:
-    nl: /nl/overnachten/wedstrijd.html
-    fr: /fr/hebergement/concours.html
-    de: /de/uebernachten/preisausschreiben.html
-    en: /en/accomodation/competition.html
+  nl: /nl/overnachten/wedstrijd.html
+  fr: /fr/hebergement/concours.html
+  de: /de/uebernachten/preisausschreiben.html
+  en: /en/accomodation/competition.html
 nieuwepercelen:
-    nl: /nl/nieuwepercelen.html
-    fr: /fr/nouvellesparcelles.html
-    de: /de/neueparzellen.html
-    en: /en/newspaces.html
-
+  nl: /nl/nieuwepercelen.html
+  fr: /fr/nouvellesparcelles.html
+  de: /de/neueparzellen.html
+  en: /en/newspaces.html
 
 # [2.1] submenu overnachten -> verhuur
 verhuur_appartement:
-    nl:  /nl/overnachten/verhuur/appartement.html
-    fr:  /fr/hebergement/location/appartement.html
-    de:  /de/uebernachten/vermietung/appartement.html
-    en:  /en/accomodation/rent/apartment.html
+  nl: /nl/overnachten/verhuur/appartement.html
+  fr: /fr/hebergement/location/appartement.html
+  de: /de/uebernachten/vermietung/appartement.html
+  en: /en/accomodation/rent/apartment.html
 verhuur_comfort2_caravan:
-    nl:  /nl/overnachten/verhuur/comfort2-caravan.html
-    fr:  /fr/hebergement/location/caravane-confort2.html
-    de:  /de/uebernachten/vermietung/comfort2-caravan.html
-    en:  /en/accomodation/rent/comfort2-caravan.html
+  nl: /nl/overnachten/verhuur/comfort2-caravan.html
+  fr: /fr/hebergement/location/caravane-confort2.html
+  de: /de/uebernachten/vermietung/comfort2-caravan.html
+  en: /en/accomodation/rent/comfort2-caravan.html
 verhuur_comfort2_chalet:
-    nl:  /nl/overnachten/verhuur/comfort2-chalet.html
-    fr:  /fr/hebergement/location/chalet-confort2.html
-    de:  /de/uebernachten/vermietung/comfort2-chalet.html
-    en:  /en/accomodation/rent/comfort2-chalet.html
+  nl: /nl/overnachten/verhuur/comfort2-chalet.html
+  fr: /fr/hebergement/location/chalet-confort2.html
+  de: /de/uebernachten/vermietung/comfort2-chalet.html
+  en: /en/accomodation/rent/comfort2-chalet.html
 verhuur_comfort2_studio:
-    nl:  /nl/overnachten/verhuur/comfort2-studio.html
-    fr:  /fr/hebergement/location/studio-confort2.html
-    de:  /de/uebernachten/vermietung/comfort2-studio.html
-    en:  /en/accomodation/rent/comfort2-studio.html
+  nl: /nl/overnachten/verhuur/comfort2-studio.html
+  fr: /fr/hebergement/location/studio-confort2.html
+  de: /de/uebernachten/vermietung/comfort2-studio.html
+  en: /en/accomodation/rent/comfort2-studio.html
 verhuur_comfort4_chalet:
-    nl:  /nl/overnachten/verhuur/comfort4-chalet.html
-    fr:  /fr/hebergement/location/chalet-confort4.html
-    de:  /de/uebernachten/vermietung/comfort4-chalet.html
-    en:  /en/accomodation/rent/comfort4-chalet.html
+  nl: /nl/overnachten/verhuur/comfort4-chalet.html
+  fr: /fr/hebergement/location/chalet-confort4.html
+  de: /de/uebernachten/vermietung/comfort4-chalet.html
+  en: /en/accomodation/rent/comfort4-chalet.html
 verhuur_comfort4plus_chalet:
-    nl:  /nl/overnachten/verhuur/comfort4plus-chalet.html
-    fr:  /fr/hebergement/location/chalet-confort4plus.html
-    de:  /de/uebernachten/vermietung/comfort4plus-chalet.html
-    en:  /en/accomodation/rent/comfort4plus-chalet.html
+  nl: /nl/overnachten/verhuur/comfort4plus-chalet.html
+  fr: /fr/hebergement/location/chalet-confort4plus.html
+  de: /de/uebernachten/vermietung/comfort4plus-chalet.html
+  en: /en/accomodation/rent/comfort4plus-chalet.html
 verhuur_luxe_appartementen:
-    nl:  /nl/overnachten/verhuur/luxe-appartementen.html
-    fr:  /fr/hebergement/location/appartement-de-luxe.html
-    de:  /de/uebernachten/vermietung/luxusappartemente.html
-    en:  /en/accomodation/rent/luxury-apartments.html
+  nl: /nl/overnachten/verhuur/luxe-appartementen.html
+  fr: /fr/hebergement/location/appartement-de-luxe.html
+  de: /de/uebernachten/vermietung/luxusappartemente.html
+  en: /en/accomodation/rent/luxury-apartments.html
 verhuur_info:
-    nl:  /nl/overnachten/verhuur/praktische-info.html
-    fr:  /fr/hebergement/location/infos-pratiques.html
-    de:  /de/uebernachten/vermietung/praktische-infos.html
-    en:  /en/accomodation/rent/useful-info.html
+  nl: /nl/overnachten/verhuur/praktische-info.html
+  fr: /fr/hebergement/location/infos-pratiques.html
+  de: /de/uebernachten/vermietung/praktische-infos.html
+  en: /en/accomodation/rent/useful-info.html
 
 # [2.2] submenu overnachten -> trekkers
 trekkers_arrangement:
-    nl:  /nl/overnachten/kamperen/kampeerarrangement.html
-    fr:  /fr/hebergement/camping/forfait-camping.html
-    de:  /de/uebernachten/camping/campingarrangement.html
-    en:  /en/accomodation/camping/campers-offer.html
+  nl: /nl/overnachten/kamperen/kampeerarrangement.html
+  fr: /fr/hebergement/camping/forfait-camping.html
+  de: /de/uebernachten/camping/campingarrangement.html
+  en: /en/accomodation/camping/campers-offer.html
 #trekkers_lang:
 #    nl:  /nl/overnachten/kamperen/lang-verblijf.html
 #    fr:  /fr/hebergement/camping/longs-sejours.html
 #    de:  /de/uebernachten/camping/jahresplatz.html
 #    en:  /en/accomodation/camping/long-stay.html
 trekkers_tent:
-    nl:  /nl/overnachten/kamperen/tentplaats.html
-    fr:  /fr/hebergement/camping/emplacementtente.html
-    de:  /de/uebernachten/camping/zeltplatz.html
-    en:  /en/accomodation/camping/tentpitch.html
+  nl: /nl/overnachten/kamperen/tentplaats.html
+  fr: /fr/hebergement/camping/emplacementtente.html
+  de: /de/uebernachten/camping/zeltplatz.html
+  en: /en/accomodation/camping/tentpitch.html
 trekkers_mobilhome:
-    nl:  /nl/overnachten/kamperen/mobilhomeplaats.html
-    fr:  /fr/hebergement/camping/emplacementmobilehome.html
-    de:  /de/uebernachten/camping/wohnmobilplatz.html
-    en:  /en/accomodation/camping/camperpitch.html
+  nl: /nl/overnachten/kamperen/mobilhomeplaats.html
+  fr: /fr/hebergement/camping/emplacementmobilehome.html
+  de: /de/uebernachten/camping/wohnmobilplatz.html
+  en: /en/accomodation/camping/camperpitch.html
 trekkers_info:
-    nl:  /nl/overnachten/kamperen/praktische-info.html
-    fr:  /fr/hebergement/camping/infos-pratiques.html
-    de:  /de/uebernachten/camping/praktische-infos.html
-    en:  /en/accomodation/camping/useful-info.html
+  nl: /nl/overnachten/kamperen/praktische-info.html
+  fr: /fr/hebergement/camping/infos-pratiques.html
+  de: /de/uebernachten/camping/praktische-infos.html
+  en: /en/accomodation/camping/useful-info.html
 
 # [2.3] submenu overnachten -> residentieel
 residentieel_info:
-    nl: /nl/overnachten/residentieel-verblijf/praktische-info.html
-    fr: /fr/hebergement/sejour-residentiel/infos-pratiques.html
-    de: /de/uebernachten/daueraufenthalt/praktische-infos.html
-    en: /en/accomodation/residential-stay/useful-info.html
+  nl: /nl/overnachten/residentieel-verblijf/praktische-info.html
+  fr: /fr/hebergement/sejour-residentiel/infos-pratiques.html
+  de: /de/uebernachten/daueraufenthalt/praktische-infos.html
+  en: /en/accomodation/residential-stay/useful-info.html
 type_1:
-    nl: /nl/overnachten/residentieel-verblijf/type-1.html
-    fr: /fr/hebergement/sejour-residentiel/type-1.html
-    de: /de/uebernachten/daueraufenthalt/typ-1.html
-    en: /en/accomodation/residential-stay/type-1.html
+  nl: /nl/overnachten/residentieel-verblijf/type-1.html
+  fr: /fr/hebergement/sejour-residentiel/type-1.html
+  de: /de/uebernachten/daueraufenthalt/typ-1.html
+  en: /en/accomodation/residential-stay/type-1.html
 type_2:
-    nl: /nl/overnachten/residentieel-verblijf/type-2.html
-    fr: /fr/hebergement/sejour-residentiel/type-2.html
-    de: /de/uebernachten/daueraufenthalt/typ-2.html
-    en: /en/accomodation/residential-stay/type-2.html
+  nl: /nl/overnachten/residentieel-verblijf/type-2.html
+  fr: /fr/hebergement/sejour-residentiel/type-2.html
+  de: /de/uebernachten/daueraufenthalt/typ-2.html
+  en: /en/accomodation/residential-stay/type-2.html
 type_3:
-    nl: /nl/overnachten/residentieel-verblijf/type-3.html
-    fr: /fr/hebergement/sejour-residentiel/type-3.html
-    de: /de/uebernachten/daueraufenthalt/typ-3.html
-    en: /en/accomodation/residential-stay/type-3.html
+  nl: /nl/overnachten/residentieel-verblijf/type-3.html
+  fr: /fr/hebergement/sejour-residentiel/type-3.html
+  de: /de/uebernachten/daueraufenthalt/typ-3.html
+  en: /en/accomodation/residential-stay/type-3.html
 type_4:
-    nl: /nl/overnachten/residentieel-verblijf/type-4.html
-    fr: /fr/hebergement/sejour-residentiel/type-4.html
-    de: /de/uebernachten/daueraufenthalt/typ-4.html
-    en: /en/accomodation/residential-stay/type-4.html
-
+  nl: /nl/overnachten/residentieel-verblijf/type-4.html
+  fr: /fr/hebergement/sejour-residentiel/type-4.html
+  de: /de/uebernachten/daueraufenthalt/typ-4.html
+  en: /en/accomodation/residential-stay/type-4.html
 
 # [2.4] submenu overnachten -> arrangementen
 kadobon:
-    nl: /nl/overnachten/arrangementen/kadobon.html
-    fr: /fr/hebergement/forfaits/cheque-cadeau.html
-    de: /de/uebernachten/arrangements/geschenkgutschein.html
-    en: /en/accomodation/offers/gift-voucher.html
+  nl: /nl/overnachten/arrangementen/kadobon.html
+  fr: /fr/hebergement/forfaits/cheque-cadeau.html
+  de: /de/uebernachten/arrangements/geschenkgutschein.html
+  en: /en/accomodation/offers/gift-voucher.html
 
 # [2.5] submenu overnachten -> te koop
 te_koop:
-    nl: /nl/overnachten/te-koop.html
-    fr: /fr/hebergement/a-vendre.html
-    de: /de/uebernachten/zu-kaufen.html
-    en: /en/accomodation/for-sale.html
+  nl: /nl/overnachten/te-koop.html
+  fr: /fr/hebergement/a-vendre.html
+  de: /de/uebernachten/zu-kaufen.html
+  en: /en/accomodation/for-sale.html
 b_49:
-    nl: /nl/overnachten/te-koop/chaletB49.html
-    fr: /fr/hebergement/a-vendre/chaletB49.html
-    de: /de/uebernachten/zu-kaufen/chaletB49.html
+  nl: /nl/overnachten/te-koop/chaletB49.html
+  fr: /fr/hebergement/a-vendre/chaletB49.html
+  de: /de/uebernachten/zu-kaufen/chaletB49.html
 b_72:
-    nl: /nl/overnachten/te-koop/chaletB72.html
-    fr: /fr/hebergement/a-vendre/chaletB72.html
-    de: /de/uebernachten/zu-kaufen/chaletB72.html
+  nl: /nl/overnachten/te-koop/chaletB72.html
+  fr: /fr/hebergement/a-vendre/chaletB72.html
+  de: /de/uebernachten/zu-kaufen/chaletB72.html
 c_37:
-    nl: /nl/overnachten/te-koop/caravanC37.html
-    fr: /fr/hebergement/a-vendre/caravanC37.html
-    de: /de/uebernachten/zu-kaufen/caravanC37.html
+  nl: /nl/overnachten/te-koop/caravanC37.html
+  fr: /fr/hebergement/a-vendre/caravanC37.html
+  de: /de/uebernachten/zu-kaufen/caravanC37.html
 e_05:
-    nl: /nl/overnachten/te-koop/caravanE05.html
-    fr: /fr/hebergement/a-vendre/caravanE05.html
-    de: /de/uebernachten/zu-kaufen/caravanE05.html
-f_08:
-    nl: /nl/overnachten/te-koop/caravanF08.html
-    fr: /fr/hebergement/a-vendre/caravanF08.html
-    de: /de/uebernachten/zu-kaufen/caravanF08.html
+  nl: /nl/overnachten/te-koop/caravanE05.html
+  fr: /fr/hebergement/a-vendre/caravanE05.html
+  de: /de/uebernachten/zu-kaufen/caravanE05.html
 g_12:
-    nl: /nl/overnachten/te-koop/caravanG12.html
-    fr: /fr/hebergement/a-vendre/caravanG12.html
-    de: /de/uebernachten/zu-kaufen/caravanG12.html
-
+  nl: /nl/overnachten/te-koop/caravanG12.html
+  fr: /fr/hebergement/a-vendre/caravanG12.html
+  de: /de/uebernachten/zu-kaufen/caravanG12.html
 
 # [3] menu - voorzieningen
 voorzieningen:
-    nl: /nl/voorzieningen-overzicht.html
-    fr: /fr/apercu-des-equipements.html
-    de: /de/annehmlichkeiten-uebersicht.html
-    en: /en/amenities-overview.html
+  nl: /nl/voorzieningen-overzicht.html
+  fr: /fr/apercu-des-equipements.html
+  de: /de/annehmlichkeiten-uebersicht.html
+  en: /en/amenities-overview.html
 hotspots:
-    nl: /nl/voorzieningen/hotspots.html
-    fr: /fr/equipements/hotspots.html
-    de: /de/annehmlichkeiten/hotspots.html
-    en: /en/amenities/hotspots.html
+  nl: /nl/voorzieningen/hotspots.html
+  fr: /fr/equipements/hotspots.html
+  de: /de/annehmlichkeiten/hotspots.html
+  en: /en/amenities/hotspots.html
 speel:
-    nl: /nl/voorzieningen/speelplein.html
-    fr: /fr/equipements/terrain-de-jeu.html
-    de: /de/annehmlichkeiten/spielplatz.html
-    en: /en/amenities/playground.html
+  nl: /nl/voorzieningen/speelplein.html
+  fr: /fr/equipements/terrain-de-jeu.html
+  de: /de/annehmlichkeiten/spielplatz.html
+  en: /en/amenities/playground.html
 animatie:
-    nl: /nl/voorzieningen/animatie.html
-    fr: /fr/equipements/animations.html
-    de: /de/annehmlichkeiten/animation.html
-    en: /en/amenities/entertainment.html
+  nl: /nl/voorzieningen/animatie.html
+  fr: /fr/equipements/animations.html
+  de: /de/annehmlichkeiten/animation.html
+  en: /en/amenities/entertainment.html
 internet:
-    nl: /nl/voorzieningen/internet.html
-    fr: /fr/equipements/internet.html
-    de: /de/annehmlichkeiten/internet.html
-    en: /en/amenities/internet.html
+  nl: /nl/voorzieningen/internet.html
+  fr: /fr/equipements/internet.html
+  de: /de/annehmlichkeiten/internet.html
+  en: /en/amenities/internet.html
 sanitair:
-    nl: /nl/voorzieningen/sanitair.html
-    fr: /fr/equipements/sanitaires.html
-    de: /de/annehmlichkeiten/sanitaer.html
-    en: /en/amenities/sanitary-facilities.html
+  nl: /nl/voorzieningen/sanitair.html
+  fr: /fr/equipements/sanitaires.html
+  de: /de/annehmlichkeiten/sanitaer.html
+  en: /en/amenities/sanitary-facilities.html
 toeristische_info:
-    nl: /nl/voorzieningen/info.html
-    fr: /fr/equipements/info.html
-    de: /de/annehmlichkeiten/info.html
-    en: /en/amenities/info.html
+  nl: /nl/voorzieningen/info.html
+  fr: /fr/equipements/info.html
+  de: /de/annehmlichkeiten/info.html
+  en: /en/amenities/info.html
 wassalon:
-    nl: /nl/voorzieningen/wassalon.html
-    fr: /fr/equipements/laverie-automatique.html
-    de: /de/annehmlichkeiten/waschsalon.html
-    en: /en/amenities/laundrette.html
+  nl: /nl/voorzieningen/wassalon.html
+  fr: /fr/equipements/laverie-automatique.html
+  de: /de/annehmlichkeiten/waschsalon.html
+  en: /en/amenities/laundrette.html
 sauna:
-    nl: /nl/voorzieningen/sauna.html
-    fr: /fr/equipements/sauna.html
-    de: /de/annehmlichkeiten/sauna.html
-    en: /en/amenities/sauna.html
+  nl: /nl/voorzieningen/sauna.html
+  fr: /fr/equipements/sauna.html
+  de: /de/annehmlichkeiten/sauna.html
+  en: /en/amenities/sauna.html
 fietsberging:
-    nl: /nl/voorzieningen/fietsberging.html
-    fr: /fr/equipements/garage-a-velos.html
-    de: /de/annehmlichkeiten/fahrradunterstand.html
-    en: /en/amenities/bicycle-shed.html
+  nl: /nl/voorzieningen/fietsberging.html
+  fr: /fr/equipements/garage-a-velos.html
+  de: /de/annehmlichkeiten/fahrradunterstand.html
+  en: /en/amenities/bicycle-shed.html
 pop_up_bib:
-    nl: /nl/voorzieningen/pop-up-bib.html
-    fr: /fr/equipements/bibliotheque-ephemere.html
-    de: /de/annehmlichkeiten/pop-up-bibliothek.html
-    en: /en/amenities/pop-up-library.html
+  nl: /nl/voorzieningen/pop-up-bib.html
+  fr: /fr/equipements/bibliotheque-ephemere.html
+  de: /de/annehmlichkeiten/pop-up-bibliothek.html
+  en: /en/amenities/pop-up-library.html
 
 # [4] menu covid
 covid:
-    nl: /nl/covid/algemeen.html
-    fr: /fr/covid/general.html
-    de: /de/covid/allgemein.html
-    en: /en/covid/general.html
+  nl: /nl/covid/algemeen.html
+  fr: /fr/covid/general.html
+  de: /de/covid/allgemein.html
+  en: /en/covid/general.html
 
 covid-actueel:
-    nl: /nl/covid/actueel.html
-    fr: /fr/covid/actuel.html
-    de: /de/covid/aktuelles.html
-    en: /en/covid/current.html
+  nl: /nl/covid/actueel.html
+  fr: /fr/covid/actuel.html
+  de: /de/covid/aktuelles.html
+  en: /en/covid/current.html
 
 covid-kamperen:
-    nl: /nl/covid/kamperen.html
-    fr: /fr/covid/campeurs.html
-    de: /de/covid/camper.html
-    en: /en/covid/campers.html
+  nl: /nl/covid/kamperen.html
+  fr: /fr/covid/campeurs.html
+  de: /de/covid/camper.html
+  en: /en/covid/campers.html
 
 covid-verhuur:
-    nl: /nl/covid/verhuur.html
-    fr: /fr/covid/location.html
-    de: /de/covid/vermietung.html
-    en: /en/covid/renting.html
+  nl: /nl/covid/verhuur.html
+  fr: /fr/covid/location.html
+  de: /de/covid/vermietung.html
+  en: /en/covid/renting.html
 
 covid-resientieel:
-    nl: /nl/covid/residentieel-verblijf.html
-    fr: /fr/covid/sejour-residentiel.html
-    de: /de/covid/daueraufenthalt.html
-    en: /en/covid/residential-stay.html
+  nl: /nl/covid/residentieel-verblijf.html
+  fr: /fr/covid/sejour-residentiel.html
+  de: /de/covid/daueraufenthalt.html
+  en: /en/covid/residential-stay.html
 
 covid-richtlijn-pictos:
-    nl: /img/covid/nl-algemene-richtlijnen.png
-    fr: /img/covid/fr-directives-générales.png
-    de: /img/covid/de-allgemeine-richtlinien.png
-    en: /img/covid/en-general-guidelines.png
+  nl: /img/covid/nl-algemene-richtlijnen.png
+  fr: /img/covid/fr-directives-générales.png
+  de: /img/covid/de-allgemeine-richtlinien.png
+  en: /img/covid/en-general-guidelines.png
 
 covid-actueel-web:
-    nl: https://www.info-coronavirus.be/nl/
-    fr: https://www.info-coronavirus.be/fr/
-    de: https://www.info-coronavirus.be/de/
-    en: https://www.info-coronavirus.be/en/
+  nl: https://www.info-coronavirus.be/nl/
+  fr: https://www.info-coronavirus.be/fr/
+  de: https://www.info-coronavirus.be/de/
+  en: https://www.info-coronavirus.be/en/
 
 covid-plf-web:
-    nl: https://www.info-coronavirus.be/nl/plf/
-    fr: https://www.info-coronavirus.be/fr/plf/
-    de: https://www.info-coronavirus.be/de/plf/
-    en: https://www.info-coronavirus.be/en/plf/
+  nl: https://www.info-coronavirus.be/nl/plf/
+  fr: https://www.info-coronavirus.be/fr/plf/
+  de: https://www.info-coronavirus.be/de/plf/
+  en: https://www.info-coronavirus.be/en/plf/
 
 # [5] menu doen
 doen:
-    nl: /nl/doen.html
-    fr: /fr/a-faire.html
-    en: /en/do.html
-    de: /de/aktivitaeten.html
+  nl: /nl/doen.html
+  fr: /fr/a-faire.html
+  en: /en/do.html
+  de: /de/aktivitaeten.html
 
 # [6] links fotos
 fotos:
-    nl:  /nl/foto-archief.html
-    fr:  /fr/archive-photographique.html
-    en:  /en/photo-archive.html
-    de:  /de/fotoarchiv.html
-
+  nl: /nl/foto-archief.html
+  fr: /fr/archive-photographique.html
+  en: /en/photo-archive.html
+  de: /de/fotoarchiv.html
 
 # [7] links pdf
 pdf_zeewacht:
-    nl: /nl/pdf/zeewacht.pdf
-    fr: /fr/pdf/zeewacht.pdf
-    de: /de/pdf/zeewacht.pdf
-    en: /en/pdf/zeewacht.pdf
+  nl: /nl/pdf/zeewacht.pdf
+  fr: /fr/pdf/zeewacht.pdf
+  de: /de/pdf/zeewacht.pdf
+  en: /en/pdf/zeewacht.pdf
 pdf_mvo:
-    nl: /nl/pdf/mvo-rapport.pdf
-    fr: /fr/pdf/mvo-rapport.pdf
-    de: /de/pdf/mvo-rapport.pdf
-    en: /en/pdf/mvo-rapport.pdf
+  nl: /nl/pdf/mvo-rapport.pdf
+  fr: /fr/pdf/mvo-rapport.pdf
+  de: /de/pdf/mvo-rapport.pdf
+  en: /en/pdf/mvo-rapport.pdf
 pdf_brandverzekering:
-    nl: /nl/pdf/brandverzekering.pdf
-    fr: /fr/pdf/assuranceincendie.pdf
-    de: /de/pdf/brandversicherung.pdf
-    en: /en/pdf/fireinsurance.pdf
+  nl: /nl/pdf/brandverzekering.pdf
+  fr: /fr/pdf/assuranceincendie.pdf
+  de: /de/pdf/brandversicherung.pdf
+  en: /en/pdf/fireinsurance.pdf
 pdf_zomeranimatie:
-    nl: /nl/pdf/animatie2016.pdf
-    fr: /fr/pdf/animations2016.pdf
-    de: /de/pdf/animation2016.pdf
+  nl: /nl/pdf/animatie2016.pdf
+  fr: /fr/pdf/animations2016.pdf
+  de: /de/pdf/animation2016.pdf
 pdf_tvwifi:
-    nl: /nl/pdf/tvwifi.pdf
-    fr: /fr/pdf/tvwifi.pdf
-    de: /de/pdf/tvwifi.pdf
-    en: /en/pdf/tvwifi.pdf
+  nl: /nl/pdf/tvwifi.pdf
+  fr: /fr/pdf/tvwifi.pdf
+  de: /de/pdf/tvwifi.pdf
+  en: /en/pdf/tvwifi.pdf
 resainfoverhuur:
-    nl: /files/NL_resainfo_verhuur2022.pdf
-    fr: /files/FR_resainfo_verhuur2022.pdf
-    de: /files/DE_resainfo_verhuur2022.pdf
-    en: /files/EN_resainfo_verhuur2022.pdf
+  nl: /files/NL_resainfo_verhuur2022.pdf
+  fr: /files/FR_resainfo_verhuur2022.pdf
+  de: /files/DE_resainfo_verhuur2022.pdf
+  en: /files/EN_resainfo_verhuur2022.pdf
 resainfotrekkers:
-    nl: /files/NL_resainfo_trekkers2022.pdf
-    fr: /files/FR_resainfo_trekkers2022.pdf
-    de: /files/DE_resainfo_trekkers2022.pdf
-    en: /files/EN_resainfo_trekkers2022.pdf
+  nl: /files/NL_resainfo_trekkers2022.pdf
+  fr: /files/FR_resainfo_trekkers2022.pdf
+  de: /files/DE_resainfo_trekkers2022.pdf
+  en: /files/EN_resainfo_trekkers2022.pdf
 
 #covideigenaars:
 #    nl: /files/nlcovideigenaars.pdf
@@ -487,52 +476,49 @@ resainfotrekkers:
 #    fr: /files/frcoviddagtaks.pdf
 #    de: /files/decoviddagtaks.pdf
 
-
-
 # [8] externe links
 kusttram:
-    nl: http://www.delijn.be/nl/kusttram/index.html
-    fr: http://www.delijn.be/fr/kusttram%2Findex.html?vertaling=true
-    de: https://www.delijn.be/de/kusttram/index.html?vertaling=true
-    en: https://www.delijn.be/en/kusttram/index.html?vertaling=true
+  nl: http://www.delijn.be/nl/kusttram/index.html
+  fr: http://www.delijn.be/fr/kusttram%2Findex.html?vertaling=true
+  de: https://www.delijn.be/de/kusttram/index.html?vertaling=true
+  en: https://www.delijn.be/en/kusttram/index.html?vertaling=true
 nmbs:
-    nl: http://www.belgianrail.be/nl
-    fr: http://www.belgianrail.be/fr/home.aspx
-    de: http://www.belgianrail.be/de/Default.aspx
-    en: http://www.belgianrail.be/en/Default.aspx
+  nl: http://www.belgianrail.be/nl
+  fr: http://www.belgianrail.be/fr/home.aspx
+  de: http://www.belgianrail.be/de/Default.aspx
+  en: http://www.belgianrail.be/en/Default.aspx
 q-label:
-    nl: http://www.dekust.be/q-label
-    fr: http://www.dekust.be/q-label
-    de: http://www.dekust.be/q-label
-    en: http://www.dekust.be/q-label
+  nl: http://www.dekust.be/q-label
+  fr: http://www.dekust.be/q-label
+  de: http://www.dekust.be/q-label
+  en: http://www.dekust.be/q-label
 fietsnet:
-    nl: http://www.fietsnet.be/routeplanner/default.aspx
-    fr: http://www.fietsnet.be/routeplanner/default.aspx
-    de: http://www.fietsnet.be/routeplanner/default.aspx
-    en: http://www.fietsnet.be/routeplanner/default.aspx
+  nl: http://www.fietsnet.be/routeplanner/default.aspx
+  fr: http://www.fietsnet.be/routeplanner/default.aspx
+  de: http://www.fietsnet.be/routeplanner/default.aspx
+  en: http://www.fietsnet.be/routeplanner/default.aspx
 ladifference:
-    nl: http://www.la-difference.biz
-    fr: http://www.la-difference.biz
-    de: http://www.la-difference.biz
-    en: http://www.la-difference.biz
+  nl: http://www.la-difference.biz
+  fr: http://www.la-difference.biz
+  de: http://www.la-difference.biz
+  en: http://www.la-difference.biz
 mdue:
-    nl: http://www.facebook.com/Tearoom.mdue
-    fr: https://nl-nl.facebook.com/Tearoom.mdue
-    de: https://nl-nl.facebook.com/Tearoom.mdue
-    en: https://nl-nl.facebook.com/Tearoom.mdue
+  nl: http://www.facebook.com/Tearoom.mdue
+  fr: https://nl-nl.facebook.com/Tearoom.mdue
+  de: https://nl-nl.facebook.com/Tearoom.mdue
+  en: https://nl-nl.facebook.com/Tearoom.mdue
 anthonylams:
-    nl: http://www.anthonylams.be
-    fr: http://www.anthonylams.be
-    de: http://www.anthonylams.be
-    en: http://www.anthonylams.be
+  nl: http://www.anthonylams.be
+  fr: http://www.anthonylams.be
+  de: http://www.anthonylams.be
+  en: http://www.anthonylams.be
 overzetboot:
-    nl: http://www.visitoostende.be/nl/overzetboot-visserskaai-oosteroever
-    fr: http://www.visitoostende.be/fr/overzetboot-visserskaai-oosteroever
-    de: http://www.visitoostende.be/de/overzetboot-visserskaai-oosteroever
-    en: http://www.visitoostende.be/en/overzetboot-visserskaai-oosteroever
-
+  nl: http://www.visitoostende.be/nl/overzetboot-visserskaai-oosteroever
+  fr: http://www.visitoostende.be/fr/overzetboot-visserskaai-oosteroever
+  de: http://www.visitoostende.be/de/overzetboot-visserskaai-oosteroever
+  en: http://www.visitoostende.be/en/overzetboot-visserskaai-oosteroever
 
 # [9] bijzondere posts -> permalink
 welcome-back:
-    nl: /nl/covid/welcome-back.html
-    fr: /fr/covid/welcome-back.html
+  nl: /nl/covid/welcome-back.html
+  fr: /fr/covid/welcome-back.html

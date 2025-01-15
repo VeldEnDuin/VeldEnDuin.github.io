@@ -1,9 +1,9 @@
 - linkcode: verhuur
   menutekst:
-    nl:  Logiestypes
-    fr:  "Types d'hébergement"
-    en:  Accomodation types
-    de:  Unterkunftsarten
+    nl: Logiestypes
+    fr: "Types d'hébergement"
+    en: Accomodation types
+    de: Unterkunftsarten
   submenu:
     - linkcode: verhuur
       booking_form_group: verhuur
@@ -24,7 +24,6 @@
         - linkcode: verhuur_comfort2_caravan
           booking_form_room: comfort2_caravan
 
-
     - linkcode: trekkers
       booking_form_group: kamperen
       submenu:
@@ -33,7 +32,6 @@
           booking_form_room: mobilhome10x8
         - linkcode: trekkers_tent
           booking_form_room: tent10x8
-
 
     - linkcode: residentieel
       submenu:
@@ -48,7 +46,6 @@
         - linkcode: arrangementen
         - linkcode: kadobon
 
-
     - linkcode: te_koop
       submenu:
         - linkcode: te_koop
@@ -56,16 +53,14 @@
         - linkcode: b_72
         - linkcode: c_37
         - linkcode: e_05
-        - linkcode: f_08
         - linkcode: g_12
-
 
 - linkcode: voorzieningen
   menutekst:
-    nl:  Voorzieningen
-    fr:  Équipements
-    de:  Annehmlichkeiten
-    en:  Amenities
+    nl: Voorzieningen
+    fr: Équipements
+    de: Annehmlichkeiten
+    en: Amenities
 
   submenu:
     - submenu:
@@ -80,8 +75,6 @@
         - linkcode: wassalon
         - linkcode: fietsberging
 #        - linkcode: sauna
-
-
 
 - linkcode: praktisch
   menutekst:
@@ -117,7 +110,6 @@
     fr: Activités
     de: Aktivitäten
     en: Do
-
 #- linkcode: covid
 #  menutekst: no
 #  submenu:
