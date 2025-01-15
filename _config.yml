@@ -2,9 +2,28 @@ name: Veld & Duin
 
 markdown: kramdown
 redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+  extensions:
+    [
+      "no_intra_emphasis",
+      "fenced_code_blocks",
+      "autolink",
+      "tables",
+      "with_toc_data",
+    ]
 highlighter: rouge
-exclude: ["rundev.sh", "install.txt", "TODO.md", "Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"]
+exclude:
+  [
+    "rundev.sh",
+    "install.txt",
+    "TODO.md",
+    "Gemfile",
+    "Gemfile.lock",
+    "node_modules",
+    "vendor/bundle/",
+    "vendor/cache/",
+    "vendor/gems/",
+    "vendor/ruby/",
+  ]
 
 description: Veld & Duin, Camping Bredene
 url: http://www.veldenduin.be
@@ -26,49 +45,51 @@ keywords:
   - honden
 
 contact:
-    owner: Veld & Duin nv
-    site-url: www.veldenduin.be
-    street: K. Astridlaan 87
-    zip: 8450
-    city: Bredene
-    gmap:
-        link: "https://www.google.com/maps/place/Veld+%26+Duin/@51.252469,2.978536,17z/data=!3m1!4b1!4m2!3m1!1s0x47dcabdbed16bfd5:0x600d3973fa471661?"
-        embed: "https://www.google.com/maps/embed?&pb=!1m14!1m8!1m3!1d2497.186848621325!2d2.978536!3d51.25246899999999!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47dcabdbed16bfd5%3A0x600d3973fa471661!2sVeld+%26+Duin!5e0!3m2!1snl!2sbe!4v1428597553138"
-    email: info@veldenduin.be
-    phone: +32 59 322 479
-    btw: 478.021.443
+  owner: Veld & Duin nv
+  site-url: www.veldenduin.be
+  street: K. Astridlaan 87
+  zip: 8450
+  city: Bredene
+  gmap:
+    link: "https://www.google.com/maps/place/Veld+%26+Duin/@51.252469,2.978536,17z/data=!3m1!4b1!4m2!3m1!1s0x47dcabdbed16bfd5:0x600d3973fa471661?"
+    embed: "https://www.google.com/maps/embed?&pb=!1m14!1m8!1m3!1d2497.186848621325!2d2.978536!3d51.25246899999999!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47dcabdbed16bfd5%3A0x600d3973fa471661!2sVeld+%26+Duin!5e0!3m2!1snl!2sbe!4v1428597553138"
+  email: info@veldenduin.be
+  phone: +32 59 322 479
+  btw: 478.021.443
 
 geolocation:
-    lat: 51.252331
-    lon: 2.978033
+  lat: 51.252331
+  lon: 2.978033
 fb-app-id: "357843984399164"
 gp-id: "111743051856683336205"
 gcse:
-    apikey: "AIzaSyCMGfdDaSfjqv5zYoS0mTJnOT3e9MURWkU"
-    striplink: (www\\.)?veldenduin\\.be/?
+  apikey: "AIzaSyCMGfdDaSfjqv5zYoS0mTJnOT3e9MURWkU"
+  striplink: (www\\.)?veldenduin\\.be/?
 
 strip-album: "www-footer-imgstrip"
 play-album: "www-foto-album"
 
 links:
-    social:
-        fb: https://www.facebook.com/VeldEnDuin
+  social:
+    fb: https://www.facebook.com/VeldEnDuin
 #  gp: https://plus.google.com/+VeldenduinBe
 #  tw: https://twitter.com/....
 #  in: https://www.linkedin.com/in/....
 
 newsfeed:
-    max: 50
+  max: 50
 
 bannerimg:
-    - /img/banner/banner-01.jpg
-    - /img/banner/banner-02.jpg
-    - /img/banner/banner-06.jpg
-    - /img/banner/banner-13.jpg
-    - /img/banner/banner-15.jpg
-    - /img/banner/banner-17.jpg
-    - /img/banner/banner-21.jpg
-    - /img/banner/banner-26.jpg
-
-
-
+  - /img/banner/banner-02.jpg
+  - /img/banner/banner-06.jpg
+  - /img/banner/banner-13.jpg
+  - /img/banner/banner-15.jpg
+  - /img/banner/banner-17.jpg
+  - /img/banner/banner-21.jpg
+  - /img/banner/banner-26.jpg
+  - /img/banner/banner-31.jpg
+  - /img/banner/banner-32.jpg
+  - /img/banner/banner-33.jpg
+  - /img/banner/banner-34.jpg
+  - /img/banner/banner-35.jpg
+  - /img/banner/banner-36.jpg
