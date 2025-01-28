@@ -43,7 +43,7 @@ Diese neuen Luxusappartements liegen über der Rezeption und bieten einen herrli
 
 ## Einrichtung Luxusappartement
 
-- Großes Wohnzimmer mit Flachbildschirm-TV und Digibox
+- Großes Wohnzimmer mit Digital-TV und Modem
 - Eingerichtete Küche mit Geschirrspülmaschine, Mikrowelle und Philips Barista (Kaffeekapseln)
 - Willkommenspaket mit Kaffee und Tee
 - Badezimmer mit Dusche, Waschbecken und Toilette

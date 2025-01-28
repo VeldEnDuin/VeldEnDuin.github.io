@@ -44,7 +44,7 @@ These chalets are situated in front, close to the playground. Well situated for 
 
 ## Facilities chalet
 
-- spacious living room with flat screen and digital TV
+- spacious living room with digital tv and modem
 - equipped kitchen with microwave and Philips Barista (coffee cups)
 - welcome pack with coffee and tea
 - bathroom with shower, washbasin and toilet

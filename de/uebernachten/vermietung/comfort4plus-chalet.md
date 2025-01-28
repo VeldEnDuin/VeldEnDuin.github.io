@@ -47,7 +47,7 @@ Nach einem herrlichen Tag am Strand oder einem Ausflug in die Umgebung lockt die
 
 ## Einrichtung Chalet
 
-- Großes Wohnzimmer mit Flachbildschirm und Digitalfernseher
+- Großes Wohnzimmer mit Digital-TV und Modem
 - Eingerichtete Küche mit Mikrowelle und Philips Barista (Kaffeekapseln)
 - Willkommenspaket mit Kaffee und Tee
 - Badezimmer mit Dusche, Waschbecken und Toilette

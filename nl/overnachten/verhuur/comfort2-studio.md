@@ -44,7 +44,7 @@ Kom een paar dagjes alleen of met z’n tweeën genieten van de zeelucht. Na een
 
 ## Inrichting studio
 
-- woonkamer met flatscreen en digibox
+- woonkamer met digitale tv en modem
 - ingerichte keuken met microgolf en Philips Barista (koffiecups)
 - welkomstpakketje met koffie en thee
 - badkamer met douche, wastafel en toilet

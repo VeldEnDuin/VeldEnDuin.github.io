@@ -46,7 +46,7 @@ Gelegen boven de receptie bieden deze nieuwe en luxueuze appartementen een mooi 
 
 ## Inrichting luxe appartement
 
-- ruime woonkamer met flatscreen en digibox
+- ruime woonkamer met digitale tv en modem
 - ingerichte keuken met vaatwasmachine, microgolf en Philips Barista (koffiecups)
 - welkomstpakketje met koffie en thee
 - badkamer met douche, wastafel en toilet

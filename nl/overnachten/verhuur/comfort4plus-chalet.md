@@ -46,7 +46,7 @@ Na een heerlijk dagje strand of een uitstapje in de buurt lonkt het overdekte te
 *Tip: Boek je verblijf rechtstreeks en betaal 12% minder dan via Booking of AirBnB.*
 
 ## Inrichting chalet:
-- ruime woonkamer met flatscreen en digitale tv
+- ruime woonkamer met digitale tv en modem
 - ingerichte keuken met microgolf en Philips Barista (koffiecups)
 - welkomstpakketje met koffie en thee
 - badkamer met douche, wastafel en toilet

@@ -43,7 +43,7 @@ Kommen Sie und genießen Sie die Seeluft für ein paar Tage allein oder zu zweit
 
 ## Einrichtung Studio
 
-- Großes Wohnzimmer mit Flachbildschirm-TV und Digibox
+- Großes Wohnzimmer mit Digital-TV und Modem
 - Eingerichtete Küche mit Mikrowelle und Philips Barista (Kaffeekapseln)
 - Willkommenspaket mit Kaffee und Tee
 - Badezimmer mit Dusche, Waschbecken und Toilette

@@ -36,7 +36,7 @@ Auf unseren Parzellen vom Typ 3 kann ein Wohnwagen bis zu 12 Metern aufgestellt 
 - Getrennte Zähler für Gas, Wasser und Strom
 - Unterirdische Gasversorgung – keine Gasflaschen
 - Winterfester Wasseranschluss
-- Preis inklusive [Digital-TV und WLAN][pdf_tvwifi.de] für 4 Geräte
+- Preis inklusive Digital-TV und Wlan
 - Graspflege von Veld & Duin
 
 

@@ -48,7 +48,7 @@ Vous souhaitez venir en dehors de ces heures d’ouverture? Téléphonez à l’
 
 Suivez l'E40 depuis Bruxelles en direction de Gand et ensuite d’Ostende. Peu avant l’entrée d’Ostende, prenez à droite au rond-point Kennedy vers Knokke-Heist - Blankenberge.<br>
 Poursuivez votre route jusqu’au rond-point suivant et continuez tout droit dans la même direction. Vous arrivez à présent sur la Kustbaan que vous suivez pendant six kilomètres jusqu’au panneau "Bredene 100 m" situé à votre droite au niveau des feux de signalisation.<br>
-Prenez à droite et immédiatement à gauche (Driftweg). Empruntez la Driftweg (qui devient assez rapidement la Kapelstraat) pendant environ un kilomètre. Prenez la première rue à droite après l’hôtel Europa.<br>
+Prenez à droite et immédiatement à gauche (Driftweg). Empruntez la Driftweg (qui devient assez rapidement la Kapelstraat) pendant environ un kilomètre. Prenez la première rue à droite après l’hôtel Ibis Styles.<br>
 Tournez ensuite directement à gauche. Veld & Duin se trouve à environ 200 m sur votre droite. Les vacances peuvent commencer!
 
 ## Itinéraire si vous empruntez les transports en commun

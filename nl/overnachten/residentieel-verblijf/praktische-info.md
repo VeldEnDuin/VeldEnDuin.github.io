@@ -19,7 +19,7 @@ icon: info-sign
 
 |         ALLERLEI         | PRIJS                                              |
 | :----------------------: | :------------------------------------------------- |
-|      winterservice       | € 55                                               |
+|      winterservice       | € 60                                               |
 | slagboomkaart (eenmalig) | € 100                                              |
 |    parking extra auto    | € 4 / begonnen dag                                 |
 |       2de parking        | € 125 / jaar                                       |

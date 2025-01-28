@@ -43,7 +43,7 @@ Ein festes Zuhause an der Küste, in das man immer wieder zurückkehrt, wer trä
 - Getrennte Zähler für Gas, Wasser und Strom
 - Unterirdische Gasversorgung – keine Gasflaschen
 - Winterfester Wasseranschluss
-- Preis inklusive [Digital-TV und WLAN][pdf_tvwifi.de] für 4 Geräte
+- Preis inklusive Digital-TV und Wlan
 - Graspflege von Veld & Duin
 
 

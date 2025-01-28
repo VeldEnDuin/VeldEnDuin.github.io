@@ -44,7 +44,7 @@ Les appartements sont situés à deux pas du camping. Tout en profitant de l’e
 
 ## Aménagement de l’appartement
 
-- grand salon avec écran plat et digibox
+- grand salon avec télévision numérique et modem
 - cuisine équipée avec four à micro-ondes et Philips Barista (capsules de café)
 - paquet de bienvenue avec café et thé
 - salle de bains avec douche, lavabo et toilettes

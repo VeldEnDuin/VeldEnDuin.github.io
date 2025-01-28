@@ -43,7 +43,7 @@ Situés au-dessus de la réception, ces nouveaux appartements luxueux offrent un
 
 ## Aménagement de l’appartement de luxe
 
-- grande salle de séjour avec écran plat et digibox
+- grande salle de séjour avec télévision numérique et modem
 - cuisine équipée avec four à micro-ondes et Philips Barista (capsules de café)
 - paquet de bienvenue avec café et thé
 - salle de bains avec douche, lavabo et toilettes

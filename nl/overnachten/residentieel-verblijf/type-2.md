@@ -43,7 +43,7 @@ Een vaste stek aan de kust om steeds opnieuw naar terug te keren, wie droomt daa
 - aparte tellers voor gas - water - elektriciteit
 - ondergronds gasnetwerk - geen gasflessen
 - wintervaste wateraansluiting
-- prijs inclusief [digitale tv en wifi][pdf_tvwifi.nl] voor 4 toestellen
+- prijs inclusief digitale tv en wifi
 - onderhoud gras door Veld & Duin
 
 

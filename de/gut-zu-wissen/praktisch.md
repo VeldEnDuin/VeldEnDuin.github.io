@@ -48,7 +48,7 @@ Möchten Sie außerhalb dieser Öffnungszeiten ankommen? Rufen Sie dann bitte vo
 
 Fahren Sie von Brüssel auf der E40 Richtung Gent und dann weiter Richtung Ostende. Kurz vor Ankunft in Ostende am Kennedy-Kreisverkehr fahren Sie nach rechts Richtung Knokke-Heist – Blankenberge.<br>
 Fahren Sie bis zum nächsten Kreisverkehr und fahren Sie auch dort geradeaus in derselben Richtung weiter. Sie gelangen jetzt auf die Küstenstraße, der Sie ca. 6 Kilometer folgen, bis Sie rechts in Höhe der Ampel das Schild “Bredene 100 m” sehen.<br>
-Biegen Sie hier rechts und gleich wieder links ab (Driftweg). Folgen Sie dem Driftweg, der sehr schnell in die Kapelstraat übergeht, etwa einen Kilometer. Nach dem Europahotel biegen Sie die erste Straße rechts ab.<br>
+Biegen Sie hier rechts und gleich wieder links ab (Driftweg). Folgen Sie dem Driftweg, der sehr schnell in die Kapelstraat übergeht, etwa einen Kilometer. Nach dem Hotel Ibis Styles biegen Sie die erste Straße rechts ab.<br>
 Danach nehmen Sie gleich die nächste links. Etwa 200 m weiter auf der rechten Seite sehen Sie Veld & Duin. Ihr Urlaub kann beginnen!
 
 ## Wegbeschreibung öffentliche Verkehrsmittel

@@ -52,7 +52,7 @@ nl:
         mobilhome10x8:            Verharde plaats
         tent10x8:                 Tentplaats
 
-fr:
+fr:  # gebruik geen appostrophe van op het toetsenbord ' maar gebruik ’
     label: FR
     directions: ["N", "NO", "O", "ZO", "Z", "ZW", "W", "NW"]
     months: ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"]
@@ -73,11 +73,11 @@ fr:
         search: Chercher
         resa_action: Demande de réservation
         resa_formwait: Formulaire de réservation en cours de chargement ... (veuillez patienter)
-        mailchimp: Abonnez-vous à notre bulletin d’information
+        mailchimp: "Abonnez-vous à notre bulletin d’information"
         socmedfollow: Suivez nous
-        sociallinks: Veld & Duin sur les réseaux sociaux
+        sociallinks: "Veld & Duin sur les réseaux sociaux"
         readmore: Lire plus
-        moreinfo: Plus d’infos
+        moreinfo: "Plus d’infos"
         starting: à partir de
         practical_info: Informations pratiques
         other_rental_types: Autres types de logement
@@ -85,10 +85,10 @@ fr:
         imgloading: images en cours de chargement...
         booking_check:            "Chercher"
         booking_start:            "à partir du (jj / mm / aaaa)"
-        booking_end:              "jusqu'au (jj / mm / aaaa)"
+        booking_end:              "jusqu’au (jj / mm / aaaa)"
         booking_type:
-            verhuur:              "-- Choisissez votre type d'hébergement --"
-            kamperen:             "-- Choisissez votre type d'emplacement --"
+            verhuur:              "-- Choisissez votre type d’hébergement --"
+            kamperen:             "-- Choisissez votre type d’emplacement --"
         comfort2_chalet:          Chalet Confort 2
         comfort2_caravan:         Caravane Confort 2
         comfort4_chalet:          Chalet Confort 4

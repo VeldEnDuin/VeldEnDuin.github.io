@@ -4,7 +4,7 @@ title: Chalet B 49
 preview:
   title: Chalet B 49
   list:
-    - "Preis: € 6.000"
+    - "Preis: € 3.500"
     - "type 2"
     - "Garantiert bis Ende 2026"
     - "Verfügbar ab 1/9"

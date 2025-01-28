@@ -20,7 +20,7 @@ icon: info-sign
 
 DIVERSE                       |PREIS           
 :----------------------------:|:---------------
-Winterservice                 |€ 55
+Winterservice                 |€ 60
 Karte für Schranke (einmalig) |€ 100          
 Parkplatz 2. Auto             |€ 4 / angefangenem Tag  
 2. Parkplatz                  |€ 125 / Jahr       

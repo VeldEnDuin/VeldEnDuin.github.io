@@ -43,7 +43,7 @@ Come and enjoy the sea air for a few days alone or in pairs. After a long walk o
 
 ## Facilities studio
 
-- spacious living room with flat screen and set top box
+- spacious living room with digital tv and modem
 - fully equipped kitchen, microwave and Philips Barista (coffee cups)
 - welcome pack with coffee and tea
 - bathroom with shower, washbasin and toilet

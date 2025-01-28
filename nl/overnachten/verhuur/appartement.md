@@ -43,7 +43,7 @@ De appartementen liggen net naast de camping. Zo geniet u van de ruimte van een 
 *Tip: Boek je verblijf rechtstreeks en betaal 12% minder dan via Booking of AirBnB.*
 
 ## Inrichting appartement
-- ruime woonkamer met flatscreen en digibox
+- ruime woonkamer met digitale tv en modem
 - ingerichte keuken met microgolf en Philips Barista (koffiecups)
 - welkomstpakketje met koffie en thee
 - badkamer met douche, wastafel en toilet

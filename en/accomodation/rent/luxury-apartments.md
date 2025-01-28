@@ -43,7 +43,7 @@ Located above the reception these new and luxurious apartments overlook the flor
 
 ## Facilities luxury apartment
 
-- spacious living room with flat screen and set top box
+- spacious living room with digital tv and modem
 - equipped kitchen with dishwasher, microwave and Philips Barista (coffee cups)
 - welcome pack with coffee and tea
 - bathroom with shower, washbasin and toilet

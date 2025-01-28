@@ -37,7 +37,7 @@ Une caravane jusqu'à 12 mètres peut être placée sur nos parcelles de type 3.
 - compteurs séparés pour le gaz – l’eau – l’électricité
 - réseau de gaz souterrain – pas de bonbonnes de gaz
 - raccordement à l’eau pendant l’hiver
-- prix comprenant [la télévision numérique et le wifi][pdf_tvwifi.fr] pour 4 appareils
+- prix comprenant la télévision numérique et le wifi
 - entretien du gazon par Veld & Duin
 
 

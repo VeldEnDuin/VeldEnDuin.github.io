@@ -46,7 +46,7 @@ Would you like to arrive outside these opening hours? Then please call or email 
 
 Follow the E40 from Brussel direction Gent, then take direction Oostende. In Oostende take right at the Kennedy roundabout direction Knokke-Heist- Blankenberge.<br>
 Continue until the next roundabout and continue in the same direction. You are now on the coastal road. Follow this road for about 6 km until you reach the sign “Bredene 100 m” at the traffic lights.<br>
-Turn right and immediately go left (Driftweg). Then follow the Driftweg (name changes into Kapelstraat) for about 1 km. Pass the Europa hotel and take the first street on the right.<br>
+Turn right and immediately go left (Driftweg). Then follow the Driftweg (name changes into Kapelstraat) for about 1 km. Pass the hotel Ibis Styles and take the first street on the right.<br>
 Turn left and Veld & Duin is at about 200 m on your right hand side. Your holiday can start!
 
 ## Directions by public transport

@@ -12,10 +12,10 @@ items:
   images:
   - "/img/doen/bre-cc-stafversl.jpg"
   link:
-    nl: https://stafversluys-centrum.be/nl/home
-    fr: https://stafversluys-centrum.be/fr/home
-    de: https://stafversluys-centrum.be/de/home
-    en: https://stafversluys-centrum.be/en/home
+    nl: https://stafversluys-centrum.be/
+    fr: https://stafversluys-centrum.be/
+    de: https://stafversluys-centrum.be/
+    en: https://stafversluys-centrum.be/
   title:
     nl: Staf Versluyscentrum
     fr: Centre Staf Versluys
@@ -99,9 +99,9 @@ items:
   - "/img/doen/ost-muzee.jpg"
   link:
     nl: http://www.muzee.be/
-    fr: http://www.muzee.be/?null&lang=fr
-    de: http://www.muzee.be/?null&lang=de
-    en: http://www.muzee.be/?null&lang=en
+    fr: http://www.muzee.be/?lang=fr
+    de: http://www.muzee.be/?lang=de
+    en: http://www.muzee.be/?lang=en
   title:
     nl: MuZee
     fr: MuZee
@@ -130,7 +130,7 @@ items:
     de: Provinzdomäne Raversyde
     en: Provinciedomein Raversyde
   caption:
-    nl: Atlanticwall - Oostende
+    nl: Atlantikwall - Oostende
     fr: Le Mur de l’Atlantique - Ostende
     de: Atlantikwall – Ostende
     en: Atlantic Wall - Ostend
@@ -164,10 +164,10 @@ items:
   images:
   - "/img/doen/nprt-ganzepoot.jpg"
   link:
-    nl: http://visit-nieuwpoort.be/nl/de-groote-oorlog
-    fr: http://www.nieuwpoort.be/nieuwpoort/view/fr/nieuwpoort/la_grande_guerre/westfront_nieuwpoort
-    de: http://www.nieuwpoort.be/nieuwpoort/view/de/nieuwpoort/ersten_weltkrieg/westfront_nieuwpoort
-    en: http://www.nieuwpoort.be/nieuwpoort/view/en/nieuwpoort/the_great_war/westfront_nieuwpoort
+    nl: https://www.visit-nieuwpoort.be/westfront
+    fr: https://www.visit-nieuwpoort.be/fr/westfront-nieuwpoort
+    de: https://www.visit-nieuwpoort.be/de/westfront-nieuwpoort
+    en: https://www.visit-nieuwpoort.be/en/westfront-nieuwpoort
   title:
     nl: Westfront
     fr: Front occidental
@@ -286,10 +286,10 @@ items:
   images:
   - "/img/doen/dhn-sierk.jpg"
   link:
-    nl: http://www.desierk.be/welkom-bij-de-sierk
-    fr: http://www.desierk.be/welkom-bij-de-sierk
-    de: http://www.desierk.be/welkom-bij-de-sierk
-    en: http://www.desierk.be/welkom-bij-de-sierk
+    nl: https://www.desierk.be/
+    fr: https://www.desierk.be/
+    de: https://www.desierk.be/
+    en: https://www.desierk.be/
   title:
     nl: De Sierk
     fr: De Sierk
@@ -328,10 +328,10 @@ items:
   images:
   - "/img/doen/speeltuin.jpg"
   link:
-    nl: http://bowlingpaleis.be/oostende/speelpaleis/
-    fr: http://bowlingpaleis.be/oostende/speelpaleis/
-    de: http://bowlingpaleis.be/oostende/speelpaleis/
-    en: http://bowlingpaleis.be/oostende/speelpaleis/
+    nl: https://oostende.bowlingpaleis.be/
+    fr: https://oostende.bowlingpaleis.be/
+    de: https://oostende.bowlingpaleis.be/
+    en: https://oostende.bowlingpaleis.be/
   title:
     nl: Speelpaleis
     fr: Speelpaleis
@@ -447,35 +447,15 @@ items:
   images:
   - "/img/doen/bre-naakt.jpg"
   link:
-    nl: http://uitinbredene.be/index.asp?pid=19
-    fr: http://uitinbredene.be/index.asp?pid=19&lang=FR
-    de: http://uitinbredene.be/index.asp?pid=19&lang=DE
-    en: http://uitinbredene.be/index.asp?pid=19
+    nl: https://www.bredene.be/nl/wat-te-doen/zee-strand/naaktstrand
+    fr: https://www.bredene.be/fr/que-faire/mer-plage/plage-naturiste
+    de: https://www.bredene.be/de/freizeit/meer-und-strand/fkk-strand
+    en: https://www.bredene.be/en/see-and-do/sea-and-beach/nudist-beach
   title:
     nl: naaktstrand Bredene
     fr: plage pour nudistes de Bredene
     de: Nacktbadestrand Bredene
     en: nudist beach Bredene
-  caption:
-    nl: ''
-    fr: ''
-    de: ''
-    en: ''
-- ranking: 270
-  subgroups:
-  - coast
-  images:
-  - "/img/doen/ost-boot.jpg"
-  link:
-    nl: http://www.franlis.be/
-    fr: http://www.franlis.be/fr/home
-    de: http://www.franlis.be/de/home
-    en: http://www.franlis.be/en/home
-  title:
-    nl: boottochten
-    fr: balades en bateau
-    de: Bootstouren
-    en: boat trips
   caption:
     nl: ''
     fr: ''
@@ -487,10 +467,10 @@ items:
   images:
   - "/img/doen/ost-vissen.jpg"
   link:
-    nl: http://www.franlis.be/vissen-op-zee
-    fr: http://www.franlis.be/peche-en-mer/concept
-    de: http://www.franlis.be/sportfischerei/concept
-    en: http://www.franlis.be/seafishing/concept
+    nl: https://www.dekust.be/doen/vissersavontuur
+    fr: https://www.lelittoral.be/faire/aventure-de-la-peche
+    de: https://www.belgischekueste.be/machen/fischerabenteuer
+    en: https://www.belgiancoast.co.uk/do/fishing-adventure
   title:
     nl: vissen op zee
     fr: pêche en mer
@@ -508,10 +488,10 @@ items:
   images:
   - "/img/doen/nieuw-stak.jpg"
   link:
-    nl: http://www.nieuwpoort.be/nieuwpoort/view/nl/nieuwpoort/toerisme/bezoeken/bezienswaardigheden/staketsel
-    fr: http://www.nieuwpoort.be/nieuwpoort/view/fr/nieuwpoort/tourisme/visites/curiosites/estacade
-    de: http://www.nieuwpoort.be/nieuwpoort/view/de/nieuwpoort/tourismus/besuche/sehenswurdigkeiten/mole
-    en: http://www.nieuwpoort.be/nieuwpoort/view/en/nieuwpoort/tourism/visits/sights_of_interest/mole
+    nl: https://www.dekust.be/staketsel-nieuwpoort
+    fr: https://www.lelittoral.be/estacade-nieuwpoort-ooster-westerstaketsel
+    de: https://www.belgischekueste.be/mole-nieuwpoort-ooster-und-westerstaketsel
+    en: https://www.belgiancoast.co.uk/mole-nieuwpoort-ooster-westerstaketsel
   title:
     nl: staketsel Nieuwpoort
     fr: estacade de Nieuport
@@ -529,20 +509,20 @@ items:
   images:
   - "/img/doen/blan-pier.jpeg"
   link:
-    nl: http://www.storms.eu/nl/home
-    fr: http://www.storms.eu/fr/home
-    de: http://www.storms.eu/nl/home
-    en: http://www.storms.eu/en/home
+    nl: https://www.belgiumpier.be/nl/
+    fr: https://www.belgiumpier.be/fr/
+    de: https://www.belgiumpier.be/de/
+    en: https://www.belgiumpier.be/en/
   title:
     nl: pier Blankenberge
     fr: jetée de Blankenberge
     de: Pier Blankenberge
     en: pier Blankenberge
   caption:
-    nl: met tentoonstelling Storms en brasserie
-    fr: Storms Expo et brasserie
-    de: mit Ausstellung “Storms” und Brasserie
-    en: with exhibition “Storms” and brasserie
+    nl: met gezellige brasserie
+    fr: avec brasserie acceuillante
+    de: mit gemütliche Brasserie
+    en: with cosy brasserie
 - ranking: 80
   subgroups:
   - coast
@@ -652,10 +632,10 @@ items:
   images:
   - "/img/doen/kust-markt2.jpg"
   link:
-    nl: http://www.kustmarkten.be/
-    fr: http://www.kustmarkten.be/
-    de: http://www.kustmarkten.be/
-    en: http://www.kustmarkten.be/
+    nl: https://markten.be/markten-aan-de-kust/
+    fr: https://markten.be/markten-aan-de-kust/
+    de: https://markten.be/markten-aan-de-kust/
+    en: https://markten.be/markten-aan-de-kust/
   title:
     nl: (avond)markten
     fr: marchés (nocturnes)
@@ -669,13 +649,14 @@ items:
 - ranking: 390
   subgroups:
   - recrea
+  - kids
   images:
   - "/img/doen/bre-minigolf.jpg"
   link:
-    nl: http://www.uitinbredene.be/index.asp?pid=33
-    fr: http://www.uitinbredene.be/index.asp?pid=33&lang=FR
-    de: http://www.uitinbredene.be/index.asp?pid=33&lang=DE
-    en: http://www.uitinbredene.be/index.asp?pid=33&lang=NL
+    nl: https://www.dekust.be/doen/minigolfen-aan-zee#bredene
+    fr: https://www.lelittoral.be/faire/le-minigolf-au-littoral#bredene
+    de: https://www.belgischekueste.be/machen/minigolf-am-meer#bredene
+    en: https://www.belgiancoast.co.uk/do/mini-golfing-sea#bredene
   title:
     nl: minigolf Bredene
     fr: minigolf de Bredene
@@ -692,10 +673,10 @@ items:
   images:
   - "/img/doen/paard.jpg"
   link:
-    nl: http://www.uitinbredene.be/index.asp?pid=33
-    fr: http://www.uitinbredene.be/index.asp?pid=33&lang=FR
-    de: http://www.uitinbredene.be/index.asp?pid=33&lang=DE
-    en: http://www.uitinbredene.be/index.asp?pid=33
+    nl: https://www.dekust.be/ruitershof
+    fr: https://www.lelittoral.be/ruiterhof
+    de: https://www.belgischekueste.be/ruiterhof
+    en: https://www.belgiancoast.co.uk/ruitershof
   title:
     nl: paardrijden
     fr: équitation
@@ -713,10 +694,10 @@ items:
   images:
   - "/img/doen/bre-zwem.jpg"
   link:
-    nl: http://www.dekust.be/nl/doen/sport-ontspanning/type/zwemgelegenheid
-    fr: http://www.lelittoral.be/fr/a-faire/sport-divertissement/type/natation
-    de: http://www.belgischekueste.be/de/tun/sport-unterhaltung/type/schwimmen
-    en: http://www.belgiancoast.co.uk/en/do/sport-entertainment/type/swim
+    nl: https://www.dekust.be/doen/zwembaden-aan-de-belgische-kust
+    fr: https://www.lelittoral.be/faire/piscines-la-cote-belge
+    de: https://www.belgischekueste.be/machen/schwimmbaeder-der-belgischen-kueste
+    en: https://www.belgiancoast.co.uk/do/swimming-pools-belgian-coast
   title:
     nl: zwemmen
     fr: natation
@@ -734,10 +715,10 @@ items:
   images:
   - "/img/doen/bre-grasduinen.jpg"
   link:
-    nl: http://www.uitinbredene.be/index.asp?pid=62&lang=NL
-    fr: http://www.uitinbredene.be/index.asp?pid=62&lang=FR
-    de: http://www.uitinbredene.be/index.asp?pid=62&lang=DE
-    en: http://www.uitinbredene.be/index.asp?pid=62&lang=NL
+    nl: https://www.bredene.be/nl/wat-te-doen/bezienswaardigheden-attracties/recreatiedomein-grasduinen
+    fr: https://www.bredene.be/fr/que-faire/sites-et-attractions-touristiques/domaine-recreatif-grasduinen
+    de: https://www.bredene.be/de/freizeit/sehenswurdigkeiten-und-attraktionen/erholungsgebiet-grasduinen
+    en: https://www.bredene.be/en/see-and-do/sights-and-attractions/recreatiedomein-grasduinen
   title:
     nl: Grasduinen Bredene
     fr: Grasduinen Bredene
@@ -755,10 +736,10 @@ items:
   images:
   - "/img/doen/bre-dheye.jpg"
   link:
-    nl: http://www.uitinbredene.be/index.asp?pid=26
-    fr: http://www.uitinbredene.be/index.asp?pid=26&lang=FR
-    de: http://www.uitinbredene.be/index.asp?pid=26&lang=DE
-    en: http://www.uitinbredene.be/index.asp?pid=26&lang=NL
+    nl: https://www.bredene.be/nl/wat-te-doen/bezienswaardigheden-attracties/natuurgebied-dheye
+    fr: https://www.bredene.be/fr/reserve-naturelle-dheye
+    de: https://www.bredene.be/de/naturschutzgebiet-dheye
+    en: https://www.bredene.be/en/natuurgebied-dheye
   title:
     nl: D’Heye
     fr: D’Heye
@@ -776,10 +757,10 @@ items:
   images:
   - "/img/doen/bre-ppanne.jpg"
   link:
-    nl: http://www.uitinbredene.be/index.asp?pid=27
-    fr: http://www.uitinbredene.be/index.asp?pid=27&lang=FR
-    de: http://www.uitinbredene.be/index.asp?pid=27&lang=DE
-    en: http://www.uitinbredene.be/index.asp?pid=27&lang=NL
+    nl: https://www.bredene.be/nl/wat-te-doen/bezienswaardigheden-attracties/paelsteenpanne
+    fr: https://www.bredene.be/fr/paelsteenpanne
+    de: https://www.bredene.be/de/paelsteenpanne
+    en: https://www.bredene.be/en/see-and-do/sights-and-attractions/paelsteenpanne
   title:
     nl: Paelsteenpanne
     fr: Paelsteenpanne
@@ -819,9 +800,9 @@ items:
   - "/img/doen/dhn-duinbos.jpg"
   link:
     nl: http://www.natuurenbos.be/duinbossendehaan
-    fr: http://www.visitdehaan.be/fr/faire/curiosites/duinbossen-les-dunes-boisees/1573/
-    de: http://www.visitdehaan.be/de/erleben/sehenswurdigkeiten/duinbossen-die-dunenwalder/1573/?from=
-    en: http://www.visitdehaan.be/en/experience/sights/duinbossen-the-wooded-dunes/1573/?from=
+    fr: https://www.visitdehaan.be/fr/circuit-pedestre-de-duinbossen
+    de: https://www.visitdehaan.be/de/duinbossen-wanderroute
+    en: https://www.visitdehaan.be/en/duinbossen-walking-route
   title:
     nl: Duinbossen
     fr: Duinbossen
@@ -859,10 +840,10 @@ items:
   images:
   - "/img/doen/shop.jpg"
   link:
-    nl: http://www.dekust.be/nl/doen/sport-ontspanning/type/shop-winkel
-    fr: http://www.lelittoral.be/fr/a-faire/sport-divertissement/type/boutique
-    de: http://www.belgischekueste.be/de/tun/sport-unterhaltung/type/laden
-    en: http://www.belgiancoast.co.uk/en/do/sport-entertainment/type/shop
+    nl: https://www.dekust.be/doen/shoppen
+    fr: https://www.lelittoral.be/faire/shopping
+    de: https://www.belgischekueste.be/machen/shoppen
+    en: https://www.belgiancoast.co.uk/do/shopping
   title:
     nl: Shoppen aan de Kust
     fr: Shopping à la côte
@@ -941,15 +922,15 @@ items:
   images:
   - "/img/doen/bistro-res.jpg"
   link:
-    nl: http://www.uitinbredene.be/index.asp?pid=13
-    fr: http://www.uitinbredene.be/index.asp?pid=13&lang=FR
-    de: http://www.uitinbredene.be/index.asp?pid=13&lang=DE
-    en: http://www.uitinbredene.be/index.asp?pid=13&lang=NL
+    nl: https://www.bredene.be/nl/knorrende-maag
+    fr: https://www.bredene.be/fr/petit-creux
+    de: https://www.bredene.be/de/wenn-der-magen-knurrt
+    en: https://www.bredene.be/en/rumbling-stomach
   title:
-    nl: bistro's en restaurants
-    fr: cafés et restaurants
-    de: Bistros und Restaurants
-    en: bistros and restaurants
+    nl: eten in Bredene
+    fr: manger à Bredene
+    de: Essen in Bredene
+    en: eating in Bredene
   caption:
     nl: ''
     fr: ''
@@ -961,10 +942,10 @@ items:
   images:
   - "/img/doen/friet.jpg"
   link:
-    nl: http://www.uitinbredene.be/index.asp?pid=14
-    fr: http://www.uitinbredene.be/index.asp?pid=14&lang=FR
-    de: http://www.uitinbredene.be/index.asp?pid=14&lang=DE
-    en: http://www.uitinbredene.be/index.asp?pid=14&lang=NL
+    nl: https://www.bredene.be/nl/eten-drinken/knorrende-maag/snackbar-en-frituren
+    fr: https://www.bredene.be/fr/manger-boire/petit-creux/snackbars-et-friteries
+    de: https://www.bredene.be/de/snackbars-und-imbiss
+    en: https://www.bredene.be/en/snack-bars-and-chip-shops
   title:
     nl: frituren
     fr: friteries
@@ -982,10 +963,10 @@ items:
   images:
   - "/img/doen/ijs.jpg"
   link:
-    nl: http://www.uitinbredene.be/index.asp?pid=15
-    fr: http://www.uitinbredene.be/index.asp?pid=15&lang=FR
-    de: http://www.uitinbredene.be/index.asp?pid=15&lang=DE
-    en: http://www.uitinbredene.be/index.asp?pid=15&lang=NL
+    nl: https://www.bredene.be/nl/eten-drinken/knorrende-maag/tearooms
+    fr: https://www.bredene.be/fr/salons-de-the
+    de: https://www.bredene.be/de/tearooms
+    en: https://www.bredene.be/en/tearooms
   title:
     nl: tea-rooms en ijssalons
     fr: salons de thé et glaciers
@@ -1022,15 +1003,15 @@ items:
   images:
   - "/img/doen/cinema.jpg"
   link:
-    nl: http://www.dekust.be/nl/doen/sport-ontspanning/type/bioscoop
-    fr: http://www.lelittoral.be/fr/a-faire/sport-divertissement/type/cin%C3%A9ma
-    de: http://www.belgischekueste.be/de/tun/sport-unterhaltung/type/kino
-    en: http://www.belgiancoast.co.uk/en/do/sport-entertainment/type/cinema
+    nl: https://www.dekust.be/doen/theaters-aan-zee
+    fr: https://www.lelittoral.be/faire/theatres-au-bord-de-la-mer
+    de: https://www.belgischekueste.be/machen/theater-am-meer
+    en: https://www.belgiancoast.co.uk/do/theaters-sea
   title:
-    nl: Bioscopen aan de Kust
-    fr: Cinémas à la côte
-    de: Kinos an der Küste
-    en: Cinema on the coast
+    nl: theaters en bioscopen aan zee
+    fr: théatres et cinémas en bord de mer
+    de: Theater und Kinos am Meer
+    en: theatres and cinemas by the sea
   caption:
     nl: ''
     fr: ''
@@ -1043,10 +1024,10 @@ items:
   images:
   - "/img/doen/bowling.jpg"
   link:
-    nl: http://www.dekust.be/nl/search/bowling
-    fr: http://www.lelittoral.be/fr/search/bowling
-    de: http://www.belgischekueste.be/de/search/bowling
-    en: http://www.belgiancoast.co.uk/en/search/bowling
+    nl: https://www.dekust.be/praktisch/zoeken?query=bowling
+    fr: https://www.lelittoral.be/preparer-mon-sejour/chercher?query=bowling
+    de: https://www.belgischekueste.be/planen/suchen?query=bowling
+    en: https://www.belgiancoast.co.uk/plan/search?query=bowling
   title:
     nl: bowling
     fr: bowling
@@ -1064,10 +1045,10 @@ items:
   images:
   - "/img/doen/coastgreeters.jpg"
   link:
-    nl: http://www.dekust.be/nl/belgian-coast-greeters
-    fr: http://www.lelittoral.be/fr/les-belgian-coast-greeters
-    de: http://www.belgischekueste.be/de/belgian-coast-greeters
-    en: http://www.belgiancoast.co.uk/en/belgian-coast-greeters
+    nl: https://www.visitoostende.be/nl/greeters
+    fr: https://www.visitoostende.be/fr/greeters
+    de: https://www.visitoostende.be/de/greeters
+    en: https://www.visitoostende.be/en/greeters
   title:
     nl: Belgian Coast Greeters
     fr: Belgian Coast Greeters
@@ -1128,19 +1109,19 @@ items:
   images:
   - "/img/doen/crystalship.jpg"
   link:
-    nl: http://www.thecrystalship.org/web
-    fr: http://www.thecrystalship.org/web
-    de: http://www.thecrystalship.org/web
-    en: http://www.thecrystalship.org/web
+    nl: https://www.thecrystalship.be/nl
+    fr: https://www.thecrystalship.be/fr
+    de: https://www.thecrystalship.be/de
+    en: https://www.thecrystalship.be/en
   title:
-    nl: The Crystal Ship
-    fr: The Crystal Ship
+    nl: Street Art in Oostende
+    fr: Street Art à Ostende
     de: The Crystal Ship
     en: The Crystal Ship
   caption:
-    nl: Kunstenfestival in de stad
+    nl: Street ARt in Oostende
     fr: Street Art à Ostende
-    de: Street Art in Oostende
+    de: Street Art in Ostende
     en: Street art in Ostend
 #- ranking: 265
 #  location: 51.235579, 2.918323
@@ -1213,15 +1194,15 @@ items:
   images:
   - "/img/doen/hangtime.jpg"
   link:
-    nl: https://www.hangtime.be/
-    fr: https://www.hangtime.be/
-    de: https://www.hangtime.be/
-    en: https://www.hangtime.be/
+    nl: https://jumpsquare.com/be/oostende
+    fr: https://jumpsquare.com/be/oostende
+    de: https://jumpsquare.com/be/oostende
+    en: https://jumpsquare.com/be/oostende
   title:
-    nl: Hangtime
-    fr: Hangtime
-    de: Hangtime
-    en: Hangtime
+    nl: Jumpsquare Trampoline Park
+    fr: Jumpsquare Trampoline Park
+    de: Jumpsquare Trampoline Park
+    en: Jumpsquare Trampoline Park
   caption:
     nl: Trampolinepark - Oostende
     fr: Parc de trampoline - Ostende

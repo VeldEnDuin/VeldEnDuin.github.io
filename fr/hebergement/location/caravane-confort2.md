@@ -41,7 +41,7 @@ Notre charmante petite maison avec jardin privé est parfaitement adapté pour a
 
 ## Aménagement de la caravane
 
-- coin salon avec avec écran plat et TV numérique
+- coin salon avec avec télévision numérique et modem
 - cuisine avec cuisinière à deux plaques et petit four à micro-ondes et Philips Barista (capsules de café)
 - paquet de bienvenue avec café et thé
 - salle de bains avec douche et lavabo

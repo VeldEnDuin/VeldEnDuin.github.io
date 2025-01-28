@@ -37,7 +37,7 @@ Wünschen Sie eine besonders große Parzelle mit Blick auf das zentral gelegene 
 - Getrennte Zähler für Gas, Wasser und Strom
 - Unterirdische Gasversorgung – keine Gasflaschen
 - Winterfester Wasseranschluss
-- Preis inklusive [Digital-TV und WLAN][pdf_tvwifi.de] für 4 Geräte
+- Preis inklusive Digital-TV und Wlan
 - Graspflege von Veld & Duin
 
 

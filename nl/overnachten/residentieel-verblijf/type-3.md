@@ -37,7 +37,7 @@ Op onze type 3 percelen kan een caravan tot 12 meter staan. Deze ruime percelen 
 - aparte tellers voor gas - water - elektriciteit
 - ondergronds gasnetwerk - geen gasflessen
 - wintervaste wateraansluiting
-- prijs inclusief [digitale tv en wifi][pdf_tvwifi.nl] voor 4 toestellen
+- prijs inclusief digitale tv en wifi
 - onderhoud gras door Veld & Duin
 
 

@@ -41,7 +41,7 @@ Unser charmantes kleines Haus mit privatem Garten ist ideal für Menschen, die s
 
 ## Einrichtung Caravan
 
-- Kleines Wohnzimmer mit Flachbildschirm und Digitalfernseher
+- Kleines Wohnzimmer mit Digital-TV und Modem
 - Küche mit 2-flammigem Herd, kleiner Mikrowelle und Philips Barista (Kaffeekapseln)
 - Willkommenspaket mit Kaffee und Tee
 - Badezimmer mit Dusche und Waschbecken

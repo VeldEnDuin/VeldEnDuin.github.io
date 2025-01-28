@@ -41,7 +41,7 @@ Ons charmante tiny house met privé-tuintje is ideaal voor wie houdt van het bui
 *Tip: Boek je verblijf rechtstreeks en betaal 12% minder dan via Booking of AirBnB.*
 
 ## Inrichting caravan
-- kleine woonruimte met flatscreen en digitale tv
+- kleine woonruimte met digitale tv en modem
 - keuken met 2-pits kookvuur, kleine microgolf en Philips Barista (koffiecups)
 - welkomstpakketje met koffie en thee
 - badkamer met douche en wastafel
@@ -62,7 +62,7 @@ Ons charmante tiny house met privé-tuintje is ideaal voor wie houdt van het bui
 - verbruik gas-water-elektriciteit
 
 ## Schoonmaak
-ij vertrek dient u het verblijf netjes achter te laten, alle afval naar het containerpark te brengen en de afwas te doen. Gehuurde lakens en handdoeken graag terugbrengen naar de receptie.
+Bij vertrek dient u het verblijf netjes achter te laten, alle afval naar het containerpark te brengen en de afwas te doen. Gehuurde lakens en handdoeken graag terugbrengen naar de receptie.
 
 
 ## Wat mee te brengen?

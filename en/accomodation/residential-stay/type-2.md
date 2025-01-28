@@ -43,7 +43,7 @@ Do you secretly dream about a place to settle along the coast? Make this dream c
 - separate meters for gas – water – electricity consumption
 - underground gas network – no bottled gas
 - winter proof gas connection
-- price including [digital TV and wifi][pdf_tvwifi.en] for 4 devices
+- price including with digital tv and wifi
 - grass maintenance by Veld & Duin
 
 

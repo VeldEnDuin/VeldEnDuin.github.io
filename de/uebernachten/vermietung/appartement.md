@@ -45,7 +45,7 @@ Die Appartements liegen neben dem Campingplatz. So genießen Sie den Platz eines
 
 ## Einrichtung Appartement
 
-- Großes Wohnzimmer mit Flachbildschirm-TV und Digibox
+- Großes Wohnzimmer mit Digital-TV und Modem
 - Eingerichtete Küche mit Mikrowelle und Philips Barista (Kaffeekapseln)
 - Willkommenspaket mit Kaffee und Tee
 - Badezimmer mit Dusche, Waschbecken und Toilette

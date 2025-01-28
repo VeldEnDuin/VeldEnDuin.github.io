@@ -13,11 +13,11 @@ images:
     - /img/voorzieningen/info/info-06.jpg
     - /img/voorzieningen/info/info-07.jpg
     - /img/voorzieningen/info/info-08.jpg
-    
+
 
 insert:
     - page-images-top
-    
+
 remove:
     - imgstrip
 
@@ -31,7 +31,7 @@ We informeren graag over wat er in de omgeving zoal te beleven is. Dit doen we o
 
 - infobord met alle praktische info zoals prijzen, noodnummers, plattegrond,...
 - brievenkast voor post en kranten
-- de meest actuele tip op het krijtbord
+- de meest actuele tips op het krijtbord
 
 ## Receptie
 

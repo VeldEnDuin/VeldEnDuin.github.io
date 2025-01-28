@@ -44,7 +44,7 @@ Even alleen komen uitwaaien of met z'n tweetjes? In deze chalet is het heerlijk 
 
 ## Inrichting chalet
 
-- woonkamer met flatscreen en digitale tv
+- woonkamer met digitale tv en modem
 - ingerichte keuken met microgolf en Philips Barista (koffiecups)
 - welkomstpakketje met koffie en thee
 - badkamer met douche, wastafel en toilet

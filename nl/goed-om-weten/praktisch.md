@@ -48,7 +48,7 @@ Kun je enkel buiten deze openingsuren aankomen? Gelieve dan vooraf te bellen of 
 
 Volg de E40 vanuit Brussel richting Gent, vervolgens richting Oostende. Net voor aankomst in Oostende aan het Kennedy-rondpunt neem je rechts richting Knokke-Heist - Blankenberge.<br>
 Rij tot het volgende rondpunt en blijf ook daar rechtdoor dezelfde richting volgen. Je komt nu terecht op de kustbaan die je gedurende een 6-tal kilometer blijft volgen tot je aan je rechterkant het bordje 'Bredene 100 m' tegenkomt ter hoogte van de verkeerslichten.<br>
-Sla hier rechts in en dan onmiddellijk links (Driftweg). Vervolg de Driftweg (die vrij snel overgaat in de Kapelstraat) gedurende ongeveer een kilometer. Na het Europahotel neem je de eerste straat rechts.<br>
+Sla hier rechts in en dan onmiddellijk links (Driftweg). Vervolg de Driftweg (die vrij snel overgaat in de Kapelstraat) gedurende ongeveer een kilometer. Na het hotel Ibis Styles neem je de eerste straat rechts.<br>
 Daarna sla je direct linksaf en zo'n 200 m verder op je rechterkant zie je Veld & Duin al liggen. Je vakantie kan beginnen!
 
 ## Wegbeschrijving openbaar vervoer

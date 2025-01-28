@@ -20,7 +20,7 @@ icon: info-sign
 
 DIVERS                  |PRIX         
 :----------------------:|:---------------
-service d'hiver         |€ 55
+service d'hiver         |€ 60
 carte barrière          |€ 100 (unique)           
 parking 2ème voiture    |€ 4 / jour entamé  
 2ème parking            |€ 125 / jaar       

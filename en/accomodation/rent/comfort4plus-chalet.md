@@ -45,7 +45,7 @@ Sit down and relax. Have a glass of wine on the terrace of your chalet after a l
 
 ## Facilities chalet
 
-- spacious living room with flat screen and digital TV
+- spacious living room with digital tv and modem
 - fully equipped kitchen, microwave and Philips Barista (coffee cups)
 - welcome pack with coffee and tea
 - bathroom with shower, washbasin and toilet

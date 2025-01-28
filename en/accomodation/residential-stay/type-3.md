@@ -38,7 +38,7 @@ A caravan up to 12 meters can be placed on our type 3 plots. These spacious plot
 - separate meters for gas – water – electricity consumption
 - underground gas network – no bottled gas
 - winter proof gas connection
-- price including [digital TV and wifi][pdf_tvwifi.en] for 4 devices
+- price including digital tv and wifi
 - grass maintenance by Veld & Duin
 
 

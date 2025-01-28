@@ -42,7 +42,7 @@ Qui n’a jamais rêvé d’un pied-à-terre à la mer pour s’y rendre dès qu
 - compteurs séparés pour le gaz – l’eau – l’électricité
 - réseau de gaz souterrain – pas de bonbonnes de gaz
 - raccordement à l’eau pendant l’hiver
-- prix comprenant [la télévision numérique et le wifi][pdf_tvwifi.fr] pour 4 appareils
+- prix comprenant la télévision numérique et le wifi
 - entretien du gazon par Veld & Duin
 
 

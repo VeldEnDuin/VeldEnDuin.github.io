@@ -31,7 +31,7 @@ Deze plaatsen zijn iets kleiner qua oppervlakte maar bieden evengoed een instant
 - teller voor elektriciteit - forfait water
 - gasflessen
 - geen wintervaste wateraansluiting - sanitairgebouw blijft open
-- prijs inclusief [digitale tv en wifi][pdf_tvwifi.nl] voor 4 toestellen
+- prijs inclusief digitale tv en wifi
 - onderhoud gras door Veld & Duin
 
 

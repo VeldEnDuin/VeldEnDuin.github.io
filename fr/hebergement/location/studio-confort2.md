@@ -43,7 +43,7 @@ Venez profiter de l'air marin pendant quelques jours seul ou à deux. Après une
 
 ## Aménagement du studio
 
-- grande salle de séjour avec écran plat et digibox
+- grande salle de séjour avec télévision numérique et modem
 - cuisine équipée avec four à micro-ondes et Philips Barista (capsules de café)
 - paquet de bienvenue avec café et thé
 - salle de bains avec douche, lavabo et toilettes
