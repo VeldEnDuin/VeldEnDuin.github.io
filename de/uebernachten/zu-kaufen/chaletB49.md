@@ -7,7 +7,7 @@ preview:
     - "Preis: € 3.500"
     - "type 2"
     - "Garantiert bis Ende 2026"
-    - "Verfügbar ab 1/9"
+    - "Verfügbar ab sofort"
 
 images:
   - /img/overnachten/te-koop/B49/01-B49-buiten.jpg

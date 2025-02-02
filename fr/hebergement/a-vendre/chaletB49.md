@@ -7,7 +7,7 @@ preview:
     - "prix: € 3.500"
     - "type 2"
     - "emplacement garanti jusque fin 2026"
-    - "disponible à partir de 1/9"
+    - "disponible: tout de suite"
 
 images:
   - /img/overnachten/te-koop/B49/01-B49-buiten.jpg

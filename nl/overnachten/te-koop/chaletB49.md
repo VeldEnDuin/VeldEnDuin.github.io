@@ -7,7 +7,7 @@ preview:
     - "prijs: € 3.500"
     - "type 2"
     - "gegarandeerd tot eind 2026"
-    - "beschikbaar vanaf 1/9"
+    - "direct beschikbaar"
 
 images:
   - /img/overnachten/te-koop/B49/01-B49-buiten.jpg
