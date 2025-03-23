@@ -10,7 +10,7 @@ icon: info-sign
 
 ## Vorteile des Dauercampings bei Veld & Duin
 
-- Ganzjährig geöffnet –  Sie können sooft kommen, wie Sie wollen
+- Ganzjährig geöffnet –  Sie können so oft kommen, wie Sie möchten
 - Pflege der Grünanlagen durch Veld & Duin
 - Technisches Know-how für Reparaturen
 - [Brandversicherung][pdf_brandverzekering.de]: Möglichkeit eines Abschlusses über unsere Gruppenversicherung
@@ -27,4 +27,4 @@ Parkplatz 2. Auto             |€ 4 / angefangenem Tag
 Mietkosten ⑴                 |€ 11 / Nacht / Unterkunft <br> € 22 / Reservierung
 
 
-⑴ **Mietkosten:**<br> (Enkel-)Kinder und (Groß-)Eltern des Eigentümers dürfen gratis übernachten. Andere Personen oder Mieter, die über Nacht bleiben, müssen registriert werden und den Mietkost bezahlen.
+⑴ **Mietkosten:**<br> (Enkel-)Kinder und (Groß-)Eltern des Eigentümers dürfen kostenlos übernachten. Andere Personen oder Mieter, die über Nacht bleiben, müssen registriert werden und den Mietkost bezahlen.

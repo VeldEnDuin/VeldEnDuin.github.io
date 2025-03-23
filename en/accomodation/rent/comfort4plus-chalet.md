@@ -49,7 +49,7 @@ Sit down and relax. Have a glass of wine on the terrace of your chalet after a l
 - fully equipped kitchen, microwave and Philips Barista (coffee cups)
 - welcome pack with coffee and tea
 - bathroom with shower, washbasin and toilet
-– bedrooms chalet:
+- bedrooms chalet:
     - 1 room with double bed (140x200)
     - 1 room with bunk beds 2x (90x200)
 - covered and fenced terrace with garden furniture
@@ -58,7 +58,7 @@ Sit down and relax. Have a glass of wine on the terrace of your chalet after a l
 
 - chalet for 4 persons
 - check-in: from 2 pm - check-out: until 10 am
-- dogs allowed - max 2 – no dangerous breeds
+- dogs allowed - max 2 - on the leash - no dangerous breeds
 - open for rentals from 15/3 - 15/11
 
 ## included

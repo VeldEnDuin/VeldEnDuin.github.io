@@ -1,14 +1,14 @@
 ---
-title: Datenschutzerkläung
+title: Datenschutzerklärung
 layout: page
 
 images:
     - /img/goedomweten/privacy/privacy.jpg
-    
+
 
 insert:
     - page-images-top
-    
+
 ---
 
 {% include links.md %}
@@ -17,10 +17,10 @@ Wir respektieren die Privatsphäre der Besucher der Website und sorgen dafür, d
 
 
 ## Ziele der Datenverarbeitung
-Ihre personenbezogenen Daten werden von uns verarbeitet, um Verträge und Buchungen zu erstellen und auszuführen sowie zur Verwaltung der daraus entstehenden Beziehungen, wozu auch Tätigkeiten zählen, die auf die Vergrößerung des Kundenbestands abzielen. 
+Ihre personenbezogenen Daten werden von uns verarbeitet, um Verträge und Buchungen zu erstellen und auszuführen sowie zur Verwaltung der daraus entstehenden Beziehungen, wozu auch Tätigkeiten zählen, die auf die Vergrößerung des Kundenbestands abzielen.
 
 ## Ausfüllen von Formularen über die Website
-Wenn Sie ein Kontakt- oder Anmeldeformular auf der Website ausfüllen oder uns eine E-Mail schicken, dann werden die Daten, die Sie uns damit schicken, solange aufbewahrt, wie für die vollständige Beantwortung und Bearbeitung der Angelegenheit erforderlich ist. 
+Wenn Sie ein Kontakt- oder Anmeldeformular auf der Website ausfüllen oder uns eine E-Mail schicken, dann werden die Daten, die Sie uns damit schicken, solange aufbewahrt, wie für die vollständige Beantwortung und Bearbeitung der Angelegenheit erforderlich ist.
 
 ## Klickverhalten und Daten des Besuchs
 Auf der Website werden laufend allgemeine Daten des Besuchs gespeichert. In diesem Zusammenhang können insbesondere die IP-Adresse Ihres Computers, der eventuelle Nutzername, der Zeitpunkt des Seitenaufrufs und die Daten, die der Browser eines Besuchers mitschickt, erfasst und für statistische Analysen des Besuchs- und Klickverhaltens auf der Website genutzt werden. Gleichzeitig optimieren wir hiermit die Funktionsweise der Website. Wir versuchen, diese Daten soweit wie möglich zu anonymisieren. Diese Daten werden nicht an Dritte weitergegeben.
@@ -56,5 +56,3 @@ Der Kunde hat das Recht, eine Beschwerde einzureichen beim Ausschuss zum Schutz 
 
 ## Änderungen der Datenschutzerklärung
 Wir behalten uns das Recht vor, diese Datenschutzerklärung zu ändern. Änderungen werden auf dieser Website veröffentlicht.
-
-

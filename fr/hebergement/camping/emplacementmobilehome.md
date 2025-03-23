@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Emplacement pour mobilhome / caravane 10x8
+title: Emplacement pour mobilhome / caravane
 description: emplacements spacieux et pavés pour les campeurs
 preview:
     title: Emplacement endurci

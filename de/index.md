@@ -26,4 +26,4 @@ class:
 ## Willkommen!
 
 Als Familienunternehmen garantiert Veld & Duin seit mehr als 55 Jahren einen gastfreundlichen Empfang auf unserem grünen, gepflegten und modernen Campingplatz, nur wenige Gehminuten vom Meer entfernt.
-Bredene weiß, wie man jeden Naturliebhaber mit seinem wunderschönen Dünengürtel bezaubert und ist der ideale Ausgangspunkt für Ausflüge in andere Küstenstädte, Brügge und das umliegende Polder.
+Bredene, mit seinem schönen Dünengürtel, weiß jeden Naturliebhaber zu begeistern und ist der ideale Ausgangspunkt für Ausflüge in andere Küstenstädte, Brügge und das umliegende Polder.

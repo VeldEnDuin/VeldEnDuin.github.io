@@ -32,7 +32,7 @@ Nous avons 1 emplacement disponible pour une petite à moyenne tente (maximum 4 
 - chiens admis – max. 2 – en laisse – pas de races dangereuses
 - période hiver 15/11-15/3: fermé
 
-## Prix 2024 par nuit
+## Prix 2025 par nuit
 
 ### Emplacement tente
 

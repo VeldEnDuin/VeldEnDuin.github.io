@@ -41,7 +41,7 @@ Our charming tiny house with private garden is suitable for those who love being
 
 ## Facilities caravan
 
-- small living room with with digital tv and modem
+- small living room with digital tv and modem
 - kitchen with cooker (2 hot plates), small microwave and Philips Barista (coffee cups)
 - welcome pack with coffee and tea
 - bathroom with shower and washbasin

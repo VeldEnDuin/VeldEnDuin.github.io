@@ -13,11 +13,11 @@ images:
     - /img/voorzieningen/info/info-06.jpg
     - /img/voorzieningen/info/info-07.jpg
     - /img/voorzieningen/info/info-08.jpg
-    
+
 
 insert:
     - page-images-top
-    
+
 remove:
     - imgstrip
 
@@ -31,7 +31,7 @@ Wir informieren Sie gern darüber, was in der Umgebung so alles zu erleben ist. 
 
 - Informationstafel mit allen praktischen Infos wie Preisen, Notrufnummern, Plan usw.
 - Briefkasten für Ihre Post oder Zeitung
-- Aktuellste Tipps auf der Tafel
+- Aktuellste Tipps auf der Kreidetafel
 
 ## Empfang
 
@@ -43,5 +43,5 @@ Wir informieren Sie gern darüber, was in der Umgebung so alles zu erleben ist. 
 
 ## Tourismusamt
 
-- Standort gleich gegenüber dem Campingplatz 
+- Standort gleich gegenüber dem Campingplatz
 - Täglich geöffnet

@@ -23,15 +23,15 @@ insert:
 
 <B>15/03 - 15/11</B>
 - monday - friday - saturday
-    - 09u00 - 12u00
-    - 13u30 - 17u00
+    - 09.00 - 12.00 hrs
+    - 13.30 - 17.00 hrs
 - tuesday - wednesday - thursday - sunday
-    - 09u00 - 12u00
+    - 09.00 - 12.00 hrs
 
 <B>01/07 - 31/08</B>
 - every day
-    - 09u00 - 12u00
-    - 13u30 - 17u00
+    - 09.00 - 12.00 hrs
+    - 13.30 - 17.00 hrs
 
 <B>15/11 - 15/03</B>
 - by appointment (by phone or e-mail)

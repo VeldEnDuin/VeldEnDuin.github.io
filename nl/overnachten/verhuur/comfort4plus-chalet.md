@@ -84,7 +84,7 @@ EXTRA               | PRIJS
 :-------------------|:-----------|
 hond                | € 5 / nacht - max 2
 lakenpakket         | € 12 / bed
-handdoekpakket      | € 6,5 / bed
+handdoekpakket      | € 6,5 / pakket (1 grote en 1 kleine handdoek)
 kinderbed           | € 2 / nacht
 kinderstoel         | € 2 / nacht
 parking extra auto      | € 4 / begonnen dag

@@ -35,10 +35,10 @@ Gleich beim Betreten des Geländes wird deutlich, dass wir eine gepflegte vielse
 
 Grün bedeutet auch, nach einem möglichst nachhaltigen Betrieb zu streben. Hier tragen wir unter anderem bei:
 
-- bei den Luxusappartements und den erneuerten Sanitäranlagen verwenden wir Solarboiler
-- wir setzen auf Abfalltrennung
-- bei der Anlage neuer Parzellen sehen wir eine Abwassertrennung vor
-- wir haben Sparduschköpfe installiert
+- den Einsetz von Solarkessel für die Luxusappartements und erneuerten Sanitäranlagen
+- Abfalltrennung
+- getrennte Abwassertrennung bei der Anlage neuer Parzellen
+- Sparduschköpfe im Sanitäranlage
 - Sonnenkollektoren auf dem Fahrradschuppen und dem Sanitärgebäude
 - 2 Ladestationen für Elektroautos
 

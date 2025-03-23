@@ -409,10 +409,10 @@ items:
   images:
   - "/img/doen/ost-raveel.jpg"
   link:
-    nl: http://www.visitoostende.be/nl/overzetboot-visserskaai-oosteroever
-    fr: http://www.visitoostende.be/fr/overzetboot-visserskaai-oosteroever
-    de: http://www.visitoostende.be/de/overzetboot-visserskaai-oosteroever
-    en: http://www.visitoostende.be/en/overzetboot-visserskaai-oosteroever
+    nl: https://www.visitoostende.be/nl/overzetboot
+    fr: https://www.visitoostende.be/fr/bac
+    de: https://www.visitoostende.be/de/fahre
+    en: https://www.visitoostende.be/en/ferry
   title:
     nl: veerverbinding Oostende
     fr: Bac Ostende

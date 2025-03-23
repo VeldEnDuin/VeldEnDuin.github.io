@@ -28,7 +28,7 @@ We have 1 tent pitch available for a small to medium-sized tent (maximum 4 peopl
 ## Worth knowing
 
 - tent pitch: max 4 persons/ pitch
-- dogs allowed - max 2 – no dangerous breeds
+- dogs allowed - max 2 - on the leash - no dangerous breeds
 - winter period 15/11-15/03: closed
 
 ## Prices 2025 per night

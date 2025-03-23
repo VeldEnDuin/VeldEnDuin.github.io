@@ -25,15 +25,15 @@ plan:
   fr: /img/plan-camping.png
   en: /img/plan-camping.png
 plan_mobilhome:
-  nl: /img/plan-camping-kampeerplaats.jpg
-  de: /img/plan-camping-kampeerplaats.jpg
-  fr: /img/plan-camping-kampeerplaats.jpg
-  en: /img/plan-camping-kampeerplaats.jpg
+  nl: /img/plan-camping-kampeerplaats.png
+  de: /img/plan-camping-kampeerplaats.png
+  fr: /img/plan-camping-kampeerplaats.png
+  en: /img/plan-camping-kampeerplaats.png
 plan_tent:
-  nl: /img/plan-camping-tent.jpg
-  de: /img/plan-camping-tent.jpg
-  fr: /img/plan-camping-tent.jpg
-  en: /img/plan-camping-tent.jpg
+  nl: /img/plan-camping-tent.png
+  de: /img/plan-camping-tent.png
+  fr: /img/plan-camping-tent.png
+  en: /img/plan-camping-tent.png
 plan_appcomf4plus:
   nl: /img/plan-camping-appcomf4plus.png
   de: /img/plan-camping-appcomf4plus.png
@@ -288,10 +288,6 @@ b_72:
   nl: /nl/overnachten/te-koop/chaletB72.html
   fr: /fr/hebergement/a-vendre/chaletB72.html
   de: /de/uebernachten/zu-kaufen/chaletB72.html
-e_05:
-  nl: /nl/overnachten/te-koop/caravanE05.html
-  fr: /fr/hebergement/a-vendre/caravanE05.html
-  de: /de/uebernachten/zu-kaufen/caravanE05.html
 g_12:
   nl: /nl/overnachten/te-koop/caravanG12.html
   fr: /fr/hebergement/a-vendre/caravanG12.html
@@ -509,10 +505,10 @@ anthonylams:
   de: http://www.anthonylams.be
   en: http://www.anthonylams.be
 overzetboot:
-  nl: http://www.visitoostende.be/nl/overzetboot-visserskaai-oosteroever
-  fr: http://www.visitoostende.be/fr/overzetboot-visserskaai-oosteroever
-  de: http://www.visitoostende.be/de/overzetboot-visserskaai-oosteroever
-  en: http://www.visitoostende.be/en/overzetboot-visserskaai-oosteroever
+  nl: https://www.visitoostende.be/nl/overzetboot
+  fr: https://www.visitoostende.be/fr/bac
+  de: https://www.visitoostende.be/de/fahre
+  en: https://www.visitoostende.be/en/ferry
 
 # [9] bijzondere posts -> permalink
 welcome-back:

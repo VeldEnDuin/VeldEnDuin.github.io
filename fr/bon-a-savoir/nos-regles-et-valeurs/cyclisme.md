@@ -37,7 +37,7 @@ Pour faciliter nos hôtes sportifs, nous avons accroché une maxi version de la 
 
 Veld & Duin se situe à 200 mètres du point nodal le plus proche (réseau de pistes cyclables du littoral – point nodal numéro 56).
 
-Vous pourrez emprunter à la réception les cartes du réseau de pistes cyclables (caution: 10 €). Elles sont également vendues à l’office du tourisme.
+Vous pourrez emprunter à la réception les cartes du réseau de pistes cyclables (caution: € 10). Elles sont également vendues à l’office du tourisme.
 
 
 ## Label "Fietsvriendelijk logies"
@@ -47,7 +47,7 @@ Nous avons obtenu ce label pour la première fois en 2004. Nous continuons à me
 Nous mettons notamment à votre disposition:
 
 
-- notre garage à vélos (2 € / vélo / nuit) - réservation à la réception
+- notre garage à vélos (€ 2 / vélo / nuit) - réservation à la réception
 - des râteliers à vélo à la réception et sur le terrain de jeu
 
 

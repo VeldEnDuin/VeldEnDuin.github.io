@@ -76,7 +76,6 @@ Sheet sets and towels can also be rented.
 
 EXTRA SERVICE            | PRICE
 :-------------------|:-----------|
-dogs               | € 5 / night - max 1
 bed linen        | € 12 / bed
 towel package       | € 6,5 / package (1 large and 1 small towel)
 baby cot          | € 2 / night

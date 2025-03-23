@@ -18,7 +18,7 @@ insert:
 
 remove:
     - imgstrip
-    
+
 
 ---
 
@@ -31,4 +31,4 @@ Nos installations sanitaires sont à la disposition des campeurs:
 * 3 déversoirs pour toilettes chimiques
 * 3 lavabos
 
-Prix du jeton de douche: 1,50 € pour 6 minutes d’eau chaude - jetons vendus à la réception.
+Prix du jeton de douche: €1,50 pour 6 minutes d’eau chaude - jetons vendus à la réception.

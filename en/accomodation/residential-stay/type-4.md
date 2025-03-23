@@ -36,7 +36,7 @@ Would you like a big plot overlooking the wadi? Choose one of our luxurious plac
 - concrete slab of 12x4 m
 - separate meters for gas – water – electricity consumption
 - underground gas network – no bottled gas
-- winter proof gas connection
+- winter proof water connection
 - price including digital tv and wifi
 - grass maintenance by Veld & Duin
 

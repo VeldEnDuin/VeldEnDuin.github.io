@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Verharde plaats mobilhome / trekcaravan 10x8
+title: Verharde plaats mobilhome / trekcaravan 
 description: ruime en verharde percelen voor campers of trekcaravans
 preview:
     title: Verharde plaats
