@@ -4,7 +4,7 @@ title: Chalet B 01
 preview:
   title: Chalet B 01
   list:
-    - "prijs: € 4.250"
+    - "prijs: € 4.000"
     - "type 2"
     - "gegarandeerd tot eind 2026"
     - "beschikbaar direct"
@@ -29,7 +29,7 @@ insert:
 | CHALET B 01                | INFO                      |
 | :------------------------- | :------------------------ |
 | Oppervlakte chalet         | ca 35 m²                  |
-| Terras                     | overdekt terras           |
+| Overdekt terras            | neen                      |
 | Ramen                      | dubbel glas               |
 | Soort verwarming           | gas                       |
 | Keuken                     | open keuken               |
@@ -37,4 +37,4 @@ insert:
 | Aantal slaapkamers         | 2                         |
 | Verdeling bedden           | 1 dubbelbed + 1 stapelbed |
 | Inboedel chalet            | inbegrepen                |
-| Standplaatsvergoeding 2025 | inbegrepen                |
+| Standplaatsvergoeding 2025 | pro rata                  |

@@ -49,8 +49,9 @@
     - linkcode: te_koop
       submenu:
         - linkcode: te_koop
-        #- linkcode: b_01
+        - linkcode: b_01
         - linkcode: b_49
+        #- linkcode: b_68
         - linkcode: g_12
         - linkcode: g_14
 

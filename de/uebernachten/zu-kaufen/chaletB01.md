@@ -4,7 +4,7 @@ title: Chalet B 01
 preview:
   title: Chalet B 01
   list:
-    - "Preis: € 4.250"
+    - "Preis: € 4.000"
     - "type 2"
     - "Garantiert bis Ende 2026"
     - "Verfügbar sofort"
@@ -29,7 +29,7 @@ insert:
 | CHALET B 01               | INFO                      |
 | :------------------------ | :------------------------ |
 | Fläche Chalet             | ca 35 m²                  |
-| Terrasse                  | überdachte Terrasse       |
+| Überdachte Terrasse       | nein                      |
 | Fenster                   | Doppelverglasung          |
 | Heizungsart               | Gas                       |
 | Küche                     | offene Wohnküche          |
@@ -37,4 +37,4 @@ insert:
 | Anzahl Schlafzimmer       | 2                         |
 | Aufteilung Betten         | 1 Doppelbett + Etagenbett |
 | Hausrat Chalet            | inbegriffen               |
-| Vergütung Standplatz 2025 | inbegriffen               |
+| Vergütung Standplatz 2025 | pro rata                  |
