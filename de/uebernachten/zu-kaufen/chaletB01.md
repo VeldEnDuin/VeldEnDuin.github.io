@@ -4,7 +4,7 @@ title: Chalet B 01
 preview:
   title: Chalet B 01
   list:
-    - "Preis: € 4.000"
+    - "Preis: € 3.000"
     - "type 2"
     - "Garantiert bis Ende 2026"
     - "Verfügbar sofort"

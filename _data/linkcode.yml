@@ -288,18 +288,10 @@ b_49:
   nl: /nl/overnachten/te-koop/chaletB49.html
   fr: /fr/hebergement/a-vendre/chaletB49.html
   de: /de/uebernachten/zu-kaufen/chaletB49.html
-b_68:
-  nl: /nl/overnachten/te-koop/chaletB68.html
-  fr: /fr/hebergement/a-vendre/chaletB68.html
-  de: /de/uebernachten/zu-kaufen/chaletB68.html
 g_12:
   nl: /nl/overnachten/te-koop/caravanG12.html
   fr: /fr/hebergement/a-vendre/caravanG12.html
   de: /de/uebernachten/zu-kaufen/caravanG12.html
-g_14:
-  nl: /nl/overnachten/te-koop/caravanG14.html
-  fr: /fr/hebergement/a-vendre/caravanG14.html
-  de: /de/uebernachten/zu-kaufen/caravanG14.html
 
 # [3] menu - voorzieningen
 voorzieningen:
