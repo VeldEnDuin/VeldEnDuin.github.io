@@ -4,7 +4,7 @@ title: Caravan G 15
 preview:
     title: Caravan G 15
     list:
-        - "Preis: € 56.000"
+        - "Preis: € 55.000"
         - "type 3"
         - "Verfügbar: ab sofort"
 
@@ -40,4 +40,4 @@ Verteilung von Betten       |1x Doppelbett + 2x Einzelbette
 Fenster                     |Doppelverglasung
 Heizung                     |Truma
 Hausrat                     |inbegriffen ausserhalb persönliche Sachen
-Standgebühr 2024            |inbegriffen
+Standgebühr 2025            |inbegriffen

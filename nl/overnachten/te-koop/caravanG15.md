@@ -4,7 +4,7 @@ title: Caravan G 15
 preview:
     title: Caravan G 15
     list:
-        - "prijs: € 56.000"
+        - "prijs: € 55.000"
         - "type 3"
         - "beschikbaar: direct"
 
@@ -42,4 +42,4 @@ Verdeling bedden            |1x dubbelbed + 2x enkel bed
 Ramen                       |dubbel glas
 Soort verwarming            |Truma
 Inboedel caravan            |inbegrepen muv persoonlijke zaken
-Standplaatsvergoeding 2024  |inbegrepen
+Standplaatsvergoeding 2025  |inbegrepen
