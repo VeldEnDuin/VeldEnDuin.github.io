@@ -40,4 +40,4 @@ insert:
 | Fenster                      | Doppelverglasung                          |
 | Heizung                      | Truma                                     |
 | Hausrat                      | inbegriffen ausserhalb persönliche Sachen |
-| Standgebühr 2025             | nicht inbegriffen                         |
+| Standgebühr 2025             | inbegriffen                               |

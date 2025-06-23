@@ -40,4 +40,4 @@ insert:
 | Fenêtres                     | double vitrage                  |
 | Chauffage                    | Truma                           |
 | Mobilier de caravane         | inclus sauf choses personnels   |
-| Indemnité de résidence 2025  | non inclus                      |
+| Indemnité de résidence 2025  | inclus                          |

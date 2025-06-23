@@ -40,4 +40,4 @@ insert:
 | Ramen                       | dubbel glas                       |
 | Soort verwarming            | Truma                             |
 | Inboedel caravan            | inbegrepen muv persoonlijke zaken |
-| Standplaatsvergoeding 2025  | niet inbegrepen                   |
+| Standplaatsvergoeding 2025  | inbegrepen                        |
