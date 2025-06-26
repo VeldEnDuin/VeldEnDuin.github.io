@@ -39,7 +39,7 @@ preview:
 
 
 
-Der Campingplatz ist stets zugänglich für die Eigentümer eines Chalets Wohnwagens oder Dauerstandplatzes.
+Der Campingplatz ist für die Eigentümer eines Chalets, Wohnwagens oder Dauerstandplatzes jederzeit zugänglich.
 
 Möchten Sie außerhalb dieser Öffnungszeiten ankommen? Rufen Sie dann bitte vorher an oder schreiben Sie uns eine E-Mail, um die Details zu besprechen.
 

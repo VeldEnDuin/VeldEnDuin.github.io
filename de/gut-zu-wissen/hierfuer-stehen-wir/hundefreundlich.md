@@ -19,26 +19,26 @@ insert:
 
 remove:
     - imgstrip
-    
+
 ---
 
 Ihr Hund ist auf dem Campingplatz recht herzlich willkommen.<br>
 Auch in den Mietchalets und Wohnwagen sind Hunde willkommen, nicht jedoch in den (Luxus-)Appartements.<br>
 
 
-## Spielregeln 
+## Spielregeln
 
 Hundebesitzer sind immer für ihren Hund haftbar. Hier ein paar Spielregeln, die streng befolgt werden müssen, sodass andere Gäste nicht belästigt werden:
 
-- Haustiere auf dem Campingplatz gehören an die Leine.
+- Haustiere auf dem Campingplatz gehören immer an die Leine.
 - Kot wird sofort aufgesammelt.
 - Hunde bleiben auf der eigenen Parzelle.
 - Pro Parzelle sind höchstens 2 Hunde zugelassen.
 - Gefährliche Rassen sind nicht zugelassen.
- 
+
 ## Hund ausführen
 
-Ein Hund kann im gegenüberliegenden Paelsteenveld-Park oder am Strand ausgeführt werden. 
+Ein Hund kann im gegenüberliegenden Paelsteenveld-Park oder am Strand ausgeführt werden.
 
 ### Strand
 
@@ -47,4 +47,3 @@ Ein Hund kann im gegenüberliegenden Paelsteenveld-Park oder am Strand ausgefüh
 - 1.7. bis 31.8.: Hunde sind zwischen 10:30 und 18:30 Uhr am Strand nicht zugelassen. Ausnahmen:    
     - Strandbereiche nach Strandposten 1 (Twinsclub) bis zur Grenze von Ostende
     - Bereich zwischen Strandposten 6 und dem Nacktbadestrand
-
