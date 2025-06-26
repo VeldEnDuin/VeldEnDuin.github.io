@@ -7,7 +7,7 @@ preview:
     - "prix: € 3.500"
     - "type 2"
     - "emplacement garanti jusque fin 2026"
-    - "disponible: tout de suite"
+    - "disponible: à partir de 1/9"
 
 images:
   - /img/overnachten/te-koop/B49/01-B49-buiten.jpg
@@ -36,4 +36,4 @@ insert:
 | Nombre de chambres           | 2                                                                                        |
 | Répartition des lits         | 1 lits double + lits superposés                                                          |
 | Mobilier du chalet           | inclus sauf four, gril, poêle à griller, robot ménager, aspirateur, ustensils de travail |
-| Allocation de résidence 2025 | non inclus                                                                               |
+| Allocation de résidence 2025 | inclus                                                                               |

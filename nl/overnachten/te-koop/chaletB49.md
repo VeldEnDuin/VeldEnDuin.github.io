@@ -7,7 +7,7 @@ preview:
     - "prijs: € 3.500"
     - "type 2"
     - "gegarandeerd tot eind 2026"
-    - "direct beschikbaar"
+    - "beschikbaar vanaf 1/9"
 
 images:
   - /img/overnachten/te-koop/B49/01-B49-buiten.jpg
@@ -36,4 +36,4 @@ insert:
 | Aantal slaapkamers         | 2                                                                             |
 | Verdeling bedden           | 1 dubbelbed + 1 stapelbed                                                     |
 | Inboedel chalet            | inbegrepen behalve oven, grill, grillpan, keukenrobot, stofzuiger, werkgerief |
-| Standplaatsvergoeding 2025 | niet inbegrepen                                                               |
+| Standplaatsvergoeding 2025 | inbegrepen                                                               |

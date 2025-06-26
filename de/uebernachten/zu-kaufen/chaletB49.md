@@ -7,7 +7,7 @@ preview:
     - "Preis: € 3.500"
     - "type 2"
     - "Garantiert bis Ende 2026"
-    - "Verfügbar ab sofort"
+    - "Verfügbar ab 1/9"
 
 images:
   - /img/overnachten/te-koop/B49/01-B49-buiten.jpg
@@ -36,4 +36,4 @@ insert:
 | Anzahl Schlafzimmer       | 2                                                                                                |
 | Aufteilung Betten         | 1 Doppelbett + Etagenbett                                                                        |
 | Hausrat Chalet            | inbegriffen ausserhalb Backofen, Tefal Grill, Küchenmaschine, Grillpfanne, Staubsauger, Werkzeug |
-| Vergütung Standplatz 2025 | nicht inbegriffen                                                                                |
+| Vergütung Standplatz 2025 | inbegriffen                                                                                |
