@@ -4,7 +4,7 @@ title: Caravane G 15
 preview:
     title: Caravane G 15
     list:
-        - "prix: € 55.000"
+        - "prix: € 50.000"
         - "type 3"
         - "disponible: tout de suite"
 

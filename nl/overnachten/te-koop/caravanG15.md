@@ -4,7 +4,7 @@ title: Caravan G 15
 preview:
     title: Caravan G 15
     list:
-        - "prijs: € 55.000"
+        - "prijs: € 50.000"
         - "type 3"
         - "beschikbaar: direct"
 
