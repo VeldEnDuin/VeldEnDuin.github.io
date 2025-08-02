@@ -4,7 +4,7 @@ title: Caravan G 19
 preview:
     title: Caravan G 19
     list:
-        - "prijs: € 55.000"
+        - "prijs: € 52.000"
         - "type 3"
         - "beschikbaar: direct"
 
@@ -40,5 +40,5 @@ Aantal slaapkamers          |2
 Verdeling bedden            |1x dubbelbed + 2x enkel bed
 Ramen                       |dubbel glas
 Soort verwarming            |Truma
-Inboedel caravan            |inbegrepen muv tv en persoonlijke zaken
+Inboedel caravan            |inbegrepen muv Dolce Gusto, tuinset, bbq
 Standplaatsvergoeding 2025  |inbegrepen

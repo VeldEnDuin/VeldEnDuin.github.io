@@ -4,7 +4,7 @@ title: Caravane G 19
 preview:
     title: Caravane G 19
     list:
-        - "prix: € 55.000"
+        - "prix: € 52.000"
         - "type 3"
         - "disponible: tout de suite"
 
@@ -40,5 +40,5 @@ Nombre de chambres à coucher|2
 Distribution des lits       |1x lit double + 2x lits simples
 Fenêtres                    |double vitrage
 Chauffage                   |Truma
-Mobilier de caravane        |inclus sauf tv et choses personnels
+Mobilier de caravane        |inclus sauf Dolce Gusto, mobilier de jardin, bbq
 Indemnité de résidence 2025 |inclus

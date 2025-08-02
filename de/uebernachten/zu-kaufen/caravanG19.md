@@ -4,7 +4,7 @@ title: Caravan G 19
 preview:
     title: Caravan G 19
     list:
-        - "Preis: € 55.000"
+        - "Preis: € 52.000"
         - "type 3"
         - "Verfügbar: ab sofort"
 
@@ -38,5 +38,5 @@ Anzahl Schlafzimmer         |2
 Verteilung von Betten       |1x Doppelbett + 2x Einzelbette
 Fenster                     |Doppelverglasung
 Heizung                     |Truma
-Hausrat                     |inbegriffen ausserhalb TV und persönliche Sachen
+Hausrat                     |inbegriffen ausserhalb Dolce Gusto, Gartenmöble, bbq
 Standgebühr 2025            |inbegriffen
