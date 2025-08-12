@@ -39,6 +39,6 @@ Terras                      |ja
 Aantal slaapkamers          |2
 Verdeling bedden            |1x dubbelbed + 2x enkel bed
 Ramen                       |dubbel glas
-Soort verwarming            |Truma
+Soort verwarming            |centrale verwarming
 Inboedel caravan            |inbegrepen muv Dolce Gusto, tuinset, bbq
 Standplaatsvergoeding 2025  |inbegrepen

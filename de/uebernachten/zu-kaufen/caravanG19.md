@@ -37,6 +37,6 @@ Terrasse                    |ja
 Anzahl Schlafzimmer         |2
 Verteilung von Betten       |1x Doppelbett + 2x Einzelbette
 Fenster                     |Doppelverglasung
-Heizung                     |Truma
+Heizung                     |Zentralheizung
 Hausrat                     |inbegriffen ausserhalb Dolce Gusto, Gartenmöbel, bbq
 Standgebühr 2025            |inbegriffen

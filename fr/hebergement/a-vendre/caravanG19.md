@@ -39,6 +39,6 @@ Terrasse                    |oui
 Nombre de chambres à coucher|2
 Distribution des lits       |1x lit double + 2x lits simples
 Fenêtres                    |double vitrage
-Chauffage                   |Truma
+Chauffage                   |chauffage central
 Mobilier de caravane        |inclus sauf Dolce Gusto, mobilier de jardin, bbq
 Indemnité de résidence 2025 |inclus
