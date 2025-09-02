@@ -4,7 +4,7 @@ title: Caravan G 19
 preview:
     title: Caravan G 19
     list:
-        - "Preis: € 52.000"
+        - "Preis: € 49.000"
         - "type 3"
         - "Verfügbar: ab sofort"
 

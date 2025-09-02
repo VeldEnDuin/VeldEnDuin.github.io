@@ -4,7 +4,7 @@ title: Caravan G 19
 preview:
     title: Caravan G 19
     list:
-        - "prijs: € 52.000"
+        - "prijs: € 49.000"
         - "type 3"
         - "beschikbaar: direct"
 
