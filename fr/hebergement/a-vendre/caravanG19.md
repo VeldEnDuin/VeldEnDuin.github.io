@@ -9,13 +9,12 @@ preview:
         - "disponible: tout de suite"
 
 images:
-    - /img/overnachten/te-koop/G15/01-G15-buiten.jpg
-    - /img/overnachten/te-koop/G15/02-G15-living.jpg
-    - /img/overnachten/te-koop/G15/03-G15-keuken.jpg
-    - /img/overnachten/te-koop/G15/04-G15-slaapkamer1.jpg
-    - /img/overnachten/te-koop/G15/05-G15-slaapkamer2.jpg
-    - /img/overnachten/te-koop/G15/06-G15-badkamer1.jpg
-    - /img/overnachten/te-koop/G15/07-G15-badkamer2.jpg
+    - /img/overnachten/te-koop/G19/01-G19-buiten.jpg
+    - /img/overnachten/te-koop/G19/02-G19-keuken.jpg
+    - /img/overnachten/te-koop/G19/03-G19-keuken-zithoek.jpg
+    - /img/overnachten/te-koop/G19/04-G19-living.jpg
+    - /img/overnachten/te-koop/G19/05-G19-slaapkamer1.jpg
+    - /img/overnachten/te-koop/G19/06-G19-slaapkamer2.jpg
 
 insert:
     - page-images-top
