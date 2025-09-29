@@ -49,9 +49,7 @@
     - linkcode: te_koop
       submenu:
         - linkcode: te_koop
-        - linkcode: a_20
         - linkcode: g_12
-        - linkcode: g_19
 
 - linkcode: voorzieningen
   menutekst:
