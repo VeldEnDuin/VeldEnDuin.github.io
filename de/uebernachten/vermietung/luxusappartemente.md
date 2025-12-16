@@ -5,7 +5,7 @@ description: Entspannen Sie sich in diesen luxuriösen Apartments
 preview:
     title: Luxusappartement
     button:
-        price: 194
+        price: 180
         for: 2 Nächte
     list:
         - "5-6 Personen"
@@ -39,14 +39,14 @@ insert:
 
 Diese neuen Luxusappartements liegen über der Rezeption und bieten einen herrlichen Ausblick auf die Blumenpracht an der Zufahrt zum Campingplatz.
 
-*Tipp: Buchen Sie Ihren Aufenthalt direkt und zahlen Sie 12% weniger als über Booking oder AirBnB.*
+*Tipp: Buchen Sie Ihren Aufenthalt direkt und zahlen Sie 12% weniger als über Booking.*
 
 ## Einrichtung Luxusappartement
 
 - Großes Wohnzimmer mit Digital-TV und Modem
 - Eingerichtete Küche mit Geschirrspülmaschine, Mikrowelle und Philips Barista (Kaffeekapseln)
 - Willkommenspaket mit Kaffee und Tee
-- Badezimmer mit Dusche, Waschbecken und Toilette
+- Badezimmer mit Regendusche, Waschbecken und Toilette
 - Schlafzimmer Appartement 1. Stock:
     - 1 Zimmer mit großem Doppelbett (180 x 200)
     - 1 Zimmer mit Etagenbett (140 x 200) und (90 x 200)

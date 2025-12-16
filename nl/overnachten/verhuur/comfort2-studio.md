@@ -5,7 +5,7 @@ description: verblijf met afgesloten en zuidgericht terras
 preview:
     title: Studio Comfort 2
     button:
-        price: 141
+        price: 129
         for: 2 nachten
     list:
         - "gezelligheid voor 2"
@@ -40,7 +40,7 @@ insert:
 
 Kom een paar dagjes alleen of met z’n tweeën genieten van de zeelucht. Na een fikse strandwandeling of fietstocht  is het heerlijk vertoeven op het afgesloten en zuidgerichte terras.
 
-*Tip: Boek je verblijf rechtstreeks en betaal 12% minder dan via Booking of AirBnB.*
+*Tip: Boek je verblijf rechtstreeks en betaal 12% minder dan via Booking.*
 
 ## Inrichting studio
 

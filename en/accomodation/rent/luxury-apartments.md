@@ -5,7 +5,7 @@ description: blissfully relax in these luxurious apartments
 preview:
     title: Luxury Apartment
     button:
-        price: 194
+        price: 180
         for: 2 nights
     list:
         - "5-6 persons"
@@ -39,14 +39,14 @@ insert:
 
 Located above the reception these new and luxurious apartments overlook the floral beauty at the entrance of the campsite.
 
-*Tip: book your stay directly and pay 12% less than via Booking or AirBnB.*
+*Tip: book your stay directly and pay 12% less than via Booking.*
 
 ## Facilities luxury apartment
 
 - spacious living room with digital tv and modem
 - equipped kitchen with dishwasher, microwave and Philips Barista (coffee cups)
 - welcome pack with coffee and tea
-- bathroom with shower, washbasin and toilet
+- bathroom with rain shower, washbasin and toilet
 - bedrooms apartment on the first floor:
     - 1 room with a big double bed (180x200)
     - 1 room with bunk beds (140x200) en (90x200)

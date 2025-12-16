@@ -5,7 +5,7 @@ description: appartement confortable juste à côté du camping
 preview:
     title: Appartement Confort 4+
     button:
-        price: 174
+        price: 160
         for: 2 nuits
     list:
         - "4-5 personnes"
@@ -40,7 +40,7 @@ insert:
 
 Les appartements sont situés à deux pas du camping. Tout en profitant de l’espace d’un appartement, vous disposez également des équipements de notre camping.
 
-*Bon conseil: réservez votre séjour directement et payez 12% de moins que via Booking ou AirBnB.*
+*Bon conseil: réservez votre séjour directement et payez 12% de moins que via Booking.*
 
 ## Aménagement de l’appartement
 

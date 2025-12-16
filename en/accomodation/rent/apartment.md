@@ -5,7 +5,7 @@ description: comfortable apartment just next to the campsite
 preview:
     title: Apartment Comfort 4+
     button:
-        price: 174
+        price: 160
         for: 2 nights
     list:
         - "4-5 persons"
@@ -40,7 +40,7 @@ insert:
 
 The apartments are situated next to the campsite. This means that you can enjoy the space of an apartment and use the facilities of our campsite at the same time.
 
-*Tip: book your stay directly and pay 12% less than via Booking or AirBnB.*
+*Tip: book your stay directly and pay 12% less than via Booking.*
 
 
 ## Facilities apartment

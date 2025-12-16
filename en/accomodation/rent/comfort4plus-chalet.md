@@ -5,7 +5,7 @@ description: beautiful 4-person chalet with covered terrace
 preview:
     title: Chalet comfort 4+
     button:
-        price: 174
+        price: 160
         for: 2 nights
     list:
         - "4 persons"
@@ -41,7 +41,7 @@ insert:
 
 Sit down and relax. Have a glass of wine on the terrace of your chalet after a long day at the beach or an excursion in the neighbourhood. Think about your plans for tomorrow...
 
-*Tip: book your stay directly and pay 12% less than via Booking or AirBnB.*
+*Tip: book your stay directly and pay 12% less than via Booking.*
 
 ## Facilities chalet
 

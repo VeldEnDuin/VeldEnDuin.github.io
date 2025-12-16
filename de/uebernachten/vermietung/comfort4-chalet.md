@@ -5,7 +5,7 @@ description: komfortables 4-Personen-Chalet in der Nähe des Spielplatzes
 preview:
     title: Chalet comfort 4
     button:
-        price: 160
+        price: 148
         for: 2 Nächte
     list:
         - "4 Personen"
@@ -40,7 +40,7 @@ insert:
 
 Diese Chalets liegen vorn auf dem Campingplatz in der Nähe des Spielplatzes. Ideal also für Kinder, die so ihre Freunde immer in der Nähe haben.
 
-*Tipp: Buchen Sie Ihren Aufenthalt direkt und zahlen Sie 12% weniger als über Booking oder AirBnB.*
+*Tipp: Buchen Sie Ihren Aufenthalt direkt und zahlen Sie 12% weniger als über Booking.*
 
 ## Einrichtung Chalet
 

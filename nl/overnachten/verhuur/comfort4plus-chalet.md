@@ -5,7 +5,7 @@ description: mooie 4-persoonschalet met overdekt terras
 preview:
     title: Chalet comfort 4+
     button:
-        price: 174
+        price: 160
         for: 2 nachten
     list:
         - "4 personen"
@@ -43,7 +43,7 @@ insert:
 
 Na een heerlijk dagje strand of een uitstapje in de buurt lonkt het overdekte terras (en de aperitief) om nog even terug te blikken of al plannen te maken voor de komende dagen.
 
-*Tip: Boek je verblijf rechtstreeks en betaal 12% minder dan via Booking of AirBnB.*
+*Tip: Boek je verblijf rechtstreeks en betaal 12% minder dan via Booking.*
 
 ## Inrichting chalet:
 - ruime woonkamer met digitale tv en modem

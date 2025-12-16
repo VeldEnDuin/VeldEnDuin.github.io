@@ -5,7 +5,7 @@ description: spacious and renovated pitches
 preview:
     title: Type 2
     button:
-        price: 2640
+        price: 2720
         for: per year
     list:
         - "average surface: 120 m²"
@@ -47,20 +47,20 @@ Do you secretly dream about a place to settle along the coast? Make this dream c
 - grass maintenance by Veld & Duin
 
 
-## Prices 2025
+## Prices 2026
 
 TYPE 2                |PRICE           |
 :--------------------:|:--------------:|
-stand price per year  | € 2640        
-municipal taxes       | € 488,66
-contribution for household refuge<br>incl. 25 bags<br> | € 120
+stand price per year  | € 2720        
+municipal taxes       | not yet knowing
+contribution for household refuge<br>incl. 25 bags<br> | € 125
 [fire insurance][pdf_brandverzekering.en]      |depending on <br>worth of the caravan / chalet
 
 CONSUMPTION ⑴        |PRICE          |
 :--------------------:|:-------------:|
-electricity           | € 0,68 / kW        
-water                 | € 8,90 / m³  
-gas                   | € 9,00 / m³       
+electricity           | € 0,69 / kW        
+water                 | € 9,00 / m³  
+gas                   | € 9,30 / m³       
 counter               | € 29 / counter
 
 ⑴ price subject to changing energy charges

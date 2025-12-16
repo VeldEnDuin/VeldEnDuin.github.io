@@ -229,11 +229,21 @@ trekkers_tent:
   fr: /fr/hebergement/camping/emplacementtente.html
   de: /de/uebernachten/camping/zeltplatz.html
   en: /en/accomodation/camping/tentpitch.html
-trekkers_mobilhome:
-  nl: /nl/overnachten/kamperen/mobilhomeplaats.html
-  fr: /fr/hebergement/camping/emplacementmobilehome.html
-  de: /de/uebernachten/camping/wohnmobilplatz.html
-  en: /en/accomodation/camping/camperpitch.html
+trekkers_mobilhome_l:
+  nl: /nl/overnachten/kamperen/kampeerplaats-l-comfort.html
+  fr: /fr/hebergement/camping/emplacement-l-comfort.html
+  de: /de/uebernachten/camping/stellplatz-l-komfort.html
+  en: /en/accomodation/camping/camperpitch-l-comfort.html
+trekkers_mobilhome_m:
+  nl: /nl/overnachten/kamperen/kampeerplaats-m-std.html
+  fr: /fr/hebergement/camping/emplacement-m-std.html
+  de: /de/uebernachten/camping/stellplatz-m-std.html
+  en: /en/accomodation/camping/camperpitch-m-std.html
+trekkers_mobilhome_s:
+  nl: /nl/overnachten/kamperen/kampeerplaats-s-std.html
+  fr: /fr/hebergement/camping/emplacement-s-std.html
+  de: /de/uebernachten/camping/stellplatz-s-std.html
+  en: /en/accomodation/camping/camperpitch-s-std.html
 trekkers_info:
   nl: /nl/overnachten/kamperen/praktische-info.html
   fr: /fr/hebergement/camping/infos-pratiques.html

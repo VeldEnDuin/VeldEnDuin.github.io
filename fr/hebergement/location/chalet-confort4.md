@@ -5,7 +5,7 @@ description: confortable chalet 4 personnes à proximité de l'aire de jeux
 preview:
     title: Chalet confort 4
     button:
-        price: 160
+        price: 148
         for: 2 nuits
     list:
         - "4 personnes"
@@ -40,7 +40,7 @@ insert:
 
 Ces chalets sont situés à l’entrée du camping, à proximité du terrain de jeu. Les enfants ne sont ainsi jamais loin de leurs petits camarades.
 
-*Bon conseil: réservez votre séjour directement et payez 12% de moins que via Booking ou AirBnB.*
+*Bon conseil: réservez votre séjour directement et payez 12% de moins que via Booking.*
 
 ## Aménagement du chalet
 

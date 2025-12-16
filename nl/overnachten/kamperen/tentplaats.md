@@ -1,16 +1,16 @@
 ---
 layout: page
 title: Tentplaats
-description: keuze tussen tentplaats van 7x8 of 10x8
+description: 2 charmante tentplaatsen
 preview:
     title: Tentplaats
     button:
-        price: 22
+        price: 18.5
         for: per nacht
     list:
         - "tentplaats max 4 personen"
-        - "dichtbij speelplein"
-        - "dichtbij sanitair"
+        - "1 plaats dichtbij speelplein"
+        - "1 plaats in rustige uithoek"
 
 images:
     - /img/overnachten/trekkers-tent/tent-08.jpg
@@ -23,30 +23,19 @@ insert:
 ---
 {% include links.md %}
 
-We hebben 1  tentplaats beschikbaar voor een kleine tot middelgrote tent (maximaal 4 personen). Deze gezellige plek is perfect gelegen: dichtbij het speelplein voor de kinderen, vlakbij het moderne sanitair voor jouw gemak, en recht tegenover de parking voor optimale toegankelijkheid.
+Geen grote trekkersweide maar wél twee charmante tentplaatsen – elk met hun eigen sfeer en ligging.
+
+Plaats A7 ligt vooraan op de camping, tegenover de parking en vlak bij het sanitair en het speelplein – ideaal voor gezinnen met kinderen of wie graag alles dichtbij heeft. Deze plaats is ideaal voor een tent of klein camperbusje.
+
+Plaats C58 bevindt zich in een groene, rustige uithoek van de camping en verder van het grote sanitairgebouw.
 
 
 ## Goed om weten
 
 - max 4 personen / plaats
-- honden toegelaten - max 2 - aan de leiband - geen gevaarlijke rassen
+- elektriciteit: 10 ampère - Belgisch stekkertype E met aardingspin
 - winterperiode 15/11-15/3: gesloten
 
-
-## Prijzen 2025 per nacht
-
-### Tentplaats
-
-AANTAL PERSONEN | LAAGSEIZOEN | HOOGSEIZOEN      
-:--------------:|:-----------:|:-----------:|
-1 persoon       |€ 22         |€ 27   
-2 personen      |€ 24         |€ 29          
-3 personen      |€ 27         |€ 32
-4 personen      |€ 30         |€ 35
-
-* 6/7 - 22/8: reservatie vanaf 7 nachten
-* hoogseizoen: paasvakantie juli - augustus - verlengde weekends
-* kinderen t.e.m 2 jaar: gratis
 
 
 {% include nl/trekker-reuse.md %}

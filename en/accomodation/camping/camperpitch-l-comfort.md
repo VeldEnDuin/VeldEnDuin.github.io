@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Paved pitch camper / caravan
+title: comfort camping pitch <8.5 m
 description: spacious and paved pitches for campers
 preview:
-    title: Paved pitch
+    title: comfort camping pitch <8.5 m
     button:
-        price: 26
+        price: 22
         for: per night
     list:
-        - "mobilhomes / caravans max 8m"
+        - "mobilhomes max 8,5 m"
         - "sanitary block nearby"
         - "around the wadi"
 images:
@@ -33,28 +33,19 @@ Our 8 spacious, paved plots are strategically located around the wadi, allowing 
 
 ## Worth knowing
 
-- suitable for mobile homes and caravans up to 8 metres
-- electricity: 10 amps
-- each plot is equipped with water, digital TV and drainage
+- suitable for mobile homes and caravans up to 8,5 metres
 - max 6 persons / pitch
-- dogs allowed - max 2 – on the leash – no dangerous breeds
 - winter period 15/11-15/03: closed
 
-## Prices 2025 per night
 
+## Facilities
 
-NUMBER OF PERSONS | LOW SEASON | HIGH SEASON      
-:----------------:|:----------:|:-----------:|
-1 person          |€ 26        |€ 33   
-2 persons         |€ 28        |€ 35
-3 persons         |€ 31        |€ 38
-4 persons         |€ 34        |€ 41   
-5 persons         |€ 37        |€ 44   
-6 persons         |€ 40        |€ 47   
+- electricity: 10 amperes
+- Belgian type E plug with earth pin
+- water connection on the pitch
+- drainage connection on the pitch (own hose needed)
+- chemical toilet disposal in sanitary building
 
-* 6/7 - 22/8: upon reservation as from 7 nights
-* high season: Easter holiday - July - August - long weekends
-* children up to 2 years: free
 
 
 {% include en/hiker-reuse.md %}

@@ -1,16 +1,16 @@
 ---
 layout: page
 title: Emplacement Tente
-description: choix entre un emplacement tente de 7x8 ou 10x8
+description: 2 emplacements de tente charmants
 preview:
     title: Emplacement Tente
     button:
-        price: 22
+        price: 18.5
         for: par nuit
     list:
         - "emplacement max 4 personnes"
-        - "près de l'aire de jeux"
-        - "près des sanitaires"
+        - "1 emplacement près de l'aire de jeux"
+        - "1 emplacement dans un coin tranquille"
 
 images:
     - /img/overnachten/trekkers-tent/tent-08.jpg
@@ -23,30 +23,19 @@ insert:
 ---
 {% include links.md %}
 
-Nous avons 1 emplacement disponible pour une petite à moyenne tente (maximum 4 personnes). Cet emplacement convivial est idéalement situé : à proximité de l’aire de jeux pour les enfants, tout près des sanitaires modernes pour votre confort, et juste en face du parking pour un accès optimal.
+Nous ne disposons pas d'un grand terrain pour les randonneurs, mais nous proposons deux emplacements de tente charmants, chacun avec son atmosphère et son emplacement propres.
+
+L'emplacement A7 est situé à l'avant du camping, en face du parking et à proximité des sanitaires et de l'aire de jeux – idéal pour les familles avec enfants ou ceux qui aiment avoir tout à proximité. Cet emplacement est idéal pour une tente ou un petit camping-car.
+
+L'emplacement C58 est situé dans un coin verdoyant et calme du camping, plus éloigné du grand bâtiment sanitaire.
 
 
 ## Bon à savoir
 
 - emplacement: max. 4 personnes / emplacement
-- chiens admis – max. 2 – en laisse – pas de races dangereuses
+- électricité : 10 ampères - prise belge type E avec broche de mise à la terre
 - période hiver 15/11-15/3: fermé
 
-## Prix 2025 par nuit
-
-### Emplacement tente
-
-NOMBRE DE PERSONNES |BASSE SAISON |HAUTE SAISON
-:------------------:|:-----------:|:-----------:|
-1 personne          |€ 22         |€ 27
-2 personnes         |€ 24         |€ 29          
-3 personnes         |€ 27         |€ 32
-4 personnes         |€ 30         |€ 35
-
-
-* 6/7 - 22/8: réservation à partir de 7 nuits
-* haute saison: vacances de Pâques - juillet - août - week-ends prolongés
-* enfants jusqu'à 2 ans: gratuit
 
 
 {% include fr/camping-reuse.md %}

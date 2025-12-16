@@ -5,7 +5,7 @@ description: well-equipped chalet for 1 to 2 people
 preview:
     title: Chalet Comfort 2
     button:
-        price: 141
+        price: 129
         for: 2 nights
     list:
         - "cosiness for 2"
@@ -38,7 +38,7 @@ insert:
 
 Need a break, just for the two of you? Make yourself at home in this cosy chalet.
 
-*Tip: book your stay directly and pay 12% less than via Booking or AirBnB.*
+*Tip: book your stay directly and pay 12% less than via Booking.*
 
 ## Facilities chalet
 

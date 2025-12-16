@@ -5,7 +5,7 @@ description: komfortable Wohnung direkt neben dem Campingplatz
 preview:
     title: Appartement Comfort 4+
     button:
-        price: 174
+        price: 160
         for: 2 Nächte
     list:
         - "4-5 Personen"
@@ -40,7 +40,7 @@ insert:
 
 Die Appartements liegen neben dem Campingplatz. So genießen Sie den Platz eines Appartements und Sie können trotzdem die Annehmlichkeiten des Campingplatzes nutzen.
 
-*Tipp: Buchen Sie Ihren Aufenthalt direkt und zahlen Sie 12% weniger als über Booking oder AirBnB.*
+*Tipp: Buchen Sie Ihren Aufenthalt direkt und zahlen Sie 12% weniger als über Booking.*
 
 
 ## Einrichtung Appartement

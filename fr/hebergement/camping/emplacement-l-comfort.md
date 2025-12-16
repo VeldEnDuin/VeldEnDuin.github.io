@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Emplacement pour mobilhome / caravane
+title: Emplacement camping confort <8,5m
 description: emplacements spacieux et pavés pour les campeurs
 preview:
-    title: Emplacement endurci
+    title: Emplacement camping confort <8,5m
     button:
-        price: 26
+        price: 22
         for: par nuit
     list:
-        - "mobilhomes / caravanes max 8m"
+        - "mobilhomes / caravanes max 8,5m"
         - "à proximité des sanitaires"
         - "autour de l'oued"
 images:
@@ -34,28 +34,19 @@ Nos 8 parcelles spacieuses et pavées sont stratégiquement situées autour de l
 
 ## Bon à savoir
 
-- convient aux mobil-homes et caravanes tractables d'une longueur maximale de 8 mètres
-- électricité : 10 ampères
-- chaque parcelle est équipée de l'eau, de la télévision numérique et de l'évacuation des eaux usées
+- convient aux mobil-homes et caravanes tractables d'une longueur maximale de 8,5 mètres
 - max. 6 personnes / emplacement
-- chiens admis – max. 2 – en laisse – pas de races dangereuses
 - période hiver 15/11-15/3: fermé
 
-## Prix 2025 par nuit
 
-NOMBRE DE PERSONNES |BASSE SAISON |HAUTE SAISON
-:------------------:|:-----------:|:-----------:|
-1 personne          |€ 26         |€ 33
-2 personnes         |€ 28         |€ 35
-3 personnes         |€ 31         |€ 38
-4 personnes         |€ 34         |€ 41
-5 personnes         |€ 37         |€ 44
-6 personnes         |€ 40         |€ 47
+## Equipements
 
+- électricité : 10 ampères
+- prise belge type E avec broche de mise à la terre
+- raccordement à l'eau sur l'emplacement
+- raccordement à l'évacuation sur l'emplacement (tuyau personnel nécessaire)
+- vidange des toilettes chimiques dans le bâtiment sanitaire
 
-* 6/7 - 22/8: réservation à partir de 7 nuits
-* haute saison: vacances de Pâques - juillet - août - week-ends prolongés
-* enfants jusqu'à 2 ans: gratuit
 
 {% include fr/camping-reuse.md %}
 

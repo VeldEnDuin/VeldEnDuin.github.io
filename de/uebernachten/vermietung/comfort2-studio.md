@@ -5,7 +5,7 @@ description: Residenz mit geschlossener und nach Süden ausgerichteter Terrasse
 preview:
     title: Studio Comfort 2
     button:
-        price: 141
+        price: 129
         for: 2 Nächte
     list:
         - "Gemütlichkeit für 2"
@@ -39,7 +39,7 @@ insert:
 
 Kommen Sie und genießen Sie die Seeluft für ein paar Tage allein oder zu zweit. Nach einem langen Strandspaziergang oder einer Radtour können Sie auf der geschlossenen Südterrasse entspannen.
 
-*Tipp: Buchen Sie Ihren Aufenthalt direkt und zahlen Sie 12% weniger als über Booking oder AirBnB.*
+*Tipp: Buchen Sie Ihren Aufenthalt direkt und zahlen Sie 12% weniger als über Booking.*
 
 ## Einrichtung Studio
 

@@ -5,7 +5,7 @@ description: beau chalet 4 personnes avec terrasse couverte
 preview:
     title: Chalet confort 4+
     button:
-        price: 174
+        price: 160
         for: 2 nuits
     list:
         - "4 personnes"
@@ -42,7 +42,7 @@ insert:
 
 De retour d’une agréable journée à la plage ou d’une balade dans les environs, installez-vous sur la terrasse couverte pour prendre l’apéritif et vous remémorer les bons moments que vous venez de passer ou planifier les activités des prochains jours.  
 
-*Bon conseil: réservez votre séjour directement et payez 12% de moins que via Booking ou AirBnB.*
+*Bon conseil: réservez votre séjour directement et payez 12% de moins que via Booking.*
 
 ## Aménagement du chalet:
 

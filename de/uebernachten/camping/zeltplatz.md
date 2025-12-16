@@ -1,16 +1,16 @@
 ---
 layout: page
 title: Zeltplatz
-description: Wahl zwischen einem Zeltplatz von 7x8 oder 10x8
+description: 2 charmante Zeltplätze
 preview:
     title: Zeltplatz
     button:
-        price: 22
+        price: 18.5
         for: pro Nacht
     list:
         - "Zeltplatz max 4 Personen"
-        - "Nahe bei Spielplatz"
-        - "Nahe bei Sanitäranlagen"
+        - "1 Platz in der Nähe des Spielplatzes"
+        - "1 Platz in ruhiger Ecke"
 
 images:
     - /img/overnachten/trekkers-tent/tent-08.jpg
@@ -23,29 +23,18 @@ insert:
 ---
 {% include links.md %}
 
-Wir haben 1 Zeltplatz für ein kleines bis mittelgroßes Zelt (maximal 4 Personen) verfügbar. Dieser gemütliche Platz ist perfekt gelegen: in der Nähe des Spielplatzes für die Kinder, direkt bei den modernen Sanitäranlagen für Ihren Komfort und gegenüber dem Parkplatz für optimale Erreichbarkeit.
+Wir haben keine große Zeltwiese, bieten aber zwei charmante Zeltplätze an – jeder mit seiner eigenen Atmosphäre und Lage.
+
+Der Platz A7 befindet sich im vorderen Teil des Campingplatzes, gegenüber dem Parkplatz und in der Nähe der Sanitäranlagen und des Spielplatzes – ideal für Familien mit Kindern oder diejenigen, die alles in der Nähe haben möchten. Dieser Platz ist ideal für ein Zelt oder einen kleinen Campingbus.
+
+Der Platz C58 befindet sich in einer grünen, ruhigen Ecke des Campingplatzes und weiter entfernt vom großen Sanitärgebäude.
+
 
 ## Gut zu wissen
 
 - Zeltplatz: Höchstens 4 Personen/Platz
-- Hunde zugelassen (höchstens 2) - angeleint - keine gefährlichen Rassen
+- Strom: 10 Ampere - belgischen Steckertyp E mit Erdungsstift
 - Winterzeitraum 15.11 - 15.03: geschlossen
-
-
-## Preise 2025 pro Nacht
-
-### Zeltplatz
-
-ANZAHL PERSONEN | NEBENSAISON | HOCHSAISON      
-:--------------:|:-----------:|:-----------:|
-1 Person        |€ 22         |€ 27
-2 Personen      |€ 24         |€ 29           
-3 Personen      |€ 27         |€ 32
-4 Personen      |€ 30         |€ 35     
-
-* 6.7. bis 22.8.: Reservierung ab 7 Nächten
-* Hochsaison: Osterurlaub - Juli - August - verlängerte Wochenenden
-* Kinder bis zu 2 Jahren: kostenlos
 
 
 {% include de/kurzzeitcamper-reuse.md %}

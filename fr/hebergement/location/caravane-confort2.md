@@ -5,7 +5,7 @@ description: petite maison avec tout le confort
 preview:
     title: Caravane Confort 2
     button:
-        price: 141
+        price: 129
         for: 2 nuits
     list:
         - "2 personnes"
@@ -37,7 +37,7 @@ insert:
 
 Notre charmante petite maison avec jardin privé est parfaitement adapté pour amoureux du grand air mais qui désirent tout de même cuisiner de bons petits plats et prendre une douche revigorante.
 
-*Bon conseil: réservez votre séjour directement et payez 12% de moins que via Booking ou AirBnB.*
+*Bon conseil: réservez votre séjour directement et payez 12% de moins que via Booking.*
 
 ## Aménagement de la caravane
 

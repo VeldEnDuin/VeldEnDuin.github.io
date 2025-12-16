@@ -27,7 +27,6 @@ insert:
 
 Folgende schöne Grundstücke sind derzeit noch verfügbar, Sie können gerne vorbeikommen zu schauen:
 
-- Parzelle E11 - [type 2][type_2.de] - Wohnwagen bis maximal 11 m
 - Parzelle C28 - [type 2][type_2.de] - Wohnwagen bis maximal 8m50
 - Für neue Caravans arbeiten wir mit [Decopa](https://www.decopa.be/) und [Caravancentrum Roels](https://www.caravancentrumroels.be/
 )

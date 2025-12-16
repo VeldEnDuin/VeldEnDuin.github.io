@@ -5,7 +5,7 @@ description: détendez-vous dans ces luxueux appartements
 preview:
     title: Appartement de luxe
     button:
-        price: 194
+        price: 180
         for: 2 nuits
     list:
         - "5-6 personnes"
@@ -39,14 +39,14 @@ insert:
 
 Situés au-dessus de la réception, ces nouveaux appartements luxueux offrent une vue imprenable sur les magnifiques parterres de fleur de l’entrée du camping.  
 
-*Bon conseil: réservez votre séjour directement et payez 12% de moins que via Booking ou AirBnB.*
+*Bon conseil: réservez votre séjour directement et payez 12% de moins que via Booking.*
 
 ## Aménagement de l’appartement de luxe
 
 - grande salle de séjour avec télévision numérique et modem
 - cuisine équipée avec four à micro-ondes et Philips Barista (capsules de café)
 - paquet de bienvenue avec café et thé
-- salle de bains avec douche, lavabo et toilettes
+- salle de bains avec douche à effet pluie, lavabo et toilettes
 - chambres à coucher de l’appartement au premier étage:
     - 1 chambre avec un grand lit double (180x200)
     - 1 chambre avec lits superposés (140x200) et (90x200)
