@@ -9,6 +9,11 @@ virtualtour:
   fr: /fr/visite-virtuelle.html
   en: /en/virtual-tour.html
   de: /de/virtueller-besuch.html
+booking:
+  nl: /nl/reserveren.html
+  fr: /fr/reserver.html
+  en: /en/book.html
+  de: /de/reservieren.html
 news:
   nl: /nl/nieuws.html
   fr: /fr/actualite.html

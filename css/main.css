@@ -69,6 +69,14 @@ new colours  // veld & duin
 a,
 a div,
 a span {
+    text-decoration: none;
+}
+
+/* todo :: only for special links we introduce underline */
+.todo a,
+.todo a div,
+.todo a span,
+a.underline {
     text-decoration: underline;
 }
 
@@ -1616,23 +1624,6 @@ a.vd-barelink, a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.
 
 .vd-gcse-footer {
     margin-top: 1em;
-}
-
-.navbar a,
-.nav a,
-.nav-pills a,
-a div.vd-news-teaser,
-.notd,
-a.notd,
-a.notd div,
-a.notd span,
-.vd-barelink,
-a.vd-barelink,
-a.vd-barelink div,
-a.vd-barelink span,
-span.fa,
-span.glyphicon {
-    text-decoration: none !important;
 }
 
 .page-header {

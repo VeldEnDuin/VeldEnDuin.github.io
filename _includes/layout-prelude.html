@@ -28,3 +28,7 @@
 {%if page.images |size > 0 %}{%assign ogImgUrl = page.images[0]   %}{%endif%}
 {%if page.url              %}{%assign ogUrl    = page.url         %}{%endif%}
 {%if page.description      %}{%assign ogDescr  = page.description %}{%endif%}
+
+<!-- generate a timestamp for cache busting -->
+{% assign ts = site.time | date: '%Y%m%d%H%M%S' %}
+<!-- ts ={{ ts }} -->

@@ -1,0 +1,11 @@
+{%comment%}
+  Inserts the Recranet accommodations widget
+  This assumes the surrounding page prelude sets 
+  insert: 
+    - booking-recranet
+  so that the test for `page.insert contains 'booking-recranet'` yields true
+  which in turn loads the required JS in the _layuouts/default.html
+{%endcomment%}
+<div class="col-xs-12">
+<recranet-accommodations class="recranet-element"></recranet-accommodations>
+</div>

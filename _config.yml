@@ -62,12 +62,8 @@ geolocation:
   lon: 2.978033
 fb-app-id: "357843984399164"
 gp-id: "111743051856683336205"
-gcse:
-  apikey: "AIzaSyCMGfdDaSfjqv5zYoS0mTJnOT3e9MURWkU"
-  striplink: (www\\.)?veldenduin\\.be/?
 
-strip-album: "www-footer-imgstrip"
-play-album: "www-foto-album"
+googleApiKey: "hPdRpaNNKS_d9dNtn5-cdkDz3YA8LuIgAyi8_2f"  # TODO get one for VD
 
 links:
   social:
@@ -93,3 +89,7 @@ bannerimg:
   - /img/banner/banner-34.jpg
   - /img/banner/banner-35.jpg
   - /img/banner/banner-36.jpg
+
+booking:
+  recranet:
+    orgid: 1631

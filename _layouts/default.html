@@ -15,6 +15,10 @@
 
     <title>{{ page.title }}</title>
 
+    {%if page.insert contains 'recranet' %}
+    <link rel="preconnect" href="https://static.recranet.com" crossorigin>
+    {%endif%}
+
     <!-- atom feed -->
     <link rel="alternate" type="application/atom+xml" href="/atomfeed.xml">
 
@@ -24,6 +28,7 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/main.css">
     <link rel="icon" type="image/png" href="/img/style/veldenduin-ico-48.png">
+    <base href="{{ pgLink }}">
 
   </head>
   <body data-translations='{{ site.data.langs[pgLang] | jsonify }}'>
@@ -213,6 +218,35 @@
     {% for jscript in page.extrajs %}
     <script type="text/javascript" src="/js/{{jscript}}.js"></script>
     {% endfor %}
+
+    {%if page.insert contains 'recranet' %}
+    <script type="text/javascript"> 
+        window.recranetConfig = { 
+            organization: {{ site.booking.recranet.orgid }}, 
+            locale: '{{ pgLang }}', 
+            currency: 'EUR', 
+            googleApiKey: '{{ site.googleApiKey }}'
+            // division: 0, // OPTIONEEL
+            // accommodationParams: {
+            //     locationCategory: 1000, // OPTIONEEL
+            //     accommodationCategory: 1000 // OPTIONEEL
+            // } 
+        }; 
+    </script>
+    {%comment%}randomized dynamic insert of script needed
+    <script src="https://static.recranet.com/elements/{{pgLang}}/sdk.js?{{ts}}" async></script>
+    {%endcomment%}
+    <script type="text/javascript">(function() {
+        let srcurl = 'https://static.recranet.com/elements/{{pgLang}}/sdk.js?{{ts}}-' + Math.floor(Math.random() * 1000000);
+        window.addEventListener("load", function () {
+            var tag = document.createElement('script');
+            tag.type = 'text/javascript'; tag.async = true;
+            tag.src = srcurl;
+            var ps = document.getElementById('vd-post-script');
+            ps.parentNode.insertBefore(tag, ps);
+        });
+    }());</script>
+    {%endif%}
     <!-- todo: dynamic load scripts are injected here... use this template:
     <script type="text/javascript">(function() {
         window.addEventListener("load", function () {
