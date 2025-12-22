@@ -77,28 +77,10 @@
           data-banners='{{bannerdata}}'
       >
       </div>
-      <!-- the same but not nested in banner for smaller devices -->
-        {%if page.insert contains 'booking' or lvl2.booking_form_group %}
-        <div class="container-fluid push-down"><div class="row">
-          <div class="container"><div class="row">
-              {% include booking-form.html %}
-          </div></div>
-        </div></div>
-        {%endif%}
-      <!-- same not nested in banner for smaller devices -->
     {%endif%}
 
     {% include secondary-menu.html %}
 
-    {% unless page.insert contains 'banner' %}
-      <div class="container-fluid"><div class="row">
-      <div class="subsub container"><div class="spaced row">
-        {% if page.insert contains 'booking' or lvl2.booking_form_group %}
-            {% include booking-form.html %}
-        {%endif%}
-      </div></div>
-      </div></div>
-    {% endunless %}
     </header>
 
     <article>
