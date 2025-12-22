@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Verharde plaats mobilhome / trekcaravan 
+title: Kampeerplaats comfort <8,5m
 description: ruime en verharde percelen voor campers of trekcaravans
 preview:
-    title: Verharde plaats
+    title: Kampeerplaats comfort <8,5m
     button:
-        price: 26
+        price: 22
         for: per nacht
     list:
-        - "mobilhomes / trekcaravans max 8 m"
+        - "mobilhomes trekcaravans max 8,5 m"
         - "dichtbij sanitair"
         - "rond de wadi"
 images:
@@ -35,27 +35,17 @@ Onze 8 ruime, verharde percelen zijn strategisch gelegen rondom de wadi, waardoo
 
 ## Goed om weten
 
-- voor mobilhomes en caravans tot maximaal 8 meter
-- elektriciteit: 10 ampère
-- elk perceel is voorzien van water, digitale tv en afvoer
+- voor mobilhomes en caravans tot maximaal 8,5 meter
 - max 6 personen / plaats
-- honden toegelaten: max 2 - aan de leiband - geen gevaarlijke rassen
 - winterperiode 15/11-15/3: gesloten
 
-## Prijzen 2025 per nacht
 
-AANTAL PERSONEN | LAAGSEIZOEN | HOOGSEIZOEN      
-:--------------:|:-----------:|:-----------:|
-1 persoon       |€ 26         |€ 33
-2 personen      |€ 28         |€ 35          
-3 personen      |€ 31         |€ 38
-4 personen      |€ 34         |€ 41    
-5 personen      |€ 37         |€ 44
-6 personen      |€ 40         |€ 47
+## Voorzieningen
+- elektriciteit: 10 ampère (Belgisch stekkertype E met aardingspin)
+- wateraansluiting op het perceel
+- afvoeraansluiting op het perceel (eigen slang nodig)
+- uitgietbak chemisch toilet in sanitairgebouw
 
-* 6/7 - 22/8: reservatie vanaf 7 nachten
-* hoogseizoen: paasvakantie - juli - augustus - verlengde weekends
-* kinderen t.e.m 2 jaar: gratis
 
 {% include nl/trekker-reuse.md %}
 

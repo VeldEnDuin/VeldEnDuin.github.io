@@ -27,11 +27,11 @@ remove:
 ---
 {% include links.md %}
 
-## Animation Veld & Duin 2025
+## Animation Veld & Duin 2026
 
-| 20/4  | **Osterspiel**<br>11 Uhr <br>Spielplatz  |
+| 5/4  | **Osterspiel**<br>11 Uhr <br>Spielplatz  |
 
-Wir bereiten uns weiterhin darauf vor, auch im Sommer 2025 lustige Veranstaltungen anzubieten.
+Wir bereiten uns weiterhin darauf vor, auch im Sommer 2026 lustige Veranstaltungen anzubieten.
 
 Wir halten es gerne klein und suchen nach einer guten Mischung von Aktivitäten, die junge und nicht mehr ganz so junge Leute interessieren.
 

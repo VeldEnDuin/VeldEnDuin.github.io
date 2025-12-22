@@ -27,7 +27,6 @@ insert:
 
 Following beautiful and spacious plots are currently still available, so come and have a look:
 
-- plot E11 - [type 2][type_2.en] - caravan up to 11 meter
 - plot C28 - [type 2][type_2.en] - caravan up to 8,5 meter
 - for new caravans we work together with [Decopa](https://www.decopa.be/) and [Caravancentrum Roels](https://www.caravancentrumroels.be/
 )

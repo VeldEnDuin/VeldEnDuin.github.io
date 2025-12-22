@@ -5,7 +5,7 @@ description: comfortabele 4-persoonschalet in de buurt van het speelplein
 preview:
     title: Chalet comfort 4
     button:
-        price: 160
+        price: 148
         for: 2 nachten
     list:
         - "4 personen"
@@ -40,7 +40,7 @@ insert:
 
 Deze chalets liggen vooraan op de camping en dicht bij het speelplein. Ideaal dus voor de kinderen om hun vriendjes steeds in de buurt te hebben.
 
-*Tip: Boek je verblijf rechtstreeks en betaal 12% minder dan via Booking of AirBnB.*
+*Tip: Boek je verblijf rechtstreeks en betaal 12% minder dan via Booking.*
 
 ## Inrichting chalet
 

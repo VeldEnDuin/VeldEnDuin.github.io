@@ -28,8 +28,9 @@
       booking_form_group: kamperen
       submenu:
         - linkcode: trekkers_info
-        - linkcode: trekkers_mobilhome
-          booking_form_room: mobilhome10x8
+        - linkcode: trekkers_mobilhome_l
+        # - linkcode: trekkers_mobilhome_m
+        # - linkcode: trekkers_mobilhome_s
         - linkcode: trekkers_tent
           booking_form_room: tent10x8
 

@@ -5,7 +5,7 @@ description: comfortabel appartement net naast de camping
 preview:
     title: Appartement Comfort 4+
     button:
-        price: 174
+        price: 160
         for: 2 nachten
     list:
         - "4-5 personen"
@@ -40,7 +40,7 @@ insert:
 
 De appartementen liggen net naast de camping. Zo geniet u van de ruimte van een appartement en kunt u tegelijk vrij gebruik maken van de voorzieningen op onze camping.
 
-*Tip: Boek je verblijf rechtstreeks en betaal 12% minder dan via Booking of AirBnB.*
+*Tip: Boek je verblijf rechtstreeks en betaal 12% minder dan via.*
 
 ## Inrichting appartement
 - ruime woonkamer met digitale tv en modem

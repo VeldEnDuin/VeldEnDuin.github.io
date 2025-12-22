@@ -5,7 +5,7 @@ description: tiny house met alle comfort
 preview:
     title: Caravan Comfort 2
     button:
-        price: 141
+        price: 129
         for: 2 nachten
     list:
         - "2 personen"
@@ -38,7 +38,7 @@ insert:
 
 Ons charmante tiny house met privé-tuintje is ideaal voor wie houdt van het buitenleven maar 's avonds toch graag z'n eigen potje kookt of een verkwikkende douche neemt.
 
-*Tip: Boek je verblijf rechtstreeks en betaal 12% minder dan via Booking of AirBnB.*
+*Tip: Boek je verblijf rechtstreeks en betaal 12% minder dan via Booking.*
 
 ## Inrichting caravan
 - kleine woonruimte met digitale tv en modem

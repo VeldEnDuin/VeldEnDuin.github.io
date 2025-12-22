@@ -25,6 +25,5 @@ insert:
 
 Les belles et spacieuses parcelles suivantes sont actuellement encore disponibles, vous êtes la bienvenue pour venir visiter:
 
-- parcelle E11 - [type 2][type_2.fr] - caravane jusqu’à max 11m
 - parcelle C28 - [type 2][type_2.fr] - caravane jusqu’à max 8m50
 - pour les nouvelles caravanes, nous travaillons avec [Decopa](https://fr.decopa.be/) et [Caravancentrum Roels](https://www.caravancentrumroels.be/?lang=fr)

@@ -27,12 +27,12 @@ remove:
 ---
 {% include links.md %}
 
-## Animations Veld & Duin 2025
+## Animations Veld & Duin 2026
 
 
-| 20/4  | **Jeux de Pâques**<br>11u <br>terrain de jeux  |
+| 5/4  | **Jeux de Pâques**<br>11u <br>terrain de jeux  |
 
-Nous nous préparons toujours à offrir des divertissements amusants au cours de l'été 2025 également.
+Nous nous préparons toujours à offrir des divertissements amusants au cours de l'été 2026 également.
 
 Nous aimons rester à petite échelle et chercher un bon mélange d'activités pour fasciner les jeunes et les moins jeunes.
 

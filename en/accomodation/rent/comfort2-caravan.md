@@ -5,7 +5,7 @@ description: tiny house with every comfort
 preview:
     title: Caravan Comfort 2
     button:
-        price: 141
+        price: 129
         for: 2 nights
     list:
         - "2 persons"
@@ -37,7 +37,7 @@ insert:
 
 Our charming tiny house with private garden is suitable for those who love being outdoors but still love to cook their own meals or have a refreshing shower.
 
-*Tip: book your stay directly and pay 12% less than via Booking or AirBnB.*
+*Tip: book your stay directly and pay 12% less than via Booking.*
 
 ## Facilities caravan
 

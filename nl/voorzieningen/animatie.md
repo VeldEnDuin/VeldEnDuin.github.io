@@ -24,11 +24,11 @@ insert:
 ---
 {% include links.md %}
 
-## Animatie Veld & Duin 2025
+## Animatie Veld & Duin 2026
 
-| 20/4  | **Paasspel**<br>11u <br>speelplein  |
+| 5/4  | **Paasspel**<br>11u <br>speelplein  |
 
-We zijn verder nog volop aan het plannen om ook in de zomer van 2025 leuke animatie aan te bieden.
+We zijn verder nog volop aan het plannen om ook in de zomer van 2026 leuke animatie aan te bieden.
 
 Daarbij houden we het graag kleinschalig en zoeken we naar een fijne mix van activiteiten om jong en wat minder jong te boeien.
 

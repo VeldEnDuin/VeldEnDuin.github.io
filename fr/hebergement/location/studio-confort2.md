@@ -5,7 +5,7 @@ description: résidence avec terrasse fermée et exposée sud
 preview:
     title: Studio Confort 2
     button:
-        price: 141
+        price: 129
         for: 2 nuits
     list:
         - "séjour agréable à 2"
@@ -39,7 +39,7 @@ insert:
 
 Venez profiter de l'air marin pendant quelques jours seul ou à deux. Après une longue promenade sur la plage ou à vélo, vous pourrez vous détendre sur la terrasse fermée et exposée plein sud.
 
-*Bon conseil: réservez votre séjour directement et payez 12% de moins que via Booking ou AirBnB.*
+*Bon conseil: réservez votre séjour directement et payez 12% de moins que via Booking.*
 
 ## Aménagement du studio
 

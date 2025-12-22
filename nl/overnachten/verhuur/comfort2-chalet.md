@@ -5,7 +5,7 @@ description: goed uitgeruste chalet  voor 1 tot 2 personen
 preview:
     title: Chalet Comfort 2
     button:
-        price: 141
+        price: 129
         for: 2 nachten
     list:
         - "gezelligheid voor 2"
@@ -40,7 +40,7 @@ insert:
 
 Even alleen komen uitwaaien of met z'n tweetjes? In deze chalet is het heerlijk thuiskomen na een dagje genieten aan onze kust.
 
-*Tip: Boek je verblijf rechtstreeks en betaal 12% minder dan via Booking of AirBnB.*
+*Tip: Boek je verblijf rechtstreeks en betaal 12% minder dan via Booking.*
 
 ## Inrichting chalet
 

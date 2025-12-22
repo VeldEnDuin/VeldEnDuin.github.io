@@ -25,6 +25,5 @@ insert:
 
 Volgende mooie en ruime percelen zijn momenteel nog beschikbaar, steeds welkom om een kijkje te komen nemen:
 
-- perceel E11 - [type 2][type_2.nl] - caravan tot max 11 meter
 - perceel C28 - [type 2][type_2.nl] - caravan tot max 8m50
 - voor nieuwe caravans werken we samen met [Decopa](https://www.decopa.be/) en [Caravancentrum Roels](https://www.caravancentrumroels.be/)

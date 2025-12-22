@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Platz Wohnmobil / Wohnwagen verhardet
+title: Komfort-Stellplatz <8,5m
 description: geräumige und gepflasterte Stellplätze für Camper
 preview:
-    title: Platz verhardet
+    title: Komfort-Stellplatz <8,5m
     button:
-        price: 26
+        price: 22
         for: pro Nacht
     list:
-        - "Wohnmobil / Wohnwagen max 8m"
+        - "Camper max 8,5m"
         - "Nahe bei Sanitäranlagen"
         - "rund um das Wadi"
 images:
@@ -33,28 +33,19 @@ Unsere 8 großzügigen, gepflasterte Stellplätze sind strategisch um die Wadi h
 
 ## Gut zu wissen
 
-- geeignet für Wohnmobile und Wohnwagen mit einer Länge von bis zu 8 Metern
-- Strom: 10 Ampere
-- jede Parzelle ist mit Wasser, digitalem TV und Abfluss ausgestattet
+- geeignet für Wohnmobile und Wohnwagen mit einer Länge von bis zu 8,5 Metern
 - Höchstens 6 Personen/Platz
-- Hunde zugelassen (höchstens 2) - angeleint -  keine gefährlichen Rassen
 - Winterzeitraum 15.11 - 15.03: geschlossen
 
 
-## Preise 2025 pro Nacht
+## Einrichtungen
 
-ANZAHL PERSONEN | NEBENSAISON | HOCHSAISON      
-:--------------:|:-----------:|:-----------:|
-1 Person        |€ 26         |€ 33
-2 Personen      |€ 28         |€ 35           
-3 Personen      |€ 31         |€ 38
-4 Personen      |€ 34         |€ 41     
-5 Personen      |€ 37         |€ 44
-6 Personen      |€ 40         |€ 47
+- Strom: 10 Ampere
+- belgischen Steckertyp E mit Erdungsstift
+- Wasseranschluss auf dem Stellplatz
+- Abwasseranschluss auf dem Stellplatz (eigener Schlauch erforderlich)
+- Ausgussbecken für Chemietoiletten im Sanitärgebäude
 
-* 6.7. bis 22.8.: Reservierung ab 7 Nächten
-* Hochsaison: Osterurlaub - Juli - August - verlängerte Wochenenden
-* Kinder bis zu 2 Jahren: kostenlos
 
 
 {% include de/kurzzeitcamper-reuse.md %}

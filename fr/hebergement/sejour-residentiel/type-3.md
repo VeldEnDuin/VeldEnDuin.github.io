@@ -5,7 +5,7 @@ description: parcelles où les caravanes peuvent tenir jusqu'à 12 mètres
 preview:
     title: Type 3
     button:
-        price: 3040
+        price: 3130
         for: par an
     list:
         - "surface moyenne : 170 m²"
@@ -41,20 +41,20 @@ Une caravane jusqu'à 12 mètres peut être placée sur nos parcelles de type 3.
 - entretien du gazon par Veld & Duin
 
 
-## Prix 2025
+## Prix 2026
 
 TYPE 3                |PRIX           |
 :--------------------:|:--------------:|
-indemnité de résidence par an |€ 3040
-taxe communale                |€ 488,66
-déchets ménagers<br>incl 25 sacs poubelles<br> | € 120  
+indemnité de résidence par an |€ 3130
+taxe communale                |pas encore connu
+déchets ménagers<br>incl 25 sacs poubelles<br> | € 125  
 [assurance incendie][pdf_brandverzekering.fr]     |selon la<br>valeur de la caravane
 
 CONSOMMATION ⑴        |PRIX        |
 :--------------------:|:-------------:|
-électricité           | € 0,68 / kW        
-eau                   | € 8,90 / m³
-gaz                   | € 9,00 / m³       
+électricité           | € 0,69 / kW        
+eau                   | € 9,00 / m³
+gaz                   | € 9,30 / m³       
 compteur              | € 29 / compteur     
 
 ⑴ prix sous réserve de modifications des prix de l’énergie

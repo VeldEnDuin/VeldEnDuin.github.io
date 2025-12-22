@@ -5,7 +5,7 @@ description: geräumige und renovierte Stellplätze
 preview:
     title: Typ 2
     button:
-        price: 2640
+        price: 2720
         for: pro Jahr
     list:
         - "Durchschnittl. Fläche: 120 m²"
@@ -47,20 +47,20 @@ Ein festes Zuhause an der Küste, in das man immer wieder zurückkehrt, wer trä
 - Graspflege von Veld & Duin
 
 
-## Preise 2025
+## Preise 2026
 
 TYP 2                                          |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
-Stellplatzkosten                               | € 2640
-Gemeindesteuer                                 | € 488,66
-Hausmüllgebühr<br>inkl 25 Müllsäcke<br>        | € 120
+Stellplatzkosten                               | € 2720
+Gemeindesteuer                                 | noch nicht bekannt
+Hausmüllgebühr<br>inkl 25 Müllsäcke<br>        | € 125
  [Brandversicherung][pdf_brandverzekering.de]  | abhängig vom <br>Wert des Wohnwagens / Chalets
 
 VERBRAUCH ⑴           |PREIS          |
 :--------------------:|:-------------:|
-Strom                 | € 0,68 / Kw        
-Wasser                | € 8,90 / m³
-Gas                   | € 9,00 / m³
+Strom                 | € 0,69 / Kw        
+Wasser                | € 9,00 / m³
+Gas                   | € 9,30 / m³
 Zähler                | € 29 / Zähler
 
 ⑴ Preis vorbehaltlich Änderungen der Energiepreise

@@ -6,7 +6,7 @@ description: zalig ontspannen in deze luxueuze appartementen
 preview:
     title: Luxe Appartement
     button:
-        price: 194
+        price: 180
         for: 2 nachten
     list:
         - "5-6 personen"
@@ -42,14 +42,14 @@ insert:
 
 Gelegen boven de receptie bieden deze nieuwe en luxueuze appartementen een mooi zicht op de bloemenpracht aan de ingang van de camping.
 
-*Tip: Boek je verblijf rechtstreeks en betaal 12% minder dan via Booking of AirBnB.*
+*Tip: Boek je verblijf rechtstreeks en betaal 12% minder dan via Booking.*
 
 ## Inrichting luxe appartement
 
 - ruime woonkamer met digitale tv en modem
 - ingerichte keuken met vaatwasmachine, microgolf en Philips Barista (koffiecups)
 - welkomstpakketje met koffie en thee
-- badkamer met douche, wastafel en toilet
+- badkamer met regendouche, wastafel en toilet
 - slaapkamers appartement eerste verdieping:
     - 1 kamer met groot dubbelbed (180x200)
     - 1 kamer met stapelbed (140x200) en (90x200)

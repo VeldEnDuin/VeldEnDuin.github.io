@@ -5,7 +5,7 @@ description: mooie percelen tot 80 m²
 preview:
     title: Type 1
     button:
-        price: 2370
+        price: 2440
         for: per jaar
     list:
         - "gemiddelde opp: 80 m²"
@@ -35,18 +35,18 @@ Deze plaatsen zijn iets kleiner qua oppervlakte maar bieden evengoed een instant
 - onderhoud gras door Veld & Duin
 
 
-## Prijzen 2025
+## Prijzen 2026
 
 TYPE 1                                         |PRIJS                               |
 :---------------------------------------------:|:----------------------------------:|
-standplaatsvergoeding                          | € 2370   
-gemeentetaks                                   | € 488,66
-huisvuilbijdrage<br>incl 25 zakken<br>         | € 120   
+standplaatsvergoeding                          | € 2440   
+gemeentetaks                                   | € nog niet gekend
+huisvuilbijdrage<br>incl 25 zakken<br>         | € 125   
  [brandverzekering][pdf_brandverzekering.nl]   | afhankelijk van <br>waarde caravan
 
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
-elektriciteit         | € 0,68 / kW        
+elektriciteit         | € 0,69 / kW        
 forfait water         | € 110
 tellervergoeding      | € 29
 

@@ -5,7 +5,7 @@ description: residence with closed and south-facing terrace
 preview:
     title: Studio Comfort 2
     button:
-        price: 141
+        price: 129
         for: 2 nights
     list:
         - "cosiness for 2"
@@ -39,7 +39,7 @@ insert:
 
 Come and enjoy the sea air for a few days alone or in pairs. After a long walk on the beach or bike ride, you can relax on the enclosed and south-facing terrace.
 
-*Tip: book your stay directly and pay 12% less than via Booking or AirBnB.*
+*Tip: book your stay directly and pay 12% less than via Booking.*
 
 ## Facilities studio
 
