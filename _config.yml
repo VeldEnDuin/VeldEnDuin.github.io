@@ -63,7 +63,7 @@ geolocation:
 fb-app-id: "357843984399164"
 gp-id: "111743051856683336205"
 
-googleApiKey: "hPdRpaNNKS_d9dNtn5-cdkDz3YA8LuIgAyi8_2f"  # TODO get one for VD
+googleApiKey: ""  # TODO get one for VD
 
 links:
   social:
