@@ -22,6 +22,7 @@ nl:
         share: Deel dit bericht
         close: sluiten
         search: Zoek
+        resa: Reserveren
         resa_action: Reservatie Aanvraag
         resa_formwait: Reservatie Aanvraag wordt geladen... (even geduld)
         mailchimp: Schrijf in op onze nieuwsbrief
@@ -71,6 +72,7 @@ fr:  # gebruik geen appostrophe van op het toetsenbord ' maar gebruik ’
         share: Partager ce message
         close: fermer
         search: Chercher
+        resa: Réserver
         resa_action: Demande de réservation
         resa_formwait: Formulaire de réservation en cours de chargement ... (veuillez patienter)
         mailchimp: "Abonnez-vous à notre bulletin d’information"
@@ -121,6 +123,7 @@ de:
         share: Diesen Beitrag teilen
         close: Schließen
         search: Suchen
+        resa: Reservieren
         resa_action: Reservierungsanfrage
         resa_formwait: Reservierungsanfrage wird geladen ... (das kann einen Moment dauern – vielen Dank für Ihre Geduld)
         mailchimp: Melden Sie sich für unseren Newsletter an
@@ -171,6 +174,7 @@ en:
         share: Share this message
         close: close
         search: search
+        resa: Booking
         resa_action: Booking request
         resa_formwait: Loading pictures...
         mailchimp: Add me to your mailing list

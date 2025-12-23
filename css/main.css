@@ -1440,6 +1440,10 @@ footer {
     background-color: rgb(146, 200, 65);
 }
 
+.navbar-nav > li > a.vd-btnlink {
+    padding: 2px 15px;
+}
+
 a.vd-barelink, a.vd-barelink:hover, a.vd-barelink:active, a.vd-barelink:link, a.vd-barelink:visited {
     text-decoration: none;
 }
