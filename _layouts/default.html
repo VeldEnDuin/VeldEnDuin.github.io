@@ -28,7 +28,7 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/main.css">
     <link rel="icon" type="image/png" href="/img/style/veldenduin-ico-48.png">
-    <base href="{{ pgLink }}">
+    <base href="{{ page.basehref | default: pgLink }}">
 
   </head>
   <body data-translations='{{ site.data.langs[pgLang] | jsonify }}'>
@@ -49,6 +49,7 @@
             {% include main-menu.html %}
 
           <ul class="nav navbar-nav navbar-right">
+            {% include booking-menu.html %}
             {% include langs-menu.html %}
             {% include contact-menu.html %}
             {% include social-menu.html %}
@@ -154,7 +155,6 @@
               <div class="col-md-4 col-sm-6 hidden-xs">
                 {% include mailchimp-form.html %}
                 {% include socialmedia-links.html %}
-                {% include covid-info-link.html %}
               </div>
             </div>
           </div>
@@ -203,11 +203,14 @@
 
     {%if page.insert contains 'recranet' %}
     <script type="text/javascript"> 
+        let organi = parseInt('{{ site.booking.recranet.orgid }}', 10);
+        let locale = '{{ pgLang }}';
+        let ga_key = '{{ site.googleApiKey }}';
         window.recranetConfig = { 
-            organization: {{ site.booking.recranet.orgid }}, 
-            locale: '{{ pgLang }}', 
-            currency: 'EUR', 
-            googleApiKey: '{{ site.googleApiKey }}'
+            "organization": organi,
+            "locale": locale,
+            "currency": 'EUR', 
+            "googleApiKey": ga_key
             // division: 0, // OPTIONEEL
             // accommodationParams: {
             //     locationCategory: 1000, // OPTIONEEL
