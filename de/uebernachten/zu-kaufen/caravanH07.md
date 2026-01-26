@@ -11,12 +11,13 @@ preview:
 images:
     - /img/overnachten/te-koop/H07/01-H07-buiten.jpg
     - /img/overnachten/te-koop/H07/02-H07-living.jpg
-    - /img/overnachten/te-koop/H07/03-H07-living.jpg
+    - /img/overnachten/te-koop/H07/03a-H07-living2.jpg
+    - /img/overnachten/te-koop/H07/03b-H07-living.jpg
     - /img/overnachten/te-koop/H07/04-H07-keuken.jpg
-    - /img/overnachten/te-koop/H07/05-H07-slaapkamer.jpg
-    - /img/overnachten/te-koop/H07/06-H07-badkamer.jpg
-    - /img/overnachten/te-koop/H07/07-H07-badkamer.jpg
-    - /img/overnachten/te-koop/H07/08-H07-berging.jpg
+    - /img/overnachten/te-koop/H07/05-H07-kamer1a.jpg
+    - /img/overnachten/te-koop/H07/06-H07-kamer2.jpg
+    - /img/overnachten/te-koop/H07/07-H07-douche.jpg
+    - /img/overnachten/te-koop/H07/08-H07-badkamer.jpg
 
 insert:
     - page-images-top
