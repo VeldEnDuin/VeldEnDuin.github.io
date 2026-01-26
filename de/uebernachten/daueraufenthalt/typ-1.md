@@ -40,7 +40,7 @@ Diese Plätze haben eine etwas kleinere Fläche, bieten aber ebenso gut im Handu
 TYP 1                                          |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
 Stellplatzkosten                               | € 2440     
-Gemeindesteuer                                 | noch nicht bekannt
+Gemeindesteuer                                 | € 543,78
 Hausmüllgebühr<br>inkl 25 Müllsäcke<br>        | € 125
  [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens
 

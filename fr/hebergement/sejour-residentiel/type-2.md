@@ -51,7 +51,7 @@ Qui n’a jamais rêvé d’un pied-à-terre à la mer pour s’y rendre dès qu
 TYPE 2                |PRIX           |
 :--------------------:|:--------------:|
 indemnité de résidence par an |€ 2720
-taxe communale                |pas encore connu
+taxe communale                |€ 543,78
 déchets ménagers<br>incl 25 sacs poubelles<br> | € 125
 [assurance incendie][pdf_brandverzekering.fr]     |selon la<br>valeur de la caravane / chalet
 

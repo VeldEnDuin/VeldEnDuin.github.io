@@ -46,7 +46,7 @@ Une caravane jusqu'à 12 mètres peut être placée sur nos parcelles de type 3.
 TYPE 3                |PRIX           |
 :--------------------:|:--------------:|
 indemnité de résidence par an |€ 3130
-taxe communale                |pas encore connu
+taxe communale                |€ 543,78
 déchets ménagers<br>incl 25 sacs poubelles<br> | € 125  
 [assurance incendie][pdf_brandverzekering.fr]     |selon la<br>valeur de la caravane
 

@@ -46,7 +46,7 @@ Op onze type 3 percelen kan een caravan tot 12 meter staan. Deze ruime percelen 
 TYPE 3                |PRIJS           |
 :--------------------:|:--------------:|
 standplaatsvergoeding | € 3130
-gemeentetaks          | nog niet gekend
+gemeentetaks          | € 543,78
 huisvuilbijdrage<br>incl 25 zakken<br> | € 125  
 [brandverzekering][pdf_brandverzekering.nl]     |afhankelijk van <br>waarde caravan
 

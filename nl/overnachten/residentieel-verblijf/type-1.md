@@ -40,7 +40,7 @@ Deze plaatsen zijn iets kleiner qua oppervlakte maar bieden evengoed een instant
 TYPE 1                                         |PRIJS                               |
 :---------------------------------------------:|:----------------------------------:|
 standplaatsvergoeding                          | € 2440   
-gemeentetaks                                   | € nog niet gekend
+gemeentetaks                                   | € 543,78
 huisvuilbijdrage<br>incl 25 zakken<br>         | € 125   
  [brandverzekering][pdf_brandverzekering.nl]   | afhankelijk van <br>waarde caravan
 
