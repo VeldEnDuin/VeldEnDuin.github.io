@@ -4,7 +4,7 @@ title: Caravan H 03
 preview:
     title: Caravan H 03
     list:
-        - "prijs: € 55.000"
+        - "prijs: € 60.000"
         - "type 2"
         - "beschikbaar: direct"
 
@@ -31,16 +31,16 @@ insert:
 
 CARAVAN H 03                | INFO        |
 :---------------------------|:------------|
-Merk                        |Roels
-Type                        |Flore 29/12
-Bouwjaar                    |2023
-Afmetingen caravan          |9m x 3m70
-Caravan onderaan afgemaakt? |ja
-Lades onder caravan         |neen
+Merk                        |EDC
+Type                        |Suncet Chalet -2P
+Bouwjaar                    |2018
+Afmetingen caravan          |10m50 x 4m10
+Caravan onderaan afgemaakt? |ja (alu panelen - gepoederlakt & geïsoleerd)
+Lades onder caravan         |ja
 Terras                      |ja
 Aantal slaapkamers          |2
 Verdeling bedden            |1x dubbelbed + 2x enkel bed
 Ramen                       |dubbel glas
-Soort verwarming            |Truma
-Inboedel caravan            |inbegrepen uitgezonderd persoonlijke zaken
-Standplaatsvergoeding 2026  |niet inbegrepen
+Soort verwarming            |cv Morco
+Inboedel caravan            |inbegrepen uitgezonderd persoonlijke zaken, terrastafel & radio
+Standplaatsvergoeding 2026  |inbegrepen

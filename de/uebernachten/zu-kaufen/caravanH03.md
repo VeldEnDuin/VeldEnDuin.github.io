@@ -4,7 +4,7 @@ title: Caravan H 03
 preview:
     title: Caravan H 03
     list:
-        - "Preis: € 55.000"
+        - "Preis: € 60.000"
         - "type 2"
         - "Verfügbar: ab sofort"
 
@@ -29,16 +29,16 @@ insert:
 
 CARAVAN H 03                | INFO        |
 :---------------------------|:------------|
-Marke                       |Roels
-Typ                         |Flore 29/12
-Baujahr                     |2023
-Abmessungen Caravan         |9m x 3m70
-Caravan unten fertiggestellt|ja
-Schubladen unter caravan    |nein
+Marke                       |EDC
+Typ                         |Sunset Chalet 1050-2P
+Baujahr                     |2018
+Abmessungen Caravan         |10m50 x 4m10
+Caravan unten fertiggestellt|ja (Aluminiumplatten: pulverbeschichtet und isoliert)
+Schubladen unter caravan    |ja
 Terrasse                    |ja
 Anzahl Schlafzimmer         |2
 Verteilung von Betten       |1x Doppelbett + 2x Einzelbette
 Fenster                     |Doppelverglasung
-Heizung                     |Truma
-Hausrat                     |inbegriffen ausserhalb persönliche Sachen
-Standgebühr 2026            |nicht inbegriffen
+Heizung                     |cv Morco
+Hausrat                     |inbegriffen ausserhalb persönliche Sachen, Terrassentisch & Radio
+Standgebühr 2026            |inbegriffen
