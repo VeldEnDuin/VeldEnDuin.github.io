@@ -5,7 +5,7 @@ description: geräumige und renovierte Stellplätze
 preview:
     title: Typ 2
     button:
-        price: 2720
+        price: 2874
         for: pro Jahr
     list:
         - "Durchschnittl. Fläche: 120 m²"
@@ -51,16 +51,16 @@ Ein festes Zuhause an der Küste, in das man immer wieder zurückkehrt, wer trä
 
 TYP 2                                          |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
-Stellplatzkosten                               | € 2720
-Gemeindesteuer                                 | € 543,78
-Hausmüllgebühr<br>inkl 25 Müllsäcke<br>        | € 125
+Stellplatzkosten                               | € 2874
+Gemeindesteuer                                 | € 574,56
+Hausmüllgebühr<br>inkl 25 Müllsäcke<br>        | € 132
  [Brandversicherung][pdf_brandverzekering.de]  | abhängig vom <br>Wert des Wohnwagens / Chalets
 
 VERBRAUCH ⑴           |PREIS          |
 :--------------------:|:-------------:|
-Strom                 | € 0,69 / Kw        
-Wasser                | € 9,00 / m³
-Gas                   | € 9,30 / m³
-Zähler                | € 29 / Zähler
+Strom                 | € 0,73 / Kw        
+Wasser                | € 9,50 / m³
+Gas                   | € 9,82 / m³
+Zähler                | € 30,64 / Zähler
 
 ⑴ Preis vorbehaltlich Änderungen der Energiepreise

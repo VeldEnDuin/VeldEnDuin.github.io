@@ -5,7 +5,7 @@ description: schöne Grundstücke bis 80 m²
 preview:
     title: Typ 1
     button:
-        price: 2440
+        price: 2578
         for: pro Jahr
     list:
         - "Durchschnittl. Fläche: 80 m²"
@@ -39,15 +39,15 @@ Diese Plätze haben eine etwas kleinere Fläche, bieten aber ebenso gut im Handu
 
 TYP 1                                          |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
-Stellplatzkosten                               | € 2440     
-Gemeindesteuer                                 | € 543,78
-Hausmüllgebühr<br>inkl 25 Müllsäcke<br>        | € 125
+Stellplatzkosten                               | € 2578    
+Gemeindesteuer                                 | € 574,56
+Hausmüllgebühr<br>inkl 25 Müllsäcke<br>        | € 132
  [Brandversicherung][pdf_brandverzekering.de]   | abhängig vom <br>Wert des Wohnwagens
 
 VERBRAUCH ⑴           |PREIS          |
 :--------------------:|:-------------:|
-Strom                 | € 0,69 / kW
-Pauschal Wasser       | € 110
-Zähler                | € 29  
+Strom                 | € 0,73 / kW
+Pauschal Wasser       | € 116
+Zähler                | € 30,64  
 
 ⑴ Preis vorbehaltlich Änderungen der Energiepreise

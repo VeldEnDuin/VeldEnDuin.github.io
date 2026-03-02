@@ -5,7 +5,7 @@ description: belles parcelles jusqu'à 80 m²
 preview:
     title: Type 1
     button:
-        price: 2440
+        price: 2578
         for: par an
     list:
         - "surface moyenne : 80 m²"
@@ -39,15 +39,15 @@ Ces emplacements sont un peu plus petits mais vous vous y sentirez immédiatemen
 
 TYPE 1                                         |PRIX                               |
 :---------------------------------------------:|:----------------------------------:|
-indemnité de résidence par an                  | € 2440      
-taxe communale                                 | € 543,78
-déchets ménagers<br>incl 25 sacs poubelles<br> | € 125   
+indemnité de résidence par an                  | € 2578     
+taxe communale                                 | € 574,56
+déchets ménagers<br>incl 25 sacs poubelles<br> | € 132
  [assurance incendie][pdf_brandverzekering.fr]    | selon la<br>valeur de la caravane
 
 CONSOMMATION ⑴           |PRIX          |
 :--------------------:|:-------------:|
-électricité           | € 0,69 / kW        
-forfait eau           | € 110
-compteur              | € 29
+électricité           | € 0,73 / kW        
+forfait eau           | € 116
+compteur              | € 30,64
 
 ⑴ prix sous réserve de modifications des prix de l’énergie

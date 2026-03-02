@@ -85,12 +85,12 @@ Sheet sets and towels can also be rented.
 
 EXTRA SERVICE             | PRICE
 :-------------------|:-----------|
-bed linen           | € 12 / bed
-towel package       | € 6,5 / package (1 large and 1 small towel)
-baby cot          | € 2 / night
-baby chair         | € 2 / night
+bed linen           | € 12,70 / bed
+towel package       | € 6,90 / package (1 large and 1 small towel)
+baby cot          | € 2,10 / night
+baby chair         | € 2,10 / night
 parking place extra car  | € 4 / started day
-[bicycle shed][fietsberging.en]| € 2 / bike / night
+[bicycle shed][fietsberging.en]| € 2,10 / bike / night
 
 ## Plan campsite
 

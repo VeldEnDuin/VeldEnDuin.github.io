@@ -5,7 +5,7 @@ description: emplacements spacieux et rénovés
 preview:
     title: Type 2
     button:
-        price: 2720
+        price: 2874
         for: per an
     list:
         - "surface moyenne : 120 m²"
@@ -50,16 +50,16 @@ Qui n’a jamais rêvé d’un pied-à-terre à la mer pour s’y rendre dès qu
 
 TYPE 2                |PRIX           |
 :--------------------:|:--------------:|
-indemnité de résidence par an |€ 2720
-taxe communale                |€ 543,78
-déchets ménagers<br>incl 25 sacs poubelles<br> | € 125
+indemnité de résidence par an |€ 2874
+taxe communale                |€ 574,56
+déchets ménagers<br>incl 25 sacs poubelles<br> | € 132
 [assurance incendie][pdf_brandverzekering.fr]     |selon la<br>valeur de la caravane / chalet
 
 CONSOMMATION ⑴        |PRIX        |
 :--------------------:|:-------------:|
-électricité           | € 0,69 / kW        
-eau                   | € 9,00 / m³
-gaz                   | € 9,30 / m³       
-compteur              | € 29 / compteur  
+électricité           | € 0,73 / kW        
+eau                   | € 9,50 / m³
+gaz                   | € 9,82 / m³       
+compteur              | € 30,64 / compteur  
 
 ⑴ prix sous réserve de modifications des prix de l’énergie

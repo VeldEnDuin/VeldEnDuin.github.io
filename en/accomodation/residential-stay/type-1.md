@@ -5,7 +5,7 @@ description: beautiful plots up to 80 m²
 preview:
     title: Type 1
     button:
-        price: 2440
+        price: 2578
         for: per year
     list:
         - "average surface: 80 m²"
@@ -39,15 +39,15 @@ These pitches are smaller but give you an instant holiday feeling, regardless of
 
 TYPE 1                                         |PRICE                               |
 :---------------------------------------------:|:----------------------------------:|
-stand price per year                           | € 2440
-municipal taxes                                | € 543,78
-contribution for household refuse<br>incl. 25 bags<br>         | € 125
+stand price per year                           | € 2578
+municipal taxes                                | € 574,56
+contribution for household refuse<br>incl. 25 bags<br>         | € 132
  [fire insurance][pdf_brandverzekering.en]   | depending on <br>the worth of the caravan
 
 CONSUMPTION ⑴           |PRICE          |
 :--------------------:|:-------------:|
-electricity           | € 0,69 / kW        
-fixed price water     | € 110
-counter               | € 29
+electricity           | € 0,73 / kW        
+fixed price water     | € 116
+counter               | € 30,64
 
 ⑴ price subject to changing energy charges

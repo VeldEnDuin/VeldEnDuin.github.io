@@ -79,10 +79,10 @@ Des draps et des serviettes peuvent également être loués.
 
 SUPPLÉMENTS         | PRIX
 :-------------------|:-----------|
-draps               | € 12 / lit
-paquet de serviettes| € 6,5 / paquet (1 grande et 1 petite serviette)
-lit d'enfant        | € 2 / nuit
-chaise haute        | € 2 / nuit
+draps               | € 12,70 / lit
+paquet de serviettes| € 6,90 / paquet (1 grande et 1 petite serviette)
+lit d'enfant        | € 2,10 / nuit
+chaise haute        | € 2,10 / nuit
 parking voiture supplémentaire  | € 4 / jour entamé
 
 

@@ -5,7 +5,7 @@ description: parcelles où les caravanes peuvent tenir jusqu'à 12 mètres
 preview:
     title: Type 3
     button:
-        price: 3130
+        price: 3307
         for: par an
     list:
         - "surface moyenne : 170 m²"
@@ -45,16 +45,16 @@ Une caravane jusqu'à 12 mètres peut être placée sur nos parcelles de type 3.
 
 TYPE 3                |PRIX           |
 :--------------------:|:--------------:|
-indemnité de résidence par an |€ 3130
-taxe communale                |€ 543,78
-déchets ménagers<br>incl 25 sacs poubelles<br> | € 125  
+indemnité de résidence par an |€ 3307
+taxe communale                |€ 574,56
+déchets ménagers<br>incl 25 sacs poubelles<br> | € 132  
 [assurance incendie][pdf_brandverzekering.fr]     |selon la<br>valeur de la caravane
 
 CONSOMMATION ⑴        |PRIX        |
 :--------------------:|:-------------:|
-électricité           | € 0,69 / kW        
-eau                   | € 9,00 / m³
-gaz                   | € 9,30 / m³       
-compteur              | € 29 / compteur     
+électricité           | € 0,73 / kW        
+eau                   | € 9,50 / m³
+gaz                   | € 9,82 / m³       
+compteur              | € 30,64 / compteur     
 
 ⑴ prix sous réserve de modifications des prix de l’énergie

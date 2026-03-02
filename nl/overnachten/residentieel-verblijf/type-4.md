@@ -5,7 +5,7 @@ description: extra ruime percelen gelegen rond een wadi
 preview:
     title: Type 4
     button:
-        price: 3650
+        price: 3857
         for: per jaar
     list:
         - "gemiddelde opp: 190 m²"
@@ -45,16 +45,16 @@ Wenst u graag een extra groot perceel met zicht op de centraal gelegen wadi? Ga 
 
 TYPE 4                |PRIJS           |
 :--------------------:|:--------------:|
-standplaatsvergoeding | € 3650            
-gemeentetaks          | € 543,78
-huisvuilbijdrage<br>incl 25 zakken<br> | € 125  
+standplaatsvergoeding | € 3857           
+gemeentetaks          | € 574,46
+huisvuilbijdrage<br>incl 25 zakken<br> | € 132  
 [brandverzekering][pdf_brandverzekering.nl]     |afhankelijk van <br>waarde caravan
 
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
-elektriciteit         | € 0,69 / kW        
-water                 | € 9,00 / m³  
-gas                   | € 9,30 / m³       
-tellervergoeding      | € 29 / teller
+elektriciteit         | € 0,73 / kW        
+water                 | € 9,50 / m³  
+gas                   | € 9,82 / m³       
+tellervergoeding      | € 30,64 / teller
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven

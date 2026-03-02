@@ -5,7 +5,7 @@ description: plots where caravans can stand up to 12 meters
 preview:
     title: Type 3
     button:
-        price: 3130
+        price: 3307
         for: per year
     list:
         - "average surface: 170 m²"
@@ -46,16 +46,16 @@ A caravan up to 12 meters can be placed on our type 3 plots. These spacious plot
 
 TYPE 3                |PRICE           |
 :--------------------:|:--------------:|
-stand price per year  | € 3130         
-municipal taxes       | € 543,78
-contribution for household refuse<br>incl. 25 bags<br> | € 125
+stand price per year  | € 3307        
+municipal taxes       | € 574,56
+contribution for household refuse<br>incl. 25 bags<br> | € 132
 [fire insurance][pdf_brandverzekering.en]     |depending on <br>the worth of the caravan
 
 CONSUMPTION ⑴        |PRICE          |
 :--------------------:|:-------------:|
-electricity           | € 0,69 / kW        
-water                 | € 9,00 / m³  
-gas                   | € 9,30 / m³       
-counter               | € 29 / counter
+electricity           | € 0,73 / kW        
+water                 | € 9,50 / m³  
+gas                   | € 9,82 / m³       
+counter               | € 30,64 / counter
 
 ⑴ price subject to changing energy charges

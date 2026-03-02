@@ -82,13 +82,13 @@ Bettwäsche und Handtücher können ebenfalls gemietet werden.
 
 EXTRA               | PREIS
 :-------------------|:-----------|
-Hund                  | € 5 / Nacht - max 2     
-Betttuchpaket       | € 12 / Bett
-Handtuchpaket       | € 6,5 / Paket (1 grosses und 1 kleines Handtuch)
-Kinderbett           | € 2 / Nacht
-Kinderstuhl         | € 2 / Nacht
+Hund                  | € 5,30 / Nacht - max 2     
+Betttuchpaket       | € 12,70 / Bett
+Handtuchpaket       | € 6,90 / Paket (1 grosses und 1 kleines Handtuch)
+Kinderbett           | € 2,10 / Nacht
+Kinderstuhl         | € 2,10 / Nacht
 Parkplatz extra Auto  | € 4 / angefangenem Tag
-[Platz im Fahrradunterstand][fietsberging.de]| € 2 / Rad / Nacht
+[Platz im Fahrradunterstand][fietsberging.de]| € 2,10 / Rad / Nacht
 
 
 ## Plan Campingplatz

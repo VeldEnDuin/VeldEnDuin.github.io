@@ -83,10 +83,10 @@ Bettwäsche und Handtücher können ebenfalls gemietet werden.
 
 EXTRA               | PREIS
 :-------------------|:-----------|
-Betttuchpaket       | € 12 / Bett
-Handtuchpaket       | € 6,5 / Paket (1 grosses und 1 kleines Handtuch)
-Kinderbett           | € 2 / Nacht
-Kinderstuhl         | € 2 / Nacht
+Betttuchpaket       | € 12,70 / Bett
+Handtuchpaket       | € 6,90 / Paket (1 grosses und 1 kleines Handtuch)
+Kinderbett           | € 2,10 / Nacht
+Kinderstuhl         | € 2,10 / Nacht
 Parkplatz extra Auto  | € 4 / angefangenem Tag
 
 

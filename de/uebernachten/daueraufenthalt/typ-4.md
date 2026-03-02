@@ -5,7 +5,7 @@ description: besonders geräumige Parzellen rund um ein Wadi
 preview:
     title: Typ 4
     button:
-        price: 3650
+        price: 3857
         for: pro Jahr
     list:
         - "Durchschnittl. Fläche: 190 m²"
@@ -45,16 +45,16 @@ Wünschen Sie eine besonders große Parzelle mit Blick auf das zentral gelegene 
 
 TYP 4                                          |PREIS                               |
 :---------------------------------------------:|:----------------------------------:|
-Stellplatzkosten                               | € 3650
-Gemeindesteuer                                 | € 543,78
-Hausmüllgebühr<br>inkl 25 Müllsäcke<br>        | € 125
+Stellplatzkosten                               | € 3857
+Gemeindesteuer                                 | € 574,56
+Hausmüllgebühr<br>inkl 25 Müllsäcke<br>        | € 132
  [Brandversicherung][pdf_brandverzekering.de]  | abhängig vom <br>Wert des Wohnwagens
 
 VERBRAUCH ⑴           |PREIS          |
 :--------------------:|:-------------:|
-Strom                 | € 0,69 / Kw        
-Wasser                | € 9,00 / m³
-Gas                   | € 9,30 / m³
-Zähler                | € 29 / Zähler
+Strom                 | € 0,73 / Kw        
+Wasser                | € 9,50 / m³
+Gas                   | € 9,82 / m³
+Zähler                | € 30,64 / Zähler
 
 ⑴ Preis vorbehaltlich Änderungen der Energiepreise

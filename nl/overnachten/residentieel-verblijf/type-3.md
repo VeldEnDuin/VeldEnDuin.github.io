@@ -5,7 +5,7 @@ description: percelen waar caravans tot 12 meter kunnen staan
 preview:
     title: Type 3
     button:
-        price: 3130
+        price: 3307
         for: per jaar
     list:
         - "gemiddelde opp: 170 m²"
@@ -45,16 +45,16 @@ Op onze type 3 percelen kan een caravan tot 12 meter staan. Deze ruime percelen 
 
 TYPE 3                |PRIJS           |
 :--------------------:|:--------------:|
-standplaatsvergoeding | € 3130
-gemeentetaks          | € 543,78
-huisvuilbijdrage<br>incl 25 zakken<br> | € 125  
+standplaatsvergoeding | € 3307
+gemeentetaks          | € 574,56
+huisvuilbijdrage<br>incl 25 zakken<br> | € 132
 [brandverzekering][pdf_brandverzekering.nl]     |afhankelijk van <br>waarde caravan
 
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
-elektriciteit         | € 0,69 / kW        
-water                 | € 9,00 / m³  
-gas                   | € 9,30 / m³       
-tellervergoeding      | € 29 / teller
+elektriciteit         | € 0,73 / kW        
+water                 | € 9,50 / m³  
+gas                   | € 9,82 / m³       
+tellervergoeding      | € 30,64 / teller
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven

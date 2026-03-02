@@ -5,7 +5,7 @@ description: mooie percelen tot 80 m²
 preview:
     title: Type 1
     button:
-        price: 2440
+        price: 2578
         for: per jaar
     list:
         - "gemiddelde opp: 80 m²"
@@ -39,15 +39,15 @@ Deze plaatsen zijn iets kleiner qua oppervlakte maar bieden evengoed een instant
 
 TYPE 1                                         |PRIJS                               |
 :---------------------------------------------:|:----------------------------------:|
-standplaatsvergoeding                          | € 2440   
-gemeentetaks                                   | € 543,78
-huisvuilbijdrage<br>incl 25 zakken<br>         | € 125   
+standplaatsvergoeding                          | € 2578   
+gemeentetaks                                   | € 574,56
+huisvuilbijdrage<br>incl 25 zakken<br>         | € 132   
  [brandverzekering][pdf_brandverzekering.nl]   | afhankelijk van <br>waarde caravan
 
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
-elektriciteit         | € 0,69 / kW        
-forfait water         | € 110
-tellervergoeding      | € 29
+elektriciteit         | € 0,73 / kW        
+forfait water         | € 116
+tellervergoeding      | € 30,64
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven

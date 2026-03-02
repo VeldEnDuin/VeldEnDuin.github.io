@@ -80,13 +80,13 @@ Des draps et des serviettes peuvent également être loués.
 
 SUPPLÉMENTS               | PRIX
 :-------------------|:-----------|
-chien               | € 5 / nuit - max 2
-draps               | € 12 / lit
-paquet de serviettes| € 6,5 / paquet (1 grande et 1 petite serviette)
-lit d'enfant        | € 2 / nuit
-chaise haute        | € 2 / nuit
+chien               | € 5,30 / nuit - max 2
+draps               | € 12,70 / lit
+paquet de serviettes| € 6,90 / paquet (1 grande et 1 petite serviette)
+lit d'enfant        | € 2,10 / nuit
+chaise haute        | € 2,10 / nuit
 parking voiture supplémentaire  | € 4 / jour entamé
-[emplacement vélo][fietsberging.fr]| € 2 / vélo / nuit
+[emplacement vélo][fietsberging.fr]| € 2,10 / vélo / nuit
 
 
 

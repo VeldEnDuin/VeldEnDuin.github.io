@@ -5,7 +5,7 @@ description: ruime en vernieuwde plaatsen
 preview:
     title: Type 2
     button:
-        price: 2720
+        price: 2874
         for: per jaar
     list:
         - "gemiddelde opp: 120 m²"
@@ -51,16 +51,16 @@ Een vaste stek aan de kust om steeds opnieuw naar terug te keren, wie droomt daa
 
 TYPE 2                |PRIJS           |
 :--------------------:|:--------------:|
-standplaatsvergoeding |€ 2720
-gemeentetaks          |€ 543,78
-huisvuilbijdrage<br>incl 25 zakken<br> | € 125    
+standplaatsvergoeding |€ 2874
+gemeentetaks          |€ 574,56
+huisvuilbijdrage<br>incl 25 zakken<br> | € 132    
 [brandverzekering][pdf_brandverzekering.nl]      |afhankelijk van <br>waarde caravan / chalet
 
 VERBRUIK ⑴           |PRIJS          |
 :--------------------:|:-------------:|
-elektriciteit         | € 0,69 / kW        
-water                 | € 9,00 / m³  
-gas                   | € 9,30 / m³       
-tellervergoeding      | € 29 / teller
+elektriciteit         | € 0,73 / kW        
+water                 | € 9,50 / m³  
+gas                   | € 9,82 / m³       
+tellervergoeding      | € 30,64 / teller
 
 ⑴ prijs onder voorbehoud van wijzigende energietarieven

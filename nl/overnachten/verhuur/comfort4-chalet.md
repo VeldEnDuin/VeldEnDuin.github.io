@@ -80,13 +80,13 @@ Lakenpakketten en handdoeken kunt u ook huren.
 
 EXTRA               | PRIJS
 :-------------------|:-----------|
-hond                | € 5 / nacht - max 2
-lakenpakket         | € 12 / bed
-handdoekenpakket    | € 6,5 / pakket (1 grote en 1 kleine handdoek)
-kinderbed           | € 2 / nacht
-kinderstoel         | € 2 / nacht
+hond                | € 5,30 / nacht - max 2
+lakenpakket         | € 12,70 / bed
+handdoekenpakket    | € 6,90 / pakket (1 grote en 1 kleine handdoek)
+kinderbed           | € 2,10 / nacht
+kinderstoel         | € 2,10 / nacht
 parking extra auto  | € 4 / begonnen dag
-[plaats fietsberging][fietsberging.nl]| € 2 / fiets / nacht
+[plaats fietsberging][fietsberging.nl]| € 2,10 / fiets / nacht
 
 
 ## Plan camping

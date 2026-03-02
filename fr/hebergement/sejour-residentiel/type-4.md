@@ -5,7 +5,7 @@ description: parcelles très spacieuses situées autour d'une pièce d'eau
 preview:
     title: Type 4
     button:
-        price: 3650
+        price: 3857
         for: par an
     list:
         - "surface moyenne : 190 m²"
@@ -44,16 +44,16 @@ Vous cherchez un grand emplacement avec vue sur la pièce d’eau au centre du c
 
 TYPE 4                |PRIX           |
 :--------------------:|:--------------:|
-indemnité de résidence par an |€ 3650          
-taxe communale                |€ 543,78
-déchets ménagers<br>incl 25 sacs poubelles<br> | € 125   
+indemnité de résidence par an |€ 3857         
+taxe communale                |€ 574,56
+déchets ménagers<br>incl 25 sacs poubelles<br> | € 132   
 [assurance incendie][pdf_brandverzekering.fr]     |selon la<br>valeur de la caravane
 
 CONSOMMATION ⑴        |PRIX        |
 :--------------------:|:-------------:|
-électricité           | € 0,69 / kW        
-eau                   | € 9,00 / m³
-gaz                   | € 9,30 / m³       
-compteur              | € 29 / compteur       
+électricité           | € 0,73 / kW        
+eau                   | € 9,50 / m³
+gaz                   | € 9,82 / m³       
+compteur              | € 30,64 / compteur       
 
 ⑴ prix sous réserve de modifications des prix de l’énergie
