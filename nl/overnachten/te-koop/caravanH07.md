@@ -44,4 +44,4 @@ Verdeling bedden            |1x dubbelbed + 2x enkel bed
 Ramen                       |dubbel glas
 Soort verwarming            |Truma
 Inboedel caravan            |inbegrepen uitgezonderd persoonlijke zaken
-Standplaatsvergoeding 2026  |niet inbegrepen
+Standplaatsvergoeding 2026  |inbegrepen

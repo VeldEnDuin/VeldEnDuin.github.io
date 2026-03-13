@@ -43,4 +43,4 @@ Distribution des lits       |1x lit double + 2x lits simples
 Fenêtres                    |double vitrage
 Chauffage                   |Truma
 Mobilier de caravane        |inclus sauf choses personnels
-Indemnité de résidence 2026 |non inclus
+Indemnité de résidence 2026 |inclus

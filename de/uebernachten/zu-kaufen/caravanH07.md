@@ -42,4 +42,4 @@ Verteilung von Betten       |1x Doppelbett + 2x Einzelbette
 Fenster                     |Doppelverglasung
 Heizung                     |Truma
 Hausrat                     |inbegriffen ausserhalb persönliche Sachen
-Standgebühr 2026            |nicht inbegriffen
+Standgebühr 2026            |inbegriffen
