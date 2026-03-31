@@ -19,10 +19,10 @@ icon: info-sign
 
 |         ALLERLEI         | PRIJS                                              |
 | :----------------------: | :------------------------------------------------- |
-|      winterservice       | € 60                                               |
-| slagboomkaart (eenmalig) | € 100                                              |
+|      winterservice       | € 65                                               |
+| slagboomkaart (eenmalig) | € 105,66                                           |
 |    parking extra auto    | € 4 / begonnen dag                                 |
 |       2de parking        | € 125 / jaar                                       |
-|      verhuurkost ⑴       | € 11 / nacht / accommodatie <br> € 22 / reservatie |
+|      verhuurkost ⑴       | € 11,62 / nacht / accommodatie <br> € 25,35 / reservatie |
 
 ⑴ **Verhuurkost:**<br> De (klein)kinderen en (groot)ouders van de eigenaar kunnen gratis blijven slapen. Andere personen of huurders die blijven overnachten moeten aangemeld worden en de verhuurkost betalen.

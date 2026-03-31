@@ -20,11 +20,11 @@ icon: info-sign
 
 MISCELLANEOUS                       |PRICE          
 :----------------------------------:|:---------------
-winterservice                       |€ 60
-barier entrance card (one-time cost)|€ 100          
+winterservice                       |€ 65
+barier entrance card (one-time cost)|€ 105,66          
 parking place 2nd car               |€ 4 / started day  
 second parking place                |€ 125 / year       
-rental cost ⑴                      |€ 11 / night / lodging <br> € 22 / reservation
+rental cost ⑴                      |€ 11,62 / night / lodging <br> € 25,35 / reservation
 
 
 ⑴ **rental cost:**<br> (Grand)children and (grand)parents can stay overnight without any charges. Other persons or tenants staying overnight must be registered and pay the rental fee.

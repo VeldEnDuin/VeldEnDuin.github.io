@@ -299,10 +299,10 @@ h_03:
   nl: /nl/overnachten/te-koop/caravanH03.html
   fr: /fr/hebergement/a-vendre/caravanH03.html
   de: /de/uebernachten/zu-kaufen/caravanH03.html
-h_07:
-  nl: /nl/overnachten/te-koop/caravanH07.html
-  fr: /fr/hebergement/a-vendre/caravanH07.html
-  de: /de/uebernachten/zu-kaufen/caravanH07.html
+f_11:
+  nl: /nl/overnachten/te-koop/caravanF11.html
+  fr: /fr/hebergement/a-vendre/caravanF11.html
+  de: /de/uebernachten/zu-kaufen/caravanF11.html
 
 # [3] menu - voorzieningen
 voorzieningen:

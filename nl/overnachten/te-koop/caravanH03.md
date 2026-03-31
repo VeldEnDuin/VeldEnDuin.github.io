@@ -32,7 +32,7 @@ insert:
 CARAVAN H 03                | INFO        |
 :---------------------------|:------------|
 Merk                        |EDC
-Type                        |Suncet Chalet -2P
+Type                        |Sunset Chalet -2P
 Bouwjaar                    |2018
 Afmetingen caravan          |10m50 x 4m10
 Caravan onderaan afgemaakt? |ja (alu panelen - gepoederlakt & geïsoleerd)

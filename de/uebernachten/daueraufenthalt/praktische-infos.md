@@ -20,11 +20,11 @@ icon: info-sign
 
 DIVERSE                       |PREIS           
 :----------------------------:|:---------------
-Winterservice                 |€ 60
-Karte für Schranke (einmalig) |€ 100          
+Winterservice                 |€ 65
+Karte für Schranke (einmalig) |€ 105,66          
 Parkplatz 2. Auto             |€ 4 / angefangenem Tag  
 2. Parkplatz                  |€ 125 / Jahr       
-Mietkosten ⑴                 |€ 11 / Nacht / Unterkunft <br> € 22 / Reservierung
+Mietkosten ⑴                 |€ 11,62 / Nacht / Unterkunft <br> € 25,35 / Reservierung
 
 
 ⑴ **Mietkosten:**<br> (Enkel-)Kinder und (Groß-)Eltern des Eigentümers dürfen kostenlos übernachten. Andere Personen oder Mieter, die über Nacht bleiben, müssen registriert werden und den Mietkost bezahlen.
