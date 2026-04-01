@@ -4,8 +4,8 @@ title: Caravane F 11
 preview:
     title: Caravane F 11
     list:
-        - "prix: € 60.000"
-        - "type 2"
+        - "prix: € 52.000"
+        - "type 4"
         - "disponible: tout de suite"
 
 images:
