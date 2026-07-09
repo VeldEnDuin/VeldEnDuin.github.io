@@ -4,7 +4,7 @@ title: Caravan F 11
 preview:
     title: Caravan F 11
     list:
-        - "Preis: € 52.000"
+        - "Preis: € 50.000"
         - "type 4"
         - "Verfügbar: ab sofort"
 
@@ -39,4 +39,4 @@ Verteilung von Betten       |1x Doppelbett + 1x Einzelbette
 Fenster                     |Doppelverglasung
 Heizung                     |cv Morco
 Hausrat                     |inbegriffen (incl Terrassenmöble)
-Standgebühr 2026            |nicht inbegriffen
+Standgebühr 2026            |inbegriffen

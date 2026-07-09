@@ -4,7 +4,7 @@ title: Caravane F 11
 preview:
     title: Caravane F 11
     list:
-        - "prix: € 52.000"
+        - "prix: € 50.000"
         - "type 4"
         - "disponible: tout de suite"
 
@@ -40,4 +40,4 @@ Distribution des lits       |1x lit double + 1x lit simple
 Fenêtres                    |double vitrage
 Chauffage                   |cv Morco
 Mobilier de caravane        |inclus (aussi meubles de jardin)
-Indemnité de résidence 2026 |non inclus
+Indemnité de résidence 2026 |inclus

@@ -4,7 +4,7 @@ title: Caravan F 11
 preview:
     title: Caravan F 11
     list:
-        - "prijs: € 52.000"
+        - "prijs: € 50.000"
         - "type 4"
         - "beschikbaar: direct"
 
@@ -41,4 +41,4 @@ Verdeling bedden            |1x dubbelbed + 1x enkel bed
 Ramen                       |dubbel glas
 Soort verwarming            |cv Morco
 Inboedel caravan            |inbegrepen (ook terrasmeubilair)
-Standplaatsvergoeding 2026  |niet inbegrepen
+Standplaatsvergoeding 2026  |inbegrepen
