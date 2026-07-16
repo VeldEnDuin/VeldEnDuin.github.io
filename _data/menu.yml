@@ -40,8 +40,8 @@
     - linkcode: te_koop
       submenu:
         - linkcode: te_koop
-        - linkcode: f_03
         - linkcode: f_11
+        - linkcode: f_15
 
 - linkcode: voorzieningen
   menutekst:
