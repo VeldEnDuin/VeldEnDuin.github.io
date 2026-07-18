@@ -295,14 +295,14 @@ te_koop:
   fr: /fr/hebergement/a-vendre.html
   de: /de/uebernachten/zu-kaufen.html
   en: /en/accomodation/for-sale.html
+c_10:
+  nl: /nl/overnachten/te-koop/caravanC10.html
+  fr: /fr/hebergement/a-vendre/caravanC10.html
+  de: /de/uebernachten/zu-kaufen/caravanC10.html
 f_11:
   nl: /nl/overnachten/te-koop/caravanF11.html
   fr: /fr/hebergement/a-vendre/caravanF11.html
   de: /de/uebernachten/zu-kaufen/caravanF11.html
-f_15:
-  nl: /nl/overnachten/te-koop/caravanF15.html
-  fr: /fr/hebergement/a-vendre/caravanF15.html
-  de: /de/uebernachten/zu-kaufen/caravanF15.html
 
 # [3] menu - voorzieningen
 voorzieningen:
