@@ -42,4 +42,4 @@ Verteilung von Betten       |1x Doppelbett + 2x Einzelbett
 Fenster                     |Doppelverglasung
 Heizung                     |Zentralheizung
 Hausrat                     |inbegriffen ausserhalb persönliche Sachen, Fernseher & Gartenmöbel
-Standgebühr 2023            |inbegriffen
+Standgebühr 2026            |inbegriffen
