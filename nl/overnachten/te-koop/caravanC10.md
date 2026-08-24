@@ -4,7 +4,7 @@ title: Caravan C 10
 preview:
     title: Caravan C 10
     list:
-        - "prijs: € 55.000"
+        - "prijs: € 45.000"
         - "type 2"
         - "beschikbaar: direct"
 

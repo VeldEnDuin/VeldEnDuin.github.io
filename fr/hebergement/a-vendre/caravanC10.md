@@ -4,7 +4,7 @@ title: Caravane C 10
 preview:
     title: Caravane C 10
     list:
-        - "prix: € 55.000"
+        - "prix: € 45.000"
         - "type 2"
         - "disponible: direct"
 

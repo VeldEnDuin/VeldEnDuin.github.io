@@ -4,7 +4,7 @@ title: Caravan C 10
 preview:
     title: Caravan C 10
     list:
-        - "Preis: € 55.000"
+        - "Preis: € 45.000"
         - "type 2"
         - "Verfügbar: ab sofort"
 
