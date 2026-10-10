@@ -7,3 +7,5 @@ testit/
 .jekyll-cache/
 
 ruby
+
+.agents/
