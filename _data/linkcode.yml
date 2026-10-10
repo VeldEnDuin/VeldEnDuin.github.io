@@ -295,10 +295,10 @@ te_koop:
   fr: /fr/hebergement/a-vendre.html
   de: /de/uebernachten/zu-kaufen.html
   en: /en/accomodation/for-sale.html
-a_21:
-  nl: /nl/overnachten/te-koop/caravanA21.html
-  fr: /fr/hebergement/a-vendre/caravanA21.html
-  de: /de/uebernachten/zu-kaufen/caravanA21.html
+d_22:
+  nl: /nl/overnachten/te-koop/caravanD22.html
+  fr: /fr/hebergement/a-vendre/caravanD22.html
+  de: /de/uebernachten/zu-kaufen/caravanD22.html
 
 # [3] menu - voorzieningen
 voorzieningen:
